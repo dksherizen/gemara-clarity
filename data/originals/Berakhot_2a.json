@@ -1,0 +1,1201 @@
+{
+  "overview": "This first chunk is the opening משנה of מסכת ברכות. It asks when evening קריאת שמע begins, gives the starting point, then presents three views about the ending time, followed by a story and a rule that explains how to understand the חכמים when they say \"until midnight.\"",
+  "steps": [
+    {
+      "whatsHappening": "The משנה opens the מסכת by defining the beginning time of evening קריאת שמע. It is starting with the basic time frame before discussing the latest time.",
+      "branchRole": "opens_new_branch",
+      "simpleTranslation": "From when does one recite שמע in the evening? From the time that the כהנים enter to eat their תרומה.",
+      "macroPhase": "mishnah",
+      "stepNumber": 1,
+      "dependsOnStepNumbers": [],
+      "phrases": [
+        {
+          "aramaic": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע",
+          "phraseNumber": 1,
+          "english": "From when does one recite Shema",
+          "notes": "Opening question of the משנה."
+        },
+        {
+          "notes": "Specifies the nighttime שמע.",
+          "phraseNumber": 2,
+          "english": "in the evening?",
+          "aramaic": "בָּעֲרָבִין?"
+        },
+        {
+          "aramaic": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים",
+          "phraseNumber": 3,
+          "english": "From the time that the priests enter",
+          "notes": "Beginning time marker."
+        },
+        {
+          "aramaic": "לֶאֱכוֹל בִּתְרוּמָתָן.",
+          "phraseNumber": 4,
+          "english": "to eat their teruma.",
+          "notes": "The practical סימן for the start time."
+        }
+      ],
+      "scopeOfStep": "legal_rule",
+      "triggerLanguage": "מֵאֵימָתַי",
+      "title": "The משנה opens with the time for evening שמע",
+      "hebrewStepName": "מימרא",
+      "relationToPreviousStep": "Opening of the sugya.",
+      "classificationConfidence": "High",
+      "stepSummary": "The משנה begins by asking from when one says evening קריאת שמע, and gives the starting time as when כהנים may begin eating תרומה.",
+      "deeperAnalysis": "Instead of saying a clock time, the משנה uses a הלכתי marker: when כהנים become permitted to eat תרומה. That means the learner must notice that the משנה is tying one law to another law's timing.",
+      "keyTerms": [
+        {
+          "term": "מֵאֵימָתַי",
+          "meaning": "from when; starting at what time"
+        },
+        {
+          "term": "קוֹרִין אֶת שְׁמַע",
+          "meaning": "recite שמע"
+        },
+        {
+          "term": "בָּעֲרָבִין",
+          "meaning": "in the evenings"
+        },
+        {
+          "term": "כֹּהֲנִים",
+          "meaning": "priests"
+        },
+        {
+          "meaning": "their תרומה portion",
+          "term": "תְּרוּמָתָן"
+        }
+      ],
+      "mimraCoreRuling": "The beginning time of evening קריאת שמע is when כהנים may eat תרומה."
+    },
+    {
+      "stepNumber": 2,
+      "whatsHappening": "The משנה now moves from the starting time to the ending time. It presents the first opinion, that of רבי אליעזר.",
+      "branchRole": "continues_current_line",
+      "macroPhase": "mishnah",
+      "simpleTranslation": "Until the end of the first watch. These are the words of רבי אליעזר.",
+      "phrases": [
+        {
+          "notes": "Latest time according to רבי אליעזר.",
+          "phraseNumber": 1,
+          "english": "Until the end of the first watch.",
+          "aramaic": "עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה."
+        },
+        {
+          "phraseNumber": 2,
+          "english": "These are the words of Rabbi Eliezer.",
+          "notes": "Attribution of the opinion.",
+          "aramaic": "דִּבְרֵי רַבִּי אֱלִיעֶזֶר."
+        }
+      ],
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "triggerLanguage": "דִּבְרֵי רַבִּי אֱלִיעֶזֶר",
+      "title": "Rabbi Eliezer gives the latest time",
+      "scopeOfStep": "legal_rule",
+      "classificationConfidence": "High",
+      "stepSummary": "The משנה now gives רבי אליעזר's view: evening קריאת שמע may be said only until the end of the first watch of the night.",
+      "mimraCoreRuling": "According to רבי אליעזר, evening קריאת שמע ends at the first watch.",
+      "keyTerms": [
+        {
+          "term": "סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה",
+          "meaning": "the end of the first watch of the night"
+        },
+        {
+          "term": "דִּבְרֵי רַבִּי אֱלִיעֶזֶר",
+          "meaning": "these are the words of רבי אליעזר"
+        }
+      ],
+      "deeperAnalysis": "This is a narrower end time than the full night. The משנה is building a three-way dispute about how long the nighttime mitzvah lasts.",
+      "relationToPreviousStep": "Gives the first ending-time opinion after the opening start time.",
+      "hebrewStepName": "מימרא"
+    },
+    {
+      "triggerLanguage": "וַחֲכָמִים אוֹמְרִים",
+      "title": "The Rabbis set the time until midnight",
+      "scopeOfStep": "legal_rule",
+      "classificationConfidence": "High",
+      "stepSummary": "The משנה presents the view of חכמים that evening קריאת שמע may be recited until midnight.",
+      "keyTerms": [
+        {
+          "meaning": "the Rabbis say",
+          "term": "חֲכָמִים אוֹמְרִים"
+        },
+        {
+          "meaning": "midnight",
+          "term": "חֲצוֹת"
+        }
+      ],
+      "deeperAnalysis": "חכמים extend the time beyond רבי אליעזר's first watch, but not as far as dawn. The sugya will later need to explain whether midnight is the real deadline or a protective limit.",
+      "mimraCoreRuling": "According to חכמים, evening קריאת שמע is until midnight.",
+      "hebrewStepName": "מימרא",
+      "relationToPreviousStep": "Adds a second opinion with a later deadline.",
+      "stepNumber": 3,
+      "whatsHappening": "The משנה gives a second opinion about the latest time. This is a middle position between an early cutoff and the whole night.",
+      "branchRole": "continues_current_line",
+      "simpleTranslation": "And the Rabbis say: Until midnight.",
+      "macroPhase": "mishnah",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "english": "And the Rabbis say:",
+          "notes": "Introduces the second opinion.",
+          "aramaic": "וַחֲכָמִים אוֹמְרִים:"
+        },
+        {
+          "notes": "Their stated deadline.",
+          "english": "Until midnight.",
+          "phraseNumber": 2,
+          "aramaic": "עַד חֲצוֹת."
+        }
+      ],
+      "dependsOnStepNumbers": [
+        2
+      ]
+    },
+    {
+      "phrases": [
+        {
+          "aramaic": "רַבָּן גַּמְלִיאֵל אוֹמֵר",
+          "notes": "Introduces the third opinion.",
+          "phraseNumber": 1,
+          "english": "Rabban Gamliel says"
+        },
+        {
+          "english": "until dawn rises.",
+          "phraseNumber": 2,
+          "notes": "His latest time is dawn.",
+          "aramaic": "עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר."
+        }
+      ],
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "stepNumber": 4,
+      "simpleTranslation": "Rabban Gamliel says: Until the dawn rises.",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "whatsHappening": "The משנה now gives the broadest opinion about the latest time. It is completing the three-way dispute.",
+      "deeperAnalysis": "רבן גמליאל treats the mitzvah as lasting through the night until dawn. The next story will show this opinion in practice and explain its relationship to חכמים.",
+      "mimraCoreRuling": "According to רבן גמליאל, evening קריאת שמע may be recited until dawn.",
+      "keyTerms": [
+        {
+          "meaning": "Rabban Gamliel",
+          "term": "רַבָּן גַּמְלִיאֵל"
+        },
+        {
+          "term": "עַמּוּד הַשַּׁחַר",
+          "meaning": "dawn; the rise of first light"
+        }
+      ],
+      "stepSummary": "The משנה gives a third opinion: רבן גמליאל says the time lasts until dawn.",
+      "classificationConfidence": "High",
+      "hebrewStepName": "מימרא",
+      "relationToPreviousStep": "Adds the third and latest deadline.",
+      "title": "Rabban Gamliel allows until dawn",
+      "triggerLanguage": "רַבָּן גַּמְלִיאֵל אוֹמֵר",
+      "scopeOfStep": "legal_rule"
+    },
+    {
+      "hebrewStepName": "ראיה",
+      "relationToPreviousStep": "Moves from abstract opinions to a practical case.",
+      "raayaObject": "How late one may still recite evening קריאת שמע.",
+      "classificationConfidence": "High",
+      "stepSummary": "The משנה brings a story: רבן גמליאל's sons came back late from a feast and told him they had not yet said קריאת שמע.",
+      "raayaSupportSource": "A story involving רבן גמליאל and his sons.",
+      "deeperAnalysis": "The sons are in a case of delay: it is very late, and they are unsure whether the mitzvah time has passed. The story is not just narrative; it is evidence for how to apply the time dispute.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשֶׂה",
+          "meaning": "an incident; a story used as a case"
+        },
+        {
+          "term": "בֵּית הַמִּשְׁתֶּה",
+          "meaning": "a banquet hall; house of feasting"
+        },
+        {
+          "meaning": "we did not recite",
+          "term": "לֹא קָרִינוּ"
+        }
+      ],
+      "scopeOfStep": "case_definition",
+      "triggerLanguage": "מַעֲשֶׂה",
+      "title": "A story about Rabban Gamliel’s sons returning late",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "phrases": [
+        {
+          "aramaic": "מַעֲשֶׂה וּבָאוּ בָנָיו",
+          "english": "There was an incident, and his sons came",
+          "phraseNumber": 1,
+          "notes": "Begins the story."
+        },
+        {
+          "english": "from the house of feasting,",
+          "phraseNumber": 2,
+          "notes": "They returned late from a celebration.",
+          "aramaic": "מִבֵּית הַמִּשְׁתֶּה,"
+        },
+        {
+          "phraseNumber": 3,
+          "english": "they said to him:",
+          "notes": "Introduces their question/report.",
+          "aramaic": "אָמְרוּ לוֹ:"
+        },
+        {
+          "english": "We did not recite Shema,",
+          "phraseNumber": 4,
+          "notes": "They have not yet fulfilled the mitzvah.",
+          "aramaic": "לֹא קָרִינוּ אֶת שְׁמַע,"
+        }
+      ],
+      "whatsHappening": "The משנה is now bringing a story to set up how רבן גמליאל's view works in real life. This story prepares the next ruling.",
+      "branchRole": "opens_new_branch",
+      "macroPhase": "mishnah",
+      "simpleTranslation": "There was an incident: His sons came from the house of feasting. They said to him: We did not recite Shema.",
+      "stepNumber": 5
+    },
+    {
+      "scopeOfStep": "legal_rule",
+      "title": "He tells them they still must recite Shema before dawn",
+      "triggerLanguage": "אָמַר לָהֶם",
+      "relationToPreviousStep": "Answers the sons' late-night case.",
+      "hebrewStepName": "תשובה",
+      "classificationConfidence": "High",
+      "deeperAnalysis": "This applies his earlier opinion to the sons' case. The key change is from uncertainty to a clear instruction: the obligation is still active before עמוד השחר.",
+      "keyTerms": [
+        {
+          "meaning": "you are obligated",
+          "term": "חַיָּיבִין אַתֶּם"
+        },
+        {
+          "meaning": "to recite",
+          "term": "לִקְרוֹת"
+        }
+      ],
+      "stepSummary": "רבן גמליאל answers that if dawn has not yet arrived, they are still obligated to recite קריאת שמע.",
+      "branchRole": "continues_current_line",
+      "whatsHappening": "רבן גמליאל answers the practical case directly. He rules that the mitzvah still remains as long as it is before dawn.",
+      "simpleTranslation": "He said to them: If dawn has not yet risen, you are obligated to recite.",
+      "macroPhase": "mishnah",
+      "stepNumber": 6,
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "teshuvahAnswerProvided": "Before dawn, the obligation of evening קריאת שמע still remains according to רבן גמליאל.",
+      "phrases": [
+        {
+          "aramaic": "אָמַר לָהֶם:",
+          "notes": "Introduces the ruling.",
+          "phraseNumber": 1,
+          "english": "He said to them:"
+        },
+        {
+          "aramaic": "אִם לֹא עָלָה עַמּוּד הַשַּׁחַר",
+          "notes": "Condition for the ruling.",
+          "phraseNumber": 2,
+          "english": "If dawn has not yet risen"
+        },
+        {
+          "notes": "They must still say שמע.",
+          "english": "you are obligated to recite.",
+          "phraseNumber": 3,
+          "aramaic": "חַיָּיבִין אַתֶּם לִקְרוֹת."
+        }
+      ]
+    },
+    {
+      "hebrewStepName": "מסקנא",
+      "relationToPreviousStep": "Generalizes the story into a broader concluding rule.",
+      "confusionAlert": "Do not say that חכמים hold the mitzvah is inherently only until midnight. In this משנה's closing line, midnight is presented as the stated cutoff, while the mitzvah itself still lasts until עמוד השחר.",
+      "classificationConfidence": "High",
+      "whyThisMatters": "This closing rule becomes a model for reading many time limits in חז\"ל: sometimes the stated deadline is a protective boundary, while the underlying mitzvah window is longer.",
+      "deeperAnalysis": "This step explains the relationship between רבן גמליאל and חכמים: חכמים's wording does not erase the full-night mitzvah window. The practical statement of midnight functions as a protective deadline, while the core mitzvah time continues until עמוד השחר.",
+      "keyTerms": [
+        {
+          "meaning": "and not only this",
+          "term": "וְלֹא זוֹ בִּלְבַד"
+        },
+        {
+          "term": "מִצְוָתָן",
+          "meaning": "their mitzvah; the time for fulfilling them"
+        }
+      ],
+      "stepSummary": "The משנה concludes that this is not only true for שמע. In every case where חכמים said \"until midnight,\" the mitzvah really lasts until dawn.",
+      "scopeOfStep": "general_logic",
+      "whatToRemember": "In this משנה, the practical headline is: evening קריאת שמע starts when כהנים may eat תרומה. For the latest time, רבי אליעזר says first watch, חכמים say midnight, and רבן גמליאל says dawn; then the משנה explains that whenever חכמים say \"until midnight,\" the mitzvah itself extends until dawn.",
+      "title": "Midnight is not the final mitzvah deadline",
+      "triggerLanguage": "וְלֹא זוֹ בִּלְבַד אָמְרוּ",
+      "maskanaFinalTakeaway": "When חכמים say \"until midnight,\" the mitzvah itself extends until dawn.",
+      "dependsOnStepNumbers": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "phrases": [
+        {
+          "aramaic": "וְלֹא זוֹ בִּלְבַד אָמְרוּ,",
+          "english": "And not only this did they say,",
+          "phraseNumber": 1,
+          "notes": "Expands beyond the case of שמע."
+        },
+        {
+          "notes": "General rule about similar cases.",
+          "phraseNumber": 2,
+          "english": "but rather wherever the Rabbis said",
+          "aramaic": "אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים"
+        },
+        {
+          "notes": "The formula under discussion.",
+          "phraseNumber": 3,
+          "english": "\"until midnight,\"",
+          "aramaic": "״עַד חֲצוֹת״,"
+        },
+        {
+          "aramaic": "מִצְוָתָן עַד שֶׁיַּעֲלֶה",
+          "notes": "Real mitzvah window continues.",
+          "english": "their mitzvah is until there rises",
+          "phraseNumber": 4
+        },
+        {
+          "aramaic": "עַמּוּד הַשַּׁחַר.",
+          "phraseNumber": 5,
+          "english": "the dawn.",
+          "notes": "Final endpoint."
+        }
+      ],
+      "branchRole": "conclusion_of_branch",
+      "whatsHappening": "The משנה now states the broader rule behind the story. It is concluding that \"until midnight\" said by חכמים is a limit they stated, but the mitzvah itself lasts until dawn.",
+      "simpleTranslation": "And not only this did they say, but rather wherever the Rabbis said: Until midnight, their mitzva is until dawn rises.",
+      "macroPhase": "conclusion",
+      "stepNumber": 7
+    },
+    {
+      "title": "The משנה generalizes the rule to other mitzvot",
+      "triggerLanguage": "אִם כֵּן, לָמָה אָמְרוּ חֲכָמִים ... כְּדֵי",
+      "scopeOfStep": "general_logic",
+      "whatToRemember": "A major יסוד of this משנה: when חז״ל say \"until midnight\" here, they are often giving a protective deadline, while the core mitzvah-time still runs until dawn.",
+      "whyThisMatters": "This line gives the reason for the whole rabbinic cutoff. It teaches how חז״ל build protective fences around a Torah mitzvah-time.",
+      "classificationConfidence": "High",
+      "keyTerms": [
+        {
+          "term": "הֶקְטֵר חֲלָבִים וְאֵבָרִים",
+          "meaning": "burning the fats and limbs of offerings on the מזבח"
+        },
+        {
+          "meaning": "dawn",
+          "term": "עַמּוּד הַשַּׁחַר"
+        },
+        {
+          "meaning": "offerings that may be eaten for one day",
+          "term": "הַנֶּאֱכָלִים לְיוֹם אֶחָד"
+        },
+        {
+          "meaning": "until midnight",
+          "term": "עַד חֲצוֹת"
+        },
+        {
+          "term": "לְהַרְחִיק אָדָם מִן הָעֲבֵירָה",
+          "meaning": "to distance a person from sin"
+        }
+      ],
+      "deeperAnalysis": "This step explains the pattern behind the earlier case of קריאת שמע. The real mitzvah-time lasts until dawn, but חז״ל moved the practical deadline earlier so a person will not delay and miss it.",
+      "stepSummary": "The משנה says that burning sacrificial fats and limbs, and offerings eaten for one day, really remain valid until dawn. It then explains that חז״ל’s limit of midnight was only a protective fence.",
+      "hebrewStepName": "מסקנא",
+      "relationToPreviousStep": "The משנה now closes the discussion by explaining the broader rule behind רבן גמליאל’s answer.",
+      "stepNumber": 8,
+      "branchRole": "conclusion_of_branch",
+      "whatsHappening": "The משנה finishes its larger point: \"until midnight\" is not the real Torah deadline in these cases. It is a safety rule made by חז״ל.",
+      "simpleTranslation": "The burning of fats and limbs is valid until dawn, and all offerings eaten for one day are also valid until dawn. If so, why did חז״ל say until midnight? To distance a person from sin.",
+      "macroPhase": "conclusion",
+      "alternativePossibleLabel": "",
+      "phrases": [
+        {
+          "aramaic": "הֶקְטֵר חֲלָבִים וְאֵבָרִים,",
+          "phraseNumber": 1,
+          "english": "The burning of fats and limbs,",
+          "notes": "A sacrificial service done on the altar."
+        },
+        {
+          "aramaic": "מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר",
+          "notes": "This is the true endpoint.",
+          "phraseNumber": 2,
+          "english": "their mitzvah lasts until dawn rises"
+        },
+        {
+          "phraseNumber": 3,
+          "english": "and all offerings that are eaten for one day,",
+          "notes": "Another example category.",
+          "aramaic": "וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד,"
+        },
+        {
+          "phraseNumber": 4,
+          "english": "their mitzvah lasts until dawn rises.",
+          "notes": "Again, the real deadline is dawn.",
+          "aramaic": "מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר."
+        },
+        {
+          "notes": "The משנה now asks its own explanatory question.",
+          "english": "If so, why did the Sages say",
+          "phraseNumber": 5,
+          "aramaic": "אִם כֵּן, לָמָה אָמְרוּ חֲכָמִים"
+        },
+        {
+          "english": "\"until midnight\"",
+          "phraseNumber": 6,
+          "notes": "The earlier rabbinic limit.",
+          "aramaic": "״עַד חֲצוֹת״"
+        },
+        {
+          "notes": "The reason for the fence.",
+          "phraseNumber": 7,
+          "english": "— in order to distance a person from transgression.",
+          "aramaic": "— כְּדֵי לְהַרְחִיק אָדָם מִן הָעֲבֵירָה:"
+        }
+      ],
+      "maskanaFinalTakeaway": "In these cases, the real mitzvah-time lasts until dawn; \"until midnight\" is a protective rabbinic fence.",
+      "dependsOnStepNumbers": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "phrases": [
+        {
+          "aramaic": "תַּנָּא הֵיכָא קָאֵי",
+          "phraseNumber": 1,
+          "english": "Where is the tanna standing",
+          "notes": "Meaning: what prior context is he assuming?"
+        },
+        {
+          "english": "that he teaches, \"From when\"?",
+          "phraseNumber": 2,
+          "notes": "Why begin with a timing question?",
+          "aramaic": "דְּקָתָנֵי ״מֵאֵימָתַי״?"
+        }
+      ],
+      "alternativePossibleLabel": "",
+      "macroPhase": "opening_question",
+      "simpleTranslation": "The גמרא asks: Where is the תנא standing, that he teaches \"From when\"?",
+      "branchRole": "opens_new_branch",
+      "whatsHappening": "The גמרא is starting a new analysis of the very first משנה. It asks why the משנה opens as if the topic was already introduced earlier.",
+      "stepNumber": 9,
+      "hebrewStepName": "שאלה",
+      "relationToPreviousStep": "After the משנה ends, the גמרא now opens its analysis of the wording of the first משנה.",
+      "keyTerms": [
+        {
+          "meaning": "the משנה-teacher",
+          "term": "תַּנָּא"
+        },
+        {
+          "term": "הֵיכָא קָאֵי",
+          "meaning": "where is he standing; what prior basis is he assuming"
+        },
+        {
+          "meaning": "that he teaches",
+          "term": "דְּקָתָנֵי"
+        },
+        {
+          "meaning": "from when",
+          "term": "מֵאֵימָתַי"
+        }
+      ],
+      "deeperAnalysis": "\"מֵאֵימָתַי\" usually sounds like timing details of something already established. But this is the opening משנה, so the גמרא wants to know why the תנא chose that style.",
+      "stepSummary": "The גמרא opens by asking what earlier discussion the תנא is standing on when he says \"מֵאֵימָתַי.\" That wording sounds like the basic obligation was already known.",
+      "classificationConfidence": "High",
+      "scopeOfStep": "wording",
+      "title": "Why does the first משנה say \"From when\"?",
+      "triggerLanguage": "הֵיכָא קָאֵי",
+      "sheelahInformationSought": "Why the first משנה uses wording that sounds like it is continuing an already-known obligation."
+    },
+    {
+      "deeperAnalysis": "Even if evening קריאת שמע is a valid place to start, the גמרא still wants to know why it comes before morning קריאת שמע. The order itself needs explanation.",
+      "keyTerms": [
+        {
+          "meaning": "and furthermore",
+          "term": "וְתוּ"
+        },
+        {
+          "term": "מַאי שְׁנָא",
+          "meaning": "what is different; why specifically this one"
+        },
+        {
+          "meaning": "the evening recitation",
+          "term": "בְּעַרְבִית"
+        },
+        {
+          "meaning": "first",
+          "term": "בְּרֵישָׁא"
+        },
+        {
+          "meaning": "the morning recitation",
+          "term": "דְּשַׁחֲרִית"
+        }
+      ],
+      "stepSummary": "The גמרא adds a second opening question: why teach ערבית first? It seems more natural to start with שחרית.",
+      "classificationConfidence": "High",
+      "relationToPreviousStep": "The גמרא strengthens its opening analysis with a second question about the משנה’s order.",
+      "hebrewStepName": "שאלה",
+      "title": "Why does the משנה start with evening before morning?",
+      "triggerLanguage": "וְתוּ: מַאי שְׁנָא",
+      "sheelahInformationSought": "Why the תנא chose to begin the tractate with evening קריאת שמע rather than morning קריאת שמע.",
+      "scopeOfStep": "wording",
+      "phrases": [
+        {
+          "notes": "A second question is being added.",
+          "english": "And furthermore: What is different",
+          "phraseNumber": 1,
+          "aramaic": "וְתוּ: מַאי שְׁנָא"
+        },
+        {
+          "notes": "Why begin with the night-time law?",
+          "english": "that he taught evening first?",
+          "phraseNumber": 2,
+          "aramaic": "דְּתָנֵי בְּעַרְבִית בְּרֵישָׁא?"
+        },
+        {
+          "phraseNumber": 3,
+          "english": "Let him teach morning first!",
+          "notes": "The suggested more natural order.",
+          "aramaic": "לִתְנֵי דְּשַׁחֲרִית בְּרֵישָׁא!"
+        }
+      ],
+      "alternativePossibleLabel": "",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "stepNumber": 10,
+      "macroPhase": "opening_question",
+      "simpleTranslation": "And furthermore: What is different about evening, that he taught it first? Let him teach morning first.",
+      "branchRole": "continues_current_line",
+      "whatsHappening": "The גמרא adds another structural question about the first משנה. It is still setting up the opening problem before giving one answer to both questions."
+    },
+    {
+      "scopeOfStep": "source_reading",
+      "terutzHavaAmina": "Without this answer, the משנה looked like it assumed prior discussion and chose an odd order.",
+      "whatToRemember": "The first משנה is arranged by the פסוק: first \"בְּשָׁכְבְּךָ,\" then \"וּבְקוּמֶךָ.\" That is why it opens with evening קריאת שמע and asks when that night-time period begins.",
+      "terutzResolutionType": "Reframing the משנה as following the order and language of a פסוק.",
+      "triggerLanguage": "אַקְּרָא קָאֵי, דִּכְתִיב",
+      "title": "The תנא follows the order of the פסוק",
+      "hebrewStepName": "תשובה",
+      "relationToPreviousStep": "The גמרא now resolves both opening questions with one verse-based explanation.",
+      "classificationConfidence": "High",
+      "whyThisMatters": "This answer shows that the structure of the משנה is not random. The Oral Torah is being organized to match the Torah’s own wording.",
+      "confusionAlert": "Do not read the גמרא as saying the obligation of קריאת שמע was unknown before the משנה. The question is only why the משנה chose this opening wording and order.",
+      "stepSummary": "The גמרא answers both questions together: the תנא is based on the פסוק \"בְּשָׁכְבְּךָ וּבְקוּמֶךָ.\" So he starts with the time of lying down, meaning evening קריאת שמע.",
+      "deeperAnalysis": "Once the תנא is read as building directly from \"בְּשָׁכְבְּךָ וּבְקוּמֶךָ,\" both problems disappear. \"מֵאֵימָתַי\" means: when does the Torah’s \"lying down\" time begin, and that is why evening comes first.",
+      "keyTerms": [
+        {
+          "term": "אַקְּרָא קָאֵי",
+          "meaning": "he is based on the verse"
+        },
+        {
+          "meaning": "as it is written",
+          "term": "דִּכְתִיב"
+        },
+        {
+          "meaning": "when you lie down and when you rise",
+          "term": "בְּשָׁכְבְּךָ וּבְקוּמֶךָ"
+        },
+        {
+          "term": "זְמַן קְרִיאַת שְׁמַע דִּשְׁכִיבָה",
+          "meaning": "the time of קריאת שמע of lying down"
+        },
+        {
+          "meaning": "the priests enter to eat their תרומה",
+          "term": "הַכֹּהֲנִים נִכְנָסִין לֶאֱכוֹל בִּתְרוּמָתָן"
+        }
+      ],
+      "whatsHappening": "The גמרא now gives one answer to both earlier questions. The משנה starts with evening because the תנא is following the Torah’s wording in the פסוק.",
+      "branchRole": "conclusion_of_branch",
+      "simpleTranslation": "The תנא is standing on the verse, as it is written: \"when you lie down and when you rise.\" And this is what he teaches: When is the time of the recitation of שמע of lying down? From the time that the priests enter to eat their תרומה.",
+      "macroPhase": "clarification_of_terms",
+      "terutzMaskana": "The משנה is intentionally built from \"בְּשָׁכְבְּךָ וּבְקוּמֶךָ,\" so evening comes first and \"מֵאֵימָתַי\" asks when the Torah’s lying-down time begins.",
+      "stepNumber": 11,
+      "dependsOnStepNumbers": [
+        9,
+        10
+      ],
+      "teshuvahAnswerProvided": "The תנא is following the פסוק and therefore opens with the time of evening קריאת שמע: from when the כהנים enter to eat תרומה.",
+      "alternativePossibleLabel": "",
+      "phrases": [
+        {
+          "aramaic": "תַּנָּא אַקְּרָא קָאֵי,",
+          "notes": "This answers the structural questions.",
+          "phraseNumber": 1,
+          "english": "The tanna is based on the verse,"
+        },
+        {
+          "aramaic": "דִּכְתִיב: ״בְּשָׁכְבְּךָ וּבְקוּמֶךָ״.",
+          "english": "as it is written: \"when you lie down and when you rise.\"",
+          "phraseNumber": 2,
+          "notes": "The verse gives the order: night first, then day."
+        },
+        {
+          "aramaic": "וְהָכִי קָתָנֵי:",
+          "phraseNumber": 3,
+          "english": "And this is what he teaches:",
+          "notes": "The גמרא now paraphrases the משנה."
+        },
+        {
+          "phraseNumber": 4,
+          "english": "When is the time for the recitation of Shema of lying down?",
+          "notes": "This explains the meaning of \"מֵאֵימָתַי.\"",
+          "aramaic": "זְמַן קְרִיאַת שְׁמַע דִּשְׁכִיבָה אֵימַת?"
+        },
+        {
+          "aramaic": "— מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִין",
+          "notes": "Beginning of the practical answer.",
+          "english": "— From the time that the priests enter",
+          "phraseNumber": 5
+        },
+        {
+          "aramaic": "לֶאֱכוֹל בִּתְרוּמָתָן.",
+          "english": "to eat their teruma.",
+          "phraseNumber": 6,
+          "notes": "The known marker for the start of the evening time."
+        }
+      ]
+    },
+    {
+      "simpleTranslation": "And if you want, say: he learns it from the creation of the world, as it is written: “And there was evening and there was morning, one day.”",
+      "macroPhase": "source_derivation",
+      "branchRole": "alternative_approach",
+      "whatsHappening": "The גמרא is giving an additional answer to the earlier question about why ערבית comes first. It says the order follows the way the Torah describes creation.",
+      "stepNumber": 12,
+      "dependsOnStepNumbers": [
+        9,
+        10,
+        11
+      ],
+      "teshuvahAnswerProvided": "The תנא starts with evening because the Torah’s description of creation also places evening before morning.",
+      "phrases": [
+        {
+          "aramaic": "וְאִי בָּעֵית אֵימָא:",
+          "notes": "Introduces an alternate answer, not a rejection of the first one.",
+          "phraseNumber": 1,
+          "english": "And if you want, say:"
+        },
+        {
+          "notes": "A second basis for putting evening first.",
+          "english": "he derives it from the creation of the world,",
+          "phraseNumber": 2,
+          "aramaic": "יָלֵיף מִבְּרִיָּיתוֹ שֶׁל עוֹלָם,"
+        },
+        {
+          "english": "as it is written:",
+          "phraseNumber": 3,
+          "notes": "Introduces the verse.",
+          "aramaic": "דִּכְתִיב:"
+        },
+        {
+          "english": "“And there was evening and there was morning, one day.”",
+          "phraseNumber": 4,
+          "notes": "The verse presents evening before morning.",
+          "aramaic": "״וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד״."
+        }
+      ],
+      "alternativePossibleLabel": "ראיה",
+      "scopeOfStep": "source_reading",
+      "title": "A second reason to start with evening",
+      "triggerLanguage": "וְאִי בָּעֵית אֵימָא",
+      "hebrewStepName": "תשובה",
+      "relationToPreviousStep": "The גמרא adds a second answer to the opening question instead of relying only on the earlier פסוק.",
+      "deeperAnalysis": "Until now, the answer was based on the פסוק of \"בְּשָׁכְבְּךָ וּבְקוּמֶךָ.\" Now the גמרא adds a second support: the world itself is described as evening first, then morning. So evening-first is not random; it matches a Torah pattern.",
+      "keyTerms": [
+        {
+          "meaning": "and if you want, say; an alternate answer",
+          "term": "וְאִי בָּעֵית אֵימָא"
+        },
+        {
+          "meaning": "he derives / learns",
+          "term": "יָלֵיף"
+        },
+        {
+          "term": "מִבְּרִיָּיתוֹ שֶׁל עוֹלָם",
+          "meaning": "from the creation of the world"
+        },
+        {
+          "term": "דִּכְתִיב",
+          "meaning": "as it is written"
+        }
+      ],
+      "stepSummary": "The גמרא offers another answer for why the תנא began with evening קריאת שמע: the order follows creation, where evening comes before morning.",
+      "classificationConfidence": "High"
+    },
+    {
+      "triggerLanguage": "אִי הָכִי",
+      "title": "A later משנה seems to list morning first",
+      "kashyaAttackLogic": "If evening-first is the organizing principle, the later משנה about the ברכות should also have listed ערבית before שחרית.",
+      "scopeOfStep": "general_logic",
+      "stepSummary": "The גמרא challenges this evening-first logic from the later משנה about the ברכות of קריאת שמע, where morning is listed before evening.",
+      "deeperAnalysis": "This is a real test of consistency. If the תנא is carefully following an evening-first order, that pattern should appear later too. Since it does not, the גמרא asks whether the earlier explanation is enough.",
+      "keyTerms": [
+        {
+          "meaning": "if so",
+          "term": "אִי הָכִי"
+        },
+        {
+          "meaning": "the later clause / end section",
+          "term": "סֵיפָא"
+        },
+        {
+          "term": "דְּקָתָנֵי",
+          "meaning": "that it teaches"
+        },
+        {
+          "term": "לִתְנֵי",
+          "meaning": "let it teach / it should teach"
+        },
+        {
+          "term": "בְּרֵישָׁא",
+          "meaning": "first / at the beginning"
+        }
+      ],
+      "classificationConfidence": "High",
+      "hebrewStepName": "קשיא",
+      "relationToPreviousStep": "The גמרא tests the new explanation against a later part of the משנה.",
+      "stepNumber": 13,
+      "kashyaTarget": "The claim that the תנא consistently gives evening priority because evening comes first.",
+      "simpleTranslation": "If so, the latter clause that teaches: “In the morning he recites two before it and one after it; in the evening he recites two before it and two after it” — it should have taught evening first!",
+      "macroPhase": "objection_defense_cycle",
+      "whatsHappening": "The גמרא pushes back on the evening-first idea from another part of the משנה. If evening really has priority, why does that later line discuss שחרית before ערבית?",
+      "branchRole": "opens_new_branch",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "english": "If so,",
+          "notes": "Opens the challenge based on the previous answer.",
+          "aramaic": "אִי הָכִי,"
+        },
+        {
+          "aramaic": "סֵיפָא דְּקָתָנֵי",
+          "notes": "Refers to a later משנה passage.",
+          "phraseNumber": 2,
+          "english": "the latter clause that teaches"
+        },
+        {
+          "notes": "Beginning of the quoted משנה.",
+          "english": "“In the morning he recites two blessings before it",
+          "phraseNumber": 3,
+          "aramaic": "״בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ"
+        },
+        {
+          "aramaic": "וְאַחַת לְאַחֲרֶיהָ,",
+          "phraseNumber": 4,
+          "english": "and one after it,",
+          "notes": "Completes the morning side."
+        },
+        {
+          "aramaic": "בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ",
+          "english": "in the evening he recites two blessings before it",
+          "phraseNumber": 5,
+          "notes": "Now the evening side is quoted."
+        },
+        {
+          "aramaic": "וּשְׁתַּיִם לְאַחֲרֶיהָ״,",
+          "phraseNumber": 6,
+          "english": "and two after it,”",
+          "notes": "Completes the evening side."
+        },
+        {
+          "phraseNumber": 7,
+          "english": "it should have taught evening first!",
+          "notes": "The challenge: the order there seems reversed.",
+          "aramaic": "לִתְנֵי דְּעַרְבִית בְּרֵישָׁא!"
+        }
+      ],
+      "alternativePossibleLabel": "שאלה",
+      "dependsOnStepNumbers": [
+        12
+      ]
+    },
+    {
+      "whatToRemember": "A תנא may keep one big opening order, but still arrange later details by topic flow.",
+      "terutzHavaAmina": "We assumed that if evening is first, every later list in the משנה must also put evening first.",
+      "scopeOfStep": "general_logic",
+      "title": "The תנא followed topic flow, not strict order everywhere",
+      "triggerLanguage": "תַּנָּא פָּתַח",
+      "terutzResolutionType": "distinguishing between overall sequence and local topic development",
+      "relationToPreviousStep": "This answers the challenge by distinguishing between the opening order and the order of later details.",
+      "hebrewStepName": "תירוץ",
+      "deeperAnalysis": "The answer is that there are two different kinds of order: opening order and local discussion order. The תנא honored evening-first at the start, but later, once שחרית was already on the table, he completed that topic before circling back to ערבית.",
+      "keyTerms": [
+        {
+          "term": "תַּנָּא פָּתַח",
+          "meaning": "the תנא opened / began"
+        },
+        {
+          "term": "וַהֲדַר",
+          "meaning": "and then / afterward"
+        },
+        {
+          "meaning": "once he was standing in / occupied with",
+          "term": "עַד דְּקָאֵי"
+        },
+        {
+          "meaning": "he explained the matters of",
+          "term": "פָּרֵישׁ מִילֵּי"
+        }
+      ],
+      "stepSummary": "The גמרא answers that the תנא did begin with ערבית, then moved to שחרית, and once he was already discussing שחרית he finished those details before returning to ערבית.",
+      "classificationConfidence": "High",
+      "simpleTranslation": "The תנא opened with evening, and then taught morning. Once he was standing in morning, he explained the matters of morning, and then explained the matters of evening.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "conclusion_of_branch",
+      "whatsHappening": "The גמרא defends the משנה’s later order. It says the תנא was following the flow of the discussion once he had already moved into שחרית.",
+      "stepNumber": 14,
+      "terutzMaskana": "The תנא began with evening overall, but later he finished the שחרית discussion once he was already there before returning to ערבית.",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "phrases": [
+        {
+          "notes": "Affirms the original evening-first structure.",
+          "phraseNumber": 1,
+          "english": "The תנא opened with evening,",
+          "aramaic": "תַּנָּא פָּתַח בְּעַרְבִית,"
+        },
+        {
+          "phraseNumber": 2,
+          "english": "and then taught morning,",
+          "notes": "He next moved to שחרית.",
+          "aramaic": "וַהֲדַר תָּנֵי בְּשַׁחֲרִית,"
+        },
+        {
+          "aramaic": "עַד דְּקָאֵי בְּשַׁחֲרִית,",
+          "notes": "This is the key transition logic.",
+          "english": "once he was already dealing with morning,",
+          "phraseNumber": 3
+        },
+        {
+          "aramaic": "פָּרֵישׁ מִילֵּי דְשַׁחֲרִית,",
+          "phraseNumber": 4,
+          "english": "he explained the matters of morning,",
+          "notes": "He completed the current topic."
+        },
+        {
+          "phraseNumber": 5,
+          "english": "and then explained the matters of evening.",
+          "notes": "Only afterward did he return to ערבית details.",
+          "aramaic": "וַהֲדַר פָּרֵישׁ מִילֵּי דְעַרְבִית."
+        }
+      ],
+      "alternativePossibleLabel": "תשובה"
+    },
+    {
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "alternativePossibleLabel": "קשיא",
+      "phrases": [
+        {
+          "aramaic": "אָמַר מָר",
+          "phraseNumber": 1,
+          "english": "The Master said",
+          "notes": "Standard formula introducing a quoted line from the משנה."
+        },
+        {
+          "aramaic": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים",
+          "notes": "Quotes the opening time marker.",
+          "phraseNumber": 2,
+          "english": "from the time that the priests enter"
+        },
+        {
+          "notes": "Completes the משנה’s wording.",
+          "english": "to eat their תרומה.",
+          "phraseNumber": 3,
+          "aramaic": "לֶאֱכוֹל בִּתְרוּמָתָן."
+        },
+        {
+          "notes": "The גמרא asks for the practical time behind the sign.",
+          "phraseNumber": 4,
+          "english": "Now then, when do priests eat תרומה?",
+          "aramaic": "מִכְּדִי כֹּהֲנִים אֵימַת קָא אָכְלִי תְּרוּמָה?"
+        },
+        {
+          "notes": "States the known time explicitly.",
+          "phraseNumber": 5,
+          "english": "From the time of the emergence of the stars,",
+          "aramaic": "— מִשְּׁעַת צֵאת הַכּוֹכָבִים,"
+        },
+        {
+          "notes": "The challenge is about why the משנה chose indirect wording.",
+          "english": "let it teach: “From the time of the emergence of the stars”!",
+          "phraseNumber": 6,
+          "aramaic": "לִתְנֵי: ״מִשְּׁעַת צֵאת הַכּוֹכָבִים״!"
+        }
+      ],
+      "whatsHappening": "The גמרא is moving to a new question on the משנה’s wording. It asks why the time for evening קריאת שמע is described indirectly through כהנים and תרומה.",
+      "branchRole": "opens_new_branch",
+      "simpleTranslation": "The Master said: From the time that the priests enter to eat their תרומה. Now then, when do priests eat תרומה? From the time of the emergence of the stars. Let it teach: “From the time of the emergence of the stars”!",
+      "macroPhase": "clarification_of_terms",
+      "stepNumber": 15,
+      "hebrewStepName": "שאלה",
+      "relationToPreviousStep": "After finishing the order question, the גמרא begins a new close reading of the משנה’s opening phrase.",
+      "classificationConfidence": "High",
+      "whyThisMatters": "This is the גמרא’s first example of a common move: not asking what the law is, but why the משנה chose a particular way to say it.",
+      "confusionAlert": "The גמרא is not doubting the actual זמן. It accepts that the time is צֵאת הַכּוֹכָבִים and is asking only why the משנה chose this wording.",
+      "stepSummary": "The גמרא now starts analyzing the opening line of the משנה itself. It asks why the משנה uses the indirect sign of כהנים eating תרומה instead of simply naming the time as צֵאת הַכּוֹכָבִים.",
+      "deeperAnalysis": "The גמרא assumes that כהנים eating תרומה begins at a known time: צֵאת הַכּוֹכָבִים. If so, the משנה seems unnecessarily roundabout. This sets up the next move, where the גמרא will explain what the indirect wording adds.",
+      "keyTerms": [
+        {
+          "term": "אָמַר מָר",
+          "meaning": "the Master said; the גמרא quotes the משנה for analysis"
+        },
+        {
+          "meaning": "enter to eat",
+          "term": "נִכְנָסִים לֶאֱכוֹל"
+        },
+        {
+          "meaning": "their תרומה",
+          "term": "בִּתְרוּמָתָן"
+        },
+        {
+          "meaning": "now then / after all",
+          "term": "מִכְּדִי"
+        },
+        {
+          "term": "צֵאת הַכּוֹכָבִים",
+          "meaning": "the emergence of the stars"
+        }
+      ],
+      "scopeOfStep": "wording",
+      "sheelahInformationSought": "Why the משנה defines the start time through כהנים eating תרומה instead of directly saying צֵאת הַכּוֹכָבִים.",
+      "triggerLanguage": "מִכְּדִי ... לִתְנֵי",
+      "title": "Why define the time through כהנים eating תרומה"
+    },
+    {
+      "terutzResolutionType": "The wording is justified because it teaches an extra הלכה.",
+      "title": "The משנה teaches an extra law through its wording",
+      "triggerLanguage": "מִלְּתָא אַגַּב אוֹרְחֵיהּ קָמַשְׁמַע לַן",
+      "scopeOfStep": "wording",
+      "terutzHavaAmina": "We thought the משנה should have used the simpler direct time expression.",
+      "whyThisMatters": "This is the first place the גמרא shows that a wording choice in a משנה may carry hidden legal information, not just style.",
+      "classificationConfidence": "High",
+      "keyTerms": [
+        {
+          "meaning": "an extra point taught along the way",
+          "term": "מִלְּתָא אַגַּב אוֹרְחֵיהּ"
+        },
+        {
+          "meaning": "priests",
+          "term": "כֹּהֲנִים"
+        },
+        {
+          "meaning": "with תרומה; eating תרומה",
+          "term": "בִּתְרוּמָה"
+        },
+        {
+          "term": "צֵאת הַכּוֹכָבִים",
+          "meaning": "the emergence of the stars"
+        },
+        {
+          "term": "כַּפָּרָה",
+          "meaning": "the atonement offering that completes purification"
+        }
+      ],
+      "deeperAnalysis": "So the wording is not random and not just poetic. By mentioning כהנים eating תרומה, the משנה quietly tells you both the time marker and the rule that only sunset-nightfall matters here, not later כַּפָּרָה.",
+      "stepSummary": "The גמרא answers that the משנה could have said צֵאת הַכּוֹכָבִים directly, but instead used כהנים eating תרומה to teach an extra point: כהנים begin then, and כַּפָּרָה is not required before eating תרומה.",
+      "hebrewStepName": "תשובה",
+      "relationToPreviousStep": "This directly answers why the משנה did not simply say צֵאת הַכּוֹכָבִים.",
+      "terutzMaskana": "The משנה intentionally used כהנים eating תרומה to teach both the time and that כַּפָּרָה does not delay eating תרומה.",
+      "stepNumber": 16,
+      "branchRole": "continues_current_line",
+      "whatsHappening": "The גמרא now answers the question from the previous step. It explains that the משנה used an indirect sign on purpose, because that wording teaches another הלכה too.",
+      "macroPhase": "clarification_of_terms",
+      "simpleTranslation": "The wording was chosen to teach something additional. The time when כהנים may eat תרומה is from צֵאת הַכּוֹכָבִים, and this also teaches that bringing the atonement offering does not hold them back from eating תרומה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "english": "It teaches us an additional matter along the way",
+          "notes": "The גמרא says the wording has a side lesson built into it.",
+          "aramaic": "מִלְּתָא אַגַּב אוֹרְחֵיהּ קָמַשְׁמַע לַן"
+        },
+        {
+          "notes": "This is the extra topic the משנה's wording lets us learn.",
+          "phraseNumber": 2,
+          "english": "When do priests eat teruma",
+          "aramaic": "כֹּהֲנִים אֵימַת קָא אָכְלִי בִּתְרוּמָה"
+        },
+        {
+          "aramaic": "מִשְּׁעַת צֵאת הַכּוֹכָבִים",
+          "phraseNumber": 3,
+          "english": "From the time the stars emerge",
+          "notes": "This identifies the actual time marker."
+        },
+        {
+          "aramaic": "וְהָא קָמַשְׁמַע לַן",
+          "notes": "The גמרא adds a second lesson from the same wording.",
+          "english": "And this also teaches us",
+          "phraseNumber": 4
+        },
+        {
+          "aramaic": "דְּכַפָּרָה לָא מְעַכְּבָא",
+          "notes": "Even before bringing the required offering, he may already eat תרומה once night has come.",
+          "phraseNumber": 5,
+          "english": "That atonement does not hold him back"
+        }
+      ],
+      "teshuvahAnswerProvided": "The indirect wording was chosen to include an additional legal teaching.",
+      "dependsOnStepNumbers": [
+        15
+      ]
+    },
+    {
+      "classificationConfidence": "High",
+      "stepSummary": "The גמרא brings a ברייתא on the פסוק 'וּבָא הַשֶּׁמֶשׁ וְטָהֵר' to support the rule. The ברייתא explains that sunset is what delays eating תרומה, but כַּפָּרָה is not what delays it.",
+      "raayaSupportSource": "A ברייתא interpreting the verse וּבָא הַשֶּׁמֶשׁ וְטָהֵר.",
+      "deeperAnalysis": "This is important because the previous step said the משנה hints to this law. Now the גמרא shows that the law is real and text-based: waiting for evening is essential, but waiting for the offering is not.",
+      "keyTerms": [
+        {
+          "meaning": "as it was taught in a ברייתא",
+          "term": "כִּדְתַנְיָא"
+        },
+        {
+          "term": "וּבָא הַשֶּׁמֶשׁ וְטָהֵר",
+          "meaning": "and the sun sets and it is purified"
+        },
+        {
+          "meaning": "the setting of his sun; arrival of evening",
+          "term": "בִּיאַת שִׁמְשׁוֹ"
+        },
+        {
+          "term": "מְעַכַּבְתּוֹ",
+          "meaning": "holds him back; prevents him"
+        },
+        {
+          "meaning": "his atonement offering",
+          "term": "כַּפָּרָתוֹ"
+        }
+      ],
+      "relationToPreviousStep": "This supports the extra law mentioned in the previous answer.",
+      "raayaObject": "That כַּפָּרָה does not delay a כהן from eating תרומה.",
+      "hebrewStepName": "ראיה",
+      "triggerLanguage": "כִּדְתַנְיָא",
+      "title": "A ברייתא supports that כַּפָּרָה does not delay תרומה",
+      "scopeOfStep": "source_reading",
+      "phrases": [
+        {
+          "english": "As it was taught in a baraita:",
+          "phraseNumber": 1,
+          "notes": "This introduces supporting source material.",
+          "aramaic": "כִּדְתַנְיָא:"
+        },
+        {
+          "notes": "The ברייתא begins from the verse.",
+          "phraseNumber": 2,
+          "english": "\"And the sun sets and it is purified\"",
+          "aramaic": "״וּבָא הַשֶּׁמֶשׁ וְטָהֵר״"
+        },
+        {
+          "aramaic": "בִּיאַת שִׁמְשׁוֹ מְעַכַּבְתּוֹ",
+          "phraseNumber": 3,
+          "english": "The setting of his sun prevents him",
+          "notes": "He cannot eat before evening arrives."
+        },
+        {
+          "aramaic": "מִלֶּאֱכוֹל בִּתְרוּמָה",
+          "english": "from eating teruma",
+          "phraseNumber": 4,
+          "notes": "This completes the first half of the rule."
+        },
+        {
+          "aramaic": "וְאֵין כַּפָּרָתוֹ מְעַכַּבְתּוֹ",
+          "notes": "The offering is not the delaying factor for תרומה.",
+          "english": "But his atonement does not prevent him",
+          "phraseNumber": 5
+        },
+        {
+          "aramaic": "מִלֶּאֱכוֹל בִּתְרוּמָה",
+          "notes": "This repeats the practical result.",
+          "phraseNumber": 6,
+          "english": "from eating teruma"
+        }
+      ],
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "stepNumber": 17,
+      "whatsHappening": "The גמרא now backs up its answer with a source. It brings a ברייתא that states the same rule explicitly from a פסוק.",
+      "branchRole": "continues_current_line",
+      "macroPhase": "source_derivation",
+      "simpleTranslation": "As taught in a ברייתא: 'And the sun sets and it is purified' means that the setting of his sun prevents him from eating תרומה, but his atonement does not prevent him from eating תרומה."
+    },
+    {
+      "stepNumber": 18,
+      "branchRole": "opens_new_branch",
+      "whatsHappening": "The גמרא is not rejecting the rule; it is now checking the proof carefully. It asks how the ברייתא knows to read the words of the פסוק that way.",
+      "macroPhase": "source_derivation",
+      "simpleTranslation": "And from where do we know that 'and the sun sets' means the setting of the sun, and that 'and it is purified' means the day becomes pure?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "english": "And from where do we know",
+          "notes": "This opens a question on the proof-text reading.",
+          "aramaic": "וּמִמַּאי"
+        },
+        {
+          "aramaic": "דְּהַאי ״וּבָא הַשֶּׁמֶשׁ״",
+          "phraseNumber": 2,
+          "english": "that this phrase 'and the sun sets'",
+          "notes": "The גמרא isolates the first phrase of the verse."
+        },
+        {
+          "phraseNumber": 3,
+          "english": "means the setting of the sun",
+          "notes": "Meaning actual sunset leading into night.",
+          "aramaic": "בִּיאַת הַשֶּׁמֶשׁ"
+        },
+        {
+          "aramaic": "וְהַאי ״וְטָהֵר״",
+          "notes": "Now the גמרא isolates the second phrase.",
+          "phraseNumber": 4,
+          "english": "and this phrase 'and it is purified'"
+        },
+        {
+          "notes": "That is, the day ended and the sky cleared into night.",
+          "phraseNumber": 5,
+          "english": "means the day became pure",
+          "aramaic": "טְהַר יוֹמָא"
+        }
+      ],
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "title": "How do we know the verse means sunset and the day becoming pure",
+      "sheelahInformationSought": "What textual basis proves that the verse refers to sunset and the day ending, rather than some other kind of purification.",
+      "triggerLanguage": "וּמִמַּאי",
+      "scopeOfStep": "source_reading",
+      "whatToRemember": "So far the גמרא's answer is: the משנה used כהנים eating תרומה to teach two things at once. Then it brought a ברייתא to support that lack of כַּפָּרָה does not delay תרומה, and now it begins to analyze that ברייתא's reading of the פסוק.",
+      "confusionAlert": "Do not confuse 'וְטָהֵר' here with the person becoming fully pure through כַּפָּרָה. The גמרא is asking whether the word might instead mean that the day has cleared and ended.",
+      "classificationConfidence": "High",
+      "keyTerms": [
+        {
+          "term": "וּמִמַּאי",
+          "meaning": "and from where do we know"
+        },
+        {
+          "term": "בִּיאַת הַשֶּׁמֶשׁ",
+          "meaning": "the setting of the sun"
+        },
+        {
+          "meaning": "the day became pure; the day ended",
+          "term": "טְהַר יוֹמָא"
+        }
+      ],
+      "deeperAnalysis": "This is a classic next move in the גמרא: after bringing a source, it tests the source-reading itself. The issue is not the law yet, but whether the words of the פסוק really support that law.",
+      "stepSummary": "The גמרא now questions the ברייתא's reading of the פסוק. How do we know 'וּבָא הַשֶּׁמֶשׁ' means sunset, and 'וְטָהֵר' means the day has become pure?",
+      "hebrewStepName": "שאלה",
+      "relationToPreviousStep": "After citing the ברייתא, the גמרא now probes how that verse was interpreted."
+    }
+  ],
+  "mainTopic": "The opening משנה sets the time range for the evening קריאת שמע and records three opinions about its latest time."
+}

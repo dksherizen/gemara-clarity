@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-11T23:55:41.137Z",
+  "entries": [
+    {
+      "ref": "Berakhot 2a",
+      "masechet": "Berakhot",
+      "daf": 2,
+      "amud": "a",
+      "mainTopic": "Demo fixture · the opening משנה of ברכות on זמן קריאת שמע של ערבית",
+      "generatedAt": "2026-05-11T00:00:00.000Z",
+      "file": "Berakhot_2a.demo.json"
+    },
+    {
+      "ref": "Berakhot 2a",
+      "masechet": "Berakhot",
+      "daf": 2,
+      "amud": "a",
+      "mainTopic": "The time for reciting the evening Shema",
+      "generatedAt": "2026-05-11T23:55:30.142Z",
+      "file": "Berakhot_2a.json"
+    },
+    {
+      "ref": "Berakhot 2b",
+      "masechet": "Berakhot",
+      "daf": 2,
+      "amud": "b",
+      "mainTopic": "When evening Shema begins: sunset, nightfall, and related time-markers",
+      "generatedAt": "2026-05-11T23:34:18.469Z",
+      "file": "Berakhot_2b.json"
+    },
+    {
+      "ref": "Berakhot 2a",
+      "file": "progress.json"
+    }
+  ]
+}

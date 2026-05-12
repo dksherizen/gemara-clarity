@@ -1,0 +1,1142 @@
+{
+  "ref": "Berakhot 2a",
+  "masechet": "Berakhot",
+  "daf": 2,
+  "amud": "a",
+  "mainTopic": "The time for reciting the evening Shema",
+  "overview": "The amud opens with the Mishnah defining the permissible time for evening Shema, presenting three opinions and explaining that rabbinic deadlines of midnight are safeguards. The Gemara then asks why the Mishnah begins with evening Shema and why it uses the priests’ eating of terumah as its time marker, deriving that this corresponds to nightfall and teaches that atonement offerings do not delay eating terumah.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 5,
+      "topic": "Evening Shema time",
+      "gist": "The Mishnah records differing deadlines for evening Shema and explains that rabbinic midnight limits are safeguards against transgression.",
+      "openingFormula": "",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 6,
+      "endLine": 11,
+      "topic": "Why begin with evening",
+      "gist": "The Gemara explains that the Mishnah starts with evening Shema because it follows the verse 'when you lie down and when you rise' or the order of creation, and accounts for why later blessings are discussed in morning-first order.",
+      "openingFormula": "תנא היכא קאי",
+      "firstStepNumber": 4,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 12,
+      "endLine": 14,
+      "topic": "Priests eating terumah",
+      "gist": "The Gemara asks why the Mishnah identifies nightfall through priests entering to eat terumah and answers that it also teaches that sunset/nightfall, not completion of atonement offerings, permits them to eat.",
+      "openingFormula": "אמר מר",
+      "firstStepNumber": 10,
+      "lastStepNumber": 12
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Three Deadlines for Evening קריאת שמע",
+      "stepSummary": "The משנה opens by asking when evening קריאת שמע begins and records three opinions about how late it may be recited.",
+      "whatsHappening": "The משנה opens with a תנאי dispute over the latest time for evening קריאת שמע. רבי אליעזר says the first watch, חכמים say חצות, and רבן גמליאל says dawn.",
+      "deeperAnalysis": "Everyone agrees the starting point is when כהנים may eat תרומה. The dispute is how long the Torah phrase בְּשָׁכְבְּךָ extends. Each opinion defines the end of the nighttime obligation differently.",
+      "keyTerms": [
+        {
+          "term": "קְרִיאַת שְׁמַע",
+          "meaning": "Recitation of the שמע"
+        },
+        {
+          "term": "עֲרָבִין",
+          "meaning": "Evenings"
+        },
+        {
+          "term": "כֹּהֲנִים",
+          "meaning": "Priests"
+        },
+        {
+          "term": "תְּרוּמָה",
+          "meaning": "Priestly portion"
+        },
+        {
+          "term": "אַשְׁמוּרָה רִאשׁוֹנָה",
+          "meaning": "First night watch"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בָּעֲרָבִין?",
+          "english": "From when do they recite the Shema in the evenings?",
+          "notes": "שְׁמַע refers to the daily recitation beginning “Hear, O Israel” (Deuteronomy 6:4)."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": " מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכוֹל בִּתְרוּמָתָן.",
+          "english": "From the time when the priests enter to eat their terumah.",
+          "notes": "תְּרוּמָה is sacred priestly food; priests who had become ritually impure could eat it again after purification and nightfall."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": " עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה.",
+          "english": "Until the end of the first watch.",
+          "notes": "אַשְׁמוּרָה means a watch, a division of the night."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": " דִּבְרֵי רַבִּי אֱלִיעֶזֶר.",
+          "english": "These are the words of Rabbi Eliezer."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": " וַחֲכָמִים אוֹמְרִים: עַד חֲצוֹת.",
+          "english": "But the Sages say: until midnight."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": " רַבָּן גַּמְלִיאֵל אוֹמֵר עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר.",
+          "english": "Rabban Gamliel says: until the dawn rises.",
+          "notes": "עַמּוּד הַשַּׁחַר literally means “the pillar of dawn,” an idiom for daybreak."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בָּעֲרָבִין",
+      "dependsOnStepNumbers": [],
+      "relationToPreviousStep": "Opens the sugya",
+      "mimraCoreRuling": "Evening קריאת שמע begins when כהנים enter to eat תרומה; its endpoint is disputed between רבי אליעזר, חכמים, and רבן גמליאל."
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "ראיה",
+      "title": "רבן גמליאל’s Practical Ruling",
+      "stepSummary": "A story about רבן גמליאל’s sons shows that one remains obligated to read קריאת שמע until עמוד השחר.",
+      "whatsHappening": "The משנה brings an incident supporting רבן גמליאל’s view. He tells his sons that if dawn has not arrived, they still must recite קריאת שמע.",
+      "deeperAnalysis": "The story turns the dispute into practical הלכה. רבן גמליאל adds that other nighttime מצוות also essentially last until dawn. חצות is not necessarily the true endpoint.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשֶׂה",
+          "meaning": "Incident"
+        },
+        {
+          "term": "בֵּית הַמִּשְׁתֶּה",
+          "meaning": "Banquet house"
+        },
+        {
+          "term": "עַמּוּד הַשַּׁחַר",
+          "meaning": "Dawn"
+        },
+        {
+          "term": "חֲצוֹת",
+          "meaning": "Midnight"
+        },
+        {
+          "term": "מִצְוָתָן",
+          "meaning": "Their mitzvah time"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַעֲשֶׂה וּבָאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה,",
+          "english": "There was an incident: his sons came from the banquet hall,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": " אָמְרוּ לוֹ: לֹא קָרִינוּ אֶת שְׁמַע,",
+          "english": "they said to him: We did not recite the Shema,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": " אָמַר לָהֶם: אִם לֹא עָלָה עַמּוּד הַשַּׁחַר",
+          "english": "he said to them: If the dawn has not yet risen,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": " חַיָּיבִין אַתֶּם לִקְרוֹת.",
+          "english": "you are obligated to recite it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": " וְלֹא זוֹ בִּלְבַד אָמְרוּ,",
+          "english": "And they did not say this alone,",
+          "notes": "That is, this rule is not limited only to the recitation of Shema."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": " אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים ״עַד חֲצוֹת״,",
+          "english": "but rather, anything about which the Sages said “until midnight,”"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": " מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר.",
+          "english": "its mitzvah may be performed until dawn rises."
+        }
+      ],
+      "classificationConfidence": "Medium",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "מַעֲשֶׂה וּבָאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "relationToPreviousStep": "Supports one side of the dispute stated in the previous step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:5:9",
+            "hebrew": "כדי להרחיק אדם מן העבירה – ואסרום באכילה קודם זמנן כדי שלא יבא לאוכלן לאחר עמוד השחר ויתחייב כרת וכן בקריאת שמע לזרז את האדם שלא יאמר יש לי עוד שהות ובתוך כך יעלה עמוד השחר ועבר לו הזמן. והקטר חלבים דקתני הכא לא אמרו בו חכמים עד חצות כלל ולא נקט להו הכא אלא להודיע שכל דבר הנוהג בלילה כשר כל הלילה. והכי נמי תנן בפרק שני דמגילה (דף כ:) כל הלילה כשר לקצירת העומר ולהקטר חלבים ואברים:",
+            "english": "In order to distance a man from sin - And they are forbidden to eat before their time, in order that they should not come to eat them after dawn and therefore he would be liable to Kores. Similarly with reading the Shema, this is to encourage a person, so that he should not say \"I still have time\" and in the meantime it will get dawn and he would have missed the time. The offering of the fats that we learn here the sages did not say until midnight at all, and we did not learn here only to teach us that anything that is applied to at night is valid the entire night. Here also we learnt in a mishnah in the second chapter of Megillah. \"The whole night is valid for reaping the omer and to offer up the fats and the limbs\".",
+            "takeaway": "רש״י explains that חכמים said עד חצות for קריאת שמע and eating קדשים only as a סייג to keep a person from delaying until after עמוד השחר, while הקטר חלבים ואברים was not actually given a חצות limit and remains valid כל הלילה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:11",
+            "hebrew": "ונשוב לבאר המשנה, מעשה ובאו בניו של ר\"ג וכו' ויש שואלים לשון מותרים מצד שהן מדקדקים שאם עלה עמוד השחר אסורים והיאך אפשר לומר כן והרי עד הנץ החמה זמנה היא לכל מי שנאנס וכמו שנתבאר כגון אלו שאונס שינה שנרדמו מתוך המשתה עכבם, והיו ראוים לקרותה בברכות אלו שלא מתורת קריאת חובה, שהרי אמרו [י:] שהקורא לאחר מכן קוראה אף בברכותיה אע\"פ שאינו יוצא ממנה ידי קריאת חובה, ואע\"פ שמכל מקום בק\"ש של שחרית נאמרה וראוי לומר שדוקא נאמר כן בשל שחרית שאע\"פ שעבר זמנה ר\"ל זמן קימה מכל מקום לא הגיע עדיין זמן שכיבה, אבל זו שעבר זמן שכיבה והגיע זמן קימה שמא אף איסור היה שם מיהא לאחר הנץ החמה, תדע שיש מן הגאונים שכתבוה כן וכל שכן לדעת מי שכתב שם שלא נאמר אף בשל שחרית שלא להפסיד בברכות אלא עד שעה רביעית שהוא זמן תפלה מפני שהוא צריך לסמוך גאלה לתפלה, אבל משם ואילך הפסיד, כל שכן בזו שכבר עבר זמן שכיבה וכן נראה לי כמו שכתבנו למעלה. ומכל מקום הם מפרשים שאף בשל ערבית קוראה אף בברכות ואף לאחר הנץ החמה אחר שהוא אנוס, ואין לדעתם חלוק בין הנץ החמה לאחר הנץ החמה, אלא שעד הנץ החמה קיים מצות קריאה בעונתה אחר שהוא נאנס ולאחר הנץ החמה לא קיים מצוה בעונתה, אבל מכל מקום אף לאחר הנץ החמה קוראה בברכות שלא מתורת קריאת עונה אחר שהוא נאנס. ולא עוד אלא שיש מפריזים על מדותיהם לומר כן מתורת חיוב ומצד תשלומין כדין טעה ולא התפלל ערבית שמתפלל שחרית שתים, וזו ודאי אינה שלא נאמר כן בק\"ש ובברכותיה אלא שקוראה שלא מתורת חיוב ובברכות וזהו דעת הרבה מפרשים. ומתוך כך קשה להבין לשון מותרין שמשמעו שלאחר עמוד השחר אסורים והרי מאחר שאונס עכבם עד הנץ החמה חייבים, ולאחריה רשאין ומתוך כם הם מפרשים שלא נאמר כאן לשון מותרים אלא עד דעת שהם מותרים לקרות בתורת קיום מצוה בעונתה, ויש גורסים חייבים ואף מי שגורס מותרים מפרשה בעניין חייבים ממה שנא' במס' סוטה [ז:] וכל הנשים מותרים לראותה שפירושו חייבות, ועדיין לא הועלנו שהרי מכל מקום עד הנץ החמה היו חייבים לקרות בתורת עונה ומלשונו משמע שאם עלה עמוד השחר לא היו חייבים, והוכחות אלו כלם נתגלגלו ביד המפרשים מפני שקשה להם לומר שבני ר\"ג יהו מזידין או פושעים ודנין אותם בנאנסו, ולדעת זה ודאי הכל קשה לפרש, אלא שלדעתי בני ר\"ג בפשיעה היו שכל שבית המשתה מעכבו אין לך פשיעה גדולה הימנה, ואעפ\"כ כל שלא עלה עמוד השחר חייבים היו, אלא שלדעתי הם היו שואלים אם דעת חכמים שאמרו עד חצות, אוסרים בכך אחר שפשעו והשיבם שמותרים היו, ומאחר שמותרים ודאי חייבים אחר שזמנה היא, אלא שתורת היתר שאלו, ובהיתר השיבם ואמר כל שעלה וכו' אסורים לקראה בברכות אח שפשעו כמו שכתבנו, ואע\"פ שבגמ' [ט.] אמרו דההוא זוגא דרבנן דאשתכור בהלולא דרבה וכו' ודנו אותם באנוסים ושמא בני ר\"ג כך היה וא\"כ היה ראוי לדונם כאנוסים, מכוער הדבר ואין להוסיף עליו אלא שנכשלו להיותם נמשכים אחר הזמירות והשמחות, ומתוך כך אני אומר שבפשיעה היו:",
+            "english": "",
+            "takeaway": "מאירי notes the textual/halakhic difficulty whether the sons were merely מותרים or actually חייבים, and frames רבן גמליאל’s ruling as applying before עמוד השחר for the proper nighttime חיוב, while any later reading by an אונס is a separate question and not true תשלומין for קריאת שמע."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:12",
+            "hebrew": "ומכל מקום על אי זו שטה שיתבאר לא על דעת עצמו לבד אמר להם כן שאין זו מדת חכמים לחלוק על הרבים ולעשות כדברי עצמו, והוא שתמהו בתלמוד המערב פליג אדרבנן ועביד עובדא כנפשיה אלא שאף על דעת חכמים הוא אומר כן שלא אמרו עד חצות אלא להרחיק מן העבירה כמו שביארנו, והוא שאמר בגמ' [שם] רבנן עלך פליגי והלכתא כוותיהו וכו' ואמר להו רבנן כוותי סבירא להו וכו' ומכל מקום בתלמוד המערב נראה שלא כדעת חכמים עשאה והוא שאמר פליג אדרבנן וכו' ותירץ היוא שהיא לשנון, מעתה משעלה עמוד השחר כן אית דבעי למימר תמן כשהיו יכולים לקיים דברי חכמים, ברם הכא כבר עבר חצות ולא היו יכולים לקיים דברי חכמים ואמר להו עבוד כוותאי, ומכל מקום על גמרא שלנו סומכים, ושמא אף הוא כך אמר כבר עבר חצות ואף לדבריהם לא נתנו שיעור חצות אלא משום סייג:",
+            "english": "",
+            "takeaway": "מאירי says רבן גמליאל did not simply rule for his sons against the majority, because in the Bavli חכמים agree that their עד חצות was only להרחיק מן העבירה, though the ירושלמי presents another formulation and מאירי follows the Bavli."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:13",
+            "hebrew": "ולא זו בלבד הוא במדה זו שעקר זמנה עד עמוד השחר ונתנו בה סייג עד חצות אלא כל מה שאמרו עד חצות דרך סייג הוא ועיקר מצוה עד שיעלה עמוד השחר:",
+            "english": "",
+            "takeaway": "מאירי explains ולא זו בלבד to mean that every case where חכמים said עד חצות has עיקר מצוה until עמוד השחר, and חצות is only a protective סייג."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:14",
+            "hebrew": "הקטר חלבים בקרבנות שבשרן נאכל לבעלים או לכהנים והקטר איברים בקרבן עולה שכולה כליל מצותן עד שיעלה עמוד השחר ובזו לא עשו סייג עד חצות משום דכהנים זריזים הם ולא הוזכרה כאן אלא ללמוד שלכתחלה ראוי לעשות כן, וגדולי המפרשים כתבו שאף בזו עשו סייג עד חצות להרחיק מן הנותר ואע\"פ שלא נתפרש להם חצות במקום אחר, מכאן אנו למדין בהדיא לפי דרכנו שחכמים הצריכו בה לכתחלה עד חצות:",
+            "english": "",
+            "takeaway": "מאירי holds that הקטר חלבים ואברים is intrinsically valid until עמוד השחר and was not limited by a חצות סייג because כהנים זריזים הם, though he records that גדולי המפרשים inferred even there a לכתחילה limit of חצות."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:16",
+            "hebrew": "אם כן למה אמרו חכמים עד חצות, ר\"ל בק\"ש ובקרבנות הנאכלים ליום ולילה ולא שאלוה על הקטר חלבים ואיברים שהרי לא מצינו בהם שיעור חצות כמו שכתבנו אלא על ק\"ש ובקרבנות הנאכלים ליום ולילה, והשיבו בה כדי להרחיק אדם מן העבירה בק\"ש שלא לבטל מצות קריאה בעונתה ובקרבנות שלא יוכל לבא לידי נותר, ואף לדעת האומר שבהקטר חלבים לא עשו בה סייג בזו מפני שבכל שאין בו אכילה כהנים זריזים הם אבל בדבר אכילה יש לחוש וכמו שאמרו (פסחים פה, א) הפגול והנותר מטמאים את הידים ופירשו בה פגול משום חשדי כהונה, נותר משום עצלי כהונה, ובגמ' התבאר כן על אכילת קרבן הפסח שדינו כל הלילה אלא שלהרחיק אדם מן העבירה החמירו בו עד חצות, ור' אלעזר בן עזריה חלק לומר שמן התורה דוקא עד חצות אלא שהלכה כחמים והלל שנאמר עליו הרי הוא כמהו, ומכל מקום יש דברים שזמנן כל הלילה ולא עשו בהם שום סייג כגון קצירת העומר וספירתו, וטעם הדבר שלא עשו סייג אלא במה שאם עבר הלילה בטל חיובו:",
+            "english": "",
+            "takeaway": "מאירי says the question why חכמים said עד חצות applies to קריאת שמע and edible קרבנות, where delay can cause ביטול מצוה or נותר, but not necessarily to non-eating rites like הקטר חלבים where כהנים זריזים הם."
+          },
+          {
+            "source": "Rashba",
+            "ref": "Rashba on Berakhot 2a:1",
+            "hebrew": "[מתני']: מעשה ובאו בניו מבית המשתה. מה ששנינו כאן מעשה ובאו בניו, נראה לי דלאו למימרא שעשה רבן גמליאל כדבריו ודלא כרבנן, אלא אדרבא אתא לאשמועינן מדעשה מעשה, דלא נחלקו עליו חכמים אלא בלכתחילה ומשום סייג, שאילו נחלקו עליו, לא היה עושה מעשה כדבריו, וכדמשמע בגמרא וכדבעינן למכתב עלה קמן (ט, א ד\"ה ובני רבן גמליאל), וכדמוכח נמי סיפא דמתניתין דקתני ולא זו בלבד אלא כל שאמרו חכמים עד חצות מצותה עד שיעלה עמוד השחר, דאלמא בהא אף רבנן מודו בה. אבל בירושלמי (פ\"א, ה\"א) פירשוהו כמו שאר מעשה שהביאו בכל מקום לומר שעשה מעשה כדבריו, וכדגרסינן התם: מעשה ובאו בניו, פליג על רבנן ועבד עובדא כוותיה, והא רבי עקיבא פליג על רבנן ולא עביד עובדא כוותיה, והא רבי שמעון פליג על רבנן ולא עביד עובדא כוותיה וכו' כדאיתא התם, ומשני שניא היא הכי שהיא לשנון, מעתה אף משיעלה עמוד השחר, ואית דבעי מימר תמן בשהיו יכולין לקיים דברי חכמים ברם הכא כבר עבר חצות ולא היו יכולין לקיים דברי חכמים, אמר לון עבדון עובדא כוותיה, ע\"כ בירושלמי. ואין לנו אלא כגמרתנו. ושמא אף מסקנא דירושלמי כן דבדיעבד דאי אפשר לקיים דברי חכמים לכולי עלמא קורין אפילו לאחר חצות. ולענין מאימתי, הרב אלפסי וכל הגאונים ז\"ל פסקו כסתם מתני' שהוא משעה שהכהנים נכנסין לאכול בתרומתן וסימן לדבר צאת הכוכבים, משום דללישנא דאמרינן בגמרא (מ)דסיפא רבי אליעזר רישא לאו רבי אליעזר אלמא מתניתין דמאימתי רבנן, ואף על גב דפליגי תנאי בברייתא, הוה ליה סתם במתניתין ומחלוקת בברייתא והלכה כסתם (יבמות מב, ב), ואפילו ללישנא אחרינא דמוקי מתניתין כרבי אליעזר ותרי תנאי נינהו ואליבא דרבי אליעזר, מכל מקום כיון דפליגי רבן גמליאל ורבנן עליה דרבי אליעזר בעד סוף ולא פליגי עליה במתניתין במאימתי משמע דכולהו מודו במאימתי, וכיון דכולהו מודו בה במתניתין, ובברייתא אתניא בלשון חכמים (לקמן ע\"ב), ועוד דר' יהושע אמר הכי באידך ברייתא שמע מינה דהכין הלכתא. ואם כן מה שנהגו לקרות אותה קודם הזמן הזה אין יוצאין בה ידי חובה ולא נהגו כן מתחילה אלא כדי לעמוד בתפלה מתוך דברי תורה, לפי שאילו לא היו מתפללין תפלת הערב בבית הכנסת היה כל אחד הולך לביתו ולא היו מתפללין בצבור שהיה להם טורח להתאסף לאחר מכאן, ופעמים היו שוכחין ולא היו מתפללין כלל, ולפיכך משום טורח צבור התירו להתפלל תפלת הערב קודם הזמן הזה, וקורין את שמע בברכותיה כדי לעמוד בתפלה מתוך דברי תורה וחוזרין וקורין אותה סמוך למטתן בשעת שכיבה. וכן כתב רש\"י ז\"ל והראב\"ד והרב רבי יצחק אבן גיאת זצ\"ל והרבה מן הגאונים ז\"ל. וכן נראה מן הירושלמי (ריש פירקין) דגרסינן התם: תני הקורא קודם לכן לא יצא ידי חובתו. אם כן למה קורין אותה בבית הכנסת, אמר ר' יוסה אין קורין אותה בבית הכנסת אלא לעמוד בתפלה מתוך דברי תורה. ואפילו קרא אותה תוך בין השמשות שהוא ספק יום ספק לילה חוזר וקורא אותה (משום דהוה ליה כספק קרא ספק לא קרא שהוא חוזר וקורא), ולא עוד אלא שבירושלמי (שם) למדו מכאן לספק קרא שהוא חוזר וקורא, דגרסינן התם: ספק קרא קריאת שמע ספק לא קרא צריך לחזור ולקרות, נשמעינה מן הדא הקורא קודם לכן לא יצא ידי חובתו, וקודם לכן לאו ספק הוא ותימר צריך לקרות, הדא אמרה ספק קרא ספק לא קרא צריך לקרות. וכתבו בתוס' דלפי זה צריך לברך על קריאת שמע שעל מטתו לקרות את שמע. וכן כתב רב עמרם והר' יצחק ב\"ר אשר זכרונו לברכה. ור\"ת ז\"ל לא נראו לו דברים אלו. חדא דקריאת שמע שעל מטתנו אין אנו קורין אלא פרק ראשון ושלא בברכותיה. ועוד דאם כן מנהג שלנו כרבי יהושע בן לוי דאמר (לקמן ברכות ד, ב) תפלות באמצע תקנום, ואנן קיימא לן כרבי יוחנן דאמר (שם) צריך לסמוך גאולה של ערבית לתפלה של ערבית. ולפיכך פירש הוא ז\"ל דק\"ש של בית הכנסת עיקר, אלא דאנן כרבי יהודה עבדינן דאמר (כו, א) תפלת המנחה עד פלג המנחה דאלמא משם ואילך הוי לילה והוא שעה ורביע קודם ליציאת הכוכבים, ואמרינן בגמרא (לקמן ברכות כז, א) מאן דעבד כרבי יהודה עבד, ורב נמי צלי של שבת בערב שבת כרבי יהודה. ואף על גב דעבדינן כר' יהודה בקריאת שמע ובתפלה כרבנן ודמיא לשדרה וגלגלת (עירובין ז, א) דתרי קולי דסתרי אהדדי, יש לומר דלגבי תפלה הקלו. ומה שאמרו בירושלמי שאין קורין אותה אלא כדי לעמוד בתפלה מתוך דברי תורה, מנהג אחר היה להם שהן היו רגילין לקרות קריאת שמע שלא בברכותיה קודם לכל תפלה שאינה סמוכה לברכות כמו שאנו נוהגים באשרי, וכמו שנראה קצת בירושלמי בפרק הזה דגרסינן התם (ה\"ה): ר' יוסי ורבי אחא נפקין לתעניתא אתא צבורא בעין מקרא את שמע בתר תלת שעין, בעיא רבי אחא מימחייא בידון, אמר ליה רבי יוסי ולא כבר קראו בעונתה כלום הן קורין אותה אלא כדי לעמוד בתפלה מתוך דבר של תורה, אמר ליה מפני הדיוטות שלא יהו אומרין בעונתה הן קורין אותה. והוא כתוב לראיה לפירוש זה בספר המאור. והקשו בתוס' לדברי ר\"ת ז\"ל מדפריך לקמן (ע\"ב) רבי יהודה לרבי מאיר והלא כהנים מבעוד יום טובלין, אדרבא ליקשי איהו לנפשיה שהרי קורין אותה לדבריו מפלג המנחה ואילך שהוא יום גדול. ודחקו עצמן בקושיא זו דלטעמיה מקשי ליה, כלומר לדידך דסבירא לך כרבנן דפליגי עלאי ואמרי תפלת המנחה עד הערב, אם כן לא קרינא בשכבך עד לאחר חשיכה והלא כהנים טובלין מבעוד יום. ואינו נראה כלל, דהא ודאי לר' יהודה אף על פי שאינו מתפלל תפלת המנחה מפלג המנחה ואילך לא מפני שהוא לילה קאמר אלא משום דתפלות כנגד תמידין תקנום ותמיד של בין הערבים היה קרב והולך עד פלג המנחה, ומשום הכי תפלת המנחה שהיא כנגדה אינה אלא עד אותו זמן ומשם ואילך ראוי לתפלת הערב מפני איברים ופדרים שקרבין והולכין אבל ודאי אינו לילה, ותדע לך שהרי עדיין השמש על הארץ כדי מהלך שתות המיל והאיך הוא לילה וזמן שכיבה. ועוד שהרי לר' יהודה בין השמשות אינו אלא שני חלקי מיל סמוך לצאת הכוכבים (שבת לד, ב) וקודם הזמן הזה כהנים טובלים ויום הוא, ופלג המנחה קודם ליציאת הכוכבים מהלך ארבע מילין ושתות, וכיון שכן האיך אפשר שקורא בו לרבי יהודה, ולכשתמצא לומר דאין הכי נמי דכל שעבר זמן תפלת המנחה הוי זמן שכיבה ואף על גב דאכתי יממא הוא ובשכבך כתיב לומר דבזמן שכיבה תליא רחמנא, אם כן מאי קא פריך לרבי מאיר והלא כהנים מבעוד יום הם טובלין, דדילמא אף על גב דמבעוד יום הם טובלין מאותה שעה ואילך זמן שכיבה הוי לרבי מאיר. ומה שהקשה ר\"ת ז\"ל מדקיימא לן כר' יוחנן דאמר שצריך לסמוך גאולה לתפלה, אין הכי נמי מדינא הכי הוי בשמתפלל שלא בבית הכנסת אי נמי כשהגיע זמן המקרא קודם שיתפלל תפלת הערב, הא לאו הכי מתפלל עם הצבור משום דתפלת הרבים עדיפא מסמיכת גאולה לתפלה של ערבית שהיא אינה אלא רשות. ומה שאין אנו קורין אותה על מטותנו בברכותיה משום שאין הברכות מעכבות כדמוכח בהדיא בירושלמי (פ\"ב, ה\"א) ממתניתין דהיה קורא בתורה והגיע זמן המקרא. ומה שאין אנו קורין אלא פרשה ראשונה מפני שהיא של תורה, אבל של דבריהם כיון שקראוהו בבית הכנסת לא חייבוהו לחזור ולקרות. ומנהגנו אנו ודאי נראה שהוא התפוס בידינו ובא מאבות ראשונים והיא מה שאמרו בירושלמי. ונשאל מרבנו האי גאון ז\"ל לענין צבור שמתפללין ערבית וקורין שמע קודם צאת הכוכבים ולא מצי איניש לעכובינהו, אי זהו עדיף לצלויי בהדייהו ולשבוק קריאת שמע עד צאת הכוכבים, או לעכובי עד צאת הכוכבים לצלויי ביחיד במסמך גאולה לתפלה. והשיב דבארץ ישראל עושין כן, שמתפללין ערבית ואחר כך קורין בזמן קריאת שמע ולא איכפת להו למסמך גאולה לתפלה של ערבית, וחזינן דקריאת שמע עדיף יותר בעונתה וסימן לדבר צאת הכוכבים, דאורייתא עדיף ממסמך גאולה לתפלה היכא דלא אפשר לצלויי, ואי צלי ראשונה דבהדי צבור רשות ושניה חובה שפיר דמי, עד כאן. ובתוס' אמרו דאיכא למימר דמה שנהגו לקרותה עכשיו קודם צאת הכוכבים, משום דסבירא לן כשאר התנאין דברייתא (ב, ב) דמקדימין זמן קריאת שמע לצאת הכוכבים. וכן כתב הרב בעל המאור ז\"ל כמותם דכדאי הן התנאים האחרים לסמוך עליהן בשעת הדחק של צבור. ואינו מחוור בעיני, דהא משמע דלמסקנא דאסיקנא דכהן לחוד ועני לחוד, דבני אדם היינו עני וכדכתבינן לקמן, ואם כן אין לך בברייתא מוקדם ליציאת הכוכבים אלא או רבי אליעזר או רבי מאיר, ושיעוריה דרבי מאיר אי אפשר לעמוד עליו קודם יציאת הכוכבים וכדאיתא בגמרא (לקמן ע\"ב) דבין השמשות דרבי יוסי קאמר, וכיון שכן ליכא אלא רבי אליעזר, ורבי אליעזר לגבי רבי יהושע ליתיה דשמותי הוא, ועוד דהוה ליה יחיד לגבי רבים. וכשתמצא לומר נמי דבין רבי מאיר לרבי יהושע איכא כל בין השמשות דרבי יהודה וכמו שאני כותב לפנינו (ד\"ה אנא) משם הראב\"ד ז\"ל, מכל מקום לית הלכתא כרבי מאיר במקום רבי יהודה, וכל שכן במקום רבי יהושע ורבי יהודה ורבי אחא ורבי חנינא דרבים נינהו.",
+            "english": "",
+            "takeaway": "רשב״א reads the מעשה as proof that חכמים disagreed with רבן גמליאל only לכתחילה as a סייג, since רבן גמליאל would not have acted against them in practice if they truly forbade קריאת שמע after חצות."
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "רשב״א and מאירי both stress that, according to the Bavli, רבן גמליאל’s practical ruling was not defiance of חכמים but reflected their own בדיעבד position that the עיקר זמן continues until עמוד השחר. On the scope of the חצות סייג, רש״י and מאירי’s main view exclude הקטר חלבים ואברים, while מאירי records another view that infers a לכתחילה חצות limit even there."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תשובה",
+      "title": "חצות as a Protective Deadline",
+      "stepSummary": "The משנה explains that other night-long מצוות also technically last until עמוד השחר, and חכמים said חצות only to distance a person from עבירה.",
+      "whatsHappening": "The משנה explains why חכמים mention חצות if the mitzvah time really continues until dawn. It says חצות is a safeguard.",
+      "deeperAnalysis": "The Torah-level time for these nighttime services can last all night. חכמים set an earlier practical deadline to prevent delay. This protects against losing the מצוה or creating נותר.",
+      "keyTerms": [
+        {
+          "term": "הֶקְטֵר",
+          "meaning": "Burning on the altar"
+        },
+        {
+          "term": "חֲלָבִים",
+          "meaning": "Sacrificial fats"
+        },
+        {
+          "term": "אֵיבָרִים",
+          "meaning": "Sacrificial limbs"
+        },
+        {
+          "term": "נֶאֱכָלִים לְיוֹם אֶחָד",
+          "meaning": "Eaten for one day"
+        },
+        {
+          "term": "נוֹתָר",
+          "meaning": "Leftover sacrificial meat after its permitted time"
+        }
+      ],
+      "whatToRemember": "חצות here is a rabbinic safeguard, not necessarily the Torah endpoint.",
+      "whyThisMatters": "This is a basic model for rabbinic time limits: חכמים can set an earlier deadline even when the essential מצוה time lasts longer.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֶקְטֵר חֲלָבִים וְאֵבָרִים, ",
+          "english": "The burning of fats and limbs,",
+          "notes": "Refers to burning sacrificial fats and limbs on the altar."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר ",
+          "english": "their proper time is until the dawn rises",
+          "notes": "עַמּוּד הַשַּׁחַר literally means “the pillar of dawn,” i.e., daybreak."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, ",
+          "english": "and all those that are eaten for one day,",
+          "notes": "Refers to sacrificial portions that may be eaten only during their allotted day and night."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשַּׁחַר. ",
+          "english": "their proper time is until the dawn rises."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִם כֵּן, לָמָה אָמְרוּ חֲכָמִים ",
+          "english": "If so, why did the Sages say"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״עַד חֲצוֹת״ — ",
+          "english": "“until midnight”—"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כְּדֵי לְהַרְחִיק אָדָם מִן הָעֲבֵירָה:",
+          "english": "in order to distance a person from transgression."
+        }
+      ],
+      "classificationConfidence": "Medium",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "הֶקְטֵר חֲלָבִים וְאֵבָרִים",
+      "dependsOnStepNumbers": [
+        1,
+        2
+      ],
+      "relationToPreviousStep": "Explains the broader principle stated by רבן גמליאל",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:5:2",
+            "hebrew": "מצותן – להעלות כל הלילה ואינן נפסלים בלינה עד שיעלה עמוד השחר והן למטה מן המזבח דכתיב ולא ילין לבקר (שמות ל״ד:כ״ה):",
+            "english": "Their commandment - is to be brought the entire night and they do not become invalidated through \"sleeping\" until the morning star rises",
+            "takeaway": "The מצוה of הקטר חלבים ואיברים is valid all night, and the parts do not become invalid through לינה until עמוד השחר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:5:7",
+            "hebrew": "עד שיעלה עמוד השחר – והוא מביאן להיות נותר דכתיב בתודה לא יניח ממנו עד בקר (ויקרא ז׳:ט״ו) וכלם מתודה ילמדו:",
+            "english": "Until Dawn - And this is what brings them to become Nossar (leftover) as it says with the Todah Sacrifice \"A person should not leave anything over until morning\" and all of this is learnt from the Todah sacrifice.",
+            "takeaway": "For קדשים eaten for one day, the eating time lasts until עמוד השחר, at which point leaving them over creates נותר, learned from תודה."
+          },
+          {
+            "source": "Commentary",
+            "ref": "Rashi on Berakhot 2a:5:8-9",
+            "hebrew": "",
+            "takeaway": "The חצות deadline was said for קריאת שמע and אכילת קדשים to prevent delay that could lead to missing the מצוה or eating נותר after dawn, but חכמים did not impose חצות on הקטר חלבים ואיברים, which is mentioned only to show that nighttime מצוות are valid all night."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:14",
+            "hebrew": "הקטר חלבים בקרבנות שבשרן נאכל לבעלים או לכהנים והקטר איברים בקרבן עולה שכולה כליל מצותן עד שיעלה עמוד השחר ובזו לא עשו סייג עד חצות משום דכהנים זריזים הם ולא הוזכרה כאן אלא ללמוד שלכתחלה ראוי לעשות כן, וגדולי המפרשים כתבו שאף בזו עשו סייג עד חצות להרחיק מן הנותר ואע\"פ שלא נתפרש להם חצות במקום אחר, מכאן אנו למדין בהדיא לפי דרכנו שחכמים הצריכו בה לכתחלה עד חצות:",
+            "english": "",
+            "takeaway": "The Meiri says הקטר חלבים ואיברים is technically until עמוד השחר and, in his main view, received no חצות safeguard because כהנים זריזים הם, though he cites גדולי המפרשים who hold that even this had a לכתחילה חצות limit."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:15",
+            "hebrew": "כל הנאכלים ביום ולילה, כגון חטאות ואשמות ודומיהם עקר מצותן עד שיעלה עמוד השחר, ואע\"פ שנתפרש להם במשנת אי זהו מקומן שיעור חצות:",
+            "english": "",
+            "takeaway": "The Meiri emphasizes that קדשים הנאכלים ליום ולילה have their essential Torah eating time until עמוד השחר, even though elsewhere the משנה gives them a חצות limit."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2a:16",
+            "hebrew": "אם כן למה אמרו חכמים עד חצות, ר\"ל בק\"ש ובקרבנות הנאכלים ליום ולילה ולא שאלוה על הקטר חלבים ואיברים שהרי לא מצינו בהם שיעור חצות כמו שכתבנו אלא על ק\"ש ובקרבנות הנאכלים ליום ולילה, והשיבו בה כדי להרחיק אדם מן העבירה בק\"ש שלא לבטל מצות קריאה בעונתה ובקרבנות שלא יוכל לבא לידי נותר, ואף לדעת האומר שבהקטר חלבים לא עשו בה סייג בזו מפני שבכל שאין בו אכילה כהנים זריזים הם אבל בדבר אכילה יש לחוש וכמו שאמרו (פסחים פה, א) הפגול והנותר מטמאים את הידים ופירשו בה פגול משום חשדי כהונה, נותר משום עצלי כהונה, ובגמ' התבאר כן על אכילת קרבן הפסח שדינו כל הלילה אלא שלהרחיק אדם מן העבירה החמירו בו עד חצות, ור' אלעזר בן עזריה חלק לומר שמן התורה דוקא עד חצות אלא שהלכה כחמים והלל שנאמר עליו הרי הוא כמהו, ומכל מקום יש דברים שזמנן כל הלילה ולא עשו בהם שום סייג כגון קצירת העומר וספירתו, וטעם הדבר שלא עשו סייג אלא במה שאם עבר הלילה בטל חיובו:",
+            "english": "",
+            "takeaway": "The Meiri explains that the Gemara’s question about חצות applies to קריאת שמע and edible קדשים, where delay can cause ביטול מצוה or נותר, while non-eating rites like הקטר חלבים may rely on כהנים זריזים הם, and some all-night מצוות received no such סייג."
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "Rashi and the Meiri’s main position agree that הקטר חלבים ואיברים did not actually receive a חצות safeguard, but the Meiri records an opposing view of גדולי המפרשים that even הקטרה was given a לכתחילה limit of חצות."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "The Opening Word Needs Context",
+      "stepSummary": "The גמרא challenges how the משנה can begin with מֵאֵימָתַי as though the obligation of evening קריאת שמע was already introduced.",
+      "whatsHappening": "The גמרא begins by challenging the משנה’s opening word. מֵאֵימָתַי sounds like the obligation is already known, but this is the start of the מסכת.",
+      "deeperAnalysis": "The question is about literary framing. A time-question usually assumes an existing duty. The גמרא asks where the תנא is “standing” when he begins this way.",
+      "keyTerms": [
+        {
+          "term": "תַּנָּא",
+          "meaning": "Mishnaic teacher"
+        },
+        {
+          "term": "הֵיכָא קָאֵי",
+          "meaning": "Where is he standing?"
+        },
+        {
+          "term": "דְּקָתָנֵי",
+          "meaning": "That he teaches"
+        },
+        {
+          "term": "מֵאֵימָתַי",
+          "meaning": "From when?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ תַּנָּא הֵיכָא קָאֵי דְּקָתָנֵי ״מֵאֵימָתַי״?",
+          "english": "Gemara: What earlier source is the tanna relying on when he teaches, “From when?”",
+          "notes": "Literally, “Where does the tanna stand?”—an idiom meaning: What prior context or basis is he assuming?"
+        }
+      ],
+      "classificationConfidence": "Medium",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "גְּמָ׳ תַּנָּא הֵיכָא קָאֵי דְּקָתָנֵי ״מֵאֵימָתַי״?",
+      "dependsOnStepNumbers": [],
+      "relationToPreviousStep": "Begins this sugya with a challenge to the משנה’s formulation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:6:1",
+            "hebrew": "היכא קאי – מהיכא קא סליק דתנא ביה חובת קריאת שמע שהתחיל לשאול כאן זמן הקריאה:",
+            "english": "How is this possible - From where does the Tanna conclude the obligation to read Kerias Shema, that he began to ask here the time of reading?",
+            "takeaway": "רש״י explains that the Gemara asks what prior source or discussion the תנא is coming from that already established the obligation of קריאת שמע, such that the משנה can begin by asking only for its time."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [
+          {
+            "source": "Ritva",
+            "ref": "Ritva on Berakhot 2a:2",
+            "hebrew": "גמר' תנא היכי קאי וכו'. פי' תנא מהיכי סליק דתנא ביה חובת ק\"ש שהתחיל לשאול כאן זמן הקריאה ותו מאי שנא דקתני בערבין בריש' ליתני שחרין ברישא דשפיר הוה לאתחולי בריש מסכת' במילי דשחרית משום פתח דבריך יאיר. תנא אקר' קאי דכתיב בשכבך ובקומך ומכאן למד דחייב לקרותה בערב ובבקר ומאי דתנא ערבין ברישא סדורא דקרא נקט. ואי בעית אימא יליף מברייתו של עולם. תשובה היא למאי דאמרינן ליתני שחרין ברישא:",
+            "english": "",
+            "takeaway": "The ריטב״א explains that the question is why the תנא can open with the time of קריאת שמע before stating its obligation, and he frames this as leading into the answer that the תנא is relying on the פסוק of בשכבך ובקומך."
+          }
+        ],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Why Evening Comes Before Morning",
+      "stepSummary": "The גמרא adds a second challenge: the משנה should seemingly teach the morning קריאת שמע before the evening קריאת שמע.",
+      "whatsHappening": "The גמרא asks a second question about the משנה’s order. It wants to know why evening קריאת שמע is taught before morning קריאת שמע.",
+      "deeperAnalysis": "The challenge assumes morning might have been the more natural opening. The משנה’s evening-first order therefore needs a source. This is an order question, not a time question.",
+      "keyTerms": [
+        {
+          "term": "וְתוּ",
+          "meaning": "And furthermore"
+        },
+        {
+          "term": "מַאי שְׁנָא",
+          "meaning": "What is different?"
+        },
+        {
+          "term": "בְּעַרְבִית",
+          "meaning": "In the evening"
+        },
+        {
+          "term": "בְּרֵישָׁא",
+          "meaning": "First"
+        },
+        {
+          "term": "שַׁחֲרִית",
+          "meaning": "Morning"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְתוּ: מַאי שְׁנָא ",
+          "english": "And furthermore: what is different",
+          "notes": "מַאי שְׁנָא literally means “what is different?”—an idiom asking why this case is treated differently."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתָנֵי בְּעַרְבִית בְּרֵישָׁא? ",
+          "english": "that it teaches the evening recitation first?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לִתְנֵי דְּשַׁחֲרִית בְּרֵישָׁא!",
+          "english": "Let it teach the morning recitation first!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְתוּ: מַאי שְׁנָא דְּתָנֵי בְּעַרְבִית בְּרֵישָׁא? לִתְנֵי דְּשַׁחֲרִית בְּרֵישָׁא!",
+      "dependsOnStepNumbers": [],
+      "relationToPreviousStep": "Adds another objection to the same opening משנה",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:8:1",
+            "hebrew": "אקרא קאי – ושם למד חובת הקריאה:",
+            "english": "On the text it is based - And there you can learn the obligation of reading (Shema)",
+            "takeaway": "Rashi explains that the משנה begins with ערבית because it is following the verse ובשכבך ובקומך, from which the obligation of קריאת שמע is learned."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:9:1",
+            "hebrew": "ואי בעית אימא – הא דתנא ערבין ברישא יליף מברייתו של עולם:",
+            "english": "If you want I can say - the reason we learn evening first is to learn it from the creation of the world.",
+            "takeaway": "Rashi explains the alternative answer as deriving the precedence of evening from ברייתו של עולם, where evening precedes morning."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:7:1",
+            "hebrew": "ליתני דשחרית ברישא – כדאשכחן בתמיד דכתיב של בקר תחלה:",
+            "english": "[THE TANNA] SHOULD FIRST TEACH [US OF THE OBLIGATION TO RECITE KERIAS SHEMA] IN THE MORNING. There must be a reason why the Gemara suggests that the Kerias Shema of the morning should be taught first. Tosfos explains: Just as we find with the daily tamid offerings, where the verse lists the morning tamid first. So too, the Mishna should follow the lead of the Torah and discuss the Kerias Shema obligation of the morning first.",
+            "takeaway": "Tosafot explains that the Gemara expected שחרית to be taught first because the תורה lists the קרבן תמיד של שחר before the evening תמיד."
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Rashba",
+            "ref": "Rashba on Berakhot 2a:2",
+            "hebrew": "גמרא: איבעית אימא יליף מבריתו של עולם. פירוש: אקושיין דליתני שחרית ברישא קא מהדר לתרוצי. ובתוס' פירשו דאקרא דובשכבך ובקומך קא מהדר, כלומר וקרא גופיה דאקדים שכיבה לקימה מבריתו של עולם יליף. ואינו מחוור בעיני כלל, דליכא למימר בקראי יליף מבריתו של עולם, ועוד דמאי איבעית אימא.",
+            "english": "",
+            "takeaway": "Rashba reads איבעית אימא as answering the question why the משנה taught ערבית first, not as explaining why the verse itself says ובשכבך before ובקומך, and he rejects the Tosafot-style reading that applies ברייתו של עולם to the verse."
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "Tosafot explains why the Gemara had reason to expect שחרית first, while Rashba addresses the scope of the later answer and rejects a Tosafot reading that ברייתו של עולם explains the verse’s order rather than the משנה’s order."
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "The משנה Follows the פסוק",
+      "stepSummary": "The גמרא answers that the תנא is based on the פסוק, which mentions lying down before rising, and therefore begins with the time of nighttime קריאת שמע.",
+      "whatsHappening": "The גמרא answers both opening questions from the Torah’s wording. The משנה follows the order of בְּשָׁכְבְּךָ before וּבְקוּמֶךָ.",
+      "deeperAnalysis": "The obligation is already established by the פסוק. The משנה is only asking when that known obligation begins. The same פסוק also explains why night is taught first.",
+      "keyTerms": [
+        {
+          "term": "אַקְּרָא קָאֵי",
+          "meaning": "It is based on the verse"
+        },
+        {
+          "term": "דִּכְתִיב",
+          "meaning": "As it is written"
+        },
+        {
+          "term": "בְּשָׁכְבְּךָ",
+          "meaning": "When you lie down"
+        },
+        {
+          "term": "וּבְקוּמֶךָ",
+          "meaning": "When you rise"
+        },
+        {
+          "term": "פָּסוּק",
+          "meaning": "Verse"
+        }
+      ],
+      "whyThisMatters": "This shows how the structure of משנה can follow the wording and sequence of תורה שבכתב.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנָּא אַקְּרָא קָאֵי, ",
+          "english": "The tanna is referring to the verse,",
+          "notes": "אַקְּרָא קָאֵי literally means “stands on the verse,” i.e., bases the teaching on a biblical verse."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּכְתִיב: ״בְּשָׁכְבְּךָ וּבְקוּמֶךָ״. ",
+          "english": "as it is written: “when you lie down and when you rise.”"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָכִי קָתָנֵי: ",
+          "english": "And this is what he is teaching:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זְמַן קְרִיאַת שְׁמַע דִּשְׁכִיבָה אֵימַת? — ",
+          "english": "When is the time for reciting the Shema of lying down? —",
+          "notes": "“Shema of lying down” means the evening Shema."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִין לֶאֱכוֹל בִּתְרוּמָתָן.",
+          "english": "From the time when the priests enter to eat their teruma.",
+          "notes": "תְּרוּמָה is the priestly portion of produce, which priests may eat when ritually permitted."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנָּא אַקְּרָא קָאֵי, דִּכְתִיב: ״בְּשָׁכְבְּךָ וּבְקוּמֶךָ״.",
+      "dependsOnStepNumbers": [
+        4,
+        5
+      ],
+      "relationToPreviousStep": "Resolves the two opening challenges by grounding the משנה in a פסוק",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:8:1",
+            "hebrew": "אקרא קאי – ושם למד חובת הקריאה:",
+            "english": "On the text it is based - And there you can learn the obligation of reading (Shema)",
+            "takeaway": "רש״י explains that the משנה is anchored in the פסוק בְּשָׁכְבְּךָ וּבְקוּמֶךָ, because that is where the obligation of קריאת שמע is learned, so the משנה proceeds to define its time."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:10:1",
+            "hebrew": "אי הכי סיפא דקתני שחרית ברישא - אי אמרת בשלמא דסמיך אקרא דבשכבך א\"כ אינו מקפיד קרא אלא אק\"ש. אלא א\"א דסמיך אקרא דברייתו של עולם א\"כ קפיד אכל מילי א\"כ סיפא דקתני וכו':",
+            "english": "IF SO, THE END [OF THE MISHNA] THAT TEACHES [US OF THE BLESSING OF SHEMA] IN THE MORNING FIRST ETC. The Gemara suggested two reasons that the Mishna spoke of the obligation to recite the evening Shema first: A) The verse about the reciting Shema states: ובשכבך ובקומך - when you lie down and when you arise, putting the evening obligation first. B) The Mishna follows the order of creation‘ויהי ערב ויהי בוקר-there was evening and there was morning’, which speaks of night before day. When the Gemara introduces a question with אי הכי-if so, it indicates that the difficulty is addressed only to the second answer just mentioned, but not to the first answer. The ‘if so’ is saying that according to the first approach A) there is no problem, but according to the second approach just introduced B), there is a problem. Tosfos explains how this works in our Gemara: It is perfectly understandable if you say that the order of the Mishna is based on the verse of “בשכבך-when you lie down”, if that is so, the verse is only particular about reciting Shema but not about the blessings preceding and following recital of Shema. But if you say that the order of the Mishna is based on the verse of creation of the world, then one should be particular to follow this order for all matters including the blessings of Shema.1See מהרש\"א who raises a very fundamental question: How can Tosfos say that if we follow the verse on creation, we must always follow the order of night before day, when the verse discussing the tamid offering clearly places the morning tamid before the evening tamid? מהרש\"א suggests that Tosfos holds that as far as the verse per se is concerned it may sometimes choose to follow one order and at other times follow a different order. The point that Tosfos is making is that if the Tanna chose to follow the order of creation, where night precedes day, the Tanna must be consistent and follow that order in all matters. Proof of this explanation is from the previous Tosfos, where Tosfos says that the Gemara’s question: The Tanna should first teach us about the recital of Shema in the morning is based on the verse that puts the morning tamid first. The Gemara answers: The Tanna is following the order of the verse that deals with reciting Shema, where the evening Shema is mentioned first. The Gemara does not seem to have a problem with the fact that there appears to be a contradiction between the two verses. Obviously, the verse sometimes follows one order and at other times a different order. The Gemara is concerned with discovering the order that the Tanna elected to follow. The Gemara therefore concludes its question: If so, that the Mishna is following the order of creation, the end of the Mishna that teaches etc. [about the blessing of Shema should also begin with the blessings of the morning.]",
+            "takeaway": "תוספות explains that if the משנה begins with nighttime because of בְּשָׁכְבְּךָ וּבְקוּמֶךָ, that ordering applies specifically to קריאת שמע and not necessarily to other matters such as ברכות קריאת שמע."
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Rashba",
+            "ref": "Rashba on Berakhot 2a:2",
+            "hebrew": "גמרא: איבעית אימא יליף מבריתו של עולם. פירוש: אקושיין דליתני שחרית ברישא קא מהדר לתרוצי. ובתוס' פירשו דאקרא דובשכבך ובקומך קא מהדר, כלומר וקרא גופיה דאקדים שכיבה לקימה מבריתו של עולם יליף. ואינו מחוור בעיני כלל, דליכא למימר בקראי יליף מבריתו של עולם, ועוד דמאי איבעית אימא.",
+            "english": "",
+            "takeaway": "רשב״א reads the later alternative answer from ברייתו של עולם as addressing only why the משנה lists ערבין before שחרית, and rejects the view that the פסוק itself placed שכיבה before קימה because it learned from the order of creation."
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "תוספות distinguishes the פסוק-based answer from the ברייתו של עולם answer by limiting the former to the order of קריאת שמע, while רשב״א argues against a Tosafist-style reading that connects the פסוק’s order itself to ברייתו של עולם."
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "תירוץ",
+      "title": "Evening First from Creation",
+      "stepSummary": "The גמרא offers an alternative explanation: the תנא begins with evening because creation itself is ordered as evening before morning.",
+      "whatsHappening": "The גמרא gives an alternative source for teaching evening first. It derives the order from מעשה בראשית.",
+      "deeperAnalysis": "The פסוק says evening before morning. That presents the day as beginning at night. This independently supports the משנה’s evening-first order.",
+      "keyTerms": [
+        {
+          "term": "אִי בָּעֵית אֵימָא",
+          "meaning": "If you want, say"
+        },
+        {
+          "term": "יָלֵיף",
+          "meaning": "He derives"
+        },
+        {
+          "term": "בְּרִיָּיתוֹ שֶׁל עוֹלָם",
+          "meaning": "Creation of the world"
+        },
+        {
+          "term": "וַיְהִי עֶרֶב",
+          "meaning": "And it was evening"
+        },
+        {
+          "term": "וַיְהִי בֹקֶר",
+          "meaning": "And it was morning"
+        },
+        {
+          "term": "יוֹם אֶחָד",
+          "meaning": "One day"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִי בָּעֵית אֵימָא: ",
+          "english": "And if you wish, say:",
+          "notes": "A common Talmudic phrase introducing an alternative explanation."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יָלֵיף מִבְּרִיָּיתוֹ שֶׁל עוֹלָם, ",
+          "english": "he derives it from the creation of the world,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּכְתִיב: ״וַיְהִי עֶרֶב ",
+          "english": "as it is written: “And there was evening"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וַיְהִי בֹקֶר יוֹם אֶחָד״.",
+          "english": "and there was morning, one day.”"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִי בָּעֵית אֵימָא: יָלֵיף מִבְּרִיָּיתוֹ שֶׁל עוֹלָם, דִּכְתִיב: ״וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם אֶחָד״.",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "relationToPreviousStep": "Adds a second basis for beginning with evening",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:9:1",
+            "hebrew": "ואי בעית אימא – הא דתנא ערבין ברישא יליף מברייתו של עולם:",
+            "english": "If you want I can say - the reason we learn evening first is to learn it from the creation of the world.",
+            "takeaway": "רש״י explains that the alternative answer is that the Mishnah lists ערבית first because it derives the night-before-day order from ברייתו של עולם."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:10:1",
+            "hebrew": "אי הכי סיפא דקתני שחרית ברישא - אי אמרת בשלמא דסמיך אקרא דבשכבך א\"כ אינו מקפיד קרא אלא אק\"ש. אלא א\"א דסמיך אקרא דברייתו של עולם א\"כ קפיד אכל מילי א\"כ סיפא דקתני וכו':",
+            "english": "IF SO, THE END [OF THE MISHNA] THAT TEACHES [US OF THE BLESSING OF SHEMA] IN THE MORNING FIRST ETC. The Gemara suggested two reasons that the Mishna spoke of the obligation to recite the evening Shema first: A) The verse about the reciting Shema states: ובשכבך ובקומך - when you lie down and when you arise, putting the evening obligation first. B) The Mishna follows the order of creation‘ויהי ערב ויהי בוקר-there was evening and there was morning’, which speaks of night before day. When the Gemara introduces a question with אי הכי-if so, it indicates that the difficulty is addressed only to the second answer just mentioned, but not to the first answer. The ‘if so’ is saying that according to the first approach A) there is no problem, but according to the second approach just introduced B), there is a problem. Tosfos explains how this works in our Gemara: It is perfectly understandable if you say that the order of the Mishna is based on the verse of “בשכבך-when you lie down”, if that is so, the verse is only particular about reciting Shema but not about the blessings preceding and following recital of Shema. But if you say that the order of the Mishna is based on the verse of creation of the world, then one should be particular to follow this order for all matters including the blessings of Shema.1See מהרש\"א who raises a very fundamental question: How can Tosfos say that if we follow the verse on creation, we must always follow the order of night before day, when the verse discussing the tamid offering clearly places the morning tamid before the evening tamid? מהרש\"א suggests that Tosfos holds that as far as the verse per se is concerned it may sometimes choose to follow one order and at other times follow a different order. The point that Tosfos is making is that if the Tanna chose to follow the order of creation, where night precedes day, the Tanna must be consistent and follow that order in all matters. Proof of this explanation is from the previous Tosfos, where Tosfos says that the Gemara’s question: The Tanna should first teach us about the recital of Shema in the morning is based on the verse that puts the morning tamid first. The Gemara answers: The Tanna is following the order of the verse that deals with reciting Shema, where the evening Shema is mentioned first. The Gemara does not seem to have a problem with the fact that there appears to be a contradiction between the two verses. Obviously, the verse sometimes follows one order and at other times a different order. The Gemara is concerned with discovering the order that the Tanna elected to follow. The Gemara therefore concludes its question: If so, that the Mishna is following the order of creation, the end of the Mishna that teaches etc. [about the blessing of Shema should also begin with the blessings of the morning.]",
+            "takeaway": "תוספות explains that deriving the Mishnah’s order from ברייתו של עולם would make night-first a general ordering principle for all matters, which is why the Gemara can challenge it from the later morning-first listing of ברכות קריאת שמע, unlike the derivation from בשכבך ובקומך that applies only to קריאת שמע."
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Rashba",
+            "ref": "Rashba on Berakhot 2a:2",
+            "hebrew": "גמרא: איבעית אימא יליף מבריתו של עולם. פירוש: אקושיין דליתני שחרית ברישא קא מהדר לתרוצי. ובתוס' פירשו דאקרא דובשכבך ובקומך קא מהדר, כלומר וקרא גופיה דאקדים שכיבה לקימה מבריתו של עולם יליף. ואינו מחוור בעיני כלל, דליכא למימר בקראי יליף מבריתו של עולם, ועוד דמאי איבעית אימא.",
+            "english": "",
+            "takeaway": "הרשב״א reads יליף מברייתו של עולם as answering the original question why the Mishnah taught ערבית before שחרית, and rejects the Tosafist explanation that the verse בשכבך ובקומך itself learned its order from ברייתו של עולם."
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "רשב״א insists that ברייתו של עולם is an independent answer to the Mishnah’s ordering, while he reports and rejects a Tosafist reading that it explains the order of the פסוק בשכבך ובקומך itself; the Tosafot provided treats ברייתו של עולם as a broad ordering principle, which sets up the next Gemara’s challenge from ברכות קריאת שמע."
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "The ברכות Section Starts with Morning",
+      "stepSummary": "The גמרא challenges the evening-first principle from the later משנה about ברכות קריאת שמע, which teaches the morning blessings before the evening blessings.",
+      "whatsHappening": "The גמרא challenges the evening-first explanation from a later משנה in the same פרק. That section lists the morning ברכות before the evening ברכות.",
+      "deeperAnalysis": "The problem is consistency. If the תנא prioritizes evening, the later section should do the same. The גמרא must explain why the order changes there.",
+      "keyTerms": [
+        {
+          "term": "אִי הָכִי",
+          "meaning": "If so"
+        },
+        {
+          "term": "סֵיפָא",
+          "meaning": "The later clause"
+        },
+        {
+          "term": "בַּשַּׁחַר",
+          "meaning": "In the morning"
+        },
+        {
+          "term": "מְבָרֵךְ",
+          "meaning": "He blesses"
+        },
+        {
+          "term": "לְפָנֶיהָ",
+          "meaning": "Before it"
+        },
+        {
+          "term": "לְאַחֲרֶיהָ",
+          "meaning": "After it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, סֵיפָא דְּקָתָנֵי ",
+          "english": "If so, the later clause, which teaches,",
+          "notes": "אִי הָכִי means “if so.” סֵיפָא means the later or concluding part of a teaching."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, ",
+          "english": "“In the morning, one recites two blessings before it and one after it,",
+          "notes": "מְבָרֵךְ here means “recites a blessing.” “It” refers to the Shema."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ״, ",
+          "english": "in the evening, one recites two blessings before it and two after it,”"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לִתְנֵי דְּעַרְבִית בְּרֵישָׁא!",
+          "english": "let it teach the evening case first!",
+          "notes": "לִתְנֵי means “let it teach” or “it should teach.” בְּרֵישָׁא means “first.”"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, סֵיפָא דְּקָתָנֵי ״בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, בָּעֶרֶב מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ״, לִתְנֵי דְּעַרְבִית בְּרֵישָׁא!",
+      "dependsOnStepNumbers": [
+        6,
+        7
+      ],
+      "relationToPreviousStep": "Challenges whether the evening-first rationale should apply throughout the משנה",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:10:1",
+            "hebrew": "אי הכי סיפא דקתני שחרית ברישא - אי אמרת בשלמא דסמיך אקרא דבשכבך א\"כ אינו מקפיד קרא אלא אק\"ש. אלא א\"א דסמיך אקרא דברייתו של עולם א\"כ קפיד אכל מילי א\"כ סיפא דקתני וכו':",
+            "english": "IF SO, THE END [OF THE MISHNA] THAT TEACHES [US OF THE BLESSING OF SHEMA] IN THE MORNING FIRST ETC. The Gemara suggested two reasons that the Mishna spoke of the obligation to recite the evening Shema first: A) The verse about the reciting Shema states: ובשכבך ובקומך - when you lie down and when you arise, putting the evening obligation first. B) The Mishna follows the order of creation‘ויהי ערב ויהי בוקר-there was evening and there was morning’, which speaks of night before day. When the Gemara introduces a question with אי הכי-if so, it indicates that the difficulty is addressed only to the second answer just mentioned, but not to the first answer. The ‘if so’ is saying that according to the first approach A) there is no problem, but according to the second approach just introduced B), there is a problem. Tosfos explains how this works in our Gemara: It is perfectly understandable if you say that the order of the Mishna is based on the verse of “בשכבך-when you lie down”, if that is so, the verse is only particular about reciting Shema but not about the blessings preceding and following recital of Shema. But if you say that the order of the Mishna is based on the verse of creation of the world, then one should be particular to follow this order for all matters including the blessings of Shema.1See מהרש\"א who raises a very fundamental question: How can Tosfos say that if we follow the verse on creation, we must always follow the order of night before day, when the verse discussing the tamid offering clearly places the morning tamid before the evening tamid? מהרש\"א suggests that Tosfos holds that as far as the verse per se is concerned it may sometimes choose to follow one order and at other times follow a different order. The point that Tosfos is making is that if the Tanna chose to follow the order of creation, where night precedes day, the Tanna must be consistent and follow that order in all matters. Proof of this explanation is from the previous Tosfos, where Tosfos says that the Gemara’s question: The Tanna should first teach us about the recital of Shema in the morning is based on the verse that puts the morning tamid first. The Gemara answers: The Tanna is following the order of the verse that deals with reciting Shema, where the evening Shema is mentioned first. The Gemara does not seem to have a problem with the fact that there appears to be a contradiction between the two verses. Obviously, the verse sometimes follows one order and at other times a different order. The Gemara is concerned with discovering the order that the Tanna elected to follow. The Gemara therefore concludes its question: If so, that the Mishna is following the order of creation, the end of the Mishna that teaches etc. [about the blessing of Shema should also begin with the blessings of the morning.]",
+            "takeaway": "תוספות explains that the Gemara’s אי הכי challenges only the creation-order rationale of ויהי ערב ויהי בוקר, since that would require evening-first ordering even for ברכות קריאת שמע, whereas the verse ובשכבך ובקומך is specific to קריאת שמע itself and need not govern the order of its ברכות."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Morning Details Are Finished First",
+      "stepSummary": "The גמרא answers that the תנא did begin with evening, then moved to morning, and once he was already discussing morning he completed the morning ברכות before returning to evening.",
+      "whatsHappening": "The גמרא resolves the order problem by explaining the משנה’s flow. The משנה opens with nighttime, but once it reaches morning it finishes the morning details before returning to nighttime.",
+      "deeperAnalysis": "The answer distinguishes the משנה’s overall order from its local sequence. The overall order still starts with evening. The local sequence follows the topic currently being explained.",
+      "keyTerms": [
+        {
+          "term": "פָּתַח",
+          "meaning": "opened"
+        },
+        {
+          "term": "וַהֲדַר",
+          "meaning": "and then returned"
+        },
+        {
+          "term": "עַד דְּקָאֵי",
+          "meaning": "while it is still dealing with"
+        },
+        {
+          "term": "פָּרֵישׁ",
+          "meaning": "explains"
+        },
+        {
+          "term": "מִלֵּי",
+          "meaning": "matters or details"
+        }
+      ],
+      "whatToRemember": "The משנה can follow one order when opening a topic and a different order when finishing details already under discussion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנָּא פָּתַח בְּעַרְבִית, ",
+          "english": "The tanna began with the evening one,",
+          "notes": "תַּנָּא means a Mishnah-era teacher; here it refers to the teacher of the text under discussion."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַהֲדַר תָּנֵי בְּשַׁחֲרִית, ",
+          "english": "and then taught about the morning one,",
+          "notes": "וַהֲדַר means “and then” or “afterward.”"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַד דְּקָאֵי בְּשַׁחֲרִית, ",
+          "english": "once he was dealing with the morning one,",
+          "notes": "Literally, “while he was standing in the morning”; idiomatically, “since he was engaged with the morning topic.”"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "פָּרֵישׁ מִילֵּי דְשַׁחֲרִית, ",
+          "english": "he explained the matters of the morning one,",
+          "notes": "מִילֵּי means “matters” or “laws.”"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וַהֲדַר פָּרֵישׁ מִילֵּי דְעַרְבִית.",
+          "english": "and then he explained the matters of the evening one."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנָּא פָּתַח בְּעַרְבִית, וַהֲדַר תָּנֵי בְּשַׁחֲרִית, עַד דְּקָאֵי בְּשַׁחֲרִית, פָּרֵישׁ מִילֵּי דְשַׁחֲרִית, וַהֲדַר פָּרֵישׁ מִילֵּי דְעַרְבִית.",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "relationToPreviousStep": "Answers the challenge from the סיפא by distinguishing initial order from topical continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Berakhot 2a:11:1",
+            "hebrew": "והדר תנא בשחרית – מאימתי קורין את שמע בשחרית:",
+            "english": "It then taught about the morning - \"From when can we read the shema in the morning\".",
+            "takeaway": "Rashi explains that the Gemara’s phrase וַהֲדַר תָּנֵי בְּשַׁחֲרִית refers to the Mishnah’s next unit, מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּשַׁחֲרִית."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Why Use an Indirect Time Marker",
+      "stepSummary": "The גמרא challenges the משנה’s indirect time-marker: if כהנים eat תרומה at צֵאת הַכּוֹכָבִים, the משנה should have simply said that time.",
+      "whatsHappening": "The גמרא quotes the משנה and asks why it identifies the time through כהנים eating תרומה. It asks why the משנה did not simply say צֵאת הַכּוֹכָבִים.",
+      "deeperAnalysis": "The challenge is about wording, not about the time for קריאת שמע. If both phrases point to the same time, the indirect phrase must be teaching something extra. This prepares for an added הלכה learned along the way.",
+      "keyTerms": [
+        {
+          "term": "אָמַר מָר",
+          "meaning": "the Master said"
+        },
+        {
+          "term": "מַאי אִירְיָא",
+          "meaning": "why specifically"
+        },
+        {
+          "term": "לִיתְנֵי",
+          "meaning": "let it teach"
+        },
+        {
+          "term": "צֵאת הַכּוֹכָבִים",
+          "meaning": "the emergence of the stars"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר ",
+          "english": "The Master said:",
+          "notes": "אָמַר מָר is a common Talmudic formula introducing a quoted teaching."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכוֹל בִּתְרוּמָתָן. ",
+          "english": "from the time when the priests enter to eat their teruma.",
+          "notes": "תְּרוּמָה is the priestly portion of produce, which only priests may eat when ritually permitted."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִכְּדִי כֹּהֲנִים אֵימַת קָא אָכְלִי תְּרוּמָה? ",
+          "english": "In any case, when do priests eat teruma?",
+          "notes": "קָא with a verb often marks an ongoing or present action: “are eating / do eat.”"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "— מִשְּׁעַת צֵאת הַכּוֹכָבִים, ",
+          "english": "— from the time the stars come out,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לִתְנֵי: ״מִשְּׁעַת צֵאת הַכּוֹכָבִים״!",
+          "english": "let it teach: “from the time the stars come out”!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר מָר מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכוֹל בִּתְרוּמָתָן",
+      "dependsOnStepNumbers": [],
+      "relationToPreviousStep": "Begins this sugya by returning to and probing the לשון of the משנה.",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:13:1",
+            "hebrew": "והא קמ\"ל דכפרה לא מעכבא - וא\"ת הא תנינא חדא זימנא במס' נגעים (פי\"ד) ומייתי לה בהערל (דף עד:) העריב שמשו אוכל בתרומה וי\"ל דרגילות של משניות לאשמועינן בקוצר אף למה שמפורש כבר:",
+            "english": "AND [THE TANNA] TEACHES US [A NEW HALAKHA: FAILURE TO BRING AN] ATONEMENT OFFERING DOES NOT PREVENT. There are three levels of purification for one who became tamei: A) One who comes in contact with a source of tumah such as an animal corpse, immerses in a mikveh and may eat regular chulin and maaser sheni food immediately. B) In order to eat Terumah one must wait until nightfall after immersion in a mikveh. C) A person who experienced a tumah that emanates from his person, such as a metzora, a niddah, a zav or a woman after childbirth, needs to bring a sacrifice during the day after their immersion in order to eat sacrificial flesh. Our Mishna is teaching us that even though those in group C) who need to wait until the next day to offer a sacrifice, do not need to wait until the next day to eat terumah. If you ask: But [the Mishna] already taught this once in Maseches Negaim (17, 3) and it is cited in He’arael (Yevamos 74b) in reference to a metzora who immersed in a mikveh on the seventh day of his purification process and will offer his set of sacrifices the next day, when the sun sets in the west on the seventh day, he may eat terumah, even though he will not be permitted to eat sacrificial flesh till after he offers his sacrifices on the eight day. The Mishna clearly states the ruling that under all circumstances one may eat terumah after the day he immersed himself passes. Why does our Mishna repeat this ruling? We can answer: That it is the way of the Mishna to briefly inform us even that which is already known. If the Mishna here had taught this ruling at length, we would have a legitimate problem with the repetition. However, since the Mishna alludes to this ruling briefly, there is no problem.",
+            "takeaway": "תוספות explains that the משנה’s indirect formulation teaches incidentally that כפרה לא מעכבא for eating תרומה, and although this is already explicit in נגעים, משניות often briefly allude even to laws taught elsewhere."
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Ritva",
+            "ref": "Ritva on Berakhot 2a:3",
+            "hebrew": "אמר מר משעה שהכהנים וכו' ליתני משעת צאת הכוכבים. לאו דוק' ליתני משעת צאת הכוכבים דה\"ה אם לא היה זמנו ביציאת הכוכבים דהויא קשיא ליה אלא דקושט' דמילת' נקט והכי קשי' אמאי נקט כהנים שתלוים בזמן אחר ליתני בפירוש ההוא זמן שהן אוכלין, ומשני מילת' אגב אורחיה קמ\"ל דכהני אימת אכלי בתרומה משעת צאת הכוכבים וכפרה לא מעכב' להו פי' הא קמ\"ל דכפרה לא מעכב' דהא אמרי' דלערב אחר הערב שמש הוא זמן אכילתן ואי אפשר להביא קרבן אחר הערב שמש שאין קרבן אלא ביום כדכתיב ביום צוותו וגומר וקודם הערב שמש אכתי גברא לא חזי אבל לא אשמעינן במתניתין זמן דכהני אימת אכלי אלא בברייתא:",
+            "english": "",
+            "takeaway": "The ריטב״א explains that the question is not specifically why the משנה did not say צאת הכוכבים, but why it used the dependent marker of כהנים eating תרומה instead of stating the relevant time explicitly, and the answer is that it incidentally teaches כפרה לא מעכבא."
+          },
+          {
+            "source": "Rashba",
+            "ref": "Rashba on Berakhot 2a:3",
+            "hebrew": "הא קא משמע לן דכהני אימת קא אכלי בתרומה משעת צאת הכוכבים וכפרה לא מעכבא להו. פירוש: מדיהיב סימנא לקריאת שמע של ערבית באכילת תרומה, אלמא אין לך טמא שאינו אוכל תרומה מבערב, שאם יש מעוכב מלאכול עד שיביא קרבנותיו ביום השמיני, אם כן האיך יהיב סימנא לשל ערבית הא איכא דלא אכיל עד צפרא, אלמא כולהו חד שיעורא אית להו דהיינו מבערב אחר צאת הכוכבים, ומכל מקום זמן יציאת הכוכבים לאכילת קדשים לאו ממתניתין ילפינן דאדרבא קריאת שמע אתי למילף מאכילת קדשים ליציאת הכוכבים, אלא יציאת הכוכבים לאכילת קדשים מובא השמש וטהר ילפינן, וכדמשמע בסמוך דאקשינן על הא וממאי דהאי ובא השמש ביאת אורו הוא וכדכתבינן בסמוך. ובמתניתין אשמועינן דכולהו אכלי מאחר ביאת השמש, ופירושא דלישנא הכי: הא קא משמע לן דכל כהני אימת אכלי בתרומה משעת צאת הכוכבים דאפילו מחוסרי כפרה, כפרה לא מעכבא להו. ואם תאמר אכתי דיוקא דמתניתין דהכא למה לי, מתניתין היא בהדיא בנגעים (פי\"ד, מ\"ג) טבל ועלה אוכל במעשר, העריב שמשו אוכל בתרומה, הביא כפרתו אוכל בקדשים. יש לומר דאורחא דתנא הוא בהכין, דאף על גב דתני מתניתין בהדיא כי משכח דוכתא אי מצי לאנוחי ביה דיוקא דלידוק מינה הכין עביד ולא נמנע, ודכוותה בכתובות (מח, א) לעולם היא ברשות האב עד שתכנס לחופה, מאי לעולם, לאפוקי ממשנה ראשונה וכו', ואף על גב דמשנה שלימה שנינו שם (נז, א) זו משנה ראשונה בית דין שלאחריהם אמרו אין האשה אוכלת בתרומה עד שתכנס לחופה.",
+            "english": "",
+            "takeaway": "The רשב״א says the משנה’s use of אכילת תרומה as the marker implies that all טמאים, even מחוסרי כפרה, may eat תרומה from צאת הכוכבים, while the actual rule that צאת הכוכבים is the time for תרומה is learned from ובא השמש וטהר, not from this משנה."
+          },
+          {
+            "source": "Meiri",
+            "ref": "Meiri on Berakhot 2b:10",
+            "hebrew": "ולענין ביאור מה שנתחדש בסוגיא זו בענין מכדי כהנים וכו', ובענין ביאת אורו וביאת שמשו נתבלבלו בה הרבה מפרשים דמעיקרא קאמר מכדי כהנים מאימת אכלי בתרומה וכו' משעת צאת הכוכבים שמשמעו של דבר שכך פשוט להם, והדר קאמר דאגב אורחיה אתא לאשמועינן הכי אלמא דאי לאו הכי לא הוה פשיטא לן. כך נראה לנו בפירושה מכדי כהנים מאימת אכלי בתרומה משעת צאת הכוכבים דאע\"ג דבהערב שמש תלא רחמנא מכל מקום הכי חזינן דעבדי כהני דאלמא הכי קים להו שם זמן שאורו של שמש שלוט אע\"פ שנסתר ממנו אינו קרוי הערב השמש לענין זה, וא\"כ ליתני בהדיא משעת צאת הכוכבים ומה ענין לתלות זמן ק\"ש בזמן אכילת תרומה, ותירץ שהוא כוון להודיענו על זמן אכילת תרומה שהוא ביציאת הכוכבים אף למחוסרי כפרה, שלא לטעות ולומר שזב ומצורע ודומיהם שטעונים כפרה בשמיני יהו אסורים בתרומה עד שיביאו כפרתן למחר, ולא כיון הפסוק ליתן זמן אכילתה בערב שמיני אלא לטמאים שאינם מחוסרי כפרה כגון טמא שרץ ונבלה אלא אף במחוסרים כפרה כן כדקאמר סתמא משעה שהכהנים וכו' כלומר כל הכהנים ואפי' מחוסרי כפרה, ובא להודיע שזמן הנתון באכילתה להערב השמש אף במחוסרי כפרה כן, ומאחר שזמנה בהערב השמש הדבר פשוט בו לצאת הכוכבים ראיה למה שאמר שאף מחוסרי כפרה זמנן מבערב מדתניא ובא השמש וטהר ביאת שמשו מעכבתו מלאכול בתרומה, אבל כפרה לא מעכבא. ואין להקשות תנינא חדא זימנא ממה ששנינו ביבמות (יבמות עד, ב) טבל ועלה אוכל במעשר, העריב שמשו אוכל בתרומה דהא הכא לאו מילתא באפי נפשה עביד לה אלא אגב אורחיה ואורחא דתנא הכי הוא לאשמועינן מילתא אגב אורחיה, אע\"ג דאיתא בהדיא במתני וכמו שמצינו בכתובות פרק נערה (כתובות מח, ב) לעולם היא ברשות האב עד שתכנס לחופה ואמרו שם מאי לעולם לאפוקי ממשנה ראשונה, אע\"פ שבפרק אע\"פ (כתובות נז, א) שנינו להדיא זו משנה ראשונה אבל ב\"ד שלאחריהם אמרו אין האשה אוכלת בתרומה עד שתכנס לחופה:",
+            "english": "",
+            "takeaway": "The מאירי resolves the apparent circularity by explaining that the Gemara initially assumes from accepted practice that כהנים eat at צאת הכוכבים, then explains that the משנה chose this wording to teach that even מחוסרי כפרה may eat תרומה then, because כפרה לא מעכבא."
+          }
+        ],
+        "acharonim": [
+          {
+            "source": "Ben Yehoyada",
+            "ref": "Ben Yehoyada on Berakhot 2a:4",
+            "hebrew": "לֵיתְנִי מִשְּׁעַת צֵאת הַכּוֹכָבִים? נראה לי בס\"ד טעם להא דתלה זמן קריאת שמע באכילת תרומה, מלבד טעם הש\"ס, והוא, דאיכא בזוהר הקדוש דקודשא בריך הוא אמר וְיִקְחוּ לִי תְּרוּמָה ליחדא ליה תרין זמנין ביומא במ\"ט אתוון דשחרית, ומ\"ט אתוון דערבית, חסרין תרין ממאה, וכו' עיין שם. נמצא קריאת שמע נקראת תרומה, וכתבו המפרשים ז\"ל כיון דקריאת שמע היא תרומה, לכך המטמא פיו מטמא התרומה, והשתא בזה מובן הטעם מה דנקיט התנא זמן קריאת שמע על זמן אכילת תרומה, להורות לנו דקריאת שמע יש לה דין תרומה, וצריך לקרותה בטהרת הפה.",
+            "english": "",
+            "takeaway": "The בן יהוידע adds a symbolic reason for linking קריאת שמע to אכילת תרומה: since the זוהר treats קריאת שמע as a form of תרומה, the משנה hints that it must be recited with טהרת הפה."
+          }
+        ],
+        "interplaySummary": "The ריטב״א, רשב״א, and מאירי all read the wording question as leading to the incidental halacha of כפרה לא מעכבא, while תוספות, רשב״א, and מאירי address why that lesson can be repeated despite being taught elsewhere. The בן יהוידע does not dispute the Gemara’s answer, but adds a separate homiletic/mystical rationale for the same wording."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "The Phrase Teaches What Permits Eating תרומה",
+      "stepSummary": "The גמרא answers that the משנה intentionally mentions כהנים eating תרומה to teach incidentally that sunset permits eating תרומה even before completion of כפרה.",
+      "whatsHappening": "The גמרא answers that the משנה’s wording also teaches a הלכה about תרומה. A ברייתא is cited to show that ביאת שמש permits eating תרומה, while כפרה does not delay it.",
+      "deeperAnalysis": "The phrase is no longer redundant; it is an incidental teaching. After טבילה, nightfall is the decisive מַתִּיר for eating תרומה. The later קרבן completes כפרה, but it is not required for eating תרומה.",
+      "keyTerms": [
+        {
+          "term": "מִלְּתָא אַגַּב אוֹרְחֵיהּ",
+          "meaning": "a point taught incidentally along the way"
+        },
+        {
+          "term": "קָא מַשְׁמַע לַן",
+          "meaning": "it teaches us"
+        },
+        {
+          "term": "כַּפָּרָה",
+          "meaning": "atonement or completion of purification through an offering"
+        },
+        {
+          "term": "מְעַכְּבָא",
+          "meaning": "delays or prevents"
+        },
+        {
+          "term": "בִּיאַת שִׁמְשׁוֹ",
+          "meaning": "the setting of the sun"
+        },
+        {
+          "term": "בָּרַיְיתָא",
+          "meaning": "a tannaitic teaching outside the משנה"
+        }
+      ],
+      "whatToRemember": "For eating תרומה, nightfall after טבילה is enough even when a later קרבן כפרה is still required.",
+      "whyThisMatters": "This establishes a broader rule in טומאה וטהרה: הערב שמש can permit תרומה before the process of כפרה is fully complete.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִלְּתָא אַגַּב אוֹרְחֵיהּ קָמַשְׁמַע לַן — ",
+          "english": "It teaches us a point in passing—",
+          "notes": "אַגַּב אוֹרְחֵיהּ means “along the way” or “incidentally.” קָמַשְׁמַע לַן is a common Talmudic phrase: “it teaches us.”"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֹּהֲנִים אֵימַת קָא אָכְלִי בִּתְרוּמָה — ",
+          "english": "When do priests eat teruma?—",
+          "notes": "תְּרוּמָה is priestly produce that may be eaten only by priests and under conditions of ritual purity."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִשְּׁעַת צֵאת הַכּוֹכָבִים. ",
+          "english": "From the time when the stars come out."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא קָמַשְׁמַע לַן דְּכַפָּרָה לָא מְעַכְּבָא. ",
+          "english": "And this teaches us that atonement does not hold it back.",
+          "notes": "Here כַּפָּרָה refers to bringing the required atonement offering; it does not delay the priest from eating teruma once night has arrived."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּדְתַנְיָא: ״וּבָא הַשֶּׁמֶשׁ וְטָהֵר״ — ",
+          "english": "As it was taught: “And the sun sets, and he becomes pure”—"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בִּיאַת שִׁמְשׁוֹ מְעַכַּבְתּוֹ מִלֶּאֱכוֹל בִּתְרוּמָה, ",
+          "english": "the setting of his sun prevents him from eating teruma,",
+          "notes": "Literally, “the coming of his sun”; the phrase means sunset/nightfall."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאֵין כַּפָּרָתוֹ מְעַכַּבְתּוֹ מִלֶּאֱכוֹל בִּתְרוּמָה.",
+          "english": "but his atonement offering does not prevent him from eating teruma."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִלְּתָא אַגַּב אוֹרְחֵיהּ קָמַשְׁמַע לַן",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "relationToPreviousStep": "Directly resolves the prior challenge by identifying an additional halacha taught through the משנה’s wording.",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Berakhot 2a:13:1",
+            "hebrew": "והא קמ\"ל דכפרה לא מעכבא - וא\"ת הא תנינא חדא זימנא במס' נגעים (פי\"ד) ומייתי לה בהערל (דף עד:) העריב שמשו אוכל בתרומה וי\"ל דרגילות של משניות לאשמועינן בקוצר אף למה שמפורש כבר:",
+            "english": "AND [THE TANNA] TEACHES US [A NEW HALAKHA: FAILURE TO BRING AN] ATONEMENT OFFERING DOES NOT PREVENT. There are three levels of purification for one who became tamei: A) One who comes in contact with a source of tumah such as an animal corpse, immerses in a mikveh and may eat regular chulin and maaser sheni food immediately. B) In order to eat Terumah one must wait until nightfall after immersion in a mikveh. C) A person who experienced a tumah that emanates from his person, such as a metzora, a niddah, a zav or a woman after childbirth, needs to bring a sacrifice during the day after their immersion in order to eat sacrificial flesh. Our Mishna is teaching us that even though those in group C) who need to wait until the next day to offer a sacrifice, do not need to wait until the next day to eat terumah. If you ask: But [the Mishna] already taught this once in Maseches Negaim (17, 3) and it is cited in He’arael (Yevamos 74b) in reference to a metzora who immersed in a mikveh on the seventh day of his purification process and will offer his set of sacrifices the next day, when the sun sets in the west on the seventh day, he may eat terumah, even though he will not be permitted to eat sacrificial flesh till after he offers his sacrifices on the eight day. The Mishna clearly states the ruling that under all circumstances one may eat terumah after the day he immersed himself passes. Why does our Mishna repeat this ruling? We can answer: That it is the way of the Mishna to briefly inform us even that which is already known. If the Mishna here had taught this ruling at length, we would have a legitimate problem with the repetition. However, since the Mishna alludes to this ruling briefly, there is no problem.",
+            "takeaway": "תוספות explains that although the rule that כפרה לא מעכבא for eating תרומה was already taught in מסכת נגעים, the משנה may still allude to it briefly here because משניות commonly restate even known halakhot in concise form."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Testing the Verse Reading",
+      "stepSummary": "The גמרא challenges the ברייתא’s reading of the verse by asking how we know that וּבָא הַשֶּׁמֶשׁ refers to sunset and וְטָהֵר refers to טְהַר יוֹמָא.",
+      "whatsHappening": "The גמרא now challenges the דרשה behind the ברייתא. It asks how we know the verse should be read as sunset followed by the day becoming clear.",
+      "deeperAnalysis": "This attacks the proof used in the previous answer. If the words of the פסוק can be parsed differently, the source that כפרה is not מעכב becomes weaker. The discussion therefore shifts from the משנה’s wording to the verse’s interpretation.",
+      "keyTerms": [
+        {
+          "term": "וּמִמַּאי",
+          "meaning": "and from where do we know"
+        },
+        {
+          "term": "וּבָא הַשֶּׁמֶשׁ",
+          "meaning": "and the sun comes or sets"
+        },
+        {
+          "term": "וְטָהֵר",
+          "meaning": "and it becomes pure or clear"
+        },
+        {
+          "term": "טְהַר יוֹמָא",
+          "meaning": "the clearing or completion of the day"
+        }
+      ],
+      "confusionAlert": "Do not read וּמִמַּאי as a simple request for explanation; here it challenges the דרשה supporting the previous answer.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִמַּאי דְּהַאי ״וּבָא הַשֶּׁמֶשׁ״ בִּיאַת הַשֶּׁמֶשׁ,",
+          "english": "And from what do we know that this phrase, “and the sun sets,” means the setting of the sun,",
+          "notes": "בִּיאַת הַשֶּׁמֶשׁ literally means “the coming/entering of the sun,” used here for sunset."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": " וְהַאי ״וְטָהֵר״ — טְהַר יוֹמָא.",
+          "english": "and that this phrase, “and it is purified,” means the day has become pure?",
+          "notes": "טְהַר יוֹמָא means “the purity/clearing of the day,” i.e. the day is over and clear of its impurity status."
+        }
+      ],
+      "classificationConfidence": "Medium",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "וּמִמַּאי דְּהַאי ״וּבָא הַשֶּׁמֶשׁ״ בִּיאַת הַשֶּׁמֶשׁ",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "relationToPreviousStep": "Challenges the scriptural derivation embedded in the previous answer."
+    }
+  ],
+  "pipelineVersion": "0.3.0",
+  "generatedAt": "2026-05-11T23:25:25.932Z",
+  "modelsUsed": {
+    "segmentation": "openai/gpt-5.5",
+    "structure": "openai/gpt-5.5",
+    "phrasemap": "openai/gpt-5.5",
+    "meforshim": "openai/gpt-5.5",
+    "teaching": "openai/gpt-5.5",
+    "validate": "openai/gpt-5.5"
+  }
+}
