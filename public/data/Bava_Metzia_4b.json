@@ -1,0 +1,1234 @@
+{
+  "ref": "Bava Metzia 4b",
+  "masechet": "Bava_Metzia",
+  "daf": 4,
+  "amud": "b",
+  "mainTopic": "מודה מקצת הטענה והילך · הוצאת קרקעות משבועה",
+  "overview": "(1) The Gemara analyzes the Mishnah's dispute between רבי שמעון בן אלעזר and רבי עקיבא regarding whether a borrower with a document is liable for an oath based on מודה מקצת or exempt as הילך. (2) The Gemara discusses the exclusion of קרקעות from oaths, analyzing whether a partial admission regarding movable property triggers an oath for land, and the necessity of a verse to exclude land. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 10,
+      "topic": "מודה מקצת הטענה והילך",
+      "gist": "The Gemara analyzes the Mishnah's dispute between רבי שמעון בן אלעזר and רבי עקיבא regarding whether a borrower with a document is liable for an oath based on מודה מקצת or exempt as הילך.",
+      "openingFormula": "סלעים, דינרין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 11,
+      "endLine": 15,
+      "topic": "הוצאת קרקעות משבועה",
+      "gist": "The Gemara discusses the exclusion of קרקעות from oaths, analyzing whether a partial admission regarding movable property triggers an oath for land, and the necessity of a verse to exclude land. — discussion continues into next amud.",
+      "openingFormula": "מיתיב מר זוטרא בריה דרב נחמן",
+      "firstStepNumber": 11,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah's dispute on מֹדֶה מִקְצַת vs. הֵילֵךְ",
+      "stepSummary": "The Mishnah presents a case where a creditor claims five and the debtor admits to three, with רבי שמעון בן אלעזר ruling liability for an oath based on מודה מקצת and רבי עקיבא ruling exemption as הילך.",
+      "whatsHappening": "The Mishnah presents a case where a debtor admits to part of a debt, sparking a dispute between רבי שמעון בן אלעזר and רבי עקיבא. This is the opening setup of the sugya.",
+      "deeperAnalysis": "The core tension is whether a partial admission triggers the standard oath of מֹדֶה מִקְצַת הַטְּעָנָה. Alternatively, does the written document (שֵׁטֶר) make the admission equivalent to הֵילֵךְ, potentially exempting the debtor?",
+      "keyTerms": [
+        {
+          "term": "מֹדֶה מִקְצַת הַטְּעָנָה",
+          "meaning": "One who admits to part of the claim"
+        },
+        {
+          "term": "הֵילֵךְ",
+          "meaning": "Here you are (admitting to the minimum amount)"
+        },
+        {
+          "term": "שֵׁטֶר",
+          "meaning": "Written document"
+        },
+        {
+          "term": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר",
+          "meaning": "Rabbi Shimon ben Elazar"
+        },
+        {
+          "term": "רַבִּי עֲקִיבָא",
+          "meaning": "Rabbi Akiva"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "סְלָעִים, דִּינָרִין. מַלְוֶה אוֹמֵר חָמֵשׁ, וְלֹוֶה אוֹמֵר שָׁלֹשׁ.",
+          "english": "Sela'im, dinars. The lender says five, and the borrower says three."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר:",
+          "english": "Rabbi Shimon ben Elazar says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה – יִשָּׁבַע.",
+          "english": "Since he admitted to part of the claim — he takes an oath."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה, וּפָטוּר.",
+          "english": "Rabbi Akiva says: He is merely like one returning a lost item, and he is exempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "סְלָעִים, דִּינָרִין. מַלְוֶה אוֹמֵר חָמֵשׁ, וְלֹוֶה אוֹמֵר שָׁלֹשׁ. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה – יִשָּׁבַע. רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה, וּפָטוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:1:1",
+            "hebrew": "סלעים דינרין - שטר שכתוב בו פלוני לוה מפלוני סלעין ולא פירש כמה וכן שטר שכתוב בו דינרין סתם:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah refers to a שטר that states a loan of סלעים or דינרין without specifying the exact amount."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:1:2",
+            "hebrew": "אינו אלא כמשיב אבידה - מדהוה ליה למימר שתים והשטר מסייעו דכיון דלא פירש ניכרים הדברים ששנים היו לכך לא הוצרך לפרש דמיעוט סלעים ב' וכיון דאמר ג' משיב אבידה הוא וחכמים פטרו את משיב אבידה מן השבועה דתנן המוצא את המציאה לא ישבע וכו' (גיטין דף מח:):",
+            "english": "",
+            "takeaway": "רש״י explains that רבי עקיבא considers the defendant's admission of three as equivalent to משיב אבידה because the שטר implies a minimal amount (two), so admitting three is like returning a found object, which is פטור from שבועה according to חכמים."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Does the Mishnah imply הֵילֵךְ is exempt?",
+      "stepSummary": "The Gemara challenges the Mishnah, inferring that if the debtor is liable for admitting to three, he would be exempt for admitting to two, and since the document implies two, this teaches that הילך is exempt.",
+      "whatsHappening": "The גמרא attacks the Mishnah's wording to derive a ruling about הֵילֵךְ. This is a classic קושיא based on numerical implications.",
+      "deeperAnalysis": "The גמרא reasons that רבי שמעון בן אלעזר's liability for three implies exemption for two. Since the document implies two, admitting to it is like הֵילֵךְ. Thus, the Mishnah seemingly teaches that הֵילֵךְ is exempt.",
+      "keyTerms": [
+        {
+          "term": "קָתָנֵי מִיהַת",
+          "meaning": "It teaches at least"
+        },
+        {
+          "term": "טַעְמָא דְּאָמַר",
+          "meaning": "The reason he said"
+        },
+        {
+          "term": "הָא שְׁתַּיִם",
+          "meaning": "But two"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "קָתָנֵי מִיהַת: רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר,",
+          "english": "Small ones at least: Rabbi Shimon ben Elazar says,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה –",
+          "english": "Since he admitted to part of the claim –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יִשָּׁבַע. טַעְמָא דְּאָמַר שָׁלֹשׁ,",
+          "english": "he takes an oath. The reason that he said three,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא שְׁתַּיִם פָּטוּר,",
+          "english": "if two, he is exempt,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהַאי שְׁטָר דְּקָמוֹדֵי בֵּיהּ הֵילָךְ הוּא,",
+          "english": "And this promissory note in which you are obligated is,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּשְׁמַע מִינַּהּ הֵילָךְ פָּטוּר!",
+          "english": "And learn from it that you are exempt!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "קָתָנֵי מִיהַת: רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר, הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה – יִשָּׁבַע. טַעְמָא דְּאָמַר שָׁלֹשׁ, הָא שְׁתַּיִם פָּטוּר, וְהַאי שְׁטָר דְּקָמוֹדֵי בֵּיהּ הֵילָךְ הוּא, וּשְׁמַע מִינַּהּ הֵילָךְ פָּטוּר!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:2:1",
+            "hebrew": "טעמא דאמר שלש - קס\"ד השתא דמייתי תיובתא מדנקט פלוגתייהו בשלש וחמש ולא נקט ולוה אמר שתים ש\"מ בשתים לא מחייב ליה רשב\"א וכדמפרש ואזיל דכיון דכל הודאתו בשטר כתובה דשטר נמי שתים משמע וכל משמעות השטר הילך הוא שהרי הקרקעות משועבדים על כך אבל כי אמר שלש סלעים שלישי מלוה ע\"פ הוא דלאו בשטר כתובה ואין הקרקעות משועבדים ולאו הילך הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי שמעון בן אלעזר's requirement of three coins for liability implies that two coins are exempt because the document itself covers two, making the admission equivalent to הילך, whereas the third coin is an oral debt not covered by the document's lien."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:2:2",
+            "hebrew": "ה\"ג ושטרא דקמודה הילך הוא - ול\"ג כיון דקמודה ביה דבלאו הודאתו נמי כל שטרי הילך הוא וה\"פ ומאי דקמודה ביה דכתוב בשטר הילך הוא:",
+            "english": "",
+            "takeaway": "רש״י corrects the text to read 'ושטרא דקמודה הילך הוא' to clarify that the document itself inherently signifies הילך due to the lien on property, regardless of the defendant's admission."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:2:1",
+            "hebrew": "וש\"מ דהילך פטור - וא\"ת יהא נאמן בשלש דמיגו דבעי אמר שתים וי\"ל כיון דהילך פטור אם יאמר שתים הו\"ל כופר הכל ואין אדם מעיז ולר\"ע לא הוי עזות דמסייע ליה שטרא:",
+            "english": "Thus, we can learn from here that [in a case of] “Here, it is yours! [the defendant] is exempt [from taking an oath]. The Gemara is discussing a plaintiff who has a document that says the defendant owes him selaim or dinarim, which are the plural of sela or dinar. At this point in the dialogue the Gemara is deducing that if the defendant admitted that he owes only two selaim or dinarim, he would not need to take a Torah oath. It is only because he admitted owing a third sela or dinar that is not mentioned in the document that he is liable for the oath of one who partially admits the claim against him. The Gemara assumes that the reason one is exempt if he admits to owing only two selaim or dinarim is because that admission is the equivalent of “Here, it is yours!”, since the plaintiff has a document that the defendant owes him two dinarim or selaim. Any debt recorded in a document has an automatic lien on the defendant’s real property. The property is always available and an admission is therefore the equivalent of saying, “Here, it is yours!”. According to the present analysis of the Baraisa, R’ Shimon ben Elazar holds that one is obligated to swear by Torah law when he admits that he owes three dinarim or selaim, but exempt from swearing if he admits owing only two dinarim or selaim. But why? If you ask: [The defendant] should be believed without taking an oath when he admits that he owes three selaim or dinarim, because he has a migo that he could have said he owes only two selaim or dinarim? Since the Gemara deduced that if he would admit owing only two selaim or dinarim, he would be exempt from taking an oath, the rule of migo says that the same should be true when he admits owing three selaim or dinarim? We must find a reason why the defendant could not have as easily claimed b) “I owe two selaim or dinarim”, instead of claim a) “I owe three selaim or dinarim”. We have already learned that a migo is effective only when the defendant is as comfortable with claim b) as he is with claim a). Why is a claim of “Here, it is yours!”, exempt from swearing? The Gemara explained on 4a, that we view the portion that the defendant admitted as if it is already paid. The remainder of the claim is viewed as being independent of the portion the defendant admitted. We are noe dealing bwith ba claim of three selaim or dinarim. This claim is being totally denied by the defendant and in a case of total denial one is exempt from swearing. See Tosfos earlier 3Af, who says that admitting partial liability is not believed without an oath even though he has a migo that he could have denied the claim entirely. This is because one is not brazen enough to totally dent the claim of the plaintiff. The same principle applies in this case as well. We can answer: Since a case of “Here, it is yours!”, is exempt because we view the portion that he admits as if it is has been paid and in regard to the balance of the claim the defendant is denying everything. Therefore, if [the defendant] would admit that he owes only two dinarim or selaim, he would be in total denial of the balance of the claim, and one cannot be so brazen to deny the complete claim of the plaintiff. Claim b) is therefore not as comfortable as claim a) and there is no migo. But R’ Akiva does hold that one who admits owing three selaim or dinarim is exempt because he could have claimed he owes only two, why doesn’t he hold that the defendant is not as comfortable with claim b) as he is with claim a)? But according to R’ Akiva, claim b) is not considered to be brazen, because the document which does not mention a specific number supports [his counter-claim] that he owes only two dinarim or selaim. The minimum of any plural is two. Since the document did not record the number of selaim or dinarim, it is a fair assumption that the amount was two selaim or dinarim.",
+            "takeaway": "תוספות addresses why the defendant cannot use a מיגו to claim he only owes two (and thus be exempt) when admitting to three, answering that admitting to two would be considered a full denial of the third, which is too brazen, especially since the document supports the plaintiff's claim for the additional amount."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The Mishnah teaches liability even for two, excluding רבי עקיבא",
+      "stepSummary": "The Gemara resolves the challenge by stating that even if the debtor admits to two, he is liable, and the Mishnah mentions three only to exclude רבי עקיבא's opinion.",
+      "whatsHappening": "The גמרא defends the Mishnah against the previous challenge. This is a תירוץ that reinterprets the numbers.",
+      "deeperAnalysis": "The גמרא rejects the inference that two would be exempt. Instead, it argues that רבי שמעון בן אלעזר holds liability even for two. The Mishnah specifies three to contrast with רבי עקיבא, who exempts three as מְשִׁיב אֲבֵידָה.",
+      "keyTerms": [
+        {
+          "term": "לְעוֹלָם אֵימָא לָךְ",
+          "meaning": "I will say to you forever (in any case)"
+        },
+        {
+          "term": "לְאַפּוֹקֵי מִדְּרַבִּי",
+          "meaning": "To exclude the opinion of Rabbi"
+        },
+        {
+          "term": "קָא מַשְׁמַע לַן",
+          "meaning": "It teaches us"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, לְעוֹלָם אֵימָא לָךְ שְׁתַּיִם חַיָּיב,",
+          "english": "No, forever I will say to you: two, obligated"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַאי דְּקָתָנֵי שָׁלֹשׁ,",
+          "english": "And this that it teaches three"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְאַפּוֹקֵי מִדְּרַבִּי עֲקִיבָא, דְּאָמַר:",
+          "english": "To exclude from Rabbi Akiva, who says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מֵשִׁיב אֲבֵידָה הָוֵי וּפָטוּר,",
+          "english": "One who returns a lost item is, and exempt"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קָא מַשְׁמַע לַן דְּמוֹדֶה מִקְצָת הַטְּעָנָה הָוֵי, וְחַיָּיב.",
+          "english": "It teaches us that partial admission is, and obligated."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, לְעוֹלָם אֵימָא לָךְ שְׁתַּיִם חַיָּיב, וְהַאי דְּקָתָנֵי שָׁלֹשׁ, לְאַפּוֹקֵי מִדְּרַבִּי עֲקִיבָא, דְּאָמַר: מֵשִׁיב אֲבֵידָה הָוֵי וּפָטוּר, קָא מַשְׁמַע לַן דְּמוֹדֶה מִקְצָת הַטְּעָנָה הָוֵי, וְחַיָּיב.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:3:1",
+            "hebrew": "לאפוקי מדר\"ע כו' - דאי תנא שתים לא הוה פליג ר\"ע:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah specifies three witnesses to explicitly exclude רבי עקיבא's opinion, as he would not dispute the case of two witnesses."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:3:1",
+            "hebrew": "לעולם שתים חייב - ואע\"ג דשתים חייב חשיב ליה רבי עקיבא משיב אבידה דכשאמר שתים נראה יותר נאמן לפי שהשטר מסייעו:",
+            "english": "Actually, I can tell you [that if the defendant admitted that he owes] two [selaim or dinarim he is] obligated [to swear]. Initially, the Gemara held that we may deduce from the Baraisa that if the defendant admitted owing only two selaim or dinarim he would not need to take an oath. The Gemara suggested that the reason that there is no obligation, is because it is a case of “Here, it is yours!”. The Gemara now counters that it is entirely possible to interpret the Baraisa as holding that an admission of two would also necessitate an oath even though it is a case of “Here, it is yours!”. If so, why did the Baraisa discuss an admission of three selaim or dinarim? That is because R’ Akiva argues only when he admits a third sela or dinar. It is only then that R’ Akiva views the defendant as one who is returning a lost item. When the defendant admits that he owes only two selaim or dinarim, R’ Akiva agrees that there is an oath obligation. But we must now re-examine our understanding of R’ Akiva’s argument that one who admits that he owes three is similar to one who is returning a lost object. Initially, when we believed that an admission of two selaim or dinarim would be free of an oath obligation, it is understandable that one who is admitting a third sela or dinar might be viewed as returning a lost object. After all, he could simply have admitted owing two and he would be free of an oath obligation. Why penalize him for being honest and admitting that he owes a third? However, now that we hold that an admission of two selaim or dinarim obligates an oath, how can we think of an admission of a third sela or dinar as grounds for freeing him from an oath obligation? Had he admitted to owing two selaim or dinarim, he would also be required to swear? Why should he be free from swearing for the admission of one more sela or dinar? Even though when the defendant admits that he owes two, he is obligated to take an oath, R’ Akiva thinks of [the defendant] as one who is returning a lost object and he is exempt from the obligation to swear. For when he says that he owes two selaim or dinarim, he appears to be more reliable than when he admits owing three, since the document supports him. The document, as we have explained, is assumed to mean that the loan was for two selaim or dinarim. When he admits that he owes two, even though he is obligated to swear, he is completely comfortable with his admission, because he is saying exactly what is indicated by the document. Admitting a third sela or dinar is a bit treacherous, since he no longer has the raw interpretation of the document to support him. His only motivation to admit owing the third sela or dinar is his honesty and desire to return a lost object. He should not be penalized for such honesty.",
+            "takeaway": "תוספות clarifies that even though רבי עקיבא exempts three witnesses as משיב אבידה, he agrees that two witnesses are liable because the document supports the claimant, making the defendant more credible."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not phrase the Mishnah as 'Even this one takes an oath'?",
+      "stepSummary": "The Gemara challenges the resolution, arguing that if liability applies even to two, the Mishnah should have been phrased to emphasize that even the case of three is liable.",
+      "whatsHappening": "The גמרא attacks the previous resolution based on the Mishnah's wording. This is a redundancy challenge.",
+      "deeperAnalysis": "The גמרא argues that if רבי שמעון בן אלעזר holds liability for two, then three is not the primary teaching. The Mishnah should have said 'Even this one takes an oath,' implying liability despite the הֵילֵךְ appearance.",
+      "keyTerms": [
+        {
+          "term": "אִי הָכִי",
+          "meaning": "If so"
+        },
+        {
+          "term": "אַף זֶה",
+          "meaning": "Even this one"
+        },
+        {
+          "term": "מִבְעֵי לֵיהּ",
+          "meaning": "It should have said"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי: רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר:",
+          "english": "If so: Rabbi Shimon ben Elazar says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה יִשָּׁבַע,",
+          "english": "Since he admitted part of the claim, he takes an oath,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״אַף זֶה יִשָּׁבַע״ מִבְּעֵי לֵיהּ!",
+          "english": "\"Even this one takes an oath\" — he asks!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי: רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: הוֹאִיל וְהוֹדָה מִקְצָת הַטְּעָנָה יִשָּׁבַע, ״אַף זֶה יִשָּׁבַע״ מִבְּעֵי לֵיהּ!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:4:1",
+            "hebrew": "א\"ה - דבשתים נמי חייב אמאי תנא הואיל והודה מקצת הטענה ישבע רשב\"א אומר אף זה ישבע מבעיא ליה ושמעינן דלא משיב אבידה חשיב ליה ומדנקט הואיל משמע דחיובא משום דגרם לעצמו שהודה במקצת דהשתא הוא דהויא הודאה משום דסלע שלישי לאו הילך הוא אבל שתים לא הוי הודאה משום הילך:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge implies רבי שמעון בן אלעזר holds that even two coins are liable for an oath, and the Mishnah's phrasing 'הואיל והודה מקצת הטענה' indicates that the obligation arises because the admission itself caused the liability, which only applies when the third coin is not considered הילך, unlike the case of two coins."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: הֵילֵךְ is liable, but the שֵׁטֶר exempts the debtor",
+      "stepSummary": "The Gemara resolves the challenge by stating that הילך is generally liable, but in this case, the שטר supports the debtor, exempting him.",
+      "whatsHappening": "The גמרא provides a new resolution that distinguishes between הֵילֵךְ and the case with a שֵׁטֶר. This is a תירוץ based on document support.",
+      "deeperAnalysis": "The גמרא accepts that הֵילֵךְ is liable. However, the שֵׁטֶר supports the debtor's admission of two. Since the document implies two, admitting to two is not a denial, and thus no oath is required.",
+      "keyTerms": [
+        {
+          "term": "אֶלָּא",
+          "meaning": "Rather"
+        },
+        {
+          "term": "וְשָׁאנֵי הָכָא",
+          "meaning": "And this case is different"
+        },
+        {
+          "term": "דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא",
+          "meaning": "Because the document supports him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא: לְעוֹלָם שְׁתַּיִם פָּטוּר, וְהֵילָךְ חַיָּיב.",
+          "english": "Rather: Always two [dinars] he is exempt, and you [who say] 'here you are' he…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְשָׁאנֵי הָכָא, דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא.",
+          "english": "And here is different, as the document supports him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא: לְעוֹלָם שְׁתַּיִם פָּטוּר, וְהֵילָךְ חַיָּיב. וְשָׁאנֵי הָכָא, דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:5:1",
+            "hebrew": "אלא לעולם כו' - אלא אי אית לך לתרוצי תריץ הכי לעולם כדקאמרת הא שתים פטור וטעמא לאו משום הילך דהילך בעלמא חייב:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's resolution maintains that an admission of two is exempt, and the reason is not because of הילך, since הילך is generally liable."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:5:2",
+            "hebrew": "ושאני הכא דקא מסייע ליה שטרא - העדים החתומים על השטר מעידין כדבריו שלא היו אלא שתים ולכך לא פירשו מניינן הלכך א\"צ שבועה:",
+            "english": "",
+            "takeaway": "רש״י explains that the שטר supports the debtor's admission of two, as the witnesses on the document testify that the debt was only two, so the debtor does not need to take a שבועה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:5:1",
+            "hebrew": "לעולם שתים פטור והילך חייב - וא\"ת כיון דהילך חייב כי אמר נמי שתים אינו כופר הכל וכי אמר שלש יהא נאמן במיגו דאי בעי אמר שתים ומאי טעמא דרשב\"א וי\"ל דס\"ל דמה שהשטר מסייעו אינו טוען ברצון לפי שנראה שמחמת השטר מודה ואם לא היה השטר היה כופר הכל:",
+            "english": "Actually, [I will tell you that if the defendant admits that he owes] two [selaim or dinarim] he is exempt [from taking an oath for reasons soon to be mentioned, and even so, when a defendant says]: “Here, it is yours!”, he is obligated [to take an oath]. We will soon learn in the Gemara that there are two possible reasons to exempt one who admits owing two selaim or dinarim besides the fact that it is a case of “Here, it is your!”. Those are: a) The document supports his admission of two selaim or dinarim. b) It is an admission to owing a debt that is backed up by a lien on land. Such an admission cannot generate an oath obligation as will be explained later in the Gemara and Tosfos. Our Gemara is now saying that it is true that if the defendant admits owing two selaim or dinarim, he is exempt from an oath obligation, but not because it is a case of “Here, it is yours!”. If that was the only factor, he might be obligated to swear. The reason he is exempt is for one of the other reasons mentioned later. We must now review Tosfos 4Ae, where Tosfos asked that if one is exempt from swearing when he admits owing two, the rule of migo says that he should also be exempt when he admits owing three, because he could have admitted owing only two. Tosfos explained that if the reason for his exemption is because his claim is “Here, it is yours!”, the concept of migo does not apply. The Gemara on 4a says, “Here, it is yours!” separates the portion that he admits from the rest of the plaintiff’s claim. The portion that the defendant admitted is no longer part of the original claim of five selaim or dinarim. Once he admits that he owes two and says “Here, it is yours!”, we now view the plaintiff’s claim as demanding that the defendant owes him only three selaim or dinarim. He is in total denial of that claim of three. Thus, the argument that the defendant has a migo is untenable. His migo is that he might have admitted only two. But if he admitted that, he would be in total denial of the plaintiff’s claim of three, and one is not brazen enough to deny a claim entirely. This rationale is acceptable if the reason for exempting the defendant from swearing is because it is a case of “Here, it is yours!”. However, if the reason the defendant is exempt when admitting that he owes two is one of the above mentioned reasons, a) because the document supports his admission, or b) because his admission is backed by a lien on real property we must have a new explanation of why the defendant should not be free of swearing when he admits owing three selaim or dinarim, since he has a migo that he could have admitted owing only two. If you ask: Since when one says “Here, it is yours!”, he is obligated to swear, because we view the plaintiff’s original claim of five as one claim, when [the defendant] says he owes only two, he is not in total denial of the claim against him, thus, when he says “I owe three” he should be believed with a migo that if he wanted to lie, he would have said that he owes only two. If so, what is the reason of R’ Shimon ben Elazar who says that he is obligated to swear? He should be exempt by the rule of migo. Once again, we must find a reason why the defendant is more comfortable with admitting that he owes three selaim and dinarim than with admitting that he owes only two. We can answer: That [R’ Shimon ben Elazar] holds that he would not willingly claim that he owes only two, which is supported by the document, because it appears that his admission is only because of the document and if there was no document he would deny everything. In order to avoid this appearance, he prefers to admit another sela or dinar. Thus, he has no migo. Migo is viable only when the defendant is as comfortable with the second claim as he is with his first claim.",
+            "takeaway": "תוספות addresses the question of why מיגו doesn't apply when the debtor admits to three, explaining that רשב"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative resolution: The שֵׁטֶר creates a lien on land, exempting from oaths",
+      "stepSummary": "The Gemara offers an alternative resolution: the שטר creates a lien on the debtor's land, and oaths are not required for denials involving land liens.",
+      "whatsHappening": "The גמרא provides an alternative explanation for the exemption. This is a תירוץ based on real estate law.",
+      "deeperAnalysis": "The גמרא suggests that a שֵׁטֶר creates a שִׁעְבּוּד קַרְקָעוֹת. Since oaths are not administered for denials involving land liens, the debtor is exempt. This provides a different legal basis for the exemption.",
+      "keyTerms": [
+        {
+          "term": "אִי נָמֵי",
+          "meaning": "Alternatively"
+        },
+        {
+          "term": "שִׁעְבּוּד קַרְקָעוֹת",
+          "meaning": "Lien on real estate"
+        },
+        {
+          "term": "אֵין נִשְׁבָּעִין",
+          "meaning": "One does not take an oath"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי נָמֵי: מִשּׁוּם דְּהָוֵה לֵיהּ שְׁטָר שִׁעְבּוּד קַרְקָעוֹת,",
+          "english": "Alternatively: because he had a document of lien on his lands,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאֵין נִשְׁבָּעִין עַל כְּפִירַת שִׁעְבּוּד קַרְקָעוֹת.",
+          "english": "and they do not swear on denial of lien on lands."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי נָמֵי: מִשּׁוּם דְּהָוֵה לֵיהּ שְׁטָר שִׁעְבּוּד קַרְקָעוֹת, וְאֵין נִשְׁבָּעִין עַל כְּפִירַת שִׁעְבּוּד קַרְקָעוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:6:1",
+            "hebrew": "אי נמי - להכי לא הוו שתים הודאה לחייבו שבועה לפי שהשטר אומר כן ושטר הוי שעבוד קרקעות וכשם שאין נשבעין על כפירת קרקעות כך הודאתן אינה מביאה לידי שבועה דקרקעות אמעוט מתורת שבועה במס' שבועות פרק שבועת הדיינין (שבועות מב ב:) אבל כי אמר מלוה חמש ולוה שלש איכא כפירה והודאה במה שאין כתוב בשטר:",
+            "english": "",
+            "takeaway": "רש״י explains that the שטר creates a שיעבוד קרקעות, and just as there is no שבועה for a denial of land, there is no שבועה for an admission regarding land, as land is excluded from the Torah's שבועה laws according to the ברייתא in שבועות."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:6:1",
+            "hebrew": "אין נשבעין על כפירת שעבוד קרקעות - וא\"ת למ\"ד בפרק גט פשוט (ב\"ב דף קעה:) שעבודא דאורייתא מודה מקצת הטענה למה נשבע הא כופר שעבוד קרקעות וי\"ל שמחל לו השעבוד או שאין לו כלל קרקעות אפי' משעבדי אבל לרבי יוחנן דאמר בפ' שבועת הפקדון (שבועות דף לז: ושם ד\"ה ואין) כופר בממון שיש עליו עדים חייב קרבן שיש עליו שטר פטור משום דכופר שעבוד קרקעות דבעדים לא חשיב כופר שעבוד קרקעות אע\"ג דסבר ר' יוחנן שעבודא דאורייתא היינו משום כיון שהפקיעו חכמים השעבוד במלוה ע\"פ משום פסידא דלקוחות חשיב כאילו מחל לו השעבוד ומיירי דאית ליה משעבדי ולית ליה בני חרי דאי אית ליה בני חרי אפי' יש עליו עדים פטור ואי לית ליה אפי' משועבדים אפילו יש עליו שטר חייב:",
+            "english": "We do not swear [when a] denial [is about a loan that] is secured by land. The counterclaim of one who partially admits the claim against him consists of two sections: Section a) The portion of the loan that the defendant admits owing. Section b) The portion of the loan that he denies owing. When b ) the denied portion is secured by land there is no Torah oath obligation as indicated in the heading of this Tosfos: We do not swear for a denial of a loan that is secured by land. Our Gemara is adding that the same is true if a) the portion of the claim he admitted is secured by land. In the Baraisa, where the document testifies to a loan of an unspecified amount of selaim or dinarim, and the plaintiff claims that the loan was for five selaim or dinarim, if the defendant admits that he owes two, he is admitting to a loan that is secured by land, since the amount he admits owing is stated in the document and any documented loan is secured by the real property of the borrower. Thus, our Gemara says that since the section a) is secured by land there is no oath obligation. Why is a loan that is secured by land not subject to an oath? The Mishna in Shavuos 42b tells us that one does not swear when the claim and/or denial is about land. The Gemara elaborates on this: An unpaid custodian need not swear if the property lost or stolen due to his negligence was land. How do we know this? The Rabanan taught in a Baraisa that explains a verse in Shemos 22, 6, which deals with an oath obligation. If a man will give anything to his neighbor, this is a generalization. Cash or vessels, this is a specific item. To guard anything, this is a repeat of the generalization. How is this configuration interpreted? A generalization, a specific and a generalization - we include only that which is very similar to the specific: Just as the specific, cash or vessels, is clearly something that is movable and has inherent value, so too any object that is movable and has inherent value is subject to the laws of swearing. This excludes land, which is not movable. Slaves are excluded because they are comparable to land. Documents are excluded, because they have no inherent value. They only represent the money owed by the borrower, but have no inherent value. See רש\"י ד'ה אי נמי to our Gemara, who says that the source for the rule that when a loan is secured by a lien on land, it is not subject to an oath, is derived from the very same source that excludes land from an oath obligation. Now that we have learned that any loan secured by land is not subject to an oath obligation, we must ask some important questions: Isn’t every loan secured by the land of the borrower? If one is unable to pay his debts, the creditor can collect from the real property of the borrower. If so, how can there ever be an oath obligation? Perhaps not every loan is secured by one’s property? This is actually the subject of a dispute in Bava Basra 175b. The Mishna says in Bava Basra 175a: One who lends money to his neighbor and the loan is recorded in a document, may collect the debt from encumbered properties. Even if the property was sold after the loan, there is a lien on the property and the lender may collect the property from the purchaser. If the loan took place before witnesses, but was never recorded in a document, one can collect only from unencumbered property which have not yet been sold by the borrower. If the property was sold, even after the loan, the lender cannot collect that property. The Gemara on 175b explains: Ula said: By Torah law both a loan that was documented and an undocumented loan, can collect from encumbered property. What is the reason? A lien is automatically established on the property by Torah law. Thus when a person borrows money, his property is security for the loan. There is no difference between a written loan or an oral loan. But then for what reason did they say: an oral loan can be collected only from unencumbered property? Because of the loss that would be incurred by the purchasers of real estate, who have no way of knowing that the seller of the property they are buying is heavily in debt. When the loan is recorded in a document, the fanfare surrounding the writing of a document generates publicity that the borrower is in debt and people can be careful about not purchasing encumbered property from the debtor. According to this opinion, by Torah law all debts are automatically secured by one’s land. If you ask: According to the one who says in Perek Get Pashut (Bava Basra 175b) that all loans automatically establish a lien on the debtor’s land by Torah law, why does one swear when he partially admits a plaintiff’s claim, his denial of the balance is a denial about a loan that is secured by land and is not subject to the law of swearing. There should never be an oath for partial admission, yet we know that such an oath is mandated by Torah law. We can answer: That the Torah mandated this oath only when [the creditor] waived the lien, subsequently, he cannot collect from the real property of the debtor. The loan is no longer secured by land. Or, when [the borrower] has no land at all, even encumbered land. It is only in these cases that one would be obligated to swear according to the opinion that all loans automatically establish a lien on the debtor’s property. Tosfos now introduces another Gemara where there is a similar difficulty, but where we cannot say that it is speaking of when the creditor waived the lien.1מהר\"ם explains that if the creditor waived the lien, there cannot be a difference between a documented and an oral loan. Even if the loan was documented, there is no lien on the land and the debtor would be required to swear by Torah law. See Tosfos Shavuos 37b ד'ה ואין מביאין who asks the same question as Tosfos does here and does answer that R’ Yochanan as well is speaking of when the lender waived the lien. This seems to contradict our Tosfos who holds that if the lien is waived, even a documented loan would generate an oath obligation, since the loan will ultimately not be collected from land. See אוצר מפרשי התלמוד, here, who explains that this issue is a dispute between Tosfos. See not 4 where we quote the opinions of the ש\"ך and סמ\"ע about this issue. However, according to R’ Yochanan who says in Perek Shavuos Hapikadon (Shavuos 37b) concerning one who denies owing money which is verifiable only by witnesses, but not by a document, and he swore falsely, when it is discovered that he lied, he is liable to bring a karban. There was an obligation for a Torah oath and when one swears falsely when obligated to do so by the Torah, he must offer a karban. If the money he denied owing was verifiable by a document, he is exempt from bringing a karban, because he denied money that was secured by land. Even though he swore falsely that he does not owe the money, since there was no Torah obligation to swear because the loan is secured by land, there is no karban obligation. We see that when there are only witnesses to verify the loan, but no document, he is not considered as denying money secured by land, even though R’ Yochanan holds that a lien is established on one’s property by Torah law. Thus, even a non-documented loan establishes a lien on the debtor’s property. Why should the debtor be obligated to swear and be liable for a karban when he swears falsely while denying a non-documented loan, that too, is secured by land? That is because once the Rabanan removed the lien for an oral loan, because of losses2See Gemara Bava Basra 175a quoted on pages 3 &amp;4, of this Tosfos. that might be incurred by purchasers of the debtor’s property who have no way of knowing that the borrower is in debt, it is considered as if the creditor waived the lien and the debt is not secured by the borrower’s land. R’ Yochanan is speaking of when [the debtor]3The phrase “he has encumbered land” is a bit difficult to translate. Tosfos is referring to land that the debtor owned at the time of the loan, which was subsequently sold. The borrower doesn’t actually have the land, he already sold it to the purchaser. The phrase “he has encumbered land” means that the land which the borrower owned at the time of the loan and was then sold can be collected from the purchaser by the creditor. has encumbered land, which has already been sold, but he does not have unencumbered land that has not yet been sold. For if he has unencumbered property, even if there are only witnesses on the loan, and he swore falsely, he is exempt from a karban, because the loan was secured by the land that he presently owns. If [the debtor]doesn’t even have encumbered property that was sold, even if there was a document4Tosfos holds that we must always take into account the reality of the situation. If the borrower does not own any land whatsoever, we may not view the loan as secured by land because in reality the borrower does not own any land. See חושן משפט פ\"ח, ש\"ך ס\"ק מ\"ח who quotes this Tosfos to prove this point. סמ\"ע ס\"ק נ\"א disagrees. He holds that since the document is inherently capable of collecting from encumbered properties if there were such properties, it is considered as if this loan is secured by land, even though the reality is that there is no land from which to collect. to verify the loan [the debtor] is liable to bring a karban when he swears falsely, since the loan is not secured by land.",
+            "takeaway": "תוספות addresses the difficulty that if שיעבוד is דאורייתא, a כופר should be exempt from שבועה even without a שטר, and answers that the exemption applies when the creditor waived the שיעבוד or the debtor has no land, but according to רבי יוחנן, the exemption for a שטר is because חכמים removed the שיעבוד for loans without a document to protect purchasers, making it as if the creditor waived it."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:6:2",
+            "hebrew": "אין נשבעין על כפירת כו' - לספרים דגרסי בברייתא ר\"ע אין להקשות הא ר\"ע דריש ריבויי ומיעוטי פ\"ק דשבועות (דף ד: ושם ד\"ה רבי) ובפרק ג' מינים (נזיר לה. ושם) ומאן דדריש ריבויי ומיעוטי אינו ממעט קרקעות כ\"א שטרות כדמוכח בפרק הגוזל בתרא (ב\"ק דף קיז:) והיכי קאמר הכא אין נשבעין על כפירת שעבוד קרקעות וי\"ל שיש לו שום מיעוט למעט קרקעות וכן צ\"ל לקמן בפ' השואל (בבא מציעא דף ק: ושם ד\"ה ר\"מ) אליבא דר\"מ דאית ליה נשבעין אעבדים ולא אקרקעות ואע\"ג דעבדים הוקשו לקרקעות לכ\"ע דמהאי טעמא עבד נקנה בכסף בפ\"ק דקדושין (דף כב:) אלא דר\"מ דריש ריבויי ומיעוטי להוציא שטרות ויש לו שום מיעוט למעט קרקעות ובאותו מיעוט אין למעט עבדים אע\"ג דהוקשו לקרקעות כדמוכח במרובה (ב\"ק סג. ושם ד\"ה וחד) דמאן דדריש בריבה ומיעט וריבה צריך שני מיעוטי לקרקעות ועבדים ואע\"ג דרשב\"א היה תלמידו של ר\"ע אין לחוש מה שחולק עמו והוזכר קודם דכעין זה מצינו לקמן (בבא מציעא דף ז.) גבי שנים אדוקים בשטר דפליג רבי עם רשב\"ג אביו ויש ספרים דגרסי הכא ר' יעקב:",
+            "english": "We do not swear for a denial [of funds that are secured by land]. In the Baraisa at the beginning of this page the Gemara quotes the opinions of two Tanaim, R’ Shimon ben Elazar and R’ Akiva. There are texts of our Gemara that quote R’ Yaakov as the second Tana. We will see in the course of learning this Tosfos that there are two valid reasons to believe that the other texts are correct that the second Tana is not R’ Akiva: a) The Gemara will employ the ruling that we do not swear in cases involving funds that are secured by land. Tosfos will present the case to show that R’ Akiva might not concur with this ruling. b) In this Baraisa R’ Akiva is quoted after R’ Shimon ben Elazar who was his disciple. It seems a bit strange that the author of the Baraisa would quote them out of chronological order. The first issue that must be clarified is where R’ Akiva stands on the ruling that we do not swear when the funds in question are secured by land. Can R’ Akliva hold of this ruling? Why not? See previous Tosfos 4Bc page 1, 2 &amp; 3, where we quoted the Gemara in Shavuous 42b, where we derive that one does not swear for an admission and denial of funds that are secured by land. The system used by the Baraisa there for this derivation is called כלל פרט וכלל loosely translated, this means that we view the verse as speaking of a generalization, a specific item and repeating a generalization. Since the specific items that are mentioned in the verse, vessels and cash, have the characteristics that they are movable and have inherent value, we say that the oath obligation is only for similar items, but not for land which is immovable or for documents that do not have any inherent value. There is another way of interpreting the Torah. Instead of viewing the more expansive word as a generalization meant to expand somewhat on the specific item, but only in a limited fashion, there is a system called ריבויי, מיעוט וריבויי - an expansive term, a restrictive term and finally another expansive term. The very same words quoted in the Baraisa on Shavuos 42b can be expounded differently: כלל פרט וכלל כי יתן -- generalization כסף או כלים -- specific לשמור -- generalization ריבויי מיעוט וריבויי כי יתן -- expansive כסף או כלים -- restrictive לשמור -- expansive The net result is that in the generalization etc. system, only such items that are very similar to the specific items are included in the ruling. In the expansive etc. system, all items that share some similarity with the restricting item are included. Thus the same verse when explained with the expansive system will include many more items than if expounded by the generalization system. So too, in the explanation of the verse under discussion, those who usually follow the expansive etc. system, will include land in the list of items for which one is obligated to swear. It is only in the generalization etc. system, that land is excluded. Tosfos will demonstrate from other sources that R’ Akiva holds we generally expound the Torah with the expansive etc. system. Accordingly, he should hold that an oath is required for matters pertaining to land. But our Gemara has used the rule of not swearing for an admission or denial for loans that are secured by land to explain R’ Akiva’s position. R’ Akiva should however hold that one does swear even when the loans are secured by land. It would be logical to say that the second Tana is R’ Yaakov and this problem would be solved. The Gemara in Shavuos 4b is discussing R’ Akiva’s opinion in regard to liability for swearing falsely about something that happened in the past. The Gemara explains: What is the reason that R’ Akiva holds one liable for swearing falsely about something that happened in the past? Because he expounds the Torah with the system of expansive and restrictive etc. The Gemara in Bava Kama 117b quotes a dispute between R’ Eliezer and the Rabanan in regard to items that are subject to various laws of theft: R’ Eliezer expounds the Torah with the expansive restrictive system. What is included? All items are included and subject to the rules of theft. What is excluded? Documents are excluded. The Rabanan expound the Torah with the generalization and specific system. Land is excluded because it is immovable. Slaves are excluded because they are equated to land. Documents are excluded, for even though they are movable, they are not inherently valuable. They only represent a debt, but are intrinsically worthless. It is clear that if we use the expansive restrictive system, we include land and exclude only documents. It is only if we use the generalization system that land is excluded. According to the manuscripts whose text in our Baraisa is R’ Akiva as it is in our text, instead of R’ Yaakov as others suggest, we cannot ask: But R’ Akiva expounds the Torah with the expansive restrictive system in the first Perek of Shavuous (4b) and in Perek Shelosha Minim (Nazir 35a), and one who expounds the Torah with the expansive restrictive etc. system, does not exclude land from an oath obligation, but only documents, as it is evident in Perek Hagozel the latter, (Bava Kama 117b), and if so, how can [the Gemara] here say that according to R’ Akiva we do not swear for denial of funds secured by land? It seems that the author of this position is not R’ Akiva. Tosfos will suggest that there is some missing information that the Gemara knows about, but is unidentified. Obviously, an explanation such as this requires support, which Tosfos needs to present. We can answer: That [R’ Akiva] has some exclusion in some verse to exclude land from an oath obligation. It is true that the expansive restrictive system excludes only swearing about documents, but there is some other source to exclude swearing about land. Even though, we are not presently aware of what that exclusion is, Tosfos will now demonstrate that this unidentified exclusion must exist according to R’ Meir. If we know that such an unidentified exclusion exists according to R’ Meir, we can assume that R’ Akiva also uses that exclusion to exclude land. There is no need to conclude that our Baraisa is not the opinion of R’ Akiva. Generally speaking slaves are governed by the same rules as land. In regard to swearing according to R’ Meir there is a difference, one swears on matters involving slaves, but not on matters involving land. Why are the laws of swearing different than all other areas of Torah law? Tosfos suggests that R’ Meir holds like R’ Akiva who expounds the Torah with the expansive restrictive system, thus only a) documents are excluded from this verse. There must be a special exclusion b) to exclude land from an oath obligation, which cannot be applied to slaves. Thus, there is an oath obligation for slaves, but not for land. That special (unknown) exclusion can also be used to exclude land according to R’ Akiva, who also expounds the Torah with the expansive restrictive system. So too, we are compelled to say later in Perek Hashoel (100b) according to R’ Meir, who holds that we do swear about claims involving slaves, but not about claims involving land, even though slaves are usually equated to land according to all opinions and it should follow that just as we do not swear about land, we should also not swear about slaves. Where do we see that slaves are equated to land? For it is for this reason, that slaves are equated to land, that ownership of a slave can be transferred by using a coin to effect the transfer, according to all opinions, in the first Perek of Kidushin (22b). The Gemara in Kidushin 22b is discussing the acts of acquisition that are effective for acquiring slaves: Mishna: A Canaanite slave is acquired by coin, document and proprietary acts. Gemara: How do we know this? It is written in Vayikra 25, 46, And you shall hold them as a heritage for your children after you to inherit as a possession. The Torah equates [slaves] to an inherited field, just as an inherited field is acquired by coin, document and proprietary acts, so to a Canaanite slave is acquired by coin, document and proprietary acts. If so, why does R’ Meir hold that we do swear about slaves and not about land? Rather, it must be that R’ Meir expounds the Torah with the system of expansive and exclusive a) to exclude swearing about cases involving documents, and he has some other exclusion, unknown to us, b) to exclude swearing in cases involving land, and with that unknown exclusion we cannot exclude slaves even though they are usually equated with land, The Gemara in Bava Kama 63a is discussing the verse in Shemos 22, and concludes that this verse must be interpreted with the expansive restrictive system. The Gemara then informs us that special exclusions are needed for documents, land and slaves. The exclusion for land does not automatically exclude slaves as well. Now that you say that in this verse the word ‘כל - all’, is an expansive, why do we need all these specific items? What is their function in the expounding of the verse? The Gemara answers: One is to exclude land. One is to exclude slaves, and one is to exclude documents. We see that in this system one exclusion cannot exclude both land and slaves, despite the verse that equates them insofar as Kidushin is concerned. as is evident in Merubah (Bava Kama 63a), that the one who expounds the Torah with the system of expansive and exclusive needs two exclusions to exclude both land and slaves from an oath obligation. Tosfos has reconciled our Gemara which says that according to R’ Akiva, one does not swear about funds that are secured by land and the Gemara that says R’ Akiva expounds the Torah with the expansive restrictive system. In our introduction we mentioned that there is also a chronoligical question which indicates that the second opinion in the Baraisa is not R’ Akiva. Tosfos will now address this second issue. Even though R’ Shimon ben Elazar was a disciple of R’ Akiva, we need not be concerned with the fact that [R’ Shimon ben Elazar] argues with [R’ Akiva] and is mentioned in the Baraisa before [R’ Akiva]. For we find a similar situation below (7a) in regard to two litigants who are holding a document, where Rebbe is mentioned first in the Baraisa and he argues with Raban Shimon ben Gamliel who was his father. Tosfos acknowledges that there are those who find all his explanation somewhat awkward and follow a different text. There are manuscripts that have ion their text here R’ Yaakov instead of R’ Akiva. This of course solves both problems that we have with our text.",
+            "takeaway": "תוספות notes that if the text reads רבי עקיבא, it is difficult because רבי עקיבא derives the exclusion of land from a different hermeneutic rule that might not exclude land, so תוספות suggests that רבי עקיבא has a different exclusion for land, or that the text should read רבי יעקב."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the latter part of the Mishnah: Does it imply הֵילֵךְ is liable?",
+      "stepSummary": "The Gemara challenges the previous resolutions by inferring from רבי עקיבא's opinion that הילך is liable.",
+      "whatsHappening": "The גמרא attacks the previous resolutions using the latter part of the Mishnah. This is a קושיא from the סייפא.",
+      "deeperAnalysis": "The גמרא reasons that רבי עקיבא's exemption for three implies liability for two. Since the document implies two, admitting to it is like הֵילֵךְ. Therefore, the Mishnah teaches that הֵילֵךְ is liable, contradicting the previous resolution.",
+      "keyTerms": [
+        {
+          "term": "אִיכָא דְּמוֹתֵיב מִסֵּיפָא",
+          "meaning": "There are those who raise an objection from the latter part"
+        },
+        {
+          "term": "כְּ״הֵילֵךְ״ דָּמֵי",
+          "meaning": "It is like 'here you are'"
+        },
+        {
+          "term": "שְׁמַע מִינַּהּ",
+          "meaning": "Learn from it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּמוֹתֵיב מִסֵּיפָא,",
+          "english": "There are those who raise an objection from the latter clause,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַבִּי עֲקִיבָא אוֹמֵר:",
+          "english": "Rabbi Akiva says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה וּפָטוּר.",
+          "english": "He is merely like one returning a lost item and is exempt."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "טַעְמָא דְּאָמַר שָׁלֹשׁ, הָא שְׁתַּיִם חַיָּיב. וְהָא שְׁטָר,",
+          "english": "The reason he said three, if two he is obligated. And as for the promissory note,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כֵּיוָן דְּקָא מוֹדֵי בֵּיהּ כְּ״הֵילָךְ״ דָּמֵי,",
+          "english": "Since he admits to it, it is like 'Here you are' in value,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁמַע מִינַּהּ ״הֵילָךְ״ חַיָּיב!",
+          "english": "Learn from it that 'Here you are' is obligated!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָא דְּמוֹתֵיב מִסֵּיפָא, רַבִּי עֲקִיבָא אוֹמֵר: אֵינוֹ אֶלָּא כְּמֵשִׁיב אֲבֵידָה וּפָטוּר. טַעְמָא דְּאָמַר שָׁלֹשׁ, הָא שְׁתַּיִם חַיָּיב. וְהָא שֵׁטָר, כֵּיוָן דְּקָא מוֹדֵי בֵּיהּ כְּ״הֵילֵךְ״ דָּמֵי, שְׁמַע מִינַּהּ ״הֵילֵךְ״ חַיָּיב!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:7:1",
+            "hebrew": "הא שתים - דליכא משיב אבידה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'הא שתים חייב' refers to a case of two claims where the exemption of משיב אבידה does not apply, making the debtor liable."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:7:2",
+            "hebrew": "חייב - מדלא תנא פטור בשתים ונימא טעמא משום הילך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's omission of an explicit exemption for two claims implies liability, otherwise it would have stated the exemption and attributed it to the הילך rule."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The Mishnah teaches exemption for two, excluding רבי שמעון בן אלעזר",
+      "stepSummary": "The Gemara resolves the challenge by stating that even two is exempt, and the Mishnah mentions three only to exclude רבי שמעון בן אלעזר's opinion.",
+      "whatsHappening": "The גמרא defends the Mishnah against the previous challenge. This is a תירוץ that reinterprets the numbers again.",
+      "deeperAnalysis": "The גמרא rejects the inference that two would be liable. Instead, it argues that רבי עקיבא holds exemption even for two. The Mishnah specifies three to contrast with רבי שמעון בן אלעזר, who holds liability for three as מֹדֶה מִקְצַת.",
+      "keyTerms": [
+        {
+          "term": "לְעוֹלָם אֵימָא לָךְ",
+          "meaning": "I will say to you forever (in any case)"
+        },
+        {
+          "term": "לְאַפּוֹקֵי מִדְּרַבִּי",
+          "meaning": "To exclude the opinion of Rabbi"
+        },
+        {
+          "term": "קָא מַשְׁמַע לַן",
+          "meaning": "It teaches us"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, לְעוֹלָם אֵימָא לָךְ שְׁתַּיִם נָמֵי פָּטוּר,",
+          "english": "No, forever I will say to you that two also he is exempt,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַאי דְּקָתָנֵי שָׁלֹשׁ,",
+          "english": "And this that it specifies three,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְאַפּוֹקֵי מִדְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר,",
+          "english": "To exclude from Rabbi Shimon ben Elazar,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּאָמַר מוֹדֶה מִקְצָת הַטַּעֲנָה הָוֵי – וְחַיָּיב,",
+          "english": "Who says: Admits part of the claim he is – and obligated,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קָא מַשְׁמַע לַן דְּמֵשִׁיב אֲבֵידָה הָוֵי – וּפָטוּר.",
+          "english": "He is teaching us that he is returning a lost item he is – and exempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, לְעוֹלָם אֵימָא לָךְ שְׁתַּיִם נָמֵי פּוֹטוּר, וְהַאי דְּקָתָנֵי שָׁלֹשׁ, לְאַפּוֹקֵי מִדְּרַבִּי שְׁמַעוֹן בֶּן אֶלְעָזָר, דְּאָמַר מוֹדֶה מִקְצַת הַטַּעֲנָה הָוֵי – וְחַיָּיב, קָא מַשְׁמַע לַן דְּמֵשִׁיב אֲבֵידָה הָוֵי – וּפּוֹטוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        7
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:8:1",
+            "hebrew": "מודה מקצת הוי - ואינו משיב אבידה דאיערומי קמערים דלחזקיה בנאמן:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי שמעון בן אלעזר considers three witnesses as מודה מקצת, which is not משיב אבידה because the witnesses are suspected of scheming to be believed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:8:2",
+            "hebrew": "קמ\"ל - כיון דבשתים נמי פטור ליכא למימר איערומי מערים אלא משיב אבידה הוי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that since רבי עקיבא exempts even two witnesses, there is no suspicion of scheming, so the case is classified as משיב אבידה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Support: The debtor would use artifice to avoid an oath",
+      "stepSummary": "The Gemara supports the resolution by arguing that if two were liable, the debtor would admit to three to avoid an oath, so the Mishnah must teach that two is also exempt.",
+      "whatsHappening": "The גמרא provides logical support for the previous resolution. It reasons that if two were liable, the debtor would admit to three to be exempt.",
+      "deeperAnalysis": "The גמרא reasons: if two were liable, the debtor would be incentivized to admit to three to be considered like משיב אבידה and exempt. Since the משנה does not mention this artifice, it must be that two is also exempt. This supports the resolution that the משנה's numbers are chosen to highlight the תנאי dispute.",
+      "keyTerms": [
+        {
+          "term": "הָכִי נָמֵי מִסְתַּבְּרָא",
+          "meaning": "This too is reasonable"
+        },
+        {
+          "term": "הַאי אִעָרוֹמֵי קָא מַעֲרִים",
+          "meaning": "This one is employing artifice"
+        },
+        {
+          "term": "אִיפּוֹטֵר",
+          "meaning": "He would be exempt"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא.",
+          "english": "So too, it is reasonable."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי סָלְקָא דַעְתָּךְ: שְׁתַּיִם חַיָּיב,",
+          "english": "For if it enters your mind: two is obligated,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּשָׁלֹשׁ הֵיכִי פָּטַר לֵיהּ רַבִּי עֲקִיבָא,",
+          "english": "in three how did Rabbi Akiva exempt him?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַאי אִעָרוֹמֵי קָא מַעֲרִים! סָבַר:",
+          "english": "This one is employing artifice! He thought:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי אָמֵינָא שְׁתַּיִם בָּעֵינָא אִשְׁתְּבוֹעֵי,",
+          "english": "If I say two I will be required to take an oath,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵימָא שָׁלֹשׁ דְּאֶהְוֵי כְּמֵשִׁיב אֲבֵידָה, וְאִיפָּטֵר.",
+          "english": "I will say three so that I will be like one returning a lost item,…"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֶלָּא שְׁמַע מִינַּהּ: שְׁתַּיִם נָמֵי פָּטוּר.",
+          "english": "Rather, learn from it: two too is exempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא. דְּאִי סָלְקָא דַעְתָּךְ: שְׁתַּיִם חַיָּיב, בְּשָׁלֹשׁ הֵיכִי פּוֹטַר לֵיהּ רַבִּי עֲקִיבָא, הַאי אִעָרוֹמֵי קָא מַעֲרִים! סָבַר: אִי אָמֵינָא שְׁתַּיִם בָּעֵינָא אִשְׁתְּבוֹעֵי, אֵימָא שָׁלֹשׁ דְּאֶהְוֵי כְּמֵשִׁיב אֲבֵידָה, וְאִיפּוֹטֵר. אֶלָּא שְׁמַע מִינַּהּ: שְׁתַּיִם נָמֵי פּוֹטוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:9:1",
+            "hebrew": "הכי נמי מסתברא - דבשתים פטור:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's reasoning confirms the conclusion that the debtor is פטור even when admitting to two."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Does this contradict רבי חייא's opinion?",
+      "stepSummary": "The Gemara challenges the resolution by noting that it contradicts רבי חייא's opinion that הילך is liable.",
+      "whatsHappening": "The גמרא raises a final challenge based on a conflicting opinion. It notes that the resolution that two is exempt contradicts רבי חייא's opinion that הילך is liable.",
+      "deeperAnalysis": "The גמרא notes that the resolution that two is exempt contradicts רבי חייא's opinion that הילך is liable. This creates a tension between the משנה's implication and רבי חייא's ruling. The challenge assumes that רבי חייא's opinion is a general rule that applies to all cases of הילך.",
+      "keyTerms": [
+        {
+          "term": "אֶלָּא קַשְׁיָא לְרַבִּי חִיָּיא",
+          "meaning": "But this poses a difficulty to רבי חייא"
+        },
+        {
+          "term": "שָׁאנֵי הָתָם",
+          "meaning": "That case is different"
+        },
+        {
+          "term": "דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא",
+          "meaning": "Because the document supports him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא קַשְׁיָא לְרַבִּי חִיָּיא!",
+          "english": "Rather, it is difficult for Rabbi Ḥiyya!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שָׁאנֵי הָתָם דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא.",
+          "english": "That case is different, as the document supports him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי נָמֵי מִשּׁוּם דְּהָוֵה לֵיהּ שְׁטָר שִׁעְבּוּד קַרְקָעוֹת,",
+          "english": "Alternatively, because he had a document of lien on his lands,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵין נִשְׁבָּעִין עַל כְּפִירַת שִׁעְבּוּד קַרְקָעוֹת.",
+          "english": "and one does not take an oath on a denial of a lien on lands."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא קַשְׁיָא לְרַבִּי חִיָּיא! שָׁאנֵי הָתָם דְּקָא מְסַיַּיע לֵיהּ שְׁטָרָא. אִי נָמֵי מִשּׁוּם דְּהָוֵה לֵיהּ שְׁטָר שִׁעְבּוּד קַרְקָעוֹת, וְאֵין נִשְׁבָּעִין עַל כְּפִירַת שִׁעְבּוּד קַרְקָעוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:10:1",
+            "hebrew": "ואלא קשיא לרבי חייא - דהא איכא למידק מינה דשתים פטור כדאמרינן דאי ס\"ד כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the challenge to רבי חייא arises because the Mishnah implies that two witnesses are exempt, which contradicts רבי חייא's view that הילך is liable."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:10:2",
+            "hebrew": "שאני הכא - האי דקאמר שתים פטור טעמא לאו משום הילך אלא דקא מסייע ליה שטרא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the exemption for two witnesses is not due to the הילך formula itself, but because the document (שטר) supports the claim."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "Mar Zutra's Mishna on mixed claims of vessels and land",
+      "stepSummary": "Mar Zutra, son of Rav Naḥman, introduces a Mishna from Shevuot detailing the rules for oaths when a claim involves both movable property (vessels) and land, establishing that partial admission of vessels triggers an oath, while partial admission of land does not.",
+      "whatsHappening": "The גמרא introduces a source text (משנה) to challenge or clarify the previous discussion regarding oaths and land. This step sets the stage by presenting the baseline הלכה rules.",
+      "deeperAnalysis": "This step sets the stage by presenting the baseline הלכה rules: mixed claims of כליים and קרקעות result in exemption if the admission is on the land, but obligation if the admission is on the vessels. This distinction is crucial for the subsequent analysis of whether land can ever be subject to an oath.",
+      "keyTerms": [
+        {
+          "term": "מֵתִיב",
+          "meaning": "raises an objection / introduces a source"
+        },
+        {
+          "term": "טְעָנוֹ",
+          "meaning": "he claimed against him"
+        },
+        {
+          "term": "הוֹדָה",
+          "meaning": "admitted"
+        },
+        {
+          "term": "כָּפַר",
+          "meaning": "denied"
+        },
+        {
+          "term": "פּוֹטוֹר",
+          "meaning": "exempt"
+        },
+        {
+          "term": "חַיָּב",
+          "meaning": "obligated"
+        }
+      ],
+      "whatToRemember": "The משנה establishes that הודאה במקצת כליים triggers חייב, while הודאה במקצת קרקעות results in פטור.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵתִיב מַר זוּטְרָא בְּרֵיהּ דְּרַב נַחְמָן:",
+          "english": "Mar Zutra, son of Rav Naḥman, raises an objection:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "טְעָנוֹ כֵּלִים וְקַרְקָעוֹת,",
+          "english": "He claimed vessels and land,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוֹדָה בַּכֵּלִים וְכָפַר בַּקַּרְקָעוֹת,",
+          "english": "He admitted to the vessels and denied the land,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הוֹדָה בַּקַּרְקָעוֹת וְכָפַר בַּכֵּלִים –",
+          "english": "He admitted to the land and denied the vessels –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "פָּטוּר. הוֹדָה מִקְצָת קַרְקָעוֹת –",
+          "english": "He is exempt. He admitted to part of the land –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "פָּטוּר, מִקְצָת כֵּלִים – חַיָּיב.",
+          "english": "He is exempt, part of the vessels – he is obligated."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵתִיב מַר זוּטְרָא בְּרֵיהּ דְּרַב נַחְמָן:",
+      "macroPhase": "source_derivation",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "introduces_new_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:11:1",
+            "hebrew": "טענו - חבירו בבי\"ד כלים וקרקעות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that טענו refers to a plaintiff bringing a claim before בית דין regarding both כליים and קרקעות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:11:2",
+            "hebrew": "פטור - דלא כפירתו ולא הודאתו מביאתו לידי שבועה:",
+            "english": "",
+            "takeaway": "רש״י explains that פטור applies when the defendant admits to the כליים but denies the קרקעות, or vice versa, because neither the admission nor the denial alone triggers an obligation for a שבועה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:11:3",
+            "hebrew": "חייב - אף על הקרקעות לישבע כדאמרינן לקמן שהנכסים שאין להן אחריות זוקקין את הקרקעות לישבע עליהן משנתחייב לישבע על המטלטלין זוקקין ומגלגלין עמהם שבועת קרקע:",
+            "english": "",
+            "takeaway": "רש״י explains that חייב applies when the defendant admits to part of the כליים, which obligates him to take a שבועה on the כליים, and this obligation then 'drags' (זוקקין ומגלגלין) the קרקעות into the same שבועה, as will be explained later in the Gemara."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Inference that הילך triggers an oath",
+      "stepSummary": "The Gemara infers from the Mishna that the exemption for land is because it is not subject to oaths, and therefore deduces that if the claim were for vessels and vessels (similar to vessels and land), the defendant would be obligated, implying that a case of הילך (here it is) triggers an oath.",
+      "whatsHappening": "The גמרא performs a logical inference (קושיא/הקש) from the משנה's structure to derive a ruling about a case not explicitly mentioned: הילך. It reasons that the משנה exempts mixed claims because land is not subject to oaths.",
+      "deeperAnalysis": "The גמרא reasons: The משנה exempts mixed claims because land is not subject to oaths. If the claim were vessels and vessels, it would be obligated. This implies that the משנה's case of vessels and land is analogous to a case where the defendant says הילך. Thus, the גמרא infers that הילך triggers an oath obligation.",
+      "keyTerms": [
+        {
+          "term": "טַעְמָא",
+          "meaning": "the reason"
+        },
+        {
+          "term": "לָאו בַּת שְׁבוּעָה",
+          "meaning": "not subject to an oath"
+        },
+        {
+          "term": "דּוּמְיָא",
+          "meaning": "similar to"
+        },
+        {
+          "term": "הֵילָךְ",
+          "meaning": "here it is"
+        },
+        {
+          "term": "שְׁמַע מִינַּהּ",
+          "meaning": "learn from it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "טַעְמָא דְּכֵלִים וְקַרְקָעוֹת,",
+          "english": "The reason for vessels and land,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּקַרְקַע לָאו בַּת שְׁבוּעָה הִיא,",
+          "english": "for land is not subject to an oath,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא כֵּלִים וְכֵלִים דּוּמְיָא דְּכֵלִים וְקַרְקָעוֹת חַיָּיב.",
+          "english": "But vessels and vessels similar to vessels and land, he is obligated."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֵיכִי דָּמֵי?",
+          "english": "How is it similar?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָאו דְּאָמַר לֵיהּ הֵילָךְ, וּשְׁמַע מִינַּהּ הֵילָךְ חַיָּיב!",
+          "english": "Is it not that he said to him: Here you are, and learn from it: Here you are, he is…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "טַעְמָא דְּכֵלִים וְקַרְקָעוֹת,",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "inference",
+      "relationToPreviousStep": "derives_implication",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:12:1",
+            "hebrew": "דומיא דכלים וקרקעות - שכלים שהודה עליהם מונחים לפנינו וא\"ל הילך:",
+            "english": "",
+            "takeaway": "רש״י explains that the comparison (דומיא) between vessels and land refers to a case where the admitted vessels are already in the defendant's possession, analogous to land which is always available, and the defendant responds הילך."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:12:1",
+            "hebrew": "הא כלים וכלים חייב - הוה מצי לשנויי בחפר בה בורות שיחין ומערות כדבסמוך:",
+            "english": "But [if the defendant admits owing] vessels and [denies owing other vessels], he is obligated [to swear]. Our Gemara is attempting to prove that when a defendant admits part of the claim against him, and says ‘Here, it is yours!’ he is obligated to swear. The Gemara analyzes a statement of a Mishna in Maseches Shavuos 38b, where the Mishna says: If the defendant admitted owing land but denied owing vessels, he is exempt from swearing. The reason is because the admission and denial must both be about movable objects and not about land. When the admission is about land, even though the denial is about vessels there is no oath obligation. Our Gemara suggests that the reason the defendant is exempt from swearing even though he admitted owing land is strictly because land is excluded from an oath obligation as we have already learned. However, in a situation where both the admission and denial are vessels, even though the vessels the defendant admitted owing have the same characteristics as land, there would be an oath obligation. Now when one admits that he owes land, it is inherently an admission of ‘Here, it is yours!’, because the land is always available. It need not be collected as cash or vessels need to be collected. If our analysis is correct, we may conclude that even when the vessels one admits owing are a situation of ‘Here, it is yours!’, there is also an oath obligation. For the reason one is exempt when his admission is for land is because of the special exemption of land, but vessels that have the very same characteristics as land do generate an oath obligation. In short we may conclude that vessels which are = to land do generate an oath obligation. But which vessels are equal to land? When the defendant says: ‘Here, it is yours!’. Our Gemara eventually rejects this understanding of the Mishna in Shavuos 38b. Tosfos however, suggests that there is a simpler way to deflect the Gemara’s question. Our Gemara assumes that an admission about land is always by definition one of ‘Here, it is yours!’. This argues Tosfos is not necessarily true. There are situations where one may admit that he owes land, but it is not a case of ‘Here, it is yours!’. [The Gemara] could have answered, that the Mishna in Shavuos 38b is speaking of when [the defendant] dug pits, ditches and caverns, as the Gemara soon says on 5a. Although the defendant is admitting that he owes the plaintiff land, since the land has been damaged and must be restored to its original condition, this is not a case of ‘Here, it is yours!’ Similarly, if the admission was about vessels in a non-‘Here, it is yours!’ situation there would be an oath obligation.",
+            "takeaway": "תוספות notes that the Gemara could have alternatively explained the exemption in the Mishna by invoking the concept of חפר בה בורות שיחין ומערות, as discussed in the subsequent sugya."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "תירוץ",
+      "title": "Rejection of the inference: vessels and vessels is also exempt",
+      "stepSummary": "The Gemara rejects the previous inference, stating that even a claim of vessels and vessels results in exemption, and the Mishna's mention of vessels and land is to teach a different halacha: that an oath on vessels binds the land.",
+      "whatsHappening": "The גמרא provides a resolution (תירוץ) to the inference, reinterpreting the purpose of the משנה's wording. It argues that the משנה does not imply הילך is חייב.",
+      "deeperAnalysis": "The גמרא argues that the משנה does not imply הילך is חייב. Instead, it teaches that even if the defendant is obligated to swear on the vessels, he is also obligated to swear on the land (זוקקין). This resolves the inference by showing the משנה's purpose is to teach about זיקוק, not about הילך.",
+      "keyTerms": [
+        {
+          "term": "לָא",
+          "meaning": "no"
+        },
+        {
+          "term": "לְעוֹלָם",
+          "meaning": "always / in any case"
+        },
+        {
+          "term": "מַשְׁמַע לַן",
+          "meaning": "teaches us"
+        },
+        {
+          "term": "אַף עַל",
+          "meaning": "even on"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, לְעוֹלָם אֵימָא לָךְ כֵּלִים וְכֵלִים נָמֵי פָּטוּר,",
+          "english": "No, I will say to you that vessels and vessels too he is exempt,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא דְּקָתָנֵי כֵּלִים וְקַרְקָעוֹת,",
+          "english": "And the fact that it teaches vessels and land,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא קָא מַשְׁמַע לַן:",
+          "english": "This teaches us:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הוֹדָה בְּמִקְצָת כֵּלִים –",
+          "english": "Admission regarding part of the vessels –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חַיָּיב אַף עַל הַקַּרְקָעוֹת.",
+          "english": "He is obligated even regarding the land."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, לְעוֹלָם אֵימָא לָךְ כֵּלִים וְכֵלִים נָמֵי פּוֹטוֹר,",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "rejects_inference",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 4b:13:1",
+            "hebrew": "[הודה במקצת כלים חייב - וא\"ת יהא נאמן במיגו דאי בעי כפר בכלים והיה מודה במקצת קרקעות וי\"ל שמא חפץ בקרקעות יותר] ס\"א :",
+            "english": "[If] he admitted [owing] some [of the] vessels he is obligated [to swear]. The Mishna in Shavuos 38b is teaching us that when both the denial and the admission are about movable objects, there is an oath obligation. If you ask: [The defendant] should be believed without an oath, because he has a migo, that if he wanted to lie he could have denied owing vessels entirely and he would have admitted owing some of the land? Assuming that the defendant does not have the audacity to deny everything as we learned earlier on 3a and 3b, he did not have to admit that he owes some of the vessels, which generates an oath obligation, he could have just as easily admitted owing some of the land. This too, would satisfy his need to admit something and not deny the claim against him entirely and he would be exempt from swearing. We can answer: Perhaps he wants the land more than the vessels. Even though the value is the same, he would rather admit owing some of the vessels, so that he can retain the land. Since, the second claim does not accomplish his needs as does the first claim, he has no migo.",
+            "takeaway": "תוספות addresses the question of why the defendant is not believed via a מִגּוֹ that he could have denied the vessels entirely and admitted to some land, answering that perhaps he values the land more and thus prefers to admit to the vessels to retain the land, thereby invalidating the מִגּוֹ."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishna in Kiddushin about זוקקין",
+      "stepSummary": "The Gemara challenges the previous resolution by citing a Mishna in Kiddushin that already teaches the rule of זוקקין, asking why the Mishna in Shevuot needs to teach it again.",
+      "whatsHappening": "The גמרא raises a redundancy objection (קשיא) against the תירוץ, citing a prior source that already covers the claimed teaching. It asks: If the משנה in Shevuot is teaching זוקקין, why is this necessary?",
+      "deeperAnalysis": "The גמרא asks: If the משנה in Shevuot is teaching זוקקין, why is this necessary? We already learned this in Kiddushin. This challenges the validity of the תירוץ that the משנה's purpose is to teach זוקקין. This is a classic redundancy challenge: if the law is already known, why repeat it?",
+      "keyTerms": [
+        {
+          "term": "מַאי קָא מַשְׁמַע לַן",
+          "meaning": "what is it teaching us"
+        },
+        {
+          "term": "זוֹקְקִין",
+          "meaning": "binds / obligates"
+        },
+        {
+          "term": "תְּנֵינָא",
+          "meaning": "we learned"
+        },
+        {
+          "term": "אֲחֵרָיוּת",
+          "meaning": "guarantee / recourse"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי קָא מַשְׁמַע לַן – זוֹקְקִין? תְּנֵינָא:",
+          "english": "What is it teaching us? Binding?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "זוֹקְקִין הַנְּכָסִים שֶׁאֵין לָהֶן אַחְרָיוּת אֶת",
+          "english": "Binding the properties that have no guarantee"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַנְּכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת לִישָּׁבַע עֲלֵיהֶם.",
+          "english": "to the properties that have a guarantee to swear upon them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי קָא מַשְׁמַע לַן – זוֹקְקִין?",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:14:1",
+            "hebrew": "זוקקין - המטלטלין זוקקין הקרקעות לישבע ע\"י גלגול:",
+            "english": "",
+            "takeaway": "רש״י explains that זוקקין means movable property (מטלטלין) can compel an oath on real estate (קרקעות) through the mechanism of גלגול."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:14:2",
+            "hebrew": "תנינא - בקדושין (כו.) הנכסים שאין להן אחריות זוקקין את הנכסים שיש להן אחריות לישבע עליהם:",
+            "english": "",
+            "takeaway": "רש״י identifies the source of the prior teaching as the Mishna in קידושין (26a), which states that assets without guarantee (נכסים שאין להן אחריות) compel an oath on assets with guarantee (נכסים שיש להן אחריות)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Shevuot is the primary source, Kiddushin is incidental",
+      "stepSummary": "The Gemara resolves the redundancy by stating that the Mishna in Shevuot is the primary source for this law, while the Mishna in Kiddushin mentions it only incidentally.",
+      "whatsHappening": "The גמרא provides a resolution (תירוץ) to the redundancy challenge by distinguishing the primary and secondary sources. It explains that the משנה in Shevuot is the עיקר (main source) for the law of זוקקין.",
+      "deeperAnalysis": "The גמרא explains that the משנה in Shevuot is the עיקר (main source) for the law of זוקקין, as it deals with oaths. The משנה in Kiddushin mentions it only אגב גררא (incidentally) as part of a broader discussion. This resolves the redundancy by assigning different roles to each משנה.",
+      "keyTerms": [
+        {
+          "term": "הָכָא עִקָּר",
+          "meaning": "here is the main source"
+        },
+        {
+          "term": "הָתָם אַגַּב גְּרָרָא",
+          "meaning": "there it is mentioned incidentally"
+        },
+        {
+          "term": "נַסְבָּהּ",
+          "meaning": "it took it up"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא עִיקָּר, הָתָם אַגַּב גְּרָרָא נַסְבַהּ.",
+          "english": "Here is the main reference, there it was cited incidentally."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא עִקָּר, הָתָם אַגַּב גְּרָרָא נַסְבָּהּ.",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:15:1",
+            "hebrew": "הכא עיקר - שמשנה זו שנויה במסכת שבועות (לח.):",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna in מסכת שבועות is the עיקר source for the law of זוקקין because it deals with oaths."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:15:2",
+            "hebrew": "התם - בקדושין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishna in מסכת קידושין is the secondary source mentioned in the Gemara."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 4b:15:3",
+            "hebrew": "אגב גררא נסבה - דאיירי התם נכסים שאין להם אחריות נקנין עם נכסים שיש להן אחריות בכסף בשטר ובחזקה ואגב דאיירי דנקנין עמהם תנא בהדה זוקקין אותן לישבע עליהם:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna in קידושין mentions זוקקין only אגב גררא because it discusses how נכסים שאין להם אחריות are acquired together with נכסים שיש להן אחריות, and since it mentions their acquisition, it also mentions the oath required for them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T02:13:52.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 99.79117869999027,
+      "structure": 2304.9531506999047,
+      "translate": 440.23013280000305,
+      "meforshim": 1645.9012703003827,
+      "teaching": 1114.9670098000788
+    }
+  }
+}

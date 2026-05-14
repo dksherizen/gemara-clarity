@@ -74,6 +74,8 @@ export const MeforeshCommentSchema = z.object({
   hebrew: z.string(),
   english: z.string().optional(),
   takeaway: z.string(),
+  // Phrase-aligned Hebrew/English (added later — older JSONs may omit).
+  phrases: z.array(PhraseSchema).optional(),
 });
 export type MeforeshComment = z.infer<typeof MeforeshCommentSchema>;
 

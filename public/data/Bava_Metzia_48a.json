@@ -1,0 +1,1185 @@
+{
+  "ref": "Bava Metzia 48a",
+  "masechet": "Bava_Metzia",
+  "daf": 48,
+  "amud": "a",
+  "mainTopic": "(continues) מי שפרע ודברים · תשומת יד ומשיכה · ערבון כנגדו או כנגד כולו",
+  "overview": "(1) The Gemara examines the status of verbal agreements (devarim) and whether one who retracts receives the punishment of 'mi she-parah', distinguishing between cases with and without money. (2) The Gemara analyzes the biblical terms 'tashumet yad' and 'oshek' to support Reish Lakish's view that meshikah is required for acquisition, discussing cases of deposit and theft. (3) The Gemara discusses the acquisition via deposit (eravon), debating whether it acquires the entire item or only the value of the deposit, citing Rav and Rabbi Yochanan. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) מי שפרע ודברים",
+      "gist": "The Gemara examines the status of verbal agreements (devarim) and whether one who retracts receives the punishment of 'mi she-parah', distinguishing between cases with and without money.",
+      "openingFormula": "תנן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 12,
+      "topic": "תשומת יד ומשיכה",
+      "gist": "The Gemara analyzes the biblical terms 'tashumet yad' and 'oshek' to support Reish Lakish's view that meshikah is required for acquisition, discussing cases of deposit and theft.",
+      "openingFormula": "אמר רבא",
+      "firstStepNumber": 4,
+      "lastStepNumber": 12
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 13,
+      "endLine": 13,
+      "topic": "ערבון כנגדו או כנגד כולו",
+      "gist": "The Gemara discusses the acquisition via deposit (eravon), debating whether it acquires the entire item or only the value of the deposit, citing Rav and Rabbi Yochanan. — discussion continues into next amud.",
+      "openingFormula": "וכן אמר רב נחמן",
+      "firstStepNumber": 13,
+      "lastStepNumber": 13
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from a Baraita: רַבִּי שִׁמְעוֹן's view on acquisition and the curse",
+      "stepSummary": "The Gemara cites a Baraita where Rabbi Shimon discusses acquisition by garment vs. money and the application of the curse.",
+      "whatsHappening": "The Gemara introduces a Baraita to support the challenge that a verbal commitment alone does not incur the curse. The Baraita states that even though a garment can acquire money but not vice versa, the halakha is that the curse applies to one who retracts from a transaction where money was paid.",
+      "deeperAnalysis": "This supports the idea that the curse is tied to the transaction, not just the verbal commitment. The Baraita links the curse to the transaction, not just the verbal commitment.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי שִׁמְעוֹן",
+          "meaning": "רַבִּי שִׁמְעוֹן"
+        },
+        {
+          "term": "טַלִּית קוֹנָה דִּינַר זָהָב",
+          "meaning": "a garment acquires a gold dinar"
+        },
+        {
+          "term": "אֵין דִּינַר זָהָב קוֹנֶה טַלִּית",
+          "meaning": "a gold dinar does not acquire a garment"
+        },
+        {
+          "term": "כָּךְ הֲלָכָה",
+          "meaning": "that is the halakha"
+        }
+      ],
+      "whatToRemember": "The Baraita links the curse to the transaction, not just the verbal commitment.",
+      "confusionAlert": "The Baraita is not saying that verbal commitments are irrelevant, but that the curse is tied to the transaction.",
+      "whyThisMatters": "This sets up the distinction between cases with and without money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי שִׁמְעוֹן אוֹמֵר:",
+          "english": "Rabbi Shimon says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל פִּי שֶׁאָמְרוּ טַלִּית קוֹנָה",
+          "english": "Even though they said a garment acquires"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּינַר זָהָב וְאֵין דִּינַר זָהָב קוֹנֶה",
+          "english": "a gold dinar, and a gold dinar does not acquire"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "טַלִּית, מִכׇּל מָקוֹם כָּךְ הֲלָכָה. אֲבָל אָמְרוּ:",
+          "english": "a garment, from every place so is the halakha. But they said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִי שֶׁפָּרַע מֵאַנְשֵׁי דּוֹר הַמַּבּוּל וּמֵאַנְשֵׁי",
+          "english": "Who exacted payment from the people of the generation of the flood and from the…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דּוֹר הַפְּלַגָּה וּמֵאַנְשֵׁי סְדוֹם וַעֲמוֹרָה וּמִמִּצְרַיִם בַּיָּם –",
+          "english": "of the generation of the dispersion and from the people of Sodom and Gomorrah and from Egypt in the sea…"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הוּא עָתִיד לִיפָּרַע מִמִּי שֶׁאֵינוֹ עוֹמֵד בְּדִיבּוּרוֹ.",
+          "english": "he is destined to exact payment from whoever does not stand by his word."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָתַנְיָא, רַבִּי שִׁמְעוֹן אוֹמֵר: אַף עַל פִּי שֶׁאָמְרוּ טַלִּית קוֹנָה דִּינַר זָהָב וְאֵין דִּינַר זָהָב קוֹנֶה טַלִּית, מִכׇּל מָקוֹם כָּךְ הֲלָכָה.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:1:1",
+            "hebrew": "ואין דינר זהב קונה טלית - דלגבי פירות הוי דהבא טבעא:",
+            "english": "",
+            "takeaway": "רש״י explains that the rule that money does not acquire a garment applies specifically to produce, where money is considered the primary currency (טבעא)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:1:2",
+            "hebrew": "מ\"מ - כלומר אף לפי פורענות העתידה לבוא על החוזר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'מכל מקום' refers to the future punishment (פורענות) that awaits one who retracts from a transaction."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:1:3",
+            "hebrew": "כן הלכה - שאין בית דין יכולין לעכב בידו:",
+            "english": "",
+            "takeaway": "רש״י explains that 'כך הלכה' means the court cannot physically prevent the retraction, even though the curse applies."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:1:1",
+            "hebrew": "אמר ר' שמעון אע\"פ שאמרו - לא גרסינן ר' שמעון בן אלעזר דבפרק איזהו נשך (לקמן בבא מציעא דף עד:) מוכח דהיינו ר' שמעון בן יוחאי:",
+            "english": "",
+            "takeaway": "תוספות corrects the text to attribute the statement to רבי שמעון rather than רבי שמעון בן אלעזר, based on a proof from פרק איזהו נשך."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מסקנא",
+      "title": "Conclusion of the Baraita: Verbal negotiation does not effect acquisition",
+      "stepSummary": "The Baraita concludes that verbal negotiation does not effect acquisition, but retracting from it displeases the Sages.",
+      "whatsHappening": "The Baraita concludes by distinguishing between acquisition and the displeasure of the Sages. It states that verbal negotiation alone does not effect acquisition.",
+      "deeperAnalysis": "The Baraita clarifies that while verbal commitments do not transfer ownership, retracting from them displeases the Sages. This establishes that verbal agreements have moral weight but lack legal force for acquisition.",
+      "keyTerms": [
+        {
+          "term": "וְהַנּוֹשֵׂא וְנוֹתֵן בִּדְבָרִים",
+          "meaning": "and one who negotiates verbally"
+        },
+        {
+          "term": "לֹא קָנָה",
+          "meaning": "did not acquire"
+        },
+        {
+          "term": "וְהַחוֹזֵר בּוֹ",
+          "meaning": "and one who retracts from it"
+        },
+        {
+          "term": "אֵין רוּחַ חֲכָמִים נוֹחָה הֵימֶנּוּ",
+          "meaning": "the Sages are displeased with him"
+        }
+      ],
+      "whatToRemember": "The Baraita distinguishes between acquisition and the displeasure of the Sages.",
+      "confusionAlert": "The Baraita is not saying that verbal commitments are irrelevant, but that they are binding to the extent of displeasing the Sages.",
+      "whyThisMatters": "This sets up the distinction between cases with and without money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהַנּוֹשֵׂא וְנוֹתֵן בִּדְבָרִים –",
+          "english": "And one who negotiates and gives in matters –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא קָנָה, וְהַחוֹזֵר בּוֹ –",
+          "english": "did not acquire, and one who reneges –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין רוּחַ חֲכָמִים נוֹחָה הֵימֶנּוּ.",
+          "english": "the spirit of the Sages is not pleased with him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהַנּוֹשֵׂא וְנוֹתֵן בִּדְבָרִים – לֹא קָנָה, וְהַחוֹזֵר בּוֹ – אֵין רוּחַ חֲכָמִים נוֹחָה הֵימֶנּוּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:2:1",
+            "hebrew": "אין רוח חכמים נוחה הימנו - אין נחת רוח לחכמי ישראל במעשיו של זה אין דעתם נוחה עליהם הימנו על ידו:",
+            "english": "",
+            "takeaway": "רש״י explains that אין רוח חכמים נוחה הימנו means the חכמים are displeased with the person's actions, indicating a moral censure rather than a legal penalty."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Rava's resolution: The curse applies only when money is involved",
+      "stepSummary": "Rava resolves the difficulty by stating that the curse applies only when money is involved, not when it is just a verbal commitment.",
+      "whatsHappening": "Rava resolves the difficulty by distinguishing between cases with and without money. He clarifies when the curse applies.",
+      "deeperAnalysis": "Rava states that the curse applies only when money is involved, not when it is just a verbal commitment. This resolves the difficulty by showing that the curse is tied to the transaction, not just the verbal commitment.",
+      "keyTerms": [
+        {
+          "term": "וְאָמַר רָבָא",
+          "meaning": "and Rava said"
+        },
+        {
+          "term": "אָנוּ אֵין לָנוּ אֶלָּא",
+          "meaning": "we have only"
+        },
+        {
+          "term": "דְּבָרִים וְאִכָּא בַּהֲדַיְיהוּ מָעוֹת",
+          "meaning": "verbal commitments and there is money with them"
+        },
+        {
+          "term": "קָאֵי בַּ״אֲבָל״",
+          "meaning": "stands subject to the curse"
+        },
+        {
+          "term": "דְּבָרִים וְלֵיכָּא בַּהֲדַיְיהוּ מָעוֹת",
+          "meaning": "verbal commitments and there is no money with them"
+        },
+        {
+          "term": "לָא קָאֵי בַּ״אֲבָל״",
+          "meaning": "does not stand subject to the curse"
+        }
+      ],
+      "whatToRemember": "Rava distinguishes between cases with and without money.",
+      "confusionAlert": "Rava is not saying that verbal commitments are irrelevant, but that the curse is tied to the transaction.",
+      "whyThisMatters": "This establishes the distinction between cases with and without money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רָבָא: אָנוּ אֵין לָנוּ אֶלָּא ״אֵין רוּחַ",
+          "english": "And Rava says: We have only \"No curse"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חֲכָמִים נוֹחָה הֵימֶנּוּ״.",
+          "english": "The Sages are displeased with him\"."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּבָרִים וְאִיכָּא בַּהֲדַיְיהוּ מָעוֹת – קָאֵי בַּ״אֲבָל״.",
+          "english": "Words and there is money with them – he stands in the \"But\".",
+          "notes": "\"But\" refers to the curse formula \"But the Sages said...\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּבָרִים וְלֵיכָּא בַּהֲדַיְיהוּ מָעוֹת – לָא קָאֵי בַּ״אֲבָל״.",
+          "english": "Words and there is no money with them – he does not stand in the \"But\"."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רָבָא: אָנוּ אֵין לָנוּ אֶלָּא ״אֵין רוּחַ חֲכָמִים נוֹחָה הֵימֶנּוּ״. דְּבָרִים וְאִיכָּא בַּהֲדַיְיהוּ מָעוֹת – קָאֵי בַּ״אֲבָל״. דְּבָרִים וְלֵיכָּא בַּהֲדַיְיהוּ מָעוֹת – לָא קָאֵי בַּ״אֲבָל״.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:3:1",
+            "hebrew": "אנו אין לנו - קללה אחרת אלא אינו הגון בעיני חכמים:",
+            "english": "",
+            "takeaway": "רש״י explains that רבא's statement 'אנו אין לנו' means there is no other curse besides the disapproval of the חכמים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:3:2",
+            "hebrew": "קאי באבל - משום דברים שבאו על כך לכלל מעשה אבל מעות לא קנו מדאורייתא ונפקא מינה לענין איסורא כגון אם קידש בו את האשה לר' יוחנן הוו קדושין דמדאוריי' קנייה ודידיה הוא לריש לקיש לא הוו קדושין:",
+            "english": "",
+            "takeaway": "רש״י explains that when money is involved, the case falls under the 'אבל' clause because the words led to an actual transaction, and the practical difference is regarding the prohibition of using the money for קידושין according to רבי יוחנן versus ריש לקיש."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:3:1",
+            "hebrew": "ואמר רבא אנו אין לנו אלא אין רוח חכמים נוחה הימנו - ואם תאמר מאי קמ\"ל רבא בברייתא נמי הכי קתני החוזר בו אין רוח חכמים נוחה הימנו וי\"ל דאשמועינן דאין רוח חכמים נוחה הימנו לאו היינו מי שפרע דקתני ברישא:",
+            "english": "",
+            "takeaway": "תוספות addresses why רבא's statement is novel when the ברייתא already states that the spirit of the חכמים is not pleased with the one who retracts, and answers that רבא teaches that this disapproval does not apply to one who has already paid."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:3:2",
+            "hebrew": "דברים ואיכא בהדייהו מעות קאי באבל - ואם תאמר ודקארי לה מאי קארי לה וי\"ל דהך ברייתא ר' שמעון היא דסבר מעות קונות אפילו לריש לקיש ולכך לדידיה כי איכא מעות קאי באבל והמקשה מדמה לריש לקיש דאין מעות קונות לרבנן לדברים בלא מעות לר' שמעון:",
+            "english": "",
+            "takeaway": "תוספות explains that the ברייתא follows רבי שמעון who holds that money acquires even according to ריש לקיש, so when money is present it falls under 'אבל', and the questioner mistakenly assumed the ברייתא follows ריש לקיש's view that money does not acquire for words without money."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on the practical halachic difference regarding קידושין to explain why money triggers the 'אבל' clause, תוספות focuses on the source of the ברייתא, attributing it to רבי שמעון to resolve why money is treated differently from mere words."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Rava: Verse and Mishna support Reish Lakish",
+      "stepSummary": "Rava introduces the sugya by stating that both a biblical verse and a Mishna support Reish Lakish's view that meshikah is required for acquisition.",
+      "whatsHappening": "Rava opens the sugya by asserting that a verse and a Mishna support Reish Lakish's position on meshikah. He cites Leviticus 5:21.",
+      "deeperAnalysis": "Rava sets the stage by claiming that the biblical text and Tannaitic sources align with Reish Lakish's view that money alone does not effect acquisition of movable property. He cites Leviticus 5:21, listing cases of denial: deposit, pledge, robbery, and oppression.",
+      "keyTerms": [
+        {
+          "term": "רֵישׁ לָקִישׁ",
+          "meaning": "Reish Lakish, the Amora whose view is being supported"
+        },
+        {
+          "term": "תְּשׁוּמַת יָד",
+          "meaning": "pledge / deposit of a vessel"
+        },
+        {
+          "term": "עָשַׁק",
+          "meaning": "oppressed / withheld wages"
+        },
+        {
+          "term": "מְשִׁיכָה",
+          "meaning": "pulling / physical acquisition"
+        }
+      ],
+      "whatToRemember": "Rav Hisda's definitions of תשומת יד and עשק are crucial for understanding the subsequent analysis of the verse.",
+      "confusionAlert": "Note that Rav Hisda's explanations are embedded within Rava's opening statement.",
+      "whyThisMatters": "This sets up the entire sugya's focus on whether the verse implies that meshikah is necessary for acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא, קְרָא וּמַתְנִיתָא מְסַיַּיע לֵיהּ לְרֵישׁ לָקִישׁ.",
+          "english": "Rava says: A verse and a Mishnah support Reish Lakish."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קְרָא, דִּכְתִיב: ״וְכִחֵשׁ בַּעֲמִיתוֹ בְּפִקָּדוֹן אוֹ בִתְשׂוּמֶת יָד",
+          "english": "A verse, as it is written: \"And he deals falsely with his colleague in a deposit or in a pledge"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ בְגָזֵל אוֹ עָשַׁק אֶת עֲמִיתוֹ״.",
+          "english": "or in robbery or he oppressed his colleague.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״תְּשׂוּמֶת יָד״ –",
+          "english": "\"Pledge\" –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר רַב חִסְדָּא:",
+          "english": "Rav Ḥisda says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כְּגוֹן שֶׁיִּחֵד לוֹ כְּלִי לְהַלְוָאָתוֹ.",
+          "english": "Like one who designated for him a vessel for his loan."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״עָשַׁק״ – אָמַר רַב חִסְדָּא:",
+          "english": "\"Oppressed\" – Rav Ḥisda says:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "כְּגוֹן שֶׁיִּחֵד לוֹ כְּלִי לְעׇשְׁקוֹ.",
+          "english": "Like one who designated for him a vessel for his oppression."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא, קְרָא וּמַתְנִיתָא מְסַיְּעִין לֵיהּ לְרֵישׁ לָקִישׁ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:4:1",
+            "hebrew": "מסייע לר\"ל - דמדאוריי' נמי לא קנו מעות להדיוט:",
+            "english": "",
+            "takeaway": "רש״י explains that רבא's claim that the verse supports ריש לקיש means that according to biblical law, money does not effect acquisition for a private individual."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:4:2",
+            "hebrew": "תשומת יד - הלואה ואמר רב חסדא כגון שיחד לו הלוה כלי עליה דהוי דומיא דפקדון דאילו כפר בהלואה גרידתא לא מיחייב קרבן שבועה הואיל וניתנה להוצאה:",
+            "english": "",
+            "takeaway": "רש״י explains that תשומת יד refers to a loan where the borrower designates a specific vessel for the money, making it analogous to a פקדון and thus requiring a קרבן and שבועה, unlike a simple loan given for expenditure."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:4:3",
+            "hebrew": "עשק - שכר שכיר:",
+            "english": "",
+            "takeaway": "רש״י explains that עשק refers to the wages of a hired worker."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:4:4",
+            "hebrew": "שיחד לו כלי לעשקו - ואי לא לא מיחייב אכפירת שכר שכיר קרבן שבועה דלא מייחד ליה באפי נפשיה כפקדון וגזל ואבידה:",
+            "english": "",
+            "takeaway": "רש״י explains that designating a vessel for the wages is necessary to incur liability for a קרבן and שבועה for denying a worker's wages, just as designation is required for פקדון, גזל, and אבידה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Why does the verse omit 'tashumet yad' in the second listing?",
+      "stepSummary": "The Gemara challenges the verse's omission of 'tashumet yad' in the second listing, suggesting it implies that meshikah is lacking.",
+      "whatsHappening": "The Gemara presses on the verse's structure: why is 'tashumet yad' omitted in the second listing? It asks why this case is omitted.",
+      "deeperAnalysis": "The Gemara notes that Leviticus 5:23 repeats robbery, oppression, and deposit, but omits 'tashumet yad'. The implication is that the lender did not acquire the pledged item because he lacked meshikah. This supports Reish Lakish's view that meshikah is necessary for acquisition.",
+      "keyTerms": [
+        {
+          "term": "וְהָיָה כִּי יֶחֱטָא",
+          "meaning": "the second verse listing cases of denial"
+        },
+        {
+          "term": "לָא אַהֲדַרֵיהּ",
+          "meaning": "did not repeat it"
+        }
+      ],
+      "whatToRemember": "The omission of תשומת יד in the second verse is the key textual evidence for Reish Lakish's view.",
+      "confusionAlert": "The Gemara is not questioning the verse's accuracy, but rather using its structure to derive a halachic principle.",
+      "whyThisMatters": "This establishes the core argument for Reish Lakish's position from the biblical text.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי אַהְדְּרֵיהּ קְרָא, כְּתִיב:",
+          "english": "And when the verse repeats it, it is written:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״וְהָיָה כִּי יֶחֱטָא וְאָשֵׁם וְהֵשִׁיב אֶת",
+          "english": "\"And it shall be when he sins and is guilty and he shall return the"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַגְּזֵלָה אֲשֶׁר גָּזָל אוֹ אֶת הָעֹשֶׁק",
+          "english": "robbery that he robbed or the oppression"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲשֶׁר עָשָׁק אוֹ אֶת הַפִּקָּדוֹן אֲשֶׁר",
+          "english": "that he oppressed or the deposit that"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הׇפְקַד אִתּוֹ״, וְאִילּוּ תְּשׂוּמֶת יָד לָא אַהְדְּרֵיהּ,",
+          "english": "he deposited with him\", and these, a pledge it does not repeat,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַאי טַעְמָא? לָאו מִשּׁוּם דִּמְחַסְּרָא מְשִׁיכָה?",
+          "english": "What is the reason? Is it not because it lacks drawing?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי אַהְדַּרֵיהּ קְרָא, כְּתִיב: ״וְהָיָה כִּי יֶחֱטָא...״, וְאִלּוּ תְּשׁוּמַת יָד לָא אַהְדַּרֵיהּ, מַאי טַעְמָא? לָאו מִשּׁוּם דְּמַחְסַר מְשִׁיכָה?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        40
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:5:1",
+            "hebrew": "וכי אהדריה קרא - להישבון לאחר שהודה כי יחטא ואשם:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse's repetition of the cases refers to the obligation to return the item after the borrower has admitted to the sin."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:5:2",
+            "hebrew": "לאו משום דמחוסר משיכה - אותו כלי ולא קנאו מלוה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the omission of תשומת יד in the second listing is because the lender did not acquire the pledged item due to a lack of משיכה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Pappa: The case is about 'oshek' that was repeated",
+      "stepSummary": "Rav Pappa suggests that the verse's repetition of 'oshek' suffices to support Reish Lakish's view, without needing to focus on 'tashumet yad'.",
+      "whatsHappening": "Rav Pappa offers an alternative explanation for the verse's structure. He argues that the verse's repetition of 'oshek' is sufficient.",
+      "deeperAnalysis": "Rav Pappa argues that the verse's repetition of 'oshek' (oppression) is sufficient to support Reish Lakish's view. He suggests that the case involves a worker who took an item for payment and then deposited it with the employer. This case is already covered by the term 'deposit' in the verse, so the omission of 'tashumet yad' is not the key point.",
+      "keyTerms": [
+        {
+          "term": "רַב פַּפָּא",
+          "meaning": "Rav Pappa, the Amora offering the alternative explanation"
+        },
+        {
+          "term": "מֵעוֹשֶׁק הוּא",
+          "meaning": "it is from the case of oppression"
+        }
+      ],
+      "whatToRemember": "Rav Pappa's suggestion shifts the focus from 'tashumet yad' to 'oshek'.",
+      "confusionAlert": "Rav Pappa is not rejecting Reish Lakish's view, but rather offering a different textual basis for it.",
+      "whyThisMatters": "This introduces a potential alternative reading of the verse that could weaken the original argument.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב פָּפָּא לְרָבָא:",
+          "english": "Rav Pappa said to Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵימָא מֵעוֹשֶׁק הוּא, דְּאַהְדַּר קְרָא!",
+          "english": "Say that it is from the oppressor, that the verse repeated!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן –",
+          "english": "Here with what are we dealing?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כְּגוֹן שֶׁנְּטָלוֹ מִמֶּנּוּ וְחָזַר וְהִפְקִידוֹ אֶצְלוֹ.",
+          "english": "Like that he took it from him and returned and deposited it with him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב פַּפָּא לְרָבָא: אֵימָא מֵעוֹשֶׁק הוּא, דְּאַהְדַּר קְרָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        41
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:6:1",
+            "hebrew": "מעושק דאהדריה קרא - מכיון דאהדריה קרא לעושק דמחסר נמי משיכה לא אצטריך לאהדורי לתשומת יד דמעושק נילף ליה:",
+            "english": "",
+            "takeaway": "רש״י explains that since the verse repeats the word עושק, which already omits the requirement of משיכה, there is no need to repeat the phrase תשומת יד, as the law regarding it can be derived from עושק."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:6:2",
+            "hebrew": "הכא במאי עסקינן - עושק דאהדריה קרא משתעי בשנטלו שכיר לכלי ממנו וחזר והפקידו אצלו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the case of עושק mentioned in the verse refers to a scenario where a worker took a tool from the employer and then deposited it back with him."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "That is just a deposit!",
+      "stepSummary": "The Gemara challenges Rav Pappa's suggestion by noting that the case he describes is already covered by the term 'deposit' in the verse.",
+      "whatsHappening": "The Gemara presses on Rav Pappa's explanation. It objects that Rav Pappa's case is already included in the term 'deposit'.",
+      "deeperAnalysis": "The Gemara objects that Rav Pappa's case (worker taking an item and depositing it) is already included in the term 'deposit' (פיקדון) in the verse. If so, what novel element does Rav Pappa's explanation add? The Gemara notes that there are two types of deposit: a standard deposit and a case where one deposits an item that previously belonged to the bailee.",
+      "keyTerms": [
+        {
+          "term": "פִּקָּדוֹן",
+          "meaning": "deposit"
+        },
+        {
+          "term": "תְּרֵי גַּוְנֵי פִּקָּדוֹן",
+          "meaning": "two types of deposit"
+        }
+      ],
+      "whatToRemember": "The Gemara distinguishes between two types of deposit to address Rav Pappa's suggestion.",
+      "confusionAlert": "The Gemara is not rejecting Rav Pappa's view entirely, but rather pointing out a potential overlap with the existing text.",
+      "whyThisMatters": "This forces a refinement of Rav Pappa's explanation to avoid redundancy.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַיְינוּ פִּקָּדוֹן! תְּרֵי גַּוְנֵי פִּקָּדוֹן.",
+          "english": "That is a deposit! Two types of deposit."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַיְינוּ פִּקָּדוֹן! תְּרֵי גַּוְנֵי פִּקָּדוֹן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "If so, why not repeat 'tashumet yad'?",
+      "stepSummary": "The Gemara resolves the difficulty by noting that if Rav Pappa's explanation were correct, the verse would have repeated 'tashumet yad' as well.",
+      "whatsHappening": "The Gemara offers a resolution to the difficulty raised in step 43. It argues that if Rav Pappa's explanation were correct, the verse should have also repeated 'tashumet yad'.",
+      "deeperAnalysis": "The Gemara argues that if Rav Pappa's explanation were correct (that the verse's repetition of 'oshek' suffices), then the verse should have also repeated 'tashumet yad' to cover the case where the lender took the item and then deposited it. Since the verse does not repeat 'tashumet yad', it supports Reish Lakish's view that meshikah is necessary for acquisition. The Gemara concludes that the verse's omission of 'tashumet yad' is the key point, not the repetition of 'oshek'.",
+      "keyTerms": [
+        {
+          "term": "לָא תֵּיבְתָּא וְלָא סִיּוּעְתָּא",
+          "meaning": "neither a refutation nor a support"
+        }
+      ],
+      "whatToRemember": "The Gemara's resolution hinges on the verse's omission of 'tashumet yad'.",
+      "confusionAlert": "The Gemara is not rejecting Rav Pappa's view entirely, but rather showing that it does not fully address the textual difficulty.",
+      "whyThisMatters": "This reinforces the original argument for Reish Lakish's view from the verse's structure.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, תְּשׂוּמֶת יָד נָמֵי לַיהְדְּרֵיהּ,",
+          "english": "If so, let the verse also repeat the pledge,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלוֹקְמֵיהּ כְּגוֹן שֶׁנְּטָלוֹ הֵימֶנּוּ וְחָזַר וְהִפְקִידוֹ אֶצְלוֹ!",
+          "english": "and let us place it like he took it from him and returned and deposited it with…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי אַהְדְּרֵיהּ קְרָא – לָא תְּיוּבְתָּא וְלָא סִיַּיעְתָּא.",
+          "english": "If the verse repeated the pledge — neither a refutation nor a support."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשְׁתָּא דְּלָא אַהְדְּרֵיהּ קְרָא – מְסַיַּיע לֵיהּ.",
+          "english": "Now that the verse did not repeat the pledge — it supports him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, תְּשׁוּמַת יָד נָמֵי לַהֲדַרֵיהּ, וְלוֹקְמֵיהּ כְּגוֹן שֶׁנָּטְלוֹ הֵימֶנּוּ וְחָזַר וְהִפְקִידוֹ אֶצְלוֹ!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:8:1",
+            "hebrew": "אי הכי - דמאי דאהדר קרא מוקמת בדלא מחוסר משיכה נהי נמי דמשיכה בעינן ליהדריה קרא נמי לתשומת יד ונוקמה בהכי:",
+            "english": "",
+            "takeaway": "רש״י explains that if the verse's repetition were meant to cover cases not requiring משיכה, it should have also repeated תשומת יד to cover the case of taking and re-depositing."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:8:2",
+            "hebrew": "אי אהדריה קרא לא הוה גמרינן לא תיובתא ולא סייעתא - דר' יוחנן לוקמה בדלא משך וריש לקיש לוקמיה בשמשך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the verse had repeated תשומת יד, it would not have served as a תיובתא or סייעתא because רבי יוחנן could still interpret it as a case without משיכה and ריש לקיש as a case with משיכה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:8:3",
+            "hebrew": "השתא דלא אהדריה מסייע ליה - דמדאהדריה לעושק ופקדון וגזל ואבידה ולא אהדריה לתשומת יד איכא למילף תשומת יד במחוסר משיכה ועשק כשמשך:",
+            "english": "",
+            "takeaway": "רש״י concludes that since the verse did not repeat תשומת יד, it supports ריש לקיש's view that תשומת יד requires משיכה, while עושק does not."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "But doesn't the verse repeat 'tashumet yad'?",
+      "stepSummary": "The Gemara challenges the previous conclusion by citing a baraita that includes 'tashumet yad' in the second listing.",
+      "whatsHappening": "The Gemara raises a new difficulty from a baraita. It cites a baraita that includes 'tashumet yad' in the second listing of cases.",
+      "deeperAnalysis": "The Gemara cites a baraita that includes 'tashumet yad' in the second listing of cases. This contradicts the previous conclusion that the verse omits 'tashumet yad'. The baraita states that Rabbi Shimon derives the inclusion of 'tashumet yad' from the phrase 'or anything about which he has taken a false oath'. Rav Naḥman, citing Rabba bar Avuh and Rav, explains that this phrase serves to include the case of a pledge in the requirement of return.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי שִׁמְעוֹן",
+          "meaning": "Rabbi Shimon, the Tanna cited in the baraita"
+        },
+        {
+          "term": "רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ אָמַר רַב",
+          "meaning": "Rav Naḥman, citing Rabba bar Avuh and Rav"
+        }
+      ],
+      "whatToRemember": "The baraita cited here includes 'tashumet yad' in the second listing, contradicting the previous conclusion.",
+      "confusionAlert": "The Gemara is not rejecting the previous conclusion entirely, but rather pointing out a potential contradiction from a different source.",
+      "whyThisMatters": "This introduces a new difficulty that must be resolved to maintain the argument for Reish Lakish's view.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּתְשׂוּמֶת יָד לָא אַהְדְּרֵיהּ קְרָא?",
+          "english": "And does the verse not repeat the case of a pledge?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן:",
+          "english": "But isn't it taught in a baraita, Rabbi Shimon said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִנַּיִן לִיתֵּן אֶת הָאָמוּר לְמַעְלָה לְמַטָּה, דִּכְתִיב:",
+          "english": "From where is it derived to apply that which is stated above to that which is stated…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״אוֹ מִכֹּל אֲשֶׁר יִשָּׁבַע עָלָיו לַשֶּׁקֶר״,",
+          "english": "\"Or anything about which he has taken a false oath\","
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר",
+          "english": "And Rav Naḥman says that Rabba bar Avuh says that Rav says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲבוּהּ אָמַר רַב:",
+          "english": "To include a pledge in the requirement of return."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְרַבּוֹת תְּשׂוּמֶת יָד לְהִישָּׁבוֹן.",
+          "english": "In any event, the verse did not repeat the case of a pledge explicitly."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּהֶדְיָא מִיהָא לָא אַהְדְּרֵיהּ קְרָא.",
+          "english": "And does the verse not repeat the case of a pledge?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּתְשׁוּמַת יָד לָא אַהְדַּרֵיהּ קְרָא? וְהָתַנְיָא, אָמַר רַבִּי שִׁמְעוֹן: מִנַּיִן לִיתֵּן אֶת הָאָמוּר לְמַעְלָה לְמַטָּה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:9:1",
+            "hebrew": "בהדיא מיהא לא אהדריה קרא - שיהא חייב להשיבו ולהביא קרבן וכי הדר רבייה קרא דומיא דפקדון רבייה בשנטלו הימנו וחזר והפקידו אצלו:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse does not repeat תשומת יד to impose a liability for return and a קרבן, but rather to include the case where the item was taken from the owner and then deposited back with the borrower."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:9:1",
+            "hebrew": "תשומת יד לא אהדריה קרא - הכי נמי לא היה צריך להחזיר עושק ובשביל שום דרשה אהדריה וא\"ת בפ' נערה שנתפתתה (כתובות דף מב. ושם: ד\"ה מאי) דאמר אמר ליה אנסת בתי ר' שמעון פוטר מקרבן שבועה אפילו עמד בדין מקרא דוכחש כו' יצאו אלו שהן קנס בשלמא לר' יוחנן דלא בעי משיכה אלא יחוד אתי שפיר דגבי קנס לא יועיל יחוד אלא לריש לקיש דבעי נטלו וחזר והפקידו אצלו כיון שנטלו ממונא הוא ומה שייך לקנס וי\"ל דלא קשה כלל דהתם ר' שמעון היא דאית ליה מעות קונות אפילו לריש לקיש ולא בעי אלא יחוד אבל קשה בהפלת שנו וסימת עינו מה צריך קרא למעט הא התם אינו פוטר אלא מטעם קנס דמאי יחוד שייך הלא יוצא לחרות וליכא למימר דתבע ליה שניהם הפלת שנו וסימת עינו ויחד לו כלי על דמי עינו כדאמר במרובה (ב\"ק דף עד. ושם) שיוצא בשן ונותן לו דמי עינו דהא מוקי לה התם כמ\"ד דאין צריך גט שחרור ור' שמעון סבר בפרק השולח (גיטין דף מב:) דצריך גט שחרור ויש לומר דשפיר מקרי יחוד ששואל גופו שכובש בשעבודו ואינו משחררו:",
+            "english": "",
+            "takeaway": "תוספות addresses a difficulty from כתובות regarding ר' שמעון's exemption from קרבן שבועה in cases of קנס, explaining that ר' שמעון holds מעות קונות, so the requirement of יחוד does not apply there, and further clarifies that in cases of הפלת שן וסימת עינו, the יחוד refers to the slave's body being held in servitude."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "שאלה",
+      "title": "Source for רֵישׁ לָקִישׁ from a ברייתא",
+      "stepSummary": "The Gemara transitions to discussing the Mishnaic support for Reish Lakish's view.",
+      "whatsHappening": "The גמרא shifts to a ברייתא that supports רֵישׁ לָקִישׁ's view. It cites a case where consecrated money given to a bathhouse attendant incurs מַעֵל immediately.",
+      "deeperAnalysis": "The ברייתא shows that payment to a בַּלָּן does not require מְשִׁיכָה for acquisition. This supports רֵישׁ לָקִישׁ because the attendant is paid for a service, not for a physical item that needs pulling.",
+      "keyTerms": [
+        {
+          "term": "נְתָנָהּ לְבַלָּן",
+          "meaning": "gave it to a bathhouse attendant"
+        },
+        {
+          "term": "מָעַל",
+          "meaning": "is liable for misuse of consecrated property"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִיתָא מְנָלַן? דְּתַנְיָא:",
+          "english": "From where do we derive the Mishnah? As it is taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נְתָנָהּ לְבַלָּן מָעַל, וְאָמַר רַב:",
+          "english": "He gave it to a bathhouse attendant, he misused, and Rav said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּוְקָא בַּלָּן הוּא דְּלָא מְחַסְּרָא מְשִׁיכָה,",
+          "english": "Specifically a bathhouse attendant is one that does not lack pulling,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל מִידֵּי אַחֲרִיתִי דִּמְחַסְּרָא מְשִׁיכָה –",
+          "english": "But any other matter that lacks pulling –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לֹא מָעַל עַד דְּמָשֵׁיךְ.",
+          "english": "He did not misuse until he pulls."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִיתָא מֵינַן? דְּתַנְיָא: נְתָנָהּ לְבַלָּן מָעַל...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:10:1",
+            "hebrew": "נתנה - לפרוטה של הקדש בשוגג:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the consecrated item in question is a פרוטה given for the purpose of bathing."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:10:2",
+            "hebrew": "לבלן - בשכר שירחצנו בבית המרחץ:",
+            "english": "",
+            "takeaway": "רש״י explains that the בלן is the attendant paid to provide the service of bathing in the bathhouse."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:10:3",
+            "hebrew": "מעל - ואע\"פ שעדיין לא רחץ: ואמר רב גרסינן:",
+            "english": "",
+            "takeaway": "רש״י notes that the giver is liable for מעילה immediately upon handing over the money, even before the bath is taken, and that the text should be read as 'ואמר רב'."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:10:4",
+            "hebrew": "דוקא בלן - קתני דמעל הנותן משום דשכירות גמורה היא בנתינת הפרוטה ואין יכול לחזור בו שאין כאן למשוך אבל אם נתנה על דבר שיש בה מה למשוך הימנו לא מעל עד דמשיך:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav limits the immediate liability to a בלן because hiring a service is a complete transaction upon payment with no possibility of withdrawal, unlike acquiring a physical object which requires משיכה to finalize the transfer and trigger liability."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:10:1",
+            "hebrew": "בלן דלא מחסרא משיכה - ואם תאמר והא מחוסר חזקה ויש לומר דשכירות קרקע נקנה בכסף כדאמר במרובה (ב\"ק דף עט. ושם) ואם תאמר ומנ\"ל דדוקא בלן ויש לומר מדקאמר בסיפא משום שא\"ל הכנס ורחוץ שהרי מרחץ פתוחה לפניך ואם תאמר וכי אתותב ר' יוחנן ממתני' וי\"ל דר' יוחנן מוקי לה בבלן נכרי אבל ספר נכרי בעי משיכה וריש לקיש ורבא סבירא להו דמיירי בבלן ישראל דומיא דרישא דקתני נתנה לחבירו הוא מעל וחבירו לא מעל דאיירי בנתנו לחבירו ישראל דבנכרי לא שייך מעילה:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that a bathhouse attendant might require חזקה, answering that hiring land (the bathhouse) is acquired with money, and further clarifies that Rav's limitation to a בלן is derived from the latter part of the baraita which mentions 'enter and bathe'."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on the nature of the transaction (service vs. object) to explain why משיכה is not required for a בלן, תוספות delves into the technical acquisition mechanics (hiring land) and reconciles the baraita with the conflicting views of רבי יוחנן and ריש לקיש by distinguishing between Jewish and non-Jewish attendants."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Difficulty from a barber case",
+      "stepSummary": "The Gemara challenges the previous conclusion by citing a baraita that states giving consecrated money to a barber incurs liability immediately.",
+      "whatsHappening": "The גמרא raises a difficulty from a conflicting ברייתא. It states that giving consecrated money to a barber incurs מַעֵל immediately.",
+      "deeperAnalysis": "This contradicts the previous conclusion that מְשִׁיכָה is required. The barber needs מְשִׁיכָה for his tools, so the transaction should not finalize until then.",
+      "keyTerms": [
+        {
+          "term": "נְתָנָהּ לְסַפָּר",
+          "meaning": "gave it to a barber"
+        },
+        {
+          "term": "בָּעֵי לְמִמְשַׁךְ תִּסְפָּרוֹת",
+          "meaning": "requires meshikah for the haircut utensils"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָתַנְיָא: נְתָנָהּ לְסַפָּר מָעַל.",
+          "english": "And it is taught: He gave it to a barber — he misused."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְסַפָּר הָא בָּעֵי לְמִמְשַׁךְ תִּסְפּוֹרֶת.",
+          "english": "And a barber, does he not need to pull the haircut utensils?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן – בְּסַפָּר גּוֹי,",
+          "english": "Here, with what are we dealing? — With a gentile barber,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּלָאו בַּר מְשִׁיכָה הוּא.",
+          "english": "who is not subject to the requirement of pulling."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָתַנְיָא: נְתָנָהּ לְסַפָּר מָעַל. וְסַפָּר הָא בָּעֵי לְמִמְשַׁךְ תִּסְפָּרוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:11:1",
+            "hebrew": "הא בעי למשוך - האי שוכר התספורת דבכל מידי דאית ביה מה למשוך לא קני עד דמשיך:",
+            "english": "",
+            "takeaway": "רש״י explains that the barber requires משיכה because any item that can be moved requires משיכה for acquisition."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:11:2",
+            "hebrew": "נכרי - לא שייך ביה דין משיכה דמיד עמיתך כתיב (ויקרא כה):",
+            "english": "",
+            "takeaway": "רש״י explains that a non-Jewish barber does not require משיכה because the Torah's laws of acquisition apply only to 'your fellow' (עמיתך)."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:11:1",
+            "hebrew": "והא בעי לממשך תספורת - מכאן אומר ר\"ת דהסופר שהשכיר עצמו אם משכו ממנו קולמוס או תער שלו אין יכולין שוב לחזור בהם ואם תאמר מ\"ש מפועל דיכול לחזור בו ויש לומר דפועל דוקא דכתיב ביה עבדי הם ולא עבדים לעבדים יכול לחזור בו ולא קבלן:",
+            "english": "",
+            "takeaway": "תוספות cites ר"
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:11:1",
+            "hebrew": "והא בעי לממשך תספורת - מכאן אומר ר\"ת דהסופר שהשכיר עצמו אם משכו ממנו קולמוס או תער שלו אין יכולין שוב לחזור בהם ואם תאמר מ\"ש מפועל דיכול לחזור בו ויש לומר דפועל דוקא דכתיב ביה עבדי הם ולא עבדים לעבדים יכול לחזור בו ולא קבלן:",
+            "english": "",
+            "takeaway": "תוספות cites ר"
+          }
+        ],
+        "acharonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:11:1",
+            "hebrew": "והא בעי לממשך תספורת - מכאן אומר ר\"ת דהסופר שהשכיר עצמו אם משכו ממנו קולמוס או תער שלו אין יכולין שוב לחזור בהם ואם תאמר מ\"ש מפועל דיכול לחזור בו ויש לומר דפועל דוקא דכתיב ביה עבדי הם ולא עבדים לעבדים יכול לחזור בו ולא קבלן:",
+            "english": "",
+            "takeaway": "תוספות cites ר"
+          }
+        ]
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Another conflicting ברייתא",
+      "stepSummary": "The Gemara raises a new difficulty from a baraita that states liability for misuse of consecrated property only occurs after meshikah.",
+      "whatsHappening": "The גמרא cites another ברייתא that contradicts the previous resolution. It states liability for a barber, sailor, or craftsman occurs only after מְשִׁיכָה.",
+      "deeperAnalysis": "This directly opposes the idea that the previous case referred to a gentile barber. The two ברייתות are difficult to reconcile.",
+      "keyTerms": [
+        {
+          "term": "נְתָנָהּ לְסַפָּר אוֹ לְסַפָּן אוֹ לְכָל בַּעֲלֵי מְלָאכוֹת",
+          "meaning": "gave it to a barber, sailor, or any craftsman"
+        },
+        {
+          "term": "לֹא מָעַל עַד דְּמָשַׁךְ",
+          "meaning": "is not liable until he pulls"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא נָמֵי הָכִי:",
+          "english": "It is also taught thus:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נְתָנָהּ לְסַפָּר אוֹ לְסַפָּן אוֹ לְכׇל",
+          "english": "He gave it to a barber or to a sailor or to any"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בַּעֲלֵי אוּמָּנוּת –",
+          "english": "craftsmen –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֹא מָעַל עַד דְּמָשֵׁךְ.",
+          "english": "he did not misuse until he pulls."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קַשְׁיָין אַהֲדָדֵי. אֶלָּא לָאו,",
+          "english": "They are difficult against each other. Rather, must one not"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁמַע מִינַּהּ: כָּאן בְּסַפָּר גּוֹי,",
+          "english": "learn from it: here with a gentile barber,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כָּאן בְּסַפָּר יִשְׂרָאֵל. שְׁמַע מִינַּהּ.",
+          "english": "there with a Jewish barber. Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא נָמֵי הָכִי: נְתָנָהּ לְסַפָּר אוֹ לְסַפָּן אוֹ לְכָל בַּעֲלֵי מְלָאכוֹת – לֹא מָעַל עַד דְּמָשַׁךְ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:12:1",
+            "hebrew": "קשיין אהדדי - ספר אספר:",
+            "english": "",
+            "takeaway": "רש״י explains that the two baraitot are in direct conflict because one discusses a gentile barber while the other discusses an Israelite barber."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "רַב נַחְמָן: מָעוֹת קוֹנוֹת דְּבַר תּוֹרָה",
+      "stepSummary": "רַב נַחְמָן states that by Torah law, money effects acquisition, supported by a ברייתא found by לוי.",
+      "whatsHappening": "The sugya opens with a declarative ruling from רַב נַחְמָן. He asserts that מָעוֹת קוֹנוֹת דְּבַר תּוֹרָה.",
+      "deeperAnalysis": "לוי found a ברייתא about giving a מָעָה to a סוֹטוֹן where the buyer is liable for מַעֵל. This liability implies acquisition occurred via money alone, without חֲזָרָה.",
+      "keyTerms": [
+        {
+          "term": "מָעוֹת קוֹנוֹת",
+          "meaning": "money effects acquisition"
+        },
+        {
+          "term": "דְּבַר תּוֹרָה",
+          "meaning": "by Torah law"
+        },
+        {
+          "term": "מַעֵל",
+          "meaning": "liable for misuse of consecrated property"
+        },
+        {
+          "term": "סוֹטוֹן",
+          "meaning": "wholesaler"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכֵן אָמַר רַב נַחְמָן, דְּבַר תּוֹרָה מָעוֹת קוֹנוֹת.",
+          "english": "And so said Rav Naḥman, by Torah law money acquires."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּבַדְקַהּ לֵוִי בְּמַתְנִיתֵיהּ וְאַשְׁכַּח: נְתָנָהּ לְסִיטוֹן – מָעַל!",
+          "english": "And Levi checked in his Mishnah and found: He gave it to a wholesaler – he misused!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכֵן אָמַר רַב נַחְמָן, דְּבַר תּוֹרָה מָעוֹת קוֹנוֹת. וּבַדְקַהּ לֵוִי בְּמַתְנִיתֵיהּ וְאַשְׁכַּח: נְתָנָהּ לְסִיטוֹן – מָעַל!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:13:1",
+            "hebrew": "וכן אמר רב נחמן - כר' יוחנן:",
+            "english": "",
+            "takeaway": "רש״י explains that רַב נַחְמָן's ruling aligns with the position of רַבִּי יוֹחָנָן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:13:2",
+            "hebrew": "ובדקה לוי במתניתיה - הגיהה והוסיפה בתוספתא שסידר ושנה בה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that לוי checked his compendium, which he had edited and expanded with material from the תוספתא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:13:3",
+            "hebrew": "נתנה לסיטון מעל - סיטון חנוני גדול ומוכר פירות הרבה לחנונים עניים ונותנין לו המעות על יד על יד כשהם מוכרים ובתחלת הקנייה נותנין לו ערבון דמים מועטין על הכל:",
+            "english": "",
+            "takeaway": "רש״י defines a סוֹטוֹן as a large-scale merchant who sells produce to smaller shopkeepers, who pay him an initial deposit (ערבון) at the start of the transaction."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48a:13:4",
+            "hebrew": "מעל - אע\"ג דלא משך כל הפירות שהרי הרבה פוסק עמו בבת אחת:",
+            "english": "",
+            "takeaway": "רש״י explains that the buyer is liable for מַעֵל even though he has not yet performed משיכה on all the produce, because the money alone effected acquisition."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48a:13:1",
+            "hebrew": "נתנה לסיטון מעל - ואם תאמר ולוקמה בסיטון נכרי ויש לומר דסיטון הוא מוכר דבר לח דהיינו יין ושמן כדתנן בפרק הספינה (ב\"ב דף פח.) הסיטון מקנח מדותיו ויין ושמן של נכרים אסור דהא ברייתא מתניא קודם שהתיר ר\"י נשיאה השמן ור\"ת פוסק הלכה כר' יוחנן אע\"ג דרבא קאמר קרא ומתניתא מסייע ליה לר\"ל היינו לכאורה אבל אפשר לשנויי כר' יוחנן ומתני' נמי מוקים לה בבלן נכרי כדפרי' ואין ראיה מדלא חשיב לה רבא בפ' החולץ (יבמות דף לו. ושם) בהדי ג' מילי דהלכה כריש לקיש משום דר\"ל לאו משמיה דנפשיה אמרה דבפ\"ב דבכורות (דף יג.) משמיה דר' אושעיא קאמר דמשיכה קונה ולא מעות ולא חשיב אלא הנהו דאמר משמיה דנפשיה דלא חשיב נמי הא דאמר ריש לקיש משמיה דלוי סבא אינה לשחיטה אלא לבסוף אע\"ג דרבא גופי' ס\"ל הכי בתמיד נשחט (פסחים דף סג.) ובפרק ב' דזבחים (דף ל. ושם) אבל יש לדקדק דהלכה כר\"י דרב נחמן דהלכתא כוותיה בדיני ס\"ל כוותיה וכן רב הונא ס\"ל כר' יוחנן דאמר דמכור לי באלו קנה ואמרינן לעיל (בבא מציעא דף מז.) דסבר מעות קונות כר' יוחנן וכן רב חסדא דאמר לעיל (שם:) כדרך שתקנו משיכה במוכרין כך תקנו בלקוחות א\"כ סבר מעות קונות כר' יוחנן דלריש לקיש דאורייתא היא ולא תקנה והדאמר פרק קמא דקדושין (דף יד: ושם ד\"ה הואיל) אשכחן נכרי דכל קניינו של נכרי בכסף משמע דהוי כריש לקיש דאית ליה פרק שני דבכורות (דף יג: ושם) לעמיתך במשיכה ולנכרי בכסף דלר' יוחנן כל קניינו של נכרי במשיכה מפרש ר\"ת דהכי פירושו אשכחן נכרי הואיל וכל קניינו של נכרי בעבד עברי בכסף ולא בשטר דשטר ילפינן בעבד עברי מאמה העבריה והא לא שייך בנכרי ואע\"ג דבפ' השולח (גיטין ד' לח. ושם) אמרי' דנכרי קונה ישראל בחזקה היינו דוקא בחזקה של כיבוש במלחמה דאפיק ליה מוישב ממנו שבי והא דאמר בפרק בתרא דע\"ז (דף סג. ושם ד\"ה בזונה) בזונה כותית עסקינן דלא מחסרא משיכה היינו כריש לקיש דלר' יוחנן מתרץ תירוצים אחרים דמשני התם ואיבעית אימא כגון דקאי בחצירה אבל קשה דהתם (ד' עא) אמר מרימר משיכה בנכרי קונה ורב אשי אמר משיכה בנכרי אינה קונה אלמא רב אשי דגדול בחכמה ובמנין והוא בתרא סבר כריש לקיש וכן סבר רב אשי פרק שני דבכורות (דף יג: ושם) וה\"ר חיים מפרש דלא קשה לא מקדושין (דף יד:) ולא מע\"ז (דף עא.) דאפשר דלרבי יוחנן מעות קונות בנכרי כמו בישראל וכן יסבור רב אשי ולא ידרשו כמאן דדריש בבכורות בפרק שני לעמיתך בכסף ולנכרי במשיכה אלא ידרשו לעמיתך אתה מחזיר אונאה ואי אתה מחזיר אונאה לכנעני דאיכא נמי מאן דדריש התם הכי ויסבור דגזל הכנעני אסור דפלוגתא דתנאי איכא בפרק המקבל (לקמן בבא מציעא דף קיא:) ובהגוזל (קמא) (ב\"ק דף קיג:) איתא נמי דסבר דגזל הכנעני אסור דאי סבר דגזל כנעני מותר לא הוה צריך קרא למישרי אונאתו ולפי זה אתי נמי שפיר דלא תקשה דרב חסדא אדרב חסדא דאית ליה הכא כר' יוחנן ובפרק בתרא דע\"ז (דף סג.) משני אמר רב נחמן בר רב חסדא אמר רב חסדא בזונה כותית דלא מחסרא משיכה והיינו כריש לקיש ולפי מה שפירש' אתי שפיר כר' יוחנן אך קשה דאם כן תקשה להו מתני' דנתנה לבלן דליכא לאוקמה בבלן נכרי ולא בבלן ישראל דמשמע דוקא בלן אבל ספר עד שימשוך. ולפיכך משיכה אינה קונה לא בנכרי ולא בישראל ועוד דבהגוזל בתרא (ב\"ק דף קיג:) משמע קצת דרב אשי סבר דגזל כנעני מותר דקאמר רב אשי הוה קאזיל בארבא חזי שבשא דגופנא תליא לבר ותלו ביה קטופי א\"ל לשמעיה זיל חזי אי דכנעני נינהו זיל אייתי לי שמע ההוא כנעני א\"ל דכנעני מי שרי א\"ל כנעני שקיל דמי ישראל לא שקיל דמי משמע דסבר גזל כנעני מותר ובשביל ששמע הכנעני הוה מתרץ דבריו וי\"ל דרב אשי הדר ביה כדהוכיח לו רבינא כדבעי מינה דמשיכה בנכרי קונה כדמסיק ש\"מ משיכה בנכרי קונה ש\"מ ואע\"ג דממילתיה דר' יוחנן גופיה מוכח לה מ\"מ אי לאו דשמיעא ליה לרבינא דרב אשי סבר להך דר' יוחנן לא הוה מייתי ליה מיניה ומסתמא מההיא דפרק שני דבכורות נמי הדר ביה ובפרק בתרא דע\"ז (דף סג.) ל\"ג רב חסדא בשנויא דזונה כותית ואית ספרים דלא גרסי ליה:",
+            "english": "",
+            "takeaway": "תוספות argues that the ברייתא must refer to a Jewish סוֹטוֹן selling permitted items like wine and oil, because the ruling predates רַבִּי יוֹחָנָן's permission to carry non-Jewish oil, and תוספות concludes that the הלכה follows רַבִּי יוֹחָנָן that מָעוֹת קוֹנוֹת דְּבַר תּוֹרָה, based on the rulings of רַב נַחְמָן, רַב הוּנָא, and רַב חַסְדָּא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T02:59:23.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.84413090004819,
+      "structure": 2191.5508721000515,
+      "validate": 340.1751865003025,
+      "translate": 493.0403166002361,
+      "meforshim": 1169.7779034001287,
+      "teaching": 1159.4766949000768
+    }
+  }
+}

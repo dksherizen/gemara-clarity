@@ -1,0 +1,310 @@
+{
+  "ref": "Bava Metzia 36b",
+  "masechet": "Bava_Metzia",
+  "daf": 36,
+  "amud": "b",
+  "mainTopic": "(continues) שומר שמסר לשומר · הלכה כרבי יוסי",
+  "overview": "(1) A debate between Rav and Rabbi Yochanan regarding the liability of a bailee who transfers custody to another, with Rav Hisda and Rav Giddel providing clarifications and Rava establishing the final halakha. (2) Rav Yehuda cites Shmuel that the halakha follows Rabbi Yose regarding a renter who lends the animal to another.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) שומר שמסר לשומר",
+      "gist": "A debate between Rav and Rabbi Yochanan regarding the liability of a bailee who transfers custody to another, with Rav Hisda and Rav Giddel providing clarifications and Rava establishing the final halakha.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 13,
+      "endLine": 13,
+      "topic": "הלכה כרבי יוסי",
+      "gist": "Rav Yehuda cites Shmuel that the halakha follows Rabbi Yose regarding a renter who lends the animal to another.",
+      "openingFormula": "אמר רבי יוסי",
+      "firstStepNumber": 3,
+      "lastStepNumber": 3
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the Mishnah's wording",
+      "stepSummary": "The Nehardeans provide a proof from the Mishnah's specific wording that the exemption for adults applies only to the bailee's children, not to others.",
+      "whatsHappening": "The Nehardeans offer a proof from the Mishnah's specific wording to support רַבָּא's resolution.",
+      "deeperAnalysis": "The Mishnah specifies 'his minor son or daughter'. If the exemption for adults applied to anyone, the Mishnah wouldn't need to specify 'his'. This implies that for others, even adults, the bailee is liable.",
+      "keyTerms": [
+        {
+          "term": "דַּיְקָא",
+          "meaning": "precise / exact"
+        },
+        {
+          "term": "מִכְלָל",
+          "meaning": "implied / inferred"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרִי נְהַרְדָּעֵי, דַּיְקָא נָמֵי דְּקָתָנֵי:",
+          "english": "Said the Nehardeans, precisely also it is precise:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אוֹ שֶׁמְּסָרָן לִבְנוֹ וּבִתּוֹ הַקְּטַנִּים – חַיָּיב.",
+          "english": "Or he entrusted them to his minor son and daughter – liable."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא לִבְנוֹ וּלְבִתּוֹ הַגְּדוֹלִים – פָּטוּר. מִכְלָל דְּלַאֲחֵרִים,",
+          "english": "Behold to his adult son and daughter – exempt. From the implication that to others,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא שְׁנָא גְּדוֹלִים וְלָא שְׁנָא קְטַנִּים –",
+          "english": "Not different adults and not different minors –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חַיָּיב, דְּאִם כֵּן,",
+          "english": "Liable, for if so,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לִיתְנֵי קְטַנִּים סְתָמָא. שְׁמַע מִינַּהּ.",
+          "english": "Let it teach minors without differentiation. We learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרִי נְהַרְדָּעֵי, דַּיְקָא נָמֵי דְּקָתָנֵי: אוֹ שֶׁמְּסָרָן לִבְנוֹ וּלְבִתּוֹ הַקְּטַנִּים...",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36b:2:1",
+            "hebrew": "דיקא נמי - דהאי דגדולים פטורין דוקא בניו נקט ולא אחרים:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah's specification of 'his' minor children implies that the exemption for adults applies only to the bailee's own children, not to others."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36b:2:2",
+            "hebrew": "דא\"כ - דלאחרים נמי גדולים פטור ליתני או שמסרן לקטנים סתמא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the exemption for adults applied to others as well, the Mishnah would have simply stated 'to minors' without specifying 'his'."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 36b:2:1",
+            "hebrew": "דאם כן ליתני קטנים סתמא - וא\"ת תקשה לרב וי\"ל דבניו נקט לרבותא דסד\"א דעל דעת בניו הקטנים נמי מפקיד דרגילות הוא שלפעמים מוסר חפציו לבניו קטנים קמ\"ל אי נמי לכך נקט בניו ולא נקט קטנים סתמא משום דבעי למידק הא גדולים הוי כדרך השומרים ומותר משום דעל דעת בניו הגדולים מפקיד אבל גדולים דעלמא אסור למסור אע\"פ שאינו מתחייב בכך:",
+            "english": "",
+            "takeaway": "תוספות addresses a potential difficulty for רב, explaining that the Mishnah specifies 'his children' to teach that even minor children are generally not entrusted with items, or to distinguish that while entrusting to one's own adult children is permitted, entrusting to others' adult children is forbidden even if not liable."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מסקנא",
+      "title": "רַבָּא's final halakhic ruling",
+      "stepSummary": "Rava rules that the law follows Rabbi Yochanan: a bailee who transfers custody to another is liable, even if the second bailee is more reliable, because the owner trusts the first bailee with an oath but not the second.",
+      "whatsHappening": "רַבָּא establishes the final halakha following רַבִּי יוֹחָנָן.",
+      "deeperAnalysis": "The owner trusts the first bailee to swear if necessary, but does not trust the second bailee in the same way. Therefore, transferring custody is not permitted without explicit permission.",
+      "keyTerms": [
+        {
+          "term": "הִלְכָּתָא",
+          "meaning": "the halakha / the law"
+        },
+        {
+          "term": "מְהֵימְנָתְ לִי בִּשְׁבוּעָה",
+          "meaning": "I trust you with an oath"
+        }
+      ],
+      "whatToRemember": "The halakha follows רַבִּי יוֹחָנָן: שומר שמסר לשומר חייב.",
+      "whyThisMatters": "This is the final halakhic conclusion of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא, הִלְכְתָא:",
+          "english": "Said Rava, the law:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר – חַיָּיב,",
+          "english": "A guardian who handed over to a guardian – liable,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא מִבַּעְיָא שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר",
+          "english": "Not necessary [to ask] a paid guardian who handed over to a guardian"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חִנָּם דְּגָרוֹעֵי גָּרְעַהּ לִשְׁמִירָתוֹ,",
+          "english": "Free [guardian], he degraded its guarding,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא אֲפִילּוּ שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר –",
+          "english": "But even an unpaid guardian who handed over to a paid guardian –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חַיָּיב, מַאי טַעְמָא? דַּאֲמַר לֵיהּ:",
+          "english": "Liable, what is the reason? That he says to him:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַתְּ מְהֵימְנַתְּ לִי בִּשְׁבוּעָה,",
+          "english": "You are trustworthy to me with an oath,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הַאיְךְ לָא מְהֵימַן לִי בִּשְׁבוּעָה.",
+          "english": "How [can] you not be trustworthy to me with an oath."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא, הִלְכָּתָא: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר – חַיָּב...",
+      "macroPhase": "conclusion",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "concludes",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36b:3:1",
+            "hebrew": "בשבועה - שלא פשע בה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'את מהימנת לי בשבועה' means the owner trusts the first bailee to swear that he did not neglect the item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36b:3:2",
+            "hebrew": "האיך לא מהימן לי - ואני אומר שישנה בידו או אכלה או פשע בה:",
+            "english": "",
+            "takeaway": "רש״י explains that 'האיך לא מהימן לי' means the owner does not trust the second bailee to swear that the item was not lost, eaten, or neglected."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 36b:3:1",
+            "hebrew": "את מהימנת לי בשבועה - ולכך היכא שהשומר הראשון יכול לישבע על האונס או שהיו עדים בדבר פטור ואפי' מסר לחש\"ו ומתה ברשותם כיון דאף בבית שומר הראשון היתה מתה דמלאך המות מה לי הכא מ\"ל התם כו' וסובר רבא שזהו טעמו של רבי יוחנן ולא כאביי דאמר משום דאין רצוני כו' וכן הלכה כרבא ולא כר\"ח דפסיק כאביי:",
+            "english": "",
+            "takeaway": "תוספות explains that רבא's reasoning follows רבי יוחנן's view that the owner's trust is limited to the first bailee's ability to swear, and thus the first bailee is liable even if he transfers to a שומר שכר, rejecting אביי's view and the ruling of ר"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רַב יְהוּדָה's ruling on רַבִּי יוֹסֵי",
+      "stepSummary": "רַב יְהוּדָה cites שְׁמוּאֵל that the הלכה follows רַבִּי יוֹסֵי regarding a renter who lends the animal to another.",
+      "whatsHappening": "The sugya opens with a halakhic ruling attributed to שְׁמוּאֵל via רַב יְהוּדָה.",
+      "deeperAnalysis": "The Mishnaic text introduces רַבִּי יוֹסֵי's view on a renter who lends the rented animal to a third party. רַב יְהוּדָה immediately follows this with a ruling that the הלכה follows רַבִּי יוֹסֵי, establishing the baseline halakhic position for the sugya.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹסֵי",
+          "meaning": "the Tanna whose view is being adopted"
+        },
+        {
+          "term": "הֲלָכָה",
+          "meaning": "the binding halakhic ruling"
+        },
+        {
+          "term": "רַב יְהוּדָה",
+          "meaning": "the Amora transmitting the ruling"
+        },
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "the Amora whose authority is cited"
+        }
+      ],
+      "confusionAlert": "The Mishnaic text is quoted as context, but the actual step is the ruling of רַב יְהוּדָה.",
+      "whyThisMatters": "This establishes the baseline halakhic position for the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי יוֹסֵי:",
+          "english": "Said Rabbi Yose:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיצַד הַלָּה עוֹשֶׂה סְחוֹרָה בְּפָרָתוֹ כּוּ׳.",
+          "english": "How does one do business with his cow, etc."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי יוֹסֵי.",
+          "english": "Said Rav Yehuda, said Shmuel: The law is like Rabbi Yose."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ רַב שְׁמוּאֵל בַּר יְהוּדָה לְרַב יְהוּדָה:",
+          "english": "Said to him Rav Shmuel bar Yehuda to Rav Yehuda:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַרְתְּ לַן מִשְּׁמֵיהּ דִּשְׁמוּאֵל:",
+          "english": "You told us in the name of Shmuel:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חָלוּק הָיָה רַבִּי יוֹסֵי",
+          "english": "Rabbi Yose was in disagreement"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבִּי יוֹסֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T19:36:43.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 80.02530660002958,
+      "structure": 860.4683259999729,
+      "validate": 111.11377679998986,
+      "translate": 137.1125211000326,
+      "meforshim": 284.6877119001001,
+      "teaching": 324.43104979995405
+    }
+  }
+}

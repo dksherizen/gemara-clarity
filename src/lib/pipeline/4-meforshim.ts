@@ -97,17 +97,20 @@ const ResponseSchema = z.object({
   interplaySummary: z.string().optional(),
 });
 
-const SYSTEM = `You are an expert in רש״י's commentary on the Talmud. Below you will receive:
+const SYSTEM = `You are an expert in classical commentaries (רש״י and תוספות) on the Talmud. Below you will receive:
 1. A single Gemara step (with English explanation and Hebrew/Aramaic text).
-2. The VERBATIM TEXTS of רש״י's comments that Sefaria has linked to that step's Gemara lines.
+2. The VERBATIM TEXTS of the linked commentaries Sefaria provides for that step's Gemara lines.
 
 Your job is to:
-- For each רש״י comment that is materially relevant to this Gemara step, write a one-sentence English takeaway that captures what רש״י is actually saying. Use HEBREW SCRIPT inline for technical Hebrew/Aramaic concept names (e.g. עדים זוממין, חזקה).
+- For each commentary entry that is materially relevant to this Gemara step, write a one-sentence English takeaway that captures what the meforesh is actually saying. Use HEBREW SCRIPT inline for technical Hebrew/Aramaic concept names (e.g. עדים זוממין, חזקה).
+- INCLUDE EVERY relevant רש״י comment in the "rashi" array.
+- INCLUDE EVERY relevant תוספות comment in the "tosafot" array.
 - DO NOT invent or paraphrase content that isn't grounded in the verbatim Hebrew you were given.
-- DO NOT include comments that are empty, irrelevant to this step, or just glossing a single word with no analytical content.
-- If multiple רש״י entries on the same step say substantively the same thing, consolidate.
+- DO NOT include comments that are empty, irrelevant, or just glossing a single word with no analytical content.
+- If multiple entries on the same step say substantively the same thing, consolidate.
+- Write an "interplaySummary" (1-2 sentences) ONLY when there's a meaningful disagreement or sequence between רש״י and תוספות on this step (e.g. "תוספות challenges רש״י's reading and proposes Y"). If they all say substantially the same thing, omit interplaySummary.
 
-Return strict JSON: { rashi: [{sourceRef, takeaway}], tosafot: [], rishonim: [], acharonim: [] }`;
+Return strict JSON: { rashi: [{sourceRef, takeaway}], tosafot: [{sourceRef, takeaway}], rishonim: [], acharonim: [], interplaySummary? }`;
 
 function buildUserPrompt(
   step: Step,

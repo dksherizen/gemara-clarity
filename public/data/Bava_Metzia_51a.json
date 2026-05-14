@@ -1,0 +1,1600 @@
+{
+  "ref": "Bava Metzia 51a",
+  "masechet": "Bava_Metzia",
+  "daf": 51,
+  "amud": "a",
+  "mainTopic": "(continues) הבדל בין לוקח למוכר · אונאה בבעל הבית · אונאה לתגר והדרתן",
+  "overview": "(1) Rav Nachman rules that a seller may return a sale indefinitely, unlike a buyer, based on the logic that the seller does not know the true value until he attempts to resell. (2) Cases are brought where Rav Chisda rules that there is no Ona'ah when buying from a Baal HaBayit, distinguishing between a merchant and a layman. (3) The Mishnah states there is Ona'ah for both buyer and seller and for merchants; the Gemara derives this from the Torah and discusses the opinions of R' Yehuda and R' Nathan regarding the right of return. (4) A dispute between Rav and Shmuel regarding the validity of a stipulation waiving Ona'ah, analyzed through the lens of R' Meir and R' Yehuda's views on conditions in monetary matters. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 5,
+      "topic": "(continues) הבדל בין לוקח למוכר",
+      "gist": "Rav Nachman rules that a seller may return a sale indefinitely, unlike a buyer, based on the logic that the seller does not know the true value until he attempts to resell.",
+      "openingFormula": "עד מתי מותר להחזיר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 6,
+      "endLine": 8,
+      "topic": "אונאה בבעל הבית",
+      "gist": "Cases are brought where Rav Chisda rules that there is no Ona'ah when buying from a Baal HaBayit, distinguishing between a merchant and a layman.",
+      "openingFormula": "ההוא גברא",
+      "firstStepNumber": 4,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 9,
+      "endLine": 19,
+      "topic": "אונאה לתגר והדרתן",
+      "gist": "The Mishnah states there is Ona'ah for both buyer and seller and for merchants; the Gemara derives this from the Torah and discusses the opinions of R' Yehuda and R' Nathan regarding the right of return.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 7,
+      "lastStepNumber": 16
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 20,
+      "endLine": 22,
+      "topic": "תנאי בטול אונאה",
+      "gist": "A dispute between Rav and Shmuel regarding the validity of a stipulation waiving Ona'ah, analyzed through the lens of R' Meir and R' Yehuda's views on conditions in monetary matters. — discussion continues into next amud.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 17,
+      "lastStepNumber": 19
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "תַּגָּרֵי לוֹד לָא שְׁכִיחַ דְּטָעוּ",
+      "stepSummary": "The Gemara resolves the difficulty by stating that the merchants of Lod rarely make price errors, so they preferred the Rabbis' view to limit the buyer's time, even if it limited their own.",
+      "whatsHappening": "The Gemara provides a resolution to the difficulty raised in the previous step. This is a setup line introducing the explanation.",
+      "deeperAnalysis": "The Gemara explains that the merchants of Lod rarely err in pricing. Therefore, they did not need the indefinite right to retract. They preferred the Rabbis' view because it limited the buyer's time to retract, which was a greater concern for them than their own rare need to retract.",
+      "keyTerms": [
+        {
+          "term": "תַּגָּרֵי לוֹד",
+          "meaning": "merchants of Lod"
+        },
+        {
+          "term": "לָא שְׁכִיחַ דְּטָעוּ",
+          "meaning": "it is not found that they err"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּגָּרֵי לוֹד לָא שְׁכִיחַ דְּטָעוּ.",
+          "english": "The merchants of Lod are not found to err."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּגָּרֵי לוֹד לָא שְׁכִיחַ דְּטָעוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya"
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "The landlord of רָמֵי בַּר חָמָא sold a donkey and erred",
+      "stepSummary": "The Gemara relates a story about the landlord of רָמֵי בַּר חָמָא who sold a donkey and erred in the price, and sought a ruling from רַב נַחְמָן.",
+      "whatsHappening": "The Gemara presents a practical case to illustrate רַב נַחְמָן's ruling. This is a setup line introducing a narrative example.",
+      "deeperAnalysis": "The landlord of רָמֵי בַּר חָמָא sold a donkey and realized he had erred in the price. He was sad because he had waited longer than the time allowed for a buyer to retract. רָמֵי בַּר חָמָא sent him to רַב נַחְמָן, who ruled that a seller may always retract, allowing the landlord to return the sale.",
+      "keyTerms": [
+        {
+          "term": "אוּשְׁפִּיזְכָנֵיהּ",
+          "meaning": "his landlord"
+        },
+        {
+          "term": "זַבֵּן חֲמָרָא וּטְעָה",
+          "meaning": "sold a donkey and erred"
+        },
+        {
+          "term": "שַׁדְרֵיהּ לְקַמֵּיהּ דְּרַב נַחְמָן",
+          "meaning": "he sent him before רַב נַחְמָן"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אוּשְׁפִּיזְכָנֵיהּ דְּרָמֵי בַּר חָמָא זַבֵּין חֲמָרָא וּטְעָה.",
+          "english": "The landlord of Rami bar Ḥama sold a donkey and erred."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַשְׁכְּחֵיהּ דַּהֲוָה עֲצִיב, אֲמַר לֵיהּ: אַמַּאי עֲצִיבַתְּ?",
+          "english": "He found him that he was sad, he said to him: Why are you sad?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: זַבֵּינִי חֲמָרָא וּטְעַאי.",
+          "english": "He said to him: I sold a donkey and I erred."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: זִיל הֲדַר בָּךְ. אָמַר לֵיהּ:",
+          "english": "He said to him: Go and renege on it. He said to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָא שְׁהַאי לִי יוֹתֵר מִכְּדֵי שֶׁאַרְאֶה",
+          "english": "This has waited for me more than the time of showing"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לַתַּגָּר אוֹ לִקְרוֹבִי!",
+          "english": "to a merchant or to my relative!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שַׁדְּרֵיהּ לְקַמֵּיהּ דְּרַב נַחְמָן,",
+          "english": "He sent him before Rav Naḥman,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲמַר לֵיהּ לֹא שָׁנוּ אֶלָּא לוֹקֵחַ,",
+          "english": "He said to him: They did not teach only for a buyer,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר.",
+          "english": "but a seller – forever returns."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אוּשְׁפִּיזְכָנֵיהּ דְּרָמֵי בַּר חָמָא זַבֵּן חֲמָרָא וּטְעָה. אַשְׁכְּחֵיהּ דַּהֲוָה עֲצִיב, אֲמַר לֵיהּ: אַמַּי עֲצִיבַתְּ? אֲמַר לֵיהּ: זַבֵּינִי חֲמָרָא וּטְעַאי. אֲמַר לֵיהּ: זִיל הָדַר בָּךְ. אָמַר לֵיהּ: הָא שְׁהֵי לִי יוֹתֵר מִכְּדֵי שֶׁאֶרְאֶה לַתַּגָּר אוֹ לִקְרוֹבִי! שַׁדְרֵיהּ לְקַמֵּיהּ דְּרַב נַחְמָן, אֲמַר לֵיהּ לֹא שָׁנוּ אֶלָּא לוֹקֵחַ, אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "שאלה",
+      "title": "What is the reason for this ruling?",
+      "stepSummary": "The Gemara asks for the underlying reason why a seller may retract indefinitely while a buyer may not.",
+      "whatsHappening": "The Gemara asks for the rationale behind רַב נַחְמָן's ruling. This is a setup line introducing the logical inquiry.",
+      "deeperAnalysis": "The Gemara seeks to understand the logic that distinguishes between the buyer and the seller. This question sets up the explanation that follows.",
+      "keyTerms": [
+        {
+          "term": "מַאי טַעְמָא",
+          "meaning": "what is the reason"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי טַעְמָא? לוֹקֵחַ מִקָּחוֹ בְּיָדוֹ,",
+          "english": "What is the reason? A buyer has his purchase in his hand,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֹּל הֵיכָא דְּאָזֵיל מַחְוִי לֵיהּ וְאָמְרִי",
+          "english": "Wherever he goes, he shows it to them and they say"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֵיהּ אִי טְעָה,",
+          "english": "to him if he erred,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי לָא טְעָה.",
+          "english": "if he did not err."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מוֹכֵר דְּלָא נָקֵט מִקָּחֵיהּ בִּידֵיהּ עַד",
+          "english": "A seller who did not take his purchase in his hand until"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּמִיתְרְמֵי לֵיהּ זְבִינְתָּא כִּזְבִינְתֵּיהּ,",
+          "english": "that merchandise like his merchandise comes before him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְיָדַע אִי טְעָה וְאִי לָא טְעָה.",
+          "english": "and he knows if he erred and if he did not err."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי טַעְמָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The case of the silk strips and רַבָּא's ruling",
+      "stepSummary": "A case is presented where a buyer tries to exploit the rules of אונאה by overpaying a non-merchant seller, and רַבָּא rules that אונאה does not apply to a homeowner.",
+      "whatsHappening": "The sugya opens with a narrative case involving silk strips, setting up a legal question about אונאה. This is a setup line introducing a new scenario.",
+      "deeperAnalysis": "A seller announces a price of six for an item worth five, but would accept five and a half. A buyer deliberately pays six to avoid the appearance of a waiver and instead claims אונאה in court. רַבָּא rules that the laws of אונאה only apply when buying from a merchant, not from a homeowner. This establishes the baseline ruling that the rest of the sugya will explore.",
+      "keyTerms": [
+        {
+          "term": "וַרְשְׁכֵי",
+          "meaning": "silk strips"
+        },
+        {
+          "term": "הַחְלָצָה",
+          "meaning": "waiver / extraction of the right to claim"
+        },
+        {
+          "term": "תַּגָּר",
+          "meaning": "merchant"
+        },
+        {
+          "term": "בַּעַל הַבַּיִת",
+          "meaning": "homeowner / private seller"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דַּהֲוָה נָקֵט וַרְשְׁכֵי לְזַבּוֹנֵי,",
+          "english": "That man who was holding silk strips to sell,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָרֵי שִׁיתָּא וְשָׁוְיָא חַמְשָׁא,",
+          "english": "called out six and valued five,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאִי הֲווֹ יָהֲבִי לֵיהּ חַמְשָׁא וּפַלְגָא הֲוָה שָׁקֵיל.",
+          "english": "and if they gave him five and a half he would take."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲתָא הָהוּא גַּבְרָא וְאָמַר:",
+          "english": "That man came and said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי יָהֵיבְנָא לֵיהּ חַמְשָׁא וּפַלְגָא הָוְיָא מְחִילָה.",
+          "english": "If I give him five and a half I would waive."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶתֵּן לֵיהּ שִׁיתָּא וְאֶתְבְּעֵיהּ לְדִינָא.",
+          "english": "I will give him six and sue him in court."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרָבָא, אֲמַר לֵיהּ:",
+          "english": "He came before Rava, he said to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא בְּלוֹקֵחַ מִן הַתַּגָּר,",
+          "english": "They only taught regarding a buyer from a merchant,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲבָל בְּלוֹקֵחַ מִבַּעַל הַבַּיִת –",
+          "english": "but regarding a buyer from a homeowner –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "he has no exploitation against him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גַּבְרָא דַּהֲוָה נָקֵיט וַרְשְׁכֵי לְזַבּוֹנֵי...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:6:3",
+            "hebrew": "מבעל הבית - תכשיטין וכלי תשמיש שלו חביבין עליו ואינו מוכרן אלא ביוקר והוה ליה כמפרש יודע אני שיש בו אונאה דאמרינן לקמן אין לו עליו אונאה כך מצאתי בשאילתות דרב אחאי (פ' בהר סי' קיג):",
+            "english": "",
+            "takeaway": "רש״י explains that אונאה does not apply when buying from a בעל הבית because his items are precious to him and he only sells them at a high price, which is treated as if he explicitly stated he knows there is אונאה, citing שאלתות דרב אחאי."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "The parallel case of jewelry and רַב חִסְדָּא's ruling",
+      "stepSummary": "A parallel case involving jewelry is presented, where רַב חִסְדָּא gives the identical ruling that אונאה does not apply to a homeowner.",
+      "whatsHappening": "The Gemara presents a second, nearly identical case to reinforce the ruling. This is a setup line introducing a parallel example.",
+      "deeperAnalysis": "The structure mirrors the first case exactly: a seller announces sixty for an item worth fifty, would accept fifty-five. The buyer pays sixty to claim אונאה. רַב חִסְדָּא rules identically to רַבָּא: אונאה only applies to a merchant, not a homeowner. This repetition establishes that the ruling is not an isolated incident but a consistent legal principle.",
+      "keyTerms": [
+        {
+          "term": "כִּפֵּי",
+          "meaning": "jewelry / vessels"
+        },
+        {
+          "term": "רַב חִסְדָּא",
+          "meaning": "the Amora ruling in the second case"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דַּהֲוָה נָקֵיט כִּיפֵּי לְזַבּוֹנֵי",
+          "english": "That man who was holding jewelry to sell"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָרֵי שִׁתִּין וְשָׁוֵי חַמְשִׁין,",
+          "english": "Announced sixty and worth fifty,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאִי הֲווֹ יָהֲבִי לֵיהּ חַמְשִׁין וְחַמְשָׁא הֲוָה שָׁקֵיל.",
+          "english": "And if they would give him fifty and five he would take."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲתָא הָהוּא גַּבְרָא וְאָמַר:",
+          "english": "Came that man and said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי יָהֵיבְנָא לֵיהּ חַמְשִׁין וְחַמְשָׁא הָוְיָא מְחִילָה,",
+          "english": "If I give him fifty and five I would waive,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶתֵּן לֵיהּ שִׁיתִּין וְאֶתְבְּעֵיהּ לְדִינָא.",
+          "english": "I will give him sixty and I will sue him by law."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב חִסְדָּא. אֲמַר לֵיהּ:",
+          "english": "Came before Rav Ḥisda. He said to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא בְּלוֹקֵחַ מִן הַתַּגָּר,",
+          "english": "They only taught regarding a buyer from a merchant,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲבָל בְּלוֹקֵחַ מִן בַּעַל הַבַּיִת –",
+          "english": "But regarding a buyer from a homeowner –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "He has no exploitation against him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גַּבְרָא דַּהֲוָה נָקֵיט כִּפֵּי לְזַבּוֹנֵי...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "parallel_case",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:7:2",
+            "hebrew": "הוי מחילה - לאלתר דהוה ליה פחות משתות:",
+            "english": "",
+            "takeaway": "רש״י explains that the buyer's statement 'הוי מחילה' means he would immediately forgive the seller because the overcharge is less than a sixth, thus falling below the threshold for אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:7:3",
+            "hebrew": "ואתבעיה בדינא - בכדי שיראה לתגר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'ואתבעיה בדינא' means the buyer would take the seller to court to demonstrate that the transaction was conducted with a תגר, thereby establishing the legal precedent."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Objection from the Mishna: אונאה applies to a layman",
+      "stepSummary": "רַב דִּימִי and רַבִּי אֶלְעָזָר affirm the ruling, but the Gemara objects from a Mishna that states אונאה applies equally to a layman and a merchant.",
+      "whatsHappening": "The Gemara raises a direct contradiction from the Mishna against רַב חִסְדָּא's ruling. It asks who the 'הֶדְיוֹט' in the Mishna is, assuming it means a regular homeowner.",
+      "deeperAnalysis": "רַב דִּימִי and רַבִּי אֶלְעָזָר initially agree with רַב חִסְדָּא. The Gemara challenges this by citing the Mishna: 'כְּשֵׁם שֶׁאוֹנָאָה לְהֶדְיוֹט כָּךְ אוֹנָאָה לַתַּגָּר'. If 'הֶדְיוֹט' means a homeowner, the Mishna explicitly teaches that אונאה applies to him, contradicting רַב חִסְדָּא.",
+      "keyTerms": [
+        {
+          "term": "רַב דִּימִי",
+          "meaning": "the Amora who initially affirms the ruling"
+        },
+        {
+          "term": "רַבִּי אֶלְעָזָר",
+          "meaning": "the Tanna/Amora who also affirms"
+        },
+        {
+          "term": "הֶדְיוֹט",
+          "meaning": "layman / non-merchant"
+        },
+        {
+          "term": "מִשְׁנָה",
+          "meaning": "the Tannaitic source being cited"
+        }
+      ],
+      "whatToRemember": "The Mishna seems to equate layman and merchant regarding אונאה, creating a direct conflict with the Amoraic rulings.",
+      "confusionAlert": "The term 'הֶדְיוֹט' is the pivot point. The Gemara assumes it means a regular homeowner, which creates the contradiction.",
+      "whyThisMatters": "This is the central difficulty of the sugya: reconciling the Amoraic practice with the Tannaitic text.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב דִּימִי: יִשַׁר.",
+          "english": "Rav Dimi said to him: It is correct."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְכֵן אָמַר רַבִּי אֶלְעָזָר: יִשַׁר.",
+          "english": "And likewise Rabbi Elazar said: It is correct."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָא אֲנַן תְּנַן:",
+          "english": "And yet we learned:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כְּשֵׁם שֶׁאוֹנָאָה לְהֶדְיוֹט כָּךְ אוֹנָאָה לַתַּגָּר.",
+          "english": "Just as exploitation applies to a layman, so exploitation applies to a merchant."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאן הֶדְיוֹט, לָאו בַּעַל הַבַּיִת?",
+          "english": "Who is the layman? Is he not the homeowner?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר רַב חִסְדָּא: בְּצַדְרְיָיתָא.",
+          "english": "Rav Ḥisda said: Regarding simple linen garments.",
+          "notes": "Refers to the specific Mishnaic case of a homeowner selling items he made for sale."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲבָל מָאנֵי תַשְׁמִישְׁתֵּיהּ, דְּיַקִּירִי עֲלֵיהּ,",
+          "english": "But regarding vessels and garments of his personal use, which are precious to him,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָא מְזַבֵּין לְהוּ אִי לָאו בִּדְמֵי יַתִּירֵי.",
+          "english": "he does not sell them unless for extra money."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב דִּימִי: יִשַּׁר. וְכֵן אָמַר רַבִּי אֶלְעָזָר: יִשַּׁר. וְהָא אֲנַן תַּנְיָן...",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        39
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:8:1",
+            "hebrew": "בצדרייתא - בגדי קנבוס העומדים לימכר:",
+            "english": "",
+            "takeaway": "רש״י explains that בצדרייתא refers to garments made of קנבוס (hemp) that are ready to be sold, which are less valuable items where the homeowner is not overly concerned about precise pricing."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna: Ona'ah for buyer, seller, and merchants",
+      "stepSummary": "The Mishna establishes that Ona'ah applies to both buyer and seller, and to merchants, though R' Yehuda exempts merchants, and grants the exploited party the choice of annulment or compensation.",
+      "whatsHappening": "The Mishna is quoted, setting up the halachic parameters of Ona'ah. It teaches three points: buyer/seller, layman/merchant, and the exploited party's advantage.",
+      "deeperAnalysis": "The Mishna teaches that Ona'ah applies to both buyer and seller. It applies to merchants (תַּגָּר) as well as laymen, though רַבִּי יְהוּדָה disagrees. The exploited party has the advantage (יָדוֹ עַל הָעֶלְיוֹנָה) and can choose to annul the sale or demand compensation.",
+      "keyTerms": [
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "exploitation / overcharging"
+        },
+        {
+          "term": "תַּגָּר",
+          "meaning": "merchant / trader"
+        },
+        {
+          "term": "יָדוֹ עַל הָעֶלְיוֹנָה",
+          "meaning": "he has the advantage / upper hand"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yehuda"
+        }
+      ],
+      "whatToRemember": "The Mishna's structure: general rule (buyer/seller, layman/merchant), רַבִּי יְהוּדָה's dissent, and the remedy (choice of annulment or compensation).",
+      "confusionAlert": "Note that רַבִּי יְהוּדָה's dissent is about merchants, not about buyer vs seller.",
+      "whyThisMatters": "This Mishna is the foundation for the entire sugya on Ona'ah, particularly the status of merchants and the rights of the exploited party.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אֶחָד הַלּוֹקֵחַ וְאֶחָד הַמּוֹכֵר יֵשׁ לָהֶן אוֹנָאָה.",
+          "english": "MISHNA: Both the buyer and the seller are subject to the halakhot of exploitation."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּשֵׁם שֶׁאוֹנָאָה לַהֶדְיוֹט כָּךְ אוֹנָאָה לַתַּגָּר.",
+          "english": "Just as the halakhot of exploitation apply to a layman, so do the halakhot of…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: אֵין אוֹנָאָה לַתַּגָּר.",
+          "english": "Rabbi Yehuda says: There is no exploitation for a merchant."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִי שֶׁהוּטַּל עָלָיו –",
+          "english": "The one upon whom the exploitation was imposed"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יָדוֹ עַל הָעֶלְיוֹנָה,",
+          "english": "has the advantage."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רָצָה אוֹמֵר לוֹ:",
+          "english": "If he wishes, he can say to the other:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תֵּן לִי מְעוֹתַי,",
+          "english": "Give me back my money"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אוֹ תֵּן לִי מַה שֶּׁאֹנֵיתַנִי.",
+          "english": "or he can say: Give me back the sum that you gained by exploiting me."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אֶחָד הַלּוֹקֵחַ וְאֶחָד הַמּוֹכֵר יֵשׁ לָהֶן אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:9:1",
+            "hebrew": "מתני' ר' יהודה אומר אין אונאה לתגר - לקמיה מפרש לה:",
+            "english": "",
+            "takeaway": "רש״י notes that the Mishna's statement of רבי יהודה's dissent regarding אונאה for a תגר will be explained later in the Gemara."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:9:2",
+            "hebrew": "מי שהוטל עליו - מי שנתאנה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase מי שהוטל עליו refers to the party who was exploited (נתאנה) by the other."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:9:3",
+            "hebrew": "תן לי מעותי - אם נתאנה לוקח:",
+            "english": "",
+            "takeaway": "רש״י explains that the option to demand תן לי מעותי applies specifically when the buyer is the one who was exploited."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51a:9:1",
+            "hebrew": "והתנן כשם שאונאה להדיוט כך אונאה לתגר - פירוש לאפוקי מר' יהודה דאמר תגר אין לו אונאה כשמכר בזול לפי שהוא בקי ואחולי אחיל ליה והאי דזבני' הכי משום דאתרמי ליה זבינתא אחריתי כדאמרי' בסמוך והשתא פריך שפיר דע\"כ מיירי בהדיוט מוכר מדתלי תגר בהדיוט דטעמא דידע ומחיל לא שייך אלא במוכר וא\"ת ומנ\"ל דמיירי בהדיוט שמוכר ביוקר ונתאנה לוקח דילמא מיירי בהדיוט שמכר בזול ונתאנה דהשתא הוי דומיא דתגר וי\"ל דאונאה משמע בכל ענין בין שהוא מאנה בין שהוא מתאנה:",
+            "english": "",
+            "takeaway": "תוספות explains that the Mishna's comparison of a תגר to a הדיוט is specifically to exclude רבי יהודה's opinion that a merchant who sells cheaply has no אונאה because he is knowledgeable and waived his rights, and therefore the Mishna must be discussing a layman seller to establish that אונאה applies generally regardless of who is exploited."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "From where do we derive Ona'ah for both buyer and seller?",
+      "stepSummary": "The Gemara asks for the scriptural source for Ona'ah applying to both buyer and seller, citing a Baraita that derives it from Leviticus 25:14.",
+      "whatsHappening": "The Gemara asks a neutral question about the source of the Mishna's first clause. It cites a Baraita using the verse 'וְכִי תִמְכְּרוּ מִמְכָּר אוֹ קָנֹה' to derive Ona'ah for both.",
+      "deeperAnalysis": "The Gemara asks 'מִנְּהָנֵי מִלֵּי?' — from where do we derive this? It cites a Baraita that uses 'וְכִי תִמְכְּרוּ מִמְכָּר' to derive Ona'ah for the buyer, and 'אוֹ קָנֹה' to derive it for the seller.",
+      "keyTerms": [
+        {
+          "term": "מִנְּהָנֵי מִלֵּי",
+          "meaning": "from where do we derive?"
+        },
+        {
+          "term": "בְּרִייתָא",
+          "meaning": "Tannaitic source outside the Mishna"
+        },
+        {
+          "term": "וְכִי תִמְכְּרוּ מִמְכָּר",
+          "meaning": "when you sell merchandise"
+        },
+        {
+          "term": "אוֹ קָנֹה",
+          "meaning": "or acquire"
+        }
+      ],
+      "whatToRemember": "The verse has two parts: 'מִמְכָּר' (selling) and 'אוֹ קָנֹה' (buying). The Baraita uses 'מִמְכָּר' for the buyer and 'אוֹ קָנֹה' for the seller.",
+      "confusionAlert": "Note the counter-intuitive derivation: 'מִמְכָּר' (selling) is used for the BUYER, and 'אוֹ קָנֹה' (buying) is used for the SELLER. This is because the verse says 'if you sell... or buy... do not exploit'. The Baraita reads 'if you sell [to him]' as the context for the buyer being exploited, and 'or buy [from him]' as the context for the seller being exploited.",
+      "whyThisMatters": "This sets up the need for both parts of the verse, which the Gemara will explain in the next step.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ מְנָהָנֵי מִילֵּי?",
+          "english": "GEMARA: From where are these matters derived?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתָנוּ רַבָּנַן: ״וְכִי תִמְכְּרוּ מִמְכָּר לַעֲמִיתֶךָ .",
+          "english": "As the Sages taught: \"And if you sell to your colleague an item that is sold,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": ". . אַל תּוֹנוּ״ –",
+          "english": "you shall not exploit.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין לִי אֶלָּא שֶׁנִּתְאַנָּה לוֹקֵחַ,",
+          "english": "I have only derived a case where the buyer was exploited,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נִתְאַנָּה מוֹכֵר מִנַּיִן?",
+          "english": "from where do I derive [that] the seller was exploited?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״אוֹ קָנֹה .",
+          "english": "The Torah states: \"Or acquire"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": ". . אַל תּוֹנוּ״.",
+          "english": "you shall not exploit.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ מְנָהָנֵי מִילֵּי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_mishna"
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Why both buyer and seller are needed in the verse",
+      "stepSummary": "The Gemara explains why both 'buyer' and 'seller' are written in the verse: each could have been excluded based on their respective roles in the transaction.",
+      "whatsHappening": "The Gemara provides a צריכותא (necessity) explanation for the doubled wording in the verse. It explains why both 'seller' and 'buyer' are explicitly mentioned.",
+      "deeperAnalysis": "The Gemara explains that if only 'seller' were written, we might think Ona'ah only applies to him because he knows the value of his goods, but the buyer doesn't know, so maybe he's not warned. If only 'buyer' were written, we might think Ona'ah only applies to him because he acquires something, but the seller loses something, so maybe he's not warned. Therefore, both are needed.",
+      "keyTerms": [
+        {
+          "term": "וְאִיצְטְרִיךְ",
+          "meaning": "and it is necessary"
+        },
+        {
+          "term": "קִים לֵיהּ בִּזְבִינְתֵּיהּ",
+          "meaning": "he is certain of his merchandise's value"
+        },
+        {
+          "term": "קָא קָנֵי",
+          "meaning": "he is acquiring"
+        },
+        {
+          "term": "אֹבוֹדֵי קָא מוֹבֵיד",
+          "meaning": "he is losing"
+        }
+      ],
+      "whatToRemember": "The logic is: seller knows value → buyer doesn't. Buyer acquires → seller loses. Each could be excluded based on their unique position, so both are explicitly warned.",
+      "confusionAlert": "Note the asymmetry: the seller is warned because he knows the value, the buyer is warned because he acquires. The Gemara is explaining why the Torah couldn't just warn one and let the other be derived.",
+      "whyThisMatters": "This is a classic צריכותא structure, showing how the Gemara reads the Torah as precise and non-redundant.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִיצְטְרִיךְ לְמִכְתַּב לוֹקֵחַ וְאִיצְטְרִיךְ לְמִכְתַּב מוֹכֵר,",
+          "english": "And it is necessary to write buyer, and it is necessary to write seller,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי כְּתַב רַחֲמָנָא מוֹכֵר –",
+          "english": "For if the Merciful One wrote seller –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִשּׁוּם דְּקִים לֵיהּ בִּזְבִינְתֵּיהּ,",
+          "english": "Because he is certain of his sale,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל לוֹקֵחַ –",
+          "english": "But buyer –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּלָא קִים לֵיהּ בִּזְבִינְתֵּיהּ,",
+          "english": "Who is not certain of his sale,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵימָא לָא אַזְהֲרֵיהּ רַחֲמָנָא בְּ״לֹא תּוֹנוּ״.",
+          "english": "Say that the Merciful One did not warn him in 'You shall not exploit.'"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִי כְּתַב רַחֲמָנָא לוֹקֵחַ –",
+          "english": "And if the Merciful One wrote buyer –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִשּׁוּם דְּקָא קָנֵי,",
+          "english": "Because he is acquiring,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דְּאָמְרִי אִינָשֵׁי: זְבַנְתְּ קְנֵית.",
+          "english": "For people say: 'You purchased, you acquired.'"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲבָל מוֹכֵר דְּאֹבוֹדֵי קָא מוֹבֵיד,",
+          "english": "But seller who is losing,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "דְּאָמְרִי אִינָשֵׁי: זַבֵּין אוֹבֵיד,",
+          "english": "For people say: 'One who sells, loses,'"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֵימָא לָא אַזְהֲרֵיהּ רַחֲמָנָא בְּ״לֹא תּוֹנוּ״, צְרִיכָא.",
+          "english": "Say that the Merciful One did not warn him in 'You shall not exploit.' It is necessary."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִיצְטְרִיךְ לְמִכְתַּב לוֹקֵחַ וְאִיצְטְרִיךְ לְמִכְתַּב מוֹכֵר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:11:1",
+            "hebrew": "גמ' דאי כתב רחמנא מוכר - שהוא מוזהר בבל תונו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the verse's mention of the seller establishes that he is explicitly warned against אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:11:2",
+            "hebrew": "דקים ליה בזבינתיה - כמה נתן בה ובמזיד הוא עושה:",
+            "english": "",
+            "takeaway": "רש״י explains that the seller is considered to know the value of his goods (קים ליה בזבינתיה) and thus acts with intent when engaging in the transaction."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:12:1",
+            "hebrew": "זבנת קנית - אם לקחת חפץ המתקיים שכר הוא אצלך שלא הוצאת המעות ביציאה והרי הוא מתקיים לך:",
+            "english": "",
+            "takeaway": "רש״י interprets the phrase זבנת קנית to mean that the buyer gains a lasting benefit since the money he spent remains with him in the form of the acquired item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:12:2",
+            "hebrew": "זבין אוביד - מכרת חפץ שלך הרי אתה נפסד שיכלו המעות ביציאה:",
+            "english": "",
+            "takeaway": "רש״י interprets the phrase זבין אוביד to mean that the seller suffers a loss because his money leaves his possession upon the sale."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to R' Yehuda: How can a merchant be exempt from Ona'ah?",
+      "stepSummary": "The Gemara challenges R' Yehuda's statement that there is no Ona'ah for a merchant, questioning how expertise could exempt one from a Torah prohibition.",
+      "whatsHappening": "The Gemara attacks רַבִּי יְהוּדָה's dissent in the Mishna. It expresses surprise that a merchant could be exempt from Ona'ah just because of his profession.",
+      "deeperAnalysis": "The Gemara asks: 'מִשּׁוּם שֶׁהוּא תַּגָּר אֵין לוֹ אוֹנָאָה?!' — just because he's a merchant, he's exempt from Ona'ah? The implication is that anyone could make a mistake in valuation, so expertise shouldn't matter.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יְהוּדָה אוֹמֵר",
+          "meaning": "Rabbi Yehuda says"
+        },
+        {
+          "term": "אֵין אוֹנָאָה לַתַּגָּר",
+          "meaning": "there is no Ona'ah for a merchant"
+        },
+        {
+          "term": "מִשּׁוּם שֶׁהוּא תַּגָּר",
+          "meaning": "because he is a merchant"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the principle that Ona'ah is a Torah prohibition, and expertise shouldn't exempt one from it.",
+      "confusionAlert": "Note that the Gemara is not yet challenging the logic of רַבִּי יְהוּדָה, but rather the very idea that a merchant could be exempt.",
+      "whyThisMatters": "This sets up the need for a resolution that explains how a merchant could be exempt without violating the Torah prohibition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: אֵין אוֹנָאָה לַתַּגָּר.",
+          "english": "Rabbi Yehuda says: There is no exploitation for a merchant."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשּׁוּם שֶׁהוּא תַּגָּר אֵין לוֹ אוֹנָאָה? !",
+          "english": "Because he is a merchant, he has no exploitation?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי יְהוּדָה אוֹמֵר: אֵין אוֹנָאָה לַתַּגָּר. מִשּׁוּם שֶׁהוּא תַּגָּר אֵין לוֹ אוֹנָאָה?!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "attacks_mishna"
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Nachman: The merchant waives Ona'ah",
+      "stepSummary": "Rav Nachman explains that R' Yehuda is talking about a professional trader who knows the value and waives the Ona'ah, selling at a loss only to free up capital for new merchandise.",
+      "whatsHappening": "רַב נַחְמָן provides a resolution to the challenge against רַבִּי יְהוּדָה. He says that רַבִּי יְהוּדָה is referring to a 'תַּגָּר סַפְסָר' — a professional trader.",
+      "deeperAnalysis": "רַב נַחְמָן says that רַבִּי יְהוּדָה is referring to a 'תַּגָּר סַפְסָר' — a professional trader. Such a person knows the value of his goods and waives the Ona'ah. He sells at a loss only because new merchandise has become available and he needs the cash to buy it. Thus, he is not really being exploited; he is choosing to sell at a lower price for business reasons.",
+      "keyTerms": [
+        {
+          "term": "רַב נַחְמָן אָמַר רַב",
+          "meaning": "Rav Nachman says that Rav says"
+        },
+        {
+          "term": "תַּגָּר סַפְסָר",
+          "meaning": "professional trader"
+        },
+        {
+          "term": "מִידָע יָדַע זְבִינְתֵּיהּ",
+          "meaning": "he knows the value of his merchandise"
+        },
+        {
+          "term": "אַחוֹלֵי אַחֵיל גַּבֵּיהּ",
+          "meaning": "he waives the sum for himself"
+        }
+      ],
+      "whatToRemember": "The key is that the merchant waives the Ona'ah. He is not being exploited; he is making a business decision.",
+      "confusionAlert": "Note that this resolution changes the nature of the transaction: it's not a case of Ona'ah at all, but a voluntary sale at a lower price.",
+      "whyThisMatters": "This introduces the concept of 'waiving Ona'ah', which is crucial for understanding the status of merchants in commercial law.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב נַחְמָן אָמַר רַב: בְּתַגָּר סַפְסָר שָׁנוּ.",
+          "english": "Rav Naḥman says Rav says: With a merchant, a trader, they taught."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי טַעְמָא –",
+          "english": "What is the reason?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִידָּע יָדַע זְבִינְתֵּיהּ כַּמָּה שָׁוְיָא,",
+          "english": "From knowing he knew his merchandise how much it is worth,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאַחוֹלֵי אַחֵיל גַּבֵּיהּ.",
+          "english": "and he waived and waived upon him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהַאי דְּזַבְּנַהּ הָכִי –",
+          "english": "And this that he sold it thus –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִשּׁוּם דְּאִתְרַמְיָא לֵיהּ זְבִינְתָּא אַחֲרִיתִי.",
+          "english": "because of that other merchandise happened to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב נַחְמָן אָמַר רַב: בְּתַגָּר סַפְסָר שָׁנוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        45
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:14:1",
+            "hebrew": "ספסר - קונה ומוכר מיד תמיד:",
+            "english": "",
+            "takeaway": "רש״י defines a ספסר as a professional merchant who continuously buys and sells goods immediately."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:14:2",
+            "hebrew": "מידע ידע זבינתיה כמה שויא - הרי לא שהה בין קנייתה למכירתה:",
+            "english": "",
+            "takeaway": "רש״י explains that the merchant knows the true value of his merchandise because he does not delay between purchasing and selling it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: But he retracts from the transaction!",
+      "stepSummary": "The Gemara challenges Rav Nachman's resolution: if the merchant can retract from the transaction, then he didn't really waive the Ona'ah.",
+      "whatsHappening": "The Gemara attacks רַב נַחְמָן's resolution. It asks: 'וְהַשְׁתָּא מִיהָא קָא הָדַר בֵּיהּ!' — but now, in any case, he retracts from the transaction!",
+      "deeperAnalysis": "The Gemara asks: 'וְהַשְׁתָּא מִיהָא קָא הָדַר בֵּיהּ!' — but now, in any case, he retracts from the transaction! If he can retract, then he didn't really waive the Ona'ah; he was still exploited and is now seeking to undo the sale.",
+      "keyTerms": [
+        {
+          "term": "וְהַשְׁתָּא מִיהָא",
+          "meaning": "but now, in any case"
+        },
+        {
+          "term": "קָא הָדַר בֵּיהּ",
+          "meaning": "he retracts from it"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the fact that the merchant has the right to retract, which contradicts the idea that he waived the Ona'ah.",
+      "confusionAlert": "Note that this challenge assumes that the merchant has the right to retract, which is a key point in the sugya.",
+      "whyThisMatters": "This sets up the need for a further resolution that explains how the merchant can retract without contradicting the idea that he waived the Ona'ah.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהַשְׁתָּא מִיהָא קָא הָדַר בֵּיהּ!",
+          "english": "And now, in any case, he is retracting from it!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב אָשֵׁי אָמַר:",
+          "english": "Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי אֵין לַתַּגָּר אוֹנָאָה –",
+          "english": "What is the meaning of: there is no ona'ah for a merchant –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵינוֹ בְּתוֹרַת אוֹנָאָה,",
+          "english": "He is not subject to the law of ona'ah,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁאֲפִילּוּ פָּחוֹת מִכְּדֵי אוֹנָאָה חוֹזֵר.",
+          "english": "Even if it is less than the measure of ona'ah, he returns."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תַּנְיָא כְּווֹתֵיהּ דְּרַב נַחְמָן:",
+          "english": "It is taught in a baraita in accordance with Rav Naḥman:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר,",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "תַּגָּר אֵין לוֹ אוֹנָאָה,",
+          "english": "A merchant has no ona'ah,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִפְּנֵי שֶׁהוּא בָּקִי.",
+          "english": "Because he is expert."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהַשְׁתָּא מִיהָא קָא הָדַר בֵּיהּ!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "attacks_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:15:1",
+            "hebrew": "שאפי' פחות מכדי אונאה חוזר - אם נתאנה דחייו תלויין בכך ותקנו לו שיחזור:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's concern about retraction applies even when the overcharge is less than the threshold of אונאה, because the merchant's livelihood depends on the transaction and a decree was made to allow him to retract."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:15:2",
+            "hebrew": "תניא כוותיה דרב נחמן - דאפי' בכדי אונאה אינו חוזר בו ואין מחזירין לו אונאה מדתלי טעמא מפני שהוא בקי כגון ספסר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the ברייתא supports רב נחמן's view that a merchant cannot claim אונאה even when the overcharge meets the threshold, because the reason given is that he is an expert (בקי), such as a ספסר."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Whose opinion is the Mishna?",
+      "stepSummary": "The Gemara asks whose opinion is expressed in the Mishna's statement that the exploited party has the advantage and can choose annulment or compensation.",
+      "whatsHappening": "The Gemara asks a neutral question about the attribution of the Mishna's final clause. It asks: 'מַנִּי מַתְנִיתִין?' — whose opinion is the Mishna?",
+      "deeperAnalysis": "The Gemara asks: 'מַנִּי מַתְנִיתִין?' — whose opinion is the Mishna? It then states that it is neither רַבִּי נָתָן nor רַבִּי יְהוּדָה הַנָּשִׂיא, setting up a difficulty.",
+      "keyTerms": [
+        {
+          "term": "מַנִּי מַתְנִיתִין?",
+          "meaning": "whose opinion is the Mishna?"
+        },
+        {
+          "term": "לָא רַבִּי נָתָן וְלָא רַבִּי יְהוּדָה הַנָּשִׂיא",
+          "meaning": "neither R' Natan nor R' Yehuda HaNasi"
+        }
+      ],
+      "whatToRemember": "The question is about the attribution of the Mishna's final clause, which grants the exploited party the choice of annulment or compensation.",
+      "confusionAlert": "Note that the Gemara is not yet challenging the Mishna, but asking for its attribution.",
+      "whyThisMatters": "This sets up a difficulty that will be resolved by several Amoraim.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִי שֶׁהוּטַּל עָלָיו יָדוֹ עַל הָעֶלְיוֹנָה וְכוּ׳.",
+          "english": "The one upon whom the hand was placed on the upper one, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַנִּי מַתְנִיתִין?",
+          "english": "Whose is our Mishna?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא רַבִּי נָתָן וְלָא רַבִּי יְהוּדָה הַנָּשִׂיא.",
+          "english": "Neither Rabbi Natan nor Rabbi Yehuda HaNasi."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִי שֶׁהוּטַּל עָלָיו יָדוֹ עַל הָעֶלְיוֹנָה וְכוּ׳. מַנִּי מַתְנִיתִין? לָא רַבִּי נָתָן וְלָא רַבִּי יְהוּדָה הַנָּשִׂיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_mishna"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Why it's not רַבִּי נָתָן or רַבִּי יְהוּדָה הַנָּשִׂיא",
+      "stepSummary": "The Gemara explains why the Mishna cannot be attributed to R' Natan or R' Yehuda HaNasi, based on differences in their respective Baraitot.",
+      "whatsHappening": "The גמרא explains the difficulty raised in the previous step. It shows why the מִשְׁנָה doesn't match either תַּנָּא.",
+      "deeperAnalysis": "The גמרא notes a textual mismatch. If it were רַבִּי נָתָן, the מִשְׁנָה says 'רָצָה' but the בְּרִיתָא doesn't. If it were רַבִּי יְהוּדָה הַנָּשִׂיא, the מִשְׁנָה says 'לוֹקֵחַ' but the בְּרִיתָא says 'מוֹכֵר'.",
+      "keyTerms": [
+        {
+          "term": "אִי רַבִּי נָתָן",
+          "meaning": "if it is רַבִּי נָתָן"
+        },
+        {
+          "term": "מַתְנִיתִין קָתָנֵי ״רָצָה״",
+          "meaning": "the מִשְׁנָה teaches 'if he wishes'"
+        },
+        {
+          "term": "בָּרַיְיתָא לָא קָתָנֵי ״רָצָה״",
+          "meaning": "the בְּרִיתָא does not teach 'if he wishes'"
+        },
+        {
+          "term": "אִי רַבִּי יְהוּדָה הַנָּשִׂיא",
+          "meaning": "if it is רַבִּי יְהוּדָה הַנָּשִׂיא"
+        },
+        {
+          "term": "מַתְנִיתִין קָתָנֵי ״לוֹקֵחַ״",
+          "meaning": "the מִשְׁנָה teaches 'buyer'"
+        },
+        {
+          "term": "בָּרַיְיתָא קָתָנֵי ״מוֹכֵר״",
+          "meaning": "the בְּרִיתָה teaches 'seller'"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי רַבִּי נָתָן –",
+          "english": "If Rabbi Natan –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַתְנִיתִין קָתָנֵי ״רָצָה״,",
+          "english": "Our Mishnah teaches \"if he wishes\","
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּבָרַיְיתָא לָא קָתָנֵי ״רָצָה״.",
+          "english": "and the Baraita does not teach \"if he wishes\"."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי רַבִּי יְהוּדָה הַנָּשִׂיא –",
+          "english": "If Rabbi Yehuda HaNasi –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַתְנִיתִין קָתָנֵי ״לוֹקֵחַ״,",
+          "english": "Our Mishnah teaches \"buyer\","
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בָּרַיְיתָא קָתָנֵי ״מוֹכֵר״.",
+          "english": "the Baraita teaches \"seller\"."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי רַבִּי נָתָן – מַתְנִיתִין קָתָנֵי ״רָצָה״, וּבָרַיְיתָא לָא קָתָנֵי ״רָצָה״. אִי רַבִּי יְהוּדָה הַנָּשִׂיא – מַתְנִיתִין קָתָנֵי ״לוֹקֵחַ״, בָּרַיְיתָא קָתָנֵי ״מוֹכֵר״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:17:1",
+            "hebrew": "קתני רצה - דידו על העליונה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's use of 'רצה' indicates the buyer has the choice to keep the item at the higher price."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:17:3",
+            "hebrew": "לא קתני רצה - אלא על כרחו קנה ומחזיר לו אונאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that R' Natan's Baraita omits 'רצה' because the buyer acquires the item involuntarily and must return the overcharge."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:17:4",
+            "hebrew": "מתני' קתני לוקח - היכא דנתאנה לוקח קתני דידו על העליונה כדקתני תן לי מעותי:",
+            "english": "",
+            "takeaway": "רש״י notes that the Mishna's reference to 'לוקח' applies when the buyer was overcharged, giving him the right to keep the item at the higher price."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:17:6",
+            "hebrew": "קתני מוכר - דהיכא דנתאנה מוכר הוא דידו על העליונה אבל אם נתאנה לוקח לא:",
+            "english": "",
+            "takeaway": "רש״י explains that R' Yehuda HaNasi's Baraita uses 'מוכר' because only the seller benefits from the higher price when the seller was overcharged, unlike when the buyer was overcharged."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "Mnemonic for the אַמּוֹרָאִים who resolve the difficulty",
+      "stepSummary": "The Gemara provides a mnemonic (סימן) for the four Amoraim who will resolve the difficulty: R' Elazar, Rabba, Rava, and Rav Ashi.",
+      "whatsHappening": "The גמרא introduces a mnemonic device for the upcoming resolutions. It prepares the reader for four different opinions.",
+      "deeperAnalysis": "The גמרא gives a mnemonic: 'זב רש'. This stands for זַיִן (רַבִּי אֶלְעָזָר), בֵּית (רַבָּא), רֵישׁ (רַבָּא), שִׁין (רַב אַשֵּׁי). This organizes the four resolutions that follow.",
+      "keyTerms": [
+        {
+          "term": "סִימָן זָב רָשׁ",
+          "meaning": "mnemonic: זַיִן, בֵּית, רֵישׁ, שִׁין"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "(סִימָן זָב רָשׁ)",
+          "english": "(Sign: Zayin, Beit, Reish, Shin)"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "(סִימָן זָב רָשׁ)",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "introduces_resolutions"
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי אֶלְעָזָר: I don't know who taught it",
+      "stepSummary": "R' Elazar states that he doesn't know who taught the Mishna, as it doesn't match any known opinion.",
+      "whatsHappening": "רַבִּי אֶלְעָזָר gives his opinion on the attribution of the מִשְׁנָה. He states he doesn't know the source.",
+      "deeperAnalysis": "רַבִּי אֶלְעָזָר says: 'אוֹנָאָה זוֹ אֵינִי יוֹדֵעַ מִי שְׁנָאָהּ'. He implies the מִשְׁנָה doesn't match any known תַּנָּא. This acknowledges the difficulty without resolving it.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֶלְעָזָר",
+          "meaning": "רַבִּי אֶלְעָזָר"
+        },
+        {
+          "term": "אוֹנָאָה זוֹ אֵינִי יוֹדֵעַ מִי שְׁנָאָהּ",
+          "meaning": "I don't know who taught this אוֹנָאָה"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "Rabbi Elazar says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אוֹנָאָה זוֹ אֵינִי יוֹדֵעַ מִי שְׁנָאָהּ.",
+          "english": "Concerning this halakha of exploitation, I do not know who taught it."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבָּה אָמַר: לְעוֹלָם רַבִּי נָתָן הִיא,",
+          "english": "Rabba said: Actually, it is the opinion of Rabbi Natan,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּתְנִי נָמֵי בְּבָרַיְיתָא ״רָצָה״. רָבָא אָמַר:",
+          "english": "and emend and teach in the baraita as well: 'If he wishes.' Rava said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְעוֹלָם רַבִּי יְהוּדָה הַנָּשִׂיא הִיא,",
+          "english": "Actually, it is the opinion of Rabbi Yehuda HaNasi,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּמַאי דְּשַׁיַּיר בְּמַתְנִיתִין קָא מְפָרֵישׁ בְּבָרַיְיתָא.",
+          "english": "and what is omitted in the mishna he explicates in the baraita."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמַר רַב אָשֵׁי: דַּיְקָא נָמֵי,",
+          "english": "Rav Ashi said: The language is also precise,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּקָתָנֵי ״אֶחָד הַלּוֹקֵחַ וְאֶחָד הַמּוֹכֵר״,",
+          "english": "as the tanna teaches: 'Both the buyer and the seller,'"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּמְפָרֵשׁ לֵיהּ לְלוֹקֵחַ,",
+          "english": "and he elucidates it for the buyer,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "שְׁמַע מִינַּהּ שַׁיּוֹרֵיה שַׁיְּירֵיהּ לְמוֹכֵר. שְׁמַע מִינַּהּ.",
+          "english": "learn from it that he omitted the halakha of the seller. Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי אֶלְעָזָר: אוֹנָאָה זוֹ אֵינִי יוֹדֵעַ מִי שְׁנָאָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "first_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:19:1",
+            "hebrew": "אונאה זו - משנתינו זו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ר' אלעזר's statement 'אונאה זו' refers specifically to the Mishna under discussion."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:19:2",
+            "hebrew": "ותני נמי בברייתא - בר' נתן רצה ובלוקח ומוכר הוא דפליגי:",
+            "english": "",
+            "takeaway": "רש״י explains that רבה's suggestion that the Mishna follows ר' נתן is supported by a ברייתא which states that ר' נתן holds 'רצה' (the buyer's consent is sufficient) and that the dispute between the buyer and seller is the central issue."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:19:3",
+            "hebrew": "דיקא נמי - דמתניתין במוכר נמי ס\"ל הכי ומפרש ללוקח ולא פירש למוכר:",
+            "english": "",
+            "takeaway": "רש״י explains רב אשי's proof that the Mishna applies to the seller as well, noting that the Mishna explicitly explains the law for the buyer but omits an explanation for the seller, implying the seller's law is identical and thus requires no separate elaboration."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute between רַב and שְׁמוּאֵל on waiving אוֹנָאָה",
+      "stepSummary": "The sugya opens with an איתמר presenting the dispute between Rav and Shmuel regarding the validity of a stipulation waiving Ona'ah.",
+      "whatsHappening": "The sugya opens with an אִיתְּמַר presenting the dispute between רַב and שְׁמוּאֵל. They disagree on the validity of a stipulation waiving אוֹנָאָה.",
+      "deeperAnalysis": "רַב holds the stipulation is invalid. שְׁמוּאֵל holds the stipulation is valid. The גמרא suggests aligning them with the תַּנָּאִים dispute of רַבִּי מֵאִיר and רַבִּי יְהוּדָה.",
+      "keyTerms": [
+        {
+          "term": "אִיתְּמַר",
+          "meaning": "it was stated [introducing an אַמּוֹרָאִים dispute]"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "exploitation / overcharging"
+        },
+        {
+          "term": "עַל מְנָת",
+          "meaning": "on the condition that"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיתְּמַר:",
+          "english": "It was stated:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָאוֹמֵר לַחֲבֵירוֹ עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה.",
+          "english": "One who says to his friend: on condition that you have no exploitation against me."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַב אָמַר: יֵשׁ לוֹ עָלָיו אוֹנָאָה.",
+          "english": "Rav says: He has exploitation against him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּשְׁמוּאֵל אָמַר: אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "And Shmuel says: He does not have exploitation against him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לֵימָא רַב דְּאָמַר כְּרַבִּי מֵאִיר,",
+          "english": "Let us say Rav who says like Rabbi Meir,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּשְׁמוּאֵל דְּאָמַר כְּרַבִּי יְהוּדָה.",
+          "english": "And Shmuel who says like Rabbi Yehuda."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיתְּמַר: הָאוֹמֵר לַחֲבֵירוֹ עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה. רַב אָמַר: יֵשׁ לוֹ עָלָיו אוֹנָאָה. וּשְׁמוּאֵל אָמַר: אֵין לוֹ עָלָיו אוֹנָאָה. לֵימָא רַב דְּאָמַר כְּרַבִּי מֵאִיר, וּשְׁמוּאֵל דְּאָמַר כְּרַבִּי יְהוּדָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:20:1",
+            "hebrew": "לימא רב דאמר כר' מאיר - דאמר מתנה על מה שכתוב בתורה תנאו בטל אפילו בדבר שבממון:",
+            "english": "",
+            "takeaway": "רש״י explains that רב follows רבי מאיר, who holds that a stipulation overriding a Torah law is invalid even in monetary matters."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "ראיה",
+      "title": "The בְּרִיתָא of רַבִּי מֵאִיר and רַבִּי יְהוּדָה on conditions",
+      "stepSummary": "A Baraita is cited to support the alignment of Rav with R' Meir and Shmuel with R' Yehuda regarding the validity of conditions in monetary matters.",
+      "whatsHappening": "A בְּרִיתָא is cited to support the alignment of רַב with רַבִּי מֵאִיר and שְׁמוּאֵל with רַבִּי יְהוּדָה. It discusses conditions in monetary matters.",
+      "deeperAnalysis": "The בְּרִיתָא discusses a condition waiving שֵׁאֵר כְּסוּת וְעוֹנָה. רַבִּי מֵאִיר says the condition is void. רַבִּי יְהוּדָה says in monetary matters the condition stands. This aligns רַב with רַבִּי מֵאִיר and שְׁמוּאֵל with רַבִּי יְהוּדָה.",
+      "keyTerms": [
+        {
+          "term": "שֵׁאֵר כְּסוּת וְעוֹנָה",
+          "meaning": "food, clothing, and conjugal rights"
+        },
+        {
+          "term": "תְּנָאוֹ בָּטֵל",
+          "meaning": "his condition is void"
+        },
+        {
+          "term": "תְּנָאוֹ קַיָּם",
+          "meaning": "his condition stands"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּתַנְיָא: הָאוֹמֵר לְאִשָּׁה הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי",
+          "english": "As it is taught: One who says to a woman: Behold you are betrothed to me"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עַל מְנָת שֶׁאֵין לְךָ עָלַי שְׁאֵר",
+          "english": "on condition that you have no claim against me"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כְּסוּת וְעוֹנָה –",
+          "english": "for clothing and conjugal rights –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲרֵי זוֹ מְקוּדֶּשֶׁת, וּתְנָאוֹ בָּטֵל,",
+          "english": "Behold she is betrothed, and his condition is void,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּבְרֵי רַבִּי מֵאִיר.",
+          "english": "the words of Rabbi Meir."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: בְּדָבָר שֶׁבְּמָמוֹן – תְּנָאוֹ קַיָּים.",
+          "english": "Rabbi Yehuda says: In a matter of money – his condition is valid."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּתַנְיָא: הָאוֹמֵר לְאִשָּׁה הֲרֵי אַתְּ מְקוּדֶּשֶׁת לִי עַל מְנָת שֶׁאֵין לְךָ עָלַי שְׁאֵר כְּסוּת וְעוֹנָה – הֲרֵי זוֹ מְקוּדֶּשֶׁת, וּתְנָאוֹ בָּטֵל, דִּבְרֵי רַבִּי מֵאִיר. רַבִּי יְהוּדָה אוֹמֵר: בְּדָבָר שֶׁבְּמָמוֹן – תְּנָאוֹ קַיָּים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51a:21:1",
+            "hebrew": "ר' יהודה אומר בדבר שבממון - כגון שאר וכסות ניתן למחילה והרי מחלה אבל עונה שהיא צער הגוף לא ניתן למחילה:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יהודה's ruling that the condition stands in monetary matters applies to שֵׁאֵר and כְּסוּת, which can be waived, but not to עוֹנָה, which involves bodily pain and cannot be waived."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב's defense: Even according to רַבִּי יְהוּדָה, רַב is correct",
+      "stepSummary": "Rav defends his position by distinguishing between a known waiver of rights and an unknown potential Ona'ah.",
+      "whatsHappening": "רַב defends his position by distinguishing between a known waiver and an unknown potential אוֹנָאָה. He argues his ruling stands even according to רַבִּי יְהוּדָה.",
+      "deeperAnalysis": "רַב argues רַבִּי יְהוּדָה only validates conditions where the party KNOWS they are waiving a right. In אוֹנָאָה, the buyer doesn't know he's being exploited. He can't waive a right he doesn't know exists.",
+      "keyTerms": [
+        {
+          "term": "יָדְעָה וְקָא מָחֲלָה",
+          "meaning": "he knew and is waiving [his right]"
+        },
+        {
+          "term": "מִי יָדַע דְּמָחֵיל",
+          "meaning": "who knows that he is waiving?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר לְךָ רַב:",
+          "english": "Rav said to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי יְהוּדָה –",
+          "english": "I, even according to Rabbi Yehuda –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַד כָּאן לָא קָאָמַר רַבִּי יְהוּדָה הָתָם,",
+          "english": "Until here Rabbi Yehuda does not say there,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא דְּיָדְעָה וְקָא מָחֲלָה,",
+          "english": "But that she knew and waived,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל הָכָא מִי יָדַע דְּמָחֵיל?",
+          "english": "But here, who knows that he waives?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לְךָ רַב: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי יְהוּדָה – עַד כָּאן לָא קָאָמַר רַבִּי יְהוּדָה הָתָם, אֶלָּא דְּיָדְעָה וְקָא מָחֲלָה, אֲבָל הָכָא מִי יָדַע דְּמָחֵיל?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "refutes"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T04:10:15.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 98.76449319999665,
+      "structure": 1900.0462517999695,
+      "validate": 277.00128730008146,
+      "translate": 409.66834620025475,
+      "meforshim": 675.1044970999355,
+      "teaching": 870.4126458000392
+    }
+  }
+}

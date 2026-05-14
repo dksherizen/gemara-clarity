@@ -1,0 +1,1499 @@
+{
+  "ref": "Bava Metzia 58b",
+  "masechet": "Bava_Metzia",
+  "daf": 58,
+  "amud": "b",
+  "mainTopic": "(continues) אונאה בהקדשות וספר תורה · אונאת דברים",
+  "overview": "(1) The Gemara discusses Rabbi Shimon's view on Ona'ah for sacred items and Rabbi Yehuda's view on selling a Torah scroll or valuable animals. (2) The Gemara analyzes the Mishnah regarding Ona'at Devarim, emphasizing its severity compared to financial Ona'ah and the unique punishment for overcharging. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 5,
+      "topic": "(continues) אונאה בהקדשות וספר תורה",
+      "gist": "The Gemara discusses Rabbi Shimon's view on Ona'ah for sacred items and Rabbi Yehuda's view on selling a Torah scroll or valuable animals.",
+      "openingFormula": "רבי שמעון אומר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 5
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 6,
+      "endLine": 14,
+      "topic": "אונאת דברים",
+      "gist": "The Gemara analyzes the Mishnah regarding Ona'at Devarim, emphasizing its severity compared to financial Ona'ah and the unique punishment for overcharging. — discussion continues into next amud.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 6,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "The תַּנָּא's defense: אִפְּכָא מִסְתַּבְרָא!",
+      "stepSummary": "The Tanna responds that the opposite is actually more logical, defending his original derivation.",
+      "whatsHappening": "The תַּנָּא pushes back against רַבִּי יִצְחָק's objection, asserting that his own reading is the logical one. He insists that his initial derivation makes more sense.",
+      "deeperAnalysis": "The תַּנָּא implies that רַבִּי יִצְחָק's reversal is counterintuitive. This sets up the need for a clearer explanation of the תַּנָּא's logic. The tension remains before the final resolution.",
+      "keyTerms": [
+        {
+          "term": "אִפְּכָא מִסְתַּבְרָא",
+          "meaning": "the opposite is reasonable / makes more sense"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיפְּכָא מִסְתַּבְּרָא! אֲמַר לֵיהּ: אֶיסְמְיַהּ?",
+          "english": "The opposite is reasonable! He said to him: Should I erase it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִפְּכָא מִסְתַּבְרָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        48
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "defends_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:1:1",
+            "hebrew": "איפכא מסתברא - כל הדברים נראין הפך דשאינו חייב באחריותן דה' נינהו טפי משחייב באחריותן ואם באת לחייבו בשל גבוה ולפוטרו בשל הדיוט. כן היה לו לומר קדשים שחייב באחריותן פטור שאני קורא בהן בעמיתו וכחש שאינו חייב באחריותן חייב שאני קורא בהן בה' וכחש ועוד דהדיוט הוה ליה לחיובי טפי דהא שומרי הקדשות פטורין מן השבועה ומכל הבא על ידה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Tanna's reading is more logical because it is more reasonable to exempt someone from liability for items where they are not responsible (קדשים) and obligate them for items where they are responsible (הדיוט), rather than the reverse, especially since שומרי הקדשות are exempt from שבועה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:1:2",
+            "hebrew": "איסמייה - אסיר משנה זו מגירסתי:",
+            "english": "",
+            "takeaway": "רש״י explains that אֶיסְמְיַּהּ means that this משנה is forbidden or incompatible with Rabbi Yitzchak's גירסא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבִּי יִצְחָק's clarification: דְּאִיתְרַבּוּ / דְּאִמְעִיט",
+      "stepSummary": "Rabbi Yitzchak clarifies the Tanna's derivation: 'בַּה׳' adds liability items, 'בַּעֲמִיתוֹ' removes non-liability items.",
+      "whatsHappening": "רַבִּי יִצְחָק resolves the difficulty by explaining the precise function of the two phrases in the verse. He clarifies that 'בַּה׳ וְכִחֵשׁ' is needed to INCLUDE items with liability.",
+      "deeperAnalysis": "He explains that 'בַּה׳ וְכִחֵשׁ' is needed to INCLUDE items with liability, which might otherwise be excluded as not purely 'human' property. 'בַּעֲמִיתוֹ וְכִחֵשׁ' is needed to EXCLUDE items without liability, which belong entirely to God. This clarifies the תַּנָּא's logic and resolves the קושיא.",
+      "keyTerms": [
+        {
+          "term": "דְּאִיתְרַבּוּ",
+          "meaning": "they are included / added"
+        },
+        {
+          "term": "דְּאִמְעִיט",
+          "meaning": "they are excluded / removed"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the inclusion/exclusion function of the phrases.",
+      "whyThisMatters": "Resolves the difficulty in the scriptural derivation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: לָא. הָכִי קָאָמַר:",
+          "english": "He said to him: No. Thus he is saying:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן –",
+          "english": "Sacred items for which one is liable for their loss –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חַיָּיב, דְּאִיתְרַבּוּ מִ״בַּה׳ וְכִחֵשׁ״.",
+          "english": "liable, because they are included from 'against the Lord, and deals falsely'."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְשֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן – פָּטוּר, דְּאִמְּעִיט מִ״בַּעֲמִיתוֹ וְכִחֵשׁ״.",
+          "english": "And those for which one is not liable for their loss – exempt, because they are excluded from 'with his…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: לָא. הָכִי קָאָמַר: קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן – חַיָּיב, דְּאִיתְרַבּוּ מִ״בַּה׳ וְכִחֵשׁ״. וְשֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן – פָּטוּר, דְּאִמְּעִיט מִ״בַּעֲמִיתוֹ וְכִחֵשׁ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:2:1",
+            "hebrew": "הכי קאמר כו' - האי שאני קורא בהן בה' וכחש לא משמע בה' וכחש ולא בעמיתו ולחיוביה משום שהן של הקדש אלא הכי קאמר קדשים שחייב באחריותן חייב קרבן שבועה לפי שהן של עמיתו ואם באת לפוטרו לפי שהן של הקדש להכי אתא בה' וכחש לרבויינהו אף אם יש בהן צד גבוה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'בַּה׳ וְכִחֵשׁ' serves to INCLUDE קדשים שחייב באחריותן in the obligation of שבועה, because despite their sanctity, they still have a human owner ('עמיתו') and thus require inclusion via the Torah's wording."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:2:2",
+            "hebrew": "ושאין חייב באחריותן פטור - לפי שאני קורא בהן למעטן בעמיתו וכחש והכא ליכא עמיתו ואימעט מבעמיתו וכחש:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'בַּעֲמִיתוֹ וְכִחֵשׁ' serves to EXCLUDE קדשים שאין חייב באחריותן from the obligation of שבועה, because they belong entirely to God and lack a human 'עמיתו' to whom one could owe restitution."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יְהוּדָה: אַף הַמוֹכֵר סֵפֶר תּוֹרָה, מַרְגָּלִית וּבְהֵמָה, אֵין לָהֶם אוֹנָאָה",
+      "stepSummary": "The Mishna states Rabbi Yehuda's ruling: selling a Torah scroll, pearl, or animal is exempt from Ona'ah.",
+      "whatsHappening": "The Gemara introduces a new Mishnaic statement by רַבִּי יְהוּדָה listing items exempt from אוֹנָאָה. This is a setup line transitioning to a new topic of exemptions.",
+      "deeperAnalysis": "רַבִּי יְהוּדָה rules that a סֵפֶר תּוֹרָה, מַרְגָּלִית, and בְּהֵמָה are not subject to אוֹנָאָה. This establishes a new category of exemptions based on the unique nature of these items.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yehuda"
+        },
+        {
+          "term": "סֵפֶר תּוֹרָה",
+          "meaning": "Torah scroll"
+        },
+        {
+          "term": "מַרְגָּלִית",
+          "meaning": "pearl"
+        },
+        {
+          "term": "בְּהֵמָה",
+          "meaning": "animal / beast"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "financial exploitation / overcharging"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף הַמּוֹכֵר סֵפֶר תּוֹרָה,",
+          "english": "Even one who sells a Torah scroll,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַרְגָּלִית וּבְהֵמָה, אֵין לָהֶם אוֹנָאָה.",
+          "english": "a pearl and an animal, they have no exploitation."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "תַּנְיָא, רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "It is taught, Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף הַמּוֹכֵר סֵפֶר תּוֹרָה,",
+          "english": "Even one who sells a Torah scroll,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵין לָהּ אוֹנָאָה –",
+          "english": "it has no exploitation –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְפִי שֶׁאֵין קֵץ לְדָמֶיהָ. בְּהֵמָה וּמַרְגָּלִית,",
+          "english": "because there is no limit to its price. An animal and a pearl,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵין לָהֶם אוֹנָאָה –",
+          "english": "they have no exploitation –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִפְּנֵי שֶׁאָדָם רוֹצֶה לְזַוְּוגָן.",
+          "english": "because a person wants to pair them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי יְהוּדָה אוֹמֵר: אַף הַמּוֹכֵר סֵפֶר תּוֹרָה, מַרְגָּלִית וּבְהֵמָה, אֵין לָהֶם אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:3:1",
+            "hebrew": "לזווגן - מי שיש לו שור יפה לחרישה מחזר על אחר שכמותו לצמדו עמו בעול שהמצמיד שור חלש עם הבריא מקלקל את הבריא וכן מרגלית נאה (עם חבירתה) למלאות עם חבירתה בזהב מן היחידית:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'רוצה לזווגן' means a buyer seeks to pair a healthy animal with another similar one for plowing, or to match a beautiful pearl with another for jewelry, making their value subjective and thus exempt from אוֹנָאָה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "ראיה",
+      "title": "The Baraita explaining Rabbi Yehuda's reasons",
+      "stepSummary": "A Baraita explains Rabbi Yehuda's reasons: Torah scroll is priceless, pearl and animal are sought for pairing.",
+      "whatsHappening": "The Gemara cites a בְּרֵיתָא providing the rationale for רַבִּי יְהוּדָה's ruling. This is a setup line introducing the explanation.",
+      "deeperAnalysis": "The בְּרֵיתָא explains that a סֵפֶר תּוֹרָה is exempt because אֵין קֵץ לְדָמֶיהָ. Pearl and animal are exempt because אָדָם רוֹצֶה לְזַוְּוגָן, meaning price is secondary to matching.",
+      "keyTerms": [
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "external Talmudic teaching"
+        },
+        {
+          "term": "אֵין קֵץ לְדָמֶיהָ",
+          "meaning": "there is no limit to its value"
+        },
+        {
+          "term": "רוֹצֶה לְזַוְּוגָן",
+          "meaning": "wants to pair them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרוּ לוֹ: וַהֲלֹא הַכֹּל אָדָם רוֹצֶה לְזַוְּוגָן?",
+          "english": "They said to him: But is it not that everyone wants to pair?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְרַבִּי יְהוּדָה, הָנֵי חֲשִׁיבִי לֵיהּ,",
+          "english": "And Rabbi Yehuda, these he considers significant to him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָנֵי לָא חֲשִׁיבִי לֵיהּ. וְעַד כַּמָּה?",
+          "english": "And those he does not consider significant to him. And up to how much?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר אַמֵּימָר: עַד כְּדֵי דְּמֵיהֶם.",
+          "english": "Ameimar said: Up to their value.",
+          "notes": "Refers to the maximum permissible deviation in value for items where exploitation does not apply."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא, רַבִּי יְהוּדָה אוֹמֵר: אַף הַמּוֹכֵר סֵפֶר תּוֹרָה, אֵין לָהּ אוֹנָאָה – לְפִי שֶׁאֵין קֵץ לְדָמֶיהָ. בְּהֵמָה וּמַרְגָּלִית, אֵין לָהֶם אוֹנָאָה – מִפְּנֵי שֶׁאָדָם רוֹצֶה לְזַוְּוגָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "provides_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:4:1",
+            "hebrew": "חשיבי ליה - וחביב לו זיווגן:",
+            "english": "",
+            "takeaway": "רש״י explains that חשיבי ליה means the person values the pairing (זיווג) of the items, which is why they are exempt from אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:4:2",
+            "hebrew": "ועד כמה - לא הוי אונאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question ועד כמה is asking up to what point the transaction is not considered אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:4:3",
+            "hebrew": "כדי דמיהם - כפליים:",
+            "english": "",
+            "takeaway": "רש״י defines כדי דמיהם as the standard threshold for אונאה, which is double the value (כפליים)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "The Rabbis' objection: וַהֲלֹא הַכֹּל אָדָם רוֹצֶה לְזַוְּוגָן?",
+      "stepSummary": "The Rabbis object that people want to pair ALL items, so Rabbi Yehuda's reason would exempt everything from Ona'ah.",
+      "whatsHappening": "The חֲכָמִים challenge רַבִּי יְהוּדָה's rationale, arguing it is too broad. This is a direct challenge to the previous explanation.",
+      "deeperAnalysis": "They argue that רוֹצֶה לְזַוְּוגָן applies to any item, like matching shoes. If this exempts from אוֹנָאָה, then no item would ever be subject to it. This attacks the specificity of the reason.",
+      "keyTerms": [
+        {
+          "term": "חֲכָמִים",
+          "meaning": "the Rabbis / Sages"
+        },
+        {
+          "term": "וַהֲלֹא הַכֹּל",
+          "meaning": "but isn't it the case that all..."
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא, רַבִּי יְהוּדָה בֶּן בְּתֵירָא אוֹמֵר:",
+          "english": "It is taught, Rabbi Yehuda ben Beteira says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף הַמּוֹכֵר סוּס וְסַיִיף וַחֲטִיטוֹם בַּמִּלְחָמָה –",
+          "english": "Even one who sells a horse and a sword and a helmet in war –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין לָהֶם אוֹנָאָה,",
+          "english": "They have no overcharge,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִפְּנֵי שֶׁיֵּשׁ בָּהֶן חַיֵּי נֶפֶשׁ.",
+          "english": "Because in them there is life of a soul."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרוּ לוֹ: וַהֲלֹא הַכֹּל אָדָם רוֹצֶה לְזַוְּוגָן?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:5:1",
+            "hebrew": "חטיטום - מגן:",
+            "english": "",
+            "takeaway": "רש״י explains that חטיטום refers to a מגן, a shield used in battle."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:5:2",
+            "hebrew": "במלחמה - בתוך המלחמה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that במלחמה means during the actual fighting, emphasizing the immediate danger to life."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna on Ona'at Devarim",
+      "stepSummary": "The Mishna introduces the prohibition of Ona'at Devarim, equating it with financial Ona'ah, and provides examples of verbal mistreatment.",
+      "whatsHappening": "The sugya opens with the מִשְׁנָה establishing the prohibition of אוֹנָאַת דְּבָרִים. This is a setup line introducing a new topic.",
+      "deeperAnalysis": "The מִשְׁנָה draws a parallel between financial exploitation and verbal mistreatment. It lists specific prohibitions: asking a non-seller about prices, reminding a בַּעַל תְּשׁוּבָה of past sins, or reminding a בֶּן גֵּרִים of their ancestors' past.",
+      "keyTerms": [
+        {
+          "term": "מִשְׁנָה",
+          "meaning": "Mishnaic teaching"
+        },
+        {
+          "term": "אוֹנָאַת דְּבָרִים",
+          "meaning": "verbal mistreatment"
+        },
+        {
+          "term": "בַּעַל תְּשׁוּבָה",
+          "meaning": "penitent"
+        },
+        {
+          "term": "בֶּן גֵּרִים",
+          "meaning": "child of converts"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ כְּשֵׁם שֶׁאוֹנָאָה בְּמִקָּח וּמִמְכָּר, כָּךְ אוֹנָאָה בִּדְבָרִים.",
+          "english": "Just as there is ona'a in purchase and sale, so is there ona'a in words."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא יֹאמַר לוֹ: בְּכַמָּה חֵפֶץ זֶה?",
+          "english": "One may not say to him: For how much is this item?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהוּא אֵינוֹ רוֹצֶה לִיקַּח.",
+          "english": "And he does not wish to purchase."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִם הָיָה בַּעַל תְּשׁוּבָה,",
+          "english": "If he is a penitent,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לֹא יֹאמַר לוֹ:",
+          "english": "One may not say to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "זְכוֹר מַעֲשֶׂיךָ הָרִאשׁוֹנִים.",
+          "english": "Remember your earlier deeds."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם הוּא בֶּן גֵּרִים,",
+          "english": "If he is a child of converts,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לֹא יֹאמַר לוֹ:",
+          "english": "One may not say to him:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "זְכוֹר מַעֲשֵׂה אֲבוֹתֶיךָ, שֶׁנֶּאֱמַר:",
+          "english": "Remember the deeds of your ancestors, as it is stated:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "״וְגֵר לֹא תוֹנֶה וְלֹא תִלְחָצֶנּוּ״.",
+          "english": "\"And a convert you shall not mistreat and not oppress him.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ כְּשֵׁם שֶׁאוֹנָאָה בְּמִקָּח וּמִמְכָּר, כָּךְ אוֹנָאָה בִּדְבָרִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading"
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The Baraita on Ona'at Devarim",
+      "stepSummary": "A Baraita explains that the verse 'Lo Tona' refers to Ona'at Devarim, not financial Ona'ah, which is covered by a different verse.",
+      "whatsHappening": "The גְּמָרָא cites a בְּרֵיתָא that derives אוֹנָאַת דְּבָרִים from the verse לֹא תוֹנוּ. This is a setup line introducing the derivation.",
+      "deeperAnalysis": "The בְּרֵיתָא uses a גְּזֵרָה שָׁוָה to derive אוֹנָאַת דְּבָרִים from לֹא תוֹנוּ. It argues that אוֹנָאַת מָמוֹן is already covered by a different verse, so לֹא תוֹנוּ must refer to verbal mistreatment.",
+      "keyTerms": [
+        {
+          "term": "גְּמָרָא",
+          "meaning": "Talmudic analysis"
+        },
+        {
+          "term": "לֹא תוֹנוּ",
+          "meaning": "you shall not mistreat"
+        },
+        {
+          "term": "אוֹנָאַת מָמוֹן",
+          "meaning": "financial exploitation"
+        },
+        {
+          "term": "גְּזֵרָה שָׁוָה",
+          "meaning": "verbal analogy"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ תָּנוּ רַבָּנַן:",
+          "english": "GEMARA: The Sages taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״לֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״ –",
+          "english": "\"You shall not mistreat one man his colleague\" –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּאוֹנָאַת דְּבָרִים הַכָּתוּב מְדַבֵּר.",
+          "english": "The verse speaks concerning verbal mistreatment."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַתָּה אוֹמֵר בְּאוֹנָאַת דְּבָרִים,",
+          "english": "You say concerning verbal mistreatment,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אוֹ אֵינוֹ אֶלָּא בְּאוֹנָאַת מָמוֹן?",
+          "english": "or is it only concerning monetary exploitation?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כְּשֶׁהוּא אוֹמֵר ״וְכִי תִמְכְּרוּ מִמְכָּר לַעֲמִיתֶךָ",
+          "english": "When it says \"And if you sell a sale to your colleague"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אוֹ קָנֹה מִיַּד עֲמִיתֶךָ״,",
+          "english": "or acquire from your colleague's hand\""
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי אוֹנָאַת מָמוֹן אָמוּר!",
+          "english": "Behold, monetary exploitation is stated!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הָא מָה אֲנִי מְקַיֵּים ״לֹא תוֹנוּ",
+          "english": "What then do I fulfill \"You shall not mistreat"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אִישׁ אֶת עֲמִיתוֹ״? בְּאוֹנָאַת דְּבָרִים.",
+          "english": "one man his colleague\"? Concerning verbal mistreatment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ תָּנוּ רַבָּנַן: ״לֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״ – בְּאוֹנָאַת דְּבָרִים הַכָּתוּב מְדַבֵּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:7:1",
+            "hebrew": "הא מה אני מקיים לא תונו באונאת דברים - דכל היכא דאיכא למדרש דרשינן ולא מוקמינן בלאוי יתירי:",
+            "english": "",
+            "takeaway": "תוספות explains that the Baraita derives אונאת דברים from the verse לֹא תוֹנוּ because the principle of דרש is preferred over leaving a verse as a superfluous prohibition (לָאו יָתֵיר)."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Examples of Ona'at Devarim",
+      "stepSummary": "The Baraita provides examples of Ona'at Devarim, including reminding a penitent of past sins, a convert's child of their ancestors' past, and a convert of their past dietary practices.",
+      "whatsHappening": "The בְּרֵיתָא lists specific examples of אוֹנָאַת דְּבָרִים. This is a setup line introducing the examples.",
+      "deeperAnalysis": "The בְּרֵיתָא provides concrete examples of verbal mistreatment, including reminding a penitent of past sins, a convert's child of their ancestors' past, and a convert of their past dietary practices. These examples illustrate the breadth of the prohibition.",
+      "keyTerms": [
+        {
+          "term": "זְכוֹר מַעֲשֶׂיךָ הָרִאשׁוֹנִים",
+          "meaning": "remember your earlier deeds"
+        },
+        {
+          "term": "זְכוֹר מַעֲשֵׂה אֲבוֹתֶיךָ",
+          "meaning": "remember the deeds of your ancestors"
+        },
+        {
+          "term": "פֶּה שֶׁאָכַל נְבֵלוֹת",
+          "meaning": "the mouth that ate unslaughtered carcasses"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָא כֵּיצַד? אִם הָיָה בַּעַל תְּשׁוּבָה,",
+          "english": "How so? If he was a penitent,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַל יֹאמַר לוֹ:",
+          "english": "do not say to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״זְכוֹר מַעֲשֶׂיךָ הָרִאשׁוֹנִים״.",
+          "english": "\"Remember your earlier deeds.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִם הָיָה בֶּן גֵּרִים,",
+          "english": "If he was a child of converts,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַל יֹאמַר לוֹ:",
+          "english": "do not say to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״זְכוֹר מַעֲשֵׂה אֲבוֹתֶיךָ״.",
+          "english": "\"Remember the deed of your ancestors.\""
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם הָיָה גֵּר וּבָא לִלְמוֹד תּוֹרָה,",
+          "english": "If he was a convert and came to study Torah,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַל יֹאמַר לוֹ:",
+          "english": "do not say to him:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״פֶּה שֶׁאָכַל נְבֵילוֹת וּטְרֵיפוֹת, שְׁקָצִים וּרְמָשִׂים,",
+          "english": "\"A mouth that ate carcasses and tereifot, loathsome creatures and creeping things,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "בָּא לִלְמוֹד תּוֹרָה שֶׁנֶּאֶמְרָה מִפִּי הַגְּבוּרָה״?",
+          "english": "comes to study Torah that was spoken from the mouth of the Almighty?\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָא כֵּיצַד? אִם הָיָה בַּעַל תְּשׁוּבָה, אַל יֹאמַר לוֹ: ״זְכוֹר מַעֲשֶׂיךָ הָרִאשׁוֹנִים״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:8:1",
+            "hebrew": "אם הוא בן גרים כו' - היינו זו אף זו דאפילו מעשה אבותיו אין לו להזכיר:",
+            "english": "",
+            "takeaway": "תוספות explains that the prohibition against reminding a convert's child of their ancestors' past applies even if the ancestors' actions were not inherently sinful, emphasizing the broad scope of the prohibition."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "Further Examples of Ona'at Devarim",
+      "stepSummary": "The Baraita continues with examples of Ona'at Devarim, including reminding someone of their suffering or loss, and sending donkey drivers to a non-seller.",
+      "whatsHappening": "The בְּרֵיתָא provides more examples of אוֹנָאַת דְּבָרִים. This is a setup line introducing additional examples.",
+      "deeperAnalysis": "The בְּרֵיתָא lists additional examples of verbal mistreatment, including reminding someone of their יִסּוּרִין or חֳלָאִים, and sending חַמָּרִים to a non-seller. These examples further illustrate the breadth of the prohibition.",
+      "keyTerms": [
+        {
+          "term": "יִסּוּרִין",
+          "meaning": "torments"
+        },
+        {
+          "term": "חֳלָאִים",
+          "meaning": "illnesses"
+        },
+        {
+          "term": "חַמָּרִים",
+          "meaning": "donkey drivers"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִם הָיוּ יִסּוּרִין בָּאִין עָלָיו,",
+          "english": "If afflictions come upon him,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם הָיוּ חֳלָאִים בָּאִין עָלָיו,",
+          "english": "If illnesses come upon him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ שֶׁהָיָה מְקַבֵּר אֶת בָּנָיו,",
+          "english": "Or if he is burying his children,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַל יֹאמַר לוֹ כְּדֶרֶךְ שֶׁאָמְרוּ לוֹ חֲבֵירָיו לְאִיּוֹב:",
+          "english": "Let one not say to him, as his companions said to Job:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״הֲלֹא יִרְאָתְךָ כִּסְלָתֶךָ תִּקְוָתְךָ וְתֹם דְּרָכֶיךָ.",
+          "english": "\"Is not your fear your confidence, your hope and the integrity of your ways."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "זְכׇר נָא מִי הוּא נָקִי אָבָד״.",
+          "english": "Remember now, who is innocent that perished?\""
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם הָיוּ חַמָּרִים מְבַקְּשִׁין תְּבוּאָה מִמֶּנּוּ,",
+          "english": "If donkey-drivers are seeking grain from him,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לֹא יֹאמַר לָהֶם:",
+          "english": "He shall not say to them:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״לְכוּ אֵצֶל פְּלוֹנִי שֶׁהוּא מוֹכֵר תְּבוּאָה״,",
+          "english": "\"Go to so-and-so, who sells grain,\""
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְיוֹדֵעַ בּוֹ שֶׁלֹּא מָכַר מֵעוֹלָם.",
+          "english": "And he knows about him that he never sold."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אַף לֹא יִתְלֶה עֵינָיו עַל הַמִּקָּח,",
+          "english": "Also he shall not cast his eyes upon the purchase,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "בְּשָׁעָה שֶׁאֵין לוֹ דָּמִים,",
+          "english": "At a time when he has no money,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "שֶׁהֲרֵי הַדָּבָר מָסוּר לַלֵּב,",
+          "english": "For the matter of the thing is entrusted to the heart,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "וְכׇל דָּבָר הַמָּסוּר לַלֵּב נֶאֱמַר בּוֹ ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״.",
+          "english": "And every matter entrusted to the heart, it is said about it, \"And you shall fear your God.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִם הָיוּ יִסּוּרִין בָּאִין עָלָיו, אִם הָיוּ חֳלָאִים בָּאִין עָלָיו, אוֹ שֶׁהָיָה מְקַבֵּר אֶת בָּנָיו, אַל יֹאמַר לוֹ כְּדֶרֶךְ שֶׁאָמְרוּ לוֹ חֲבֵירָיו לְאִיּוֹב.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:10:1",
+            "hebrew": "שהרי דבר המסור ללב - ולפיכך נאמר בו ויראת מאלהיך האי שהרי ליתן טעם למה נאמר בו יראה נקט ליה והכי קאמר שהרי כל הדברים הללו אין טובתן ורעתן מסורה להכיר אלא ללבו של עושה הוא יודע אם לעקל אם לעקלקלות ויכול הוא לומר לא עשיתי כי אם לטובה הייתי סבור שיש לך תבואה למכור או הייתי חפץ לקנות מקח זה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase דבר המסור ללב refers to matters where the intent (good or bad) is known only to the doer's heart, which is why the Torah adds ויראת מאלהיך to warn against such hidden verbal mistreatment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:10:2",
+            "hebrew": "וכל דבר המסור ללב - של אדם נאמר בו הוי ירא מן היודע מחשבות אם לטובה אם לאונאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ויראת מאלהיך applies to any matter dependent on the heart, warning one to fear the One who knows thoughts, whether the intent is for good or for mistreatment."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:9:1",
+            "hebrew": "הלא יראתך כסלתך - פירוש לשון בטחון כמו שמתי זהב כסלי (איוב ל״א:כ״ד) וכמו אשר יקוט כסלו וגו' (שם ח) כלומר היה לך לירא מהקב\"ה וזה היה בטחונך ותום דרכיך היא תקותך זכר נא מי הוא נקי ואבד אם היית נקי לא היית אובד וסוף פרק הנחנקין (סנהדרין ד' פט:) יש לפרש כמו כן לשון בטחון ולא לשון סכלות דא\"ל לאברהם הלא יראתך כסלתך כלומר מה שאתה ירא מהקב\"ה היה לך להיות בטחונך והרי אתה מפסיד בדבר שאתה שוחט בנך:",
+            "english": "",
+            "takeaway": "תוספות explains that כסלתך in the verse refers to trust (בטחון) in God, arguing that Job's friends wrongly implied that if Job were truly righteous and trusting in God, he would not have suffered, and applies this same interpretation to the verse in סנהדרין regarding אברהם."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "Rabbi Yehuda's Addition",
+      "stepSummary": "Rabbi Yehuda adds that one may not even look at merchandise without intending to buy it, as this is also a form of Ona'at Devarim.",
+      "whatsHappening": "רַבִּי יְהוּדָה expands the prohibition of אוֹנָאַת דְּבָרִים to include non-verbal actions. This is a setup line introducing a new ruling.",
+      "deeperAnalysis": "רַבִּי יְהוּדָה adds that one may not even יִתְלֶה עֵינָיו at merchandise without intending to buy it, as this is also a form of אוֹנָאַת דְּבָרִים. This expands the prohibition to include non-verbal actions that cause distress.",
+      "keyTerms": [
+        {
+          "term": "יִתְלֶה עֵינָיו",
+          "meaning": "cast his eyes"
+        },
+        {
+          "term": "מָסוּר לַלֵּב",
+          "meaning": "given to the heart"
+        },
+        {
+          "term": "וְיָרֵאתָ מֵאֱלֹהֶיךָ",
+          "meaning": "and you shall fear your God"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִם הָיוּ חַמָּרִים מְבַקְּשִׁין תְּבוּאָה מִמֶּנּוּ,",
+          "english": "If donkey drivers were seeking grain from him,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא יֹאמַר לָהֶם:",
+          "english": "he shall not say to them:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״לְכוּ אֵצֶל פְּלוֹנִי שֶׁהוּא מוֹכֵר תְּבוּאָה״,",
+          "english": "\"Go to so-and-so who sells grain\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְיוֹדֵעַ בּוֹ שֶׁלֹּא מָכַר מֵעוֹלָם.",
+          "english": "and he knows about him that he never sold."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַף לֹא יִתְלֶה עֵינָיו עַל הַמִּקָּח,",
+          "english": "Also he shall not cast his eyes upon the purchase,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בְּשָׁעָה שֶׁאֵין לוֹ דָּמִים,",
+          "english": "at a time when he has no money,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "שֶׁהֲרֵי הַדָּבָר מָסוּר לַלֵּב,",
+          "english": "for the matter is entrusted to the heart,",
+          "notes": "Refers to internal intent or feelings, which are not externally observable."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְכׇל דָּבָר הַמָּסוּר לַלֵּב נֶאֱמַר בּוֹ ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״.",
+          "english": "and every matter entrusted to the heart it is said about it \"and you shall fear your God.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי יְהוּדָה אוֹמֵר: אַף לֹא יִתְלֶה עֵינָיו עַל הַמִּקָּח, בְּשָׁעָה שֶׁאֵין לוֹ דָמִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:10:1",
+            "hebrew": "שהרי דבר המסור ללב - ולפיכך נאמר בו ויראת מאלהיך האי שהרי ליתן טעם למה נאמר בו יראה נקט ליה והכי קאמר שהרי כל הדברים הללו אין טובתן ורעתן מסורה להכיר אלא ללבו של עושה הוא יודע אם לעקל אם לעקלקלות ויכול הוא לומר לא עשיתי כי אם לטובה הייתי סבור שיש לך תבואה למכור או הייתי חפץ לקנות מקח זה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״ applies here because the intent behind such actions is hidden in the heart, allowing the person to claim they acted with good intentions."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:10:2",
+            "hebrew": "וכל דבר המסור ללב - של אדם נאמר בו הוי ירא מן היודע מחשבות אם לטובה אם לאונאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״ refers to fearing God, who knows the thoughts of the heart, whether they are for good or for deception."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The Severity of אוֹנָאַת דְּבָרִים",
+      "stepSummary": "Rabbi Yochanan states that Ona'at Devarim is more severe than financial Ona'ah, as it is accompanied by the verse 'V'Yareita Me'Elohecha'.",
+      "whatsHappening": "The גְּמָרָא introduces a מִימְרָא from רַבִּי יוֹחָנָן regarding the severity of verbal mistreatment. This is a setup line establishing the primary focus of the discussion.",
+      "deeperAnalysis": "רַבִּי יוֹחָנָן states that verbal mistreatment is greater than financial exploitation. He derives this from the additional verse 'וְיָרֵאתָ מֵאֱלֹהֶיךָ' attached to the prohibition, indicating a higher spiritual stringency.",
+      "keyTerms": [
+        {
+          "term": "גָּדוֹל אוֹנָאַת דְּבָרִים מֵאוֹנָאַת מָמוֹן",
+          "meaning": "verbal mistreatment is greater than financial exploitation"
+        },
+        {
+          "term": "וְיָרֵאתָ מֵאֱלֹהֶיךָ",
+          "meaning": "and you shall fear your God"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי:",
+          "english": "Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "גָּדוֹל אוֹנָאַת דְּבָרִים מֵאוֹנָאַת מָמוֹן,",
+          "english": "Greater is the transgression of verbal mistreatment than the transgression of monetary exploitation,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁזֶּה נֶאֱמַר בּוֹ ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״,",
+          "english": "for with regard to this it is stated: 'And you shall fear your God.'"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְזֶה לֹא נֶאֱמַר בּוֹ ״וְיָרֵאתָ מֵאֱלֹהֶיךָ״.",
+          "english": "and with regard to that it is not stated: 'And you shall fear your God.'"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרַבִּי אֶלְעָזָר אוֹמֵר: זֶה בְּגוּפוֹ וְזֶה בְּמָמוֹנוֹ.",
+          "english": "And Rabbi Elazar says: This affects one's body, and that affects one's money."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי שְׁמוּאֵל בַּר נַחְמָנִי אָמַר:",
+          "english": "Rabbi Shmuel bar Naḥmani says:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "זֶה נִיתַּן לְהִישָּׁבוֹן,",
+          "english": "This is given to restitution,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְזֶה לֹא נִיתַּן לְהִישָּׁבוֹן.",
+          "english": "and that is not given to restitution."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: גָּדוֹל אוֹנָאַת דְּבָרִים מֵאוֹנָאַת מָמוֹן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        61
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:11:1",
+            "hebrew": "זה בגופו וזה בממונו - והא דאמרי' פרק הגוזל בתרא (ב\"ק ד' קיט.) הגוזל לחבירו שוה פרוטה כאילו גזל נשמתו היינו משום דפעמים רעב כבד ואין לו במה לקנות אבל יש הרבה בני אדם שאינם חסרים כל כך:",
+            "english": "",
+            "takeaway": "תוספות explains that רבי אלעזר's statement that Ona'at Devarim affects the person (בגופו) while financial Ona'ah affects only property (בממונו) is reconciled with the statement in בבא קמא that stealing a prutah is like stealing a soul, by noting that the latter applies only in cases of severe hunger where the money is essential for survival, whereas many people are not in such dire straits."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "Public Humiliation as Spilling Blood",
+      "stepSummary": "A Tanna teaches that humiliating someone in public is like spilling blood.",
+      "whatsHappening": "The גְּמָרָא cites a תַּנָּא who equates public humiliation with spilling blood. This is a transition line introducing a new, more severe comparison.",
+      "deeperAnalysis": "The תַּנָּא teaches that humiliating someone in public is like spilling blood. רַב נַחְמָן בַּר יִצְחָק explains this by noting the victim's face turns from red to pale, visually resembling blood loss.",
+      "keyTerms": [
+        {
+          "term": "מַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים",
+          "meaning": "humiliates another in public"
+        },
+        {
+          "term": "כְּאִילּוּ שׁוֹפֵךְ דָּמִים",
+          "meaning": "as though he were spilling blood"
+        },
+        {
+          "term": "סוּמָקָא וְאָתֵי חִוּוֹרָא",
+          "meaning": "blushes and then turns pale"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן בַּר יִצְחָק:",
+          "english": "A tanna taught before Rav Naḥman bar Yitzḥak:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל הַמַּלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "Anyone who humiliates his fellow's face in public,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כְּאִילּוּ שׁוֹפֵךְ דָּמִים. אֲמַר לֵיהּ:",
+          "english": "it is as though he were spilling blood. He said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שַׁפִּיר קָא אָמְרַתְּ,",
+          "english": "You have spoken well,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּחָזֵינָא לֵיהּ דְּאָזֵיל סוּמָּקָא וְאָתֵי חִוּוֹרָא.",
+          "english": "for we see him going out red and coming in pale."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי לְרַב דִּימִי: בְּמַעְרְבָא בְּמַאי זְהִירִי?",
+          "english": "Abaye said to Rav Dimi: In the West, in what are they vigilant?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲמַר לֵיהּ: בְּאַחְווֹרֵי אַפֵּי,",
+          "english": "He said to him: In refraining from humiliating faces,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּאָמַר רַבִּי חֲנִינָא:",
+          "english": "for Rabbi Ḥanina says:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הַכֹּל יוֹרְדִין לְגֵיהִנָּם, חוּץ מִשְּׁלֹשָׁה.",
+          "english": "All descend to Gehenna, except for three."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנֵי תַנָּא קַמֵּיהּ דְּרַב נַחְמָן בַּר יִצְחָק: כָּל הַמַּלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים, כְּאִילּוּ שׁוֹפֵךְ דָּמִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        63
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:12:1",
+            "hebrew": "דאזיל סומקא ואתי חיור - ומה שמאדים בתחילה לפי שהדמים מתאספין לברוח:",
+            "english": "",
+            "takeaway": "תוספות explains that the initial reddening of the face occurs because the blood gathers to escape, before the person turns pale."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "Rabbi Chanina on Gehenna",
+      "stepSummary": "Rabbi Chanina teaches that everyone who descends to Gehenna ultimately ascends, except for three who descend and do not ascend.",
+      "whatsHappening": "The גְּמָרָא presents a מִימְרָא from רַבִּי חֲנִינָא regarding eternal punishment. This is a setup line introducing the ultimate consequence of certain sins.",
+      "deeperAnalysis": "רַבִּי חֲנִינָא teaches that all who descend to Gehenna eventually ascend, except for three specific sins. Public humiliation is listed among these three sins that prevent ascent from Gehenna.",
+      "keyTerms": [
+        {
+          "term": "יֹרְדִין לְגֵיהִנָּם",
+          "meaning": "descends to Gehenna"
+        },
+        {
+          "term": "עוֹלִים",
+          "meaning": "ascends"
+        },
+        {
+          "term": "הַבָּא עַל אֵשֶׁת אִישׁ",
+          "meaning": "one who engages in intercourse with a married woman"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן בַּר יִצְחָק:",
+          "english": "A tanna taught before Rav Naḥman bar Yitzḥak:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל הַמַּלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "Anyone who humiliates his friend's face in public,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כְּאִילּוּ שׁוֹפֵךְ דָּמִים. אֲמַר לֵיהּ:",
+          "english": "it is as though he were spilling blood. He said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שַׁפִּיר קָא אָמְרַתְּ,",
+          "english": "You have spoken well,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּחָזֵינָא לֵיהּ דְּאָזֵיל סוּמָּקָא וְאָתֵי חִוּוֹרָא.",
+          "english": "for we see him going red and coming pale."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי לְרַב דִּימִי: בְּמַעְרְבָא בְּמַאי זְהִירִי?",
+          "english": "Abaye said to Rav Dimi: In the West, in what are they vigilant?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲמַר לֵיהּ: בְּאַחְווֹרֵי אַפֵּי,",
+          "english": "He said to him: In refraining from humiliating faces,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּאָמַר רַבִּי חֲנִינָא:",
+          "english": "for Rabbi Ḥanina says:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הַכֹּל יוֹרְדִין לְגֵיהִנָּם, חוּץ מִשְּׁלֹשָׁה.",
+          "english": "All descend to Gehenna, except for three."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הַכֹּל סָלְקָא דַּעְתָּךְ? אֶלָּא אֵימָא:",
+          "english": "Do all ascend in your mind? Rather, say:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "כָּל הַיּוֹרְדִין לְגֵיהִנָּם עוֹלִים,",
+          "english": "All who descend to Gehenna ascend,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "חוּץ מִשְּׁלֹשָׁה שֶׁיּוֹרְדִין וְאֵין עוֹלִין.",
+          "english": "except for three who descend and do not ascend."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְאֵלּוּ הֵן: הַבָּא עַל אֵשֶׁת אִישׁ,",
+          "english": "And these are they: One who comes upon a man's wife,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְהַמַּלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "and one who humiliates his friend's face in public,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "וְהַמְכַנֶּה שֵׁם רַע לַחֲבֵירוֹ.",
+          "english": "and one who calls a bad name for his friend."
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "מְכַנֶּה הַיְינוּ מַלְבִּין?",
+          "english": "Calling is it humiliating?"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "אַף עַל גַּב דְּדָשׁ בֵּיהּ בִּשְׁמֵיהּ.",
+          "english": "Even though he grew accustomed to it with his name."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: בְּאַחְווֹרֵי אַפֵּי, דְּאָמַר רַבִּי חֲנִינָא: הַכֹּל יוֹרְדִין לְגֵיהִנָּם, חוּץ מִשְּׁלֹשָׁה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:13:1",
+            "hebrew": "הכל ס\"ד - וכי הכל יורדין:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's initial assumption (ס"
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:12:1",
+            "hebrew": "דאזיל סומקא ואתי חיור - ומה שמאדים בתחילה לפי שהדמים מתאספין לברוח:",
+            "english": "",
+            "takeaway": "תוספות explains that the initial redness of the face when embarrassed is due to blood gathering to escape."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:13:1",
+            "hebrew": "חוץ מג' שיורדין ואין עולין - אין לפרש דאין עולין לעולם דהא אמרינן בסמוך הבא על אשת איש יש לו חלק לעולם הבא אלא ה\"פ כל היורדין עולין מיד ואין אור של גיהנם שולט בהן כדאמרינן בפרק עושין פסין (עירובין ד' יט.) ק\"ו ממזבח הזהב ובפרק בתרא דחגיגה (ד' כז.) עביד ק\"ו מסלמנדרא חוץ מג' דאין עולין מיד אבל יש מהם נדונין לעולם המלבין פני חבירו ברבים דאמר בסמוך אין לו חלק לעולם הבא ויש שעולין לאחר י\"ב חדש כגון הבא על אשת איש דמשפט רשעי ישראל בגיהנם י\"ב חדש אי נמי מלבין נמי נהי דאין לו חלק לעולם הבא אינם נדונין יותר מי\"ב חדש אלא לאחר י\"ב חדש לא חיין ולא נדונין ושרוים בלא טובה ובלא רעה וניחא השתא דלא חשיב מינים ואפיקורסים שאותם נדונין לדורי דורות כדאמר בפ\"ק דר\"ה (ד' יז. ושם. ד\"ה כי) דגיהנם כלה והם אינם כלים ומיהו תימה דלא חשיב פושעי ישראל בגופם כגון קרקפתא דלא מנח תפילין דאמרינן בר\"ה (שם) שיורדין ונדונין בה י\"ב חדש ואח\"כ גופן ונשמתן נשרפת ונעשים אפר תחת כפות רגליהם של צדיקים ונראה דלא רצה למנות אותם ששנויים בברייתא דלא היה משמיענו שום חדוש והא דחשיב מלבין אע\"ג דתנא ליה במס' אבות (פ\"ג מי\"ב) אגב מכנה נקיט ליה ומכנה איצטריך לאשמועינן אע\"ג דדש ביה בשמיה והא דלא חשיב הבא על הכותית דאמר בעושין פסין (עירובין ד' יט. ושם ד\"ה בר) דלא מסיק ליה אברהם אבינו דממשכה עורלתיה ולא מבשקר ליה דלא חשיב אלא הני דבשביל עבירה זו לבדה אין עולים כדתניא אע\"פ שיש בידו תורה ומעשים טובים אבל הבא על הכותית בשביל עבירה זו לבדה אינו נענש אם לא שיש בידו עבירות אחרות שראוי בשבילם לירד לגיהנם אלא שעבירה זו גורמת לו דאין אברהם אבינו מעלהו מיד אלא שיהא שם י\"ב חדש וכולהו בשלא עשה תשובה דתשובה מועלת לכל דבר ואיכא למאן דאמר (ברכות ד' לד:) דבעלי תשובה גדולים מאותן שהיו צדיקים לעולם:",
+            "english": "",
+            "takeaway": "תוספות clarifies that 'do not ascend' does not mean eternal punishment, but rather that they do not ascend immediately, with some remaining in Gehenna for twelve months or existing in a state of neither good nor evil, and excludes heretics who are punished for generations."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "The Gemara's Challenge to Rabbi Chanina",
+      "stepSummary": "The Gemara challenges Rabbi Chanina's teaching, asking if it really means that everyone descends to Gehenna.",
+      "whatsHappening": "The גְּמָרָא challenges the literal understanding of רַבִּי חֲנִינָא's statement. This is a קוֹשְׁיָא questioning the scope of the punishment.",
+      "deeperAnalysis": "The גְּמָרָא asks if it really means everyone descends to Gehenna. It clarifies that the statement must mean everyone who descends eventually ascends, except for the three specific cases mentioned.",
+      "keyTerms": [
+        {
+          "term": "הַכֹּל סָלְקָא דַעְתָּךְ",
+          "meaning": "does it enter your mind"
+        },
+        {
+          "term": "יֹרְדִין וְאֵין עוֹלִים",
+          "meaning": "descends and does not ascend"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַכֹּל סָלְקָא דַּעְתָּךְ? אֶלָּא אֵימָא:",
+          "english": "Does it enter your mind that all?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כָּל הַיּוֹרְדִין לְגֵיהִנָּם עוֹלִים,",
+          "english": "Rather, say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חוּץ מִשְּׁלֹשָׁה שֶׁיּוֹרְדִין וְאֵין עוֹלִין.",
+          "english": "All who descend to Gehenna ascend,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵלּוּ הֵן: הַבָּא עַל אֵשֶׁת אִישׁ,",
+          "english": "Except for three who descend and do not ascend."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהַמַּלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "And these are they: One who comes upon a man's wife,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהַמְכַנֶּה שֵׁם רַע לַחֲבֵירוֹ.",
+          "english": "And one who shames his friend's face in public,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מְכַנֶּה הַיְינוּ מַלְבִּין?",
+          "english": "And one who calls a bad name to his friend."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַף עַל גַּב דְּדָשׁ בֵּיהּ בִּשְׁמֵיהּ.",
+          "english": "Calling is it shaming?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַכֹּל סָלְקָא דַעְתָּךְ? אֶלָּא אֵימָא: כָּל הַיּוֹרְדִין לְגֵיהִנָּם עוֹלִים, חוּץ מִשְּׁלֹשָׁה שֶׁיּוֹרְדִין וְאֵין עוֹלִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:13:1",
+            "hebrew": "הכל ס\"ד - וכי הכל יורדין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's question 'הַכֹּל סָלְקָא דַּעְתָּךְ?' is challenging the assumption that everyone descends to Gehenna."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:13:2",
+            "hebrew": "ה\"ג כל היורדין לגיהנם עולין:",
+            "english": "",
+            "takeaway": "רש״י notes the correct text should read 'כּל היורדין לגיהנם עולין' (all who descend to Gehenna ascend)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58b:13:3",
+            "hebrew": "דדש ביה - כבר הורגל בכך שמכנים אותו כן ואין פניו מתלבנות ומכל מקום זה להכלימו מתכוין:",
+            "english": "",
+            "takeaway": "רש״י explains that 'דדש ביה' means the person is already accustomed to the derogatory name, so their face does not turn white, yet the intent of the one naming them is still to shame them."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58b:13:1",
+            "hebrew": "חוץ מג' שיורדין ואין עולין - אין לפרש דאין עולין לעולם דהא אמרינן בסמוך הבא על אשת איש יש לו חלק לעולם הבא אלא ה\"פ כל היורדין עולין מיד ואין אור של גיהנם שולט בהן כדאמרינן בפרק עושין פסין (עירובין ד' יט.) ק\"ו ממזבח הזהב ובפרק בתרא דחגיגה (ד' כז.) עביד ק\"ו מסלמנדרא חוץ מג' דאין עולין מיד אבל יש מהם נדונין לעולם המלבין פני חבירו ברבים דאמר בסמוך אין לו חלק לעולם הבא ויש שעולין לאחר י\"ב חדש כגון הבא על אשת איש דמשפט רשעי ישראל בגיהנם י\"ב חדש אי נמי מלבין נמי נהי דאין לו חלק לעולם הבא אינם נדונין יותר מי\"ב חדש אלא לאחר י\"ב חדש לא חיין ולא נדונין ושרוים בלא טובה ובלא רעה וניחא השתא דלא חשיב מינים ואפיקורסים שאותם נדונין לדורי דורות כדאמר בפ\"ק דר\"ה (ד' יז. ושם. ד\"ה כי) דגיהנם כלה והם אינם כלים ומיהו תימה דלא חשיב פושעי ישראל בגופם כגון קרקפתא דלא מנח תפילין דאמרינן בר\"ה (שם) שיורדין ונדונין בה י\"ב חדש ואח\"כ גופן ונשמתן נשרפת ונעשים אפר תחת כפות רגליהם של צדיקים ונראה דלא רצה למנות אותם ששנויים בברייתא דלא היה משמיענו שום חדוש והא דחשיב מלבין אע\"ג דתנא ליה במס' אבות (פ\"ג מי\"ב) אגב מכנה נקיט ליה ומכנה איצטריך לאשמועינן אע\"ג דדש ביה בשמיה והא דלא חשיב הבא על הכותית דאמר בעושין פסין (עירובין ד' יט. ושם ד\"ה בר) דלא מסיק ליה אברהם אבינו דממשכה עורלתיה ולא מבשקר ליה דלא חשיב אלא הני דבשביל עבירה זו לבדה אין עולים כדתניא אע\"פ שיש בידו תורה ומעשים טובים אבל הבא על הכותית בשביל עבירה זו לבדה אינו נענש אם לא שיש בידו עבירות אחרות שראוי בשבילם לירד לגיהנם אלא שעבירה זו גורמת לו דאין אברהם אבינו מעלהו מיד אלא שיהא שם י\"ב חדש וכולהו בשלא עשה תשובה דתשובה מועלת לכל דבר ואיכא למאן דאמר (ברכות ד' לד:) דבעלי תשובה גדולים מאותן שהיו צדיקים לעולם:",
+            "english": "",
+            "takeaway": "תוספות explains that 'אין עולין' does not mean they never ascend, but rather that they do not ascend immediately, as some are judged for twelve months or remain in a state of neither good nor evil, while heretics are judged for generations."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "Rabba bar bar Chana on Public Humiliation",
+      "stepSummary": "Rabba bar bar Chana teaches that it is better to have relations with a doubtfully married woman than to embarrass someone in public.",
+      "whatsHappening": "The גְּמָרָא cites a מִימְרָא from רַבָּא בַר בַּר חָנָא comparing humiliation to adultery. This is a setup line introducing a hyperbolic comparison.",
+      "deeperAnalysis": "רַבָּא בַר בַּר חָנָא teaches it is better to have relations with a doubtfully married woman than to embarrass someone in public. This elevates the severity of public humiliation above even severe sexual transgressions.",
+      "keyTerms": [
+        {
+          "term": "נוֹחַ לוֹ לְאָדָם",
+          "meaning": "it is better for a man"
+        },
+        {
+          "term": "סְפֵק אֵשֶׁת אִישׁ",
+          "meaning": "doubtfully married woman"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabba bar bar Ḥana says that Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נוֹחַ לוֹ לְאָדָם שֶׁיָּבוֹא עַל סְפֵק אֵשֶׁת אִישׁ,",
+          "english": "It is better for a man to come upon a doubtful married woman,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאַל יַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים.",
+          "english": "and not to embarrass his friend in public."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְנָא לַן? מִדְּדָרֵשׁ רָבָא, דְּדָרֵשׁ רָבָא:",
+          "english": "From where do we know this? From the interpretation of Rava, that Rava interpreted:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי דִּכְתִיב ״וּבְצַלְעִי שָׂמְחוּ וְנֶאֱסָפוּ.",
+          "english": "What is written: 'And in my side they rejoiced and gathered together."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": ". . קָרְעוּ וְלֹא דָמּוּ״?",
+          "english": "They tore and did not cease'?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא:",
+          "english": "David said before the Holy One, Blessed be He:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "רִבּוֹנוֹ שֶׁל עוֹלָם,",
+          "english": "Master of the Universe,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "גָּלוּי וְיָדוּעַ לְפָנֶיךָ,",
+          "english": "It is revealed and known before You,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "שֶׁאִם הָיוּ מְקָרְעִים בְּשָׂרִי,",
+          "english": "that if they were to tear my flesh,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "לֹא הָיָה דָּמִי שׁוֹתֵת לָאָרֶץ.",
+          "english": "my blood would not stop to the ground."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְלֹא עוֹד אֶלָּא,",
+          "english": "And not only that,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֲפִילּוּ בְּשָׁעָה שֶׁעוֹסְקִין בִּנְגָעִים וְאֹהָלוֹת,",
+          "english": "even at the time when they are engaged with impurities and tents,",
+          "notes": "Refers to the laws of ritual impurity and mourning."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "אוֹמְרִים לִי: דָּוִד,",
+          "english": "they say to me: David,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "הַבָּא עַל אֵשֶׁת אִישׁ,",
+          "english": "the one who comes upon a married woman,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "מִיתָתוֹ בַּמֶּה? וַאֲנִי אוֹמֵר לָהֶם: מִיתָתוֹ בְּחֶנֶק,",
+          "english": "what is his death? And I say to them: his death is by strangulation,"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "וְיֵשׁ לוֹ חֵלֶק לָעוֹלָם הַבָּא.",
+          "english": "and he has a portion in the World to Come."
+        },
+        {
+          "phraseNumber": 18,
+          "aramaic": "אֲבָל הַמַּלְבִּין אֶת פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "But the one who embarrasses his friend in public,"
+        },
+        {
+          "phraseNumber": 19,
+          "aramaic": "אֵין לוֹ חֵלֶק לָעוֹלָם הַבָּא.",
+          "english": "he has no portion in the World to Come."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבָּה בַר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: נוֹחַ לוֹ לְאָדָם שֶׁיָּבוֹא עַל סְפֵק אֵשֶׁת אִישׁ, וְאַל יַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        70
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T07:00:55.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 108.45061060000444,
+      "structure": 2204.322860999964,
+      "validate": 290.2013549998519,
+      "translate": 495.9347777001094,
+      "meforshim": 799.7686734999879,
+      "teaching": 991.1941752999555
+    }
+  }
+}

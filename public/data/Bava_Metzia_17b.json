@@ -1,0 +1,723 @@
+{
+  "ref": "Bava Metzia 17b",
+  "masechet": "Bava_Metzia",
+  "daf": 17,
+  "amud": "b",
+  "mainTopic": "(continues) הטוען לאחר מעשה בית דין",
+  "overview": "Rabbi Yochanan rules that one cannot claim against a court's decision, likening it to holding a document; Abaye challenges this regarding a woman collecting her ketubah without a document, leading to a discussion on the validity of the get as a ketubah in places where ketubot are not written. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 10,
+      "topic": "(continues) הטוען לאחר מעשה בית דין",
+      "gist": "Rabbi Yochanan rules that one cannot claim against a court's decision, likening it to holding a document; Abaye challenges this regarding a woman collecting her ketubah without a document, leading to a discussion on the validity of the get as a ketubah in places where ketubot are not written. — discussion continues into next amud.",
+      "openingFormula": "אמר רבי חייא בר אבא אמר רבי יוחנן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah in Ketubot",
+      "stepSummary": "Rabbi Chiya bar Abba challenges Rabbi Yochanan by citing a Mishnah that seems to already teach this principle.",
+      "whatsHappening": "רבי חייא בר אבא questions whether רבי יוחנן is adding anything new, pointing to a Mishna in Ketubot. This is a setup line introducing a redundancy challenge.",
+      "deeperAnalysis": "The challenge is a redundancy attack: if the Mishnah already teaches that a woman with a גט but no כתובה can collect her כתובה, then the principle that a court enactment acts like a document is already established. Why does רבי יוחנן need to state it as a new rule?",
+      "keyTerms": [
+        {
+          "term": "וְלֹא מִשְׁנָתֵינוּ הִיא זוֹ?",
+          "meaning": "Is this not our Mishnah?"
+        },
+        {
+          "term": "הוֹצִיאָה גֵּט וְאֵין עִמּוֹ כְּתוּבָה",
+          "meaning": "She produced a bill of divorce and there is no marriage contract with it"
+        },
+        {
+          "term": "גּוֹבָה כְּתוּבָתָהּ",
+          "meaning": "She collects her marriage contract"
+        }
+      ],
+      "whatToRemember": "The Mishnah in Ketubot teaches that a גט serves as proof for collecting the כתובה even without a separate document.",
+      "confusionAlert": "The Mishnah is from Ketubot 88b, dealing with a woman who has a גט but no כתובה.",
+      "whyThisMatters": "This sets up the need to understand the relationship between explicit Mishnaic rulings and underlying principles.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַבִּי חִיָּיא בַּר אַבָּא לְרַבִּי יוֹחָנָן:",
+          "english": "Rabbi Ḥiyya bar Abba said to Rabbi Yoḥanan:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלֹא מִשְׁנָתֵינוּ הִיא זוֹ?",
+          "english": "And is this not our Mishnah?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוֹצִיאָה גֵּט וְאֵין עִמּוֹ כְּתוּבָּה – גּוֹבָה כְּתוּבָּתָהּ.",
+          "english": "She produced a get and there is no ketubah with it — she collects her ketubah."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַבִּי חִיָּיא בַּר אַבָּא לְרַבִּי יוֹחָנָן: וְלֹא מִשְׁנָתֵינוּ הִיא זוֹ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 17b:2:1",
+            "hebrew": "הוציאה גט [ואין עמו כתובה] גובה כתובתה - והכי פירושא דמתני' לר' יוחנן הוציאה גט אפי' עדי הגט ואע\"פ שמודה שכתובה וגט בידה נפרעת בעדי הגט דכותבין שובר הוציאה כתובתה ואין עמה גט פי' עדי הגט היא אומרת אבד גיטי שהלכו להם עדי הגט והוא אומר פרעתי ואבד שוברי שעשו לי שלא תגבה שנית נאמן במגו דאי בעי אמר לא גרשתיך וא\"ת אם אמר לא גרשתיך יתחייב לה שאר כסות ועונה וי\"ל דטענו חטין והודה לו בשעורין פטור אף מן השעורין כדאיתא בהמניח (ב\"ק דף לה:) והא דתניא בריש שני דייני גזירות (כתובות דף קז:) האשה שאמרה גרשני בעלי מתפרנסת עד כדי כתובתה התם שמא אם היה הבעל בפנינו היה מודה לדבריה אבל אם היה אומר לא גרשתיך פטור אף מן המזונות וא\"ת והיכי מצי אמר לא גרשתיך הא איהי מהימנא דאמר רב המנונא. אשה שאמרה לבעלה גירשתני נאמנת יש לומר אם תובעת כתובתה או אם יש קטטה בינו לבינה אינה נאמנת כמו במת בעלה דנאמנת ובזה הענין אינה נאמנת בפ' האשה שהלכה (יבמות דף קטז. קיז.) ומן הסכנה ואילך שיראה להביא עדי הגט נפרעת אע\"פ שיש לו מגו ואע\"ג דבשילהי הכותב (כתובות דף פט: ושם) פריך אי ליכא עדי גירושין במאי גביא ליהמניה במגו היינו דוקא לרב דלית ליה דר' יוחנן דאמר הכא דלא אמר כלום אבל לר' יוחנן שיפה כחה קודם הסכנה שאינו נאמן לומר פרעתי לאחר הסכנה נמי יש ליפות כחה דלא יועיל מגו שלו ואיירי כולה מתני' אף במקום שכותבין כתובה ואביי נמי מסיק כר' יוחנן ומוקי מתני' אף במקום שכותבין כתובה וקשה דבפרק גט פשוט (ב\"ב דף קעא:) אמר אביי אבד שוברו של זה יאכל הלה וחדי משמע דסבר דאין כותבין שובר וא\"כ הוציאה גט ואין עמו כתובה אמאי נפרעת הא כיון דמפסיד במה שנשאר שטר כתובה בידה כדפירש' לא יפרע עד שתוציא כתובה ויקרעוה ויש לומר דאביי קבל דברי רבא דאמר עבד לוה לאיש מלוה ובפרק המקנא (סוטה דף ז: ושם ד\"ה אמר) דתנן אמרה נטמאתי שוברת כתובתה ופריך בגמ' ש\"מ דכותבין שובר אמר אביי תני מקרעת דחויא בעלמא הוא כלומר מהכא לא תדוק שגם רבא דאית ליה כותבין שובר דחי התם במקום שאין כותבין כתובה ושמואל דאית ליה אין כותבין שובר ומוקי הך מתני' פרק הכותב במקום שאין כותבין כתובה מצי סבר כר' יוחנן דלא אמר כלום והוציאה הגט היינו עדי הגט ואע\"פ שמפסיד בגט שנשאר בידה שאם לא היה בידה יכול לומר פעם אחרת אם יפסיד שוברו לא גרשתיך אם אין לה עדי הגט מ\"מ היא תאמר בעינא לאנסובי ביה דלית ליה דכתבינן ביה גיטא דנן קרענוהו כאביי דבסמוך והוי כמו היכא דלא אפשר דכתבינן שובר כדאיתא בשילהי הכותב (כתובות דף פט: ושם) כתובה ואין עמה גט שכך אירע שכתב לה ואין עמה גט היינו עדי הגט לא יפרע דנאמן לומר פרעתי מגו דלא גרשתיך ומן הסכנה ואילך גובה אפילו בלא עדי הגט כדפרישית לר\"י ורב מוקי התם מתני' בין במקום שאין כותבין כתובה בין במקום שכותבין כתובה וגביא מנה מאתים ע\"י שטר גט וקרעינן ליה דלא תיהדר ותגבי ביה וכתבינן ע\"ג גיטא דנן כו' ופליג אאביי דבסמוך ותוספת ע\"י כתובה לבדה עם עדי הגט שלא יהא לו מגו דלא גרשתיך ופליג נמי ארבי יוחנן דאמר לא אמר כלום וגביא בעדי הגט גרידא:",
+            "english": "",
+            "takeaway": "תוספות explains that according to רבי יוחנן, the Mishnah in כתובות means that if a woman produces a גט, she can collect her כתובה even if the husband claims he paid it and lost the receipt, because the court's enactment strengthens her claim and negates his מגו defense."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "רבי יוחנן's response: lifting the shard to find the pearl",
+      "stepSummary": "Rabbi Yochanan responds that he clarified the underlying principle that the Mishnah assumes but does not explicitly state.",
+      "whatsHappening": "רבי יוחנן defends his statement by using a metaphor about finding a pearl under a shard. This is a setup line introducing the resolution.",
+      "deeperAnalysis": "רבי יוחנן admits the Mishnah supports his view, but argues that without his explicit formulation, one might not realize the underlying principle. The Mishnah is the 'shard' (חצפא) and the principle is the 'pearl' (מרגנייתא). His contribution is exposing the hidden logic.",
+      "keyTerms": [
+        {
+          "term": "אִי לָאו דְּדַלַּאי לָךְ חַסְפָּא",
+          "meaning": "If I had not lifted the shard for you"
+        },
+        {
+          "term": "לָא מַשְׁכַּחַתְּ מַרְגָּנִיתָא תוּתַהּ",
+          "meaning": "You would not have found the pearl beneath it"
+        }
+      ],
+      "whatToRemember": "The metaphor implies that the Mishnah's ruling relies on the principle רבי יוחנן stated.",
+      "confusionAlert": "This is a classic Talmudic defense against redundancy: the teacher's role is to make implicit principles explicit.",
+      "whyThisMatters": "It validates the method of deriving general principles from specific Mishnaic cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: אִי לָאו דְּדַלַּאי לָךְ חַסְפָּא,",
+          "english": "He said to him: If I had not lifted up the shard for you,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא מַשְׁכַּחַתְּ מַרְגָּנִיתָא תּוּתַהּ.",
+          "english": "you would not have found a pearl beneath it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: אִי לָאו דְּדַלַּאי לָךְ חַסְפָּא, לָא מַשְׁכַּחַתְּ מַרְגָּנִיתָא תוּתַהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 17b:3:1",
+            "hebrew": "אי לאו דדלאי לך חספא כו' - וא\"ת וכי דרך למצא מרגליות תחת חרסי' ומפרש ר\"ת דבקרקעית הים אבנים רחבות ונראות כחרסים ותחתיהן נמצאים המרגליות ובהחובל (ב\"ק דף צא.) נמי אמרינן צללת במים אדירים והעלית בידך חרס:",
+            "english": "",
+            "takeaway": "תוספות explains that ר"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Abaye's challenge: perhaps the Mishnah is in a place where they don't write a Ketubah",
+      "stepSummary": "Abaye challenges the strength of the proof, suggesting the Mishnah might refer to a place where Ketubot are not written, making the Get itself the Ketubah.",
+      "whatsHappening": "Abaye questions whether the Mishnah truly proves רבי יוחנן's principle, proposing an alternative context. This is a setup line introducing a new challenge.",
+      "deeperAnalysis": "Abaye argues that the Mishnah might be discussing a place where they don't write a כתובה. In such a place, the גט itself serves as the כתובה. Therefore, the woman isn't collecting based on a court enactment acting like a document, but because she actually has a document (the גט). In places where they do write a כתובה, she would need the actual כתובה to collect. This undermines רבי יוחנן's claim that the Mishnah proves the principle of מעשה בית דין.",
+      "keyTerms": [
+        {
+          "term": "מַאי מַרְגָּנִיתָא?",
+          "meaning": "What pearl is this?"
+        },
+        {
+          "term": "בְּמָקוֹם שֶׁאֵין כּוֹתְבִין כְּתוּבָה",
+          "meaning": "In a place where they do not write a marriage contract"
+        },
+        {
+          "term": "דְּגֵט הַיְינוּ כְּתוּבְתַּהּ",
+          "meaning": "The bill of divorce is her marriage contract"
+        }
+      ],
+      "whatToRemember": "Abaye's challenge hinges on the distinction between places that write Ketubot and those that don't.",
+      "confusionAlert": "In places where they don't write a Ketubah, the Get is considered to contain the Ketubah obligation.",
+      "whyThisMatters": "This introduces a geographical/customary distinction that affects how documents are interpreted.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי: מַאי מַרְגָּנִיתָא?",
+          "english": "Abaye said: What is a pearl?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּלְמָא בִּמְקוֹם שֶׁאֵין כּוֹתְבִין כְּתוּבָּה עָסְקִינַן,",
+          "english": "Perhaps we are dealing with a place where they do not write a marriage contract,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּגֵט הַיְינוּ כְּתוּבְּתַהּ.",
+          "english": "that a bill of divorce is her marriage contract."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל בִּמְקוֹם שֶׁכּוֹתְבִין כְּתוּבָּה,",
+          "english": "But in a place where they write a marriage contract,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי נְקִיטָא כְּתוּבָּה –",
+          "english": "if she holds a marriage contract —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "גָּבְיָא, אִי לָא – לָא גָּבְיָא.",
+          "english": "she collects, if not — she does not collect."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר אַבָּיֵי: מַאי מַרְגָּנִיתָא? דִּלְמָא בְּמָקוֹם שֶׁאֵין כּוֹתְבִין כְּתוּבָה עָסְקִינַן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:4:1",
+            "hebrew": "במקום שאין כותבין כתובה - אלא סומכין על תנאי ב\"ד ותגבה לעולם עד שיוציא הבעל שובר דגט שמעיד שגירשה הוא מוכיח שחייב הוא לה כתובה:",
+            "english": "",
+            "takeaway": "רש״י explains that in a place where they don't write a כתובה, the גט itself serves as proof of the debt because it testifies that he divorced her, and she can collect until he produces a שובר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:4:3",
+            "hebrew": "לא גביא - אי משום דחיישינן דלמא הדרא ומפקא כתובה וגביא זימנא אחריתי א\"נ משום דאי בעי אמר פרעתיה:",
+            "english": "",
+            "takeaway": "רש״י explains that if she doesn't have the כתובה in a place where they do write one, she cannot collect because we are concerned she might produce it later to collect again, or the husband could claim he already paid."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Abaye retracts: the problem of the widow from betrothal",
+      "stepSummary": "Abaye retracts his challenge, realizing that if the Mishnah is in a place where they don't write a Ketubah, it creates a problem for a widow from betrothal who has no document at all.",
+      "whatsHappening": "Abaye realizes his own challenge leads to a contradiction regarding a widow from betrothal. This is a setup line introducing the retraction.",
+      "deeperAnalysis": "Abaye argues that if we assume the Mishnah is in a place where they don't write a כתובה, then in places where they do write one, a woman needs the actual כתובה to collect. But what about a widow from betrothal? She has neither a גט nor a כתובה. If she relies on witnesses to her husband's death, the heir could claim he paid her. If the heir can claim payment, then the חכמים's enactment that she collects is meaningless. Therefore, the Mishnah must indeed be teaching that a court enactment acts like a document, allowing her to collect without a physical document. Abaye retracts his challenge.",
+      "keyTerms": [
+        {
+          "term": "הֲדַר אָמַר אַבָּיֵי",
+          "meaning": "Abaye said again (retracted)"
+        },
+        {
+          "term": "אַלְמָנָה מִן הָאֵרוּסִין",
+          "meaning": "A widow from betrothal"
+        },
+        {
+          "term": "בְּמַאי גָּבְיָא?",
+          "meaning": "By what means does she collect?"
+        },
+        {
+          "term": "לִטְעוֹן וְלֵימָא: פְּרַעְתִּי",
+          "meaning": "Let him claim and say: I paid"
+        }
+      ],
+      "whatToRemember": "The case of the widow from betrothal forces the conclusion that מעשה בית דין acts like a document.",
+      "confusionAlert": "A widow from betrothal has no גט and no כתובה, so she must rely on the enactment itself.",
+      "whyThisMatters": "This establishes the necessity of רבי יוחנן's principle for the validity of rabbinic enactments.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֲדַר אָמַר אַבָּיֵי:",
+          "english": "Abaye again said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָאו מִלְּתָא הִיא דְּאָמְרִי,",
+          "english": "It is not a matter that we say,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאִי סָלְקָא דַעְתָּךְ בִּמְקוֹם שֶׁאֵין כּוֹתְבִין כְּתוּבָּה עָסְקִינַן,",
+          "english": "that if your mind enters in a place where they do not write a ketubah we are dealing,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל בִּמְקוֹם שֶׁכּוֹתְבִין כְּתוּבָּה,",
+          "english": "but in a place where they write a ketubah,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי נְקִיטָא כְּתוּבָּה –",
+          "english": "if she holds a ketubah –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "גָּבְיָא, אִי לָא – לָא גָּבְיָא,",
+          "english": "she collects, if not – she does not collect,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַלְמָנָה מִן הָאֵירוּסִין בְּמַאי גָּבְיָא?",
+          "english": "a widow from betrothal in what does she collect?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּעֵדֵי מִיתַת בַּעַל – לִטְעוֹן וְלֵימָא: פְּרַעְתִּיהָ.",
+          "english": "in witnesses of the death of the husband – to claim and say: I paid her."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְכִי תֵּימָא: הָכִי נָמֵי,",
+          "english": "And if you would say: also here,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אִם כֵּן מָה הוֹעִילוּ חֲכָמִים בְּתַקָּנָתָן?",
+          "english": "if so, what did the Sages accomplish in their enactment?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הֲדַר אָמַר אַבָּיֵי: לָאו מִלְּתָא הִיא דְּאָמְרִי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:5:1",
+            "hebrew": "לאו מלתא היא דאמרי - דבמקום שכותבין שטר כתובה יכול לטעון פרעתי דאם כן אלמנה מן האירוסין דאף במקום שכותבין אין כותבין מן האירוסין:",
+            "english": "",
+            "takeaway": "רש״י explains that Abaye retracts because in a place where they write a שטר כתובה, the heir can claim פרעתי, and since they don't write a כתובה for a betrothed woman, this creates a contradiction for the widow from betrothal."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:5:2",
+            "hebrew": "במאי גביא - כתובה על כרחך בעדי מיתת בעל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the widow from betrothal must collect her כתובה based on witnesses to her husband's death, as she has no document."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:6:1",
+            "hebrew": "לטעון - יורש ולומר פרעתי':",
+            "english": "",
+            "takeaway": "רש״י identifies the one who claims פרעתי as the יורש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:6:2",
+            "hebrew": "בתקנתן - שתקנו כתובה לארוסה והלא הכל יטענו פרעתי:",
+            "english": "",
+            "takeaway": "רש״י explains that the חכמים's enactment refers to writing a כתובה for a betrothed woman, which would be ineffective if everyone could claim פרעתי."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 17b:5:1",
+            "hebrew": "אלמנה מן האירוסין במאי גביא - וא\"ת אלמנה מן הנישואין ובמקום שאין כותבין כתובה לפרוך במאי גביא אי לא אמרינן דלא אמר כלום דמן האירוסין אין יכול להוכיח דאית לה כתובה ולפרוך מן הנישואין במקום שאין כותבין וי\"ל דבמקום שאין כותבין אתי שפיר דאינו נאמן לומר פרעתי כיון דלא נתקנה כתובה באותו מקום אלא במקום שכותבין בשלמא אי לא נתקנה כתובה אלא בשביל תוספת אבל מנה ומאתים אינו נאמן לומר פרעתי להכי מן האירוסין דאין לה תוספת לא תקינו כתובה אבל אי אף משום מנה ומאתים תקנו לכתוב כתובה דנאמן לומר פרעתי מן האירוסין נמי יהא נאמן לומר פרעתי ויתקנו לכתוב כתובה:",
+            "english": "",
+            "takeaway": "תוספות addresses why the Gemara doesn't challenge from a widow from marriage in a place where they don't write a כתובה, explaining that in such a place the heir isn't believed to claim פרעתי because the enactment was only for תוספת, whereas for מנה ומאתים he isn't believed, so they didn't enact a כתובה for betrothal since she has no תוספת, but if they enacted it even for מנה ומאתים, they would have enacted it for betrothal too."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Source for a widow from betrothal collecting",
+      "stepSummary": "Mar Kashisha challenges Abaye's assumption that a widow from betrothal actually collects her Ketubah.",
+      "whatsHappening": "מַר קַשִּׁישָׁא challenges the premise of אַבָּיֵי's retraction. He asks for the source that a widow from betrothal collects her כתובה at all.",
+      "deeperAnalysis": "This question attacks the foundation of אַבָּיֵי's argument. If there is no source for her collecting, then אַבָּיֵי's retraction is unnecessary. The Gemara must now find a valid source.",
+      "keyTerms": [
+        {
+          "term": "וְאַלְמָנָה מִן הָאֵרוּסִין",
+          "meaning": "And a widow from betrothal"
+        },
+        {
+          "term": "דְּאִית לַהּ כְּתוּבָה מְנָא לַן?",
+          "meaning": "From where do we know she has a marriage contract?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ מָר קַשִּׁישָׁא בְּרֵיהּ דְּרַב",
+          "english": "Mar Kashisha, son of Rav Ḥisda, said to Rav Ashi:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חִסְדָּא לְרַב אָשֵׁי:",
+          "english": "And from where do we derive that a widow from betrothal"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאַלְמָנָה מִן הָאֵירוּסִין,",
+          "english": "has a marriage contract?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּאִית לַהּ כְּתוּבָּה מְנָא לַן?",
+          "english": "From where do we know?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ מָר קַשִּׁישָׁא בְרֵיהּ דְּרַב חִסְדָּא לְרַב אָשֵׁי: וְאַלְמָנָה מִן הָאֵרוּסִין, דְּאִית לַהּ כְּתוּבָה מְנָא לַן?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 17b:7:1",
+            "hebrew": "מן האירוסין מנא ליה דאית לה כתובה - ולא מצי למיפשט מהא דתניא פ' מי שמת (ב\"ב ד' קמה.) המארס את האשה בתולה גובה מאתים כו' דאיכא לדחויי נמי בדכתב לה וסיפא איצטריך ליה דקתני מקום שנהגו להחזיר קדושין כו' ומ\"מ אמת הוא דארוסה יש לה כתובה אפי' לא כתב לה כדמוכח פרק האומר (קדושין ד' סה ושם) דקאמר היא אומרת קדשתני והוא אומר לא קדשתיך הוא מותר בקרובותיה ואם נתן גט מעצמו כופין אותו ונותן לה כתובה והתם ע\"כ לא כתב לה דאי כתב לה היכי מצי למימר לא קדשתיך דאין דרך לכתוב כתובה קודם קדושין וכן מוכח פרק נערה (כתובות ד' מד.) וכאן אינו רוצה להוכיח אלא מן ברייתא או מן משנה ולא מן מימראות האמוראים אי נמי הכי קבעי באלמנה מן האירוסין דלא תגבי בעדי מיתה דליטעון ולימא פרעתיה אבל בגרושה אף מן האירוסין פשיטא ליה דאית לה כתובה דגובה בשטר גט כמו גרושה מן הנישואין במקום שאין כותבין וקורעין הגט ונכתוב אגביה גיטא דנן כו' ובמסקנא דסבר אביי כרבי יוחנן הטוען כו' דלא אמר כלום אפי' אלמנה מן האירוסין אית לה כתובה:",
+            "english": "",
+            "takeaway": "תוספות explains that Mar Kashisha asks for a source that a widow from betrothal collects her כתובה because he cannot derive it from the ברייתא in בבא בתרא that a virgin bride collects two hundred, as that could be explained as a case where the כתובה was written, and he specifically seeks a source from a משנה or ברייתא rather than an אמורא's statement, or alternatively, he questions whether she can collect via witnesses of death rather than a written document, though in the final analysis אביי agrees with רבי יוחנן that even a widow from betrothal has a כתובה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תשובה",
+      "title": "Proof from the Mishnah in Ketubot",
+      "stepSummary": "The Gemara suggests a proof from a Mishnah that states a widow or divorcee from betrothal or marriage collects everything.",
+      "whatsHappening": "The Gemara proposes a source from a Mishnah in Ketubot. The Mishnah states that a woman widowed or divorced, whether from betrothal or marriage, collects everything.",
+      "deeperAnalysis": "This seems to prove she collects. However, the Gemara immediately doubts this. Perhaps the Mishnah only refers to a case where the husband wrote her a כתובה. The phrase 'collects everything' implies collecting both the basic and additional sums, which requires a written document.",
+      "keyTerms": [
+        {
+          "term": "נִתְאַרְמְלָה אוֹ נִתְגָּרְשָׁה",
+          "meaning": "She became widowed or divorced"
+        },
+        {
+          "term": "בֵּין מִן הָאֵרוּסִין וּבֵין מִן הַנִּשּׂוּאִין",
+          "meaning": "Whether from betrothal or from marriage"
+        },
+        {
+          "term": "גּוֹבָה אֶת הַכֹּל",
+          "meaning": "She collects everything"
+        },
+        {
+          "term": "דִּלְמָא הֵיכָא דִּכְתַב לַהּ?",
+          "meaning": "Perhaps where he wrote for her?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִילֵּימָא מֵהָא דִּתְנַן:",
+          "english": "If we say from that which we learned:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נִתְאַרְמְלָה אוֹ נִתְגָּרְשָׁה,",
+          "english": "If she became widowed or divorced,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בֵּין מִן הָאֵירוּסִין וּבֵין מִן הַנִּישּׂוּאִין –",
+          "english": "whether from betrothal or from marriage –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גּוֹבָה אֶת הַכֹּל,",
+          "english": "she collects all"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּלְמָא הֵיכָא דִּכְתַב לַהּ?",
+          "english": "Perhaps where he wrote for her?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְכִי תֵּימָא: מַאי לְמֵימְרָא? !",
+          "english": "And if you would say: What to say?!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְאַפּוֹקֵי מִדְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה,",
+          "english": "To exclude from Rabbi Elazar ben Azarya,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּאָמַר שֶׁלֹּא כָּתַב לָהּ אֶלָּא עַל",
+          "english": "who said that he did not write for her except on"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מְנָת לְכוֹנְסָהּ אִצְטְרִיכָא לֵיהּ.",
+          "english": "the condition to marry her it is necessary for him."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "דַּיְקָא נָמֵי, דְּקָתָנֵי: גּוֹבָה אֶת הַכֹּל.",
+          "english": "Also precise, as it teaches: She collects all."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא דִּכְתַב לַהּ,",
+          "english": "If you say that where he wrote for her,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "הַיְינוּ דְּקָא תָּנֵי גּוֹבֶה אֶת הַכֹּל.",
+          "english": "this is why it teaches she collects all."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ דְּלָא כְּתַב לַהּ,",
+          "english": "But if you say that where he did not write for her,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "מַאי ״גּוֹבָה אֶת הַכֹּל״?",
+          "english": "What is 'she collects all'?"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "מָנֶה וּמָאתַיִם הוּא דְּאִית לַהּ.",
+          "english": "Two hundred and a maneh is what she has."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִילֵּימָא מֵהָא דִּתְנַן: נִתְאַרְמְלָה אוֹ נִתְגָּרְשָׁה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:8:1",
+            "hebrew": "גובה את הכל - בין כתובה של תנאי ב\"ד דהיינו מנה לאלמנה ומאתים לבתולה בין תוספת:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase גובה את הכל in the Mishnah refers to collecting both the basic כתובה (whether the court-conditioned amount of a hundred for a widow or two hundred for a virgin) and the תוספת."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:9:1",
+            "hebrew": "שלא כתב לה - את התוספת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבי אלעזר בן עזריה's opinion that the husband did not write her a כתובה specifically means he did not write the תוספת."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:10:1",
+            "hebrew": "דיקא נמי - דבכתב לה מיירי:",
+            "english": "",
+            "takeaway": "רש״י notes that the Gemara's use of the word דיקא indicates that the Mishnah is indeed discussing a case where the husband did write her a כתובה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: The Mishnah might only exclude רבי אלעזר בן עזריה",
+      "stepSummary": "The Gemara considers that the Mishnah might only be excluding the opinion of Rabbi Elazar ben Azarya, who says a widow from betrothal doesn't collect if there's no written Ketubah.",
+      "whatsHappening": "The Gemara explores an alternative explanation for the Mishnah's wording. It suggests the Mishnah might be necessary only to exclude the view of רבי אלעזר בן עזריה.",
+      "deeperAnalysis": "רבי אלעזר בן עזריה holds that a husband only writes a כתובה on the condition that he marries her. If he dies before marriage, she doesn't collect. The Mishnah might be stating that even according to this view, if he wrote it, she collects. This doesn't prove she collects without a written כתובה.",
+      "keyTerms": [
+        {
+          "term": "לְאַפּוֹקֵי מִדְּרַבִּי אֶלְעָזָר בֶּן עַזַּרְיָה",
+          "meaning": "To exclude the opinion of Rabbi Elazar ben Azarya"
+        },
+        {
+          "term": "שֶׁלֹּא כָּתַב לָהּ אֶלָּא עַל מְנָת לְכוֹנְסָהּ",
+          "meaning": "He did not write for her except on the condition of marrying her"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי תֵּימָא: מַאי לְמֵימְרָא? !",
+          "english": "And if you would say: What is it to say?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְאַפּוֹקֵי מִדְּרַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה,",
+          "english": "To exclude from Rabbi Elazar ben Azarya,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמַר שֶׁלֹּא כָּתַב לָהּ אֶלָּא עַל",
+          "english": "who says that he did not write to her except on"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְנָת לְכוֹנְסָהּ אִצְטְרִיכָא לֵיהּ.",
+          "english": "the condition of marrying her it is necessary for him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי תֵּימָא: מַאי לְמֵימְרָא?! לְאַפּוֹקֵי מִדְּרַבִּי אֶלְעָזָר בֶּן עַזַּרְיָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:9:1",
+            "hebrew": "שלא כתב לה - את התוספת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase שלא כתב לה refers specifically to the תוספת כתובה, not the basic כתובה amount."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "The wording 'collects everything' implies a written Ketubah",
+      "stepSummary": "The Gemara argues that the wording 'collects everything' supports the view that the Mishnah refers to a case with a written Ketubah.",
+      "whatsHappening": "The Gemara analyzes the Mishnah's wording to support the alternative explanation. It notes that the Mishnah says 'גובה את הכל'.",
+      "deeperAnalysis": "If the husband wrote a כתובה, she collects everything (basic and additional sums). If he didn't write one, she only has the basic 200 dinars, so 'everything' is inappropriate. This linguistic precision suggests the Mishnah assumes a written כתובה, weakening the proof that a widow from betrothal collects without one.",
+      "keyTerms": [
+        {
+          "term": "דַּיְקָא נָמֵי",
+          "meaning": "It is also precise"
+        },
+        {
+          "term": "מָנֶה וּמָאתַיִם הוּא דְּאִית לַהּ",
+          "meaning": "She only has two hundred dinars"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דַּיְקָא נָמֵי, דְּקָתָנֵי: גּוֹבָה אֶת הַכֹּל.",
+          "english": "Precisely also, it teaches: She collects all."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא דִּכְתַב לַהּ,",
+          "english": "If you say that because he wrote to her,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַיְינוּ דְּקָא תָּנֵי גּוֹבֶה אֶת הַכֹּל.",
+          "english": "This is precisely that it teaches: She collects all."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ דְּלָא כְּתַב לַהּ,",
+          "english": "But if you say that he did not write to her,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי ״גּוֹבָה אֶת הַכֹּל״?",
+          "english": "What is 'She collects all'?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מָנֶה וּמָאתַיִם הוּא דְּאִית לַהּ.",
+          "english": "A maneh and two hundred is that which she has."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דַּיְקָא נָמֵי, דְּקָתָנֵי: גּוֹבָה אֶת הַכֹּל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        30
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 17b:10:1",
+            "hebrew": "דיקא נמי - דבכתב לה מיירי:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's use of the word דיקא indicates that the Mishnah is discussing a case where the husband wrote a כתובה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T08:06:28.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 120.70251470000949,
+      "structure": 2195.572969900095,
+      "translate": 482.3463826000807,
+      "meforshim": 565.3275725001004,
+      "teaching": 1238.4140727000777
+    }
+  }
+}

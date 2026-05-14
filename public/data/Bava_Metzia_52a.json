@@ -1,0 +1,539 @@
+{
+  "ref": "Bava Metzia 52a",
+  "masechet": "Bava_Metzia",
+  "daf": 52,
+  "amud": "a",
+  "mainTopic": "משנה: דין החזרת סלע ונפש רעה · סלע שנפסלה והתקינה",
+  "overview": "(1) The Mishnah establishes the time limits for returning a coin with Ona'ah and states that one who keeps it is considered a 'Nefesh Ra'ah' and may redeem Ma'aser Sheni with it without concern. (2) The Gemara discusses a Baraita regarding a coin that was clipped and then restored, debating whether it may be kept or must be buried, and resolving a contradiction regarding hanging it on a child's neck. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "משנה: דין החזרת סלע ונפש רעה",
+      "gist": "The Mishnah establishes the time limits for returning a coin with Ona'ah and states that one who keeps it is considered a 'Nefesh Ra'ah' and may redeem Ma'aser Sheni with it without concern.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 15,
+      "endLine": 17,
+      "topic": "סלע שנפסלה והתקינה",
+      "gist": "The Gemara discusses a Baraita regarding a coin that was clipped and then restored, debating whether it may be kept or must be buried, and resolving a contradiction regarding hanging it on a child's neck. — discussion continues into next amud.",
+      "openingFormula": "תנן התם",
+      "firstStepNumber": 4,
+      "lastStepNumber": 5
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The standard depreciation rate for coins",
+      "stepSummary": "The Mishnah establishes the accepted rate of depreciation for coins: eight pundeyon, equivalent to two pundeyon per dinar.",
+      "whatsHappening": "The Mishnah establishes the standard depreciation threshold for coins. It defines the specific monetary loss that constitutes Ona'ah.",
+      "deeperAnalysis": "This is a foundational halachic datum. The Mishnah defines the threshold for monetary exploitation in coin transactions. The rate is fixed at one-sixth (two pundeyon per dinar, where a dinar equals twelve pundeyon).",
+      "keyTerms": [
+        {
+          "term": "שְׁמוֹנָה פּוּנְדְיוֹנוֹת",
+          "meaning": "eight pundeyon, the standard depreciation measure"
+        },
+        {
+          "term": "פּוּנְדְיוֹן",
+          "meaning": "a small silver coin, 1/12 of a dinar"
+        },
+        {
+          "term": "דִּינָר",
+          "meaning": "a standard silver coin"
+        }
+      ],
+      "whatToRemember": "The standard Ona'ah threshold for coins is 1/6.",
+      "whyThisMatters": "This rate is the baseline for all subsequent discussions about coin depreciation and the validity of transactions involving worn coins.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁמוֹנָה פּוּנְדְּיוֹנוֹת, שְׁנֵי פּוּנְדְּיוֹנוֹת לְדִינָר.",
+          "english": "Eight pundeyon, two pundeyon per dinar."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁמוֹנָה פּוּנְדְיוֹנוֹת, שְׁנֵי פּוּנְדְיוֹנוֹת לְדִינָר.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:1:1",
+            "hebrew": "שמונה פונדיונות - שתות כשאר אונאה:",
+            "english": "",
+            "takeaway": "רש״י explains that שמונה פונדיונות represents a sixth (שְׁתוּת), which is the standard measure for אונאה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 52a:1:1",
+            "hebrew": "שני פונדיונים לדינר - והא דלא אמר מעה לדינר משום דרבי יהודה נקט פונדיון קאמר איהו שני פונדיונים וא\"ת תקשה לרב דאמר שתות מקח שנינו ולא שתות מעות דהכא לר' שמעון אם מכר סלע שוה כ' מעות בכ\"ד הוי אונאה והיינו שוה ה' בו' דהוי לרב ביטול מקח ובגמ' מוקי מתני' דלעיל כר' שמעון ואפי' לשמואל דאמר שתות מעות שנינו תקשה דבשתות מקח מודה דהוי נמי אונאה וה\"ק ב' פונדיונות לדינר הוי אונאה אבל ב' פונדיונות פחות פרוטה הוי מחילה אע\"ג דאכתי הוי שתות מקח וי\"ל דמיירי שמכר לו טלית שוה כ\"ד מעות בסלע ונתן לו סלע שחסר ד' מעות דהיינו שתות מקח מיהו לעיל פי' טעם דמ\"ד שתות מקח לפי שהאונאה והטעות תלוי בחפץ שצריך שומא ולא במעות והכא הטעות והאונאה הוי בסלע:",
+            "english": "",
+            "takeaway": "תוספות explains that the Mishnah uses פונדיון because רבי יהודה uses that terminology, and addresses the difficulty regarding the dispute between רב and שמואל about whether the sixth is calculated based on the item (מקח) or the money (מעות), suggesting the Mishnah refers to a case where the error is in the coin itself."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Time limits for returning a defective coin",
+      "stepSummary": "The Mishnah specifies the time limits for returning a coin: in cities until one can show it to a money changer, in villages until Shabbat eve, and indefinitely if the coin is recognized.",
+      "whatsHappening": "The Mishnah details the practical timeframes for exercising the right to return a coin that has depreciated beyond the accepted rate. It distinguishes between urban and rural settings based on access to expertise.",
+      "deeperAnalysis": "In cities, the window is short (time to see an expert). In villages, it extends until Shabbat eve (when commerce halts). Crucially, if the recipient recognizes the specific coin, the time limit vanishes entirely, though the original giver only incurs a moral grievance (תַּרְעוֹמֶת), not a formal legal penalty.",
+      "keyTerms": [
+        {
+          "term": "בְּכָרָכִים",
+          "meaning": "in cities"
+        },
+        {
+          "term": "בְּכְפָרִים",
+          "meaning": "in villages"
+        },
+        {
+          "term": "הַשּׁוּלְחָנִי",
+          "meaning": "the money changer / expert in coins"
+        },
+        {
+          "term": "תַּרְעוֹמֶת",
+          "meaning": "a moral grievance or reproach, not a legal penalty"
+        }
+      ],
+      "whatToRemember": "Recognition of the coin overrides time limits.",
+      "whyThisMatters": "This establishes the principle that recognition (הִכָּרוּת) can override standard temporal limitations in monetary law.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עַד מָתַי מוּתָּר לְהַחְזִיר? בִּכְרַכִּים –",
+          "english": "Until when is it permitted to return?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עַד כְּדֵי שֶׁיַּרְאֶה לַשּׁוּלְחָנִי,",
+          "english": "Until the time to show to the money changer,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בִּכְפָרִים – עַד עַרְבֵי שַׁבָּתוֹת.",
+          "english": "In the villages – until Shabbat eves."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִם הָיָה מַכִּירָהּ –",
+          "english": "If he recognized it –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲפִילּוּ לְאַחַר שְׁנֵים עָשָׂר חֹדֶשׁ מְקַבְּלָהּ הֵימֶנּוּ,",
+          "english": "Even after twelve months he accepts it from him,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאֵין לוֹ עָלָיו אֶלָּא תַּרְעוֹמֶת.",
+          "english": "And he has against him only a grievance."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "עַד מָתַי מוּתָּר לְהַחְזִיר? בְּכָרָכִים – עַד כְּדֵי שֶׁיֵּרְאֶה לַהַשּׁוּלְחָנִי, בְּכְפָרִים – עַד עַרְבֵי שַׁבָּתוֹת. אִם הָיָה מַכִּירָהּ – אַפִּילּוּ לְאַחַר שְׁנֵים עָשָׂר חֹדֶשׁ מְקַבְּלָהּ הֵימֶנּוּ, וְאֵין לוֹ עָלָיו אֶלָּא תַּרְעוֹמֶת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:1",
+            "hebrew": "בכרכים - שיש שם שולחני עד כדי שיראה לשולחני:",
+            "english": "",
+            "takeaway": "רש״י explains that בכרכים refers to cities where a שולחני (money changer) is available, hence the time limit is until one can see him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:2",
+            "hebrew": "בכפרים - שאין שם שולחני:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בכפרים refers to villages lacking a שולחני, necessitating a different time limit."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:3",
+            "hebrew": "עד ערבי שבתות - שבא להוציאה בערב שבת לסעודת שבת אז ידע אם יוכל להוציאה ויקבלוה ממנו:",
+            "english": "",
+            "takeaway": "רש״י explains that עד ערבי שבתות is the deadline in villages because one attempts to spend the coin for Shabbat preparations, revealing its validity then."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:4",
+            "hebrew": "ואם היה - הנותן מכירה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ואם היה מכירה refers to the giver recognizing the specific coin."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:5",
+            "hebrew": "אפילו לאחר י\"ב חודש כו' - בגמרא פריך הא אמרת עד ערבי שבתות:",
+            "english": "",
+            "takeaway": "רש״י notes that the Gemara will question how returning after twelve months is permitted despite the earlier rule of עד ערבי שבתות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:2:6",
+            "hebrew": "ואין לו עליו אלא תרעומת - מפרש בגמרא:",
+            "english": "",
+            "takeaway": "רש״י indicates that the Gemara will explain the meaning of ואין לו עליו אלא תרעומת."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Status of the coin holder and its use for Ma'aser Sheni",
+      "stepSummary": "The Mishnah rules that one who refuses to accept the returned coin is merely a 'Nefesh Ra'ah' (miserly person), and the coin remains valid for redeeming Ma'aser Sheni.",
+      "whatsHappening": "The Mishnah concludes by addressing the status of the coin itself and the character of the person who refuses it. It makes two points: the person refusing the coin is labeled נֶפֶשׁ רָעָה, and the coin can still be used for מַעֲשֵׂר שֵׁנִי.",
+      "deeperAnalysis": "The Mishnah asserts that despite the depreciation and the refusal, the coin retains its full halachic validity for sacred purposes. This is significant because Ma'aser Sheni has strict purity and validity requirements. The moral failing of the recipient does not affect the halachic status of the currency itself.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשֵׂר שֵׁנִי",
+          "meaning": "Second Tithe, produce with special sanctity"
+        },
+        {
+          "term": "נֶפֶשׁ רָעָה",
+          "meaning": "a miserly or ill-tempered person"
+        },
+        {
+          "term": "אֵינוֹ חוֹשֵׁשׁ",
+          "meaning": "he need not be concerned / it is valid"
+        }
+      ],
+      "whatToRemember": "A refused coin is still valid for Ma'aser Sheni.",
+      "whyThisMatters": "This establishes that the moral failing of the recipient does not affect the halachic status of the currency itself.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנוֹתְנָהּ לְמַעֲשֵׂר שֵׁנִי וְאֵינוֹ חוֹשֵׁשׁ,",
+          "english": "And one gives it for second tithe and he does not worry,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁאֵינוֹ אֶלָּא נֶפֶשׁ רָעָה.",
+          "english": "For it is only a bad soul."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנוֹתְנָהּ לְמַעֲשֵׂר שֵׁנִי וְאֵינוֹ חוֹשֵׁשׁ, שֶׁאֵינוֹ אֶלָּא נֶפֶשׁ רָעָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:3:1",
+            "hebrew": "ונותנה - בחילול מעשר שני ובגמ' מפרש אם בשויה אם בסלע יפה לפי שאינה מדה זו של פוסלי מטבע בשביל חסרון מעט אלא נפש רעה:",
+            "english": "",
+            "takeaway": "רש״י explains that the coin can be used for חילול מעשר שני, and the Gemara clarifies whether this applies when the coin is used for its face value or when it is used as a good coin, because this depreciation does not invalidate the coin's status but rather indicates the person is a נפש רעה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna on a clipped coin designated as a weight",
+      "stepSummary": "The Mishna teaches that a sela that was clipped and then designated as a weight becomes susceptible to ritual impurity, and sets the threshold for when it must be destroyed.",
+      "whatsHappening": "The sugya opens with the Mishna from Kelim establishing the baseline halacha regarding a coin that has been clipped and repurposed. It sets a threshold: if it loses two dinars (half its value), it must be cut up (יָקוֹץ) to prevent confusion with valid currency.",
+      "deeperAnalysis": "The Mishna establishes that if a coin loses value but is designated as a weight, it becomes a vessel susceptible to טומאה. This sets the stage for the Gemara to explore the boundaries of this rule. The core tension is preventing monetary fraud vs. allowing the owner to retain value.",
+      "keyTerms": [
+        {
+          "term": "סֶלַע",
+          "meaning": "a silver coin worth four dinars"
+        },
+        {
+          "term": "נִפְסְלָה",
+          "meaning": "was clipped/invalidated"
+        },
+        {
+          "term": "הִתְקִינָהּ",
+          "meaning": "designated it [as a weight]"
+        },
+        {
+          "term": "יָקוֹץ",
+          "meaning": "he must cut it up [to prevent fraud]"
+        },
+        {
+          "term": "שְׁנֵי דִּינָרִים",
+          "meaning": "two dinars [half the value of a sela]"
+        }
+      ],
+      "whatToRemember": "The Mishna sets the threshold at two dinars of loss for a sela.",
+      "confusionAlert": "The Mishna says 'יָקוֹץ' (cut it up) if it loses MORE than two dinars. The Gemara will debate what happens if it loses LESS than two dinars but still significant amounts.",
+      "whyThisMatters": "This establishes the core tension: preventing monetary fraud vs. allowing the owner to retain value.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תְּנַן הָתָם:",
+          "english": "We learned there:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סֶלַע שֶׁנִּפְסְלָה וְהִתְקִינָהּ שֶׁיְּהֵא שׁוֹקֵל בָּהּ מִשְׁקָלוֹת –",
+          "english": "A sela that was invalidated and he designated it to weigh with it weights –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "טְמֵאָה. עַד כַּמָּה תִּיפָּחֵת וִיהֵא רַשַּׁאי לְקַיְּימָהּ?",
+          "english": "It is impure. Until how much can it diminish and he is permitted to maintain it?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "(לַסֶּלַע) שְׁנֵי דִּינָרִים, פָּחוֹת מִכֵּן – יָקוֹץ.",
+          "english": "(For the sela) two dinars, less than this – he must cut it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תְּנַן הָתָם: סֶלַע שֶׁנִּפְסְלָה וְהִתְקִינָהּ שֶׁיְּהֵא שׁוֹקֵל בָּהּ מִשְׁקָלוֹת – טְמֵאָה. עַד כַּמָּה תִּיפָּחֵת וִיהֵא רַשַּׁאי לְקַיְּימָהּ? (לַסֶּלַע) שְׁנֵי דִּינָרִים, פָּחוֹת מִכֵּן – יָקוֹץ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:15:1",
+            "hebrew": "טמאה - מקבלת טומאה מעתה שהרי עשאה כלי:",
+            "english": "",
+            "takeaway": "רש״י explains that the coin becomes susceptible to טומאה because it has been fashioned into a vessel (כלי)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:15:2",
+            "hebrew": "יקוץ - יחתכנה לשנים דאתי לאפוקה בשקל:",
+            "english": "",
+            "takeaway": "רש״י explains that יקוץ means cutting the coin in two to prevent it from being mistakenly used as a valid שקל."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 52a:15:1",
+            "hebrew": "והתקינה - אם צריכה מעשה כמו חיתוך אתי שפיר דנקט התקינה דמידי דמחוסר מלאכה אין טמא במחשבה כדאמרינן במרובה (ב\"ק דף סו:) ואי אינה צריכה חיתוך הוי התקינה לאו דוקא דכל הכלים יורדים לידי טומאתם במחשבה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the term התקינה implies a physical act like cutting, because items lacking completion (מחוסר מלאכה) do not become טמא through mere intent (מחשבה), as derived from בבא קמא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "What if it lost more than two dinars?",
+      "stepSummary": "The Gemara asks what the halacha is if the coin lost more than two dinars, and presents two opposing opinions from Rav Huna and Rabbi Ami.",
+      "whatsHappening": "The Gemara asks a neutral question about the case where the coin lost more than two dinars, then records two opposing views. Rav Huna says it must still be cut up (strict view). Rabbi Ami says it may be kept (lenient view, because it's so devalued no one will confuse it with a real coin).",
+      "deeperAnalysis": "The Mishna only taught what to do if it lost LESS than two dinars (cut it up). The Gemara asks what happens if it lost MORE. This sets up the two opposing positions that the Gemara will test against baraitot.",
+      "keyTerms": [
+        {
+          "term": "יָתֵר עַל כֵּן",
+          "meaning": "more than that [two dinars]"
+        },
+        {
+          "term": "רַב הוּנָא",
+          "meaning": "Rav Huna"
+        },
+        {
+          "term": "רַבִּי אַמֵּי",
+          "meaning": "Rabbi Ami"
+        },
+        {
+          "term": "יְקַיֵּים",
+          "meaning": "he may maintain it [keep it]"
+        }
+      ],
+      "whatToRemember": "Rav Huna is strict (always cut it up). Rabbi Ami is lenient (if it lost more than two dinars, keep it).",
+      "confusionAlert": "The Mishna says 'פחות מכן – יקוץ'. The Gemara asks 'יתר על כן מאי?'. This is a neutral question, not an objection.",
+      "whyThisMatters": "This sets up the two opposing positions that the Gemara will test against baraitot.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "יָתֵר עַל כֵּן מַאי?",
+          "english": "More than this — what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב הוּנָא:",
+          "english": "Rav Huna said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "פָּחוֹת מִכֵּן – יָקוֹץ,",
+          "english": "Less than this — cut it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יָתֵר עַל כֵּן –",
+          "english": "More than this —"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יָקוֹץ. רַבִּי אַמֵּי אָמַר:",
+          "english": "cut it. Rabbi Ami said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "פָּחוֹת מִכֵּן – יָקוֹץ,",
+          "english": "Less than this — cut it,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "יָתֵר עַל כֵּן – יְקַיֵּים.",
+          "english": "More than this — maintain it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "יָתֵר עַל כֵּן מַאי? אָמַר רַב הוּנָא: פָּחוֹת מִכֵּן – יָקוֹץ, יָתֵר עַל כֵּן – יָקוֹץ. רַבִּי אַמֵּי אָמַר: פָּחוֹת מִכֵּן – יָקוֹץ, יָתֵר עַל כֵּן – יְקַיֵּים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 52a:16:1",
+            "hebrew": "יתר על כן יקיים - דלגבי סלע מנכרא פחיתתה ולא מחליפה בסלע:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי אמי's ruling to keep the coin (יקיים) when it lost more than two dinars is because the coin's devaluation makes it recognizable (מנכרא) and thus it will not be confused with a full-value coin."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 52a:16:1",
+            "hebrew": "יתר על כן יקוץ - ולא ימכרנו לתגר מצי נמי קאי אפחתה יתר מכדי אונאתה וה\"פ אפילו ע\"מ לנוקבה לא ימכרנו לתגר ולחרס אבל לאחרים ימכור על מנת לנוקבה ולמ\"ד יתר על כן יקיים לא ימכרנה לתגר לא קאי אלא אבסלע עד שקל דאמר פחתה יותר משקל אפילו פרוטה אסור לקיימה ואהא קאי לא ימכרנה לתגר כו':",
+            "english": "",
+            "takeaway": "תוספות clarifies that the prohibition against selling the coin to a merchant (לתגר) applies even when the coin lost more than its value of אונאה, meaning it cannot be sold even with the condition that it be used for a female animal (לנוקבה), though it may be sold to others with that condition; however, for the opinion that says יתר על כן יקיים, the restriction on selling to a merchant only applies to a coin that lost more than a shekel, where even a pruta's loss is forbidden to keep."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Objection from a baraita about selling the coin",
+      "stepSummary": "The Gemara raises an objection from a baraita that says if a coin lost more than two dinars, one may sell it at its current value, which seems to contradict both opinions.",
+      "whatsHappening": "The Gemara cites a baraita that appears to contradict the previous opinions, then immediately resolves it. The baraita says 'יתר על כן מוכרה בשויה' (if it lost more than two dinars, sell it at its value).",
+      "deeperAnalysis": "This seems to contradict Rav Huna (who says cut it up) and Rabbi Ami (who says keep it). The Gemara immediately resolves this by redefining 'יתר על כן' in the baraita to mean 'more than the threshold of exploitation but less than two dinars', thus harmonizing it with the Mishna. This shows the Gemara's technique of redefining terms to resolve contradictions.",
+      "keyTerms": [
+        {
+          "term": "מֵיתִיבִי",
+          "meaning": "the Gemara raises an objection"
+        },
+        {
+          "term": "מוֹכְרָהּ בְּשׇׁוְיָהּ",
+          "meaning": "he may sell it at its value"
+        },
+        {
+          "term": "כְּדֵי אוֹנָאָתָהּ",
+          "meaning": "its measure of exploitation [value as metal]"
+        },
+        {
+          "term": "יְתֵירָה",
+          "meaning": "excess [redefined term]"
+        }
+      ],
+      "whatToRemember": "The baraita's 'יתר על כן' is redefined to mean 'more than the threshold of exploitation but less than two dinars'.",
+      "confusionAlert": "The resolution is that the baraita is talking about a different case than the Mishna.",
+      "whyThisMatters": "This shows the Gemara's technique of redefining terms to resolve contradictions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: יָתֵר עַל כֵּן מוֹכְרָהּ בְּשׇׁוְיָהּ.",
+          "english": "He sat: greater than that, he sells it at its value."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי לָאו: שֶׁפָּחֲתָה יוֹתֵר מִכְּדֵי אוֹנָאָתָהּ?",
+          "english": "What, is it not: it eroded more than its measure of exploitation?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא, יְתֵירָה: דְּאַכַּתִּי לָא פָּחֲתָה בִּכְדֵי אוֹנָאָתָהּ,",
+          "english": "No, greater: that its eating did not decrease by its measure of exploitation,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מוֹכְרָהּ בְּשׇׁוְיָהּ.",
+          "english": "he sells it at its value."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי: יָתֵר עַל כֵּן מוֹכְרָהּ בְּשׇׁוְיָהּ. מַאי לָאו: שֶׁפָּחֲתָה יוֹתֵר מִכְּדֵי אוֹנָאָתָהּ? לָא, יְתֵירָה: דְּאַכַּתִּי לָא פָּחֲתָה בִּכְדֵי אוֹנָאָתָהּ, מוֹכְרָהּ בְּשׇׁוְיָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T05:26:36.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 104.95297350001056,
+      "structure": 2123.7212205000687,
+      "validate": 278.78990139992675,
+      "translate": 338.0818741998519,
+      "meforshim": 723.544612299942,
+      "teaching": 990.7569409001153
+    }
+  }
+}

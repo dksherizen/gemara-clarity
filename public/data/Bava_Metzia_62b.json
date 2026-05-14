@@ -1,0 +1,1039 @@
+{
+  "ref": "Bava Metzia 62b",
+  "masechet": "Bava_Metzia",
+  "daf": 62,
+  "amud": "b",
+  "mainTopic": "(continues) כל שאילו בדיניהם · לקח הימנו חטים בדינר זהב",
+  "overview": "(1) Rav Safra's rule regarding the return of interest in cases where the gentiles take it vs. where they don't, and the distinction between 'ריבית קצוצה' and 'ריבית מוקדמת/מאוחרת'. (2) The Gemara discusses the case of buying wheat at a fixed price and the prohibition of interest, exploring the distinction between having produce and not having it, and the concept of 'העראמת ריבית'. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) כל שאילו בדיניהם",
+      "gist": "Rav Safra's rule regarding the return of interest in cases where the gentiles take it vs. where they don't, and the distinction between 'ריבית קצוצה' and 'ריבית מוקדמת/מאוחרת'.",
+      "openingFormula": "אמר רב ספרא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 12,
+      "topic": "לקח הימנו חטים בדינר זהב",
+      "gist": "The Gemara discusses the case of buying wheat at a fixed price and the prohibition of interest, exploring the distinction between having produce and not having it, and the concept of 'העראמת ריבית'. — discussion continues into next amud.",
+      "openingFormula": "כיצד",
+      "firstStepNumber": 4,
+      "lastStepNumber": 12
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב אָשֵׁי: Gentiles view it as a sale",
+      "stepSummary": "רַב אָשֵׁי resolves the challenge by explaining that gentile law views the mortgage as a sale, not a loan, thus preserving the principle.",
+      "whatsHappening": "רַב אָשֵׁי defends the principle by recharacterizing the gentile legal status of the mortgage. This is a resolution to the previous challenge.",
+      "deeperAnalysis": "רַב אָשֵׁי answers that gentiles do not consider this a loan; rather, they view it as a sale. The field was temporarily sold to the lender, who then sells it back when the debt is paid. Since it's a sale, the 'payment' is not interest on a loan, so the premise of the challenge is flawed.",
+      "keyTerms": [
+        {
+          "term": "רַב אָשֵׁי",
+          "meaning": "the Amora providing the resolution"
+        },
+        {
+          "term": "זְבִינֵי",
+          "meaning": "sales"
+        }
+      ],
+      "whatToRemember": "The resolution relies on the gentile legal classification of the transaction as a sale.",
+      "whyThisMatters": "This shows a consistent pattern in the resolutions: gentile law categorizes these transactions differently than Jewish law.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּבְדִינֵינוּ אֵין מַחְזִירִין מִמַּלְוֶה לְלֹוֶה.",
+          "english": "And in our laws, one does not return from lender to borrower."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: אִינְהוּ, בְּתוֹרַת זְבִינֵי אֲתָא לִידַיְיהוּ.",
+          "english": "He said to him: They, by law of sales, it came to them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: אִינְהוּ, בְּתוֹרַת זְבִינֵי אֲתָא לִידַיְיהוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:1:1",
+            "hebrew": "ובדינינו אין מחזירין - דאבק רבית הוא כיון דזימנין שאין עושים פירות שהכרמים לוקין אין זו רבית קצוצה:",
+            "english": "",
+            "takeaway": "רש״י explains that under Jewish law, the lender cannot reclaim the excess produce because it constitutes אבק רבית, since the vineyards sometimes yield no fruit, making it not רבית קצוצה but still prohibited."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:1:2",
+            "hebrew": "אינהו נמי כי אפקי ליה - סברי דבתורת זביני אתו הנך פירות לידיה דלוקח דכל זמן שלא פרע לו מעותיו הכרם מכור לו עד זמן שפסקו ביניהם שיכול לפדותה והוא הדין דמצי לאתוביה נמי מאבק רבית דהמרבה בפירות דמתניתין אלא הא שינויא נמי אית ליה לשנויי בתורת זביני אתו לידיה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רב אשי's answer means the gentiles view the produce as acquired through a sale, where the field remains sold to the lender until redemption, and notes that one could also answer based on אבק רבית, but the sale explanation is also valid."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "What does רַב סָפְרָא's principle actually teach?",
+      "stepSummary": "The Gemara asks what רַב סָפְרָא's principle is actually teaching, given that the previous cases were resolved by recharacterizing the gentile legal status.",
+      "whatsHappening": "The Gemara questions the utility of the principle after the resolutions. It asks what specific cases the principle covers if the apparent counter-examples are not really loans in gentile law.",
+      "deeperAnalysis": "The Gemara asks: If the previous cases were resolved by saying gentile law views them as deposits or sales, then what is רַב סָפְרָא's principle actually coming to teach us? It seems redundant or unclear what cases it covers if the apparent counter-examples are not really loans in gentile law.",
+      "keyTerms": [
+        {
+          "term": "מַאי אֲתָא לְאַשְׁמוֹעִינַן",
+          "meaning": "what is he coming to teach us?"
+        }
+      ],
+      "whatToRemember": "This question seeks to identify the specific cases where the principle applies without needing recharacterization.",
+      "confusionAlert": "Note that this is a neutral question about the scope of the teaching, not an objection.",
+      "whyThisMatters": "This question leads to the specific application of the principle to רִבִּית קְצוּצָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא כֹּל שֶׁאִילּוּ בְּדִינֵיהֶן,",
+          "english": "But all that they judge by their laws,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּקָאָמַר רַב סָפְרָא:",
+          "english": "that Rav Safra says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי אֲתָא לְאַשְׁמוֹעִינַן!",
+          "english": "What is he coming to teach us!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכִי אֲתָא לְאַשְׁמוֹעִינַן:",
+          "english": "Thus he is coming to teach us:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כֹּל שֶׁאִילּוּ בְּדִינֵיהֶן מוֹצִיאִין מִלֹּוֶה לְמַלְוֶה,",
+          "english": "All that they judge by their laws, one removes from the borrower to the lender,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בְּדִינֵינוּ מַחְזִירִין מִמַּלְוֶה לְלֹוֶה,",
+          "english": "By our laws, one returns from the lender to the borrower,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמַאי נִיהוּ –",
+          "english": "And what are they –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּרִבִּית קְצוּצָה, וְכִדְרַבִּי אֶלְעָזָר.",
+          "english": "In fixed interest, and according to Rabbi Elazar."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא כֹּל שֶׁאִילּוּ בְּדִינֵיהֶן, דְּקָאָמַר רַב סָפְרָא: מַאי אֲתָא לְאַשְׁמוֹעִינַן!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        22,
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follow_up_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:2:1",
+            "hebrew": "מאי אתא לאשמועינן - הי נינהו דבדיניהם אין מוציאין והוא רבית ובדינינו אין מחזירין:",
+            "english": "",
+            "takeaway": "רש״י explains that רַב סָפְרָא's principle is specifically needed to teach us about רִבִּית קְצוּצָה, a case where gentile law would not require repayment but Jewish law does not require returning it either."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The principle also covers רִבִּית מוּקְדָּמֶת and רִבִּית מְאוּחֶרֶת",
+      "stepSummary": "The Gemara states that the second part of the principle applies to רִבִּית מוּקְדָּמֶת and רִבִּית מְאוּחֶרֶת, where neither gentile nor Jewish law compels return.",
+      "whatsHappening": "The Gemara completes the explanation of the principle by addressing the second half. It explains that the principle covers cases where interest is not fixed in advance.",
+      "deeperAnalysis": "The Gemara explains the second part of רַב סָפְרָא's statement: 'In any case where by their laws one does not remove the interest from the borrower to give to the lender, by our laws one does not return the interest from the lender to the borrower.' This refers to רִבִּית מוּקְדָּמֶת and רִבִּית מְאוּחֶרֶת. In these cases, the obligation is not clear or fixed, so gentile law would not enforce payment. Similarly, under Jewish law, although these are prohibited, one does not compel the lender to return them because they are not part of a fixed agreement.",
+      "keyTerms": [
+        {
+          "term": "רִבִּית מוּקְדָּמֶת",
+          "meaning": "prior interest [interest paid in advance]"
+        },
+        {
+          "term": "רִבִּית מְאוּחֶרֶת",
+          "meaning": "subsequent interest [a gift given after the loan]"
+        }
+      ],
+      "whatToRemember": "The second part of the principle covers cases where the interest is not fixed in advance.",
+      "confusionAlert": "Note that רִבִּית מוּקְדָּמֶת and רִבִּית מְאוּחֶרֶת are prohibited but not enforced for return.",
+      "whyThisMatters": "This completes the application of the principle to all types of interest.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כֹּל שֶׁאִילּוּ בְּדִינֵיהֶם אֵין מוֹצִיאִין,",
+          "english": "In all that they ask by their laws, one does not remove,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּדִינֵינוּ אֵין מַחְזִירִין –",
+          "english": "by our laws, one does not return –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רִבִּית מוּקְדֶּמֶת, רִבִּית מְאוּחֶרֶת.",
+          "english": "prior interest, subsequent interest."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כֹּל שֶׁאִילּוּ בְּדִינֵיהֶם אֵין מוֹצִיאִין, בְּדִינֵינוּ אֵין מַחְזִירִין – רִבִּית מוּקְדָּמֶת, רִבִּית מְאוּחֶרֶת.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:3:1",
+            "hebrew": "רבית מוקדמת ורבית מאוחרת - בשלהי מתניתין (דף עה:) קתני לה והא בתורת רבית יהיב ליה ובדיניהם אם לא נתן אין מוציאין שהרי לא פסק עמו:",
+            "english": "",
+            "takeaway": "רש״י explains that רִבִּית מוּקְדָּמֶת and רִבִּית מְאוּחֶרֶת are discussed in the final Mishnah of the chapter, where the lender gives the interest as a gift, and under gentile law, if the borrower hasn't paid, the lender cannot collect because no fixed amount was agreed upon."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's case of buying wheat at a fixed price",
+      "stepSummary": "The Mishna introduces the case of buying wheat at a fixed price and the prohibition of interest when the seller does not have the produce.",
+      "whatsHappening": "The Mishna sets up the scenario of buying wheat at a fixed price and the prohibition of interest. It describes a case where one buys wheat at a fixed price, and the seller does not have the produce.",
+      "deeperAnalysis": "The Mishna describes a case where one buys wheat at a fixed price, and the seller does not have the produce. The Gemara will explore the implications of this scenario. This sets the stage for the discussion on the prohibition of interest.",
+      "keyTerms": [
+        {
+          "term": "חִטִּים",
+          "meaning": "wheat"
+        },
+        {
+          "term": "דִּינָר זָהָב",
+          "meaning": "gold dinar"
+        },
+        {
+          "term": "שַׁעַר",
+          "meaning": "market price"
+        }
+      ],
+      "whatToRemember": "The Mishna's case is the starting point for the Gemara's discussion.",
+      "confusionAlert": "The Mishna's case is complex and will be clarified by the Gemara.",
+      "whyThisMatters": "The Mishna's case is the foundation for the Gemara's discussion on the prohibition of interest.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כֵּיצַד: לָקַח הֵימֶנּוּ חִטִּים בְּדִינַר זָהָב הַכּוֹר,",
+          "english": "How so? He took from him wheat at one gold dinar the kor,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְכֵן הַשַּׁעַר וְכוּ׳.",
+          "english": "And so the price etc."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכִי אֵין לוֹ יַיִן, מַאי הָוֵי?",
+          "english": "And if he does not have wine, what is it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כֵּיצַד: לָקַח הֵימֶנּוּ חִטִּים בְּדִינָר זָהָב הַכּוֹר, וְכֵן הַשַּׁעַר וְכוּ׳. וְכִי אֵין לוֹ יַיִן, מַאי הָוֵי?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:4:1",
+            "hebrew": "וכי אין לו יין מאי הוי - אחר שיצא השער ליין והוא חייב לו החטין או המעות הרי הוא כפוסק עמו עכשיו על היין:",
+            "english": "",
+            "takeaway": "רש״י explains that once the market price for wine is established, the obligation to pay for the wheat (or the money owed) transforms the transaction into a new fixed-price agreement for wine, which constitutes interest."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62b:4:1",
+            "hebrew": "לקח הימנו חטין בדינר זהב הכור - רש\"י פירש דמקח חטין הוי היתר אע\"פ שאין לו חטים כיון שנתן לו מעות ולא קאי אסור אלא איין ונקט רישא לרבותא דסיפא דיין אסור אע\"ג שבא מכח פיסוק הראשון של חטים שהיה דרך מקח וממכר ולא דרך הלואה וקשה לפירושו חדא שצריך למחוק הספרים לקמן (בבא מציעא דף סג.) בגמרא דגרס והא לקח קתני מאי לקח לקח בהלואתו כי לפי זה אתי שפיר לקח דקאי אחטים דשרו ועוד כיון דאסור לא קאי אלא איין מאי פריך בגמרא וכי אין לו יין מאי הוי והתנן יצא השער פוסקין אע\"פ שאין לזה יש לזה וכי לא ידע דאסור לפסוק יין מחמת חוב ולא נתן לו אז שום דמים ועוד מדמשני בבא לחוב בדמיהם מכלל דמעיקרא סבר שהיה נותן לו דמים ותו אדפריך מיצא השער פוסקין לפרוך מרישא דשרי גבי חטים מיהו זה יש לתרץ דהוה משני דאסור קאי גם ארישא או הוה מוקמינן רישא דשרי ביש לו חטים דוקא לכך נראה דאיזהו תרבית דאסור קאי אכולה מתני' וכי קתני בסיפא יין אין לו הוא הדין דגם חטין אין לו לכך פריך בגמרא וכי אין לו יין וגם חטים מאי הוי ועיקר קושייתו מכח חטים דאסור כי אין לו אע\"פ שנותן דינר זהב ומשני בבא לחוב בדמיהן שכבר היה חייב לו דינר זהב ובשעת קנין אינו נותן לו כלום ומיד הוי ליה למפרך והא לקח קתני אלא דפריך ליה השתא עדיפא מינה וא\"ת אמאי תני גבי יין אין לו כי נמי יש לו אסור ליתן שוה ל' דינר הלא אפילו חטים הוה איסורא ליקח בל' דינר כיון שלא היה לו חטים בפסק הראשון וי\"ל דנקט לאשמועינן דאף ברישא אין לו חטים ואסור:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's view that the wheat transaction is permitted even without possession, arguing that the prohibition of interest applies to the entire Mishna, including the wheat, because the initial payment creates a debt that makes the subsequent wine transaction a loan-based interest arrangement."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's distinction between the permitted wheat transaction and the prohibited wine transaction, asserting that the prohibition of interest applies to the entire Mishna because the initial payment creates a debt that taints the subsequent exchange."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a Baraita about setting prices",
+      "stepSummary": "The Gemara challenges the Mishna with a Baraita that allows setting prices even if the seller does not have the produce.",
+      "whatsHappening": "The Gemara cites a Baraita that seems to contradict the Mishna's implication that the seller must have the produce. The Baraita states that one can set a price for produce even if the seller does not have it, as long as the market price is known.",
+      "deeperAnalysis": "The Baraita states that one can set a price for produce even if the seller does not have it, as long as the market price is known. This challenges the Mishna's focus on the seller's possession. It introduces the concept of setting prices without possession, which is central to the Gemara's discussion.",
+      "keyTerms": [
+        {
+          "term": "פּוֹסְקִין",
+          "meaning": "setting a price"
+        },
+        {
+          "term": "יָצָא הַשַּׁעַר",
+          "meaning": "the market price is known"
+        },
+        {
+          "term": "אֵין לָזֶה, יֵשׁ לָזֶה",
+          "meaning": "even if this one doesn't have it, that one does"
+        }
+      ],
+      "whatToRemember": "The Baraita allows setting prices without possession, challenging the Mishna's implication.",
+      "confusionAlert": "The Baraita seems to contradict the Mishna's focus on possession.",
+      "whyThisMatters": "The Baraita introduces the concept of setting prices without possession, which is central to the Gemara's discussion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָתַנְיָא: אֵין פּוֹסְקִין עַל הַפֵּירוֹת עַד שֶׁיֵּצֵא הַשַּׁעַר,",
+          "english": "And it is taught: One does not set a price on the produce until the gate goes out,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יָצָא הַשַּׁעַר – פּוֹסְקִין,",
+          "english": "The gate went out – one sets a price,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַף עַל פִּי שֶׁאֵין לָזֶה, יֵשׁ לָזֶה!",
+          "english": "Even though this one does not have, that one has!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָתַנְיָא: אֵין פּוֹסְקִין עַל הַפֵּירוֹת עַד שֶׁיֵּצֵא הַשַּׁעַר, יָצָא הַשַּׁעַר – פּוֹסְקִין, אַף עַל פִּי שֶׁאֵין לָזֶה, יֵשׁ לָזֶה!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:5:1",
+            "hebrew": "אין פוסקין על הפירות - ליתן לו מעות בכור חטין ולומר לו תנהו לי לסוף זמן גדול ואפילו יש שנותנין אותו עכשיו בכך בתחילת הקציר אין זה שער עד שיצא שער מפורסם וקבוע בשוקי העיר בכך:",
+            "english": "",
+            "takeaway": "רש״י explains that one cannot set a price for produce until a fixed, public market price (שער מפורסם וקבוע) is established, even if some sellers are currently offering it at that price."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:5:2",
+            "hebrew": "אע\"פ שאין לזה - המוכר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'אע"
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62b:5:1",
+            "hebrew": "והתנן אין פוסקין - אית דגרסי והתניא משום דלא גרסינן במתניתין יצא השער פוסקין וכן לקמן (בבא מציעא דף עב:) אית ספרים דגרסי אלא מתני' דאין פוסקין וכו' הא יצא השער פוסקין היכי משכחת לה באכלבאי וארבי ולספרים דגרסי הכא והתנן גרסי במתני' יצא השער פוסקין ולא גרסי' לקמן הא:",
+            "english": "",
+            "takeaway": "תוספות notes a textual variant where some manuscripts read 'והתניא' instead of 'והתנן' because the Mishna does not explicitly state 'יצא השער פוסקין', and explains how this affects the reading of the Mishna and the subsequent Gemara."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62b:5:2",
+            "hebrew": "אע\"פ שאין לזה יש לזה - דאע\"ג דלא משך חטין אין זה רבית כיון שאם היה בא מוכר לחזור הוה קאי במי שפרע ולכך חשיבי כנתיקרו ברשות לוקח:",
+            "english": "",
+            "takeaway": "תוספות explains that even though the buyer has not yet taken possession (משך) of the grain, the transaction is not considered interest (רבית) because if the seller were to return, he would be considered one who repaid a debt, thus the produce is regarded as if it were already in the buyer's domain."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Rabba's resolution: the case of incurring a debt",
+      "stepSummary": "Rabba resolves the difficulty by explaining that the Mishna deals with a case where the seller incurs a debt for the value of the produce.",
+      "whatsHappening": "Rabba offers a resolution to the difficulty raised by the Baraita. He explains that the Mishna is dealing with a case where the seller incurs a debt for the value of the produce.",
+      "deeperAnalysis": "Rabba explains that the Mishna is dealing with a case where the seller incurs a debt for the value of the produce. This distinguishes it from the Baraita's case, where the seller does not incur a debt. Rabba's resolution hinges on the concept of incurring a debt.",
+      "keyTerms": [
+        {
+          "term": "בָּא לָחוּב",
+          "meaning": "incurs a debt"
+        },
+        {
+          "term": "בִּדְמֵיהֶן",
+          "meaning": "for their value"
+        }
+      ],
+      "whatToRemember": "Rabba's resolution hinges on the concept of incurring a debt.",
+      "confusionAlert": "Rabba's resolution introduces a new concept that needs to be understood.",
+      "whyThisMatters": "Rabba's resolution clarifies the distinction between the Mishna's case and the Baraita's case.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבָּה: מַתְנִיתִין בְּבָא לָחוּב בִּדְמֵיהֶן עָסְקִינַן.",
+          "english": "Rabba said: Our mishna deals with one who comes to incur a debt for their value."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבָּה: מַתְנִיתִין בְּבָא לָחוּב בִּדְמֵיהֶן עָסְקִינַן.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:6:1",
+            "hebrew": "מתניתין בבא לחוב בדמיהן עסקינן - שלא נתן לו זה המוכר ללוקח דמי החטין שחייב לו שיחזור ויקבלם הימנו בשביל היין אלא בא לעשות עליו דמי החטין חוב ולפסוק על החוב יין וכך אמר לו אני מקבל עלי חיטך בל' דינר כמו שאתה יכול למוכרן והרי לך אצלי בהן יין כשער של עכשיו דאי הוה ליה יין הוה קנוי לו מעכשיו ואי אייקר ברשותיה אייקר אבל אין לו והוא לא קיבל עכשיו מעות שנוכל לומר יכול הוא לקנותו בדמים שקיבל נמצא שאינם אצלו אלא בהלואה בעלמא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's case involves the seller incurring a debt for the wheat's value, meaning the buyer did not actually pay cash but rather took on a debt obligation to be paid in wine at the current market price, which differs from a case where actual money was received and could be used to purchase the goods immediately."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "ראיה",
+      "title": "Supporting Baraita about a debt and wheat",
+      "stepSummary": "The Gemara cites a Baraita that supports Rabba's resolution, describing a case where a debtor offers wheat instead of money.",
+      "whatsHappening": "The Gemara cites a Baraita that supports Rabba's resolution. The Baraita describes a case where a debtor offers wheat instead of money, and the creditor agrees to take the wheat at the current market price.",
+      "deeperAnalysis": "The Baraita describes a case where a debtor offers wheat instead of money, and the creditor agrees to take the wheat at the current market price. This supports Rabba's explanation that the Mishna deals with a case where the seller incurs a debt. The Baraita provides support for Rabba's resolution, clarifying the distinction between the Mishna's case and the Baraita's case.",
+      "keyTerms": [
+        {
+          "term": "נוֹשֶׁה",
+          "meaning": "owed"
+        },
+        {
+          "term": "גּוֹרְנוֹ",
+          "meaning": "his granary"
+        },
+        {
+          "term": "כְּשַׁעַר שֶׁל עַכְשָׁיו",
+          "meaning": "at the current market price"
+        }
+      ],
+      "whatToRemember": "The Baraita supports Rabba's resolution by describing a similar case.",
+      "confusionAlert": "The Baraita's case is similar to the Mishna's case, but with a different focus.",
+      "whyThisMatters": "The Baraita provides support for Rabba's resolution, clarifying the distinction between the Mishna's case and the Baraita's case.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִדְתַנְיָא: הֲרֵי שֶׁהָיָה נוֹשֶׁה בַּחֲבֵירוֹ מָנֶה,",
+          "english": "And as it is taught: If one was owed a maneh by his fellow,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָלַךְ וְעָמַד עַל גּוֹרְנוֹ,",
+          "english": "and he went and stood by his threshing floor,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאוֹמֵר: תֵּן לִי מְעוֹתַי,",
+          "english": "and said: Give me my money,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁאֲנִי רוֹצֶה לִיקַּח בָּהֶם חִטִּים. אָמַר לוֹ:",
+          "english": "for I wish to buy wheat with them. He said to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חִטִּים יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לְךָ,",
+          "english": "Wheat I have that I will give you,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "צֵא וַעֲשֵׂה עָלַי כְּשַׁעַר שֶׁל עַכְשָׁיו,",
+          "english": "go and calculate for me according to the current measure,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וַאֲנִי אַעֲלֶה לְךָ כׇּל שְׁנֵים עָשָׂר חֹדֶשׁ –",
+          "english": "and I will bring you over twelve months –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָסוּר, דְּלָאו כְּאִיסָּרוֹ הַבָּא לְיָדוֹ דָּמֵי.",
+          "english": "it is forbidden, for it is not like his issar that came into his hand."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִדְתַנְיָא: הֲרֵי שֶׁהָיָה נוֹשֶׁה בַּחֲבֵרוֹ מָנֶה, וְהָלַךְ וְעָמַד עַל גּוֹרְנוֹ, וְאוֹמֵר: תֵּן לִי מְעוֹתַי, שֶׁאֲנִי רוֹצֶה לִקַּח בָּהֶם חִטִּים. אָמַר לוֹ: חִטִּים יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לְךָ, צֵא וַעֲשֵׂה עָלַי כְּשַׁעַר שֶׁל עַכְשָׁיו, וַאֲנִי אַעֲלֶה לְךָ כָּל שְׁנֵים עָשָׂר חֹדֶשׁ – אָסוּר, דְּלָאו כְּאִיסָרוֹ הַבָּא לְיָדוֹ דָּמֵי.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        30
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:7:1",
+            "hebrew": "דתניא - שיש הפרש בין נותן מעות לבא עליו בחובו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Baraita demonstrates a distinction between a case where money is given directly versus a case where the creditor comes to collect an existing debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:7:2",
+            "hebrew": "ואני אעלה לך - החטים כל שנים עשר חדש אף אם יתעלו דמיהן אקבל עלי העילוי ואתנם לך בדמים הללו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the debtor's statement 'ואני אעלה לך' means he accepts the obligation to pay the agreed price even if the market price of the wheat rises over the twelve months."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:7:3",
+            "hebrew": "דלא כאיסרו הבא לידו דמי - שאין זה דומה לנותן איסר בשעה שפוסק דאיכא למימר יקנה לו עכשיו בשוק במעות שקיבל:",
+            "english": "",
+            "takeaway": "רש״י explains that this case is not comparable to a scenario where a coin is given at the time of agreement, because in that case one could argue the creditor should have immediately purchased the wheat in the market with the money received."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62b:7:1",
+            "hebrew": "הרי שנושה כו' ועמד על גורנו - תימה והלא מעות קונות הכא אפילו מדרבנן דמילתא דלא שכיח היא כדאמרינן בהזהב (לעיל בבא מציעא דף מו:) גבי החליף דמי שור בפרה וי\"ל דהכא מיירי שלא פטרו ממנו עד שיתן לו החטין:",
+            "english": "",
+            "takeaway": "תוספות questions why this transaction is forbidden given that money creates acquisition even rabbinically for rare items, and answers that the case involves a debt that was not released until the wheat was actually delivered."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Abaye's challenge to Rabba's resolution",
+      "stepSummary": "Abaye challenges Rabba's resolution by arguing that the Mishna's case is forbidden even if the seller has the produce.",
+      "whatsHappening": "Abaye challenges Rabba's resolution by arguing that the Mishna's case is forbidden even if the seller has the produce. He argues that if the Mishna's case is forbidden because the seller does not have the produce, then it should be forbidden even if the seller has the produce, as the transaction is still a loan with interest.",
+      "deeperAnalysis": "Abaye argues that if the Mishna's case is forbidden because the seller does not have the produce, then it should be forbidden even if the seller has the produce, as the transaction is still a loan with interest. This challenges Rabba's resolution. Abaye's challenge hinges on the idea that the transaction is forbidden regardless of possession.",
+      "keyTerms": [
+        {
+          "term": "אִי דְּלָא כְּאִיסָרוֹ הַבָּא לְיָדוֹ",
+          "meaning": "if it is not like his issar coming into his possession"
+        },
+        {
+          "term": "מַאי אִירְיָא",
+          "meaning": "why is it necessary"
+        },
+        {
+          "term": "אַף עַל פִּי שֶׁיֵּשׁ לוֹ",
+          "meaning": "even if he has it"
+        }
+      ],
+      "whatToRemember": "Abaye's challenge hinges on the idea that the transaction is forbidden regardless of possession.",
+      "confusionAlert": "Abaye's challenge seems to contradict Rabba's resolution.",
+      "whyThisMatters": "Abaye's challenge introduces a new perspective on the Mishna's case, leading to a different resolution.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי:",
+          "english": "Abaye said to him:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי דְּלָא כְּאִיסָּרוֹ הַבָּא לְיָדוֹ,",
+          "english": "If not because his issar came into his hand,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי אִירְיָא ״אֵין לוֹ״?",
+          "english": "What need of 'he does not have'?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲפִילּוּ יֵשׁ לוֹ נָמֵי!",
+          "english": "Even if he has, too!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא אָמַר אַבָּיֵי: מַתְנִיתִין,",
+          "english": "Rather, Abaye said: Our mishna,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כִּדְתָנֵי רַב סָפְרָא בְּרִבִּית דְּבֵי רַבִּי חִיָּיא.",
+          "english": "As Rav Safra taught in the school of Rabbi Hiyya."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ אַבָּיֵי: אִי דְּלָא כְּאִיסָרוֹ הַבָּא לְיָדוֹ, מַאי אִירְיָא ״אֵין לוֹ״? אַף עַל פִּי שֶׁיֵּשׁ לוֹ נָמֵי! אֶלָּא אָמַר אַבָּיֵי: מַתְנִיתִין, כִּדְתָנֵי רַב סַפְרָא בְּרִבִּית דְּבֵי רַבִּי חִיָּיא.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:8:1",
+            "hebrew": "אפילו יש לו יין נמי - דהאי תנא בעומד על גורנו קאמר דיש לו חטין ואפילו הכי אסר:",
+            "english": "",
+            "takeaway": "רש״י explains that Abaye's challenge assumes the Mishna refers to a seller who already has the produce (עומד על גורנו), yet the transaction is still forbidden."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:8:2",
+            "hebrew": "כדתני רב ספרא - ולא בפוסק עמו בתחילה על החטין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Abaye's resolution relies on the teaching of רב ספרא, which distinguishes between a sale of existing produce and a pre-arranged agreement (פוסק עמו בתחילה)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Abaye's resolution: the case of circumventing interest",
+      "stepSummary": "Abaye resolves the difficulty by explaining that the Mishna deals with a case where the seller circumvents the prohibition of interest.",
+      "whatsHappening": "Abaye offers a resolution to the difficulty raised by his challenge. He explains that the Mishna is dealing with a case where the seller circumvents the prohibition of interest.",
+      "deeperAnalysis": "Abaye explains that the Mishna is dealing with a case where the seller circumvents the prohibition of interest. This distinguishes it from Rabba's case, where the seller incurs a debt. Abaye's resolution hinges on the concept of circumventing interest.",
+      "keyTerms": [
+        {
+          "term": "הַעֲרָמַת רִבִּית",
+          "meaning": "circumventing interest"
+        },
+        {
+          "term": "מוּתָרִין וַאֲסוּרִין",
+          "meaning": "permitted and forbidden"
+        }
+      ],
+      "whatToRemember": "Abaye's resolution hinges on the concept of circumventing interest.",
+      "confusionAlert": "Abaye's resolution introduces a new concept that needs to be understood.",
+      "whyThisMatters": "Abaye's resolution clarifies the distinction between the Mishna's case and Rabba's case.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּתָנֵי רַב סָפְרָא בְּרִבִּית דְּבֵי רַבִּי חִיָּיא:",
+          "english": "As Rav Safra taught a baraita from the school of Rabbi Ḥiyya:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יֵשׁ דְּבָרִים שֶׁהֵם מוּתָּרִין וַאֲסוּרִין מִפְּנֵי הַעֲרָמַת רִבִּית.",
+          "english": "There are matters that are permitted and prohibited because of the artifice of interest."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כֵּיצַד? אָמַר לוֹ: הַלְוֵינִי מָנֶה!",
+          "english": "How so? He said to him: Lend me a maneh!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר לוֹ: מָנֶה אֵין לִי,",
+          "english": "He said to him: A maneh I do not have,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חִטִּין בְּמָנֶה יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לָךְ.",
+          "english": "wheat for a maneh I have that I will give you."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "נָתַן לוֹ חִטִּין בְּמָנֶה,",
+          "english": "He gave him wheat for a maneh,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְחָזַר וּלְקָחָן הֵימֶנּוּ בְּעֶשְׂרִים וְאַרְבַּע סֶלַע –",
+          "english": "and he returned and bought them from him for twenty-four sela –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מוּתָּר, וְאָסוּר לַעֲשׂוֹת כֵּן מִפְּנֵי הַעֲרָמַת רִבִּית.",
+          "english": "permitted, and prohibited to do so because of the artifice of interest."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּתָנֵי רַב סַפְרָא בְּרִבִּית דְּבֵי רַבִּי חִיָּיא: יֵשׁ דְּבָרִים שֶׁהֵם מוּתָרִין וַאֲסוּרִין מִפְּנֵי הַעֲרָמַת רִבִּית. כֵּיצַד? אָמַר לוֹ: הַלְוֵינִי מָנֶה! אָמַר לוֹ: מָנֶה אֵין לִי, חִטִּין בְּמָנֶה יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לָךְ. נָתַן לוֹ חִטִּין בְּמָנֶה, וְחָזַר וּלְקָחָן הֵימֶנּוּ בְּעֶשְׂרִים וְאַרְבַּע סֶלַע – מוּתָר, וְאָסוּר לַעֲשׂוֹת כֵּן מִפְּנֵי הַעֲרָמַת רִבִּית.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:9:1",
+            "hebrew": "שאני נותן לך - כשער של עכשיו ונתנם לו:",
+            "english": "",
+            "takeaway": "רש״י explains that the borrower's statement 'חטין במנה יש לי שאני נותן לך' means he is selling the wheat to the lender at the current market price of a מנה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:9:2",
+            "hebrew": "וחזר ולקחן ממנו בכ\"ד סלעים - דאוזיל גביה סלע שהמנה כ\"ה סלעים והוא היה דחוק למעות ולא יכול להמתין ליום השוק:",
+            "english": "",
+            "takeaway": "רש״י explains that the lender subsequently buys the wheat back for כ"
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Application to the Mishna's case",
+      "stepSummary": "Abaye applies his resolution to the Mishna's case, explaining that the seller circumvents the prohibition of interest by offering wheat instead of money.",
+      "whatsHappening": "אַבָּיֵי applies his resolution to the Mishna's case. He explains how the Mishna's scenario parallels the Baraita's case of circumventing interest.",
+      "deeperAnalysis": "The Mishna's case involves a seller offering wheat instead of money, similar to the Baraita. This clarifies the distinction between the Mishna's case and רַבָּא's case.",
+      "keyTerms": [
+        {
+          "term": "הַלְוֵינִי שְׁלֹשִׁים דִּינָרִים",
+          "meaning": "lend me thirty dinars"
+        },
+        {
+          "term": "חִטִּין בִּשְׁלֹשִׁים דִּינָרִים",
+          "meaning": "wheat worth thirty dinars"
+        },
+        {
+          "term": "מִחֲזֵי כְּרִבִּית",
+          "meaning": "has the appearance of interest"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא נָמֵי. כְּגוֹן דְּאָמַר:",
+          "english": "Here too. For example, when he said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַלְוֵינִי שְׁלֹשִׁים דִּינָרִים, אֲמַר לֵיהּ:",
+          "english": "Lend me thirty dinars, he said to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׁלֹשִׁים דִּינָרִים אֵין לִי,",
+          "english": "Thirty dinars I do not have,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חִטִּין בִּשְׁלֹשִׁים דִּינָרִים יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לָךְ.",
+          "english": "Wheat for thirty dinars I have that I will give you."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נָתַן לוֹ חִטִּין בִּשְׁלֹשִׁים דִּינָרִים,",
+          "english": "He gave him wheat for thirty dinars,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְחָזַר וּלְקָחָם הֵימֶנּוּ בְּדִינַר זָהָב.",
+          "english": "And he returned and bought them from him for a gold dinar."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִי אִית לֵיהּ חַמְרָא לְלֹוֶה,",
+          "english": "If there is wine for the borrower,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּיָהֵיב לֵיהּ בִּשְׁלֹשִׁים דִּינָר –",
+          "english": "That he should give him for thirty dinars –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "פֵּירָא הוּא דְּקָא שָׁקֵיל מִינֵּיהּ,",
+          "english": "It is produce that he is taking from him,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְלֵית לַן בַּהּ. וְאִי לָא,",
+          "english": "And we have no issue with it. And if not,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "כֵּיוָן דְּלֵית לֵיהּ חַמְרָא –",
+          "english": "Since he does not have wine –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וַדַּאי מִשְׁקַל זוּזֵי מִינֵּיהּ, מִחֲזֵי כְּרִבִּית.",
+          "english": "Certainly he takes coins from him, it appears as interest."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא נָמֵי. כְּגוֹן דְּאָמַר: הַלְוֵינִי שְׁלֹשִׁים דִּינָרִים, אֲמַר לֵיהּ: שְׁלֹשִׁים דִּינָרִים אֵין לִי, חִטִּין בִּשְׁלֹשִׁים דִּינָרִים יֵשׁ לִי שֶׁאֲנִי נוֹתֵן לָךְ. נָתַן לוֹ חִטִּין בִּשְׁלֹשִׁים דִּינָרִים, וְחָזַר וּלְקָחָם הֵימֶנּוּ בְּדִינָר זָהָב. אִי אִית לֵיהּ חַמְרָא לְלֹוֶה, דְּיָהֵיב לֵיהּ בִּשְׁלֹשִׁים דִּינָר – פֵּירָא הוּא דְּקָא שָׁקֵיל מִינֵיהּ, וְלֵית לַן בַּהּ. וְאִי לָא, כֵּיוָן דְּלֵית לֵיהּ חַמְרָא – וַדַּאי מִשְׁקַל זוּזֵי מִינֵיהּ, מִחֲזֵי כְּרִבִּית.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "applies",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:10:1",
+            "hebrew": "וחזר ולקחן ממנו בדינר זהב - מתניתין כי קאמר לקח הימנו חטים במלוה קאי וכבא לתובעו אמר לו תן לי מעותי שאני לוקח בהן יין אמר לו הרי מעותיך עשויות עלי בדמי שלשים דינרין יין ויין אין לו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's case of 'he bought them back' refers to the borrower claiming he needs the money to buy wine, and the lender responds that the money is already owed to him for the value of the wheat, but the borrower has no wine to give."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:10:2",
+            "hebrew": "ואי הוה ליה חמרא - זוזי יהיב ליה מעיקרא ופירי שקיל מיניה ולא דמי לרבית אבל משקל מיניה זוזי אסור דדינר זהב יהיב ליה וקא שקיל מיניה תלתין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the borrower had wine, he would have paid the loan in money initially and taken the profit from the wine, which is not considered ריבית, but since he takes the money back, it is forbidden because he gives a golden dinar and receives thirty silver dinars."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to the resolution",
+      "stepSummary": "Rava challenges Abaye's resolution by arguing that the Mishna's wording does not fit Abaye's explanation.",
+      "whatsHappening": "רַבָּא challenges אַבָּיֵי's resolution. He argues that the Mishna's wording does not fit אַבָּיֵי's explanation.",
+      "deeperAnalysis": "The Mishna says 'Give me my wheat,' but אַבָּיֵי's explanation requires 'Give me the value of my wheat.' This challenges אַבָּיֵי's resolution.",
+      "keyTerms": [
+        {
+          "term": "תֵּן לִי חִיטַי",
+          "meaning": "give me my wheat"
+        },
+        {
+          "term": "דְּמֵי חִיטַי",
+          "meaning": "the value of my wheat"
+        },
+        {
+          "term": "שֶׁאֲנִי מוֹכְרָן",
+          "meaning": "that I sell them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רָבָא: אִי הָכִי,",
+          "english": "Rava said to him: If so,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״תֵּן לִי חִיטַּי״,",
+          "english": "\"Give me my wheat\","
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּמֵי חִיטַּי מִבְּעֵי לֵיהּ!",
+          "english": "the value of my wheat he asks from him!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "תְּנִי ״דְּמֵי חִיטַּי״.",
+          "english": "Teach \"the value of my wheat\"."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״שֶׁאֲנִי מוֹכְרָן״, ״שֶׁמְּכַרְתִּים לָךְ״ מִבַּעְיָא לֵיהּ!",
+          "english": "\"As I wish to sell it\", \"Which I sold to you\" he asks from him!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תְּנִי ״שֶׁמְּכַרְתִּים לָךְ״.",
+          "english": "Teach \"Which I sold to you\"."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״הֲרֵי חִטֶּיךָ עֲשׂוּיוֹת עָלַי בִּשְׁלֹשִׁים דִּינָרִין״,",
+          "english": "\"Your wheat is considered by me to be worth thirty dinars\","
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מֵעִיקָּרָא נָמֵי הָכִי אוֹקְמִינְהוּ עִילָּוֵיהּ!",
+          "english": "from the beginning also we established it upon him!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הָכִי קָאָמַר לֵיהּ:",
+          "english": "This is what he says to him:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "בִּדְמֵי חִטֶּיךָ שֶׁעָשִׂיתָ עָלַי בִּשְׁלֹשִׁים דִּינָר.",
+          "english": "in the value of your wheat that you calculated for me at thirty dinars."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רָבָא: אִי הָכִי, ״תֵּן לִי חִיטַי״, דְּמֵי חִיטַי מִבְּעֵי לֵיהּ! תְּנִי ״דְּמֵי חִיטַי״. ״שֶׁאֲנִי מוֹכְרָן״, ״שֶׁמְּכַרְתִּים לָךְ״ מִבַּעְיָא לֵיהּ! תְּנִי ״שֶׁמְּכַרְתִּים לָךְ״. ״הֲרֵי חִטֶּיךָ עֲשׂוּיוֹת עָלַי בִּשְׁלֹשִׁים דִּינָרִין״, מֵעִקָּרָא נָמֵי הָכִי אוֹקְמִינְהוּ עִלּוּוֵיהּ! הָכִי קָאָמַר לֵיהּ: בִּדְמֵי חִטֶּיךָ שֶׁעָשִׂיתָ עָלַי בִּשְׁלֹשִׁים דִּינָר.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges"
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: the case of רַבִּי אוֹשַׁעְיָא",
+      "stepSummary": "Rava resolves the difficulty by explaining that the Mishna deals with a case where the seller offers produce instead of money, as taught by Rabbi Oshaya.",
+      "whatsHappening": "רַבָּא offers a resolution to the difficulty. He explains that the Mishna deals with a case where the seller offers produce instead of money, as taught by רַבִּי אוֹשַׁעְיָא.",
+      "deeperAnalysis": "This distinguishes the Mishna's case from אַבָּיֵי's case, where the seller circumvents the prohibition of interest. The Mishna's case is about offering produce instead of money.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אוֹשַׁעְיָא",
+          "meaning": "Rabbi Oshaya"
+        },
+        {
+          "term": "נְפַק לְווֹתִי",
+          "meaning": "will come out to greet me"
+        },
+        {
+          "term": "כְּווֹתֵיהּ",
+          "meaning": "in accordance with his opinion"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "״הֲרֵי לָךְ אֶצְלִי בָּהֶן יַיִן וְיַיִן אֵין לוֹ״,",
+          "english": "Behold, you have against me in them wine, and he does not have wine"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא ״בְּדִינַר זָהָב הַכּוֹר וְכֵן הַשַּׁעַר״ קָתָנֵי!",
+          "english": "And yet, 'At a gold dinar the kor, and so is the price' it taught!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא אָמַר רָבָא:",
+          "english": "Rather, Rava said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי שָׁכֵיבְנָא רַבִּי אוֹשַׁעְיָא נְפַק לְווֹתִי,",
+          "english": "When I die, Rabbi Oshaya will come out to greet me,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּמְתָרַצְנָא מַתְנִיתִין כְּווֹתֵיהּ.",
+          "english": "Because I resolve the Mishnah in accordance with him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "״הֲרֵי לָךְ אֶצְלִי בָּהֶן יַיִן וְיַיִן אֵין לוֹ״, וְהָא ״בְּדִינָר זָהָב הַכּוֹר וְכֵן הַשַּׁעַר״ קָתָנֵי! אֶלָּא אָמַר רָבָא: כִּי שָׁכֵיבְנָא רַבִּי אוֹשַׁעְיָא נְפַק לְווֹתִי, דִּמְתָרַצְנָא מַתְנִיתִין כְּווֹתֵיהּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:12:1",
+            "hebrew": "הא בדינר זהב הכור וכן השער קתני - ואם כדבריך כשלקחן בדינר זהב היה השער שלשים והאי דאוזיל גביה דאי השער בדינר זהב וזה העלם עליו שלשים דינר מעיקרא אוקמינהו ברבית בשביל המתנתו:",
+            "english": "",
+            "takeaway": "רש״י explains that if the price was originally set at one dinar of gold per kor, and the market price was thirty dinars, then the seller's later offer to accept the produce at the lower price would constitute רבית due to the delay in payment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62b:12:2",
+            "hebrew": "כי שכיבנא ר' אושעיא נפיק לוותי - כשאמות ר' אושעיא יצא לקראתי:",
+            "english": "",
+            "takeaway": "רש״י explains the Aramaic phrase כי שכיבנא ר' אושעיא נפיק לוותי as meaning that the ruling of רבי אושעיא came to Rava's attention at the time of רבי אושעיא's death."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T09:47:29.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 135.2637143000029,
+      "structure": 2320.5243478000048,
+      "validate": 289.1456242002896,
+      "translate": 360.82798939966597,
+      "meforshim": 686.2527952996315,
+      "teaching": 981.3912318000221
+    }
+  }
+}

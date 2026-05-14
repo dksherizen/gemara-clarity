@@ -1,0 +1,729 @@
+{
+  "ref": "Bava Metzia 53a",
+  "masechet": "Bava_Metzia",
+  "daf": 53,
+  "amud": "a",
+  "mainTopic": "(continues) מעשר שני שאין בו שוה פרוטה",
+  "overview": "The Gemara discusses the laws of Ma'aser Sheni worth less than a prutah that entered and left Jerusalem, debating whether it can be redeemed on the first coins or if it is nullified. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 9,
+      "topic": "(continues) מעשר שני שאין בו שוה פרוטה",
+      "gist": "The Gemara discusses the laws of Ma'aser Sheni worth less than a prutah that entered and left Jerusalem, debating whether it can be redeemed on the first coins or if it is nullified. — discussion continues into next amud.",
+      "openingFormula": "גופא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The בְּרִיתָה only lists stringencies, not leniencies",
+      "stepSummary": "The גְּמָרָה resolves the challenge by suggesting the בְּרִיתָה only lists stringencies of תְּרוּמָה, so 'not so with מַעֲשֵׂר' might mean מַעֲשֵׂר is not nullified at all.",
+      "whatsHappening": "The גְּמָרָה attempts to defend חִזְקִיָּה by reinterpreting the בְּרִיתָה. The גְּמָרָה suggests that the phrase 'which is not so with regard to second tithe' does not mean מַעֲשֵׂר is nullified in a majority.",
+      "deeperAnalysis": "Instead, it might mean מַעֲשֵׂר is not nullified at all. Since the בְּרִיתָה only lists stringencies of תְּרוּמָה, the contrast might be that מַעֲשֵׂר lacks these stringencies entirely, including the stringency of not being nullified. This would align with חִזְקִיָּה, who holds מַעֲשֵׂר is a דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין and thus never nullified.",
+      "keyTerms": [
+        {
+          "term": "חוּמְרֵי דִתְרוּמָה",
+          "meaning": "stringencies of teruma"
+        },
+        {
+          "term": "קוּלֵי דִתְרוּמָה",
+          "meaning": "leniencies of teruma"
+        },
+        {
+          "term": "נִכְסֵי כֹהֵן",
+          "meaning": "property of the priest"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִמַּאי דְּמַה שֶּׁאֵין כֵּן בַּמַּעֲשֵׂר – דְּבָטֵיל בְּרוּבָּא?",
+          "english": "And from where that which is not so with regard to second tithe — that it is negated in a…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּלְמָא לָא בָּטֵיל כְּלָל!",
+          "english": "Perhaps it is not negated at all!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא מָצֵית אָמְרַתְּ הָכִי,",
+          "english": "You cannot say so here,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּלְגַבֵּי תְּרוּמָה –",
+          "english": "because with regard to teruma —"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חוּמְרֵי דִתְרוּמָה קָתָנֵי,",
+          "english": "the stringencies of teruma he teaches,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "קוּלֵּי דִתְרוּמָה לָא קָתָנֵי.",
+          "english": "the leniencies of teruma he does not teach."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְהָא קָא תָנֵי: וְהֵן נִכְסֵי כֹהֵן!",
+          "english": "And yet he teaches: And they are the property of the priest!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִמַּאי דְּמַה שֶּׁאֵין כֵּן בַּמַּעֲשֵׂר – דְּבָטֵיל בְּרֹב?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:3:1",
+            "hebrew": "דלגבי תרומה - משנה זו במסכת בכורים (פ\"ב מ\"א) שנויה הלכך חשיבותא דידה קא מני ואזיל ולאו קולי דידה שתהא היא עולה ומעשר אינו עולה:",
+            "english": "",
+            "takeaway": "רש״י explains that the מִשְׁנָה in מַסֶּכֶת בְּכוֹרוֹת lists the חֻמְרוֹת of תְּרוּמָה, so the בְּרִיתָה here is only enumerating those stringencies and not the קוּלוֹת, such as the fact that תְּרוּמָה ascends to יְרוּשָׁלַ״י while מַעֲשֵׂר does not."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from an explicit בְּרִיתָה that מַעֲשֵׂר is nullified in a majority",
+      "stepSummary": "The גְּמָרָה rejects the previous resolution by citing another בְּרִיתָה that explicitly states מַעֲשֵׂר שֵׁנִי is nullified in a majority.",
+      "whatsHappening": "The גְּמָרָה brings a direct source contradicting חִזְקִיָּה. The גְּמָרָה states that the previous resolution should not enter your mind, because there is an explicit בְּרִיתָה: 'מַעֲשֵׂר שֵׁנִי בָּטֵיל בְּרֹב.'",
+      "deeperAnalysis": "This בְּרִיתָה specifies it applies to מַעֲשֵׂר worth less than a prutah that entered and exited Jerusalem. If חִזְקִיָּה is correct, this מַעֲשֵׂר should be redeemed on the first coins, making it a דָּבָר שֶׁיֵּשׁ לוֹ מַתִּירִין, which is never nullified. The explicit source directly contradicts חִזְקִיָּה's logic.",
+      "keyTerms": [
+        {
+          "term": "בָּטֵיל בְּרֹב",
+          "meaning": "nullified in a majority"
+        },
+        {
+          "term": "נִכְנַס לִירוּשָׁלַיִם וְיָצָא",
+          "meaning": "entered Jerusalem and exited"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא סָלְקָא דַּעְתָּךְ, דְּתַנְיָא בְּהֶדְיָא:",
+          "english": "Your understanding should not rise, for it is taught explicitly:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַעֲשֵׂר שֵׁנִי בָּטֵיל בְּרוּבָּא.",
+          "english": "Second tithe is nullified in a majority."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּבְאֵיזֶה מַעֲשֵׂר שֵׁנִי אָמְרוּ –",
+          "english": "And in which second tithe did they say –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּמַעֲשֵׂר שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה,",
+          "english": "In second tithe that has not in it a value of a peruta,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְשֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא.",
+          "english": "And that entered Jerusalem and exited."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאִם אִיתָא לִדְחִזְקִיָּה,",
+          "english": "And if it is so according to Ḥizkiyya,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לֶיעְבֵּד לֵיהּ לִדְחִזְקִיָּה,",
+          "english": "Let him do for him according to Ḥizkiyya,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְנִיחַלְּלֵיהּ עַל מָעוֹת הָרִאשׁוֹנוֹת! דְּלָא פָּרֵיק.",
+          "english": "And let him redeem it upon the first coins! For he does not redeem."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא סָלְקָא דַעְתָּךְ, דְּתַנְיָא בְּהֶדְיָא: מַעֲשֵׂר שֵׁנִי בָּטֵיל בְּרֹב.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:4:1",
+            "hebrew": "לא ס\"ד - דלא בטיל כלל אלא ודאי בטיל ברוב קאמר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's objection is not that מעשר שני is never nullified, but rather that it is indeed nullified in a majority, contradicting חזקיה's view."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:4:2",
+            "hebrew": "ושנכנס לירושלים ויצא - לקמן מפרש דלית ליה תקנתא לא באכילה ולא בחילול:",
+            "english": "",
+            "takeaway": "רש״י explains that the condition of the מעשר entering and exiting Jerusalem is relevant because, as explained later, it lacks a remedy for either consumption or redemption."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:4:3",
+            "hebrew": "דלא פריק - לא פדה מעשר עד הנה שיהו מעות מעשר בידו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'דלא פריק' means the מעשר was not redeemed until this point, so the מעשר coins are still in the person's possession."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not bring other מַעֲשֵׂר to combine?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot bring other מַעֲשֵׂר worth half a prutah to combine with the nullified amount.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by suggesting a practical alternative. The גְּמָרָה asks: why not bring other מַעֲשֵׂר worth half a prutah and combine it with the half-prutah in the mixture?",
+      "deeperAnalysis": "This would create a full prutah of מַעֲשֵׂר, which could then be redeemed. This challenges the resolution by showing a way to avoid nullification even without first coins.",
+      "keyTerms": [
+        {
+          "term": "וּנְצָרֵף",
+          "meaning": "and let us combine them"
+        },
+        {
+          "term": "דְּאוֹרַיְתָא וּדְרַבָּנָן לָא מִצְטָרְפִי",
+          "meaning": "Torah law and Rabbinic law do not combine"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנַיְתֵי מַעֲשֵׂר דְּאִית לֵיהּ (וְנִצְטָרְפִינְהוּ) [וּנְצָרֵף]!",
+          "english": "And let him bring second-tithe produce that he has (and let them join together)!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאוֹרָיְיתָא וּדְרַבָּנַן לָא מִצְטָרְפִי.",
+          "english": "Of Torah law and of rabbinic law do not join."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנַיְתֵי מַעֲשֵׂר דְּאִית לֵיהּ [וּנְצָרֵף]!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:5:1",
+            "hebrew": "וניתי מעשר - שוה חצי פרוטה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the suggested מַעֲשֵׂר to be brought is worth half a prutah."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:5:2",
+            "hebrew": "ונצרף - יביאנו אצל המעורב ויאמר המעורב וזה מחוללים על פרוטה זו ואשתכח דיש לו מתירין:",
+            "english": "",
+            "takeaway": "רש״י explains that the proposed combination involves bringing the additional half-prutah of מַעֲשֵׂר to the mixture and declaring that the mixture and this new amount should be redeemed together on a single prutah, thereby creating מתירין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:5:3",
+            "hebrew": "דאורייתא ודרבנן לא מצטרפי - לתפוס פרוטה זו בקדושת מעשר שהמעורב מן התורה בטל ברוב דכתיב (שמות כ״ג:ב׳) אחרי רבים להטות ורבנן הוא דאמרו היכא דיש לו מתירין לא ליבטול הלכך אין איסור מעשר בזה אלא מדרבנן הילכך אין מצטרף עם זה לתפוס פדיונו נמצא שוה חצי פרוטה שהביא נאכל בלא חילול אבל דחזקיה מעות הראשונות כבר נתפסו:",
+            "english": "",
+            "takeaway": "רש״י resolves the challenge by explaining that biblical and rabbinic prohibitions do not combine to create a full prutah of obligation, because the mixture is biblically nullified by majority, leaving only a rabbinic prohibition that cannot combine with the new half-prutah to require redemption, unlike the first coins which were already seized."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not bring דְּמַאי to combine?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot bring דְּמַאי (doubtfully tithed produce) to combine with the mixture.",
+      "whatsHappening": "The גְּמָרָה presses again by suggesting a Rabbinic source of sanctity.",
+      "deeperAnalysis": "The גְּמָרָה asks: why not bring דְּמַאי, which is Rabbinically sanctified, to combine with the Rabbinically sanctified mixture? This would create a full Rabbinic prutah, which could be redeemed. This challenges the resolution by showing a way to combine Rabbinic sanctity.",
+      "keyTerms": [
+        {
+          "term": "דְּמַאי",
+          "meaning": "doubtfully tithed produce"
+        },
+        {
+          "term": "לְאֵיתוֹיֵי וַדַּאי",
+          "meaning": "to bring definite [untithed produce]"
+        }
+      ],
+      "whatToRemember": "The challenge is about using דְּמַאי to create a Rabbinic prutah.",
+      "confusionAlert": "Note that דְּמַאי is only Rabbinically sanctified.",
+      "whyThisMatters": "This tests the limits of combining Rabbinic sanctity.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנַיְתֵי דְּמַאי! דִּלְמָא אָתֵי לְאֵתוֹיֵי וַדַּאי.",
+          "english": "And let him bring demai! Lest he come to bring definitely untithed."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנַיְתֵי דְּמַאי!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:6:1",
+            "hebrew": "וניתי - חצי שוה פרוטה דמעשר שני של דמאי הלקוח מעם הארץ דאיסורו ופדיונו דרבנן דמדאורייתא כל אדם נאמן על המעשרות:",
+            "english": "",
+            "takeaway": "רש״י explains that the גְּמָרָה suggests bringing דְּמַאי, which is Rabbinically sanctified, to combine with the Rabbinically sanctified mixture, creating a full Rabbinic prutah that could be redeemed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:6:2",
+            "hebrew": "דלמא אתי לאתויי ודאי - ואז נמצא שוה חצי פרוטה שאינו מעורב נאכל בלא חילול:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern is that one might come to bring וַדַאי, which would then allow the remaining half-prutah to be eaten without redemption."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53a:6:1",
+            "hebrew": "דלמא אתי לאתויי ודאי - וא\"ת בהקומץ רבה (מנחות דף לא.) קאמר רבי שמעון שזורי פעם אחת נתערב לי טבל בחולין ואמר לי רבי טרפון לך וקח בשוק ועשר עליו ולא גזרינן דלמא אתי לאתויי ודאי וי\"ל דהתם ליכא למגזר דלמא אתי לאתויי ודאי דידע שפיר דאין מפרישין מן החיוב על הפטור אבל הכא לא אסיק אדעתיה דלא מצטרפי דאורייתא ודרבנן:",
+            "english": "",
+            "takeaway": "תוספות addresses a contradiction from מנחות where רבי טרפון permitted separating תרומה from חולין for טבל without fearing one would bring וַדַאי, explaining that there one knows one cannot separate from a non-obligated item for an obligated one, but here one might not realize that דאורייתא and דרבנן cannot combine."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not bring two prutot to redeem?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot bring two prutot to redeem a larger amount of מַעֲשֵׂר, leaving a half-prutah for the mixture.",
+      "whatsHappening": "The גְּמָרָה presses again by suggesting a different redemption strategy.",
+      "deeperAnalysis": "The גְּמָרָה asks: why not bring two prutot, redeem 1.5 prutot of מַעֲשֵׂר on them, and use the remaining half-prutah of coins to redeem the half-prutah in the mixture? This would allow the mixture to be redeemed without combining sanctity. This challenges the resolution by showing a way to redeem the mixture directly.",
+      "keyTerms": [
+        {
+          "term": "פְּרוּטָה וּמֶחֱצָה תָּפְסָה שְׁתֵּי פְּרוּטוֹת",
+          "meaning": "a prutah and a half takes effect on two prutot"
+        },
+        {
+          "term": "פְּרוּטָה תָּפְסָה פְּרוּטָה",
+          "meaning": "a prutah takes effect on a prutah"
+        }
+      ],
+      "whatToRemember": "The challenge is about using leftover coins to redeem the mixture.",
+      "confusionAlert": "Note the distinction between how much sanctity takes effect on coins.",
+      "whyThisMatters": "This tests the mechanics of redemption.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנַיְתֵי שְׁתֵּי פְרוּטוֹת,",
+          "english": "And let him bring two perutot,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּנְחַלֵּל עֲלַיְיהוּ מַעֲשֵׂר בִּפְרוּטָה וּמֶחֱצָה,",
+          "english": "and desacralize upon them second tithe worth one peruta and a half,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּנְחַלֵּל הַאי עַל הַיְאךְ יַתִּירָא.",
+          "english": "and desacralize this upon the remaining half-peruta."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִי סָבְרַתְּ: פְּרוּטָה וּמֶחֱצָה תָּפְסָה שְׁתֵּי פְרוּטוֹת? לָא.",
+          "english": "Do you hold: one peruta and a half takes effect on two perutot? No."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "פְּרוּטָה תָּפְסָה פְּרוּטָה, וַחֲצִי פְּרוּטָה לָא תָּפְסָה.",
+          "english": "One peruta takes effect on one peruta, and half a peruta does not take effect."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הֲדַר הָוְיָא לֵיהּ דְּאוֹרָיְיתָא וּדְרַבָּנַן.",
+          "english": "Once again it becomes for him of Torah law and of rabbinic law."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּדְאוֹרָיְיתָא וּדְרַבָּנַן לָא מִצְטָרְפִי.",
+          "english": "And of Torah law and of rabbinic law do not combine."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנַיְתֵי שְׁתֵּי פְּרוּטוֹת, וּנְחַלְלֵל עֲלַיְיהוּ מַעֲשֵׂר בִּפְרוּטָה וּמֶחֱצָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:1",
+            "hebrew": "וניתי שתי פרוטות - נחושת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the two פרוטות proposed are copper coins."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:2",
+            "hebrew": "ויחלל עליהן מעשר שוה פרוטה ומחצה - ונחלליה להאי מעורב על היאך חצי פרוטה יתירא דהויא ליה כדחזקיה:",
+            "english": "",
+            "takeaway": "רש״י explains the proposed redemption plan: redeem 1.5 פרוטות of מַעֲשֵׂר on the two coins, then redeem the mixed half-prutah on the remaining half-prutah of coinage, which would follow the view of חזקיה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:3",
+            "hebrew": "מי סברת שוה פרוטה ומחצה - מעשר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the 1.5 פרוטות refers to the value of the מַעֲשֵׂר being redeemed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:4",
+            "hebrew": "תפסה שתי פרוטות - בקדושה דנמצי היאך לאיצטרופי בהדייהו שכבר נתפסו:",
+            "english": "",
+            "takeaway": "רש״י explains that the question asks whether the sanctity of 1.5 פרוטות of מַעֲשֵׂר can attach to both copper coins, thereby allowing the mixed half-prutah to combine with them."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:5",
+            "hebrew": "פרוטה תפסה שוה פרוטה - מן המעשר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that one full פרוטה of coinage absorbs the sanctity of one פרוטה of מַעֲשֵׂר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:6",
+            "hebrew": "חצי פרוטה - הנותר במעשר:",
+            "english": "",
+            "takeaway": "רש״י identifies the חצי פרוטה as the remaining half-prutah of sanctity still in the מַעֲשֵׂר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:7:7",
+            "hebrew": "לא תפסה - לפרוטה שניה וא\"ת המעורב בו יצטרף להשלים הדר הוה ליה דאורייתא ודרבנן ואם באת לומר דחזקיה נמי היכי משכחת שיש עודף על ידי מי נתפס משכחת ליה במחלל מעשר בסלע שלם או בשקל או באיסר שאפי' לא היה המעשר שווה אלא שלש פרוטות נתפס כל האיסר:",
+            "english": "",
+            "takeaway": "רש״י explains that the remaining half-prutah of sanctity cannot attach to the second coin, and if one argues the mixed half-prutah could combine to complete the value, it would revert to the original problem of combining דאורייתא and דרבנן; he further notes that according to חזקיה, one could find a case of excess value using a larger coin like a סלע or איסר, where even if the מַעֲשֵׂר is only worth three פרוטות, the entire coin becomes sanctified."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not bring an issar to redeem?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot bring an issar (8 prutot) to redeem a larger amount, leaving enough for the mixture.",
+      "whatsHappening": "The גְּמָרָה presses again by suggesting a larger redemption.",
+      "deeperAnalysis": "The גְּמָרָה asks: why not bring an issar (8 prutot), redeem almost that much מַעֲשֵׂר, and use the remaining coins to redeem the half-prutah in the mixture? This would allow the mixture to be redeemed without combining sanctity. This challenges the resolution by showing a way to redeem the mixture directly with a larger amount.",
+      "keyTerms": [
+        {
+          "term": "אִיסַר",
+          "meaning": "a coin worth 8 prutot"
+        },
+        {
+          "term": "לְאֵיתוֹיֵי פְּרוּטוֹת",
+          "meaning": "to bring prutot"
+        }
+      ],
+      "whatToRemember": "The challenge is about using a larger amount of coins to redeem the mixture.",
+      "confusionAlert": "Note that this is a 'דִּלְמָא אָתֵי לְאֵיתוֹיֵי' resolution.",
+      "whyThisMatters": "This tests the limits of redemption with larger amounts.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנַיְתֵי אִיסָּר! דִּלְמָא אָתֵי לְאֵתוֹיֵי פְּרוּטוֹת.",
+          "english": "And let him bring an issar! Lest he come to bring perutot."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנַיְתֵי אִיסַר!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:8:1",
+            "hebrew": "וניתי איסר שלם - ויחלל עליו מעשר בפחות מדמיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the גְּמָרָה's suggestion is to bring a full איסר and redeem the מעשר with less than its full value, leaving the remainder to redeem the mixture."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:8:2",
+            "hebrew": "גזירה דלמא אתי לאתויי ב' פרוטות - ומעשר בפרוטה ומחצה ונמצא שוה חצי פרוטה נאכל בלא חלול הלכך טוב לו שיבטל ברוב:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern is that one might bring two פרוטות, redeem the מעשר with one and a half, and eat the remaining half-prutah worth of מעשר without proper חלול, so it is better to nullify the mixture in the majority."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53a:8:1",
+            "hebrew": "דלמא אתי לאתויי פרוטות - וא\"ת והא דתנן (מ\"ש פ\"ב מ\"ח) הפורט סלע ממעות מ\"ש אלמא מחללין מעשר על פרוטות וא\"א לצמצם שישוה מעשר לפרוטות שלימות וא\"כ אותו פחות משוה פרוטה אוכל בלא חלול וי\"ל דמייתי איסר בהדייהו וא\"ת דלמא מייתי פרוטות לבד כדגזר הכא וי\"ל דהתם לא טעי דידע דחצי פרוטה לא תפסה אבל הכא טעי דלא מסיק אדעתיה דאורייתא ודרבנן לא מצטרפי:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that מעשר is routinely redeemed with פרוטות, and answers that the concern here is specifically about redeeming with less than a full פרוטה, which is forbidden, whereas in the משנה the person brings an איסר with the פרוטות or knows that a half-prutah does not acquire sanctity, unlike here where one might mistakenly think Torah and Rabbinic sanctity combine."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י focuses on the practical outcome of eating without חלול, while תוספות clarifies the conceptual distinction between this case and the משנה regarding the combination of sanctity levels."
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not bring it back into Jerusalem?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot bring the מַעֲשֵׂר back into Jerusalem to eat it there.",
+      "whatsHappening": "The גְּמָרָה presses on the case of מַעֲשֵׂר that exited Jerusalem.",
+      "deeperAnalysis": "The גְּמָרָה asks: why is the matter of nullification in a majority relevant? Let him bring the מַעֲשֵׂר back into Jerusalem and partake of it there. This challenges the need for nullification by showing a way to consume the מַעֲשֵׂר legally.",
+      "keyTerms": [
+        {
+          "term": "לִיהְדַר וּנְעַיְּלֵיהּ",
+          "meaning": "let him return and bring it in"
+        }
+      ],
+      "whatToRemember": "The challenge is about returning the מַעֲשֵׂר to Jerusalem.",
+      "confusionAlert": "Note that מַעֲשֵׂר must be eaten in Jerusalem.",
+      "whyThisMatters": "This tests the limits of where מַעֲשֵׂר can be eaten.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְשֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא.",
+          "english": "And which entered Jerusalem and exited."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאַמַּאי: וְלִיהְדַּר וּנְעַיְּילֵיהּ! בְּשֶׁנִּטְמָא. וְנִפְרְקֵיהּ!",
+          "english": "And why?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמַר רַבִּי אֶלְעָזָר:",
+          "english": "That Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִנַּיִן לְמַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא, שֶׁפּוֹדִין אוֹתוֹ",
+          "english": "From where is it derived for second tithe that became impure, that they burn it"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְשֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא. וְאַמַּאי: וְלִיהְדַר וּנְעַיְּלֵיהּ!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:9:1",
+            "hebrew": "וליעייליה - עם תערובתו ויאכלנו בירושלים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the suggestion to bring it back into Jerusalem implies bringing it together with the mixture it is mixed into, so that it can be eaten there."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:9:2",
+            "hebrew": "וניפרקיה - קס\"ד ביש בו שוה פרוטה נמי קאמר:",
+            "english": "",
+            "takeaway": "רש״י explains that the suggestion to redeem it (ניפרקיה) assumes the case where the מעשר שני has a value of a פרוטה, even though the Mishnah might be discussing a case without value."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53a:9:1",
+            "hebrew": "ליהדר ולעייליה - לעיל גבי אין בו שוה פרוטה לא פריך הכי דאיירי ברחוק מירושלים הרבה ומקרי בהכי אין לו מתירין אבל הכא דקתני משנכנס לירושלים ויצא משמע אפי' לא יצא אלא פסיעה אחת ואמאי ולעייליה:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara does not ask this question in the case of 'no value of a פרוטה' because it refers to a place far from Jerusalem where there are no redeemers, but here, since the Mishnah says 'when it entered Jerusalem and went out,' it implies it only went out a single step, so why not just bring it back in."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not redeem impure מַעֲשֵׂר?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot redeem the impure מַעֲשֵׂר, citing רַבִּי אֶלְעָזָר.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by suggesting redemption of impure מַעֲשֵׂר.",
+      "deeperAnalysis": "The גְּמָרָה asks: why not redeem the impure מַעֲשֵׂר? It cites רַבִּי אֶלְעָזָר, who derives from the verse 'כִּי לֹא תוּכַל שְׂאֵתוֹ' that impure מַעֲשֵׂר can be redeemed even in Jerusalem. This challenges the resolution by showing a way to redeem the impure מַעֲשֵׂר.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֶלְעָזָר",
+          "meaning": "a Tannaitic sage"
+        },
+        {
+          "term": "כִּי לֹא תוּכַל שְׂאֵתוֹ",
+          "meaning": "for you cannot carry it"
+        },
+        {
+          "term": "שְׂאֵת אֶלָּא אֲכִילָה",
+          "meaning": "carrying means only eating"
+        }
+      ],
+      "whatToRemember": "The challenge is about redeeming impure מַעֲשֵׂר in Jerusalem.",
+      "confusionAlert": "Note that רַבִּי אֶלְעָזָר allows redemption of impure מַעֲשֵׂר in Jerusalem.",
+      "whyThisMatters": "This tests the limits of where impure מַעֲשֵׂר can be redeemed.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְשֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא.",
+          "english": "And which entered Jerusalem and exited."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאַמַּאי: וְלִיהְדַּר וּנְעַיְּילֵיהּ! בְּשֶׁנִּטְמָא. וְנִפְרְקֵיהּ!",
+          "english": "And why?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמַר רַבִּי אֶלְעָזָר:",
+          "english": "That Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִנַּיִן לְמַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא,",
+          "english": "From where for second tithe that became impure,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁפּוֹדִין אוֹתוֹ אֲפִילּוּ בִּירוּשָׁלַיִם –",
+          "english": "that they redeem it even in Jerusalem –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שֶׁנֶּאֱמַר: ״כִּי לֹא תוּכַל שְׂאֵתוֹ״,",
+          "english": "that it is said: “For you shall not carry it”,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאֵין ״שְׂאֵת״ אֶלָּא אֲכִילָה, שֶׁנֶּאֱמַר:",
+          "english": "and “carry” is nothing but eating, that it is said:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״וַיִּשָּׂא מַשְׂאֹת מֵאֵת פָּנָיו״.",
+          "english": "“And he took portions from before him”."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנִפְרְקֵיהּ! דְּאָמַר רַבִּי אֶלְעָזָר: מִנַּיִן לְמַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:9:1",
+            "hebrew": "וליעייליה - עם תערובתו ויאכלנו בירושלים:",
+            "english": "",
+            "takeaway": "רש״י explains that the suggestion to bring the produce back into Jerusalem implies eating it there together with its mixture."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53a:9:2",
+            "hebrew": "וניפרקיה - קס\"ד ביש בו שוה פרוטה נמי קאמר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's question about redeeming the impure מעשר שני assumes the case where the produce is worth a פרוטה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53a:9:1",
+            "hebrew": "ליהדר ולעייליה - לעיל גבי אין בו שוה פרוטה לא פריך הכי דאיירי ברחוק מירושלים הרבה ומקרי בהכי אין לו מתירין אבל הכא דקתני משנכנס לירושלים ויצא משמע אפי' לא יצא אלא פסיעה אחת ואמאי ולעייליה:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara does not ask this question earlier regarding produce worth less than a פרוטה because that case involves produce far from Jerusalem, but here the Mishna states it entered Jerusalem and left, implying it could have easily re-entered."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T05:26:36.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 104.95297350001056,
+      "structure": 2123.7212205000687,
+      "validate": 278.78990139992675,
+      "translate": 338.0818741998519,
+      "meforshim": 723.544612299942,
+      "teaching": 990.7569409001153
+    }
+  }
+}

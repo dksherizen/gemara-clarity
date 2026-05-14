@@ -1,0 +1,1455 @@
+{
+  "ref": "Bava Metzia 66b",
+  "masechet": "Bava_Metzia",
+  "daf": 66,
+  "amud": "b",
+  "mainTopic": "(continues) אסמכתא לא קניא",
+  "overview": "The Gemara explores the principle of אסמכתא לא קניא (conditional acquisitions are not binding), discussing various opinions on when it applies, including cases of loans secured by land and the status of אפותיקי.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 20,
+      "topic": "(continues) אסמכתא לא קניא",
+      "gist": "The Gemara explores the principle of אסמכתא לא קניא (conditional acquisitions are not binding), discussing various opinions on when it applies, including cases of loans secured by land and the status of אפותיקי.",
+      "openingFormula": "הלוהו על שדהו",
+      "firstStepNumber": 1,
+      "lastStepNumber": 19
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative: The Mishna involves a formal קניין",
+      "stepSummary": "The Gemara offers an alternative resolution: the Mishna involves a formal act of acquisition (קניין), making it valid even according to מִנְיוֹמֵי.",
+      "whatsHappening": "The Gemara offers a second resolution: the Mishna is not an אסמכתא, but a formal acquisition.",
+      "deeperAnalysis": "The Gemara says 'איבעית אימא: דאמר ליה קני מעכשיו'. If the borrower said 'acquire from now', this is a formal קניין, not an אסמכתא. This resolves the difficulty without needing to attribute the Mishna to רַבִּי יוֹסֵי.",
+      "keyTerms": [
+        {
+          "term": "קְנִי מֵעַכְשָׁיו",
+          "meaning": "acquire from now [a formal act of acquisition]"
+        }
+      ],
+      "whatToRemember": "A formal קניין makes the acquisition binding even if it's conditional.",
+      "confusionAlert": "This is the second of two possible resolutions.",
+      "whyThisMatters": "This shows the distinction between אסמכתא and formal קניין.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיבָּעֵית אֵימָא: דַּאֲמַר לֵיהּ קְנִי מֵעַכְשָׁיו.",
+          "english": "If you wish, say: that he said to him: Acquire from now."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיבַּעִית אֵימָא: דַּאֲמַר לֵיהּ קְנִי מֵעַכְשָׁיו.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:1:1",
+            "hebrew": "ואיבעית אימא מתני' דא\"ל מעכשיו קנה - אם לא אתן לך עד שלש שנים דלאו אסמכתא היא אלא קנין גמור היא שע\"מ מכר גמור החזיק בה מעכשיו בדמים הללו ואזולי אוזיל גביה וזה קיבל עליו שאם יחזיר לו מעותיו עד שלש שנים יקבלם והפירות לרבי יהודה לוקח אוכלן ולרבנן משלשין אותן:",
+            "english": "",
+            "takeaway": "רש״י explains that when the borrower says קני מעכשיו, it constitutes a formal קניין גמור rather than an אסמכתא, because the buyer holds the item now with the understanding that if he returns the money within three years, he will receive it back, while the fruits belong to the buyer according to רבי יהודה or are set aside according to the רבנן."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "The sons of רַב חִסְדָּא report רַב נַחְמָן's view: אסמכתא קניא בזמניה",
+      "stepSummary": "The sons of רַב חִסְדָּא report that רַב נַחְמָן held that אסמכתא is binding only at its proper time.",
+      "whatsHappening": "A new teaching is introduced: רַב נַחְמָן's view on אסמכתא is more nuanced.",
+      "deeperAnalysis": "The sons of רַב חִסְדָּא report: 'האי אסמכתא, בזמניה קניא, בלא זמניה לא קניא'. This suggests that רַב נַחְמָן's retraction was not absolute; he held that אסמכתא is binding only when the condition is met at the proper time (before the deadline).",
+      "keyTerms": [
+        {
+          "term": "בְּזִמְנֵיהּ קָנְיָא",
+          "meaning": "at its proper time it is binding"
+        },
+        {
+          "term": "בְּלָא זִמְנֵיהּ לָא קָנְיָא",
+          "meaning": "not at its proper time it is not binding"
+        }
+      ],
+      "whatToRemember": "This introduces a new distinction: בזמניה vs בלא זמניה.",
+      "confusionAlert": "This seems to contradict רַב נַחְמָן's earlier retraction. The Gemara will resolve this.",
+      "whyThisMatters": "This sets up the next discussion about timing and sincerity.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַרוּ לֵיהּ מָר יָנוֹקָא וּמָר קַשִּׁישָׁא",
+          "english": "They said to him: Mar Yanuka and Mar Kashisha"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּנֵי דְּרַב חִסְדָּא לְרַב אָשֵׁי,",
+          "english": "The sons of Rav Hisda to Rav Ashi,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכִי אָמְרִי נְהַרְדְּעָאֵי מִשְּׁמֵיהּ דְּרַב נַחְמָן:",
+          "english": "Thus say the Nehardeans in the name of Rav Nachman:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַאי אַסְמַכְתָּא, בְּזִמְנֵיהּ קָנְיָא,",
+          "english": "This asmakhta, at its time it acquires,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּלָא זִמְנֵיהּ לָא קָנְיָא.",
+          "english": "Not at its time it does not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמָרוּ לֵיהּ מָר יָנוּקָא וּמָר קַשִּׁישָׁא בְּנֵי דְּרַב חִסְדָּא לְרַב אָשֵׁי, הָכִי אָמְרִי נְהַרְדְּעָאֵי מִשְּׁמֵיהּ דְּרַב נַחְמָן: הַאי אַסְמַכְתָּא, בְּזִמְנֵיהּ קָנְיָא, בְּלָא זִמְנֵיהּ לָא קָנְיָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:2:1",
+            "hebrew": "בזמניה קניא - קס\"ד הגיע זמן ולא נתן לו מעותיו:",
+            "english": "",
+            "takeaway": "רש״י explains that בזמניה קניא refers to a scenario where the deadline has arrived but the debtor has not yet paid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:2:2",
+            "hebrew": "בלא זמניה - קודם שהגיע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בלא זמניה means before the deadline has arrived."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "רַב אָשֵׁי challenges: This is obvious!",
+      "stepSummary": "רַב אָשֵׁי challenges the teaching: of course something is binding at its proper time and not otherwise.",
+      "whatsHappening": "רַב אָשֵׁי presses on the novelty of the teaching.",
+      "deeperAnalysis": "רַב אָשֵׁי says 'כל מידע, בזמניה קני, בלא זמניה לא קני'. He is saying that this is a trivial statement: of course a condition is only binding when it is met at the proper time. What is the novelty here?",
+      "keyTerms": [
+        {
+          "term": "כֹּל מִידֵי",
+          "meaning": "every matter"
+        },
+        {
+          "term": "בְּזִמְנֵיהּ קָנֵי",
+          "meaning": "at its proper time it acquires"
+        }
+      ],
+      "whatToRemember": "רַב אָשֵׁי is challenging the novelty of the teaching.",
+      "confusionAlert": "This is a קשיא, not a שאלה. It's attacking the teaching's novelty.",
+      "whyThisMatters": "This forces the Gemara to clarify what the teaching actually means.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לְהוּ: כֹּל מִידֵּי, בְּזִמְנֵיהּ קָנֵי,",
+          "english": "He said to them: All matters, at its time it acquires,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּלָא זִמְנֵיהּ לָא קָנֵי.",
+          "english": "not at its time it does not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לְהוּ: כֹּל מִידֵי, בְּזִמְנֵיהּ קָנֵי, בְּלָא זִמְנֵיהּ לָא קָנֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection_to"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "Perhaps the teaching means: קניין before the deadline is valid, after is not",
+      "stepSummary": "The Gemara suggests the teaching means that a formal קניין before the deadline is valid, but after is not, due to shame.",
+      "whatsHappening": "The Gemara offers a resolution: the teaching is about the timing of a formal קניין.",
+      "deeperAnalysis": "The Gemara suggests: 'דילמא הכי קאמרי: אשכחיה בגו זמניה ואמר ליה קני – קני, בתר זמניה ואמר ליה קני – לא קני'. If the borrower says 'acquire' before the deadline, it's valid. After the deadline, it's not, because he says it out of shame (מחמת כיסופא).",
+      "keyTerms": [
+        {
+          "term": "אֲשַׁכְּחֵיהּ בְּגוֹ זִמְנֵיהּ",
+          "meaning": "he found him within its time"
+        },
+        {
+          "term": "מֵחֲמַת כִּיסּוּפָא",
+          "meaning": "because of shame"
+        }
+      ],
+      "whatToRemember": "The distinction is about the timing of the קניין, not the אסמכתא itself.",
+      "confusionAlert": "This is a תירוץ to רַב אָשֵׁי's קשיא.",
+      "whyThisMatters": "This clarifies the teaching's novelty.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דִּלְמָא הָכִי קָאָמְרִיתוּ:",
+          "english": "Perhaps you said thus:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַשְׁכְּחֵיהּ בְּגוֹ זִמְנֵיהּ וַאֲמַר לֵיהּ קְנִי –",
+          "english": "He found him within its time and said to him: Acquire –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קָנֵי, בָּתַר זִמְנֵיהּ וַאֲמַר לֵיהּ קְנִי –",
+          "english": "He acquires; after its time and said to him: Acquire –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא קָנֵי.",
+          "english": "He does not acquire."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי טַעְמָא – מֵחֲמַת כִּיסּוּפָא הוּא דְּקָאָמַר לֵיהּ.",
+          "english": "What is the reason? – Because of shame he is saying to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דִּלְמָא הָכִי קָאָמְרִיתוּ: אַשְׁכְּחֵיהּ בְּגוֹ זִמְנֵיהּ וַאֲמַר לֵיהּ קְנִי – קָנֵי, בָּתַר זִמְנֵיהּ וַאֲמַר לֵיהּ קְנִי – לָא קָנֵי. מַאי טַעְמָא – מֵחֲמַת כִּיסּוּפָא הוּא דְּקָאָמַר לֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:4:1",
+            "hebrew": "אשכחיה - לוה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the subject of the Gemara's resolution is the לוה (borrower)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:4:2",
+            "hebrew": "בגו זמניה - וא\"ל קני לא אפדנה עוד:",
+            "english": "",
+            "takeaway": "רש״י explains that בגו זמניה means the borrower says קני before the deadline, thereby committing not to redeem the item further."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:4:3",
+            "hebrew": "קני - דגמר ואקני דאי לא למה ליה למימר ליה הלא אין יכול עכשיו לתובעו:",
+            "english": "",
+            "takeaway": "רש״י notes that the borrower performs a formal קניין to finalize the transfer, as otherwise the lender has no legal standing to demand the item at that moment."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "דחיה",
+      "title": "No: even before the deadline, it's not binding",
+      "stepSummary": "The Gemara rejects the previous resolution: even before the deadline, the אסמכתא is not binding.",
+      "whatsHappening": "The Gemara rejects the previous resolution and offers a new understanding.",
+      "deeperAnalysis": "The Gemara says 'ולא היא, דאפילו בגו זמניה נמי לא קני'. Even before the deadline, the אסמכתא is not binding. The borrower says 'קני' only to buy time ('כי מטי זמניה, לא ליתי ליטרידן'). He is not sincere.",
+      "keyTerms": [
+        {
+          "term": "וְלָא הִיא",
+          "meaning": "but not so [rejection]"
+        },
+        {
+          "term": "לָא לַיְתֵי לִטְרִידַן",
+          "meaning": "he will not come to disturb me"
+        }
+      ],
+      "whatToRemember": "The borrower's statement is not sincere, even before the deadline.",
+      "confusionAlert": "This is a דחיה of the previous תירוץ.",
+      "whyThisMatters": "This clarifies that the issue is sincerity, not timing.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְלָא הִיא, דַּאֲפִילּוּ בְּגוֹ זִמְנֵיהּ נָמֵי לָא קָנֵי,",
+          "english": "And not so, for even in its time also he does not acquire,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַאי דְּקָאָמַר לֵיהּ ״קְנִי״ –",
+          "english": "And this that he said to him 'acquire' –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קָא סָבַר: כִּי מָטֵי זִמְנֵיהּ,",
+          "english": "He thinks: When its time arrives,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא לַיְתֵי לִיטְרְדַן.",
+          "english": "He will not come to disturb me."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלָא הִיא, דַּאֲפִלּוּ בְּגוֹ זִמְנֵיהּ נָמֵי לָא קָנֵי, וְהַאי דְּקָאָמַר לֵיהּ ״קְנִי״ – קָא סָבַר: כִּי מָטֵי זִמְנֵיהּ, לָא לַיְתֵי לִטְרִידַן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:5:1",
+            "hebrew": "לא ליתי ליטרדן - ולדחייה בעלמא משום כיסופא:",
+            "english": "",
+            "takeaway": "רש״י explains that the borrower's statement of 'קני' is merely a delaying tactic to avoid immediate pressure (כיסופא) from the lender, rather than a genuine acquisition."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "רַב פַּפָּא: אסמכתא sometimes binds, sometimes not",
+      "stepSummary": "רַב פַּפָּא rules that אסמכתa is binding only when the borrower is relaxed, not when he is under financial pressure.",
+      "whatsHappening": "רַב פַּפָּא introduces a new distinction based on the borrower's state of mind. He argues that the validity of the אסמכתא depends on whether the borrower is relaxed or under pressure.",
+      "deeperAnalysis": "רַב פַּפָּא states: 'האי אסמכתא, זימנין קניא וזימנין לא קניא'. If the borrower is drinking beer, he is relaxed, so the אסמכתא is binding. If he is counting coins, he is under pressure, so it is not binding.",
+      "keyTerms": [
+        {
+          "term": "זִימְנִין קָנְיָא וְזִימְנִין לָא קָנְיָא",
+          "meaning": "sometimes it is binding and sometimes it is not"
+        },
+        {
+          "term": "אֲשַׁכְּחֵיהּ דְּקָא שָׁתֵי שִׁכְרָא",
+          "meaning": "he found him drinking beer"
+        },
+        {
+          "term": "דְּקָא מְהַפֵּךְ אַזּוּזֵי",
+          "meaning": "he is counting coins"
+        }
+      ],
+      "whatToRemember": "The distinction is about the borrower's state of mind.",
+      "confusionAlert": "This is a new מימרא, not a resolution to the previous דחיה.",
+      "whyThisMatters": "This introduces a new criterion for אסמכתא: sincerity based on behavior.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב פָּפָּא: הַאי אַסְמַכְתָּא,",
+          "english": "Rav Pappa says: This asmakhta,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "זִימְנִין קָנְיָא וְזִימְנִין לָא קָנְיָא.",
+          "english": "sometimes it acquires and sometimes it does not acquire."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַשְׁכְּחֵיהּ דְּקָא שָׁתֵי שִׁכְרָא – קָנֵי.",
+          "english": "He found him drinking beer — it acquires."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּקָא מְהַפֵּךְ אַזּוּזֵי – לָא קָנֵי.",
+          "english": "He was turning over coins — it does not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב פַּפָּא: הַאי אַסְמַכְתָּא, זִימְנִין קָנְיָא וְזִימְנִין לָא קָנְיָא. אַשְׁכְּחֵיהּ דְּקָא שָׁתֵי שִׁכְרָא – קָנֵי. דְּקָא מְהַפֵּךְ אַזּוּזֵי – לָא קָנֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:6:1",
+            "hebrew": "אשכחיה - ביום הזמן:",
+            "english": "",
+            "takeaway": "רש״י explains that אשכחיה refers to the lender finding the borrower on the due date of the loan."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:6:2",
+            "hebrew": "דשתי שיכרא - בחנות אין זה עצב לחזור אחר פדיון שדהו ודעתו לשקעה:",
+            "english": "",
+            "takeaway": "רש״י explains that when the borrower is drinking beer in a tavern, he is not distressed about redeeming his field and intends to let it remain mortgaged."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "רַב אַחָא challenges: Maybe he's drinking to calm his nerves!",
+      "stepSummary": "רַב אַחָא challenges רַב פַּפָּא's distinction: maybe the borrower is drinking to calm his nerves, so he's still under pressure.",
+      "whatsHappening": "רַב אַחָא raises an objection to רַב פַּפָּא's distinction. He argues that the 'drinking beer' sign is unreliable.",
+      "deeperAnalysis": "רַב אַחָא says: 'דילמא לפכוחי פחדיה קא שתי'. Maybe the borrower is drinking to calm his fear, so he's still under pressure. Or maybe someone else promised him money, so he's still in a precarious position.",
+      "keyTerms": [
+        {
+          "term": "לְפַכּוֹחֵי פַּחְדֵּיהּ",
+          "meaning": "to calm his fear"
+        },
+        {
+          "term": "אַסְמְכֵיהּ אַזּוּזֵי",
+          "meaning": "he relied on coins [someone else promised him money]"
+        }
+      ],
+      "whatToRemember": "רַב אַחָא is challenging the reliability of the 'drinking beer' sign.",
+      "confusionAlert": "This is a קשיא, not a שאלה. It's attacking רַב פַּפָּא's distinction.",
+      "whyThisMatters": "This forces רָבִין to offer a new criterion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא:",
+          "english": "Rav Aḥa of Difti said to Ravina:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּלְמָא לְפַכּוֹחֵי פַּחְדֵּיהּ קָא שָׁתֵי,",
+          "english": "Perhaps he was drinking to neutralize his fear,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי נָמֵי: אִינִישׁ אַחֲרִינָא אַסְמְכֵיהּ אַזּוּזֵי!",
+          "english": "Or: another person relied on him for money!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אָמַר רָבִינָא:",
+          "english": "Rather Ravina said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי קָפֵיד בִּדְמֵי – וַדַּאי קָנֵי.",
+          "english": "If he is particular about the money – certainly he acquires."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִין: דִּלְמָא לְפַכּוֹחֵי פַּחְדֵּיהּ קָא שָׁתֵי, אִי נָמֵי: אִינִישׁ אַחֲרִינָא אַסְמְכֵיהּ אַזּוּזֵי!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection_to",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:7:1",
+            "hebrew": "לפכוחי פחדיה - להפיג דאגתו שדואג על המעות דכתיב (תהלים קד) ויין ישמח:",
+            "english": "",
+            "takeaway": "רש״י explains that לפכוחי פחדיה means the borrower is drinking wine to calm his anxiety about the debt, as wine brings joy."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:7:2",
+            "hebrew": "אי קפיד בדמי - אם מקפיד במכירת חפציו שלא לפחות משוויין:",
+            "english": "",
+            "takeaway": "רש״י explains that אי קפיד בדמי means the borrower is particular about selling his items for their full market value."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:7:3",
+            "hebrew": "ודאי קנה - אינו חש אם תשקע שדהו:",
+            "english": "",
+            "takeaway": "רש״י explains that ודאי קנה means the borrower is not concerned if his field is sold off, indicating he has accepted the loss."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 66b:7:1",
+            "hebrew": "אי קפיד בדמי קני - פי' בקונטרס אם מקפיד במכירת חפציו שלא לפחות משויו קנה קשה דא\"כ הל\"ל דלא ליתזלו מטלטלין ואמאי קאמר דלא ליתזל ארעיה ועוד דהא דמקפיד למכרן בפחות משויין דלמא משום דידע דאסמכתא לא קניא אע\"ג דאית ליה לאהדורי אזוזי אי לא אסמכוה היינו משום דליקו בהימנותיה אבל למכור בפחות לא וכן מה שפירש אי קפיד בארעא למוכרה אפי' בשוויה ודאי קני ואמאי דלמא קפיד משום דאסמכתא לא קניא ונראה לפרש אי קפיד בדמי שהקפיד בשעת הלואה ליקח עליה שוויה בזה התנאי א\"כ דעתו היה לשקעה ביד המלוה ופריך דלמא כי היכי דלא ליתזל ארעיה אינו רוצה לעשות שום תנאי שיש בו זלזול אלא אי קפיד בארעא שאינו רוצה לעשות תנאי זה בשום קרקע אלא בזו א\"כ אין בדעתו לפדותה:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation of אי קפיד בדמי, arguing that if the borrower is merely concerned about selling below value, it doesn't explain why the Gemara focuses on the land not being sold, and instead suggests אי קפיד בדמי refers to the borrower's initial stipulation regarding the debt's value, while אי קפיד בארעא means he is only willing to pledge this specific land, showing he doesn't intend to redeem it."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's definition of אי קפיד בדמי, arguing that רש״י's reading doesn't fit the Gemara's logic regarding the land, and offers an alternative interpretation focused on the borrower's initial conditions and specific willingness to pledge only this land."
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "רַב אַחָא מִדִּפְתִּי's challenge to רַב פַּפָּא's distinction",
+      "stepSummary": "Rav Aḥa of Difti challenges Rav Pappa's distinction regarding asmakhta, suggesting the borrower might be pretending to be particular about the land's price to avoid lowering the market value of his other lands.",
+      "whatsHappening": "רַב אַחָא מִדִּפְתִּי raises a difficulty against רַב פַּפָּא's earlier distinction regarding אסמכתא. He suggests the borrower might be feigning particularity to protect the market value of his other lands.",
+      "deeperAnalysis": "רַב פַּפָּא had distinguished between cases where the borrower is particular about the land and where he is not. רַב אַחָא מִדִּפְתִּי challenges this by suggesting the borrower might be feigning particularity to protect the market value of his other lands, thus undermining רַב פַּפָּא's distinction.",
+      "keyTerms": [
+        {
+          "term": "אַסְמַכְתָּא",
+          "meaning": "conditional acquisition"
+        },
+        {
+          "term": "רַב פַּפָּא",
+          "meaning": "רַב פַּפָּא"
+        },
+        {
+          "term": "רַב אַחָא מִדִּפְתִּי",
+          "meaning": "רַב אַחָא מִדִּפְתִּי"
+        }
+      ],
+      "whatToRemember": "רַב אַחָא's challenge highlights the complexity of determining genuine intent in אסמכתא cases.",
+      "confusionAlert": "The challenge is about the borrower's potential deception, not the legal principle itself.",
+      "whyThisMatters": "It shows the difficulty in applying the אסמכתא principle in practice.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא:",
+          "english": "Rav Aḥa of Difti said to Ravina:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּלְמָא סָבַר כִּי הֵיכִי דְּלָא תִּיתְּזִיל אַרְעֵיהּ,",
+          "english": "Perhaps he thinks that so that his land not be lowered,",
+          "notes": "Refers to the borrower's concern that appearing desperate will lower the market value of his other properties."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא אָמַר רַב פָּפָּא:",
+          "english": "Rather Rav Pappa said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי קָפֵיד בְּאַרְעָא, וַדַּאי קָנֵי.",
+          "english": "If he is particular about land, certainly he acquires."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא: דִּלְמָא סָבַר כִּי הֵיכִי דְלָא תִּיתְזִיל אַרְעֵיהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:8:1",
+            "hebrew": "דלא תיתזיל ארעיה - שאם יראה אותו מחזר אחרי מעות ומוכר נכסיו בפחות מוזיל קרקעותיו ולעולם אנוס הוא ולא גמר ומקני:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Aḥa's challenge is that the borrower might feign concern for his land to prevent its market value from dropping, meaning he is actually forced and does not truly intend to transfer ownership."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:8:2",
+            "hebrew": "קפיד בארעא - שלא ימכור שום קרקע אפילו בשווייו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Pappa's definition of being particular about the land means the borrower would not sell any land even at its full market value."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "רַב פַּפָּא's teaching on אפoteiki",
+      "stepSummary": "Rav Pappa teaches that even though asmakhta does not effect acquisition, the land can still be considered apoteiki for debt collection.",
+      "whatsHappening": "רַב פַּפָּא introduces a new teaching regarding אפoteiki. He clarifies that even if the acquisition is not valid due to אסמכתא, the land can still be designated as אפoteiki for debt collection.",
+      "deeperAnalysis": "רַב פַּפָּא clarifies that even if the acquisition is not valid due to אסמכתא, the land can still be designated as אפoteiki for debt collection. This introduces a new concept to the discussion.",
+      "keyTerms": [
+        {
+          "term": "אַפּוֹתֵיקֵי",
+          "meaning": "designated repayment"
+        },
+        {
+          "term": "לְמִיגְבֵּא",
+          "meaning": "to collect"
+        }
+      ],
+      "whatToRemember": "אפoteiki allows for debt collection even if the acquisition is not valid.",
+      "confusionAlert": "אפoteiki is a designation for repayment, not a full acquisition.",
+      "whyThisMatters": "It shows a practical application of the אסמכתא principle.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב פָּפָּא:",
+          "english": "And Rav Pappa said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל גַּב דַּאֲמוּר רַבָּנַן אַסְמַכְתָּא לָא קָנְיָא,",
+          "english": "Even though the Sages said that an asmakhta does not effect acquisition,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַפּוֹתֵיקֵי הָוְיָא לְמִיגְבֵּא מִינַּהּ.",
+          "english": "it is considered apoteiki to collect from it.",
+          "notes": "Apoteiki refers to land set aside as designated repayment for a debt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "וְאָמַר רַב פַּפָּא: אַף עַל גַּב דַּאֲמַר רַבָּנַן אַסְמַכְתָּא לָא קָנְיָא, אַפּוֹתֵיקֵי הָוְיָא לְמִיגְבֵּא מִינַּהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "רַב הוּנָא's challenge to רַב פַּפָּא's אפoteiki",
+      "stepSummary": "Rav Huna challenges Rav Pappa's teaching on apoteiki, questioning whether the borrower explicitly stated that the land was for debt collection.",
+      "whatsHappening": "רַב הוּנָא raises a difficulty against רַב פַּפָּא's teaching on אפoteiki. He questions whether the borrower explicitly stated that the land was for debt collection.",
+      "deeperAnalysis": "רַב הוּנָא questions whether the borrower explicitly stated that the land was for debt collection. If not, the acquisition might still be considered אסמכתא, undermining רַב פַּפָּא's teaching.",
+      "keyTerms": [
+        {
+          "term": "קְנִי לְגוּבְיָינָא",
+          "meaning": "acquire for debt collection"
+        },
+        {
+          "term": "רַב הוּנָא בְרֵיהּ דְרַב נָתָן",
+          "meaning": "רַב הוּנָא, son of רַב נָתָן"
+        }
+      ],
+      "whatToRemember": "רַב הוּנָא's challenge highlights the importance of explicit statements in אפoteiki cases.",
+      "confusionAlert": "The challenge is about the borrower's explicit statement, not the legal principle itself.",
+      "whyThisMatters": "It shows the complexity of determining the validity of אפoteiki.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב",
+          "english": "Rav Huna, son of Rav, said to him"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נָתָן לְרַב פָּפָּא:",
+          "english": "He gave to Rav Pappa:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִי קָאָמַר לֵיהּ קְנִי לְגוּבְיָינָא?",
+          "english": "Did he say to him: Acquire for the sake of debt collection?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ מָר זוּטְרָא בְּרֵיהּ דְּרַב מָרִי לְרָבִינָא:",
+          "english": "Mar Zutra, son of Rav Mari, said to Ravina:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִי אָמַר קְנִי לְמִיגְבֵּא מִינֵּיהּ – קָנֵי?",
+          "english": "And if he said: Acquire for the sake of debt collection — does he acquire?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "סוֹף סוֹף אַסְמַכְתָּא הִיא, וְאַסְמַכְתָּא לָא קָנְיָא.",
+          "english": "Ultimately it is an asmakhta, and an asmakhta does not effect acquisition."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב הוּנָא בְרֵיהּ דְרַב נָתָן לְרַב פַּפָּא: מִי קָאָמַר לֵיהּ קְנִי לְגוּבְיָינָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:10:1",
+            "hebrew": "למיגבא ביה מיניה - קונה בה כנגד מעותיו ואם בא לפרוע המעות לאחר זמן לא יקבלם:",
+            "english": "",
+            "takeaway": "רש״י explains that if the borrower explicitly states the land is for debt collection (קני לגוביינא), the lender acquires it as payment and cannot later accept repayment of the money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:10:2",
+            "hebrew": "סוף סוף אסמכתא היא - דלא א\"ל קני לגוביינא אלא אם איני נותן לך מכאן ועד שלש שנים הדר הויא לה אסמכתא דכל דאי. אסמכתא הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the borrower does not explicitly state the land is for debt collection, the arrangement remains an אסמכתא because it is conditional on the borrower's failure to pay within three years."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 66b:10:1",
+            "hebrew": "ואי אמר קני לגוביינא מי קני הא אסמכתא היא - וא״ת והא משמע בסוף פירקין (בבא מציעא דף עג:) דלא הוי אסמכתא אלא היכא דאין בידו אע״ג דלא גזים כי ההוא דיהיב זוזי לחבריה למזבין ליה חמרא ופשע ולא זבין ליה או היכא דגזים אע״ג דבידו כי ההיא. דאם אוביר ולא אעביד אשלם אלפא זוזי אבל אם אוביר ולא אעביד אשלם במיטבא (שם.) דלא גזים ובידו לא חשיבא אסמכתא והכא מאי אסמכתא איכא אם נותן לו קרקע בחובו וי״ל דחשיב כמו גזים לפי שאין אדם רגיל למכור קרקעותיו כלל ובסמוך גבי חמרא דאמר כל דאי לא קני אע״ג דחמרא למכירה קאי התם נמי כמו גזים חשיב לפי שעדיין לא היה זמן מכר היין ונותנו עתה בזול:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that giving land for debt should not be אסמכתא since the lender has the money in hand, and resolves it by explaining that selling land is considered an exaggeration (גזים) because people are not accustomed to selling their land, similar to selling wine before its time."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב פַּפָּא's resolution: explicit statement for אפoteiki",
+      "stepSummary": "Rav Pappa resolves the difficulty by stating that if the borrower explicitly stated that the land was for debt collection, the acquisition is valid.",
+      "whatsHappening": "רַב פַּפָּא provides a resolution to the challenges raised by רַב הוּנָא and מַר זוטרא. He clarifies that his teaching on אפoteiki applies only when the borrower explicitly states that the land is for debt collection.",
+      "deeperAnalysis": "רַב פַּפָּא clarifies that his teaching on אפoteiki applies only when the borrower explicitly states that the land is for debt collection. This resolves the difficulties raised by רַב הוּנָא and מַר זוטרא.",
+      "keyTerms": [
+        {
+          "term": "לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ",
+          "meaning": "your repayment shall be only from this"
+        }
+      ],
+      "whatToRemember": "רַב פַּפָּא's teaching on אפoteiki hinges on explicit statements.",
+      "confusionAlert": "The resolution is about the borrower's explicit statement, not the legal principle itself.",
+      "whyThisMatters": "It clarifies the application of the אפoteiki principle.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אַפּוֹתֵיקֵי דְּאָמַר רַב פָּפָּא, מַאי הִיא:",
+          "english": "But what is the designated repayment that Rav Pappa said?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דַּאֲמַר לֵיהּ לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ.",
+          "english": "That he said to him: Let there be no repayment for you except from this."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אֶלָּא אַפּוֹתֵיקֵי דְאָמַר רַב פַּפָּא, מַאי הִיא: דַאֲמַר לֵיהּ לֹא יְהֵא לְךָ פֵּרָעוֹן אֶלָּא מִזּוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59,
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:11:1",
+            "hebrew": "אלא אפותיקי דרב פפא היכי דמי - דגבי אסמכתא תיהוי אפותיקי:",
+            "english": "",
+            "takeaway": "רש״י explains that רב פפא's ruling on אפותיקי applies specifically to a case of אסמכתא, where the borrower explicitly designates the land for repayment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:11:2",
+            "hebrew": "דא\"ל לא יהא לך פרעון אלא מזה - אף בתוך שלש שנים ואם אין אני נותן לך מגופה כנגד מעותיך עד שלש שנים תהא כולה שלך בהא אמר רב פפא דאע\"ג דלא קניא למיהוי כוליה דידיה לאחר ג' אפותיקי הוי למגבי מיניה דבלאו אסמכתא נמי שווייה אפותיקי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that even though the borrower does not acquire full ownership of the land after three years due to אסמכתא, the explicit designation still makes it an אפותיקי, allowing the lender to collect from it without needing a separate קניין."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "Case of land sold with a property guarantee",
+      "stepSummary": "The Gemara presents a case of land sold with a property guarantee, where the seller promises to reimburse the buyer from his superior-quality land if the land is seized by creditors.",
+      "whatsHappening": "The גמרא introduces a new case to illustrate the application of the אסמכתא principle. It presents a case where a seller promises to reimburse the buyer from his superior-quality land if the land is seized by creditors.",
+      "deeperAnalysis": "The גמרא presents a case where a seller promises to reimburse the buyer from his superior-quality land if the land is seized by creditors. This case is used to explore the application of the אסמכתא principle in practice.",
+      "keyTerms": [
+        {
+          "term": "בְּאַחְרָיוּת",
+          "meaning": "with a property guarantee"
+        },
+        {
+          "term": "עִידֵי עִידִית",
+          "meaning": "superior-quality land"
+        }
+      ],
+      "whatToRemember": "The case illustrates the complexity of determining the validity of promises in אסמכתא cases.",
+      "confusionAlert": "The case is about the seller's promise, not the legal principle itself.",
+      "whyThisMatters": "It shows the practical application of the אסמכתא principle.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דְּזַבֵּין לֵיהּ אַרְעָא לְחַבְרֵיהּ בְּאַחְרָיוּת.",
+          "english": "That man who sold land to his friend with a guarantee."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: אִי טָרְפוּ לַיהּ מִנַּאי מַגְבֵּית לִי",
+          "english": "He said to him: If they seize it from me, from where will I collect for myself?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מֵעִידֵּי עִידִּית דְּאִית לָךְ. אֲמַר לֵיהּ:",
+          "english": "From the best of the best that you have. He said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מֵעִידֵּי עִידִּית לָא מַגְבֵּינָא לָךְ,",
+          "english": "From the best of the best I do not collect for you,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּבָעֵינָא לְמֵיקַם קַמַּאי,",
+          "english": "because I want to stand before me,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא מַגְבֵּינָא לָךְ מֵעִידִּית אַחֲרִיתִ[י] דְּאִית לִי.",
+          "english": "but I collect for you from other best of mine that I have."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְסוֹף טַרְפוּהָ מִינֵּיהּ, אֲתָא בִּדְקָא שְׁקֵיל לְעִידֵּי עִידִּית.",
+          "english": "In the end they seized it from him, he came, a flood took the best of the best."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "הָהוּא גַבְרָא דְזַבֵּן לֵיהּ אַרְעָא לְחַבְרֵיהּ בְּאַחְרָיוּת",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:12:1",
+            "hebrew": "מגבית לי - כנגד מעותי מעידי עידית דאית לך:",
+            "english": "",
+            "takeaway": "רש״י explains that the seller's promise to reimburse from מעידי עידית means the buyer can collect the purchase price from the seller's best quality land."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:12:2",
+            "hebrew": "בידקא - שטף נהר שטפה לעידי עידית וכשבא זה לגבות מן העידית כפי תנאו אמר לו לא תיגבי אלא מבינונית אחרת שיש לי:",
+            "english": "",
+            "takeaway": "רש״י explains that ביידקא refers to a flood that destroyed the superior land, and when the buyer came to collect from the remaining land, the seller invoked the asmakhta principle to limit payment to only average quality land."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "רַב פַּפָּא's ruling on the case",
+      "stepSummary": "Rav Pappa rules that the seller must reimburse the buyer from his superior-quality land, as it is still intact.",
+      "whatsHappening": "רַב פַּפָּא provides a ruling on the case presented in the previous step. He rules that the seller must reimburse the buyer from his superior-quality land, as it is still intact.",
+      "deeperAnalysis": "רַב פַּפָּא rules that the seller must reimburse the buyer from his superior-quality land, as it is still intact. This ruling is based on the principle that the seller's promise is valid.",
+      "keyTerms": [
+        {
+          "term": "מֵעִידִית אֲמַר לֵיהּ",
+          "meaning": "he said to him from superior-quality land"
+        },
+        {
+          "term": "וְהָא קָיְימָא",
+          "meaning": "and it is intact"
+        }
+      ],
+      "whatToRemember": "רַב פַּפָּא's ruling highlights the importance of the seller's promise in אסמכתא cases.",
+      "confusionAlert": "The ruling is about the seller's promise, not the legal principle itself.",
+      "whyThisMatters": "It shows the practical application of the אסמכתא principle.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "סְבַר רַב פָּפָּא לְמֵימַר:",
+          "english": "Rav Pappa thought to say:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מֵעִידִּית אֲמַר לֵיהּ, וְהָא קָיְימָא.",
+          "english": "He said to him from the superior-quality land, and it is standing."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "סְבַר רַב פַּפָּא לְמֵימַר: מֵעִידִית אֲמַר לֵיהּ, וְהָא קָיְימָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַב אַחָא מִדִּפְתִּי",
+      "stepSummary": "Rav Aḥa challenges Rav Pappa's ruling, suggesting that the seller can claim that his superior-quality land now stands in place of his most superior-quality land.",
+      "whatsHappening": "רַב אַחָא מִדִּפְתִּי raises a difficulty against רַב פַּפָּא's ruling. He argues the seller can claim his superior land now replaces his best land.",
+      "deeperAnalysis": "The challenge targets the logic of land substitution. If the seller's remaining land is now his best, the original condition fails. This undermines the acquisition claim.",
+      "keyTerms": [
+        {
+          "term": "הַשְׁתָּא קָיְימָא לֵיהּ עִידִית בְּמָקוֹם עִידֵי עִידִית",
+          "meaning": "now his superior-quality land stands in place of his most superior-quality land"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא: וְלֵימָא לֵיהּ,",
+          "english": "Rav Aḥa of Difti said to Ravina: And let him say to him,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי אֲמַרִי לָךְ אֲנָא מַגְבֵּינָא לָךְ –",
+          "english": "When I said to you that I would collect for you –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּהֲוָה עִידֵּי עִידִּית קָיְימָא,",
+          "english": "that the superior-quality land was standing,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשְׁתָּא קָיְימָא לֵיהּ עִידִּית בִּמְקוֹם עִידֵּי עִידִּית.",
+          "english": "now the superior-quality land stands for him in place of the superior-quality land."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב אַחָא מִדִּפְתִּי לְרָבִינָא: וְלֵימָא לֵיהּ, כִּי אֲמַרִי לָךְ אֲנָא מַגְבֵּינָא לָךְ – דַהֲוָה עִידֵי עִידִית קָיְימָא, הַשְׁתָּא קָיְימָא לֵיהּ עִידִית בְּמָקוֹם עִידֵי עִידִית",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        63
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:14:1",
+            "hebrew": "כי אמינא לך אנא - לגבות מעידית:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase כי אמרי לך אנא מגבינא לך refers to the seller's claim that he is collecting payment from the עידית (the superior-quality land)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "Case of רַב בַּר שַׁבָּא's debt",
+      "stepSummary": "The Gemara presents a case of Rav bar Shabba's debt, where he promises to repay Rav Kahana from his wine if he fails to repay by a certain date.",
+      "whatsHappening": "The גמרא introduces a case involving רַב בַּר שַׁבָּא and רַב כָּהֲנָא. This illustrates the אַסְמַכְתָּא principle in a debt scenario.",
+      "deeperAnalysis": "The borrower promised repayment from wine if he defaulted. This tests whether such a conditional promise creates a binding acquisition. It explores practical application.",
+      "keyTerms": [
+        {
+          "term": "רַב בַּר שַׁבָּא",
+          "meaning": "Rav bar Shabba"
+        },
+        {
+          "term": "רַב כָּהֲנָא",
+          "meaning": "Rav Kahana"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב בַּר שְׁבָא הֲוָה מַסֵּיק בֵּיהּ",
+          "english": "Rav bar Shabba was owing him"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב כָּהֲנָא זוּזֵי. אֲמַר לֵיהּ:",
+          "english": "Rav Kahana [a] zuzim. He said to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי לָא פָּרַעְנָא לָךְ לְיוֹם פְּלוֹנִי –",
+          "english": "If I do not repay you by such-and-such a day –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גְּבִי מֵהַאי חַמְרָא.",
+          "english": "collect from this wine."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "סְבַר רַב פָּפָּא לְמֵימַר:",
+          "english": "Rav Pappa thought to say:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כִּי אָמְרִינַן אַסְמַכְתָּא לָא קָנְיָא –",
+          "english": "When we say an asmakhta does not acquire –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הָנֵי מִילֵּי בְּאַרְעָא,",
+          "english": "these matters [are] in land,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּלָאו לְזַבּוֹנֵי קָיְימָא.",
+          "english": "which does not stand to be sold."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲבָל חַמְרָא כֵּיוָן דִּלְזַבּוֹנֵי קָאֵי – כְּזוּזֵי דָּמֵי.",
+          "english": "But wine, since it stands to be sold – like money [are] its values."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "רַב בַּר שַׁבָּא הֲוָה מַסֵּיק בֵּיהּ רַב כָּהֲנָא זוּזֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:15:1",
+            "hebrew": "גבי מהאי חמרא - ופסק דמים ולבסוף אייקר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase גבי מהאי חמרא implies that Rav Kahana was permitted to collect the debt from the wine even if its value had increased after the asmakhta was established."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַב הוּנָא בְרֵיהּ דְרַב יְהוֹשֻׁעַ",
+      "stepSummary": "Rav Huna challenges Rav Pappa's ruling, citing Rabba's teaching that any conditional statement does not effect acquisition.",
+      "whatsHappening": "רַב הוּנָא בְרֵיהּ דְרַב יְהוֹשֻׁעַ raises a difficulty against רַב פַּפָּא. He cites רַבָּא's teaching that conditional statements do not effect acquisition.",
+      "deeperAnalysis": "The challenge uses a general principle to attack the specific ruling. If all 'if' statements fail to acquire, the current case must also fail. This directly contradicts the ruling.",
+      "keyTerms": [
+        {
+          "term": "כֹּל דְאִי – לָא קָנֵי",
+          "meaning": "any 'if' does not acquire"
+        },
+        {
+          "term": "רַב הוּנָא בְרֵיהּ דְרַב יְהוֹשֻׁעַ",
+          "meaning": "Rav Huna, son of Rav Yehoshua"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב הוּנָא בְּרֵיהּ דְּרַב",
+          "english": "Rav Huna, son of Rav Yehoshua, said to Rav Pappa:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יְהוֹשֻׁעַ לְרַב פָּפָּא,",
+          "english": "Thus we say in the name of Rabba:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכִי אָמְרִינַן מִשְּׁמֵיהּ דְּרַבָּה:",
+          "english": "Any 'if' — does not acquire.",
+          "notes": "Refers to conditional statements (asmakhta) that lack binding force."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כֹּל דְּאִי – לָא קָנֵי.",
+          "english": "of an asmakhta and does not effect acquisition, as the one setting the condition did not really intend to fulfill the commitment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב הוּנָא בְרֵיהּ דְרַב יְהוֹשֻׁעַ לְרַב פַּפָּא, הָכִי אָמְרִינַן מִשּׁמֵיהּ דְרַבָּה: כֹּל דְאִי – לָא קָנֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous"
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "מימרא",
+      "title": "Teaching of רַב נַחְמָן on אַסְמַכְתָּא",
+      "stepSummary": "Rav Naḥman teaches that if the lender took the land, it must be returned, and the value of any produce consumed must also be returned.",
+      "whatsHappening": "רַב נַחְמָן introduces a ruling regarding אַסְמַכְתָּא cases. He states the land and produce must be returned.",
+      "deeperAnalysis": "This clarifies the outcome when acquisition fails. The lender must return the land and pay for consumed produce. It establishes the financial liability.",
+      "keyTerms": [
+        {
+          "term": "הַדְרָא אַרְעָא וְהָדְרִי פֵּירֵי",
+          "meaning": "the land is returned and the produce is returned"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב נַחְמָן:",
+          "english": "Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַשְׁתָּא דַּאֲמוּר רַבָּנַן אַסְמַכְתָּא לָא קָנְיָא,",
+          "english": "Now that the Sages said an asmakhta does not acquire,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָדְרָא אַרְעָא וְהָדְרִי פֵּירֵי.",
+          "english": "the land is returned and the produce is returned."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְמֵימְרָא דְּסָבַר רַב נַחְמָן מְחִילָה בְּטָעוּת",
+          "english": "To say that Rav Naḥman holds that forgiveness in error"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא הָוְיָא מְחִילָה?",
+          "english": "is not forgiveness?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "אָמַר רַב נַחְמָן: הַשְׁתָּא דַאֲמַר רַבָּנַן אַסְמַכְתָּא לָא קָנְיָא, הַדְרָא אַרְעָא וְהָדְרִי פֵּירֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:17:1",
+            "hebrew": "והדרא פירי - לאחר שלש אם אכלן לוקח:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase והדרי פירי refers to the produce consumed after three years, which the buyer must return if he ate it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:17:2",
+            "hebrew": "מחילה בטעות - כי האי דהמוכר סבר שהיא קנויה ללוקח ומן הדין אוכל פירות ומוחל על אכילתו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that מחילה בטעות refers to a case where the seller mistakenly believed the sale was valid and thus waived his right to the produce, but such a waiver is invalid due to the error."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from רַב נַחְמָן's teaching on palm fruit",
+      "stepSummary": "The Gemara cites Rav Naḥman's teaching on palm fruit to prove that he holds that mistaken forgiveness is valid forgiveness.",
+      "whatsHappening": "The גמרא cites רַב נַחְמָן's ruling on selling palm fruit. This serves as proof for his view on mistaken forgiveness.",
+      "deeperAnalysis": "The proof links two seemingly unrelated topics. If he allows retraction in sales, he likely allows mistaken forgiveness. This supports the previous challenge.",
+      "keyTerms": [
+        {
+          "term": "הַמוֹכֵר פֵּירוֹת דֶּקֶל לַחֲבֵרוֹ",
+          "meaning": "one who sells palm fruit to his friend"
+        },
+        {
+          "term": "יָכוֹל לַחְזוֹר בּוֹ",
+          "meaning": "can retract"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָאִיתְּמַר: הַמּוֹכֵר פֵּירוֹת דֶּקֶל לַחֲבֵירוֹ.",
+          "english": "And it was stated: One who sells palm fruit to his fellow."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב הוּנָא:",
+          "english": "Rav Huna said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַד שֶׁלֹּא בָּאוּ לָעוֹלָם –",
+          "english": "Until they have not come into the world –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יָכוֹל לַחְזוֹר בּוֹ.",
+          "english": "He can retract from it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִשֶּׁבָּאוּ לָעוֹלָם – אֵין יָכוֹל לַחְזוֹר בּוֹ.",
+          "english": "Once they have come into the world – he cannot retract from it."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְרַב נַחְמָן אָמַר:",
+          "english": "And Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַף מִשֶּׁבָּאוּ לָעוֹלָם יָכוֹל לַחְזוֹר בּוֹ,",
+          "english": "Even once they have come into the world he can retract from it,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאָמַר רַב נַחְמָן:",
+          "english": "And Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מוֹדֵינָא דְּאִי שָׁמֵיט וְאָכֵיל –",
+          "english": "I concede that if he seized and ate –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לָא מַפְּקִינַן מִינֵּיהּ!",
+          "english": "We do not extract from him!"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הָתָם זְבִינֵי, הָכָא הַלְוָאָה.",
+          "english": "There, sales; here, a loan."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "וְהָאִיתְּמַר: הַמוֹכֵר פֵּירוֹת דֶּקֶל לַחֲבֵרוֹ. אָמַר רַב הוּנָא: עַד שֶׁלֹּא בָאוּ לָעוֹלָם – יָכוֹל לַחְזוֹר בּוֹ. מִשֶּׁבָאוּ לָעוֹלָם – אֵין יָכוֹל לַחְזוֹר בּוֹ. וְרַב נַחְמָן אָמַר: אַף מִשֶּׁבָאוּ לָעוֹלָם יָכוֹל לַחְזוֹר בּוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        69
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "proves_against_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:18:1",
+            "hebrew": "מוכר פירות דקל - קודם שחנטו פירותיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the sale of palm fruit refers to the period before the fruit has formed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:18:2",
+            "hebrew": "עד שלא באו לעולם יכול לחזור בו - אם בא לחזור בו קודם שחנטו פירותיו חוזר דאפילו למ\"ד (יבמות דף צג.) אדם מקנה דבר שלא בא לעולם הני מילי שבא לחזור אחר שבא לעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Huna permits revocation before the fruit exists because even those who hold אדם מקנה דבר שלא בא לעולם only allow it after the item comes into existence."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:18:3",
+            "hebrew": "משבאו לעולם אינו יכול לחזור בו - דקסבר אדם מקנה דבר שלא בא לעולם בשעת המכר שיהיה המכר חל לכשיבא לעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Huna prohibits revocation after the fruit exists because he holds that אדם מקנה דבר שלא בא לעולם at the time of sale, making the sale valid once the fruit comes into existence."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:18:4",
+            "hebrew": "אף משבאו כו' - דאין אדם מקנה דבר שלא בא לעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Naḥman permits revocation even after the fruit exists because he holds that אדם אינו מקנה דבר שלא בא לעולם."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:19:1",
+            "hebrew": "לא מפקינן מיניה - שהרי כל זמן שלא חזר מחל על אכילתו ואע\"פ שבטעות שלא היה יודע שיוכל לחזור מחילה היא:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Naḥman rules we do not extract the payment because the seller forgave the consumption while he had not yet revoked the sale, and even though it was a mistake, it constitutes valid מחילה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:19:2",
+            "hebrew": "הכא הלואה היא - ומיחזי כרבית שמתחילה בהלואה בא לו וכרבית קצוצה דמי ואין אבק רבית בדבר הלואה אלא בדבר מכר כגון המרבה בפירות דמתניתין (לעיל בבא מציעא ס:):",
+            "english": "",
+            "takeaway": "רש״י explains that the current case involves a הלואה, which resembles רבית from the outset and is treated like ריבית קצוצה, whereas אבק רבית only applies to a sale like the one in the Mishnah."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 66b:19:1",
+            "hebrew": "התם זביני הכא הלואה - פירוש בקונטרס הכא הלואה ומתחזי כרבית שמתחילה בהלואה בא לידו וכריבית קצוצה דמי ואין אבק רבית בדבר הלואה אלא בדבר מכר כגון המרבה בפירות דמתניתין וקשה דאם כן פליג רב נחמן אדרבינא דאמר בריש פירקין (בבא מציעא דף סב.) משכנתא בלא נכייתא בדינינו אין מחזירין ועוד דאמר לקמן בשמעתין משכנתא באתרא דמסלקי אכל טפי לא מפקינן מיניה ומשמע דליכא מאן דפליג ועוד דמשמע לפירוש הקונטרס דבמסקנא לרב נחמן מחילה בטעות הויא מחילה בר מהלואה משום דמיחזי כרבית ובכל דוכתין משמע דמחילה בטעות לא הויא מחילה לרב נחמן בחזקת הבתים (ב״ב דף מא. ושם ד״ה אמר) גבי רב ענן דשקיל בידקא בארעיה א״ל מחילה בטעות הויא ולעיל בריש המפקיד (בבא מציעא דף לה.) גבי ההוא דאפקיד כיפי דאמר שומא בטעות הואי ותני נמי (נזיר דף לא.) ב״ה אומרים הקדש טעות אינו הקדש ובספ״ק דגיטין (דף יד.) אמרינן כל קנין בטעות חוזר ומפר״ת הכא הלואה דהלוה לא הקנה אלא בתורת מכר והמכר אינו כלום דאסמכתא לא קניא נמצא דהוי מחילה בטעות ולא הוי מחילה ולכך הדרי פירי אבל אם היה נותנו בתורת רבית לא הוי הדרי דאבק רבית הוא אבל התם גבי פירות דקל זביני ולא מחילה בטעות היא דנהי דיכול לחזור מ״מ אין לו לחזור כי היכי דליקו בהימנותיה ולכך אית לן למימר דאפילו היה יודע שיכול לחזור לא היה חוזר ורבא דהוה בעי לאותביה מאונאה היה סבור דטעמא דרב נחמן דלא מפקינן באי שמיט ואכיל משום דמחילה בטעות הויא מחילה ולפי סברת רבא היה משיבו ומביא ראיה מאיילונית:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation that the case is a הלואה resembling רבית, noting that this would contradict רב נחמן's other rulings on משכנתא and the general principle that מחילה בטעות is not valid, and instead explains that the loan was given under the guise of a sale which is invalid due to אסמכתא, making it a מחילה בטעות that is not valid, whereas the palm fruit case is a sale where the seller cannot revoke to maintain his reputation, so Rav Naḥman's ruling there does not imply מחילה בטעות is valid."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's classification of the case as a הלואה resembling רבית, arguing it creates contradictions with Rav Naḥman's other rulings and the general status of מחילה בטעות, and instead offers an alternative explanation based on אסמכתא and the nature of the transaction."
+      }
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection of the proof",
+      "stepSummary": "The Gemara rejects the proof, distinguishing between a sale and a loan.",
+      "whatsHappening": "The גמרא rejects the proof by distinguishing between sale and loan. It argues the contexts are fundamentally different.",
+      "deeperAnalysis": "The distinction blocks the logical link. In sales, waiving rights is valid. In loans, keeping produce without reimbursement is interest. The proof fails.",
+      "keyTerms": [
+        {
+          "term": "הָתָם זְבִינֵי, הָכָא הַלְוָאָה",
+          "meaning": "there it is a sale, here it is a loan"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב נַחְמָן:",
+          "english": "And Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מוֹדֵינָא דְּאִי שָׁמֵיט וְאָכֵיל –",
+          "english": "I concede that if he seized and ate –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא מַפְּקִינַן מִינֵּיהּ!",
+          "english": "we do not extract from him!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָתָם זְבִינֵי, הָכָא הַלְוָאָה.",
+          "english": "There, sales; here, a loan."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "וְאָמַר רַב נַחְמָן: מוֹדֵינָא דְאִי שָׁמֵיט וְאָכֵיל – לָא מַפְקִינַן מִינֵיהּ! הָתָם זְבִינֵי, הָכָא הַלְוָאָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        70
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:19:1",
+            "hebrew": "לא מפקינן מיניה - שהרי כל זמן שלא חזר מחל על אכילתו ואע\"פ שבטעות שלא היה יודע שיוכל לחזור מחילה היא:",
+            "english": "",
+            "takeaway": "רש״י explains that in a sale, the seller's initial waiver of the right to the fruit is valid even if made in error, because he did not retract it before the fruit was consumed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 66b:19:2",
+            "hebrew": "הכא הלואה היא - ומיחזי כרבית שמתחילה בהלואה בא לו וכרבית קצוצה דמי ואין אבק רבית בדבר הלואה אלא בדבר מכר כגון המרבה בפירות דמתניתין (לעיל בבא מציעא ס:):",
+            "english": "",
+            "takeaway": "רש״י explains that in a loan, retaining the fruit constitutes רבית קצוצה, and אבק רבית only applies to sales, not loans."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 66b:19:1",
+            "hebrew": "התם זביני הכא הלואה - פירוש בקונטרס הכא הלואה ומתחזי כרבית שמתחילה בהלואה בא לידו וכריבית קצוצה דמי ואין אבק רבית בדבר הלואה אלא בדבר מכר כגון המרבה בפירות דמתניתין וקשה דאם כן פליג רב נחמן אדרבינא דאמר בריש פירקין (בבא מציעא דף סב.) משכנתא בלא נכייתא בדינינו אין מחזירין ועוד דאמר לקמן בשמעתין משכנתא באתרא דמסלקי אכל טפי לא מפקינן מיניה ומשמע דליכא מאן דפליג ועוד דמשמע לפירוש הקונטרס דבמסקנא לרב נחמן מחילה בטעות הויא מחילה בר מהלואה משום דמיחזי כרבית ובכל דוכתין משמע דמחילה בטעות לא הויא מחילה לרב נחמן בחזקת הבתים (ב״ב דף מא. ושם ד״ה אמר) גבי רב ענן דשקיל בידקא בארעיה א״ל מחילה בטעות הויא ולעיל בריש המפקיד (בבא מציעא דף לה.) גבי ההוא דאפקיד כיפי דאמר שומא בטעות הואי ותני נמי (נזיר דף לא.) ב״ה אומרים הקדש טעות אינו הקדש ובספ״ק דגיטין (דף יד.) אמרינן כל קנין בטעות חוזר ומפר״ת הכא הלואה דהלוה לא הקנה אלא בתורת מכר והמכר אינו כלום דאסמכתא לא קניא נמצא דהוי מחילה בטעות ולא הוי מחילה ולכך הדרי פירי אבל אם היה נותנו בתורת רבית לא הוי הדרי דאבק רבית הוא אבל התם גבי פירות דקל זביני ולא מחילה בטעות היא דנהי דיכול לחזור מ״מ אין לו לחזור כי היכי דליקו בהימנותיה ולכך אית לן למימר דאפילו היה יודע שיכול לחזור לא היה חוזר ורבא דהוה בעי לאותביה מאונאה היה סבור דטעמא דרב נחמן דלא מפקינן באי שמיט ואכיל משום דמחילה בטעות הויא מחילה ולפי סברת רבא היה משיבו ומביא ראיה מאיילונית:",
+            "english": "",
+            "takeaway": "תוספות rejects רש״י's explanation that the distinction is between sale and loan due to רבית, because it contradicts רב נחמן's other rulings on מחילה בטעות and משכנתא; instead, תוספות explains that in a loan, the borrower only acquired the fruit through אסמכתא which is invalid, so the waiver is a מחילה בטעות and not binding, whereas in a sale, the waiver is binding because the seller would not have retracted even if he knew he could."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות strongly disagrees with רש״י's distinction between sale and loan based on רבית, arguing it contradicts רב נחמן's consistent view that מחילה בטעות is valid; תוספות instead attributes the difference to the validity of the acquisition (אסמכתא) and the seller's intent."
+      }
+    },
+    {
+      "stepNumber": 20,
+      "hebrewStepName": "מימרא",
+      "title": "Teaching of רָבָא",
+      "stepSummary": "Rava introduces a new teaching, but the text cuts off before it is fully stated.",
+      "whatsHappening": "רָבָא begins to introduce a new teaching. The text cuts off before the full statement is recorded.",
+      "deeperAnalysis": "The interruption leaves the argument unresolved. It signals a transition to a new point or source. The reader must await the continuation.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא:",
+          "english": "Rava said:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "אָמַר רָבָא:",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T10:47:59.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 70.85136390000116,
+      "structure": 1649.1917491000495,
+      "validate": 262.32659159996547,
+      "translate": 329.92174499994144,
+      "meforshim": 565.8877077000798,
+      "teaching": 719.4711730000563
+    }
+  }
+}

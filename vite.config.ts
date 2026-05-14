@@ -7,5 +7,13 @@ export default defineConfig({
   resolve: {
     alias: { "@": path.resolve(__dirname, "./src") },
   },
-  server: { port: 5174 },
+  server: {
+    port: 5174,
+    proxy: {
+      "/api/feedback": {
+        target: "http://127.0.0.1:5175",
+        changeOrigin: true,
+      },
+    },
+  },
 });

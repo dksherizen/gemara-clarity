@@ -1,0 +1,878 @@
+{
+  "ref": "Bava Metzia 26b",
+  "masechet": "Bava_Metzia",
+  "daf": 26,
+  "amud": "b",
+  "mainTopic": "(continues) מציאה בכותל ובחנות · מציאה בחנות ובפירות",
+  "overview": "(1) The Mishnah discusses items found in old vs. new walls and in shops; the Gemara analyzes the division of ownership based on location, the concept of 'first come first served' in inns, and the laws of despondency and theft regarding found coins. (2) The Mishnah discusses items found in a shop or within purchased fruits; the Gemara analyzes the ownership of items found on tables and the status of coins found within bundles of fruit.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 8,
+      "topic": "(continues) מציאה בכותל ובחנות",
+      "gist": "The Mishnah discusses items found in old vs. new walls and in shops; the Gemara analyzes the division of ownership based on location, the concept of 'first come first served' in inns, and the laws of despondency and theft regarding found coins.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 1,
+      "lastStepNumber": 4
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 9,
+      "endLine": 14,
+      "topic": "מציאה בחנות ובפירות",
+      "gist": "The Mishnah discusses items found in a shop or within purchased fruits; the Gemara analyzes the ownership of items found on tables and the status of coins found within bundles of fruit.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 5,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The coin is worth a peruta for each of the three",
+      "stepSummary": "Rava resolves the difficulty by stating that if the coin is worth a peruta for each of the three, the finder must return it, as they might be partners.",
+      "whatsHappening": "The גמרא provides a new resolution that saves the ruling even for three people. רָבָא says that if the coin is worth a peruta for each of the three, the finder must return it because they might be partners.",
+      "deeperAnalysis": "This distinguishes the case from the previous ruling. The value of the coin is the key factor. It clarifies the principle of partnership.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "שָׁוֶה פְּרוּטָה",
+          "meaning": "worth a peruta"
+        },
+        {
+          "term": "שׁוּתָפֵי נִינְהוּ",
+          "meaning": "they are partners"
+        }
+      ],
+      "whatToRemember": "The value of the coin is the key factor.",
+      "confusionAlert": "This is a classic 'לֹא אָמַרְנָא אֶלָּא' resolution.",
+      "whyThisMatters": "It clarifies the principle of partnership.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא:",
+          "english": "Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַאי דְּאָמְרַתְּ בִּשְׁלֹשָׁה אֵינוֹ חַיָּיב לְהַחְזִיר –",
+          "english": "That which you said regarding three, he is not obligated to return –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא אֲמַרַן אֶלָּא דְּלֵית בֵּיהּ שָׁוֶה",
+          "english": "We said only that there is not in it value"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "פְּרוּטָה לְכׇל חַד וְחַד,",
+          "english": "of a peruta for each and every one,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל אִית בֵּיהּ שָׁוֶה פְּרוּטָה לְכׇל",
+          "english": "but there is in it value of a peruta for each"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חַד וְחַד –",
+          "english": "and every one –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "חַיָּיב לְהַחְזִיר. מַאי טַעְמָא?",
+          "english": "he is obligated to return. What is the reason?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵימוֹר שׁוּתָּפֵי נִינְהוּ וְלָא מִיָּאֲשׁוּ.",
+          "english": "Say that they are partners and they do not despair."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: הַאי דְּאָמְרַתְּ בִּשְׁלֹשָׁה אֵינוֹ חַיָּב לְהַחְזִיר – לָא אֲמַרַן אֶלָּא דְּלֵית בֵּיהּ שָׁוֶה פְּרוּטָה לְכָל חַד וְחַד, אֲבָל אִית בֵּיהּ שָׁוֶה פְּרוּטָה לְכָל חַד וְחַד – חַיָּב לְהַחְזִיר. מַאי טַעְמָא? אֵימָא שׁוּתָפֵי נִינְהוּ וְלָא מִיָּאֲשׁוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:3:1",
+            "hebrew": "אימור שותפי נינהו - בסלע זו ונאמנים זה על זה ואין האחד חושד את חבירו בחלקו ולכי מישמש בכיסו ולא מצאה לא אייאש מימר אמר אחד מן השותפים מצאה ולצערני הוא שותק ונמצא כשבאת ליד זה לפני יאוש באת לידו והא אוקמיה כאביי הלכך אע\"ג דסלע דבר שאין בו סימן הוא חייב להחזיר אבל כי אין בו שלש פרוטות מה נפשך אי שותפין הן בו אין כאן משום השבת אבידה ואם של אחד מהם הוא או של השנים נואשו ואמרו חברנו זה גנב הוא והרי משמט ואמר לא לקחתיו אחד מכם לקחו וגנבו מחבירו:",
+            "english": "",
+            "takeaway": "רש״י explains that when the coin is worth a peruta for each of the three, they are considered partners who trust each other and do not suspect one another of theft, so the item is returned before יאוש occurs, making the finder liable to return it even though it lacks a סימן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:3:2",
+            "hebrew": "אימור שותפי נינהו - ומהימני אהדדי ואין חושדין זה את זה ונמצאת שבאת ליד זה לפני יאוש:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the partners' mutual trust prevents יאוש, meaning the lost item reaches the finder's possession before the owners have given up hope of recovery."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26b:3:1",
+            "hebrew": "לא אמרן אלא כי לית ביה שוה פרוטה לכל חד וחד - דהיינו כי ליכא שלש פרוטות אלא ב' דמה נפשך אין צריך להחזיר אם שלשתן שותפין אין כאן כדי השבה לכל אחד ואם אינן שותפין האובד יתיאש כי השנים ידחוהו כל אחד על חבירו וא\"ת וניחוש שמא שנים הם שותפין דאין חושדים זה את זה ולא מתיאשי ששניהם יטענו בטענת ברי לשלישי וכן באיכא דאמרי אמאי קאמר הני שותפי נינהו וחד מינייהו אחיל מנתיה גבי חבריה נימא אימור שנים מהם הם שותפין ואין חושדין זה את זה ויאמרו ודאי שהשלישי לקחה וי\"ל דודאי כי ליכא אלא שנים האחד יטען ברי לחבירו אבל כשיש שלשה לא יטענו טענת ברי לשלישי אפי' יהיו שנים מהן שותפין דנהי דאין חושדים זה את זה מ\"מ סבור שהשותף לקחה לצערו עד זמן מרובה כדאמר בסמוך דאי איכא שלש פרוטות דאינם מתיאשים שסבורים שחבריהם מצאם ומעלים מהם להקניט ולצער עד זמן מרובה ולבסוף יחזירנה ועי\"ל דכיון ששלשה הולכין יחד אין לומר שותפין שנים מהם אלא או כולם שותפין או כל אחד ואחד לבדו:",
+            "english": "",
+            "takeaway": "תוספות addresses why the Gemara does not consider the possibility that only two of the three are partners, explaining that with three people walking together, it is assumed either all three are partners or each is separate, and even if two were partners, they would suspect the third took it to annoy them, preventing יאוש only when all three are partners with sufficient value."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י focuses on the mechanism of trust between partners preventing יאוש, while תוספות addresses the structural assumption about partnership among three people and why partial partnership is not considered."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative resolution: One partner relinquishes his share",
+      "stepSummary": "An alternative resolution is offered that even if the coin is only worth two perutot, the finder must return it, as one partner might have relinquished his share.",
+      "whatsHappening": "The גמרא provides an alternative resolution that saves the ruling even for a lower value. The alternative resolution is that even if the coin is only worth two perutot, the finder must return it because one partner might have relinquished his share to another.",
+      "deeperAnalysis": "This leaves two partners with a peruta each. The relinquishment of share is the key factor. It clarifies the principle of partnership.",
+      "keyTerms": [
+        {
+          "term": "אִיכָא דְּאָמְרִי",
+          "meaning": "there are those who say"
+        },
+        {
+          "term": "שָׁוֶה שְׁתֵּי פְּרוּטוֹת",
+          "meaning": "worth two perutot"
+        },
+        {
+          "term": "אַחוֹלֵי אַחְלֵיהּ",
+          "meaning": "relinquishes his share"
+        }
+      ],
+      "whatToRemember": "The relinquishment of share is the key factor.",
+      "confusionAlert": "This is a classic 'אִיכָא דְּאָמְרִי' alternative.",
+      "whyThisMatters": "It clarifies the principle of partnership.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּאָמְרִי, אָמַר רָבָא:",
+          "english": "There are those who say, Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל גַּב דְּלֵית בֵּיהּ אֶלָּא",
+          "english": "Even though there is in it only"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׁוֶה שְׁתֵּי פְרוּטוֹת –",
+          "english": "worth two perutot –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חַיָּיב לְהַחְזִיר, מַאי טַעְמָא?",
+          "english": "obligated to return, what is the reason?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֵימוֹר שׁוּתָּפֵי נִינְהוּ וְחַד מִנַּיְיהוּ אַחוֹלֵי",
+          "english": "Say partners they are and one of them relinquishes"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַחֲלֵיהּ לִמְנָתֵיהּ גַּבֵּי חַבְרֵיהּ.",
+          "english": "his portion upon his friend."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָא דְּאָמְרִי, אָמַר רָבָא: אַף עַל גַּב דְּלֵית בֵּיהּ אֶלָּא שָׁוֶה שְׁתֵּי פְּרוּטוֹת – חַיָּב לְהַחְזִיר, מַאי טַעְמָא? אֵימָא שׁוּתָפֵי נִינְהוּ וְחַד מִנַּיְיהוּ אַחוֹלֵי אַחְלֵיהּ לִמְנָתֵיהּ גַּבֵּי חַבְרֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רָבָא's ruling on taking a coin before and after despair",
+      "stepSummary": "Rava rules on the prohibitions violated when taking a coin before and after the owner's despair, distinguishing between intent to steal and intent to return.",
+      "whatsHappening": "The גמרא introduces a new ruling by רָבָא on the laws of theft and return. רָבָא distinguishes between taking a coin before despair with intent to steal, before despair with intent to return but later changing intent, and after despair.",
+      "deeperAnalysis": "This clarifies the halachic status of taking lost items. The timing and intent determine the prohibitions violated. It clarifies the principle of despair.",
+      "keyTerms": [
+        {
+          "term": "לִפְנֵי יֵאוּשׁ",
+          "meaning": "before despair"
+        },
+        {
+          "term": "עַל מְנָת לְגוֹזְלָהּ",
+          "meaning": "with intent to steal"
+        },
+        {
+          "term": "עַל מְנָת לְהַחְזִירָהּ",
+          "meaning": "with intent to return"
+        },
+        {
+          "term": "לֹא תִגְזוֹל",
+          "meaning": "do not steal"
+        },
+        {
+          "term": "הָשֵׁב תְּשִׁיבֵם",
+          "meaning": "return them"
+        },
+        {
+          "term": "לֹא תוּכַל לְהִתְעַלֵּם",
+          "meaning": "do not ignore"
+        }
+      ],
+      "whatToRemember": "The timing and intent determine the prohibitions violated.",
+      "confusionAlert": "This is a complex ruling on the laws of theft.",
+      "whyThisMatters": "It clarifies the halachic status of taking lost items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רָבָא: רָאָה סֶלַע שֶׁנָּפְלָה,",
+          "english": "And Rava said: He saw a sela that fell,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נְטָלָהּ לִפְנֵי יֵאוּשׁ עַל מְנָת לְגוֹזְלָהּ –",
+          "english": "He took it before despair in order to steal it –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עוֹבֵר בְּכוּלָּן: מִשּׁוּם ״לֹא תִגְזוֹל״,",
+          "english": "He transgresses all of them: due to 'You shall not rob',"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמִשּׁוּם ״הָשֵׁב תְּשִׁיבֵם״,",
+          "english": "And due to 'You shall return them',"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמִשּׁוּם ״לֹא תוּכַל לְהִתְעַלֵּם״.",
+          "english": "And due to 'You may not disregard'."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאַף עַל גַּב (דַּחֲזָרָה) [דְּאַהְדְּרַהּ] לְאַחַר יֵאוּשׁ,",
+          "english": "And even though (he returned it) after despair,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַתָּנָה הוּא דְּיָהֵיב לֵיהּ,",
+          "english": "It is a gift that he gave him,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאִיסּוּרָא דַּעֲבַד – עֲבַד.",
+          "english": "And the prohibition that he did – he did."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נְטָלָהּ לִפְנֵי יֵאוּשׁ עַל מְנָת לְהַחְזִירָהּ,",
+          "english": "He took it before despair in order to return it,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וּלְאַחַר יֵאוּשׁ נִתְכַּוֵּין לְגוֹזְלָהּ –",
+          "english": "And after despair he intended to steal it –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "עוֹבֵר מִשּׁוּם ״הָשֵׁב תְּשִׁיבֵם״.",
+          "english": "He transgresses due to 'You shall return them'."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "הִמְתִּין לָהּ עַד שֶׁנִּתְיָאֲשׁוּ הַבְּעָלִים וּנְטָלָהּ,",
+          "english": "He waited for it until the owners despaired and took it,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֵינוֹ עוֹבֵר אֶלָּא מִשּׁוּם ״לֹא תוּכַל לְהִתְעַלֵּם״ בִּלְבָד.",
+          "english": "He does not transgress except due to 'You may not disregard' alone."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רָבָא: רָאָה סֶלַע שֶׁנָּפְלָה, נְטָלָהּ לִפְנֵי יֵאוּשׁ עַל מְנָת לְגוֹזְלָהּ – עוֹבֵר בְּכוּלָּן: מִשּׁוּם ״לֹא תִגְזוֹל״, וּמִשּׁוּם ״הָשֵׁב תְּשִׁיבֵם״, וּמִשּׁוּם ״לֹא תוּכַל לְהִתְעַלֵּם״. וְאַף עַל גַּב (דַּחֲזָרָה) [דְּאַהְדְּרַהּ] לְאַחַר יֵאוּשׁ, מַתָּנָה הוּא דְּיָהֵיב לֵיהּ, וְאִיסּוּרָא דַּעֲבַד – עֲבַד. נְטָלָהּ לִפְנֵי יֵאוּשׁ עַל מְנָת לְהַחְזִירָהּ, וּלְאַחַר יֵאוּשׁ נִתְכַּוֵּין לְגוֹזְלָהּ – עוֹבֵר מִשּׁוּם ״הָשֵׁב תְּשִׁיבֵם״. הִמְתִּין לָהּ עַד שֶׁנִּתְיָאֲשׁוּ הַבְּעָלִים וּנְטָלָהּ, אֵינוֹ עוֹבֵר אֶלָּא מִשּׁוּם ״לֹא תוּכַל לְהִתְעַלֵּם״ בִּלְבָד.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:5:1",
+            "hebrew": "ראה סלע שנפלה - ולא גרסינן משנים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara discusses a single coin, not two, which is relevant to the laws of יאוש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:5:2",
+            "hebrew": "נטלה לפני יאוש - שלא שהה כדי למשמש זה בכיסו:",
+            "english": "",
+            "takeaway": "רש״י defines taking the coin before יאוש as doing so before the owner has had time to search for it in his pocket."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:6:1",
+            "hebrew": "עובר משום השב תשיבם - לא תגזול לא שייך אלא בשעת נטילה כמו ויגזול את החנית מיד המצרי (שמואל ב כג) כדאמר בבבא קמא (עט.) לא תוכל להתעלם אינה אזהרה אלא לכובש את עיניו ונמנע מלהציל הלכך הנוטלה על מנת להחזיר ולאחר יאוש נתכוין לגוזלה אין כאן מתעלם אבל השב תשיבם איכא משנטל עד שישיבנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition of לא תגזול only applies at the moment of taking, and לא תוכל להתעלם only applies to one who ignores the loss, so taking with intent to return and later changing intent only violates השב תשיבם."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:7:1",
+            "hebrew": "המתין לה כו' - בשעה שראה אותה ולא נטלה להחזירה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that waiting for the owner to despair means seeing the coin but not taking it to return it immediately."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:7:2",
+            "hebrew": "עובר בלא תוכל להתעלם - שהרי העלים עיניו:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition of לא תוכל להתעלם is violated because the finder turned a blind eye to the lost item."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26b:5:1",
+            "hebrew": "מתנה בעלמא הוא דיהיב ליה - וא\"ת והלא לאו דלא תגזול מקרי ניתק לעשה בפ' שילוח הקן (חולין דף קמא.) א\"כ כיון דלענין גזילה לא מקרי מתנה גם השב תשיבם למה לא תיקן וי\"ל דלא קאי אלא על לאו דלא תוכל להתעלם שעבר שלא החזיר קודם יאוש:",
+            "english": "",
+            "takeaway": "תוספות addresses why the act is considered a מתנה despite the prohibition of לא תגזול being ניתק לעשה, concluding that the term מתנה only applies to the violation of לא תוכל להתעלם for not returning it before יאוש."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26b:6:1",
+            "hebrew": "אינו עובר אלא משום השב תשיבם - ובפ\"ק דקדושין (דף לד. ושם ד\"ה מעקה) דחשיב השבת אבידה עשה שאין הזמן גרמא היינו בענין שבכאן וא\"ת ואמאי ליכא לאו דלא תגזול אי משום דבהתירא אתא לידיה הלא בכובש שכר שכיר איכא לאו כדאמר בפרק איזהו נשך (לקמן בבא מציעא דף סא. ושם) וי\"ל דהתם כשמתכוין לגזול לא נתיאשו הבעלים והכא כבר נתיאשו:",
+            "english": "",
+            "takeaway": "תוספות explains that the case of taking after יאוש only violates השב תשיבם because the prohibition of לא תגזול does not apply when the owner has already despaired, unlike the case of כובש שכר שכיר where the owner has not yet despaired."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Conclusion: Finder keeps coin found in sand even if owner is sifting",
+      "stepSummary": "Rava concludes that a finder keeps a coin found in sand even if the owner is sifting, as the owner despairs of finding it.",
+      "whatsHappening": "The sugya concludes with רָבָא's ruling on finding a coin in sand. רָבָא rules that even if the owner is sifting the sand, the finder keeps the coin because the owner despairs of finding it.",
+      "deeperAnalysis": "The owner might be sifting for another coin. The despair of the owner is the key factor. It clarifies the principle of despair in a specific context.",
+      "keyTerms": [
+        {
+          "term": "בֵּי חָלָתָא",
+          "meaning": "in the sand"
+        },
+        {
+          "term": "אַרְבְּלָא",
+          "meaning": "sifter"
+        },
+        {
+          "term": "מְרַבֵּל",
+          "meaning": "sifting"
+        }
+      ],
+      "whatToRemember": "The despair of the owner is the key factor.",
+      "confusionAlert": "This is the final ruling of the sugya.",
+      "whyThisMatters": "It clarifies the principle of despair in a specific context.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: הַאי מַאן דְּחָזֵי דִּנְפוּל זוּזֵי מֵחַבְרֵיהּ",
+          "english": "Rava said: This person who saw that a coin fell from his fellow"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֵּי חָלָתָא וְאַשְׁכְּחֵיהּ וְשַׁקְלֵיהּ –",
+          "english": "in the sand and found it and took it –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא מִיחַיַּיב לְאַהְדּוֹרֵי לֵיהּ, מַאי טַעְמָא?",
+          "english": "he is not obligated to return it to him, what is the reason?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָהוּא דִּנְפַל מִינֵּיהּ מִיָּאַשׁ הוּא.",
+          "english": "The one from whom it fell has despaired."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף עַל גַּב דְּחַזְיֵיהּ דְּאַיְיתִי אַרְבְּלָא וְקָא מְרַבֵּל,",
+          "english": "Even though he saw that he brought a sifter and is sifting,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מֵימָר אָמַר: כִּי הֵיכִי דִּנְפוּל מִינַּאי דִּידִי הָכִי",
+          "english": "he says: Just as it fell from me, so too"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נְפוּל מֵאִינִישׁ אַחֲרִינָא וּמַשְׁכַּחְנָא מִידֵּי.",
+          "english": "it fell from another person and we will find something."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: הַאי מַאן דְּחָזֵי דִּנְפוּל זוּזֵי מֵחַבְרֵיהּ בֵּי חָלָתָא וְאַשְׁכְּחֵיהּ וְשַׁקְלֵיהּ – לָא מִיחַיַּיב לְאַהְדוֹרֵי לֵיהּ, מַאי טַעְמָא? הָהוּא דִּנְפַל מִינֵיהּ מִיָּאֵשׁ הוּא. אַף עַל גַּב דְּחַזְיֵיהּ דְּאַיְיתִי אַרְבְּלָא וְקָא מְרַבֵּל, מֵימָר אָמַר: כִּי הֵיכִי דִּנְפוּל מִינַאי דִּידִי הָכִי נְפוּל מֵאִינִישׁ אַחֲרִינָא וּמַשְׁכַּחְנָא מִידֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        61
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "concludes",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:8:1",
+            "hebrew": "בי חלתא - בין החולות:",
+            "english": "",
+            "takeaway": "רש״י explains that בי חלתא refers to a place among the sand dunes."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:8:2",
+            "hebrew": "ארבלא - כברה:",
+            "english": "",
+            "takeaway": "רש״י explains that ארבלא is a sieve used for sifting sand."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי אֱלִיעֶזֶר's ruling on coins found on the table",
+      "stepSummary": "רבי אלעזר rules that coins found on the money changer's table belong to the finder, even though the Mishnah only explicitly mentions coins found 'before' the table.",
+      "whatsHappening": "The sugya opens with the Mishnah's laws of מַצָּאָה in a shop and with a money changer, followed by רַבִּי אֱלִיעֶזֶר's expansion of the ruling to include coins found directly on the table.",
+      "deeperAnalysis": "The Mishnah distinguishes between finding items 'before' the money changer (belonging to the finder) and 'between the chair and the money changer' (belonging to the money changer). רַבִּי אֱלִיעֶזֶר extends the finder's rights to coins found directly on the table, implying the money changer does not maintain חֲזָקָה over the table's surface.",
+      "keyTerms": [
+        {
+          "term": "מַצָּאָה",
+          "meaning": "A found item"
+        },
+        {
+          "term": "שׁוּלְחָנִי",
+          "meaning": "A money changer"
+        },
+        {
+          "term": "חֲנוּת",
+          "meaning": "A shop"
+        },
+        {
+          "term": "חֶנְוָנִי",
+          "meaning": "A shopkeeper"
+        },
+        {
+          "term": "חֲזָקָה",
+          "meaning": "Presumption of ownership"
+        }
+      ],
+      "whatToRemember": "The Mishnah's phrasing 'לפני שולחני' is the focal point for רַבִּי אֱלִיעֶזֶר's expansion.",
+      "confusionAlert": "Note that 'לפני' can mean 'in front of' or 'before', but here it refers to the spatial area near the table.",
+      "whyThisMatters": "This sets up the central question of the sugya: what is the exact scope of the money changer's ownership over items found in his vicinity?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ מָצָא בַּחֲנוּת – הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "MISHNA: If one found in a store — behold, these are his."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֵּין הַתֵּיבָה וְלַחֶנְוָנִי – שֶׁל חֶנְוָנִי.",
+          "english": "Between the counter and the storekeeper — of the storekeeper."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לִפְנֵי שׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "Before a money changer — behold, these are his."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בֵּין הַכִּסֵּא וְלַשּׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁל שׁוּלְחָנִי.",
+          "english": "Between the chair and the money changer — behold, these are of the money changer."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַלּוֹקֵחַ פֵּירוֹת מֵחֲבֵירוֹ,",
+          "english": "One who purchases produce from his fellow,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אוֹ שֶׁשִּׁילַּח לוֹ חֲבֵירוֹ פֵּירוֹת,",
+          "english": "Or his fellow sent him produce,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמָצָא בָּהֶן מָעוֹת –",
+          "english": "And he found in them money —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "Behold, these are his."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אִם הָיוּ צְרוּרִין – נוֹטֵל וּמַכְרִיז.",
+          "english": "If they were bundled — he takes and proclaims."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "גְּמָ׳ אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "GEMARA: Rabbi Elazar says:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אֲפִילּוּ מוּנָּחִין עַל גַּבֵּי שׁוּלְחָן.",
+          "english": "Even if they are placed upon the table."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ מָצָא בַּחֲנוּת – הֲרֵי אֵלּוּ שֶׁלּוֹ. בֵּין הַתֵּיבָה וְלַחֶנְוָנִי – שֶׁל חֶנְוָנִי. לִפְנֵי שׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁלּוֹ. בֵּין הַכִּסֵּא וְלַשּׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁל שׁוּלְחָנִי. הַלּוֹקֵחַ פֵּירוֹת מֵחֲבֵירוֹ, אוֹ שֶׁשִּׁילַּח לוֹ חֲבֵירוֹ פֵּירוֹת, וּמָצָא בָּהֶן מָעוֹת – הֲרֵי אֵלּוּ שֶׁלּוֹ. אִם הָיוּ צְרוּרִין – נוֹטֵל וּמַכְרִיז. גְּמָ׳ אָמַר רַבִּי אֶלְעָזָר: אֲפִילּוּ מוּנָּחִין עַל גַּבֵּי שׁוּלְחָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:9:1",
+            "hebrew": "מתני' מצא בחנות הרי אלו שלו - בדבר שאין בו סימן קאי דההוא דנפל מיניה מיאש שהכל נכנסים לשם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's ruling applies only to items without a סימן, as the owner of a lost item in a crowded shop would have ייאוש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:9:2",
+            "hebrew": "בין התיבה - שהחנוני יושב לפניה ותמיד נוטל ממנה ונותן לפניו ומוכר ומעות שנותנין לו נותן לתיבה ולא נפל שום דבר אלא מיד חנוני:",
+            "english": "",
+            "takeaway": "רש״י explains that the חנוני maintains חזקה over items between his chair and the תיבה because he constantly handles money there, so any loss must be his."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:9:3",
+            "hebrew": "שולחני - מחליף מעות ונותן מטבעותיו בשולחן שלפניו והבאין להחליף אף הן נותנין שם מעותיהן:",
+            "english": "",
+            "takeaway": "רש״י defines the שולחני as a money changer who places his coins on the table in front of him, while customers also place their coins there for exchange."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:9:4",
+            "hebrew": "הרי אלו שלו - דאמרינן מן הבאין נפלו שהרי השולחן מפסיק בין שולחני למעות שנמצאו ואם מן השולחני נפלו היה להם להמצא בינו לכסא שהשולחן מונח עליו:",
+            "english": "",
+            "takeaway": "רש״י reasons that coins found in front of the table belong to the finder because the table acts as a barrier, implying they fell from a customer rather than the שולחני who would drop them between himself and his chair."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:10:2",
+            "hebrew": "ואם היו צרורין - הוי סימן או קשר או מנין שבהם:",
+            "english": "",
+            "takeaway": "רש״י explains that צרורין refers to coins with a סימן, such as a specific knot or count, which requires the finder to announce the find."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:11:1",
+            "hebrew": "גמ' אמר רבי אלעזר אפילו מונחין על גבי שולחן - נראה בעיני דלא גרסינן צרורין:",
+            "english": "",
+            "takeaway": "רש״י suggests a textual variant, proposing that the Gemara does not include the word צרורין in רבי אלעזר's statement, meaning his ruling applies even to coins without a סימן found on the table."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah's wording",
+      "stepSummary": "The Gemara challenges רבי אלעזר's ruling by inferring from the Mishnah's phrasing that coins found on the table belong to the money changer.",
+      "whatsHappening": "The Gemara uses a דרש מילתא דלא כתיבא (inference from silence) against רַבִּי אֱלִיעֶזֶר. Since the Mishnah specifies 'לפני שולחני' (before the table) belongs to the finder, it implies that 'על גבי שולחן' (on the table) belongs to the money changer.",
+      "deeperAnalysis": "The challenge relies on the assumption that the Mishnah's specific wording excludes the table itself. If the table belonged to the finder, the Mishnah should have said so explicitly or used broader language. The Gemara then immediately counters this inference using the latter part of the Mishnah, showing the internal contradiction prevents a clear inference.",
+      "keyTerms": [
+        {
+          "term": "הָא",
+          "meaning": "This implies / from this we learn"
+        },
+        {
+          "term": "דְּשׁוּלְחָנִי",
+          "meaning": "Belonging to the money changer"
+        },
+        {
+          "term": "אֵימָא סֵיפָא",
+          "meaning": "Let us say the latter clause"
+        },
+        {
+          "term": "מִנַּהּ",
+          "meaning": "From it"
+        },
+        {
+          "term": "לֵיכָא לְמִשְׁמַע",
+          "meaning": "One cannot derive"
+        }
+      ],
+      "whatToRemember": "The Gemara's challenge is based on the principle that specific wording implies exclusion of unmentioned cases.",
+      "confusionAlert": "The Gemara quickly resolves its own challenge, showing that the Mishnah's wording is ambiguous.",
+      "whyThisMatters": "This demonstrates the Gemara's method of testing a ruling against the precise wording of the Mishnah, even if the test ultimately fails.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תְּנַן: לִפְנֵי שׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "We learned: Before my table – behold, these are his."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא, עַל גַּבֵּי שׁוּלְחָן – דְּשׁוּלְחָנִי!",
+          "english": "But, upon the table – of the table!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵימָא סֵיפָא: בֵּין הַכִּסֵּא וְלַשּׁוּלְחָנִי – שֶׁל שׁוּלְחָנִי!",
+          "english": "Say the latter clause: Between the chair and my table – of the table!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא, עַל גַּבֵּי שׁוּלְחָן שֶׁלּוֹ.",
+          "english": "But, upon the table, his."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא מֵהָא לֵיכָּא לְמִשְׁמַע מִינַּהּ.",
+          "english": "Rather, from this one cannot learn anything from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תְּנַן: לִפְנֵי שׁוּלְחָנִי – הֲרֵי אֵלּוּ שֶׁלּוֹ. הָא, עַל גַּבֵּי שׁוּלְחָן – דְּשׁוּלְחָנִי! אֵימָא סֵיפָא: בֵּין הַכִּסֵּא וְלַשּׁוּלְחָנִי – שֶׁל שׁוּלְחָנִי! הָא, עַל גַּבֵּי שׁוּלְחָן שֶׁלּוֹ. אֶלָּא מֵהָא לֵיכָּא לְמִשְׁמַע מִינַּהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        63
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:12:1",
+            "hebrew": "לפני - משמע על גבי קרקע:",
+            "english": "",
+            "takeaway": "רש״י explains that the term לפני implies the item was found on the ground, not on the table itself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Source for רַבִּי אֱלִיעֶזֶר's ruling",
+      "stepSummary": "The Gemara asks where רבי אלעזר derives his ruling that coins on the table belong to the finder, given that the Mishnah does not explicitly support it.",
+      "whatsHappening": "Having established that the Mishnah itself is ambiguous and cannot be used to prove רַבִּי אֱלִיעֶזֶר's view, the Gemara asks for the source of his ruling.",
+      "deeperAnalysis": "This is a standard שאלה following a failed attempt to derive a ruling from the Mishnah. The Gemara seeks to understand the basis of רַבִּי אֱלִיעֶזֶר's expansion of the law.",
+      "keyTerms": [
+        {
+          "term": "הָא מְנָא לֵיהּ",
+          "meaning": "From where does he derive it"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "Rava, the Amora"
+        },
+        {
+          "term": "קְשִׁיתֵיהּ",
+          "meaning": "It is difficult for him"
+        },
+        {
+          "term": "מַאי אִרְיָא",
+          "meaning": "Why is it necessary"
+        },
+        {
+          "term": "לִיתְנֵי",
+          "meaning": "Let it teach"
+        }
+      ],
+      "whatToRemember": "The question assumes that רַבִּי אֱלִיעֶזֶר must have a source for his ruling.",
+      "confusionAlert": "The answer comes from רַבָּה, who provides a proof from the Mishnah's wording, but in a different way than the initial challenge.",
+      "whyThisMatters": "This shifts the focus from the Mishnah's ambiguity to the specific reasoning of רַבִּי אֱלִיעֶזֶר.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבִּי אֶלְעָזָר, הָא מְנָא לֵיהּ?",
+          "english": "And Rabbi Elazar, from where does he derive it?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רָבָא: מַתְנִיתִין קְשִׁיתֵיהּ.",
+          "english": "Rava said: The mishna is difficult for him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי אִרְיָא דְּתָנֵי ״בֵּין הַכִּסֵּא לַשּׁוּלְחָנִי שֶׁל שׁוּלְחָנִי״?",
+          "english": "What is the need that he taught 'between the chair and the table of the table'?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לִיתְנֵי ״עַל שׁוּלְחָן״, אִי נָמֵי:",
+          "english": "Let him teach 'on the table', or even:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״מָצָא בַּשּׁוּלְחָנוּת״ כִּדְקָתָנֵי רֵישָׁא ״מָצָא בַּחֲנוּת שֶׁלּוֹ״.",
+          "english": "'found in the tables' as he taught in the beginning 'found in his store'."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא שְׁמַע מִינַּהּ:",
+          "english": "Rather, learn from it:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ מוּנָּחִין עַל גַּבֵּי שׁוּלְחָן –",
+          "english": "Even if they are placed upon the table –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "these are his."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַבִּי אֶלְעָזָר, הָא מְנָא לֵיהּ? אָמַר רָבָא: מַתְנִיתִין קְשִׁיתֵיהּ. מַאי אִרְיָא דְּתָנֵי ״בֵּין הַכִּסֵּא לַשּׁוּלְחָנִי שֶׁל שׁוּלְחָנִי״? לִיתְנֵי ״עַל שׁוּלְחָן״, אִי נָמֵי: ״מָצָא בַּשּׁוּלְחָנוּת״ כִּדְקָתָנֵי רֵישָׁא ״מָצָא בַּחֲנוּת שֶׁלּוֹ״. אֶלָּא שְׁמַע מִינַּהּ: אֲפִילּוּ מוּנָּחִין עַל גַּבֵּי שׁוּלְחָן – הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        64
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:13:1",
+            "hebrew": "לתני על גבי שולחן - של שולחני וכ\"ש בין הכסא ולשולחני:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's suggestion to phrase the Mishnah as 'מצא על גבי שולחן' would have been even more explicit in including the case of 'בין הכסא לשולחני' as a fortiori derivation."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26b:13:2",
+            "hebrew": "אי נמי - ניתני ברישא מצא בשולחנות כדקתני רישא מצא בחנות מדנקט לפני השולחני אף על השולחן במשמע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the alternative suggestion 'מצא בשולחנות' parallels the opening Mishnah's 'מצא בחנות', and since the Mishnah specifically chose 'לפני השולחני', it implies that 'על השולחן' is also included in the ruling."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "רֵישׁ לָקִישׁ's limitation on coins in produce",
+      "stepSummary": "The Gemara moves to the second part of the Mishnah, citing Reish Lakish's ruling that coins found in produce belong to the buyer only if they are not bundled.",
+      "whatsHappening": "The sugya transitions to the second topic of the Mishnah: coins found in produce. רֵישׁ לָקִישׁ, citing רַבִּי יַנַּאי, limits the buyer's ownership to cases where the coins are not bundled.",
+      "deeperAnalysis": "This step introduces a new topic and a new ruling. The Mishnah states that coins found in produce belong to the buyer, but רֵישׁ לָקִישׁ adds a limitation: this is only true if the coins are not bundled. Bundled coins have a distinguishing mark and thus belong to the original owner.",
+      "keyTerms": [
+        {
+          "term": "רֵישׁ לָקִישׁ",
+          "meaning": "Reish Lakish, the Amora"
+        },
+        {
+          "term": "רַבִּי יַנַּאי",
+          "meaning": "Rabbi Yannai, the Tanna"
+        },
+        {
+          "term": "לֹא שָׁנוּ אֶלָּא",
+          "meaning": "The Sages taught only"
+        },
+        {
+          "term": "פֵּרוֹת",
+          "meaning": "Produce"
+        },
+        {
+          "term": "מַעֲוֹת",
+          "meaning": "Coins"
+        }
+      ],
+      "whatToRemember": "The distinction between bundled and unbundled coins is crucial for determining ownership.",
+      "confusionAlert": "The Mishnah already mentions bundled coins, so רֵישׁ לָקִישׁ's ruling seems to be a clarification rather than a new law.",
+      "whyThisMatters": "This sets up the next part of the sugya, which will explore the reasoning behind this distinction.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַלּוֹקֵחַ פֵּירוֹת מֵחֲבֵירוֹ וְכוּ׳.",
+          "english": "One who purchases produce from his fellow, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי יַנַּאי:",
+          "english": "Reish Lakish says in the name of Rabbi Yannai:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא",
+          "english": "They did not teach except"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַלּוֹקֵחַ פֵּירוֹת מֵחֲבֵירוֹ וְכוּ׳. אָמַר רֵישׁ לָקִישׁ מִשּׁוּם רַבִּי יַנַּאי: לֹא שָׁנוּ אֶלָּא",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T12:25:42.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 93.17007280001417,
+      "structure": 1906.2221333000925,
+      "translate": 451.69545699987793,
+      "meforshim": 1530.9122582998825,
+      "teaching": 997.9846996999695
+    }
+  }
+}

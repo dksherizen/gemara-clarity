@@ -1,0 +1,171 @@
+{
+  "runs": [
+    {
+      "id": "2026-05-12T22:36:26Z",
+      "masechet": "Bava_Metzia",
+      "planned_windows": 48
+    },
+    {
+      "id": "2026-05-12T23:29:05Z",
+      "masechet": "Bava_Metzia",
+      "planned_windows": 48
+    },
+    {
+      "id": "2026-05-12T23:32:16Z",
+      "masechet": "Bava_Metzia",
+      "planned_windows": 48
+    },
+    {
+      "id": "2026-05-13T15:02:46Z",
+      "masechet": "Bava_Metzia",
+      "planned_windows": 48
+    },
+    {
+      "id": "2026-05-13T16:07:14Z",
+      "masechet": "Bava_Metzia",
+      "planned_windows": 48
+    }
+  ],
+  "results": {
+    "Bava_Metzia/window/2a-4a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/4b-6b": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/7a-9a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/9b-11b": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/12a-14a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/14b-16b": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/17a-19a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/19b-21b": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/22a-24a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/24b-26b": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/27a-29a": {
+      "status": "ok",
+      "skipped": true,
+      "at": "2026-05-13T16:07:14Z"
+    },
+    "Bava_Metzia/window/29b-31b": {
+      "status": "failed",
+      "message": "ReadError: [WinError 10054] An existing connection was forcibly closed by the remote host\nTraceback (most recent call last):\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_transports\\default.py\", line 101, in map_httpcore_exceptions\n    yield\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_transports\\default.py\", line 250, in handle_request\n    resp = self._pool.handle_request(req)\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py\", line 256, in handle_request\n    raise exc from None\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\connection_pool.py\", line 236, in handle_request\n    response = connection.handle_request(\n        pool_request.request\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\connection.py\", line 103, in handle_request\n    return self._connection.handle_request(request)\n           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\http11.py\", line 136, in handle_request\n    raise exc\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\http11.py\", line 106, in handle_request\n    ) = self._receive_response_headers(**kwargs)\n        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\http11.py\", line 177, in _receive_response_headers\n    event = self._receive_event(timeout=timeout)\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_sync\\http11.py\", line 217, in _receive_event\n    data = self._network_stream.read(\n        self.READ_NUM_BYTES, timeout=timeout\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_backends\\sync.py\", line 126, in read\n    with map_exceptions(exc_map):\n         ~~~~~~~~~~~~~~^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py\", line 162, in __exit__\n    self.gen.throw(value)\n    ~~~~~~~~~~~~~~^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpcore\\_exceptions.py\", line 14, in map_exceptions\n    raise to_exc(exc) from exc\nhttpcore.ReadError: [WinError 10054] An existing connection was forcibly closed by the remote host\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\batch_masechet.py\", line 97, in build_window_safe\n    window_orchestrator.build_window(masechet, amud_pairs)\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\window_orchestrator.py\", line 377, in build_window\n    skeletons = structure_sugya(client, combined, sugya, next_step_number)  # type: ignore[arg-type]\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\passes\\structure.py\", line 270, in structure_sugya\n    result = client.call_json(\n        pass_name=\"structure\",\n    ...<3 lines>...\n        max_tokens=32000,\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\llm.py\", line 162, in call_json\n    raise last_err\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\llm.py\", line 121, in call_json\n    r = self._http.post(f\"{self.base_url}/chat/completions\", json=payload)\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 1144, in post\n    return self.request(\n           ~~~~~~~~~~~~^\n        \"POST\",\n        ^^^^^^^\n    ...<11 lines>...\n        extensions=extensions,\n        ^^^^^^^^^^^^^^^^^^^^^^\n    )\n    ^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 825, in request\n    return self.send(request, auth=auth, follow_redirects=follow_redirects)\n           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 914, in send\n    response = self._send_handling_auth(\n        request,\n    ...<2 lines>...\n        history=[],\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 942, in _send_handling_auth\n    response = self._send_handling_redirects(\n        request,\n        follow_redirects=follow_redirects,\n        history=history,\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 979, in _send_handling_redirects\n    response = self._send_single_request(request)\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_client.py\", line 1014, in _send_single_request\n    response = transport.handle_request(request)\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_transports\\default.py\", line 249, in handle_request\n    with map_httpcore_exceptions():\n         ~~~~~~~~~~~~~~~~~~~~~~~^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\contextlib.py\", line 162, in __exit__\n    self.gen.throw(value)\n    ~~~~~~~~~~~~~~^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\httpx\\_transports\\default.py\", line 118, in map_httpcore_exceptions\n    raise mapped_exc(message) from exc\nhttpx.ReadError: [WinError 10054] An existing connection was forcibly closed by the remote host\n",
+      "at": "2026-05-13T17:16:25Z"
+    },
+    "Bava_Metzia/window/32a-34a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-13T19:06:01Z"
+    },
+    "Bava_Metzia/window/34b-36b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-13T19:36:43Z"
+    },
+    "Bava_Metzia/window/37a-39a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-13T21:19:46Z"
+    },
+    "Bava_Metzia/window/39b-41b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-13T22:43:31Z"
+    },
+    "Bava_Metzia/window/42a-44a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T00:19:17Z"
+    },
+    "Bava_Metzia/window/44b-46b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T01:27:37Z"
+    },
+    "Bava_Metzia/window/47a-49a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T02:59:23Z"
+    },
+    "Bava_Metzia/window/49b-51b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T04:10:15Z"
+    },
+    "Bava_Metzia/window/52a-54a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T05:26:36Z"
+    },
+    "Bava_Metzia/window/54b-56b": {
+      "status": "failed",
+      "message": "ValueError: segmentation: model returned non-JSON despite json_schema mode:\n{\n  \"mainTopic\": \"The obligation of adding a fifth (חומש) in various cases of sanctity and theft, the value of a prutah in different legal contexts, and the laws of overcharging (אונאה) regarding specific items.\",\n  \"overview\": \"The amud begins by analyzing the biblical verses and Mishnaic teachings regarding the obligation to add a fifth (חומש) in cases of theft, Terumah, and Hekdesh, debating whether the fifth itself requires a fifth. It then transitions to a Mishnah listing five areas where the value of a prutah is significant, discussing the applicability of overcharging (אונאה) to coins. Finally, it examines a Mishnah listing items exempt from overcharging, analyzing the scriptural derivations and raising unresolved questions regarding labor and crops attached to the ground.\",\n  \"sugy\nTraceback (most recent call last):\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\batch_masechet.py\", line 97, in build_window_safe\n    window_orchestrator.build_window(masechet, amud_pairs)\n    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\window_orchestrator.py\", line 346, in build_window\n    def build_window(\n    \n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\passes\\segment.py\", line 93, in segment_amud\n    raw = client.call_json(\n        pass_name=\"segmentation\",\n    ...<3 lines>...\n        max_tokens=16000,\n    )\n  File \"C:\\Users\\DavidSherize_dd1jhqb\\Downloads\\GC\\v2\\py\\llm.py\", line 180, in call_json\n    raise ValueError(\n        f\"{pass_name}: model returned non-JSON despite json_schema mode:\\n{content[:800]}\"\n    )\nValueError: segmentation: model returned non-JSON despite json_schema mode:\n{\n  \"mainTopic\": \"The obligation of adding a fifth (חומש) in various cases of sanctity and theft, the value of a prutah in different legal contexts, and the laws of overcharging (אונאה) regarding specific items.\",\n  \"overview\": \"The amud begins by analyzing the biblical verses and Mishnaic teachings regarding the obligation to add a fifth (חומש) in cases of theft, Terumah, and Hekdesh, debating whether the fifth itself requires a fifth. It then transitions to a Mishnah listing five areas where the value of a prutah is significant, discussing the applicability of overcharging (אונאה) to coins. Finally, it examines a Mishnah listing items exempt from overcharging, analyzing the scriptural derivations and raising unresolved questions regarding labor and crops attached to the ground.\",\n  \"sugy\n",
+      "at": "2026-05-14T05:39:01Z"
+    },
+    "Bava_Metzia/window/57a-59a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T07:00:55Z"
+    },
+    "Bava_Metzia/window/59b-61b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T08:27:32Z"
+    },
+    "Bava_Metzia/window/62a-64a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T09:47:29Z"
+    },
+    "Bava_Metzia/window/64b-66b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T10:47:59Z"
+    },
+    "Bava_Metzia/window/67a-69a": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T12:01:34Z"
+    },
+    "Bava_Metzia/window/69b-71b": {
+      "status": "ok",
+      "message": "ok",
+      "at": "2026-05-14T13:00:26Z"
+    }
+  }
+}

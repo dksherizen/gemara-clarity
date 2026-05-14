@@ -1,0 +1,339 @@
+{
+  "ref": "Bava Metzia 35a",
+  "masechet": "Bava_Metzia",
+  "daf": 35,
+  "amud": "a",
+  "mainTopic": "השבת אבדה וקניין",
+  "overview": "The Gemara discusses cases where the lost item is transferred to another creditor or used for marriage, and when a creditor may consume the fruits of a seized property. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 13,
+      "endLine": 15,
+      "topic": "השבת אבדה וקניין",
+      "gist": "The Gemara discusses cases where the lost item is transferred to another creditor or used for marriage, and when a creditor may consume the fruits of a seized property. — discussion continues into next amud.",
+      "openingFormula": "פשיטא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Creditor's creditor has no better claim",
+      "stepSummary": "The Gemara opens with a פשיטא: if a creditor's property is seized for his own creditor, the second creditor has no superior claim.",
+      "whatsHappening": "The גמרא establishes a baseline rule about chain of creditors. This is a foundational principle statement.",
+      "deeperAnalysis": "When property is seized for Creditor A, and Creditor A's property is seized for Creditor B, Creditor B cannot claim priority. Creditor B's claim is derivative, not independent.",
+      "keyTerms": [
+        {
+          "term": "פְּשִׁיטָא",
+          "meaning": "it is obvious"
+        },
+        {
+          "term": "שָׁמוּ לֵיהּ לְבַעַל חוֹב",
+          "meaning": "they evaluated and seized for a creditor"
+        },
+        {
+          "term": "לָא עֲדִיף אַתּ מִגַּבְרָא דַּאֲתֵית מִינֵיהּ",
+          "meaning": "you are not better than the man from whom you came"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "פְּשִׁיטָא: שָׁמוּ לֵיהּ לְבַעַל חוֹב,",
+          "english": "It is obvious: they evaluated for the creditor,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַאֲזַל אִיהוּ וְשָׁמַהּ לְבַעַל חוֹב דִּידֵיהּ, אָמְרִינַן לֵיהּ:",
+          "english": "and he went and evaluated for his creditor, we say to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא עֲדִיף אַתְּ מִגַּבְרָא דַּאֲתֵית מִינֵּיהּ.",
+          "english": "You are not better than the man from whom you came."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זַבְּנַהּ, אוֹרְתַאּ, וְיַהֲבַהּ בְּמַתָּנָה,",
+          "english": "He sold it, he bequeathed it, and he gave it as a gift,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וַדַּאי הָנֵי מֵעִיקָּרָא אַדַּעְתָּא דְּאַרְעָא נְחוּת",
+          "english": "Certainly these from the beginning came with the intention of the land"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלָאו אַדַּעְתָּא דְּזוּזֵי נְחוּת.",
+          "english": "and not with the intention of the money they came."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "פְּשִׁיטָא: שָׁמוּ לֵיהּ לְבַעַל חוֹב, וַאֲזַל אִיהוּ וְשָׁמַהּ לְבַעַל חוֹב דִּידֵיהּ, אָמְרִינַן לֵיהּ: לָא עֲדִיף אַתּ מִגַּבְרָא דַּאֲתֵית מִינֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:13:1",
+            "hebrew": "אמרינן - לבעל חוב שני:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the statement 'אמרינן ליה' is directed at the second creditor in the chain."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:13:2",
+            "hebrew": "לא עדיפת - מבעל חוב ראשון שבאת מכחו כשם שהוא מחזירה ויטול מעותיו משום ועשית הישר והטוב אף אתה קבל מעותיך מבעלים הראשונים משום ועשית הישר והטוב:",
+            "english": "",
+            "takeaway": "רש״י explains that the second creditor is not superior to the first because, just as the first creditor must return the land based on the principle of ועשית הישר והטוב, the second creditor must also accept payment from the original owners based on the same principle."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:13:3",
+            "hebrew": "זבנה אורתה כו' - בעל חוב ששמו לו קרקע ומכרה או שנתנה או הוריש:",
+            "english": "",
+            "takeaway": "רש״י defines the terms זבנה, אורתה, and יהבה as referring to a creditor who seized land and then sold it, inherited it, or gave it as a gift."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:13:4",
+            "hebrew": "הני - אחרונים או לוקח או יורש או מקבל מתנה:",
+            "english": "",
+            "takeaway": "רש״י identifies הני as referring to the subsequent parties: the buyer, the heir, or the recipient of the gift."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:13:5",
+            "hebrew": "אדעתא דארעא נחות - שיהא קרקע שלהם ולא שיקבלו מעות דאילו בעל חוב אית ביה משום ועשית הישר והטוב דאמרינן לא היה לך עליו אלא מעות והרי הן לך אבל אלו קרקע קנו:",
+            "english": "",
+            "takeaway": "רש״י explains that these subsequent parties acquired the land with the intention of owning the property itself, not just the monetary value, and unlike the creditor who is bound by ועשית הישר והטוב to return the land for money, these parties have acquired the land outright."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 35a:13:1",
+            "hebrew": "זבנה כו' - וא\"ת ואמאי לא מהדר מה מכר ראשון לשני כל זכות שתבא לידו וי\"ל דהראשון מן הדין נמי אין מחזיר שמכורה היא לו שהרי אוכל פירות בלא נכייתא אלא משום ועשית הישר והטוב מהדר ולכך שני לא מהדר:",
+            "english": "",
+            "takeaway": "תוספות addresses why the first creditor does not return the rights to the second creditor, explaining that the first creditor is only obligated to return the land due to ועשית הישר והטוב, not by strict law, and therefore the second creditor has no claim."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות builds on רש״י's explanation of ועשית הישר והטוב by clarifying that this principle applies only to the first creditor, thereby explaining why the second creditor cannot claim priority."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Husband's claim as purchaser of wife's property",
+      "stepSummary": "The Gemara states: if property is seized for a woman's debt, and she marries and dies, the husband is considered a purchaser and does not return the property.",
+      "whatsHappening": "The גמרא introduces a new case involving a woman's debt and her husband's rights. This is a scenario setup.",
+      "deeperAnalysis": "If property is seized for a woman's debt, and she marries and dies, her husband is treated as a purchaser. He does not have to return the property to the original creditor.",
+      "keyTerms": [
+        {
+          "term": "שָׁמוּ לַהּ לְאִשָּׁה",
+          "meaning": "they evaluated and seized for a woman"
+        },
+        {
+          "term": "וְאִינְסִיבָא",
+          "meaning": "and she married"
+        },
+        {
+          "term": "וּמֵתָה",
+          "meaning": "and she died"
+        },
+        {
+          "term": "בַּעַל בְּנִכְסֵי אִשְׁתּוֹ לוֹקֵחַ הוּא",
+          "meaning": "the husband is a purchaser of his wife's property"
+        },
+        {
+          "term": "לָא מַהְדַּר וְלָא מַהְדְּרִינַן לֵיהּ",
+          "meaning": "he does not return it and they do not return it to him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שָׁמוּ לַהּ לְאִשָּׁה וְאִינְּסִיבָא,",
+          "english": "They appraised for her a woman and she married,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אוֹ שָׁמוּ מִינַּהּ דְּאִשָּׁה וְאִינְּסִיבָא וּמֵתָה",
+          "english": "Or they appraised from her a woman and she married and died"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בַּעַל בְּנִכְסֵי אִשְׁתּוֹ לוֹקֵחַ הָוֵי –",
+          "english": "Husband of his wife's property is a purchaser –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא מַיהְדַּר וְלָא מַהְדְּרִינַן לֵיהּ.",
+          "english": "He does not return and they do not return to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שָׁמוּ לַהּ לְאִשָּׁה וְאִינְסִיבָא, אוֹ שָׁמוּ מִנָּהּ דְּאִשָּׁה וְאִינְסִיבָא וּמֵתָה בַּעַל בְּנִכְסֵי אִשְׁתּוֹ לוֹקֵחַ הוּא – לָא מַהְדַּר וְלָא מַהְדְּרִינַן לֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:14:1",
+            "hebrew": "ואנסיבא - אפילו לא שמאתן לבעלה בכתובתה להיות נכסי צאן ברזל שהן קנויין לבעל אלא עיכבתן לעצמה להיות נכסי מלוג הקרן שלה והבעל אוכל פירות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the husband's status as a purchaser applies even if the wife retained the property as נכסי מלוג, where he only has rights to the fruits."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:14:3",
+            "hebrew": "לוקח הוי - דין לוקח נתנו בו חכמים הלכך לא מיהדר היכא דשמו לה ואינסיבא ומתה וירשה בעלה כדאמרינן זבנה אדעתא דארעא נחות:",
+            "english": "",
+            "takeaway": "רש״י explains that the חכמים granted the husband the status of a purchaser, meaning he does not have to return the property because he acquired it with the intention of the land remaining in his possession."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:14:4",
+            "hebrew": "ולא מהדרינן ליה - היכא דשמו מינה ואינסיבא ומתה וירשה בעלה ובא להחזיר החוב וליטול הקרקע לא מצי למימר יורשה אני דכלוקח שוייה רבנן ולא כיורש:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the husband cannot choose to return the debt and reclaim the land because the רבנן treat him as a purchaser rather than an heir."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 35a:14:1",
+            "hebrew": "לוקח הוי - אפי' אי הוי יורש לא מהדר כדאמר זבנה אורתה כו' אלא משום לא מהדרינן ליה נקטיה דאי יורש הוי מהדרינן ליה שהבן פודה קרקע של אביו ואע\"ג דבפרק יש נוחלין (ב\"ב דף קלט: ושם ד\"ה התם) מסיק דטבא ליה עבדו ליה או יורש או לוקח הא אמרינן התם בר היכא דאיכא פסידא לאחריני לא עבדי ליה טבא ולכך הכא לא הוי כיורש משום פסידא דמלוה ולא מהדר ממה נפשך דאפי' יורש הוי לא מהדר ודר' יוסי בר חנינא מפרש התם דלקוחות אפסדו אנפשייהו:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara emphasizes the husband's status as a purchaser to prevent him from returning the debt and reclaiming the land, which an heir could do, thereby causing a loss to the creditor."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from Usha: husband reclaims sold melog property",
+      "stepSummary": "The Gemara cites a ruling from Usha: if a woman sold her melog property during her husband's lifetime and then died, the husband can reclaim it from the purchasers.",
+      "whatsHappening": "The גמרא provides a source to support the previous statement about the husband's rights. This is a proof citation.",
+      "deeperAnalysis": "The Gemara cites a ruling from Usha to support the husband's priority claim. If a woman sold her melog property during her husband's lifetime and died, the husband can reclaim it from the purchasers.",
+      "keyTerms": [
+        {
+          "term": "דְּאָמַר רַבִּי יוֹסֵי בַּר חָנִינָא",
+          "meaning": "as Rabbi Yose bar Chaninah said"
+        },
+        {
+          "term": "בְּאוּשָׁא הִתְקִינוּ",
+          "meaning": "in Usha they ordained"
+        },
+        {
+          "term": "הָאִשָּׁה שֶׁמָּכְרָה בְּנִכְסֵי מְלוֹג בְּחַיֵּי בַּעְלָהּ וָמֵתָה",
+          "meaning": "a woman who sold her melog property during her husband's lifetime and died"
+        },
+        {
+          "term": "הַבַּעַל מוֹצִיא מִיַּד הַלּוֹקְחֹת",
+          "meaning": "the husband extracts from the hand of the purchasers"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּאָמַר רַבִּי יוֹסֵי בַּר חֲנִינָא:",
+          "english": "That Rabbi Yose bar Chaninah said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּאוּשָׁא הִתְקִינוּ –",
+          "english": "In Usha they ordained –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָאִשָּׁה שֶׁמָּכְרָה בְּנִכְסֵי מְלוֹג בְּחַיֵּי בַּעְלָהּ וָמֵתָה –",
+          "english": "The woman who sold in her melog property during her husband's lifetime and died –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַבַּעַל מוֹצִיא מִיַּד הַלָּקוֹחוֹת.",
+          "english": "The husband extracts from the hand of the purchasers."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּאָמַר רַבִּי יוֹסֵי בַּר חָנִינָא: בְּאוּשָׁא הִתְקִינוּ – הָאִשָּׁה שֶׁמָּכְרָה בְּנִכְסֵי מְלוֹג בְּחַיֵּי בַּעְלָהּ וָמֵתָה – הַבַּעַל מוֹצִיא מִיַּד הַלּוֹקְחֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:15:1",
+            "hebrew": "באושא התקינו - כשהיתה סנהדרין באושא שגלתה וישבה שם סנהדרי גדולה כדאמרינן בר\"ה (דף לא) גבי עשרה מסעות:",
+            "english": "",
+            "takeaway": "רש״י explains that באושא התקינו refers to a תקנה enacted when the סנהדרין was located in אושא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:15:2",
+            "hebrew": "האשה שמכרה בנכסי מלוג - להיות הבעל אוכל פירות בחייה וגוף הקרקע יהיה ללוקח לכשתמות ומתה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the husband's right to the פירות during her lifetime and the purchasers' right to the גוף הקרקע after her death are the competing claims addressed by this תקנה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 35a:15:3",
+            "hebrew": "בעל מוציא - גוף הקרקע מיד הלקוחות והכי מוקי לה בפרק האשה בכתובות (דף עח:) תקנת אושא בגופה של קרקע לאחר מיתה אלמא כלוקח שויוהו רבנן וא\"ל אני לקחתי ראשון דאי כשאר יורש שויוהו רבנן יורש שמכר אביו נכסיו בחייו אין לו ירושה בהן:",
+            "english": "",
+            "takeaway": "רש״י explains that the husband can reclaim the גוף הקרקע from the purchasers because the חכמים gave him the status of a לקוח who acquired first, as derived from the discussion in כתובות."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T19:36:43.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 80.02530660002958,
+      "structure": 860.4683259999729,
+      "validate": 111.11377679998986,
+      "translate": 137.1125211000326,
+      "meforshim": 284.6877119001001,
+      "teaching": 324.43104979995405
+    }
+  }
+}

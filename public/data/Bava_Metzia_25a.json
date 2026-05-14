@@ -1,0 +1,1379 @@
+{
+  "ref": "Bava Metzia 25a",
+  "masechet": "Bava_Metzia",
+  "daf": 25,
+  "amud": "a",
+  "mainTopic": "(continues) חייב להכריז וסימנים במציאה",
+  "overview": "The Mishnah lists items requiring announcement; the Gemara analyzes the definitions of 'clusters' (צבורים) and 'towers' (מגדלים) of coins, discussing the role of quantity and arrangement as identifying marks (סימנים). — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 16,
+      "topic": "(continues) חייב להכריז וסימנים במציאה",
+      "gist": "The Mishnah lists items requiring announcement; the Gemara analyzes the definitions of 'clusters' (צבורים) and 'towers' (מגדלים) of coins, discussing the role of quantity and arrangement as identifying marks (סימנים). — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 1,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Inference from the מִשְׁנָה's wording about containers",
+      "stepSummary": "The Gemara infers from the Mishnah's phrasing that if produce or coins are found outside their container, the finder keeps them, citing a supporting Baraita.",
+      "whatsHappening": "The גמרא analyzes the מִשְׁנָה's specific wording to derive a ruling about items found outside their containers. This inference is confirmed by a ברייתא.",
+      "deeperAnalysis": "The מִשְׁנָה's phrasing implies that items outside their containers belong to the finder. The ברייתא explicitly states this rule, including cases where some items are inside and some outside, reinforcing the inference.",
+      "keyTerms": [
+        {
+          "term": "טַעְמָא",
+          "meaning": "the reason is"
+        },
+        {
+          "term": "הָא",
+          "meaning": "but if"
+        },
+        {
+          "term": "תְּנֵינָא לְהָא",
+          "meaning": "we learn this"
+        },
+        {
+          "term": "בַּרְאִיתָא",
+          "meaning": "ברייתא"
+        },
+        {
+          "term": "מִקְצָתָן",
+          "meaning": "some of them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ טַעְמָא דְּמָצָא פֵּירוֹת בִּכְלִי וּמָעוֹת בְּכִיס.",
+          "english": "The Gemara's reason: he found produce in a vessel and coins in a pouch."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא כְּלִי וּלְפָנָיו פֵּירוֹת,",
+          "english": "But a vessel and before it produce,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּיס וּלְפָנָיו מָעוֹת –",
+          "english": "a pouch and before it coins –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "these are his."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תְּנֵינָא לְהָא, דְּתָנוּ רַבָּנַן:",
+          "english": "We learned this, as the Sages taught:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מָצָא כְּלִי וּלְפָנָיו פֵּירוֹת,",
+          "english": "He found a vessel and before it produce,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כִּיס וּלְפָנָיו מָעוֹת –",
+          "english": "a pouch and before it coins –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "these are his."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִקְצָתָן בַּכְּלִי וּמִקְצָתָן עַל גַּבֵּי קַרְקַע,",
+          "english": "Some of them in the vessel and some of them on the ground,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִקְצָתָן בַּכִּיס וּמִקְצָתָן עַל גַּבֵּי קַרְקַע –",
+          "english": "some of them in the pouch and some of them on the ground –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "חַיָּיב לְהַכְרִיז.",
+          "english": "he is obligated to proclaim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ טַעְמָא דְּמָצָא פֵּירוֹת בִּכְלִי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "derives_inference",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:2:1",
+            "hebrew": "גמ' טעמא דמצא כו' - התם הוא דאמר שהפירות לבעל הכלי:",
+            "english": "GEMARA: The reason is that he found, etc. - it is there [specifically] that it is said that the produce belongs to the owner of the vessel.",
+            "takeaway": "רש״י explains that the Gemara's inference applies specifically to the case where the produce is found inside the vessel, establishing that it belongs to the vessel's owner."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:2:2",
+            "hebrew": "הא כלי ולפניו פירות - הרי אלו הפירות של מוצאן ואע\"פ שהכלי לבעל הסימן את הכלי יחזיר ואת הפירות יעכב לו ולא אמרינן מהאי מנא נפל:",
+            "english": "But [if he found a vessel] and produce was before it - then this produce belongs to the one who finds it, even though the vessel goes to the one who identifies the distinguishing mark. [The finder] must return the vessel, but he can retain the produce; we don't say that it must have fallen out of this vessel.",
+            "takeaway": "רש״י clarifies that when produce is found outside the vessel, it belongs to the finder, who must return the vessel to its owner but may keep the produce, as we do not assume it fell from that specific vessel."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:2:3",
+            "hebrew": "מקצתן בכלי כו' - הדבר מוכיח דהנך דעל גבי קרקע דהנך הוא וחייב להחזירם למי שיתן סימן בכלי וכן מעות לבעל הכיס:",
+            "english": "Some is in the vessel, etc. - the situation proves that those [fruits] on the ground belong to this other one, and [the finder] is required to return them to whomever furnishes the vessel's distinguishing mark; similarly regarding money [that must be returned] to the owner of the pouch.",
+            "takeaway": "רש״י explains that when some items are inside the vessel and some are on the ground, the situation indicates they all belong to the same owner, requiring the finder to announce the find and return everything to the one who identifies the vessel."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a ברייתא about marked and unmarked items",
+      "stepSummary": "The Gemara challenges the previous inference with a Baraita stating that if an item without a mark is found next to one with a mark, the finder must announce both, and if the owner of the marked item takes it, the finder keeps the unmarked one.",
+      "whatsHappening": "The גמרא raises a contradiction from another ברייתא regarding an unmarked item found alongside a marked one. This challenges the previous inference about items outside containers.",
+      "deeperAnalysis": "The ברייתא states that the finder must announce both marked and unmarked items found together, contradicting the idea that unmarked items outside a container are automatically the finder's. This forces a refinement of the conditions for loss.",
+      "keyTerms": [
+        {
+          "term": "וּרְמִינְהוּ",
+          "meaning": "and we challenge them"
+        },
+        {
+          "term": "דָּבָר שֶׁאֵין בּוֹ סִימָן",
+          "meaning": "an item without a mark"
+        },
+        {
+          "term": "בְּצַד",
+          "meaning": "alongside"
+        },
+        {
+          "term": "זָכָה",
+          "meaning": "acquires"
+        },
+        {
+          "term": "בַּעַל סִימָן",
+          "meaning": "owner of the mark"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּרְמִינְהוּ: מָצָא דָּבָר שֶׁאֵין בּוֹ סִימָן בְּצַד",
+          "english": "And we raise them: Found an item that has no distinguishing mark on the side"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דָּבָר שֶׁיֵּשׁ בּוֹ סִימָן – חַיָּיב לְהַכְרִיז.",
+          "english": "An item that has a distinguishing mark — obligated to proclaim."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בָּא בַּעַל סִימָן וְנָטַל אֶת שֶׁלּוֹ –",
+          "english": "Came the owner of the distinguishing mark and took his —"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זָכָה הַלָּה בְּדָבָר שֶׁאֵין בּוֹ סִימָן.",
+          "english": "The finder acquired in the item that has no distinguishing mark."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִינְהוּ: מָצָא דָּבָר שֶׁאֵין בּוֹ סִימָן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_inference",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:3:1",
+            "hebrew": "ה\"ג - מצא דבר שאין בו סימן בצד דבר שיש בו סימן כגון מעות לפני כיס:",
+            "english": "We have as the text: If one found an item on which there is no distinguishing mark alongside an item on which there is a distinguishing mark - for example, money in front of a pouch.",
+            "takeaway": "רש״י clarifies that the Baraita's scenario of finding an unmarked item alongside a marked one refers specifically to money found in front of a pouch."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:3:2",
+            "hebrew": "חייב להכריז - על הכל וינתנו המעות לבעל הכיס:",
+            "english": "He is obligated to proclaim - all of it; the money shall be given to the owner of the pouch.",
+            "takeaway": "רש״י explains that the obligation to announce applies to both items, and initially the money is given to the owner of the pouch."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:3:3",
+            "hebrew": "בא בעל סימן ונטל את שלו - את הכיס ואמר אין המעות שלי זכה הלה במעות:",
+            "english": "The owner of the item with the distinguishing mark came and took his - [that is,] the pouch, and said that the money is not mine -- the other one [i.e. the finder] is entitled to the money.",
+            "takeaway": "רש״י clarifies that the finder only acquires the unmarked money if the owner of the marked pouch claims the pouch but explicitly denies ownership of the money."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב זְוִיד's resolution: different types of containers",
+      "stepSummary": "Rav Zevid resolves the contradiction by distinguishing between a container and flax (where all flax falls out together) and a basket and produce (where some produce might remain).",
+      "whatsHappening": "רַב זְוִיד offers a resolution based on the physical properties of the items involved. This distinguishes between scenarios in the מִשְׁנָה and the challenging ברייתא.",
+      "deeperAnalysis": "רַב זְוִיד suggests the מִשְׁנָה refers to a basket and produce, where items outside likely never were inside. The ברייתא refers to a container and flax, where fibers outside likely fell from it. This resolves the contradiction by attributing different scenarios.",
+      "keyTerms": [
+        {
+          "term": "לָא קַשְׁיָא",
+          "meaning": "it is not difficult"
+        },
+        {
+          "term": "כוּבָּא",
+          "meaning": "container"
+        },
+        {
+          "term": "כִּיתָּנָא",
+          "meaning": "flax"
+        },
+        {
+          "term": "צַנָּא",
+          "meaning": "basket"
+        },
+        {
+          "term": "פֵּירֵי",
+          "meaning": "produce"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב זְבִיד, לָא קַשְׁיָא:",
+          "english": "Rav Zevid said: It is not difficult:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא בְּכוּבָּא וְכִיתָּנָא,",
+          "english": "This is in a container and flax,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא בְּצַנָּא וּפֵירֵי.",
+          "english": "This is in a basket and produce."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב זְבִיד, לָא קַשְׁיָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב פַּפָּא's resolution: whether anything remains in the container",
+      "stepSummary": "Rav Pappa offers an alternative resolution: both sources refer to a basket and produce, but one case has some produce remaining in the basket, while the other has none.",
+      "whatsHappening": "רַב פַּפָּא provides a different resolution, focusing on the state of the container. This shifts the focus from container type to quantity of items remaining.",
+      "deeperAnalysis": "רַב פַּפָּא argues both sources discuss a basket and produce. If some produce remains in the basket, it suggests a spill, requiring announcement. If none remains, it suggests the produce was never in the basket, so the finder keeps it.",
+      "keyTerms": [
+        {
+          "term": "אִשְׁתְּיַיר",
+          "meaning": "remained"
+        },
+        {
+          "term": "מִידֵּי",
+          "meaning": "anything"
+        },
+        {
+          "term": "הָא דְּ",
+          "meaning": "this one is where"
+        },
+        {
+          "term": "הָא דְּלָא",
+          "meaning": "this one is where not"
+        },
+        {
+          "term": "לָא קַשְׁיָא",
+          "meaning": "it is not difficult"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב פָּפָּא אָמַר:",
+          "english": "Rav Pappa said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא וְהָא בְּצַנָּא וּפֵירֵי, וְלָא קַשְׁיָא:",
+          "english": "Both this and that are regarding a basket and produce, and it is not difficult:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא דְּאִשְׁתְּיַיר בַּהּ מִידֵּי,",
+          "english": "This is where something remained in it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא דְּלָא אִשְׁתְּיַיר בַּהּ מִידֵּי.",
+          "english": "This is where nothing remained in it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב פָּפָּא אָמַר: הָא וְהָא בְּצַנָּא וּפֵירֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "offers_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:5:1",
+            "hebrew": "הא דקתני חייב בדאשתייר - ואיכא למימר הנך דאבראי מיניה נפל:",
+            "english": "",
+            "takeaway": "רש״י explains that the case where the finder is obligated to announce refers to a scenario where some produce remains in the container, allowing one to infer that the produce found outside fell from it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative resolution: orientation of the container",
+      "stepSummary": "The Gemara suggests another resolution: both cases have no produce remaining, but one has the basket's mouth facing the produce, while the other does not.",
+      "whatsHappening": "The גמרא proposes a third resolution based on the orientation of the container. This adds another layer of contextual analysis to the dispute.",
+      "deeperAnalysis": "This resolution assumes both cases involve an empty basket. If the basket's opening faces the produce, it suggests the produce fell from it, requiring announcement. If not, it suggests the produce was never in the basket, so the finder keeps it.",
+      "keyTerms": [
+        {
+          "term": "וְאִיבָּעֵית אֵימָא",
+          "meaning": "and if you wish, say"
+        },
+        {
+          "term": "מְהַדְּרִי אַפֵּיהּ",
+          "meaning": "turns its face"
+        },
+        {
+          "term": "לְגַבֵּי",
+          "meaning": "towards"
+        },
+        {
+          "term": "לָא קַשְׁיָא",
+          "meaning": "it is not difficult"
+        },
+        {
+          "term": "הָא דִּמְהַדְּרִי",
+          "meaning": "this one is where it turns"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִיבָּעֵית אֵימָא: הָא וְהָא דְּלָא אִשְׁתְּיַיר בַּהּ מִידֵּי,",
+          "english": "And if you wish, say: Both this and that are where nothing remains in it,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָא קַשְׁיָא: הָא דִּמְהַדְּרִי אַפֵּיהּ לְגַבֵּי פֵּירֵי,",
+          "english": "And it is not difficult: This is where it turns its face toward the produce,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא דְּלָא מְהַדְּרִי אַפֵּיהּ לְגַבֵּי פֵּירֵי.",
+          "english": "This is where it does not turn its face toward the produce."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִיבָּעֵית אֵימָא: הָא וְהָא דְּלָא אִשְׁתְּיַיר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "offers_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:6:1",
+            "hebrew": "והא דלא אשתייר - כיון דסתם צנא יש לו אוגנין כפולים לתוכו אי מתוכו נפל הוה משתייר ביה דאוגנין מעכבי ליה:",
+            "english": "",
+            "takeaway": "רש״י explains that a standard basket (צנא) has double rims (אוגנין כפולים) inside, so if produce fell from it, some would remain stuck in the rims, meaning the Gemara's assumption that nothing remained implies the produce was never in the basket."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The container has a rim",
+      "stepSummary": "The Gemara suggests a fourth resolution: both cases have the basket's mouth facing the produce, but one has a rim, while the other does not.",
+      "whatsHappening": "The Gemara proposes a resolution based on the physical structure of the container. It distinguishes between a basket with a rim and one without.",
+      "deeperAnalysis": "If the basket has a rim, produce would likely remain inside if it fell, so the absence of produce suggests it was never inside, and the finder keeps it. If it has no rim, all produce could fall out, so the finder must announce. This adds another layer of physical analysis to the previous resolutions.",
+      "keyTerms": [
+        {
+          "term": "וְאִיבָּעֵית אֵימָא",
+          "meaning": "and if you wish, say"
+        },
+        {
+          "term": "אוּגְנִין",
+          "meaning": "rim"
+        },
+        {
+          "term": "הָא דְּאִית לֵהּ",
+          "meaning": "this one is where it has"
+        },
+        {
+          "term": "הָא דְּלֵית לֵהּ",
+          "meaning": "this one is where it does not have"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִיבָּעֵית אֵימָא: הָא וְהָא דִּמְהַדְּרִי אַפֵּיהּ לְגַבֵּי פֵּירֵי,",
+          "english": "And if you wish, say: Both this and that are referring to produce facing it,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָא קַשְׁיָא: הָא דְּאִית לֵהּ אוּגְנִין לְצַנָּא,",
+          "english": "And it is not difficult: This is where there is produce in the basket,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא דְּלֵית לֵהּ אוּגְנִין לְצַנָּא.",
+          "english": "This is where there is no produce in the basket."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִיבָּעֵית אֵימָא: הָא וְהָא דִּמְהַדְּרִי אַפֵּיהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "offers_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:7:1",
+            "hebrew": "הא דאית ליה אוגנין - לאו מיניה נפל דאי מיניה נפל הוה משתייר ביה מידי:",
+            "english": "",
+            "takeaway": "רש״י explains that the presence of אוגנין (a rim) on the צנא (container) indicates the produce did not fall from it, because if it had fallen from such a container, some produce would have remained inside."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from the Mishnah's wording about clusters",
+      "stepSummary": "The Gemara attempts to prove from the Mishnah's use of the plural 'clusters' that number and location are identifying marks.",
+      "whatsHappening": "The Gemara shifts to analyzing the Mishnah's wording regarding 'clusters' of produce and coins. It attempts to derive that 'number' and 'location' are marks from the plural 'צבורי'.",
+      "deeperAnalysis": "The Gemara immediately rejects these proofs by suggesting the Mishnah could be read as singular 'צבור', meaning a single pile. This shows the Gemara's caution in deriving laws from ambiguous wording. The rejection is based on the possibility of a different textual reading.",
+      "keyTerms": [
+        {
+          "term": "שָׁמְעַתְּ מִינַּהּ",
+          "meaning": "learn from it"
+        },
+        {
+          "term": "מִנְיָן",
+          "meaning": "number"
+        },
+        {
+          "term": "מָקוֹם",
+          "meaning": "location"
+        },
+        {
+          "term": "תְּנִי",
+          "meaning": "teach"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "צִבּוּרֵי פֵירוֹת וְצִבּוּרֵי מָעוֹת.",
+          "english": "Piles of produce and piles of coins."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שָׁמְעַתְּ מִינַּהּ מִנְיָן הָוֵי סִימָן, תְּנִי: ״צִבּוּר פֵּירוֹת״.",
+          "english": "You learned from it that number is a distinguishing mark? Tannaitic source: 'A pile of produce.'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׁמְעַתְּ מִינַּהּ מָקוֹם הָוֵי סִימָן, תְּנִי: ״צִבּוּרֵי פֵּירוֹת״.",
+          "english": "You learned from it that place is a distinguishing mark? Tannaitic source: 'Piles of produce.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "צִבּוּרֵי פֵירוֹת וְצִבּוּרֵי מָעוֹת",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:8:1",
+            "hebrew": "ש\"מ מנין הוי סימן - דאי לאו הכי מאי סימן איכא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara attempts to derive that מנין is a valid סימן because without it, there would be no distinguishing mark for the lost item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:8:2",
+            "hebrew": "תני צבור פירות - דאין כאן מנין מאי סימניה מקום דכיון דצבורין הינוח הוה ויהיב סימנא במקום פלוני הנחתים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara rejects the proof from the plural צבורי by suggesting the Mishnah could be read as singular צבור, meaning the only mark is מקום since the items were left in a pile."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:8:3",
+            "hebrew": "תני צבורי פירות - סימני מנין דהוי מדחי ליה לא הא תפשוט ולא הא תפשוט:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara also rejects the proof that מקום is a סימן by suggesting the Mishnah uses the plural צבורי to indicate that מנין is the mark, thereby refuting both potential derivations."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 25a:8:1",
+            "hebrew": "שמעת מינה מנין הוי סימן - אע\"ג דפשיטא ליה לעיל מדמשקל הוי סימן מדה ומנין נמי הוי סימן בעי לאוכוחי הכא ממתני' ולעיל (בבא מציעא דף כד) נמי דקתני . אבל מצא שנים חייב לא קאמר ש\"מ מנין הוי סימן (דלא אלימא ליה ברייתא למפשט מינה) אי נמי דמצי למדחי דמנין וחרוזא הוי סימן:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara seeks to derive that מנין is a סימן from the Mishnah even though it was already established from the concept of משקל, and notes that the Gemara does not derive this from the ברייתא about two people finding an item because a ברייתא is not strong enough to prove a point against a Mishnah or because it could be refuted by the rule that מנין and חרוזא together form a סימן."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יִצְחָק's definition of 'towers' of coins",
+      "stepSummary": "Rabbi Yitzchak defines 'three coins stacked' as requiring them to be arranged like towers, supported by a Baraita.",
+      "whatsHappening": "The Gemara moves to the Mishnah's mention of 'three coins stacked' and cites רַבִּי יִצְחָק's definition. רַבִּי יִצְחָק clarifies that 'three coins stacked' refers to coins arranged in a deliberate, tower-like structure.",
+      "deeperAnalysis": "This is supported by a Baraita that distinguishes between scattered coins (which the finder keeps) and coins arranged like towers (which require announcement). The Baraita explicitly defines 'towers' as three coins stacked one on top of another. This establishes that deliberate arrangement indicates the owner's hope of recovery.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יִצְחָק מַגְדְּלָאָה",
+          "meaning": "רַבִּי יִצְחָק from Migdal"
+        },
+        {
+          "term": "כְּמִגְדָּלִין",
+          "meaning": "like towers"
+        },
+        {
+          "term": "מְפוּזָּרוֹת",
+          "meaning": "scattered"
+        },
+        {
+          "term": "תַּנְיָא נָמֵי",
+          "meaning": "it is also taught"
+        },
+        {
+          "term": "שְׁלֹשָׁה מַטְבְּעִין",
+          "meaning": "three coins"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁלֹשָׁה מַטְבְּעוֹת זֶה עַל גַּב זֶה.",
+          "english": "Three coins, this on top of this."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַבִּי יִצְחָק מַגְדְּלָאָה: וְהוּא שֶׁעֲשׂוּיִין כְּמִגְדָּלִין.",
+          "english": "Rabbi Yitzchak of Migdal says: And it is that they are made like towers."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תַּנְיָא נָמֵי הָכִי:",
+          "english": "It is also taught here thusly:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָצָא מָעוֹת מְפוּזָּרוֹת –",
+          "english": "Found coins scattered –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ,",
+          "english": "these are his,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "עֲשׂוּיִין כְּמִגְדָּלִים – חַיָּיב לְהַכְרִיז.",
+          "english": "made like towers – he is obligated to proclaim."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאֵלּוּ הֵן עֲשׂוּיִין כְּמִגְדָּלִים?",
+          "english": "And what are these made like towers?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "שְׁלֹשָׁה מַטְבְּעִין זֶה עַל גַּב זֶה.",
+          "english": "Three coins, this on top of this."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁלֹשָׁה מַטְבְּעוֹת זֶה עַל גַּב זֶה",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:9:1",
+            "hebrew": "והוא שעשוין כמגדלין - לקמיה מפרש ששלשתן רחבין זה מזה ומניח מלמטה את הרחב ועליו את הבינוני ועליון הוא הקצר שבכולן כמגדל זה העשוי היסוד רחב ומקצר ועולה וכי מנחי הכי לאו דרך נפילה הוה אלא דרך הינוח והיה דעתו לחזור ולטלן ושכח הלכך נוטל ומכריז וזה בא ונותן סימן ואומר מגדלין היו עשויין:",
+            "english": "",
+            "takeaway": "רש״י explains that 'towers' refers to three coins of decreasing width stacked from widest at the bottom to narrowest at the top, mimicking a physical tower's structure, which indicates deliberate placement (דרך הינוח) rather than accidental falling, thus requiring announcement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:9:2",
+            "hebrew": "ג' מטבעות - שאין דומות זו לזו ברחבן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the three coins must differ in width from one another to form the tower-like structure."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 25a:9:1",
+            "hebrew": "והוא שעשויין כמגדלין - אי מנין הוי סימן במה שעשויין כמגדלין ידעינן דדרך הינוח הוה ובתרי לא סגי דטבעא מכריז אבל אם מקום הוי סימן אפילו בתרי ועשויין כמגדלין ידעינן דדרך הינוח הוה דאי בתרי אפי' עשויין כמגדלין לא ידעינן דדרך הינוח הוה דאימור דרך נפילה הוה דאתרמי הכי א\"כ לקמן מאי פריך (אר' יוחנן) מאי אריא תלתא אפי' בתרי סגי וי\"ל דשפיר משני טבעא מכריז:",
+            "english": "",
+            "takeaway": "תוספות discusses whether the 'tower' arrangement itself serves as a sign (סימן) of deliberate placement, arguing that if the arrangement is the sign, two coins might suffice, but if the location is the sign, even two coins arranged like towers might not prove deliberate placement as they could have fallen that way, leading to a resolution that the coin itself serves as the sign."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on the physical description of the coins (decreasing width) to establish deliberate placement, תוספות analyzes the halachic mechanism of the sign (סימן), questioning whether the arrangement itself or the location constitutes the sign, and addressing the sufficiency of two coins versus three."
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Internal contradiction in the Baraita about scattered coins",
+      "stepSummary": "The Gemara notes an apparent contradiction within the Baraita: if scattered coins are the finder's, then partially overlapping coins should require announcement, but if towers require announcement, then partially overlapping coins should be the finder's.",
+      "whatsHappening": "The Gemara identifies a contradiction within the Baraita's own wording. It argues that if 'scattered' coins are the finder's, then coins that are partially overlapping should require announcement.",
+      "deeperAnalysis": "Conversely, if 'towers' require announcement, then partially overlapping coins should be the finder's. This creates a dilemma about the status of partially overlapping coins. The contradiction hinges on the definition of 'scattered' vs. 'towers'.",
+      "keyTerms": [
+        {
+          "term": "הָא גּוּפַהּ קַשְׁיָא",
+          "meaning": "it is difficult within itself"
+        },
+        {
+          "term": "מְשַׁלְחֲפִי שַׁלְחוֹפֵי",
+          "meaning": "partially overlapping"
+        },
+        {
+          "term": "אֵימָא סֵיפָא",
+          "meaning": "say the latter part"
+        },
+        {
+          "term": "תָּנָא",
+          "meaning": "the Tanna"
+        },
+        {
+          "term": "קָרֵי לְהוּ",
+          "meaning": "calls them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָא גּוּפַהּ קַשְׁיָא:",
+          "english": "This itself is difficult:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמְרַתְּ מָצָא מָעוֹת מְפוּזָּרוֹת הֲרֵי אֵלּוּ שֶׁלּוֹ,",
+          "english": "You said: If one found scattered coins, these are his,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא מְשַׁלְחֲפִי שַׁלְחוֹפֵי חַיָּיב לְהַכְרִיז!",
+          "english": "If they are partially overlapping, he is obligated to proclaim!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵימָא סֵיפָא: עֲשׂוּיִין כְּמִגְדָּלִין חַיָּיב לְהַכְרִיז,",
+          "english": "Say the latter clause: If they are arranged like towers, he is obligated to proclaim,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָא מְשַׁלְחֲפִי שַׁלְחוֹפֵי הֲרֵי אֵלּוּ שֶׁלּוֹ!",
+          "english": "If they are partially overlapping, these are his!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תָּנָא כֹּל שֶׁאֵין עֲשׂוּיִין כְּמִגְדָּלִין –",
+          "english": "The tanna calls all that are not arranged like towers –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מְפוּזָּרוֹת קָרֵי לְהוּ.",
+          "english": "He calls them scattered."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָא גּוּפַהּ קַשְׁיָא: אָמְרַתְּ מָצָא מָעוֹת מְפוּזָּרוֹת",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_definition",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:10:1",
+            "hebrew": "משלחפי שלחופי - מקצת זו על חבירתה ומקצת על גבי קרקע:",
+            "english": "",
+            "takeaway": "רש״י defines משלחפי שלחופי as coins where some are stacked on others and some are on the ground."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:10:2",
+            "hebrew": "חייב להכריז - אלמא כי האי גוונא לאו דרך נפילה הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the obligation to announce משלחפי שלחופי proves this arrangement is not considered a typical accidental drop."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 25a:10:1",
+            "hebrew": "הא גופא קשיא - אמתני' לא פריך דמצינן למימר דג' מטבעות היינו פירוש דצבורי מעות:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the Gemara does not raise this contradiction against the Mishna because the Mishna's צבורי מעות can be explained as referring to three coins."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי חֲנִינָא's distinction between coins of one king vs. three kings",
+      "stepSummary": "Rabbi Chanina states that the obligation to announce applies only to coins of three different kings, not to coins of a single king.",
+      "whatsHappening": "The Gemara introduces רַבִּי חֲנִינָא's ruling regarding the type of coins found. רַבִּי חֲנִינָא limits the obligation to announce to coins minted by three different kings.",
+      "deeperAnalysis": "If the coins are from a single king, the finder keeps them. The Gemara immediately challenges this by asking how this distinction works: if the coins are arranged like towers, even coins of one king should require announcement. This challenge forces a refinement of רַבִּי חֲנִינָא's ruling.",
+      "keyTerms": [
+        {
+          "term": "שֶׁל שְׁלֹשָׁה מְלָכִים",
+          "meaning": "of three kings"
+        },
+        {
+          "term": "שֶׁל מֶלֶךְ אֶחָד",
+          "meaning": "of one king"
+        },
+        {
+          "term": "הֵיכִי דָמֵי",
+          "meaning": "how is it similar"
+        },
+        {
+          "term": "אֲפִילּוּ",
+          "meaning": "even"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי חֲנִינָא:",
+          "english": "Rabbi Ḥanina says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא שֶׁל שְׁלֹשָׁה מְלָכִים,",
+          "english": "They taught only regarding those of three kings,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל שֶׁל מֶלֶךְ אֶחָד אֵינוֹ חַיָּיב לְהַכְרִיז.",
+          "english": "but regarding those of one king, one is not obligated to proclaim."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֵיכִי דָמֵי? אִי דַּעֲשׂוּיִין כְּמִגְדָּלִין –",
+          "english": "What are the circumstances? If they are made like towers –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲפִילּוּ שֶׁל מֶלֶךְ אֶחָד נָמֵי,",
+          "english": "even those of one king also,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאִי דְּאֵין עֲשׂוּיִין כְּמִגְדָּלִין –",
+          "english": "and if they are not made like towers –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ שֶׁל שְׁלֹשָׁה מְלָכִים נָמֵי לָא!",
+          "english": "even those of three kings also not!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי חֲנִינָא: לֹא שָׁנוּ אֶלָּא שֶׁל שְׁלֹשָׁה מְלָכִים",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:11:1",
+            "hebrew": "של שלשה מלכים - קס\"ד שלא היו צורותיהם שוות שכל מלך כותב שמו וצורתו על מטבע שלו:",
+            "english": "",
+            "takeaway": "רש״י explains that coins of three kings have distinct shapes because each king inscribes his name and image on his own currency."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:11:2",
+            "hebrew": "אי דעשויין כמגדלין - שאין שוין ברחבן ומונחים כמו שפרישית:",
+            "english": "",
+            "takeaway": "רש״י clarifies that coins arranged like towers are not uniform in width and are stacked as previously explained."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:11:3",
+            "hebrew": "אפילו של מלך אחד - שצורת שלשתן שוות:",
+            "english": "",
+            "takeaway": "רש״י notes that coins of one king have identical shapes."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Refinement: coins of one king but different sizes",
+      "stepSummary": "The Gemara refines Rabbi Chanina's ruling: it applies to coins of one king but different sizes (like coins of three kings), not to coins of one king and same size.",
+      "whatsHappening": "The Gemara corrects the formulation of רַבִּי חֲנִינָא's ruling to resolve the challenge. It clarifies that רַבִּי חֲנִינָא's ruling refers to coins of one king but different sizes.",
+      "deeperAnalysis": "These resemble coins of three kings in their variety. If the coins are of one king and same size, even if stacked, they are considered 'scattered' and belong to the finder. This refinement resolves the challenge by focusing on the variety of sizes as the identifying mark.",
+      "keyTerms": [
+        {
+          "term": "אֶלָּא אִי אִתְּמַר",
+          "meaning": "rather, if it was said"
+        },
+        {
+          "term": "כְּעֵין שְׁלֹשָׁה מְלָכִים",
+          "meaning": "like three kings"
+        },
+        {
+          "term": "רְוִיחָא",
+          "meaning": "broad"
+        },
+        {
+          "term": "מְצִיעָא",
+          "meaning": "intermediate"
+        },
+        {
+          "term": "זוּטָא",
+          "meaning": "small"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אִי אִתְּמַר, הָכִי אִתְּמַר:",
+          "english": "Rather, if it was stated, thus it was stated:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא שֶׁל מֶלֶךְ אֶחָד",
+          "english": "They did not teach except those of one king"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כְּעֵין שְׁלֹשָׁה מְלָכִים,",
+          "english": "Like three kings,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל שֶׁל מֶלֶךְ אֶחָד אֵינוֹ חַיָּיב לְהַכְרִיז.",
+          "english": "But those of one king he is not obligated to proclaim."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהֵיכִי דָּמֵי דַּעֲשׂוּיִין כְּמִגְדָּלִים?",
+          "english": "And how are those arranged like towers?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רְוִיחָא תַּתָּאָה וּמְצִיעָא עִילָּוֵיהּ וְזוּטָא עִילָּוֵיהּ מְצִיעָא.",
+          "english": "The lower space and the middle above it and the small above the middle."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּאָמְרִינַן: אַנּוֹחֵי אַנְחִינְהוּ.",
+          "english": "That we say: We placed them there."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲבָל שֶׁל מֶלֶךְ אֶחָד,",
+          "english": "But those of one king,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דְּכוּלְּהוּ כִּי הֲדָדֵי נִינְהוּ אַף עַל",
+          "english": "All of them are like each other even though"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "גַּב דְּמַנְּחִי אַהֲדָדֵי –",
+          "english": "on top of that they are placed upon each other –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ, אֵימַר:",
+          "english": "These are his, he said:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אִתְרְמוֹיֵי אִתְרְמִי וּבַהֲדֵי הֲדָדֵי נְפוּל.",
+          "english": "They were arranged by chance and fell together."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אִי אִתְּמַר, הָכִי אִתְּמַר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:12:1",
+            "hebrew": "של מלך אחד כעין שלשה מלכים - כלומר אפי' הן של מלך אחד שצורת שלשתן שוה והן כעין שלשה מלכים שחלוקין ברחבן ודומין לג' מטבעות:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'של מלך אחד כעין שלשה מלכים' means coins of one king that differ in width, resembling coins of three different kings."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:12:2",
+            "hebrew": "ה\"ג והיכי דמי כגון שעשויין כמגדלין להכריז:",
+            "english": "",
+            "takeaway": "רש״י notes the text should read 'והיכי דמי כגון שעשויין כמגדלין להכריז', clarifying the condition for announcing a find."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:12:3",
+            "hebrew": "דכולהו כי הדדי נינהו - שוין ברחבן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'כולהו כי הדדי נינהו' means the coins are identical in width."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:12:4",
+            "hebrew": "אע\"ג דכי הדדי מנחי - זה על זה ולאו משלחפי:",
+            "english": "",
+            "takeaway": "רש״י explains that 'אע"
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן's ruling: even coins of one king require announcement",
+      "stepSummary": "Rabbi Yochanan rules that even coins of one king require announcement, based on their number.",
+      "whatsHappening": "The Gemara presents רַבִּי יוֹחָנָן's opposing view. רַבִּי יוֹחָנָן disagrees with רַבִּי חֲנִינָא, stating that even coins of one king require announcement.",
+      "deeperAnalysis": "The Gemara asks what is announced, and answers that the number of coins is announced. רָבִינָא answers that the plural 'coins' implies at least two, so three is needed to provide a specific number as a mark. This highlights the role of number as an identifying mark, even without variety in kings or sizes.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "רַבִּי יוֹחָנָן"
+        },
+        {
+          "term": "מַכְרֵיז",
+          "meaning": "announces"
+        },
+        {
+          "term": "רָבִינָא",
+          "meaning": "רָבִינָא"
+        },
+        {
+          "term": "טִבְעָא",
+          "meaning": "coins (plural)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר:",
+          "english": "And Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲפִילּוּ שֶׁל מֶלֶךְ אֶחָד נָמֵי מַכְרֵיז.",
+          "english": "Even if of one king, one also proclaims."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי מַכְרֵיז? מִנְיָן.",
+          "english": "What does he proclaim? The number."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאי אִירְיָא תְּלָתָא?",
+          "english": "Why is three necessary?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲפִילּוּ תְּרֵין נָמֵי.",
+          "english": "Even two also."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר רָבִינָא: טִבְעָא מַכְרֵיז.",
+          "english": "Ravina said: The mint proclaims.",
+          "notes": "The mint mark on the coin serves as a distinguishing feature."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַבִּי יוֹחָנָן אָמַר: אֲפִילּוּ שֶׁל מֶלֶךְ אֶחָד",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:13:1",
+            "hebrew": "אפי' של מלך אחד מכריז - הואיל ומטבעות הוו זו ע\"ג זו יש כאן סימן דלא אתרמי דנפול הכי:",
+            "english": "",
+            "takeaway": "רש״י explains that even coins of one king have a סימן because they are stacked one on top of another, which is an unlikely arrangement to occur by chance."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:13:2",
+            "hebrew": "ופרכינן מאי מכריז מנין - כך וכך מטבעות מצאתי וזה בא ונתן סימן זו ע\"ג זו מצאתם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the announcement specifies the number of coins found, allowing the owner to identify them by the סימן of their stacked arrangement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:13:3",
+            "hebrew": "טבעא מכריז - מטבעות מצאתי הלכך תרי לאו סימנא הוא דמיעוט מטבעות ב':",
+            "english": "",
+            "takeaway": "רש״י explains Ravina's statement that the announcement must specify the number of coins, because two coins do not constitute a valid סימן as the minimum number of coins is two."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "שאלה",
+      "title": "רַבִּי יִרְמְיָה's dilemma about various coin arrangements",
+      "stepSummary": "Rabbi Yirmeya raises a dilemma about the status of coins arranged in various shapes: round, straight, triangular, or ladder-like.",
+      "whatsHappening": "The Gemara introduces a series of questions about different coin arrangements. רַבִּי יִרְמְיָה asks about the halachic status of coins arranged in specific shapes.",
+      "deeperAnalysis": "These questions explore whether these arrangements constitute identifying marks requiring announcement. The dilemma focuses on the shape of the coin arrangement. This expands the discussion to include various forms of deliberate arrangement.",
+      "keyTerms": [
+        {
+          "term": "בָּעֵי",
+          "meaning": "raises a dilemma"
+        },
+        {
+          "term": "כְּשֵׁיר",
+          "meaning": "like a round bracelet"
+        },
+        {
+          "term": "כְּשׁוּרָה",
+          "meaning": "like a straight line"
+        },
+        {
+          "term": "כַּחֲצוּבָה",
+          "meaning": "like a triangle"
+        },
+        {
+          "term": "כְּסוּלָּם",
+          "meaning": "like a ladder"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בָּעֵי רַבִּי יִרְמְיָה: כְּשֵׁיר, מַהוּ?",
+          "english": "Rabbi Yirmeya asks: If [they are] round, what is the law?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּשׁוּרָה, מַהוּ? כַּחֲצוּבָה, מַהוּ? כְּסוּלָּם, מַהוּ?",
+          "english": "If [they are] straight, what is the law?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בָּעֵי רַבִּי יִרְמְיָה: כְּשֵׁיר, מַהוּ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:14:1",
+            "hebrew": "כשיר - מוטלין בעגול כאצעדה:",
+            "english": "",
+            "takeaway": "רש״י explains that כשיר refers to coins arranged in a circle like a bracelet (אצעדה)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:14:2",
+            "hebrew": "כשורה - זו אצל זו:",
+            "english": "",
+            "takeaway": "רש״י explains that כשורה refers to coins placed next to each other in a straight line."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:14:3",
+            "hebrew": "כחצובה - כג' רגלי קנקן כל אחד כנגד אויר של שני כזה * _ *:",
+            "english": "",
+            "takeaway": "רש״י explains that כחצובה refers to coins arranged in a triangle like the three legs of a pot, each facing the space between the other two."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:14:4",
+            "hebrew": "כסולם - רוב אמצעי על התחתון ורוב העליון על האמצעי כמו מעלות שקורין אשקולינו\"ש:",
+            "english": "",
+            "takeaway": "רש״י explains that כסולם refers to coins stacked like ladder rungs, where the middle coin rests mostly on the bottom one and the top coin rests mostly on the middle one."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תשובה",
+      "title": "Resolution from Rav Nachman's criterion",
+      "stepSummary": "The Gemara suggests resolving the dilemma using Rav Nachman's criterion: if a wood chip can lift all coins at once, they require announcement.",
+      "whatsHappening": "The Gemara proposes a resolution to the dilemma using Rav Nachman's rule. This is a setup line introducing a new criterion.",
+      "deeperAnalysis": "Rav Nachman rules that if coins are packed tightly enough that a wood chip can lift them all at once, announcement is required. This physical test distinguishes deliberate placement from scattered loss. It resolves the 'ladder' case by classifying tight arrangements as intentional.",
+      "keyTerms": [
+        {
+          "term": "פּשׁוֹט מֵהָא",
+          "meaning": "resolve from this"
+        },
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Nachman"
+        },
+        {
+          "term": "קֵיסָם",
+          "meaning": "wood chip"
+        },
+        {
+          "term": "בַּת אַחַת",
+          "meaning": "at once"
+        },
+        {
+          "term": "חַיָּב לְהַכְרִיז",
+          "meaning": "obligated to announce"
+        }
+      ],
+      "whatToRemember": "The wood chip test is a practical criterion for determining deliberate arrangement.",
+      "confusionAlert": "The criterion is physical, focusing on the tightness of the arrangement.",
+      "whyThisMatters": "This provides a practical test for determining the status of various coin arrangements.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "פְּשׁוֹט מֵהָא חֲדָא,",
+          "english": "Resolve from this one thing,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ:",
+          "english": "that Rav Naḥman says that Rabba bar Avuh says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כֹּל שֶׁאִילּוּ מַכְנִיס לָהֶ[ן] קֵיסָם בֵּינֵיהֶן",
+          "english": "Anything that if one introduces a wood chip between them"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְנוֹטְלָם בְּבַת אַחַת, חַיָּיב לְהַכְרִיז.",
+          "english": "and takes them in one go, he is obligated to proclaim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "פְּשׁוֹט מֵהָא חֲדָא, דְּאָמַר רַב נַחְמָן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "offers_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:15:1",
+            "hebrew": "פשוט מהא - דר\"נ חדא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's phrase פשוט מהא חדא indicates that Rav Nachman's statement alone resolves the dilemma without needing additional sources."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 25a:15:2",
+            "hebrew": "כל שאילו מכניס כו' - וכי הוו כסולם ניטלים בבת אחת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Nachman's criterion of inserting a wood chip applies specifically to coins arranged like a ladder, which can be lifted together in one motion."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "שאלה",
+      "title": "Rav Ashi's dilemma about the 'House of Kolius' arrangement",
+      "stepSummary": "Rav Ashi raises a dilemma about coins arranged like the stones of the House of Kolius.",
+      "whatsHappening": "The Gemara introduces a new dilemma from Rav Ashi. This is a setup line for a specific case.",
+      "deeperAnalysis": "Rav Ashi questions the status of coins arranged like the stones of the House of Kolius. This refers to a specific, known structural pattern. The Gemara seeks to clarify whether this pattern implies deliberate placement.",
+      "keyTerms": [
+        {
+          "term": "בָּעֵי",
+          "meaning": "raises a dilemma"
+        },
+        {
+          "term": "רַב אָשֵׁי",
+          "meaning": "Rav Ashi"
+        },
+        {
+          "term": "כְּאַבְנֵי בֵּית קוּלִיס",
+          "meaning": "like the stones of the House of Kolius"
+        },
+        {
+          "term": "מַהוּ",
+          "meaning": "what is the law"
+        },
+        {
+          "term": "בֵּית קוּלִיס",
+          "meaning": "House of Kolius"
+        }
+      ],
+      "whatToRemember": "The 'House of Kolius' is a specific arrangement of coins.",
+      "confusionAlert": "The term 'House of Kolius' is a technical reference.",
+      "whyThisMatters": "This adds another layer to the discussion of coin arrangements.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בָּעֵי רַב אָשֵׁי: כְּאַבְנֵי בֵּית קוּלִיס, מַהוּ?",
+          "english": "Rav Ashi raises a dilemma: Like stones of Bet Qulis, what is the law?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בָּעֵי רַב אָשֵׁי: כְּאַבְנֵי בֵּית קוּלִיס",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "shifts_focus"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T12:25:42.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 93.17007280001417,
+      "structure": 1906.2221333000925,
+      "translate": 451.69545699987793,
+      "meforshim": 1530.9122582998825,
+      "teaching": 997.9846996999695
+    }
+  }
+}

@@ -1,0 +1,1110 @@
+{
+  "ref": "Bava Metzia 23a",
+  "masechet": "Bava_Metzia",
+  "daf": 23,
+  "amud": "a",
+  "mainTopic": "(continues) סמא העשוי לידרס · ככרות של נחתום · כללא דאבידתא",
+  "overview": "(1) A debate between Rava and Rav Ashi regarding whether a mark made to be trampled (סמא העשוי לידרס) is considered a valid siman, and their respective explanations of the Mishnah regarding bundles in public vs. private domains. (2) The Gemara analyzes the case of a baker's loaves, debating whether the dispute between the Tanna Kamma and Rabbi Yehuda concerns natural marks or marks made to be trampled, and whether one passes over food. (3) Rav Zevid cites Rav Acha's general rule that if the owner says 'Woe to the loss of my purse,' he has despaired, and the halacha regarding bundles in public and private domains.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 2,
+      "topic": "(continues) סמא העשוי לידרס",
+      "gist": "A debate between Rava and Rav Ashi regarding whether a mark made to be trampled (סמא העשוי לידרס) is considered a valid siman, and their respective explanations of the Mishnah regarding bundles in public vs. private domains.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 1
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 3,
+      "endLine": 13,
+      "topic": "ככרות של נחתום",
+      "gist": "The Gemara analyzes the case of a baker's loaves, debating whether the dispute between the Tanna Kamma and Rabbi Yehuda concerns natural marks or marks made to be trampled, and whether one passes over food.",
+      "openingFormula": "null",
+      "firstStepNumber": 2,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 14,
+      "endLine": 15,
+      "topic": "כללא דאבידתא",
+      "gist": "Rav Zevid cites Rav Acha's general rule that if the owner says 'Woe to the loss of my purse,' he has despaired, and the halacha regarding bundles in public and private domains.",
+      "openingFormula": "null",
+      "firstStepNumber": 10,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: Displacement of location",
+      "stepSummary": "Rava explains the Baraita by focusing on whether the location is displaced. Bundles in a public domain are kicked and roll, changing their location. Sheaves are heavy and stay put.",
+      "whatsHappening": "רַבָּא resolves the ברייתא by applying his principle that location is a mark. In a public domain, bundles are kicked and roll, changing their location, so the mark is invalid; in a private domain, they are not kicked, so the location remains valid.",
+      "deeperAnalysis": "The resolution hinges on stability: כְּרִיכוֹת are light and get displaced in a public domain, invalidating the location mark. הָאֲלוּמּוֹת are heavy and stay in place, preserving the location mark, aligning with רַבָּא's view that מָקוֹם הָוֵי סִימָן only if unchanged.",
+      "keyTerms": [
+        {
+          "term": "מִינַשְׁתְּפָא",
+          "meaning": "Being displaced / rolled"
+        },
+        {
+          "term": "יַקִּירֵי",
+          "meaning": "They are heavy / valuable"
+        },
+        {
+          "term": "לָא מִינַשְׁתְּפָא",
+          "meaning": "They are not displaced"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרָבָא מְתָרֵץ לְטַעְמֵיהּ בְּמָקוֹם:",
+          "english": "And Rava answers according to his reasoning in the place:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּרִיכוֹת בִּרְשׁוּת הָרַבִּים הֲרֵי אֵלּוּ שֶׁלּוֹ – דְּמִינַּשְׁתְּפָא.",
+          "english": "Bundles in a public domain — these are his, because they are scattered."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בִּרְשׁוּת הַיָּחִיד חַיָּיב לְהַכְרִיז – דְּלָא מִינַּשְׁתְּפָא.",
+          "english": "In a private domain, he is obligated to proclaim — because they are not scattered."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָאֲלוּמּוֹת, בֵּין בִּרְשׁוּת הָרַבִּים,",
+          "english": "And the sheaves, whether in a public domain,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּבֵין בִּרְשׁוּת הַיָּחִיד – נוֹטֵל וּמַכְרִיז,",
+          "english": "or in a private domain — he takes and proclaims,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כֵּיוָן דְּיַקִּירֵי לָא מִינַּשְׁתְּפָא.",
+          "english": "Since they are precious, they are not scattered."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרָבָא מְתָרֵץ לְטַעְמֵיהּ בְּמָקוֹם: כְּרִיכוֹת בִּרְשׁוּת הָרַבִּים הֲרֵי אֵלּוּ שֶׁלּוֹ – דְּמִינַּשְׁתְּפָא. בִּרְשׁוּת הַיָּחִיד חַיָּיב לְהַכְרִיז – דְּלָא מִינַּשְׁתְּפָא. וְהָאֲלוּמּוֹת, בֵּין בִּרְשׁוּת הָרַבִּים, וּבֵין בִּרְשׁוּת הַיָּחִיד – נוֹטֵל וּמַכְרִיז, כֵּיוָן דְּיַקִּירֵי לָא מִינַּשְׁתְּפָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        36
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:2:1",
+            "hebrew": "דמינשתפא - מתגלגל ברגלי אדם ובהמה ואינה נמצאת במקום שנפלה תחילה:",
+            "english": "",
+            "takeaway": "רש״י explains that מִינַשְׁתְּפָא means the bundles roll due to the feet of people and animals, so they are no longer found in the original location where they fell."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:2:2",
+            "hebrew": "דיקירי - כבידות:",
+            "english": "",
+            "takeaway": "רש״י explains that יַקִּירֵי means heavy, which is why the sheaves do not roll and remain in their original location."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the משנה about a baker's loaves",
+      "stepSummary": "The Gemara cites a Mishnah about a baker's loaves to prove that a mark prone to being trampled is still considered a valid distinguishing mark, challenging Ravba's opinion.",
+      "whatsHappening": "The גמרא brings a proof from a משנה regarding the status of a distinguishing mark susceptible to trampling. The משנה states that a homeowner's loaves with a mark must be proclaimed even in a public domain.",
+      "deeperAnalysis": "The גמרא infers that since the mark is in a public place where it could be trampled, it is still considered valid. This directly contradicts רַבָּה's earlier ruling that a mark prone to being trampled is not a valid mark.",
+      "keyTerms": [
+        {
+          "term": "כִּכָּרוֹת שֶׁל נַחְתּוֹם",
+          "meaning": "Baker's loaves"
+        },
+        {
+          "term": "סִימָן הֶעָשׂוּי לִידָּרֵס",
+          "meaning": "A distinguishing mark prone to being trampled"
+        },
+        {
+          "term": "רְשׁוּת הָרַבִּים",
+          "meaning": "Public domain"
+        },
+        {
+          "term": "תְּיוּבְתָּא",
+          "meaning": "Conclusive refutation"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: כִּכָּרוֹת שֶׁל נַחְתּוֹם –",
+          "english": "Come and hear: Loaves of a baker –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "These are his."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא שֶׁל בַּעַל הַבַּיִת חַיָּיב לְהַכְרִיז.",
+          "english": "But loaves of a homeowner, he is obligated to proclaim."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁל בַּעַל הַבַּיִת מַאי טַעְמָא?",
+          "english": "Loaves of a homeowner, what is the reason?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כֵּיוָן דְּאִית בְּהוּ סִימָן,",
+          "english": "Since there is a distinguishing mark in them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּמִידָּע יְדִיעַ רִפְתָּא דְאִינִישׁ אִינִישׁ הוּא.",
+          "english": "that it is known, the knowledge of a person's oven, it is that person."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְלָא שְׁנָא רְשׁוּת הָרַבִּים וְלָא שְׁנָא",
+          "english": "And there is no difference a public domain, and there is no difference"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "רְשׁוּת הַיָּחִיד – נוֹטֵל וּמַכְרִיז,",
+          "english": "a private domain – he takes and proclaims,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אַלְמָא סִימָן הֶעָשׂוּי לִידָּרֵס הָוֵי סִימָן, תְּיוּבְתָּא דְּרַבָּה!",
+          "english": "Apparently, a distinguishing mark that is made to be trampled is a distinguishing mark, a refutation of Rabba!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: כִּכָּרוֹת שֶׁל נַחְתּוֹם",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:3:1",
+            "hebrew": "הא של בעל הבית חייב להכריז - ואע\"ג דבהדיא תני לה במתניתין איידי דנקט לאותביה מרישא כריכות ברשות הרבים דאותיב מינה לרבא נקט נמי לאותוביה לרבה מדוקי' דרישא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara cites the second clause of the Mishnah (regarding the homeowner's loaves) to refute רבה, even though the first clause already refuted רבא, because the Gemara wants to refute both sages using the corresponding parts of the Mishnah."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּה's resolution: One does not pass over food",
+      "stepSummary": "Ravba resolves the challenge by arguing that the Mishnah's requirement to proclaim is based on the principle that people do not pass over food, not on the validity of the mark.",
+      "whatsHappening": "רַבָּה offers a resolution, shifting the basis of the obligation to proclaim from the mark to the nature of the item. He argues that one must proclaim the loaves because of the principle of 'אין מעבירין על האוכלין'.",
+      "deeperAnalysis": "Since people pick up food, the mark is not actually trampled, so the issue of a trampled mark never arises. The גמרא raises objections about gentiles and animals trampling the food, which רַבָּה answers by citing gentile fear of sorcery and the absence of beasts.",
+      "keyTerms": [
+        {
+          "term": "אֵין מַעֲבִירִין עַל הָאוֹכָלִין",
+          "meaning": "One does not pass over food"
+        },
+        {
+          "term": "גּוֹיִם חָיְישִׁי לִכְשָׁפִים",
+          "meaning": "Gentiles are concerned about sorcery"
+        },
+        {
+          "term": "בְּהֵמָה וּכְלָבִים",
+          "meaning": "Beasts and dogs"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר לָךְ רַבָּה:",
+          "english": "Rabba said to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָתָם הַיְינוּ טַעְמָא –",
+          "english": "There, this is the reason –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִשּׁוּם דְּאֵין מַעֲבִירִין עַל הָאוֹכָלִין.",
+          "english": "Because one does not pass by foods."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא אִיכָּא גּוֹיִם!",
+          "english": "And aren't there gentiles!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גּוֹיִם חָיְישִׁי לִכְשָׁפִים.",
+          "english": "Gentiles are concerned about sorcery."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהָאִיכָּא בְּהֵמָה וּכְלָבִים!",
+          "english": "And aren't there beasts and dogs!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בְּאַתְרָא דְּלָא שְׁכִיחִי בְּהֵמָה וּכְלָבִים.",
+          "english": "In a place where beasts and dogs are not found."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לָךְ רַבָּה: הָתָם הַיְינוּ טַעְמָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        39
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:4:1",
+            "hebrew": "אין מעבירין על האוכלין - המוצא אוכלין בדרך אין רשאי לעבור עליהם ולהניחם שם הלכך לא נדרסו שמי שמצאן ראשון הגביהן:",
+            "english": "One may not pass by food and leave it lying on the ground - One who finds food on the path is not allowed to ignore it and leave it there. Therefore, they are not trampled, because whoever finds them first picks them up.",
+            "takeaway": "רש״י explains that the principle of אין מעבירין על האוכלין means one is obligated to pick up food found on the road, which prevents it from being trampled."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:4:2",
+            "hebrew": "אין מעבירין על האוכלין - לאו לשון דריסה הוא אלא כמו אין מעבירין על המצות (יומא דף לג.):",
+            "english": "",
+            "takeaway": "רש״י clarifies that אין מעבירין על האוכלין refers to the prohibition of passing over food without taking it, similar to the prohibition of passing over mitzvot, rather than merely avoiding trampling it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:4:3",
+            "hebrew": "חיישי לכשפים - סבורים שמחמת כשפים הונחו לשם כדי להכשיל הדורסים עליהן ונהי נמי דאין מגביהין אותם מיהו לא דרסי עליהן משום כשפים:",
+            "english": "They are concerned about witchcraft - they assume that the food was placed there due to witchcraft, intended to cause harm to those who step on it. And even though they do not pick them up, they also avoid stepping on them because of fear of witchcraft",
+            "takeaway": "רש״י explains that gentiles avoid trampling the food because they fear it was placed there as part of a sorcery spell intended to harm those who step on it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23a:4:1",
+            "hebrew": "אין מעבירין על האוכלין - פי' אינו רשאי לעבור מעליהן כדפירש רש\"י אלא צריך להגביהן אבל אין לפרש דאין מעבירין היינו אין דורסין עליהם כדאמר בפרק הדר (עירובין דף סד:) דא\"ל ר\"ג לרבי אלעאי טול גלוסקא משום דאין מעבירין הרי משמע שצריך להגביהם ועוד דקאמר התם אבל בדורות אחרונים שפרוצות בכשפים מעבירין ואי אין מעבירין היינו אין דורסין א\"כ האי דקאמר נמי שפרוצות בכשפים היינו דורסים והכא משמע דבאתרא דחיישי לכשפים אין דורסין אלא ודאי צריך לומר כדפרישית:",
+            "english": "Ein ma’avirin al ha’ochlin\"—Meaning, one is not permitted to pass over food, as Rashi explained, but rather, one must lift it. However, it is incorrect to explain that \"ein ma’avirin\" means \"one does not trample upon food,\" as stated in Eruvin 64b, where Rabban Gamliel told Rabbi Ilai, \"Take the loaf,\" because of \"ein ma’avirin.\" This implies that he needed to lift it. Furthermore, the passage there states: \"But in later generations, since people are more involved in sorcery, they do pass over [the food].\" If \"ein ma’avirin\" meant \"do not trample,\" then the statement about later generations being involved in sorcery would imply that they do trample, whereas here it seems that in places where people are concerned about sorcery, they do not trample at all.",
+            "takeaway": "תוספות argues that אין מעבירין על האוכלין must mean one is obligated to lift the food, rather than simply not trampling it, based on the discussion in עירובין regarding sorcery."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23a:4:2",
+            "hebrew": "והא איכא נכרים דלא איכפת להו - פירוש שידרסו הנכרים קודם שיבא שם שום ישראל ויגביה וא\"ת ולפרוך והלא נכרים שקלי ליה וי\"ל דדריסה שכיח אי לאו משום כשפים לפי שדורסין דרך הילוכן אבל נטילה לא שכיח שיראים שבעל הככר רואה שסבורים שלדעת הניחו שם אבל קשה דהיכי פריך שניחוש שידרסוהו נכרים קודם שיבא שם שום ישראל ויפטר מהכרזה אדרבה ניחוש לרוב ישראל שרואין הככר ויגביהוהו וניחוש לחומרא לחייבו הכרזה דהא בציבורי מעות מכריז אע\"פ שאם יראו אותם הנכרים קודם ודאי שקלי להו ועוד דבעי למימר דאפילו ברוב נכרים פליגי רבנן ומחייבי להכריז ואע\"ג דאיכא למיחש דלמא שקלי להו ומסתמא נתייאש ועוד דהוה ליה למימר דמנכרים נפול וניזיל בתר רובא אפילו לשמואל דאמר בממון אין הולכין אחר הרוב היכא דליכא חזקה מודה כדמוכח בפרק לא יחפור (ב\"ב דף כג: ושם ד\"ה חוץ) גבי ניפול הנמצא אבל כל היכא דאפשר לתקן להשיב ממון לבעלים ע\"י הכרזה מתקנינן וא\"כ מאי פריך הכא:",
+            "english": "Therefore, it must be explained as I have stated—that \"ein ma’avirin\" means one must lift the food rather than pass over it",
+            "takeaway": "תוספות raises a difficulty regarding the Gemara's concern about gentiles trampling the food before a Jew can pick it up, questioning why the Gemara doesn't instead worry about Jews picking it up or gentiles taking it, and suggests the concern is specifically about trampling due to the prevalence of that action."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23a:4:3",
+            "hebrew": "והא איכא בהמה וכלבים - וא\"ת לרבא נמי יקשה והא איכא בהמה וכלבים דאכלי להו כדאמר לעיל דאיכא שקצים ורמשים דאכלי וי\"ל דהכא מיירי בככרות גדולות שאי אפשר שיאכלום:",
+            "english": "",
+            "takeaway": "תוספות answers the question of why animals and dogs don't eat the food by suggesting the Mishnah refers to large loaves that animals cannot consume."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות builds on רש״י's explanation of אין מעבירין על האוכלין by clarifying that it implies an obligation to lift the food, not just a prohibition against trampling, and addresses the Gemara's specific concerns about gentiles and animals."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "שאלה",
+      "title": "Proposing the dispute is about natural vs. trampled marks",
+      "stepSummary": "The Gemara suggests that the dispute between the Tanna Kamma and Rabbi Yehuda in the Mishnah parallels the dispute between Ravba and Rava regarding natural marks and trampled marks.",
+      "whatsHappening": "The גמרא attempts to map the Amoraic dispute onto the Tannaitic dispute, proposing a specific point of disagreement. It cites a משנה where רַבִּי יְהוּדָה requires proclamation for items with an alteration.",
+      "deeperAnalysis": "The גמרא infers that the תַּנָּא קַמָּא holds these belong to the finder without proclamation. It proposes that the Sages assumed everyone agrees that a natural mark is valid and one passes over food, so the dispute must be about a mark prone to being trampled.",
+      "keyTerms": [
+        {
+          "term": "סִימָן הַבָּא מֵאֵילָיו",
+          "meaning": "A distinguishing mark that comes on its own (natural mark)"
+        },
+        {
+          "term": "מַעֲבִירִין עַל הָאוֹכָלִין",
+          "meaning": "One passes over food"
+        },
+        {
+          "term": "מִיפַּלְגִי",
+          "meaning": "They disagree"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לֵימָא כְּתַנָּאֵי: רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Let us say that the tanna'im say: Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל דָּבָר שֶׁיֵּשׁ בּוֹ שִׁינּוּי,",
+          "english": "Any matter in which there is an alteration,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חַיָּיב לְהַכְרִיז. כֵּיצַד?",
+          "english": "he is obligated to proclaim. How so?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָצָא עִיגּוּל וּבְתוֹכוֹ חֶרֶס, כִּכָּר וּבְתוֹכוֹ מָעוֹת.",
+          "english": "He found a round cake and inside it earthenware, a loaf and inside it coins."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִכְּלָל דְּתַנָּא קַמָּא סָבַר הֲרֵי אֵלּוּ שֶׁלּוֹ. סַבְרוּהָ:",
+          "english": "From the general rule that the first tanna holds: these are his. They assumed:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סִימָן הַבָּא מֵאֵילָיו הָוֵי סִימָן,",
+          "english": "All the world, a distinguishing mark that comes by itself is a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמַעֲבִירִין עַל הָאוֹכָלִין. מַאי לָאו:",
+          "english": "and one passes by foods. Is it not:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּסִימָן הֶעָשׂוּי לִידָּרֵס קָא מִיפַּלְגִי,",
+          "english": "With regard to a distinguishing mark that is made to be trampled they disagree,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מָר סָבַר: לָא הָוֵי סִימָן,",
+          "english": "One Sage holds: it is not a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וּמָר סָבַר: הָוֵי סִימָן?",
+          "english": "and one Sage holds: it is a distinguishing mark?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לֵימָא כְּתַנָּאֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        40
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:5:1",
+            "hebrew": "לימא כתנאי - פלוגתא דרבה ורבא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's proposal to derive the dispute from the Tannaim refers specifically to the disagreement between רבה and רבא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:6:1",
+            "hebrew": "הבא מאיליו - הראוי לבא מאיליו כגון חרס פעמים שנופל בעיגול:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a natural mark (סמן הבא מעצמו) refers to something that naturally tends to fall into an item, such as a shard falling into a fig cake."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:6:2",
+            "hebrew": "הוי סימן - דאמרינן לשם סימן נתנו שם ולא נפל מאליו ודבר שיש בו סימן הוא ואפילו הכי פליגי רבנן ואמרי הרי אלו שלו משום דקסברי מעבירין על האוכלין והוה ליה סימן העשוי לידרס:",
+            "english": "",
+            "takeaway": "רש״י explains that the Sages consider a natural mark valid because they assume the owner placed it intentionally as a sign, and even though it is prone to being trampled, they rule the finder keeps it because one passes over food items."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:6:3",
+            "hebrew": "ור\"י סבר הוי סימן - ואע\"פ שזה עשוי לידרס נמי הוי סימן:",
+            "english": "",
+            "takeaway": "רש״י states that רבי יהודה considers a mark prone to being trampled to still be a valid sign."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23a:6:1",
+            "hebrew": "סימן הבא מאיליו הוי סימן - פרש\"י דלשם סימן נתנו שם ולא נפל מאיליו וקשה דאין דרך לתת מעות בככר לסימן אלא י\"ל דאימור ידע שנפלו לו שם ומ\"ד לא הוי סימן כיון דרגילות לבא מאיליו מסתמא לא ידע כיון שאין ניכר בחוץ אבל סימני בהמה שהן מאיליהן הוי סימן כיון שניכר וכן דבר שאין ניכר בחוץ אם אין רגילות לבא מאיליו הוי סימן:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation that a natural mark implies intentional placement, noting that people do not typically place coins in bread as a sign, and instead suggests that a natural mark is valid only if it is externally noticeable or not commonly found there, whereas an unnoticeable mark that commonly falls there is not considered a valid sign."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's assumption that a natural mark implies intentional placement by the owner, arguing instead that the validity of a natural mark depends on whether it is externally noticeable or commonly found in that location."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "דחיה",
+      "title": "רַבָּא's rejection: The proposed mapping is logically inconsistent",
+      "stepSummary": "Rava rejects the proposed mapping by showing that if the Tanna Kamma held that a trampled mark is invalid and one passes over food, he would not require proclamation for loaves in a public domain.",
+      "whatsHappening": "רַבָּא challenges the proposed understanding of the Tannaitic dispute by demonstrating an internal contradiction. He argues that if the תַּנָּא קַמָּא held that a trampled mark is invalid AND one passes over food, proclamation would not be required.",
+      "deeperAnalysis": "The fact that he does require proclamation proves he must hold either that the mark is valid despite being trampled, or that one does not pass over food. רַבָּא concludes that everyone agrees a trampled mark is valid and one passes over food, so the dispute must be about natural marks.",
+      "keyTerms": [
+        {
+          "term": "אִי סָלְקָא דַעְתָּךְ",
+          "meaning": "If it enters your mind"
+        },
+        {
+          "term": "אַמַּאי מַכְרִיז",
+          "meaning": "Why does he proclaim"
+        },
+        {
+          "term": "דְּכוּלֵּי עָלְמָא סָבְרִי",
+          "meaning": "Everyone holds"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי סָלְקָא דַעְתָּךְ דְּקָא סָבַר תַּנָּא",
+          "english": "If it enters your mind that the first tanna holds"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קַמָּא סִימָן הֶעָשׂוּי לִידָּרֵס לָא הָוֵי",
+          "english": "a distinguishing mark that is prone to be trampled is not a distinguishing mark"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "סִימָן, וּמַעֲבִירִין עַל הָאוֹכָלִין,",
+          "english": "a distinguishing mark, and one passes by the foods,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּכָּרוֹת שֶׁל בַּעַל הַבַּיִת בִּרְשׁוּת הָרַבִּים אַמַּאי מַכְרִיז?",
+          "english": "loaves of a homeowner in a public domain — why does he proclaim?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא, אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "Rather, Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סָבְרִי סִימָן הֶעָשׂוּי לִידָּרֵס הָוֵי סִימָן,",
+          "english": "everyone holds that a distinguishing mark that is prone to be trampled is a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וּמַעֲבִירִין עַל הָאוֹכָלִין.",
+          "english": "and one passes by the foods."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְהָכָא בְּסִימָן הַבָּא מֵאֵילָיו קָא מִיפַּלְגִי,",
+          "english": "And here, regarding a distinguishing mark that comes on its own, they disagree,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "דְּתַנָּא קַמָּא סָבַר:",
+          "english": "that the first tanna holds:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "סִימָן הַבָּא מֵאֵילָיו לָא הָוֵי סִימָן,",
+          "english": "a distinguishing mark that comes on its own is not a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְרַבִּי יְהוּדָה סָבַר: הָוֵי סִימָן.",
+          "english": "and Rabbi Yehuda holds: it is a distinguishing mark."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא: אִי סָלְקָא דַעְתָּךְ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        41
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:7:1",
+            "hebrew": "ומעבירין על האוכלין - ואפילו הכי ככרות של בעל הבית חייב להכריז דסימן העשוי לידרס הוי סימן ועיגול היינו טעמא דסימן הבא מאיליו לאו סימן הוא ור\"י סבר הוי סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that according to רב זביד's resolution, the תנא קמא requires proclamation for bread in a public domain because he holds that a mark made to be trampled is valid, but he holds that a natural mark (עיגול) is invalid, whereas רבי יהודה holds that a natural mark is valid."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּה's alternative resolution: The dispute is about natural marks",
+      "stepSummary": "Ravba offers an alternative resolution, agreeing with Rava that the dispute is about natural marks, but maintaining his own principles about trampled marks and food.",
+      "whatsHappening": "רַבָּה accepts רַבָּא's conclusion about the point of dispute but maintains his own underlying principles. He agrees that the dispute is about natural marks.",
+      "deeperAnalysis": "However, he maintains his view that a mark prone to being trampled is NOT valid, but one does NOT pass over food. This combination allows him to explain the משנה: the mark is not valid, but since one does not pass over food, the mark is not trampled, so proclamation is required.",
+      "keyTerms": [
+        {
+          "term": "וְרַבָּה אָמַר לָךְ",
+          "meaning": "And רַבָּה could have said to you"
+        },
+        {
+          "term": "לָא הָוֵי סִימָן",
+          "meaning": "Is not a distinguishing mark"
+        },
+        {
+          "term": "אֵין מַעֲבִירִין עַל הָאוֹכָלִין",
+          "meaning": "One does not pass over food"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבָּה אָמַר לָךְ:",
+          "english": "And Rabba says to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סִימָן הֶעָשׂוּי לִידָּרֵס –",
+          "english": "All the world, a sign made to be trampled –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא הָוֵי סִימָן וְאֵין מַעֲבִירִין עַל הָאוֹכָלִין.",
+          "english": "is not a sign, and one does not pass by the foods."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָכָא בְּסִימָן הַבָּא מֵאֵילָיו קָמִיפַּלְגִי תַּנָּא קַמָּא סָבַר:",
+          "english": "And here, with a sign that comes on its own, the first tanna holds:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא הָוֵי סִימָן,",
+          "english": "is not a sign,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְרַבִּי יְהוּדָה סָבַר: הָוֵי סִימָן.",
+          "english": "And Rabbi Yehuda holds: is a sign."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַבָּה אָמַר לָךְ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:9:1",
+            "hebrew": "ורבה אמר לך כו' - והכא היינו טעמא דר\"י משום דאין מעבירין על האוכלין ות\"ק הכי נמי אית ליה אין מעבירין ומשום הכי ככרות של בעל הבית חייב להכריז וטעמייהו בעיגול משום דסימן הבא מאיליו הוא ור\"י סבר הוי סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that Ravba's resolution is that both the תנא קמא and רבי יהודה agree that one does not pass over food, which is why the owner must proclaim the bread; the dispute is solely about whether a natural mark (סימן הבא מאיליו) is valid, with רבי יהודה holding it is valid and the תנא קמא holding it is not."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Alternative proposal: The dispute is about passing over food",
+      "stepSummary": "The Gemara proposes an alternative understanding where the dispute is about whether one passes over food, assuming agreement on the status of natural and trampled marks.",
+      "whatsHappening": "The גמרא explores a different way to map the Amoraic dispute onto the Tannaitic dispute. It suggests that the Sages assumed everyone agrees that a natural mark is valid and a trampled mark is invalid.",
+      "deeperAnalysis": "Therefore, the dispute must be about whether one passes over food. The תַּנָּא קַמָּה holds one passes over food, while רַבִּי יְהוּדָה holds one does not pass over food.",
+      "keyTerms": [
+        {
+          "term": "אִיכָּא דְּאָמְרִי",
+          "meaning": "There are those who say"
+        },
+        {
+          "term": "סַבְרוּהָ",
+          "meaning": "They assumed"
+        },
+        {
+          "term": "בְּמַעֲבִירִין עַל הָאוֹכָלִין קָא מִיפַּלְגִי",
+          "meaning": "They disagree about passing over food"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּאָמְרִי, סַבְרוּהָ:",
+          "english": "There are those who say, they assumed:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סִימָן הַבָּא מֵאֵילָיו הָוֵי סִימָן,",
+          "english": "All of the world, a sign that comes by itself is a sign,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְסִימָן הֶעָשׂוּי לִידָּרֵס לָא הָוֵי סִימָן.",
+          "english": "And a sign made to be trampled is not a sign."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאי לָאו: בְּמַעֲבִירִין עַל הָאוֹכָלִין קָא מִיפַּלְגִי,",
+          "english": "What, is it not: Regarding passing over foods they are divided,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּמָר סָבַר: מַעֲבִירִין,",
+          "english": "That one Sage holds: One passes over,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּמַר סָבַר: אֵין מַעֲבִירִין?",
+          "english": "And one Sage holds: One does not pass over?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָּא דְּאָמְרִי, סַבְרוּהָ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:10:1",
+            "hebrew": "איכא דאמרי סברוה כו' - וכי אתמר לימא כתנאי אאין מעבירין על האוכלין אתמר:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's alternative proposal (איכא דאמרי סברוה) is a method to resolve the Amoraic dispute by deriving it from a Tannaitic dispute (לימא כתנאי) specifically regarding the rule of whether one passes over food (אין מעבירין על האוכלין)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "דחיה",
+      "title": "רַבָּא's rejection of the alternative proposal",
+      "stepSummary": "Rava rejects the alternative proposal by showing that if the Tanna Kamma held that a trampled mark is invalid and one passes over food, he would not require proclamation.",
+      "whatsHappening": "The גמרא rejects the alternative proposal using the same logical contradiction as before. This is a setup line to show the robustness of רַבָּא's logic.",
+      "deeperAnalysis": "רַבָּא argues that if the תנא קמא held a trampled mark is invalid AND one passes over food, the mark would be trampled and food passed over. Why would he require proclamation? The fact he does proves he holds either the mark is valid despite being trampled, or one does not pass over food. Everyone agrees a trampled mark is valid and one passes over food, so the dispute is about natural marks.",
+      "keyTerms": [
+        {
+          "term": "אִי סָלְקָא דַעְתָּךְ",
+          "meaning": "If it enters your mind"
+        },
+        {
+          "term": "אַמַּאי מַכְרִיז",
+          "meaning": "Why does he proclaim"
+        },
+        {
+          "term": "דְּכוּלֵּי עָלְמָא סָבְרִי",
+          "meaning": "Everyone holds"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי סָלְקָא דַעְתָּךְ סָבַר תַּנָּא קַמָּא",
+          "english": "If it enters your mind that the first tanna holds"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סִימָן הֶעָשׂוּי לִידָּרֵס לָא הָוֵי סִימָן,",
+          "english": "A distinguishing mark made to be trampled is not a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמַעֲבִירִין עַל הָאוֹכָלִין –",
+          "english": "and one passes by the foods —"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּכָּרוֹת שֶׁל בַּעַל הַבַּיִת בִּרְשׁוּת הָרַבִּים אַמַּאי מַכְרִיז?",
+          "english": "Loaves of the homeowner in the public domain, why does he proclaim?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "Rather, Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סָבְרִי סִימָן הֶעָשׂוּי לִידָּרֵס –",
+          "english": "All the world hold that a distinguishing mark made to be trampled —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הָוֵי סִימָן, וּמַעֲבִירִין עַל הָאוֹכָלִין.",
+          "english": "is a distinguishing mark, and one passes by the foods."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְהָכָא בְּסִימָן הַבָּא מֵאֵילָיו קָא מִיפַּלְגִי,",
+          "english": "And here, regarding a distinguishing mark that comes on its own, they disagree,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "דְּתַנָּא קַמָּא סָבַר:",
+          "english": "that the first tanna holds:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "סִימָן הַבָּא מֵאֵילָיו –",
+          "english": "A distinguishing mark that comes on its own —"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "לָא הָוֵי סִימָן,",
+          "english": "is not a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְרַבִּי יְהוּדָה סָבַר: הָוֵי סִימָן.",
+          "english": "and Rabbi Yehuda holds: it is a distinguishing mark."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא: אִי סָלְקָא דַעְתָּךְ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּה's final resolution: The dispute is about natural marks",
+      "stepSummary": "Ravba offers a final resolution, agreeing with Rava that the dispute is about natural marks, but maintaining his own principles about trampled marks and food.",
+      "whatsHappening": "רַבָּה accepts רַבָּא's conclusion about the point of dispute but maintains his own underlying principles. This is a transition line to show רַבָּה's hybrid position.",
+      "deeperAnalysis": "רַבָּה agrees the dispute is about natural marks. However, he maintains a mark prone to being trampled is NOT valid, but one does NOT pass over food. This combination explains the משנה: the mark is not valid, but since one does not pass over food, the mark is not trampled, so proclamation is required. The dispute is then about natural marks: the תנא קמא holds they are invalid, רבי יהודה holds they are valid.",
+      "keyTerms": [
+        {
+          "term": "וְרַבָּה אָמַר לָךְ",
+          "meaning": "And רַבָּה could have said to you"
+        },
+        {
+          "term": "לָא הָוֵי סִימָן",
+          "meaning": "Is not a distinguishing mark"
+        },
+        {
+          "term": "אֵין מַעֲבִירִין עַל הָאוֹכָלִין",
+          "meaning": "One does not pass over food"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבָּה אָמַר לָךְ:",
+          "english": "And Rabba says to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּכוּלֵּי עָלְמָא סִימָן הֶעָשׂוּי לִידָּרֵס –",
+          "english": "All the world, a sign made to be trampled –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא הָוֵי סִימָן,",
+          "english": "is not a sign,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵין מַעֲבִירִין עַל הָאוֹכָלִין.",
+          "english": "and one does not pass by foods."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָכָא בְּסִימָן הַבָּא מֵאֵילָיו קָא מִיפַּלְגִי,",
+          "english": "And here, in a sign that comes on its own they are divided,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תַּנָּא קַמָּא סָבַר:",
+          "english": "The first tanna holds:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "סִימָן הַבָּא מֵאֵילָיו –",
+          "english": "A sign that comes on its own –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָא הָוֵי סִימָן,",
+          "english": "is not a sign,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְרַבִּי יְהוּדָה סָבַר: הָוֵי סִימָן.",
+          "english": "And Rabbi Yehuda holds: it is a sign."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַבָּה אָמַר לָךְ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        45
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא's general rule of ייאוש from the owner's words",
+      "stepSummary": "Rav Zevid cites Rava's principle that if the owner of a lost item exclaims 'Woe to the loss of my purse,' it indicates that he has despaired of its recovery.",
+      "whatsHappening": "The sugya opens with a freestanding teaching (מימרא) attributed to רַבָּא via רב זביד, establishing a general principle (כללא) regarding ייאוש. This is a setup line for the subsequent halachic rulings.",
+      "deeperAnalysis": "The גמרא introduces a key conceptual marker for ייאוש: the owner's verbal expression of distress ('ווי לה לחסרון כיס'). This serves as a practical indicator that the owner has given up hope of recovering the item, which is a prerequisite for the finder to acquire it. This sets the stage for the subsequent halachic rulings on bundles.",
+      "keyTerms": [
+        {
+          "term": "יִיאוּשׁ",
+          "meaning": "despair of recovery"
+        },
+        {
+          "term": "כְּלָלָא",
+          "meaning": "general principle"
+        },
+        {
+          "term": "חֶסְרוֹן כִּיס",
+          "meaning": "monetary loss"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּלָלָא דַּאֲבֵידְתָּא כֵּיוָן דְּאָמַר ״וַוי לֵהּ",
+          "english": "The principle of a lost item: once he says \"Woe to me"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְחֶסְרוֹן כִּיס״ –",
+          "english": "for the loss of money\" –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִיָּאַשׁ לֵיהּ מִינַּהּ.",
+          "english": "he has despaired of it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב זְבִיד מִשּׁמֵיהּ דְּרַבָּא: כְּלָלָא דַּאֲבֵידְתָּא כֵיוָן דְּאָמַר ״וַוי לֵהּ לְחֶסְרוֹן כִּיס״ – מִיָּאֵשׁ לֵיהּ מִינַּהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא's halacha on bundles in public and private domains",
+      "stepSummary": "Rav Zevid cites Rava's halacha regarding bundles of grain: in a public domain they belong to the finder; in a private domain, if they fell they belong to the finder, but if they were placed there the finder must proclaim; however, if the item has a distinguishing mark, the finder must always proclaim.",
+      "whatsHappening": "The גמרא continues with a second freestanding teaching (מימרא) from the same source, detailing the specific halachic rules for finding bundles (כריכות) in different locations and circumstances. This is a setup line for the practical application of the laws.",
+      "deeperAnalysis": "This step lays out the practical application of the laws of lost items. It distinguishes between רשות הרבים and רשות היחיד, and between דרך נפילה and דרך הנחה. Crucially, it introduces the overriding factor of סימן: if an item has a distinguishing mark, the finder must always proclaim, regardless of location or how it was left.",
+      "keyTerms": [
+        {
+          "term": "כְּרִיכוֹת",
+          "meaning": "bundles of grain"
+        },
+        {
+          "term": "רְשׁוּת הָרַבִּים",
+          "meaning": "public domain"
+        },
+        {
+          "term": "רְשׁוּת הַיָּחִיד",
+          "meaning": "private domain"
+        },
+        {
+          "term": "דֶּרֶךְ נְפִילָה",
+          "meaning": "manner of falling"
+        },
+        {
+          "term": "דֶּרֶךְ הַנָּחָה",
+          "meaning": "manner of placing"
+        },
+        {
+          "term": "סִימָן",
+          "meaning": "distinguishing mark"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב זְבִיד מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "And Rav Zevid said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הִלְכְתָא, כְּרִיכוֹת בִּרְשׁוּת הָרַבִּים –",
+          "english": "The halakha: bundles in a public domain –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ. בִּרְשׁוּת הַיָּחִיד,",
+          "english": "these are his. In a private domain,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי דֶּרֶךְ נְפִילָה –",
+          "english": "if a manner of falling –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ,",
+          "english": "these are his,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי דֶּרֶךְ הַנָּחָה – נוֹטֵל וּמַכְרִיז.",
+          "english": "if a manner of placing – he takes and proclaims."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְזֶה וָזֶה בְּדָבָר שֶׁאֵין בּוֹ סִימָן,",
+          "english": "And both this and that in a matter that has no distinguishing mark,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲבָל בְּדָבָר שֶׁיֵּשׁ בּוֹ סִימָן –",
+          "english": "but in a matter that has a distinguishing mark –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "לָא שְׁנָא בִּרְשׁוּת הָרַבִּים וְלָא שְׁנָא בִּרְשׁוּת הַיָּחִיד,",
+          "english": "it is not different in a public domain and it is not different in a private domain,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "בֵּין דֶּרֶךְ נְפִילָה וּבֵין דֶּרֶךְ הַנָּחָה –",
+          "english": "whether a manner of falling and whether a manner of placing –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "חַיָּיב לְהַכְרִיז.",
+          "english": "he is obligated to proclaim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַב זְבִיד מִשּׁמֵיהּ דְּרַבָּא: הִלְכְתָּא, כְּרִיכוֹת בִּרְשׁוּת הָרַבִּים – הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:15:1",
+            "hebrew": "הלכתא כריכות ברה\"ר כו' - כדמוקי לה בשאין בו סימן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבא's ruling regarding bundles in רשות הרבים applies specifically to items lacking a סימן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:15:2",
+            "hebrew": "ברשות היחיד אי דרך נפילה הרי אלו שלו - דליכא למימר מקום הוי סימן דהא לא ידע היכא נפיל מיניה:",
+            "english": "",
+            "takeaway": "רש״י explains that in רשות היחיד, if the bundle fell (דרך נפילה), the location cannot serve as a סימן because the owner does not know exactly where it dropped."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:15:3",
+            "hebrew": "אי דרך הינוח נוטל ומכריז - מקום ולא יניחם שם שמא ימצאם עכו\"ם ויטלם ושמא שכחום הבעלים:",
+            "english": "",
+            "takeaway": "רש״י states that if the bundle was placed (דרך הנחה), the finder must proclaim because the location itself serves as a סימן, and the owner might return to retrieve it or fear it was taken by a non-Jew."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23a:15:4",
+            "hebrew": "אבל בדבר שיש בו סימן כו' - רבא לטעמיה דאמר סימן העשוי לידרס הוי סימן:",
+            "english": "",
+            "takeaway": "רש״י connects רבא's requirement to proclaim for items with a סימן to רבא's general principle that a סימן intended to be trampled (סימן העשוי לידרס) is still considered a valid סימן."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T11:02:10.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 157.32176440005424,
+      "structure": 3340.4982288000174,
+      "translate": 505.92106640012935,
+      "meforshim": 787.3317491001217,
+      "teaching": 1029.5517388999579
+    }
+  }
+}

@@ -1,0 +1,1157 @@
+{
+  "ref": "Bava Metzia 59a",
+  "masechet": "Bava_Metzia",
+  "daf": 59,
+  "amud": "a",
+  "mainTopic": "(continues) אונאת דברים · חתיכת חוליות",
+  "overview": "(1) The Gemara analyzes the Mishnah regarding Ona'at Devarim, emphasizing its severity compared to financial Ona'ah and the unique punishment for overcharging. (2) The Gemara transitions to a new Mishnah regarding the impurity of a bone cut into pieces.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 11,
+      "topic": "(continues) אונאת דברים",
+      "gist": "The Gemara analyzes the Mishnah regarding Ona'at Devarim, emphasizing its severity compared to financial Ona'ah and the unique punishment for overcharging.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 12,
+      "endLine": 12,
+      "topic": "חתיכת חוליות",
+      "gist": "The Gemara transitions to a new Mishnah regarding the impurity of a bone cut into pieces.",
+      "openingFormula": "תנן התם",
+      "firstStepNumber": 11,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "ראיה",
+      "title": "The Source for Rabba bar bar Chana's Teaching",
+      "stepSummary": "The Gemara provides a source for Rabba bar bar Chana's teaching from the verse 'Uv'tzla'i samchu'.",
+      "whatsHappening": "The גְּמָרָא provides a רְאִיָּה from a verse in Tehillim. This is a transition line linking the teaching to scriptural proof.",
+      "deeperAnalysis": "The גְּמָרָא derives the teaching from David's words in Tehillim. David says his flesh was torn but his blood did not spill, implying the punishment for humiliation is worse than physical harm or adultery.",
+      "keyTerms": [
+        {
+          "term": "מְנָא לַן",
+          "meaning": "from where do we know"
+        },
+        {
+          "term": "וּבְצַלְעִי שָׂמְחוּ",
+          "meaning": "but when I halt they rejoice"
+        },
+        {
+          "term": "קָרְעוּ וְלֹא דָמוּ",
+          "meaning": "they tear me, and cease not"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "נוֹחַ לוֹ לְאָדָם שֶׁיָּבוֹא עַל סְפֵק אֵשֶׁת אִישׁ,",
+          "english": "It is better for a man to come upon a doubtfully married woman,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאַל יַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים.",
+          "english": "and not to embarrass his friend in public."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מְנָא לַן? מִדְּדָרֵשׁ רָבָא, דְּדָרֵשׁ רָבָא:",
+          "english": "From where do we know? From the interpretation of Rava, that Rava interpreted:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאי דִּכְתִיב ״וּבְצַלְעִי שָׂמְחוּ וְנֶאֱסָפוּ.",
+          "english": "What is written: \"And in my side they rejoiced and gathered."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": ". . קָרְעוּ וְלֹא דָמּוּ״?",
+          "english": "They tore and did not cease\"?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר דָּוִד לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא:",
+          "english": "David said before the Holy One, Blessed be He:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רִבּוֹנוֹ שֶׁל עוֹלָם,",
+          "english": "Master of the Universe,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "גָּלוּי וְיָדוּעַ לְפָנֶיךָ,",
+          "english": "It is revealed and known before You,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "שֶׁאִם הָיוּ מְקָרְעִים בְּשָׂרִי,",
+          "english": "that if they were tearing my flesh,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לֹא הָיָה דָּמִי שׁוֹתֵת לָאָרֶץ.",
+          "english": "my blood would not cease to the ground."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְלֹא עוֹד אֶלָּא,",
+          "english": "And not only that,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֲפִילּוּ בְּשָׁעָה שֶׁעוֹסְקִין בִּנְגָעִים וְאֹהָלוֹת,",
+          "english": "even at the time when they are dealing with impurities and tents,",
+          "notes": "Refers to the laws of ritual impurity (נגעים) and mourning tents (אהלות)."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אוֹמְרִים לִי: דָּוִד,",
+          "english": "they say to me: David,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "הַבָּא עַל אֵשֶׁת אִישׁ,",
+          "english": "the one who comes upon a married woman,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "מִיתָתוֹ בַּמֶּה? וַאֲנִי אוֹמֵר לָהֶם: מִיתָתוֹ בְּחֶנֶק,",
+          "english": "what is his death? And I say to them: his death is by strangulation,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "וְיֵשׁ לוֹ חֵלֶק לָעוֹלָם הַבָּא.",
+          "english": "and he has a portion in the World to Come."
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "אֲבָל הַמַּלְבִּין אֶת פְּנֵי חֲבֵירוֹ בָּרַבִּים,",
+          "english": "But the one who embarrasses his friend in public,"
+        },
+        {
+          "phraseNumber": 18,
+          "aramaic": "אֵין לוֹ חֵלֶק לָעוֹלָם הַבָּא.",
+          "english": "he has no portion in the World to Come."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מְנָא לַן? מִדְדָּרֵשׁ רָבָא, דְּדָרֵשׁ רָבָא: מַאי דִּכְתִיב ״וּבְצַלְעִי שָׂמְחוּ וְנֶאֱסָפוּ... קָרְעוּ וְלֹא דָמוּ״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:1:1",
+            "hebrew": "כדדרש רבא - דטובה מעשה של דוד ובת שבע משלהם וספק אשת איש היא שהיוצא למלחמת בית דוד גט כריתות כותב לאשתו על מנת שאם ימות שתהא מגורשת מעכשיו ולא תיזקק ליבם וכל אותן הימים היא ספק מגורשת אם מת מגורשת מתחילה ואם לא מת לא נתגרשה:",
+            "english": "",
+            "takeaway": "רש״י explains that the term ספק אשת איש refers to Bat Sheva, who was in a state of doubt because soldiers in King David's army wrote a גט with a condition that if they died, their wives would be divorced immediately to prevent them from needing יבום, thus making the wife's status uncertain during the war."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:1:2",
+            "hebrew": "ובצלעי - בשביל אשתי זו שמתחילה חטאתי בה כמו (בראשית ב) ויבן את הצלע: שמחו ונאספו:",
+            "english": "Because of this wife of mine that, from the beginning, I sinned with, like in Genesis 2, “He took the rib and made a woman”",
+            "takeaway": "רש״י interprets the phrase ובצלעי as referring to Bat Sheva, drawing a parallel to the creation of Eve from Adam's צלע (rib) to indicate she was the woman with whom David initially sinned."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:1:3",
+            "hebrew": "קרעו ולא דמו - אם קרעוני לא מצאו דם:",
+            "english": "",
+            "takeaway": "רש״י explains קרעו ולא דמו to mean that even if David's flesh were torn, his blood would not spill onto the ground, emphasizing the severity of the punishment for public humiliation compared to physical death."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59a:1:1",
+            "hebrew": "נוח לו לאדם שיבא על ספק אשת איש כו' - נקט הכי משום דבת שבע ספק אשת איש הויא ופי' בקונטרס משום דכל היוצא למלחמת בית דוד כותב גט לאשתו ע\"מ שאם ימות יגרשנה ולא תיזקק ליבם וכל אותם הימים היא ספק מגורשת וק' לר\"ת דא\"כ אין זה כל היוצא אלא דוקא שיש להם אחין ואין להם בנים מיהו בקונטרס לאו דוקא נקט יבם אלא שלא תתעגן ועוד קשה לר\"ת דאמר במסכת שבת (ד' נו. ושם ד\"ה גט) כל האומר דוד חטא אינו אלא טועה אמאי והא חזר אוריה מן המלחמה אח\"כ ומיהו יש לדחות שהיו מתנין אם לא יחזור בסוף המלחמה ועוד קשה דתניא בפ' מי שאחזו (גיטין דף עג. ושם: ד\"ה אמר) מה היא באותן הימים רבי יהודה אומר הרי היא כאשת איש לכל דבריה ר' יוסי אומר מגורשת ואינה מגורשת ואפילו לרבי יוסי חטא דוד דאינה מגורשת ודאי וכ\"ת דהתם בלא אמר מעכשיו דמוקי לה בגמרא באומר מעת שאני בעולם כלומר שעה אחת קודם מיתתי ובמלחמת [בית] דוד היו כותבים מהיום הא קתני בהדיא בתוספתא מהיום אם מתי הימים שבינתים רבי יהודה אומר היא כאשת איש ומתני' דמי שאחזו (שם) נמי מוכח דאמר מהיום דאדלעיל מיניה קאי והא דאמר בגמרא באומר מעת שאני בעולם מפ' ר\"ת ור\"ח דפירושו נעשה כאומר מעת שהוא בעולם משום כיון דאמר אם מתי מתכוין לרחק הגרושין כמו שיוכל ואינו רוצה שתתגרש עד סמוך למיתתו והא דקאמר מהיום להראות שהוא רוצה שיחולו גרושין (. מהיום) ומפ' ר\"ת דבמלחמת בית דוד היו מגרשין לגמרי בלא שום תנאי אלא היו עושין הדבר בצנעה כדי שלא יהו קופצין על נשותיהן לנושאן לכך קרו להו ספק אשת איש ולכל הפי' קשה דאפילו בא על אשת איש ודאי טוב ממלבין מדקאמר דוד הבא על אשת איש מיתתו בחנק ויש לו חלק לעולם הבא אבל מלבין כו':",
+            "english": "The Gemara uses this particular language because of Bat Sheva was a doubtfully married woman. Rashi interpreted that it is because ever man who went to one of David’s wars signed a Gett, on the condition that if he dies, she will be expelled and she would not require יבום (divorce), and all of the days he is out at war she would be considered doubtfully married. And this is a difficulty for Rabeinu Tam that if this is so, it is not “all men”, it is only if they had brothers and did not have children. However, Rashi is not particular when he says “יבום”, rather she will not be tied down (become an Agunah).",
+            "takeaway": "תוספות raises difficulties with רש״י's explanation of ספק אשת איש, noting that רבינו תם questions whether all soldiers wrote such גיטין and whether Bat Sheva was truly a ספק, ultimately suggesting that תוספות understands the term ספק אשת איש to refer to the discreet nature of the divorces in David's army to prevent immediate remarriage, or alternatively, that even a definite אשת איש is preferable to public humiliation."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59a:2:1",
+            "hebrew": "ולא עוד אלא בשעה שעוסקין בנגעים ואהלות - כלומר לא מבעיא בשעה שהם בטלים אלא אפי' עסוקים בהלכות חמורות וגם אין עניינם לאשת איש ויש ספרים דגרסי בשעה שעוסקין בארבע מיתות ב\"ד:",
+            "english": "",
+            "takeaway": "תוספות explains that the phrase בשעה שעוסקין בנגעים ואהלות emphasizes that even when the Sages were occupied with severe laws of טומאה and טהרה, which are unrelated to adultery, they still recognized the severity of public humiliation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges רש״י's definition of ספק אשת איש regarding Bat Sheva's status, offering alternative explanations for the term and highlighting the difficulty in reconciling the concept of a doubtful marital status with the laws of גיטין and יבום."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Mar Zutra bar Tuvia on Public Humiliation",
+      "stepSummary": "Mar Zutra bar Tuvia teaches that it is better to throw oneself into a fiery furnace than to embarrass someone in public.",
+      "whatsHappening": "The גְּמָרָא cites a מִימְרָא from מַר זוּטְרָא בַר טוּבִיָּה comparing humiliation to death. This is a setup line introducing the ultimate hyperbolic comparison.",
+      "deeperAnalysis": "מַר זוּטְרָא בַר טוּבִיָּה teaches it is better to throw oneself into a fiery furnace than to embarrass someone in public. This places public humiliation above the prohibition of self-mutilation or death.",
+      "keyTerms": [
+        {
+          "term": "יַפִּיל עַצְמוֹ לְכִבְשַׁן הָאֵשׁ",
+          "meaning": "throw oneself into a fiery furnace"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר מָר זוּטְרָא בַּר טוֹבִיָּה אָמַר רַב,",
+          "english": "And Mar Zutra bar Tuvia said Rav said"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאָמְרִי לַהּ: אָמַר רַב חָנָא בַּר בִּיזְנָא אָמַר",
+          "english": "And they say to it: Rav Chana bar Bizna said"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי שִׁמְעוֹן חֲסִידָא, וְאָמְרִי לָהּ:",
+          "english": "Rabbi Shimon Chasida, and they say to it:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי:",
+          "english": "Rabbi Yochanan said in the name of Rabbi Shimon bar Yochai:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נוֹחַ לוֹ לְאָדָם שֶׁיַּפִּיל עַצְמוֹ לְכִבְשַׁן",
+          "english": "It is better for a man to throw himself into a fiery furnace"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָאֵשׁ וְאַל יַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים. מְנָא לַן?",
+          "english": "And not to embarrass his fellow in public. From where do we know this?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מִתָּמָר, דִּכְתִיב: ״הִיא מוּצֵאת וְהִיא שָׁלְחָה אֶל חָמִיהָ״.",
+          "english": "From Tamar, as it is written: 'She was brought forth and she sent to her father-in-law.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר מָר זוּטְרָא בַר טוֹבִיָּה אָמַר רַב, וְאָמְרִי לַהּ: אָמַר רַב חָנָא בַר בִּיזְנָא אָמַר רַבִּי שִׁמְעוֹן חַסִידָא, וְאָמְרִי לָהּ: אָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי: נוֹחַ לוֹ לְאָדָם שֶׁיַּפִּיל עַצְמוֹ לְכִבְשַׁן הָאֵשׁ וְאַל יַלְבִּין פְּנֵי חֲבֵירוֹ בָּרַבִּים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        72
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:3:1",
+            "hebrew": "היא מוצאת והיא שלחה - אע\"פ שהיו מוציאין אותה לשריפה לא אמרה להם ליהודה נבעלתי אלא שלחה לו למי שאלה לו אנכי הרה ואם יודה הוא מעצמו יודה:",
+            "english": "Even though she was being taken to be burnt, she did not say to them, “I had relations with Judah”, rather she sent word to him, “to whomever these belong, I am pregnant by”, and if he acknowledges it on his own, then he will.",
+            "takeaway": "רש״י explains that תמר did not explicitly confess to the judges that she had relations with יהודה, but rather sent a hint to him, trusting that if he was indeed the father, he would admit it himself and thereby save her from being burned."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59a:3:1",
+            "hebrew": "דכתיב היא מוצת - בלא אל\"ף כמו (איכה ד׳:י״א) ויצת אש בציון שהיתה קרובה לאש כבר ולא שלחה לו אלא ברמז אם לא היה מודה לא היתה מפרסמתו:",
+            "english": "",
+            "takeaway": "תוספות explains that the verse uses the spelling היא מוצת without an אלף, indicating she was already close to the fire, and she only sent a hint to יהודה rather than publicly exposing him, so that if he did not admit to the paternity, she would not have to publicly shame him."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on תמר's trust that יהודה would voluntarily admit the truth if he were the father, תוספות emphasizes her deliberate choice to avoid public humiliation by only sending a hint, thereby demonstrating the principle that one should not embarrass another even at the cost of one's own life."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Chinenah on Ona'at Devarim",
+      "stepSummary": "Rav Chinenah teaches that the verse 'Lo Tona' refers to Ona'at Devarim, not financial Ona'ah.",
+      "whatsHappening": "The גְּמָרָא presents a מִימְרָא from רַב חִינְנָא regarding the scope of the verse. This is a setup line clarifying the primary application of the prohibition.",
+      "deeperAnalysis": "רַב חִינְנָא teaches that the verse 'לֹא תוֹנוּ' primarily refers to verbal mistreatment. He explains that since the verse addresses a fellow Jew, it emphasizes interpersonal respect over financial transactions.",
+      "keyTerms": [
+        {
+          "term": "לֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ",
+          "meaning": "you shall not mistreat one man his colleague"
+        },
+        {
+          "term": "עַם שֶׁאִתְּךָ בְּתוֹרָה וּבַמִּצְווֹת",
+          "meaning": "a people who is with you in the Torah and in Mitzvot"
+        },
+        {
+          "term": "אַל תּוֹנֵיהוּ",
+          "meaning": "you shall not wrong him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב חִנָּנָא בְּרֵיהּ דְּרַב אִידִי:",
+          "english": "Rav Chinnah, son of Rav Idi, said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי דִּכְתִיב ״וְלֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״?",
+          "english": "What is written, \"And you shall not wrong a man his fellow\"?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַם שֶׁאִתְּךָ בְּתוֹרָה וּבַמִּצְווֹת, אַל תּוֹנֵיהוּ. אָמַר רַב:",
+          "english": "A people with you in Torah and in mitzvot, do not wrong them. Rav said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְעוֹלָם יְהֵא אָדָם זָהִיר בְּאוֹנָאַת אִשְׁתּוֹ,",
+          "english": "Let a person always be careful regarding the wronging of his wife,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁמִּתּוֹךְ שֶׁדִּמְעָתָהּ מְצוּיָה, אוֹנָאָתָהּ קְרוֹבָה.",
+          "english": "For from her tears being frequent, her wronging is close.",
+          "notes": "Refers to the proximity of divine punishment for wronging one's wife, as indicated by her frequent tears."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב חִנְנָא בְרֵיהּ דְּרַב אִידִי: מַאי דִּכְתִיב ״וְלֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״? עַם שֶׁאִתְּךָ בְּתוֹרָה וּבַמִּצְווֹת, אַל תּוֹנֵיהוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        74
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:4:1",
+            "hebrew": "עמיתו - עם אתו:",
+            "english": "",
+            "takeaway": "רש״י explains that עמיתו refers to a fellow Jew who is with you in Torah and mitzvot, emphasizing the communal bond that makes Ona'at Devarim particularly severe."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:4:2",
+            "hebrew": "באונאת אשתו - באונאת דברים לצערה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav's warning about Ona'at Isho specifically refers to Ona'at Devarim that causes her emotional distress."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:4:3",
+            "hebrew": "אונאתה קרובה - לבא פורענות אונאתה ממהר לבא:",
+            "english": "",
+            "takeaway": "רש״י explains that אונאתה קרובה means the punishment for Ona'at Devarim against one's wife comes swiftly."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Gates of Tears Remain Open",
+      "stepSummary": "Rabbi Elazar teaches that the gates of prayer are closed, but the gates of tears are not closed.",
+      "whatsHappening": "The גְּמָרָא introduces a מִימְרָא from רַבִּי אֱלִיעֶזֶר contrasting the accessibility of prayer versus tears. This is a setup line establishing the unique spiritual power of weeping.",
+      "deeperAnalysis": "רַבִּי אֱלִיעֶזֶר teaches that while the gates of prayer may be closed, the gates of tears remain open. This establishes that emotional vulnerability and weeping possess a unique, irreplaceable power to reach the Divine when standard prayer fails.",
+      "keyTerms": [
+        {
+          "term": "נִנְעֲלוּ שַׁעֲרֵי תְפִלָּה",
+          "meaning": "the gates of prayer are closed"
+        },
+        {
+          "term": "שַׁעֲרֵי דְמָעוֹת לֹא נִנְעֲלוּ",
+          "meaning": "the gates of tears are not closed"
+        },
+        {
+          "term": "רַבִּי אֱלִיעֶזֶר",
+          "meaning": "Rabbi Elazar"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִיּוֹם שֶׁנֶּחְרַב בֵּית הַמִּקְדָּשׁ,",
+          "english": "From the day that the Temple was destroyed,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נִנְעֲלוּ שַׁעֲרֵי תְפִילָּה, שֶׁנֶּאֱמַר:",
+          "english": "the gates of prayer were locked, as it is said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״גַּם כִּי אֶזְעַק וַאֲשַׁוֵּעַ שָׂתַם תְּפִילָּתִי״.",
+          "english": "\"Even when I cry and call out, He shuts out my prayer.\""
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאַף עַל פִּי שֶׁשַּׁעֲרֵי תְפִילָּה נִנְעֲלוּ,",
+          "english": "And even though the gates of prayer were locked,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שַׁעֲרֵי דְמָעוֹת לֹא נִנְעֲלוּ, שֶׁנֶּאֱמַר:",
+          "english": "the gates of tears were not locked, as it is said:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״שִׁמְעָה תְפִלָּתִי ה׳ וְשַׁוְעָתִי הַאֲזִינָה,",
+          "english": "\"Hear my prayer, O Lord, and give ear to my cry;"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֶל דִּמְעָתִי אַל תֶּחֱרַשׁ״.",
+          "english": "do not be silent at my tears.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי אֶלְעָזָר: מִיּוֹם שֶׁנֶּחְרַב בֵּית הַמִּקְדָּשׁ, נִנְעֲלוּ שַׁעֲרֵי תְפִלָּה, שֶׁנֶּאֱמַר: ״גַּם כִּי אֶזְעַק וַאֲשַׁוְּעָה שָׂתַם תְּפִלָּתִי״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        76
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:5:1",
+            "hebrew": "שמעה תפלתי - אין לשנותו מלשון בקשה שמבקש מאת הקב\"ה שישמע תפלתו אבל אל תחרש יש לשנותו מלשון בקשה ולומר בזו אני בוטח שאין דרכך לשתוק ולא להחריש אל תחרש אל תעשה אל תתן משמשין לשון בקשה ומשמשין לשון עתיד כגון (תהלים קכא) אל יתן למוט הרי לשון בקשה ויאמר יעקב לא תתן לי מאומה (בראשית ל) הוא לשון עתיד:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'שמעה תפלתי' is a request for God to hear the prayer, while 'אל תחרש' is a statement of trust that God will not remain silent, as the negative imperative 'אל ת' can function as a future tense declaration of certainty rather than a plea."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59a:5:1",
+            "hebrew": "ואל דמעתי אל תחרש - אינו אומר שמע אל בכיי או ראה דמעתי אלא אל תחרש כלומר בטוח אני שלא תחרש דשערי דמעות לא ננעלו:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the verse 'ואל דמעתי אל תחרש' does not mean 'hear my weeping' or 'see my tears,' but rather 'do not be silent,' expressing confidence that God will not ignore the tears because the gates of tears are not closed."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "The Danger of Following a Wife's Advice",
+      "stepSummary": "Rav teaches that one who follows the advice of his wife will go to Gehenna.",
+      "whatsHappening": "The גְּמָרָא presents a מִימְרָא from רַב regarding the spiritual consequences of following one's wife's counsel. This is a setup line introducing a stark warning about domestic influence.",
+      "deeperAnalysis": "רַב teaches that anyone who follows the advice of his wife will fall into גֵיהִנָּם. This extreme statement highlights the severe spiritual danger of allowing a spouse's counsel to override Torah values, using אַחְאָב as the ultimate negative example.",
+      "keyTerms": [
+        {
+          "term": "כָּל הַהוֹלֵךְ בַּעֲצַת אִשְׁתּוֹ",
+          "meaning": "everyone who follows the advice of his wife"
+        },
+        {
+          "term": "נוֹפֵל בְּגֵיהִנָּם",
+          "meaning": "will fall into Gehenna"
+        },
+        {
+          "term": "רַב",
+          "meaning": "Rav"
+        },
+        {
+          "term": "אַחְאָב",
+          "meaning": "Ahab"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב: כׇּל הַהוֹלֵךְ בַּעֲצַת אִשְׁתּוֹ נוֹפֵל בְּגֵיהִנָּם,",
+          "english": "And Rav said: All who go by the advice of his wife falls into Gehinnom,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁנֶּאֱמַר: ״רַק לֹא הָיָה כְאַחְאָב וְגוֹ׳״.",
+          "english": "As it is said: 'Only he was not like Ahab etc.'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי:",
+          "english": "Rav Papa said to Abaye:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא אָמְרִי אִינָשֵׁי,",
+          "english": "And yet people say,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיתְּתָךְ גּוּצָא –",
+          "english": "Your wife is short –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "גְּחֵין וְתִלְחוֹשׁ לָהּ!",
+          "english": "Bend down and whisper to her!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לָא קַשְׁיָא: הָא בְּמִילֵּי דְעָלְמָא, וְהָא בְּמִילֵּי דְבֵיתָא.",
+          "english": "It is not difficult: This in matters of the world, and this in matters of the house."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לִישָּׁנָא אַחֲרִינָא: הָא בְּמִילֵּי דִשְׁמַיָּא, וְהָא בְּמִילֵּי דְעָלְמָא.",
+          "english": "Another version: This in matters of Heaven, and this in matters of the world."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַב: כָּל הַהוֹלֵךְ בַּעֲצַת אִשְׁתּוֹ נוֹפֵל בְּגֵיהִנָּם, שֶׁנֶּאֱמַר: ״רַק לֹא הָיָה כְאַחְאָב וְגוֹ׳״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        77
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:6:1",
+            "hebrew": "רק לא היה כאחאב - סיפיה דקרא אשר הסתה אותו איזבל אשתו:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'רק לא היה כאחאב' refers to the continuation of the verse which states that Jezebel, his wife, incited him, thereby linking the negative outcome to following his wife's advice."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:6:2",
+            "hebrew": "[אתתך גוצא - אשתך קטנה כפוף עצמך ושמע דבריה]:",
+            "english": "",
+            "takeaway": "רש״י explains that the Aramaic phrase 'איתתך גוצא' means 'your wife is small/young,' and the instruction 'גחין ותילוש לה' means to bow down and listen to her words."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "The Gates of Ona'ah Remain Open",
+      "stepSummary": "Rav Hisdah teaches that all the gates are closed except for the gates of Ona'ah.",
+      "whatsHappening": "The גְּמָרָא introduces a מִימְרָא from רַב הוּנָא regarding the unique accessibility of the sin of אוֹנָאָה. This is a setup line emphasizing the severity of financial exploitation.",
+      "deeperAnalysis": "רַב הוּנָא teaches that while all other gates of sin are closed, the gates of אוֹנָאָה remain open. This highlights that financial exploitation is uniquely pervasive and spiritually dangerous, as it is the one sin people readily commit without hesitation.",
+      "keyTerms": [
+        {
+          "term": "כָּל הַשְּׁעָרִים נִנְעָלִים",
+          "meaning": "all the gates are closed"
+        },
+        {
+          "term": "חוּץ מִשַּׁעֲרֵי אוֹנָאָה",
+          "meaning": "except for the gates of Ona'ah"
+        },
+        {
+          "term": "רַב הוּנָא",
+          "meaning": "Rav Huna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב חִסְדָּא:",
+          "english": "Rav Hisda said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל הַשְּׁעָרִים נִנְעָלִים,",
+          "english": "All the gates are locked,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חוּץ מִשַּׁעֲרֵי אוֹנָאָה, שֶׁנֶּאֱמַר:",
+          "english": "except for the gates of overcharging, as it is said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״הִנֵּה ה׳ נִצָּב עַל חוֹמַת אֲנָךְ וּבְיָדוֹ אֲנָךְ״.",
+          "english": "\"Behold, the Lord stands upon the wall of a plumbline, and in His hand a plumbline.\""
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הַכֹּל נִפְרָע בִּידֵי שָׁלִיחַ,",
+          "english": "Everything is collected by the hand of an agent,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "חוּץ מֵאוֹנָאָה, שֶׁנֶּאֱמַר: ״וּבְיָדוֹ אֲנָךְ״.",
+          "english": "except for overcharging, as it is said: \"And in His hand a plumbline.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב חִסְדָּא: כָּל הַשְּׁעָרִים נִנְעָלִים, חוּץ מִשַּׁעֲרֵי אוֹנָאָה, שֶׁנֶּאֱמַר: ״הִנֵּה ה׳ נִצָּב עַל חוֹמַת אֲנָךְ וּבְיָדוֹ אֲנָךְ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        80
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:7:1",
+            "hebrew": "כל השערים - של תפלה ננעלו:",
+            "english": "",
+            "takeaway": "רש״י explains that the 'gates' mentioned in the Gemara refer to the gates of תפלה, which are closed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:7:2",
+            "hebrew": "חוץ משערי אונאה - הצועק על אונאת דברים אין השער ננעל בפניו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the gates of אונאה remain open, meaning that one who cries out about אונאת דברים will not be turned away."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:7:3",
+            "hebrew": "הכל ע\"י שליח - נפרעים על כל עבירות ע\"י שליח:",
+            "english": "",
+            "takeaway": "רש״י explains that for all other sins, punishment is carried out by a שליח."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:7:4",
+            "hebrew": "ובידו - לא מסרה לשליח:",
+            "english": "",
+            "takeaway": "רש״י explains that for אונאה, God does not delegate the punishment to a שליח but rather acts directly, as indicated by the phrase 'וּבְיָדוֹ'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Three Sins That Pierce the Curtain of Mercy",
+      "stepSummary": "Rabbi Abbahu teaches that the curtain of mercy is not locked for three sins: Ona'ah, robbery, and idol worship.",
+      "whatsHappening": "The גְּמָרָא presents a מִימְרָא from רַבִּי אַבָּהוּ identifying three specific sins that bypass divine mercy. This is a setup line categorizing severe transgressions.",
+      "deeperAnalysis": "רַבִּי אַבָּהוּ teaches that the curtain of mercy is not locked for three sins: אוֹנָאָה, גָּזֵל, and עֲבוֹדָה זָרָה. This establishes that these three transgressions are uniquely severe, as they directly pierce the protective barrier of divine compassion.",
+      "keyTerms": [
+        {
+          "term": "שְׁלֹשָׁה אֵין הַפַּרְגּוֹד נִנְעָל בִּפְנֵיהֶם",
+          "meaning": "three sins for which the curtain of mercy is not locked"
+        },
+        {
+          "term": "גָּזֵל",
+          "meaning": "robbery"
+        },
+        {
+          "term": "עֲבוֹדָה זָרָה",
+          "meaning": "idol worship"
+        },
+        {
+          "term": "רַבִּי אַבָּהוּ",
+          "meaning": "Rabbi Abbahu"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי אֲבָהוּ:",
+          "english": "Rabbi Abbahu said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁלֹשָׁה אֵין הַפַּרְגּוֹד נִנְעָל בִּפְנֵיהֶם:",
+          "english": "Three, the curtain is not locked before them:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹנָאָה, וְגָזֵל, וַעֲבוֹדָה זָרָה.",
+          "english": "Fraudulent overcharging, robbery, and idol worship."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אוֹנָאָה, דִּכְתִיב: ״וּבְיָדוֹ אֲנָךְ״. גָּזֵל, דִּכְתִיב:",
+          "english": "Fraudulent overcharging, as it is written: 'And in his hand, a measuring line.' Robbery, as…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״חָמָס וָשֹׁד יִשָּׁמַע בָּהּ עַל פָּנַי תָּמִיד״.",
+          "english": "'Violence and spoil shall be heard in her before my face always.'"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "עֲבוֹדָה זָרָה, דִּכְתִיב:",
+          "english": "Idol worship, as it is written:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״הָעָם הַמַּכְעִיסִים אוֹתִי עַל פָּנַי תָּמִיד וְגוֹ׳״.",
+          "english": "'The people who vex me before my face always, etc.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי אַבָּהוּ: שְׁלֹשָׁה אֵין הַפַּרְגּוֹד נִנְעָל בִּפְנֵיהֶם: אוֹנָאָה, וְגָזֵל, וַעֲבוֹדָה זָרָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        82
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:8:1",
+            "hebrew": "פרגוד - מחיצה שבין שכינה לצבא מרום:",
+            "english": "",
+            "takeaway": "רש״י explains that פרגוד refers to the partition between the Divine Presence and the heavenly host."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:8:2",
+            "hebrew": "אינו ננעל - להפסיד ראייתן מן המקום אלא תמיד רואה אותם עד שיפרע:",
+            "english": "",
+            "takeaway": "רש״י explains that אינו ננעל means God does not block His view of these sins, but rather sees them continuously until He exacts punishment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:8:3",
+            "hebrew": "ובידו אנך - משמע שהיא תמיד אצלו ומשמש בה:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse ובידו אנך implies that the sin of Ona'ah is always present with God and He constantly deals with it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:8:4",
+            "hebrew": "על פני - לפני ואין מחיצה בינו לבין העבירה:",
+            "english": "",
+            "takeaway": "רש״י explains that על פני means 'before My face,' indicating there is no partition between God and these transgressions."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "The Importance of Produce in Domestic Peace",
+      "stepSummary": "Rabbi Yehudah teaches that one should be careful about produce, as arguments are only found in the house because of produce.",
+      "whatsHappening": "The גְּמָרָא introduces a מִימְרָא from רַבִּי יְהוּדָה regarding the domestic impact of produce disputes. This is a setup line linking financial matters to household harmony.",
+      "deeperAnalysis": "רַבִּי יְהוּדָה teaches that one must be careful with produce, as domestic arguments primarily stem from disputes over it. This highlights that financial disagreements, specifically regarding agricultural goods, are the primary source of marital and household conflict.",
+      "keyTerms": [
+        {
+          "term": "לְעוֹלָם יְהֵא אָדָם זָהִיר בִּתְבוּאָה",
+          "meaning": "a person should always be careful about produce"
+        },
+        {
+          "term": "אֵין מְרִיבָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם אֶלָּא עַל עִסְקֵי תְבוּאָה",
+          "meaning": "arguments are only found in the house because of produce"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yehudah"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב יְהוּדָה:",
+          "english": "Rab Yehuda said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְעוֹלָם יְהֵא אָדָם זָהִיר בִּתְבוּאָה בְּתוֹךְ בֵּיתוֹ,",
+          "english": "Let a person always be careful with produce within his house,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁאֵין מְרִיבָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל",
+          "english": "for a quarrel is not found within a person's house"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָדָם אֶלָּא עַל עִסְקֵי תְבוּאָה, שֶׁנֶּאֱמַר:",
+          "english": "except over matters of produce, as it is said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״הַשָּׂם גְּבוּלֵךְ שָׁלוֹם חֵלֶב חִטִּים יַשְׂבִּיעֵךְ״.",
+          "english": "\"He who sets your borders peace, fat of wheat shall satisfy you.\""
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר רַב פָּפָּא,",
+          "english": "Rav Pappa said,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הַיְינוּ דְּאָמְרִי אִינָשֵׁי:",
+          "english": "This is what people say:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "כְּמִשְׁלַם שְׂעָרֵי מִכַּדָּא,",
+          "english": "Like the price of a barley grain,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נָקֵישׁ וְאָתֵי תִּגְרָא בְּבֵיתָא.",
+          "english": "he strikes and brings a lawsuit into the house."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב יְהוּדָה: לְעוֹלָם יְהֵא אָדָם זָהִיר בִּתְבוּאָה בְּתוֹךְ בֵּיתוֹ, שֶׁאֵין מְרִיבָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם אֶלָּא עַל עִסְקֵי תְבוּאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        83
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:9:1",
+            "hebrew": "אימתי גבולך שלום - כשחלב חטים ישביעך הקב\"ה:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'הַשָּׂם גְּבוּלֵךְ שָׁלוֹם' is conditional, meaning peace is only achieved when God satisfies you with 'חֵלֶב חִטִּים' (abundant produce)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:9:2",
+            "hebrew": "מכדא - כד שנותנים בו שעורים:",
+            "english": "",
+            "takeaway": "רש״י defines the term 'כּד' as a specific vessel used for storing barley."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:9:3",
+            "hebrew": "נקיש ואתי תגרא - התגר מקשקש ובא ואני שמעתי הכד מקשקש כדרך כלי ריקם שנשמע בו קול הברה כשמקשקשין עליו:",
+            "english": "",
+            "takeaway": "רש״י explains the Aramaic phrase 'נָקֵישׁ וְאָתֵי תִּגְרָא' by describing how the sound of an empty vessel clinking alerts the owner that the merchant has arrived to fill it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "Produce as the Cause of Poverty",
+      "stepSummary": "Rav Chinnah bar Papa teaches that one should be careful about produce, as it is the cause of poverty in Israel.",
+      "whatsHappening": "The גְּמָרָא presents a מִימְרָא from רַב חִנָּא בַּר פַּפָּא regarding the economic impact of produce. This is a setup line linking agricultural disputes to national poverty.",
+      "deeperAnalysis": "רַב חִנָּא בַּר פַּפָּא teaches that one must be careful with produce, as Israel is only called poor due to disputes over it. This expands the previous teaching by showing that produce disputes cause not just domestic strife, but widespread economic hardship.",
+      "keyTerms": [
+        {
+          "term": "שֶׁלֹּא נִקְרְאוּ יִשְׂרָאֵל דַּלִּים אֶלָּא עַל עִסְקֵי תְבוּאָה",
+          "meaning": "that Israel should not be called poor except because of produce"
+        },
+        {
+          "term": "רַב חִנָּא בַּר פַּפָּא",
+          "meaning": "Rav Chinnah bar Papa"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב חִינָּנָא בַּר פָּפָּא:",
+          "english": "And Rav Hinana bar Papa said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְעוֹלָם יְהֵא אָדָם זָהִיר בִּתְבוּאָה בְּתוֹךְ בֵּיתוֹ,",
+          "english": "Let a man always be vigilant with produce in his house,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁלֹּא נִקְרְאוּ יִשְׂרָאֵל דַּלִּים אֶלָּא עַל עִסְקֵי תְבוּאָה,",
+          "english": "so that Israel not be called poor except over produce matters,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁנֶּאֱמַר: ״וְהָיָה אִם זָרַע יִשְׂרָאֵל וְגוֹ׳״,",
+          "english": "as it is said: 'And if the seed of Israel and so on',"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּכְתִיב: ״וַיַּחֲנוּ עֲלֵיהֶם וְגוֹ׳״, וּכְתִיב:",
+          "english": "and it is written: 'And they camped upon them and so on', and it is…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״וַיִּדַּל יִשְׂרָאֵל מְאֹד מִפְּנֵי מִדְיָן״.",
+          "english": "'And Israel was greatly impoverished because of Midian.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַב חִינָנָא בַר פָּפָא: לְעוֹלָם יְהֵא אָדָם זָהִיר בִּתְבוּאָה בְּתוֹךְ בֵּיתוֹ, שֶׁלֹּא נִקְרְאוּ יִשְׂרָאֵל דַּלִּים אֶלָּא עַל עִסְקֵי תְבוּאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        85
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:10:1",
+            "hebrew": "וידל ישראל - לעיל מיניה כתיב ויחנו עליהם וישחיתו את יבול הארץ:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse וידל ישראל refers to the preceding verse where the Midianites destroyed the produce of the land, thereby causing Israel's poverty."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The Honor of One's Wife Brings Blessing",
+      "stepSummary": "Rabbi Chelbo teaches that one should be careful about the honor of his wife, as blessing is only found in the house because of his wife.",
+      "whatsHappening": "The גְּמָרָא introduces a מִימְרָא from רַבִּי חִלְבּוֹ regarding the domestic impact of honoring one's wife. This is a setup line linking marital respect to divine blessing.",
+      "deeperAnalysis": "רַבִּי חִלְבּוֹ teaches that one must be careful to honor his wife, as blessing is only found in the home because of her. This establishes that respecting one's spouse is the primary conduit for divine blessing within the household.",
+      "keyTerms": [
+        {
+          "term": "לְעוֹלָם יְהֵא אָדָם זָהִיר בִּכְבוֹד אִשְׁתּוֹ",
+          "meaning": "a person should always be careful about the honor of his wife"
+        },
+        {
+          "term": "אֵין בְּרָכָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם אֶלָּא בִּשְׁבִיל אִשְׁתּוֹ",
+          "meaning": "blessing is only found in the house because of his wife"
+        },
+        {
+          "term": "רַבִּי חִלְבּוֹ",
+          "meaning": "Rabbi Chelbo"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַבִּי חֶלְבּוֹ:",
+          "english": "And Rabbi Helbo said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְעוֹלָם יְהֵא אָדָם זָהִיר בִּכְבוֹד אִשְׁתּוֹ,",
+          "english": "Let a person always be careful with the honor of his wife,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁאֵין בְּרָכָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל",
+          "english": "for a blessing is not found within a person's house"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָדָם אֶלָּא בִּשְׁבִיל אִשְׁתּוֹ,",
+          "english": "except on account of his wife,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁנֶּאֱמַר: ״וּלְאַבְרָם הֵטִיב בַּעֲבוּרָהּ״.",
+          "english": "as it is said: 'And He dealt well with Abram for her sake.'"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהַיְינוּ דַּאֲמַר לְהוּ רָבָא לִבְנֵי מָחוֹזָא:",
+          "english": "And this is what Rava said to the people of Mahoza:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אוֹקִירוּ לִנְשַׁיְיכוּ, כִּי הֵיכִי דְּתִתְעַתְּרוּ.",
+          "english": "Honor your wives, so that you may be blessed."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַבִּי חֶלְבּוֹ: לְעוֹלָם יְהֵא אָדָם זָהִיר בִּכְבוֹד אִשְׁתּוֹ, שֶׁאֵין בְּרָכָה מְצוּיָה בְּתוֹךְ בֵּיתוֹ שֶׁל אָדָם אֶלָּא בִּשְׁבִיל אִשְׁתּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        86
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:11:1",
+            "hebrew": "מחוזא - עיר שהיה רבא דר בתוכה כך שמה:",
+            "english": "",
+            "takeaway": "רש״י explains that מחוזא is the name of the city where רבא resided."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:11:2",
+            "hebrew": "אוקירו נשייכו - כבדו נשותיכם:",
+            "english": "",
+            "takeaway": "רש״י explains that אוקירו נשייכו means to honor your wives."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah on Segmented Ovens",
+      "stepSummary": "The Gemara introduces a Mishnah from Kelim regarding an oven cut into segments with sand placed between them, where רבי אליעזר rules pure and the חכמים rule impure.",
+      "whatsHappening": "The גְּמָרָא transitions to a new מִשְׁנָה from מַסֶּכֶת כֵּלִים regarding an oven cut into segments. This is a setup line introducing a new sugya about ritual impurity.",
+      "deeperAnalysis": "The מִשְׁנָה presents a dispute about an earthenware oven cut into segments with sand placed between them. רַבִּי אֱלִיעֶזֶר holds the sand breaks the vessel's continuity, rendering it pure, while the חֲכָמִים maintain it remains functionally whole and thus impure.",
+      "keyTerms": [
+        {
+          "term": "חֲתָכוֹ חוּלְיוֹת",
+          "meaning": "cut it into segments"
+        },
+        {
+          "term": "חֹל",
+          "meaning": "sand"
+        },
+        {
+          "term": "רַבִּי אֱלִיעֶזֶר",
+          "meaning": "Rabbi Eliezer"
+        },
+        {
+          "term": "מְטַהֵר",
+          "meaning": "deems pure"
+        },
+        {
+          "term": "מְטַמִּין",
+          "meaning": "deem impure"
+        }
+      ],
+      "whatToRemember": "The core dispute is whether the sand acts as a separator that breaks the vessel's unity for ritual impurity purposes.",
+      "confusionAlert": "Note that this מִשְׁנָה is from מַסֶּכֶת כֵּלִים, not בַּבָּא מְצִיעָא. The גְּמָרָא is transitioning to a new topic.",
+      "whyThisMatters": "This מִשְׁנָה sets up the entire sugya's discussion on what constitutes a complete vessel for the purposes of ritual impurity.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תְּנַן הָתָם: חֲתָכוֹ חוּלְיוֹת,",
+          "english": "We learned there: He cut it into segments,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְנָתַן חוֹל בֵּין חוּלְיָא לְחוּלְיָא –",
+          "english": "and placed sand between segment and segment –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.",
+          "english": "Rabbi Eliezer purifies, and the Sages defile."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תְּנַן הָתָם: חֲתָכוֹ חוּלְיוֹת, וְנָתַן חוֹל בֵּין חוּלְיָא לְחוּלְיָא – רַבִּי אֱלִיעֶזֶר מְטַהֵר, וַחֲכָמִים מְטַמְּאִין.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:12:1",
+            "hebrew": "חתכו חוליות - תנור העשוי חוליות מצרפו בכבשן כדרך כלי חרס ואח\"כ צירף החוליות ונתן חול בין חוליא לחוליא:",
+            "english": "If one cut [an earthenware oven widthwise] into segments: An oven made out of segments. One fires [the segments] in a kiln in the way of all earthenware pottery, and then combines the segments and places sand between all of the segments.",
+            "takeaway": "רש״י explains that the Mishnah describes an oven made of segments that were fired individually in a kiln like regular earthenware, and then assembled with sand placed between the segments."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:12:2",
+            "hebrew": "ר\"א מטהר - שאין זה כלי חרס אלא בנין כעין כלי גללים וכלי אדמה שאין מקבלין טומאה:",
+            "english": "Rabbi Eliezer deems it ritually pure: As this is not an earthenware vessel. Rather it is a structure like a dung vessel or a mud vessel, such that it is not susceptible to ritual impurity.",
+            "takeaway": "רש״י explains that רבי אליעזר rules it pure because the sand breaks the continuity, making it a structure like a mud or dung vessel rather than a single earthenware vessel susceptible to טומאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59a:12:3",
+            "hebrew": "וחכמים מטמאין - דאזלי בתר חוליות שאר תנורים שלהם היו עשוים כעין קדירות גדולות ופיו למעלה וצורף בכבשן כשאר קדירות ומטלטלים אלא שהיה מושיבו על הארץ או על הדף ומדביק את טפילות הטיט סביב על כולו לעשותו עב שיקלוט ויחזיק את חומו:",
+            "english": "And the Rabbis deem it ritually impure: As they go after (base their decision upon) the segments. Their other ovens were made like big jugs with an opening above. And one fires it in the urn like other jugs and portables; except that he situates it on the earth or on a board. He then attaches plaster of clay all around it to make it thick, such that it can insulate and strengthen its heat.",
+            "takeaway": "רש״י explains that the חכמים rule it impure because they focus on the segments themselves, which were originally fired as complete vessels like large jugs, and the added clay merely thickens them for insulation."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59a:12:1",
+            "hebrew": "חתכו חוליות ונתן חול בין חוליא לחוליא - אם לא היה חול בינתים היה מודה רבי אליעזר דכלי חשוב הוא שהטפלה סביב לתנור מחברת החוליות ומעמידתן זו אצל זו ומשום דנתן חול בינתים להפריד החוליות זו מזו מטהר ר\"א והכי תנן במסכת כלים (פרק ה משנה ח) חתכו לרוחבו פחות פחות מארבעה טפחים טהור מרחו בטיט טמא משיסיקנו לאפות בו סופגנים הרחיק את הטפלה ונתן חול או צרור בינתים בזה אמרו הנדה והטמאה והטהורה אופות בו והוא טהור קתני חול דומיא דצרור שהוא יבש:",
+            "english": "If one cut [an earthenware oven widthwise] into segments and placed sand between each and every segment: If there was no sand between them, Rabbi Eliezer would have conceded that it is considered a vessel (and so susceptible to impurity), since the plaster around the oven connects the segments and structures them one next to the other. So it is because it was learned [in a mishnah, that] sand between them is to separate the segments from one another that Rabbi Eliezer renders it pure. And it is learned thus in Tractate Kelim (5:8), \"If an oven was cut up by its width into segments that are each less than four handbreadths in height, it is ritually pure. If he plastered it over with clay, it becomes susceptible to ritual impurity when it is heated to a degree that suffices for the baking of spongy cakes. If he distanced the plastering and put sand or gravel in between, of such an oven it has been said, 'A menstruant as well as (a ritually impure woman and) a ritually pure woman may bake in it and it remains ritually pure.'\" It taught [here that] sand is similar to gravel, as it is dry.",
+            "takeaway": "תוספות explains that רבי אליעזer would agree the oven is susceptible to טומאה if there were no sand, since the surrounding plaster connects the segments, but the sand separates them like dry gravel, rendering it pure as taught in מסכת כלים."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T07:00:55.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 108.45061060000444,
+      "structure": 2204.322860999964,
+      "validate": 290.2013549998519,
+      "translate": 495.9347777001094,
+      "meforshim": 799.7686734999879,
+      "teaching": 991.1941752999555
+    }
+  }
+}

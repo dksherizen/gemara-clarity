@@ -1,0 +1,1593 @@
+{
+  "ref": "Bava Metzia 38b",
+  "masechet": "Bava_Metzia",
+  "daf": 38,
+  "amud": "b",
+  "mainTopic": "(continues) פירות והרקבו · הלכה כרבן שמעון בן גמליאל · שבווי שנשבה",
+  "overview": "(1) The Mishnah discusses the laws of selling rotting produce and the Gemara analyzes the distinction between different types of loss. (2) The Gemara discusses the halakhic rulings of Rabbi Yochanan and Rava regarding Rabbi Shimon ben Gamliel and the Chachamim. (3) A dispute between Rav and Shmuel regarding appointing a guardian for a captive's property, and the definition of 'descend to property'. (4) The Mishnah defines the laws of captives' property, abandoned property, and property of those who left voluntarily, and the Gemara discusses the appointment of guardians. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) פירות והרקבו",
+      "gist": "The Mishnah discusses the laws of selling rotting produce and the Gemara analyzes the distinction between different types of loss.",
+      "openingFormula": "מֵיתִיבִי: הַמַּפְקִיד פֵּירוֹת",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 10,
+      "topic": "הלכה כרבן שמעון בן גמליאל",
+      "gist": "The Gemara discusses the halakhic rulings of Rabbi Yochanan and Rava regarding Rabbi Shimon ben Gamliel and the Chachamim.",
+      "openingFormula": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר",
+      "firstStepNumber": 4,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 11,
+      "endLine": 16,
+      "topic": "שבווי שנשבה",
+      "gist": "A dispute between Rav and Shmuel regarding appointing a guardian for a captive's property, and the definition of 'descend to property'.",
+      "openingFormula": "אִתְּמַר: שָׁבוּי שֶׁנִּשְׁבָּה",
+      "firstStepNumber": 11,
+      "lastStepNumber": 16
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 17,
+      "endLine": 20,
+      "topic": "נכסי שבוים ונטושים",
+      "gist": "The Mishnah defines the laws of captives' property, abandoned property, and property of those who left voluntarily, and the Gemara discusses the appointment of guardians. — discussion continues into next amud.",
+      "openingFormula": "וּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי",
+      "firstStepNumber": 17,
+      "lastStepNumber": 19
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תשובה",
+      "title": "Oil for tanners, honey for camel salve",
+      "stepSummary": "The Gemara answers that spoiled oil is used by tanners and spoiled honey is used as a salve for camels.",
+      "whatsHappening": "The Gemara provides the practical uses for the spoiled items. This answers the previous question.",
+      "deeperAnalysis": "The Gemara answers that oil is fit for tanners who use it to coat hides, and honey is fit as a salve for camel wounds. This shows that even spoiled items have some residual value, which justifies the חכמים' leniency.",
+      "keyTerms": [
+        {
+          "term": "לְגִלְדּאי",
+          "meaning": "for tanners"
+        },
+        {
+          "term": "לִכְתִישׁא דְגַמְלֵי",
+          "meaning": "for a camel salve"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְמַאי חֲזוּ? שֶׁמֶן חֲזֵי לְגִלְדָּאֵי, דְּבַשׁ לִכְתִישָׁא דְגַמְלֵי.",
+          "english": "For what are they fit? Oil is fit for tanners, honey for a camel's wound."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שׁמן חֲזֵי לְגִלְדּאי, דּבשׁ לִכְתִישׁא דְגַמְלֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:1:1",
+            "hebrew": "למאי חזו - דקתני מוכרן:",
+            "english": "",
+            "takeaway": "רש״י explains that the question למאי חזו is asked to clarify the Mishnah's statement that the seller may sell the spoiled items, by identifying their alternative uses."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:1:2",
+            "hebrew": "לגלדאי - לסוך עורות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that לגלדאי refers to tanners who use the oil to anoint hides."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:1:3",
+            "hebrew": "לכתישא דגמלא - לכתישא שעל הגמל שגבו כתוש ומסוקב מחמת משאוי איישר\"א בלע\"ז:",
+            "english": "",
+            "takeaway": "רש״י explains that לכתשא דגמלא refers to a salve applied to the camel's back, which becomes bruised and sore from carrying heavy loads."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "What remedy does the bailee effect?",
+      "stepSummary": "The Gemara asks what specific remedy the bailee performs for the spoiled items before selling them.",
+      "whatsHappening": "The Gemara probes the practical steps the bailee takes to 'effect a remedy'. This is a neutral question seeking clarification.",
+      "deeperAnalysis": "The Gemara asks: what does 'עושה להם תקנה' mean? What specific action does the bailee take to fix the situation? This seeks to understand the practical implementation of the חכמים' ruling.",
+      "keyTerms": [
+        {
+          "term": "מַאי תּקַנְתּא עָבֵיד לְהוּ?",
+          "meaning": "what remedy does he effect for them?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַחֲכָמִים אוֹמְרִים: עוֹשֶׂה לָהֶם תַּקָּנָה וּמוֹכְרָן בְּבֵית דִּין.",
+          "english": "And the Sages say: He makes a remedy for them and sells them in court."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי תַּקַּנְתָּא עָבֵיד לְהוּ?",
+          "english": "What remedy does he make for them?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַב אָשֵׁי: לְקַנְקַנִּים.",
+          "english": "Rav Ashi said: For casks."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַחֲכָמִים אוֹמְרִים: עוֹשֶׂה לָהֶם תּקָנָה וּמוֹכְרָן בּבֵית דִּין. מַאי תּקַנְתּא עָבֵיד לְהוּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:2:1",
+            "hebrew": "לקנקניו - הכלי שהיה בתוכו יתקלקל אם ישהא בתוכו:",
+            "english": "",
+            "takeaway": "רש״י explains that לקנקניו means the bailee must sell the item because the vessel containing it would be damaged if the item remained inside it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "שאלה",
+      "title": "On what do Rabbi Meir and the Rabbis disagree?",
+      "stepSummary": "The Gemara asks what the actual point of dispute is between רבי מאיר and the חכמים, given that רבי מאיר agrees in cases of excessive loss.",
+      "whatsHappening": "The Gemara seeks to pinpoint the exact disagreement between the two sides. This is a neutral question seeking clarification.",
+      "deeperAnalysis": "The Gemara asks: if רבי מאיר agrees that in cases of excessive loss the bailee should sell, what is the dispute about? This seeks to clarify the boundary of the dispute.",
+      "keyTerms": [
+        {
+          "term": "בּמַאי קָא מִיפּלְגִי?",
+          "meaning": "on what do they disagree?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּמַאי קָא מִיפַּלְגִי? דְּמָר סָבַר:",
+          "english": "With regard to what do they disagree? That one Sage holds:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְהֶפְסֵד מְרוּבֶּה – חָשְׁשׁוּ,",
+          "english": "For a great loss – they were concerned,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְהֶפְסֵד מוּעָט – לֹא חָשְׁשׁוּ.",
+          "english": "For a small loss – they were not concerned."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמָר סָבַר: אֲפִילּוּ לְהֶפְסֵד מוּעָט נָמֵי חָשְׁשׁוּ.",
+          "english": "And one Sage holds: Even for a small loss they were concerned."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בּמַאי קָא מִיפּלְגִי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:3:1",
+            "hebrew": "במאי קמיפלגי - ר\"מ ורבנן מאחר שמודה ר\"מ ביתר מכדי חסרונן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's question assumes רבי מאיר agrees that when the loss exceeds the depreciation (יתר מכדי חסרונן), the bailee may sell."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:3:2",
+            "hebrew": "להפסד מרובה - כגון יתר מכדי חסרונן:",
+            "english": "",
+            "takeaway": "רש״י defines להפסד מרובה as a loss exceeding the depreciation of the item (יתר מכדי חסרונן)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:3:3",
+            "hebrew": "הפסד מועט - כגון בכדי חסרון דריקבון פירות וקילקול הקנקן דיין והחמיץ:",
+            "english": "",
+            "takeaway": "רש״י defines להפסד מועט as a loss limited to the depreciation of the fruit and the spoilage of the container (כדי חסרון דריקבון פירות וקילקול הקנקן)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's ruling of רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל",
+      "stepSummary": "The Mishna states that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל rules that a bailee may sell rotting produce in court, as it is considered returning a lost item.",
+      "whatsHappening": "The sugya opens with the Mishna's text. This is a setup line introducing the primary source.",
+      "deeperAnalysis": "The Mishna introduces the dispute regarding a bailee whose produce is rotting. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל permits selling it in court, comparing it to returning a lost item.",
+      "keyTerms": [
+        {
+          "term": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל",
+          "meaning": "Rabban Shimon ben Gamliel"
+        },
+        {
+          "term": "יִמְכְּרֵם בְּבֵית דִּין",
+          "meaning": "he should sell them in court"
+        },
+        {
+          "term": "הֲשָׁבַת אֲבֵידָה",
+          "meaning": "returning a lost item"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר יִמְכְּרֵם בְּבֵית דִּין,",
+          "english": "Rabban Shimon ben Gamliel says: Sell them in the court,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִפְּנֵי שֶׁהוּא כְּמֵשִׁיב אֲבֵידָה לִבְעָלִים. אִתְּמַר,",
+          "english": "Because he is like one returning a lost item to its owners. It was stated:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי אַבָּא בְּרַבִּי יַעֲקֹב אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabbi Abba, son of Rabbi Ya'akov, says Rabbi Yoḥanan:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.",
+          "english": "The halakha is in accordance with Rabban Shimon ben Gamliel."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרָבָא אָמַר רַב נַחְמָן: הֲלָכָה כְּדִבְרֵי חֲכָמִים.",
+          "english": "And Rava says Rav Naḥman: The halakha is in accordance with the words of the Sages."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר יִמְכְּרֵם בְּבֵית דִּין, מִפְּנֵי שֶׁהוּא כְּמֵשִׁיב אֲבֵידָה לִבְעָלִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "The redundancy of רַבִּי יוֹחָנָן's specific ruling",
+      "stepSummary": "The Gemara challenges why רַבִּי יוֹחָנָן needed to rule specifically on this case, given his general principle that the halakha follows רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.",
+      "whatsHappening": "The Gemara raises a redundancy objection against רַבִּי יוֹחָנָן's specific ruling. This is a קשיא challenging the necessity of the text.",
+      "deeperAnalysis": "The Gemara cites רַבָּה בַּר בַּר חָנָה who says רַבִּי יוֹחָנָן ruled that in all cases where רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל appears in the Mishna, the halakha follows him, except for three specific cases. If this is true, why did רַבִּי יוֹחָנָן need to rule specifically on this case?",
+      "keyTerms": [
+        {
+          "term": "רַבָּה בַּר בַּר חָנָה",
+          "meaning": "Rabba bar bar Chana"
+        },
+        {
+          "term": "כׇּל מָקוֹם שֶׁשָּׁנָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל בְּמִשְׁנָתֵינוּ הֲלָכָה כְּמוֹתוֹ",
+          "meaning": "everywhere Rabban Shimon ben Gamliel appears in our Mishna, the halakha follows him"
+        },
+        {
+          "term": "עָרֵב",
+          "meaning": "guarantor"
+        },
+        {
+          "term": "צַיְדָן",
+          "meaning": "Tzaidan"
+        },
+        {
+          "term": "רְאָיָה אַחֲרוֹנָה",
+          "meaning": "final evidence"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא אַמְרַהּ רַבִּי יוֹחָנָן חֲדָא זִמְנָא,",
+          "english": "And yet Rabbi Yoḥanan stated it one time,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן:",
+          "english": "That Rabba bar bar Ḥana said Rabbi Yoḥanan said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כׇּל מָקוֹם שֶׁשָּׁנָה רַבָּן שִׁמְעוֹן בֶּן",
+          "english": "Every place that Rabban Shimon ben"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גַּמְלִיאֵל בְּמִשְׁנָתֵינוּ הֲלָכָה כְּמוֹתוֹ,",
+          "english": "Gamliel in our Mishnah, the halakha is like him,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חוּץ מֵעָרֵב, וְצַיְדָן, וּרְאָיָה אַחֲרוֹנָה.",
+          "english": "Except for Arav, Tzaidan, and final evidence.",
+          "notes": "Arav refers to the guarantor case; Tzaidan to the incident in that city; final evidence to the dispute in Sanhedrin."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא אַמְרַהּ רַבִּי יוֹחָנָן חֲדָא זִמְנָא, דְּאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן: כׇּל מָקוֹם שֶׁשָּׁנָה רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל בְּמִשְׁנָתֵינוּ הֲלָכָה כְּמוֹתוֹ, חוּץ מֵעָרֵב, וְצַיְדָן, וּרְאָיָה אַחֲרוֹנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        63
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:5:1",
+            "hebrew": "ערב - בגט פשוט (ב\"ב קע\"ג:):",
+            "english": "",
+            "takeaway": "רש״י explains that ערב refers to a dispute in בבא בתרא קעג: regarding a גט פשוט."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:5:2",
+            "hebrew": "צידן - במסכת גיטין (דף עד.):",
+            "english": "",
+            "takeaway": "רש״י explains that ציידן refers to a dispute in מסכת גיטין דף עד:."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:5:3",
+            "hebrew": "ראייה - בדיני ממונות השני (סנהדרין לא.) שנחלקו בשני מחלוקות במביא שטר ראיה לסתור את הדין בראשונה הלכה כמותו ובאחרונה אין הלכה כמותו:",
+            "english": "",
+            "takeaway": "רש״י explains that ראייה אחרונה refers to a dispute in סנהדרין לא: regarding monetary cases where a document is brought to overturn a ruling, where the halakha follows רבן שמעון בן גמליאל in the first dispute but not in the second."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "The two rulings are from different Amora'im",
+      "stepSummary": "The Gemara resolves the difficulty by stating that רַבִּי אַבָּא and רַבָּה בַּר בַּר חָנָה are two different Amora'im who disagree about רַבִּי יוֹחָנָן's opinion.",
+      "whatsHappening": "The Gemara resolves the redundancy objection by distinguishing between the two transmitters of רַבִּי יוֹחָנָן's rulings. This is a תירוץ.",
+      "deeperAnalysis": "The Gemara explains that רַבִּי אַבָּא and רַבָּה בַּר בַּר חָנָה are two different Amora'im. רַבִּי אַבָּא holds that רַבִּי יוֹחָנָן did not issue a general ruling, so a specific ruling was needed. רַבָּה בַּר בַּר חָנָה holds that רַבִּי יוֹחָנָן did issue a general ruling.",
+      "keyTerms": [
+        {
+          "term": "אָמוֹרָאֵי נִינְהוּ",
+          "meaning": "they are two Amora'im"
+        },
+        {
+          "term": "אַלִּיבָּא דְּרַבִּי יוֹחָנָן",
+          "meaning": "according to the opinion of Rabbi Yochanan"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמוֹרָאֵי נִינְהוּ וְאַלִּיבָּא דְּרַבִּי יוֹחָנָן.",
+          "english": "They are amora'im and according to the opinion of Rabbi Yoḥanan."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמוֹרָאֵי נִינְהוּ וְאַלִּיבָּא דְּרַבִּי יוֹחָנָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        64
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:6:1",
+            "hebrew": "אמוראי נינהו - רבה אמר בכללא אמר ר' יוחנן ור' אבא אמר לאו בכללא אמר רבי יוחנן אלא יש מהן שהלכה כמותו:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבָּה holds that רַבִּי יוֹחָנָן issued a general ruling, while רַבִּי אַבָּא holds that רַבִּי יוֹחָנָן did not issue a general ruling, but rather ruled specifically in certain cases where the הלכה follows him."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The inference regarding the captive's property",
+      "stepSummary": "The Gemara notes that from רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל's ruling, we learn that the court authorizes a relative to manage a captive's property, and from the חֲכָמִים' ruling, we learn the opposite.",
+      "whatsHappening": "The Gemara draws an inference from the Mishna's dispute to a different case: managing a captive's property.",
+      "deeperAnalysis": "The Gemara states that from רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל's permission to sell rotting produce, we learn that the court authorizes a relative to manage a captive's property (מורידין קרוב לנכסי שבויה). Conversely, from the חֲכָמִים' prohibition, we learn that the court does not authorize this.",
+      "keyTerms": [
+        {
+          "term": "מורידין קרוב לנכסי שבויה",
+          "meaning": "we authorize a relative to descend to the captive's property"
+        },
+        {
+          "term": "נכסי שבויה",
+          "meaning": "the property of a captive"
+        }
+      ],
+      "whatToRemember": "The inference is based on the principle that selling rotting produce is like returning a lost item, and managing a captive's property is similarly a form of returning a lost item.",
+      "confusionAlert": "This is a new topic introduced by the Gemara.",
+      "whyThisMatters": "This sets up the next question: whether the two cases are related or independent.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִדְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל נִשְׁמָע דְּמוֹרִידִין",
+          "english": "From Rabban Shimon ben Gamliel it is heard that they lower"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָרוֹב לְנִכְסֵי שָׁבוּי.",
+          "english": "Close to the property of a captive."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִדְּרַבָּנַן נִשְׁמַע דְּאֵין מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי.",
+          "english": "From the Rabbis it is heard that they do not lower close to the property of a…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִדְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל נִשְׁמָע דְּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי. מִדְּרַבָּנַן נִשְׁמַע דְּאֵין מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:7:1",
+            "hebrew": "מדרבן שמעון נשמע דמורידין קרוב - הראוי לירש:",
+            "english": "",
+            "takeaway": "רש״י explains that the term קָרוֹב in this context refers to a relative who is the designated heir."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:7:2",
+            "hebrew": "בנכסי שבוי - לקרקעות שבוי לעובדן ולשומרן עד שיבאו הבעלים ולקמן פליגי בא אמוראי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that managing a captive's property involves working and guarding their land until the owner returns, noting that the Amora'im later dispute this matter."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "דחיה",
+      "title": "The two cases may be independent",
+      "stepSummary": "The Gemara rejects the inference, suggesting that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל and the חֲכָמִים may rule differently in the two cases for independent reasons.",
+      "whatsHappening": "The Gemara challenges the inference by suggesting that the two cases are independent.",
+      "deeperAnalysis": "The Gemara asks: perhaps רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל only permits selling rotting produce because the principal is destroyed (קא כלתא קרנא), but in the case of a captive's property, he would agree that the court does not authorize a relative. Similarly, perhaps the חֲכָמִים only prohibit selling rotting produce based on the reasons of רַב כָּהֲנָא or רַב נַחְמָן בַּר יִצְחָק, but in the case of a captive's property, they would agree that the court authorizes a relative.",
+      "keyTerms": [
+        {
+          "term": "וּמִמַּאי?",
+          "meaning": "and from where?"
+        },
+        {
+          "term": "קא כלתא קרנא",
+          "meaning": "the principal is destroyed"
+        },
+        {
+          "term": "רַב כָּהֲנָא",
+          "meaning": "Rav Kahana"
+        },
+        {
+          "term": "רַב נַחְמָן בַּר יִצְחָק",
+          "meaning": "Rav Nachman bar Yitzchak"
+        }
+      ],
+      "whatToRemember": "The two cases may be independent, and the rulings may not be based on a single principle.",
+      "confusionAlert": "This is a classic 'וּמִמַּאי?' challenge.",
+      "whyThisMatters": "This sets up the next question: whether the two cases are related or independent.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִמַּאי? דִּלְמָא עַד כָּאן לָא קָאָמַר רַבָּן",
+          "english": "And from where? Perhaps until here Rabban"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שִׁמְעוֹן בֶּן גַּמְלִיאֵל הָכָא,",
+          "english": "Shimon ben Gamliel here,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא מִשּׁוּם דְּקָא כָלְיָא קַרְנָא,",
+          "english": "but because the principal is destroyed,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל הָתָם הָכִי נָמֵי דְּאֵין מוֹרִידִין.",
+          "english": "but there even so that they do not lower."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְעַד כָּאן לָא קָאָמְרִי רַבָּנַן הָכָא,",
+          "english": "And until here the Rabbis do not say here,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא אִי כְּרַב כָּהֲנָא,",
+          "english": "but if according to Rav Kahana,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִי כְּרַב נַחְמָן בַּר יִצְחָק.",
+          "english": "if according to Rav Naḥman bar Yitzḥak."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲבָל הָתָם הָכִי נָמֵי דְּמוֹרִידִין.",
+          "english": "But there even so that they lower."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִמַּאי? דִּלְמָא עַד כָּאן לָא קָאָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל הָכָא, אֶלָּא מִשּׁוּם דְּקָא כָלְיָא קַרְנָא, אֲבָל הָתָם הָכִי נָמֵי דְּאֵין מוֹרִידִין. וְעַד כָּאן לָא קָאָמְרִי רַבָּנַן הָכָא, אֶלָּא אִי כְּרַב כָּהֲנָא, אִי כְּרַב נַחְמָן בַּר יִצְחָק. אֲבָל הָתָם הָכִי נָמֵי דְּמוֹרִידִין.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:8:1",
+            "hebrew": "עד כאן לא קאמר רבן שמעון הכא - דמוכרן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל's permission to sell rotting produce is limited to this specific case."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:8:2",
+            "hebrew": "אלא משום דקא כליא קרנא - אם יניחם שם אבל גבי קרקעות וכרמים אע\"פ שמתקלקלות קצת לא כליא קרנא:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל permits the sale only because the principal is being destroyed, unlike land or vineyards which do not lose their principal value even if they deteriorate slightly."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:8:3",
+            "hebrew": "אי כרב כהנא - דאמר לעיל רוצה אדם בקב שלו:",
+            "english": "",
+            "takeaway": "רש״י identifies רַב כָּהֲנָא's reasoning as the owner's desire to recover his own money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:8:4",
+            "hebrew": "אי כרב נחמן בר יצחק - דאמר שמא עשאן תרומה ומעשר:",
+            "english": "",
+            "takeaway": "רש״י identifies רַב נַחְמָן בַּר יִצְחָק's reasoning as the concern that the produce might have already been designated for תרומה ומעשר."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:8:1",
+            "hebrew": "עד כאן לא קאמר רשב\"ג כו' אבל הכא אין מורידין - וא\"ת והא לקמן מייתי דאית ליה לרשב\"ג מורידין וי\"ל דמהא ליכא למשמע מינה אבל קשה דמאי מוכיח דחד טעמא הוא מדשמואל דסבר כרשב\"ג וסבר מורידין לוכח כן מרשב\"ג גופיה וצ\"ל דלא שמיע ליה ברייתא דלקמן:",
+            "english": "",
+            "takeaway": "תוספות questions how the Gemara can assume רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל prohibits authorizing a relative for a captive's property, given a later ברייתא where he permits it, and answers that the Gemara here simply did not hear that later ברייתא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "The challenge from שְׁמוּאֵל's rulings",
+      "stepSummary": "The Gemara challenges the independence of the two cases by citing שְׁמוּאֵל's rulings, which seem to link them.",
+      "whatsHappening": "The Gemara raises a difficulty against the independence of the two cases.",
+      "deeperAnalysis": "The Gemara asks: if the two cases are independent, why does שְׁמוּאֵל rule like רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל in the case of rotting produce and also rule that the court authorizes a relative to manage a captive's property? This suggests that the two cases are linked by a single principle.",
+      "keyTerms": [
+        {
+          "term": "לְמֵימְרָא דִּתְרֵי טַעְמֵי נִינְהוּ?",
+          "meaning": "to say that they are two reasons?"
+        },
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Shmuel"
+        }
+      ],
+      "whatToRemember": "שְׁמוּאֵל's rulings seem to link the two cases.",
+      "confusionAlert": "This is a classic 'לְמֵימְרָא דִּתְרֵי טַעְמֵי נִינְהוּ?' challenge.",
+      "whyThisMatters": "This sets up the next resolution: that the two cases are indeed independent.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְמֵימְרָא דִּתְרֵי טַעְמֵי נִינְהוּ?",
+          "english": "To say that they are two reasons?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:",
+          "english": "And Rav Yehuda says that Shmuel says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל,",
+          "english": "The halakha is in accordance with Rabban Shimon ben Gamliel,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמַר שְׁמוּאֵל: מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי.",
+          "english": "And Shmuel says: One lowers a relative to the property of a captive."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָאו מִשּׁוּם דְּחַד טַעְמָא הוּא?",
+          "english": "Is it not because of one reason?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָא, תְּרֵי טַעְמֵי נִינְהוּ.",
+          "english": "No, they are two reasons."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לְמֵימְרָא דִּתְרֵי טַעְמֵי נִינְהוּ? וְהָאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: הֲלָכָה כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, וְאָמַר שְׁמוּאֵל: מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי. לָאו מִשּׁוּם דְּחַד טַעְמָא הוּא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        67
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:9:1",
+            "hebrew": "דתרי טעמי נינהו - מתני' ונכסי שבוי ואיכא דאית ליה מוכרין פירות האבודין ולית ליה מורידין:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge assumes שְׁמוּאֵל holds both rulings based on a single principle, but in reality, the two cases are independent, and one could theoretically hold that produce is sold while not authorizing a relative for a captive's property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:9:2",
+            "hebrew": "קרוב - הראוי ליורשו ואין קרוב ממנו:",
+            "english": "",
+            "takeaway": "רש״י defines קָרוֹב as the closest heir who has no closer relative than himself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The confirmation from רָבָא's ruling",
+      "stepSummary": "The Gemara confirms the independence of the two cases by citing רָבָא's ruling, which also seems to link them.",
+      "whatsHappening": "The Gemara confirms the independence of the two cases by citing רָבָא's ruling.",
+      "deeperAnalysis": "The Gemara states that it is reasonable to say that the two cases are independent, as רָבָא rules like the חֲכָמִים in the case of rotting produce and also rules that the court authorizes a relative to manage a captive's property. This confirms that the two cases are independent.",
+      "keyTerms": [
+        {
+          "term": "הָכִי נָמֵי מִסְתַּבְּרָא",
+          "meaning": "so too it is reasonable"
+        }
+      ],
+      "whatToRemember": "רָבָא's ruling confirms the independence of the two cases.",
+      "confusionAlert": "This is a classic 'הָכִי נָמֵי מִסְתַּבְּרָא' confirmation.",
+      "whyThisMatters": "This confirms the resolution of the difficulty raised by שְׁמוּאֵל's rulings.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא,",
+          "english": "So too, it is reasonable"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רָבָא אָמַר רַב נַחְמָן:",
+          "english": "For Rava says Rav Naḥman says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲלָכָה כְּדִבְרֵי חֲכָמִים.",
+          "english": "The halakha is in accordance with the words of the Sages."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמַר רַב נַחְמָן: מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי.",
+          "english": "And Rav Naḥman says: One lowers a relative to the property of a captive."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא שְׁמַע מִינַּהּ: תְּרֵי טַעְמֵי נִינְהוּ, שְׁמַע מִינַּהּ.",
+          "english": "Rather, learn from it: They are two reasons, learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּאָמַר רָבָא אָמַר רַב נַחְמָן: הֲלָכָה כְּדִבְרֵי חֲכָמִים. וְאָמַר רַב נַחְמָן: מוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        69
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute between Rav and Shmuel on appointing a guardian for a captive's property",
+      "stepSummary": "The sugya opens with the fundamental dispute: Rav prohibits appointing a relative to manage a captive's property, while Shmuel permits it.",
+      "whatsHappening": "The sugya introduces the core amoraic dispute regarding the management of a captive's estate.",
+      "deeperAnalysis": "The Gemara presents the two opposing views. Rav is concerned that a relative will not treat the property with the care of an owner, potentially devaluing it. Shmuel believes the legal framework of appraisal (כְּאָרִיס) ensures proper care.",
+      "keyTerms": [
+        {
+          "term": "שָׁבוּי שֶׁנִּשְׁבָּה",
+          "meaning": "a captive who was taken captive"
+        },
+        {
+          "term": "מוֹרִידִין קָרוֹב לִנְכָסָיו",
+          "meaning": "appointing a relative to manage his property"
+        },
+        {
+          "term": "רַב",
+          "meaning": "Rav, the Amora"
+        },
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Shmuel, the Amora"
+        }
+      ],
+      "whatToRemember": "The core dispute is about whether to appoint a relative to manage the property of a captive who is presumed alive.",
+      "confusionAlert": "The term 'descend to property' (לֵירֵד לִנְכָסָיו) refers to managing and maintaining the estate, not necessarily inheriting it.",
+      "whyThisMatters": "This dispute sets the stage for the entire sugya, which will explore the definition of 'descend' and the conditions under which management is permitted.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִתְּמַר: שָׁבוּי שֶׁנִּשְׁבָּה, רַב אָמַר:",
+          "english": "It was stated: A captive who was captured, Rav said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵין מוֹרִידִין קָרוֹב לִנְכָסָיו,",
+          "english": "One does not lower a relative to his property,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׁמוּאֵל אָמַר: מוֹרִידִין קָרוֹב לִנְכָסָיו.",
+          "english": "Shmuel said: One lowers a relative to his property."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִתְּמַר: שָׁבוּי שֶׁנִּשְׁבָּה, רַב אָמַר: אֵין מוֹרִידִין קָרוֹב לִנְכָסָיו, שְׁמוּאֵל אָמַר: מוֹרִידִין קָרוֹב לִנְכָסָיו.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "Limiting the dispute to cases where the captive's death is not known",
+      "stepSummary": "The Gemara clarifies that the dispute only applies when the captive's death is not confirmed; if death is known, all agree a relative can manage the property.",
+      "whatsHappening": "The Gemara narrows the scope of the dispute to a specific case.",
+      "deeperAnalysis": "If the captive is known to be dead, the relative is a prospective heir and will treat the property as his own. The dispute only arises when the captive is presumed alive, and the relative is merely a manager.",
+      "keyTerms": [
+        {
+          "term": "בְּשֶׁשָׁמְעוּ בּוֹ שֵׁם",
+          "meaning": "when they heard news of his death"
+        },
+        {
+          "term": "כּוּלֵּי עָלְמָא לָא פְּלִיגִי",
+          "meaning": "everyone agrees"
+        }
+      ],
+      "whatToRemember": "The dispute is limited to cases where the captive is presumed alive.",
+      "whyThisMatters": "This clarification is crucial for understanding the subsequent arguments, which focus on the risks of management when the owner is alive.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּשֶׁשָּׁמְעוּ בּוֹ שֶׁמֵּת –",
+          "english": "When they heard about him that he died –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּמוֹרִידִין.",
+          "english": "Everyone does not dispute that they descend."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּשֶׁשָׁמְעוּ בּוֹ שֵׁם – כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּמוֹרִידִין.",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        72
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_scope",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:12:1",
+            "hebrew": "בששמעו בו שמת כולי עלמא לא פליגי דמורידין - דאם יבאו הבעלים קודם שיאכל זה הפירות יטול זה כשאר אריסין ויחזיר השאר ואם יבאו עדים שמת ירש הכל:",
+            "english": "",
+            "takeaway": "רש״י explains that when it is known the captive is dead, all agree to lower the produce because if the owner returns before the fruits are eaten, the relative acts like a sharecropper (אריס) and returns the remainder, but if witnesses confirm the death, the relative inherits everything."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:12:1",
+            "hebrew": "בששמעו בו שמת כ\"ע ל\"פ דמורידין - אין לפרש בששמעו בב' עדים דא\"כ פשיטא דמורידין אלא ששמעו היינו בקול ועד אחד אע\"ג דשמעו בו שמת דבפ' ב' דייני גזירות (כתובות דף קז.) גבי אין פוסקין מזונות לאשת איש משמע סוגיא דהתם דהוי בעדות גמורה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that 'שמעו בו שמת' cannot mean hearing from two witnesses, as that would make the obligation to lower the produce obvious; rather, it refers to hearing a rumor or from a single witness, even though in כתובות it seems that such hearing constitutes full testimony."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges a potential reading of the Gemara that רש״י's explanation might imply, clarifying that the 'hearing' mentioned is not full testimony from two witnesses but rather a rumor or single witness, which makes the dispute relevant."
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "The reasons for Rav and Shmuel's positions",
+      "stepSummary": "The Gemara explains the reasoning behind each Amora's position: Rav fears devaluation, while Shmuel relies on the legal framework of appraisal.",
+      "whatsHappening": "The Gemara provides the underlying rationale for each side of the dispute.",
+      "deeperAnalysis": "Rav's concern is that a relative will not invest in the long-term value of the property, knowing he may have to return it. Shmuel counters that the legal principle of appraisal (כְּאָרִיס) ensures the relative is compensated fairly, incentivizing proper care.",
+      "keyTerms": [
+        {
+          "term": "דִּלְמָא מַפְסִיד לְהוּ",
+          "meaning": "lest he devalue it"
+        },
+        {
+          "term": "כְּאָרִיס",
+          "meaning": "as a sharecropper"
+        },
+        {
+          "term": "שָׁיְימִינַן לְהוּ",
+          "meaning": "we appraise for him"
+        }
+      ],
+      "whatToRemember": "Rav's concern is devaluation; Shmuel's counter is the legal framework of appraisal.",
+      "whyThisMatters": "Understanding the reasons is essential for evaluating the subsequent proofs and resolutions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כִּי פְּלִיגִי בְּשֶׁלֹּא שָׁמְעוּ בּוֹ שֶׁמֵּת.",
+          "english": "For they disagree in a case where they did not hear a report about him."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב אָמַר: אֵין מוֹרִידִין, דִּלְמָא מַפְסִיד לְהוּ.",
+          "english": "Rav says: They do not lower, lest he lose them."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּשְׁמוּאֵל אָמַר: מוֹרִידִין,",
+          "english": "And Shmuel says: They lower,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כֵּיוָן דְּאָמַר מָר שָׁיְימִינַן לְהוּ כְּאָרִיס,",
+          "english": "Since the Master said: We appraise them as a sharecropper,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא מַפְסֵיד לְהוּ.",
+          "english": "He does not lose them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כִּי פְּלִיגִי בְּשֶׁלֹּא שָׁמְעוּ בּוֹ שֵׁם. רַב אָמַר: אֵין מוֹרִידִין, דִּלְמָא מַפְסִיד לְהוּ. וּשְׁמוּאֵל אָמַר: מוֹרִידִין, כֵּיוָן דְּאָמַר מָר שָׁיְימִינַן לְהוּ כְּאָרִיס, לָא מַפְסֵיד לְהוּ.",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        73
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains_reasoning",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:13:1",
+            "hebrew": "מפסיד להו - ולא יזבל הקרעות ויזרעם תמיד ויכחישם:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav's concern is that the relative will not fertilize or consistently sow the fields, thereby degrading their quality."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:13:2",
+            "hebrew": "כיון דאמר מר - לקמן וכולם שמין להם כאריס אם יבאו הבעלים שמין לזה חלקו בכל שנה שעבד בה כמנהג אריסי העיר אם מחצה אם שליש אם רביע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Shmuel's reliance on the principle of כְּאָרִיס means the relative will be compensated annually according to the local custom for sharecroppers, whether half, a third, or a quarter of the produce."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Objection from a baraita about the punishment of captivity",
+      "stepSummary": "The Gemara raises an objection from a baraita that seems to prohibit any descent to the property of a captive, supporting Rav's view.",
+      "whatsHappening": "The Gemara challenges the dispute by citing a baraita that appears to rule against any management of a captive's property.",
+      "deeperAnalysis": "The baraita discusses the punishment of captivity, where the men are killed without witnesses. The verse states their wives will be widows and children orphans. The baraita explains this means the wives cannot remarry and the children cannot inherit. This seems to imply that no one can 'descend' to the property, supporting Rav's prohibition.",
+      "keyTerms": [
+        {
+          "term": "מִמַּשְׁמַע",
+          "meaning": "by inference"
+        },
+        {
+          "term": "וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם",
+          "meaning": "My wrath shall wax hot, and I will kill you"
+        },
+        {
+          "term": "וְהָיוּ נְשֵׁיכֶם וְגוֹ׳",
+          "meaning": "And your wives shall be widows and your children orphans"
+        },
+        {
+          "term": "מְבַקְּשׁוֹת לִנָּשֵׂא",
+          "meaning": "seek to marry"
+        },
+        {
+          "term": "רוֹצִים לֵירֵד לְנִכְסֵי אֲבִיהֶן",
+          "meaning": "wish to descend to their father's property"
+        }
+      ],
+      "whatToRemember": "The baraita discusses the punishment of captivity and the inability of children to inherit.",
+      "confusionAlert": "The term 'descend' in the baraita refers to inheritance, not management.",
+      "whyThisMatters": "This objection forces the Gemara to clarify the meaning of 'descend' in the context of the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר:",
+          "english": "He sat, Rabbi Eliezer says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִמַּשְׁמַע שֶׁנֶּאֱמַר ״וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם״",
+          "english": "From the implication that it is said, \"And My wrath shall burn and I will…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יוֹדֵעַ אֲנִי שֶׁנְּשׁוֹתֵיהֶם אַלְמָנוֹת וּבְנֵיהֶם יְתוֹמִים,",
+          "english": "I know that their wives are widows and their children orphans,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא מָה תַּלְמוּד לוֹמַר ״וְהָיוּ נְשֵׁיכֶם וְגוֹ׳״?",
+          "english": "But what does the verse come to say, \"And your wives etc.\"?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מְלַמֵּד שֶׁנְּשׁוֹתֵיהֶם מְבַקְּשׁוֹת לִינָּשֵׂא וְאֵין מַנִּיחִין אוֹתָן,",
+          "english": "It teaches that their wives seek to marry and they do not let them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּבְנֵיהֶן רוֹצִים לֵירֵד לְנִכְסֵי אֲבִיהֶן וְאֵין מַנִּיחִין אוֹתָן.",
+          "english": "And their children wish to descend to their father's property and they do not let them."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמַר רָבָא: לֵירֵד וְלִמְכּוֹר תְּנַן.",
+          "english": "Rava said: To descend and to sell we learned."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר: מִמַּשְׁמַע שֶׁנֶּאֱמַר ״וְחָרָה אַפִּי וְהָרַגְתִּי אֶתְכֶם״ יוֹדֵעַ אֲנִי שֶׁנְּשׁוֹתֵיהֶם אַלְמָנוֹת וּבְנֵיהֶם יְתוֹמִים, אֶלָּא מָה תַּלְמוּד לוֹמַר ״וְהָיוּ נְשֵׁיכֶם וְגוֹ׳״? מְלַמֵּד שֶׁנְּשׁוֹתֵיהֶם מְבַקְּשׁוֹת לִנָּשֵׂא וְאֵין מַנִּיחִין אוֹתָן, וּבְנֵיהֶן רוֹצִים לֵירֵד לְנִכְסֵי אֲבִיהֶן וְאֵין מַנִּיחִין אוֹתָן.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        74
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_with_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:15:1",
+            "hebrew": "אלא מלמד שנשיהם מבקשות לינשא כו' - שילכו בשבי ולא ידעו בניהם אם חיים אם מתים ויהיו נשיהם אלמנות לעולם שאין ב\"ד מניחין אותן לינשא ובניהם כיתומים שלא ירשו נכסיהם ושתי קללות הן אחת של חרב ואחת של שבי שמע מינה: אין מורידין:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita describes two curses: the wives become permanent widows because the court will not allow them to remarry while the husbands' fate is unknown, and the children become orphans who cannot inherit, thereby proving that no one is permitted to descend to the property."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:15:1",
+            "hebrew": "אמר רבא לירד ולמכור תנן - וא\"ת ואמאי לא פריך ממתניתין דהאשה שהלכה (יבמות דף קטז: ושם ד\"ה שאין) דקתני מצינו שאין אחים נכנסין לנחלה על פיה ולשני נמי לירד ולמכור תנן וי\"ל דמהכא אלימא ליה לאקשויי משום דדומיא דנשותיהם קתני דמשמע כלל כלל לא:",
+            "english": "",
+            "takeaway": "תוספות asks why the Gemara does not object from the Mishna in יבמות regarding a woman who went into captivity, and answers that the objection from this baraita is stronger because it explicitly lists the wives and children together, implying a general prohibition for all."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: 'descend' means 'descend and sell'",
+      "stepSummary": "Rava resolves the objection by clarifying that the baraita prohibits 'descending and selling', not merely managing the property.",
+      "whatsHappening": "רַבָּא resolves the objection by redefining the term 'descend'.",
+      "deeperAnalysis": "רַבָּא argues that the baraita's prohibition of 'descending' refers to selling the property, not managing it. This distinction allows for management (as שְׁמוּאֵל permits) while prohibiting sale (as the baraita states).",
+      "keyTerms": [
+        {
+          "term": "לֵירֵד וְלִמְכּוֹר",
+          "meaning": "to descend and to sell"
+        },
+        {
+          "term": "תְּנַן",
+          "meaning": "we learned"
+        }
+      ],
+      "whatToRemember": "רַבָּא distinguishes between managing and selling the property.",
+      "whyThisMatters": "This resolution is crucial for reconciling the baraita with שְׁמוּאֵל's permissive view.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מְלַמֵּד שֶׁנְּשׁוֹתֵיהֶם מְבַקְּשׁוֹת לִינָּשֵׂא וְאֵין מַנִּיחִין אוֹתָן,",
+          "english": "Teaches that their wives seek to marry and they do not let them,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּבְנֵיהֶן רוֹצִים לֵירֵד לְנִכְסֵי אֲבִיהֶן וְאֵין מַנִּיחִין אוֹתָן.",
+          "english": "and their sons wish to descend to their father's property and they do not let them."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רָבָא: לֵירֵד וְלִמְכּוֹר תְּנַן.",
+          "english": "Rava said: To descend and to sell we learned.",
+          "notes": "Refers to the baraita's ruling on inheriting property."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: לֵירֵד וְלִמְכּוֹר תְּנַן.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        75
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:15:1",
+            "hebrew": "אלא מלמד שנשיהם מבקשות לינשא כו' - שילכו בשבי ולא ידעו בניהם אם חיים אם מתים ויהיו נשיהם אלמנות לעולם שאין ב\"ד מניחין אותן לינשא ובניהם כיתומים שלא ירשו נכסיהם ושתי קללות הן אחת של חרב ואחת של שבי שמע מינה: אין מורידין:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita's mention of wives seeking to remarry and sons seeking to inherit refers to the two curses of the sword and captivity, from which we derive that the court does not allow them to act."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:15:1",
+            "hebrew": "אמר רבא לירד ולמכור תנן - וא\"ת ואמאי לא פריך ממתניתין דהאשה שהלכה (יבמות דף קטז: ושם ד\"ה שאין) דקתני מצינו שאין אחים נכנסין לנחלה על פיה ולשני נמי לירד ולמכור תנן וי\"ל דמהכא אלימא ליה לאקשויי משום דדומיא דנשותיהם קתני דמשמע כלל כלל לא:",
+            "english": "",
+            "takeaway": "תוספות asks why the Gemara does not derive the same resolution from the Mishnah in יבמות regarding a woman who went to her husband's house, and answers that the baraita here is a stronger source for the objection because it uses the general term 'descend' in parallel to the wives' situation, implying a general prohibition."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a practical case in נֵהַרְדָּעָא",
+      "stepSummary": "The Gemara relates a practical case where Rav Sheshet ruled against management, and Rav Amram challenges this ruling using Rava's distinction.",
+      "whatsHappening": "The גְּמָרָא presents a practical case that seems to contradict רַבָּא's resolution.",
+      "deeperAnalysis": "In נֵהַרְדָּעָא, רַב שֵׁשֶׁת ruled against management based on the baraita. רַב עַמְרָם challenges this by suggesting that רַב שֵׁשֶׁת's ruling might be based on a misunderstanding of the baraita, which only prohibits selling, not managing. רַב שֵׁשֶׁת dismisses this as specious reasoning.",
+      "keyTerms": [
+        {
+          "term": "הֲוָה עוֹבָדָא בְּנֵהַרְדָּעָא",
+          "meaning": "there was an incident in נֵהַרְדָּעָא"
+        },
+        {
+          "term": "פָּשַׁטְהָ רַב שֵׁשֶׁת מֵהָא מַתְנִיתָא",
+          "meaning": "רַב שֵׁשֶׁת derived the ruling from this מִשְׁנָה"
+        },
+        {
+          "term": "רַב עַמְרָם",
+          "meaning": "רַב עַמְרָם"
+        }
+      ],
+      "whatToRemember": "רַב שֵׁשֶׁת ruled against management, and רַב עַמְרָם challenged this using רַבָּא's distinction.",
+      "confusionAlert": "רַב שֵׁשֶׁת's ruling seems to contradict רַבָּא's resolution.",
+      "whyThisMatters": "This challenge forces the גְּמָרָא to further clarify the meaning of 'descend' and the scope of the baraita's prohibition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֲוָה עוֹבָדָא בִּנְהַרְדְּעָא, וּפַשְׁטַהּ רַב שֵׁשֶׁת מֵהָא מַתְנִיתָא.",
+          "english": "There was an incident in Neharde'a, and Rav Sheshet derived it from this Mishnah."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ רַב עַמְרָם: דִּלְמָא לֵירֵד וְלִמְכּוֹר תְּנַן?",
+          "english": "Rav Amram said to him: Perhaps we learned that he should descend and sell?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: דִּלְמָא מִפּוּמְבְּדִיתָא אַתְּ,",
+          "english": "He said to him: Perhaps you are from Pumbedita,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּמְעַיְּילִין פִּילָא בְּקוֹפָא דְמַחְטָא.",
+          "english": "where they insert an elephant into the eye of a needle.",
+          "notes": "A hyperbolic idiom for absurd or impossible reasoning."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָא דּוּמְיָא דִּנְשׁוֹתֵיהֶם [וּבְנֵיהֶם] קָתָנֵי,",
+          "english": "And here, the similarity of their wives [and their children] is stated,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מָה הָתָם כְּלָל לָא –",
+          "english": "What is there — not at all —"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַף הָכָא נָמֵי כְּלָל לָא.",
+          "english": "So too here — not at all."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הֲוָה עוֹבָדָא בְּנֵהַרְדָּעָא, וּפָשַׁטְהָ רַב שֵׁשֶׁת מֵהָא מַתְנִיתָא. אֲמַר לֵיהּ רַב עַמְרָם: דִּלְמָא לֵירֵד וְלִמְכּוֹר תְּנַן?",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        76
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:16:1",
+            "hebrew": "הוה עובדא בנהרדעא - בשבוי שירד יורשו לנכסיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the practical case in נהרדעא involved a captive whose heir descended to manage his property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:16:2",
+            "hebrew": "ופשטה רב ששת מהא מתניתא - דאין מורידין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רב ששת derived his ruling from the מיתנה that prohibits descending to manage the property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:16:3",
+            "hebrew": "א\"ל רב עמרם דלמא לירד ולמכור תנן - [קתני] תנא דאין מניחין אבל לעשות ולאכול וליטול כאריס שפיר דמי:",
+            "english": "",
+            "takeaway": "רש״י explains that רב עמרם's challenge suggests the תנא only prohibits leaving the property unattended, but permits managing, eating, and collecting profits like an אריס."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:16:4",
+            "hebrew": "דמעיילין פילא כו' - ומשני שנוייא דחיקא כמבקש להכניס פיל שהוא חיה גדולה בנקב מחט:",
+            "english": "",
+            "takeaway": "רש״י interprets the idiom about the elephant and needle as רב ששת dismissing רב עמרם's suggestion as a strained and implausible explanation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "מימרא",
+      "title": "The מִשְׁנָה's ruling on appointing a relative to captives' property",
+      "stepSummary": "The Mishna rules that the court appoints a relative to manage the property of a captive.",
+      "whatsHappening": "The sugya opens with the מִשְׁנָה's ruling on נִכְסֵי שָׁבוּי.",
+      "deeperAnalysis": "The מִשְׁנָה states וּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי. This is the baseline ruling that the גְּמָרָא will now explore and expand upon through a baraita.",
+      "keyTerms": [
+        {
+          "term": "מֹרִידִין",
+          "meaning": "the court appoints / descends to manage"
+        },
+        {
+          "term": "קָרוֹב",
+          "meaning": "a relative"
+        },
+        {
+          "term": "נִכְסֵי שָׁבוּי",
+          "meaning": "property of a captive"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי תַּנָּאֵי הִיא,",
+          "english": "And they lower close to captive property — it is a dispute of tanna'im,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתַנְיָא: הַיּוֹרֵד לְנִכְסֵי שָׁבוּי –",
+          "english": "As it is taught: One who descends to captive property —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין מוֹצִיאִין אוֹתוֹ מִיָּדוֹ,",
+          "english": "They do not remove it from his hand,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֹא עוֹד אֶלָּא אֲפִילּוּ שָׁמַע שֶׁמְּמַשְׁמְשִׁין וּבָאִין,",
+          "english": "And not only that, but even if he heard that they are coming and arriving,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְקָדַם וְתָלַשׁ וְאָכַל –",
+          "english": "And he preceded and uprooted and ate —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הֲרֵי זֶה זָרִיז וְנִשְׂכָּר.",
+          "english": "Behold this one is diligent and receives payment."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאֵלּוּ הֵן נִכְסֵי שְׁבוּיִין –",
+          "english": "And these are captive property —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי שֶׁהָיָה אָבִיו אוֹ אָחִיו אוֹ",
+          "english": "Behold that his father or his brother or"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֶחָד מִן הַמּוֹרִישִׁין,",
+          "english": "One of the inheritors,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הָלְכוּ לָהֶם לִמְדִינַת הַיָּם,",
+          "english": "Went for them to a land across the sea,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְשָׁמְעוּ בָּהֶן שֶׁמֵּת.",
+          "english": "And they heard about them that he died."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:17:1",
+            "hebrew": "ותלש - פירות שנה זו:",
+            "english": "",
+            "takeaway": "רש״י explains that תלש refers to harvesting the fruits of the current year."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:17:2",
+            "hebrew": "הרי זה זריז - מהיר לזכות בשלו בטרם יפסיד ונשכר בזריזותו:",
+            "english": "",
+            "takeaway": "רש״י explains that זריז ונשכר means the person is swift to acquire the property before it is lost and is rewarded for his swiftness."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:17:3",
+            "hebrew": "ואלו הן נכסי שבויין - דאמר אין מוציאין אותם מידו:",
+            "english": "",
+            "takeaway": "רש״י explains that the definition of נכסי שבויין provided here applies to the rule that one is not removed from possession of them."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:17:1",
+            "hebrew": "היורד לנכסי שבוי אין מוציאין אותו מידו - הוא הדין דאפי' מורידין אותו לכתחילה דהא נטושים מורידין לרשב\"ג דאמר הנטושים כשבויין אלא אגב דתנא בסיפא בנטושים מוציאין תנא נמי בשבויין אין מוציאין וא\"ת לימא רב הלכה כתנא קמא ושמואל הלכה כרשב\"ג וי\"ל דלא שמיע להו ברייתא אי נמי איכא דמפכי להו:",
+            "english": "",
+            "takeaway": "תוספות explains that the baraita's statement that one is not removed from נכסי שבויין implies that one may even appoint a relative initially, since נטושים are treated like שבויין according to רשב"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "מימרא",
+      "title": "Baraita defining נִכְסֵי שָׁבוּי, נִכְסֵי נְטוּשִׁים, and נִכְסֵי רְטוּשִׁים",
+      "stepSummary": "A baraita is cited defining the three categories of property and the respective rules for each.",
+      "whatsHappening": "The גְּמָרָא cites a baraita that expands on the מִשְׁנָה's topic, defining three types of property.",
+      "deeperAnalysis": "The baraita defines נִכְסֵי שָׁבוּי (heard dead), נִכְסֵי נְטוּשִׁים (not heard dead), and נִכְסֵי רְטוּשִׁים (left voluntarily). It rules that for שָׁבוּי, the manager keeps the produce (זָרִיז וְנִשְׂכָּר). For נְטוּשִׁים and רְטוּשִׁים, the court removes it from his hand. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל holds נְטוּשִׁים are like שָׁבוּי.",
+      "keyTerms": [
+        {
+          "term": "נִכְסֵי נְטוּשִׁים",
+          "meaning": "abandoned property"
+        },
+        {
+          "term": "נִכְסֵי רְטוּשִׁים",
+          "meaning": "property of those who left voluntarily"
+        },
+        {
+          "term": "זָרִיז וְנִשְׂכָּר",
+          "meaning": "diligent and profits"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמוֹרִידִין קָרוֹב לְנִכְסֵי שָׁבוּי תַּנָּאֵי הִיא,",
+          "english": "And they lower close to captive property — it is a tannaitic dispute,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתַנְיָא: הַיּוֹרֵד לְנִכְסֵי שָׁבוּי –",
+          "english": "For it is taught: One who descends to captive property —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין מוֹצִיאִין אוֹתוֹ מִיָּדוֹ,",
+          "english": "They do not remove it from his hand,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֹא עוֹד אֶלָּא אֲפִילּוּ שָׁמַע שֶׁמְּמַשְׁמְשִׁין וּבָאִין,",
+          "english": "And not only that, but even if he heard that they are coming and arriving,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְקָדַם וְתָלַשׁ וְאָכַל –",
+          "english": "And he preceded and uprooted and ate —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הֲרֵי זֶה זָרִיז וְנִשְׂכָּר.",
+          "english": "Behold this one is diligent and is rewarded."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאֵלּוּ הֵן נִכְסֵי שְׁבוּיִין –",
+          "english": "And these are captive property —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי שֶׁהָיָה אָבִיו אוֹ אָחִיו אוֹ",
+          "english": "Behold that his father or his brother or"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֶחָד מִן הַמּוֹרִישִׁין,",
+          "english": "One of the inheritors,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הָלְכוּ לָהֶם לִמְדִינַת הַיָּם,",
+          "english": "Went for them to a land overseas,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְשָׁמְעוּ בָּהֶן שֶׁמֵּת.",
+          "english": "And they heard about them a rumor."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "הַיּוֹרֵד לְנִכְסֵי נְטוּשִׁים – מוֹצִיאִין אוֹתוֹ מִיָּדוֹ.",
+          "english": "One who descends to abandoned property — they remove it from his hand."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְאֵלּוּ הֵן נִכְסֵי נְטוּשִׁים:",
+          "english": "And these are abandoned property:"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "הֲרֵי שֶׁהָיָה אָבִיו אוֹ אָחִיו אוֹ",
+          "english": "Behold that his father or his brother or"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "אֶחָד מִן הַמּוֹרִישִׁין,",
+          "english": "One of the inheritors,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "הָלְכוּ לָהֶם לִמְדִינַת הַיָּם וְלֹא שָׁמְעוּ בָּהֶם שֶׁמֵּת.",
+          "english": "Went for them to a land overseas and they did not hear about them a rumor."
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "וְאָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל: שָׁמַעְתִּי שֶׁהַנְּטוּשִׁים כִּשְׁבוּיִין.",
+          "english": "And Rabban Shimon ben Gamliel said: I heard that abandoned [property] is like captive [property]."
+        },
+        {
+          "phraseNumber": 18,
+          "aramaic": "הַיּוֹרֵד לְנִכְסֵי רְטוּשִׁים – מוֹצִיאִין אוֹתוֹ מִיָּדוֹ.",
+          "english": "One who descends to forsaken property — they remove it from his hand."
+        },
+        {
+          "phraseNumber": 19,
+          "aramaic": "וְאֵלּוּ הֵן נִכְסֵי רְטוּשִׁים –",
+          "english": "And these are forsaken property —"
+        },
+        {
+          "phraseNumber": 20,
+          "aramaic": "הֲרֵי שֶׁהָיָה אָבִיו אוֹ אָחִיו אוֹ",
+          "english": "Behold that his father or his brother or"
+        },
+        {
+          "phraseNumber": 21,
+          "aramaic": "אֶחָד מִן הַמּוֹרִישִׁין כָּאן,",
+          "english": "One of the inheritors is here,"
+        },
+        {
+          "phraseNumber": 22,
+          "aramaic": "וְאֵינוֹ יוֹדֵעַ לְהֵיכָן הָלְכוּ.",
+          "english": "And he does not know where they went."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנָּאֵי הִיא, דְּתַנְיָא: הַיּוֹרֵד לְנִכְסֵי שָׁבוּי...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        79
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "cites_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:17:2",
+            "hebrew": "הרי זה זריז - מהיר לזכות בשלו בטרם יפסיד ונשכר בזריזותו:",
+            "english": "",
+            "takeaway": "רש״י explains that זריז ונשכר means the manager is rewarded for his speed in acquiring the produce before it is lost."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 38b:19:1",
+            "hebrew": "נכסי רטושין - שהנכסים רטושים ולקמן מפרש להו רטושין משמע שעזבום בעלים מדעתם והלכו להם דכיון דהיה לו לצוות הורידו יורשיי לנכסי ולא צוה ש\"מ לא ניחא ליה ונטושים שנטשום בעליהם בעל כרחן כגון שנשבו והיינו תנאי דרבן שמעון סבר מורידין ורבנן סברי אין מורידין:",
+            "english": "",
+            "takeaway": "רש״י defines נכסי רטושים as property the owner voluntarily abandoned by leaving without appointing heirs, whereas נטושים are abandoned involuntarily, such as through captivity."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 38b:17:1",
+            "hebrew": "היורד לנכסי שבוי אין מוציאין אותו מידו - הוא הדין דאפי' מורידין אותו לכתחילה דהא נטושים מורידין לרשב\"ג דאמר הנטושים כשבויין אלא אגב דתנא בסיפא בנטושים מוציאין תנא נמי בשבויין אין מוציאין וא\"ת לימא רב הלכה כתנא קמא ושמואל הלכה כרשב\"ג וי\"ל דלא שמיע להו ברייתא אי נמי איכא דמפכי להו:",
+            "english": "",
+            "takeaway": "תוספות explains that the baraita's phrasing of 'no removal' for נכסי שבוים is merely to parallel the ruling on נטושים, and suggests that רב and שמואל may not have heard this baraita or might have reversed their positions."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "שאלה",
+      "title": "What is the difference between נְטוּשִׁים and רְטוּשִׁים?",
+      "stepSummary": "The Gemara asks why the baraita uses two different terms for property left behind.",
+      "whatsHappening": "The גְּמָרָא asks a neutral question about the terminology used in the baraita.",
+      "deeperAnalysis": "The baraita distinguishes between נְטוּשִׁים and רְטוּשִׁים. The גְּמָרָא asks what the conceptual difference is that warrants two different names.",
+      "keyTerms": [
+        {
+          "term": "מַאי שְׁנָא",
+          "meaning": "what is the difference"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי שְׁנָא הָנָךְ דְּקָרוּ לְהוּ ״נְטוּשִׁים״,",
+          "english": "What is different about these that they call them 'abandoned'?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּמַאי שְׁנָא הָנֵי דְּקָרוּ לְהוּ ״רְטוּשִׁים״?",
+          "english": "And what is different about these that they call them 'forsaken'?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי שְׁנָא הָנָךְ דְּקָרוּ לְהוּ ״נְטוּשִׁים״, וּמַאי שְׁנָא הָנֵי דְקָרוּ לְהוּ ״רְטוּשִׁים״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        80
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "asks_question"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T21:19:46.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.8241696000332,
+      "structure": 2500.7851663000183,
+      "validate": 341.53876510006376,
+      "translate": 467.97660319990246,
+      "meforshim": 1608.2876229001558,
+      "teaching": 1088.4483936000615
+    }
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "ref": "Bava Metzia 12b",
+  "masechet": "Bava_Metzia",
+  "daf": 12,
+  "amud": "b",
+  "mainTopic": "מציאת אשתו שגירשה",
+  "overview": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 13,
+      "endLine": 23,
+      "topic": "מציאת אשתו שגירשה",
+      "gist": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her. — discussion continues into next amud.",
+      "openingFormula": "מציאת אשתו",
+      "firstStepNumber": 1,
+      "lastStepNumber": 9
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: If she is divorced, why does the משנה need to teach this?",
+      "stepSummary": "The Gemara challenges the Mishnah's statement about a divorced wife's find, asking why it is necessary to teach this if it is obvious that the find belongs to her.",
+      "whatsHappening": "The גמרא opens with a challenge to the משנה's wording, questioning the necessity of the statement. This is a קשיא attacking redundancy.",
+      "deeperAnalysis": "The גמרא assumes that once a woman is divorced, she is no longer subject to her husband's rights, so her find should obviously belong to her. The challenge attacks the redundancy of the משנה's explicit mention.",
+      "keyTerms": [
+        {
+          "term": "מְצִיאַת אִשְׁתּוֹ",
+          "meaning": "The find of his wife"
+        },
+        {
+          "term": "גֵּירְשָׁהּ",
+          "meaning": "He divorced her"
+        },
+        {
+          "term": "פְּשִׁיטָא",
+          "meaning": "It is obvious"
+        }
+      ],
+      "whatToRemember": "The גמרא is looking for a non-obvious case to explain the משנה.",
+      "whyThisMatters": "It sets up the need for a specific halachic scenario to explain the משנה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מְצִיאַת אִשְׁתּוֹ. גֵּירְשָׁהּ פְּשִׁיטָא!",
+          "english": "Finding his wife. He divorced her — it is obvious!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מְצִיאַת אִשְׁתּוֹ. גֵּירְשָׁהּ פְּשִׁיטָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The case of 'megoreses v'einah megoreses' where the husband supports her",
+      "stepSummary": "The Gemara resolves the challenge by identifying the case as one of 'megoreses v'einah megoreses', where the husband is still obligated to support her, and thus might claim her find.",
+      "whatsHappening": "The גמרא provides the specific case that makes the משנה's statement necessary. This is a תירוץ introducing a new scenario.",
+      "deeperAnalysis": "The resolution introduces the concept of 'megoreses v'einah megoreses' (divorced but not divorced), a state of uncertainty where the husband remains obligated to provide sustenance. This creates a potential claim to her find, making the משנה's ruling non-obvious.",
+      "keyTerms": [
+        {
+          "term": "מְגוֹרֶשֶׁת וְאֵינָהּ מְגוֹרֶשֶׁת",
+          "meaning": "Divorced and not divorced (uncertain status)"
+        },
+        {
+          "term": "חַיָּב בִּמְזוֹנוֹתֶיהָ",
+          "meaning": "Obligated in her sustenance"
+        }
+      ],
+      "whatToRemember": "The משנה refers to a case of uncertainty in the divorce status.",
+      "whyThisMatters": "It establishes the specific context for the משנה's ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן?",
+          "english": "Here, with what are we dealing?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בִּמְגוֹרֶשֶׁת וְאֵינָהּ מְגוֹרֶשֶׁת,",
+          "english": "In one who is divorced and she is not divorced,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמַר רַבִּי זֵירָא אָמַר שְׁמוּאֵל:",
+          "english": "For Rabbi Zeira says that Shmuel says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כׇּל מָקוֹם שֶׁאָמְרוּ חֲכָמִים ״מְגוֹרֶשֶׁת וְאֵינָהּ מְגוֹרֶשֶׁת״ –",
+          "english": "Every place that the Sages said \"divorced and not divorced\" –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בַּעְלָהּ חַיָּיב בִּמְזוֹנוֹתֶיהָ.",
+          "english": "her husband is obligated in her sustenance."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא בְּמַאי עָסְקִינַן? בִּמְגוֹרֶשֶׁת וְאֵינָהּ מְגוֹרֶשֶׁת",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:14:1",
+            "hebrew": "במגורשת ואינה מגורשת - כגון זרק לה גיטה ספק קרוב לה ספק קרוב לו ברה\"ר:",
+            "english": "",
+            "takeaway": "רש״י explains that the case of מגורשת ואינה מגורשת refers to a situation where a גט was thrown and there is doubt whether it landed closer to her or him in a רשות הרבים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:14:2",
+            "hebrew": "חייב במזונותיה - ומשום הכי אצטריך לאשמועינן דמציאתה שלה דטעמא מאי אמור רבנן מציאת האשה כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah needed to teach that her מציאה belongs to her specifically because the husband is obligated in her מזונות, which might otherwise lead one to think the מציאה belongs to him."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The reason for the ruling is to avoid enmity, but here enmity is desired",
+      "stepSummary": "The Gemara explains that the reason a wife's find belongs to her husband is to avoid enmity, but in this case of uncertainty, enmity is actually desired to push for a resolution.",
+      "whatsHappening": "The גמרא provides the underlying rationale for the משנה's ruling in this specific case. This is a תירוץ explaining the policy.",
+      "deeperAnalysis": "The גמרא explains that the general rule (wife's find belongs to husband) is based on avoiding enmity (אֵיבָה). However, in a case of 'megoreses v'einah megoreses', enmity is actually beneficial because it might push the husband to finalize the divorce. Therefore, the find belongs to her.",
+      "keyTerms": [
+        {
+          "term": "אֵיבָה",
+          "meaning": "Enmity"
+        },
+        {
+          "term": "חָכָמִים",
+          "meaning": "The Sages"
+        }
+      ],
+      "whatToRemember": "The rationale for the ruling is based on the desired outcome of enmity.",
+      "whyThisMatters": "It explains the policy behind the halachic ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "טַעְמָא מַאי אֲמוּר רַבָּנַן מְצִיאַת אִשָּׁה לְבַעְלָהּ,",
+          "english": "What is the reason that the Sages said that a find of a woman is to her…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי הֵיכִי דְּלָא תֶּיהְוֵי לַהּ אֵיבָה.",
+          "english": "So that she should not have enmity."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא אִית לַהּ אֵיבָה וְאֵיבָה.",
+          "english": "Here she has enmity and enmity.",
+          "notes": "The double enmity refers to the husband's anger at supporting her while she keeps finds, plus the uncertainty of her marital status."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "טַעְמָא מַאי אֲמָרוּ חָכָמִים מְצִיאַת אִשָּׁה לְבַעְלָהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains_rationale"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Mishnah: Rules for finding promissory notes with and without property guarantee",
+      "stepSummary": "The Gemara introduces a new Mishnah discussing the rules for finding promissory notes, distinguishing between those with and without a property guarantee.",
+      "whatsHappening": "The גמרא transitions to a new Mishnah about found promissory notes. It introduces a dispute between רַבִּי מֵאִר and חָכָמִים regarding returning these documents.",
+      "deeperAnalysis": "רַבִּי מֵאִר distinguishes based on whether the note includes a property guarantee. חָכָמִים rule that the finder should not return them in either case.",
+      "keyTerms": [
+        {
+          "term": "שִׁטְרֵי חוֹב",
+          "meaning": "Promissory notes"
+        },
+        {
+          "term": "אַחְרָיוּת נְכָסִים",
+          "meaning": "Property guarantee"
+        },
+        {
+          "term": "רַבִּי מֵאִר",
+          "meaning": "Rabbi Meir"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ מָצָא שִׁטְרֵי חוֹב,",
+          "english": "MISHNA: One who found promissory notes,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם יֵשׁ בָּהֶן אַחְרָיוּת נְכָסִים –",
+          "english": "if they include a property guarantee –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא יַחְזִיר, שֶׁבֵּית דִּין נִפְרָעִין מֵהֶן.",
+          "english": "he may not return them, the court collects from them."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין בָּהֶן אַחְרָיוּת נְכָסִים – יַחְזִיר,",
+          "english": "They do not include a property guarantee – he returns them,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁאֵין בֵּית דִּין נִפְרָעִין מֵהֶן,",
+          "english": "as the court does not collect from them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים:",
+          "english": "these are the words of Rabbi Meir. And the Rabbis say:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בֵּין כָּךְ וּבֵין כָּךְ לֹא יַחְזִיר,",
+          "english": "in both this case and that case he may not return them,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִפְּנֵי שֶׁבֵּית דִּין נִפְרָעִין מֵהֶן.",
+          "english": "because the court collects from them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ מָצָא שִׁטְרֵי חוֹב",
+      "macroPhase": "mishnah",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:16:1",
+            "hebrew": "מתני' אחריות נכסים - שעבוד קרקעות שיגבה מהן:",
+            "english": "",
+            "takeaway": "רש״י explains that אחריות נכסים refers to שעבוד קרקעות, meaning the creditor can collect the debt from the debtor's real estate."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:16:2",
+            "hebrew": "יחזיר ולא יחזיר - טעמא בגמ' מפרש:",
+            "english": "",
+            "takeaway": "רש״י notes that the rationale for the dispute between רבי מאיר and חכמים regarding whether to return the notes is explained in the גמרא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not return the note if the debtor admits, or return it if he doesn't?",
+      "stepSummary": "The Gemara challenges the Mishnah's ruling by questioning why the finder should not return the note if the debtor admits to the debt, or why he should return it if the debtor does not admit.",
+      "whatsHappening": "The גמרא raises a difficulty with the Mishnah's ruling based on the debtor's admission. It questions why the property guarantee distinction matters.",
+      "deeperAnalysis": "If the debtor admits, returning the note seems harmless. If he does not admit, returning it seems beneficial to the creditor. This attacks the Mishnah's logic.",
+      "keyTerms": [
+        {
+          "term": "חַיָּב מוֹדֶה",
+          "meaning": "The debtor admits"
+        },
+        {
+          "term": "בְּנֵי חָרֵי",
+          "meaning": "Unsold property"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ בְּמַאי עָסְקִינַן?",
+          "english": "With what case are we dealing?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִילֵימָא כְּשֶׁחַיָּיב מוֹדֶה,",
+          "english": "If we say it is when the liable party admits,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי יֵשׁ בָּהֶן אַחְרָיוּת נְכָסִים אַמַּאי לֹא יַחְזִיר?",
+          "english": "Since they have property guarantee, why should he not return?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא מוֹדֶה! וְאִי כְּשֶׁאֵין חַיָּיב מוֹדֶה,",
+          "english": "Here he admits! And if it is when the liable party does not admit,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי אֵין בָּהֶן אַחְרָיוּת נְכָסִים אַמַּאי יַחְזִיר?",
+          "english": "Since they do not have property guarantee, why should he return?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "נְהִי דְּלָא גָּבֵי מִמְּשַׁעְבְּדֵי –",
+          "english": "Granted, he does not collect from liened property –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מִבְּנֵי חָרֵי מִגְבָּא גָּבֵי!",
+          "english": "From unsold property he collects!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּמַאי עָסְקִינַן? אִילֵימָא כְּשֶׁחַיָּב מוֹדֶה",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_ruling",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:18:1",
+            "hebrew": "גמ' כשחייב מודה - שהלוה מודה שהשטר אינו פרוע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the scenario of the debtor admitting refers to the debtor acknowledging that the loan document has not been paid off."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:18:2",
+            "hebrew": "אמאי לא יחזיר - אם לטרוף לקוחות בא בדין הוא טורפן:",
+            "english": "",
+            "takeaway": "רש״י explains that if the creditor were to return the note, he could still legally collect from the buyers who purchased the debtor's property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:18:3",
+            "hebrew": "ממשעבדי - ממקרקעי שמכר אחר כן:",
+            "english": "",
+            "takeaway": "רש״י defines משעבדי as the real estate that the debtor sold after the loan was issued."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Concern that the note was written in Nisan but the loan occurred in Tishrei",
+      "stepSummary": "The Gemara resolves the challenge by explaining that the concern is that the note was written in Nisan but the loan occurred in Tishrei, leading to unlawful repossession of land sold in between.",
+      "whatsHappening": "The גמרא provides the reason for the Mishnah's ruling. It introduces the concept of pre-dating a promissory note.",
+      "deeperAnalysis": "If the note was written in נִיסָן but the loan occurred in תִּשְׁרֵי, land sold between those months is not liened. Returning the note would allow unlawful repossession.",
+      "keyTerms": [
+        {
+          "term": "נִיסָן",
+          "meaning": "Nisan (month)"
+        },
+        {
+          "term": "תִּשְׁרֵי",
+          "meaning": "Tishrei (month)"
+        },
+        {
+          "term": "לִטְרַף",
+          "meaning": "To repossess"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְעוֹלָם כְּשֶׁחַיָּיב מוֹדֶה,",
+          "english": "Always when the liable one admits,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָכָא הַיְינוּ טַעְמָא:",
+          "english": "and here this is the reason:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּחָיְישִׁינַן שֶׁמָּא כָּתַב לִלְוֹת בְּנִיסָן וְלֹא",
+          "english": "that we are concerned perhaps he wrote to borrow in Nisan and did not"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָוָה עַד תִּשְׁרִי,",
+          "english": "borrow until Tishrei,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאָתֵי לְמִטְרַף לָקוֹחוֹת שֶׁלֹּא כַּדִּין.",
+          "english": "and he comes to repossess the purchased ones not according to law."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לְעוֹלָם כְּשֶׁחַיָּב מוֹדֶה, וְהָכָא הַיְינוּ טַעְמָא",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 12b:19:1",
+            "hebrew": "ולא לוה עד תשרי - פירוש ועתה רוצה ללות בו שיש לו טורח לכתוב שטר אחר וגם כדי להרויח פשיטי דספרא אבל אין לפרש שכבר לוה בו קודם שנפל דא\"כ מאי משני הני ריעי לפי שנפל ויש הוכחה דמשום פסולו לא נזהר לשומרו והא לוה בו כבר ופשיטא שנזהר לשומרו:",
+            "english": "",
+            "takeaway": "תוספות explains that the phrase 'and did not borrow until Tishrei' means the creditor now wants to borrow using this note to avoid the trouble of writing a new one and to benefit from the leniencies of a פשיטא דספרא, rather than having already borrowed with it before it was lost, which would contradict the debtor's claim that he was not careful to guard it."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: If so, we should suspect all promissory notes",
+      "stepSummary": "The Gemara challenges the resolution by asking why we should not suspect all promissory notes of being pre-dated.",
+      "whatsHappening": "The גמרא raises a difficulty with the resolution. It argues that the concern about pre-dating should apply to all notes.",
+      "deeperAnalysis": "If we suspect pre-dating, this concern should apply to all promissory notes, not just found ones. This challenges the specificity of the Mishnah's ruling.",
+      "keyTerms": [
+        {
+          "term": "נֵיחוּשׁ",
+          "meaning": "Let us suspect"
+        },
+        {
+          "term": "שִׁטְרֵי",
+          "meaning": "Documents"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי,",
+          "english": "If so,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֹּל שְׁטָרֵי דְּאָתוּ לְקַמַּן נֵיחוּשׁ לְהוּ הָכִי!",
+          "english": "All documents that come before us, let us suspect them thus!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, כֹּל שִׁטְרֵי דְּאָתוּ לְקַמָּן נֵיחוּשׁ לְהוּ הָכִי!",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_resolution"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: All promissory notes are not suspect, but these are",
+      "stepSummary": "The Gemara resolves the challenge by distinguishing between promissory notes in general and those that are found.",
+      "whatsHappening": "The גמרא provides a distinction to resolve the challenge. It explains why found notes are uniquely suspect.",
+      "deeperAnalysis": "Promissory notes in general are not suspect because they are in the creditor's possession. Found notes are suspect because their loss compromises their credibility.",
+      "keyTerms": [
+        {
+          "term": "רִיעֵי",
+          "meaning": "Suspect"
+        },
+        {
+          "term": "הָנֵי",
+          "meaning": "These"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כֹּל שְׁטָרֵי לָא רִיעֵי, הָנֵי רִיעֵי.",
+          "english": "All promissory notes are not suspect, these are suspect."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כֹּל שִׁטְרֵי לָא רִיעֵי, הָנֵי רִיעֵי.",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 12b:21:1",
+            "hebrew": "הני ריעי - הואיל ונפל אתרע דיש לומר אם היה כשר היה נזהר בו:",
+            "english": "",
+            "takeaway": "רש״י explains that these promissory notes are suspect because their loss indicates they were likely invalid, as a valid note would have been safeguarded by the creditor."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: How can we write a note for a borrower in the lender's absence?",
+      "stepSummary": "The Gemara challenges the resolution by citing a Mishnah that allows writing a promissory note for a borrower even if the lender is not present.",
+      "whatsHappening": "The גמרא raises a difficulty with the resolution based on another Mishnah. It cites a ruling permitting writing a note in the lender's absence.",
+      "deeperAnalysis": "This challenges the assumption that found notes are suspect because they were written in the lender's absence. The Mishnah permits such notes.",
+      "keyTerms": [
+        {
+          "term": "מַלְוֶה",
+          "meaning": "Lender"
+        },
+        {
+          "term": "לִלְוֹת",
+          "meaning": "To borrow"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא הָא דִּתְנַן:",
+          "english": "But this that we learned:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כּוֹתְבִין שְׁטָר לַלֹּוֶה אַף עַל פִּי",
+          "english": "We write a promissory note for the borrower even though"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁאֵין מַלְוֶה עִמּוֹ.",
+          "english": "the lender is not with him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְכַתְּחִילָּה הֵיכִי כָּתְבִינַן?",
+          "english": "At the outset, how do we write?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נֵיחוּשׁ שֶׁמָּא כָּתַב לִלְוֹת בְּנִיסָן וְלֹא",
+          "english": "Let us test: perhaps he wrote to borrow in Nisan and did not"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָוָה עַד תִּשְׁרִי,",
+          "english": "borrow until Tishrei,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאָתֵי לְמִטְרַף לָקוֹחוֹת שֶׁלֹּא כַּדִּין!",
+          "english": "and comes to repossess from the purchasers unlawfully!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא הָא דִּתְנַן: כּוֹתְבִין שִׁטָּר לַלּוֹוֶה אַף עַל פִּי שֶׁאֵין מַלְוֶה עִמּוֹ",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_resolution",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 12b:22:1",
+            "hebrew": "כותבין שטר ללוה אף על פי שאין מלוה עמו - וליכא למיחש למחזי לשקרא כמו באשרתא דדייני דאם כתבו קודם דנחזי חתימת ידי סהדי פסולה דהכא כיון שהוא כותב חובתו לא שייך מחזי כשקרא:",
+            "english": "",
+            "takeaway": "תוספות explains that writing a note for the borrower in the lender's absence is permitted because it does not appear fraudulent, unlike a document written before the witnesses' signatures are verified, since the borrower is writing his own debt."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Rav Asi says it refers to deeds of transfer",
+      "stepSummary": "The Gemara resolves the challenge by citing Rav Asi, who explains that the Mishnah refers to deeds of transfer.",
+      "whatsHappening": "The גמרא provides a resolution by citing רַב אַסִּי. He distinguishes between types of documents.",
+      "deeperAnalysis": "רַב אַסִּי explains that the Mishnah refers to deeds of transfer, where the debtor obligates himself from the date of writing. This distinguishes them from ordinary promissory notes.",
+      "keyTerms": [
+        {
+          "term": "שִׁטְרֵי הַקְנָאָה",
+          "meaning": "Deeds of transfer"
+        },
+        {
+          "term": "שַׁעְבֵּד נַפְשֵׁיהּ",
+          "meaning": "He obligated himself"
+        },
+        {
+          "term": "רַב אַסִּי",
+          "meaning": "Rav Asi"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב אַסִּי: בִּשְׁטָרֵי הַקְנָאָה, דְּהָא שַׁעְבֵּיד נַפְשֵׁיהּ.",
+          "english": "Rav Asi said: In documents of acquisition, for he has encumbered himself."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב אַסִּי: בִּשְׁטָרֵי הַקְנָאָה",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T05:25:53.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 63.67425949999597,
+      "structure": 977.2287558000535,
+      "translate": 289.8538480999996,
+      "meforshim": 389.8565573999076,
+      "teaching": 520.3873568999697
+    }
+  }
+}

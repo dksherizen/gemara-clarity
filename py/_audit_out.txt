@@ -1,0 +1,122 @@
+
+=== Bava_Metzia_24a.json: 2/13 flagged (15%) ===
+  step 4 [שאלה] Question on the meaning of בַּדֵּי
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+  step 7 [ראיה] Proof from a בריתא about coins in synagogues and study halls
+     · MISMATCH: label='ראיה' but pattern says should be 'קשיא' (תא שמע citing source as challenge)
+
+=== Bava_Metzia_28b.json: 2/19 flagged (11%) ===
+  step 2 [מימרא] The Baraita on the evolution of proclamation practices
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+  step 4 [מימרא] The Baraita on the Claimant's Stone in Jerusalem
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+
+=== Bava_Metzia_34a.json: 2/18 flagged (11%) ===
+  step 3 [שאלה] Why is the Mishna's ruling unqualified?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+  step 17 [שאלה] Were the two statements learned together?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_38a.json: 2/16 flagged (12%) ===
+  step 1 [תירוץ] Clarification: Rabbi Yosei's reason is loss of the ramay
+     · MISMATCH: label='תירוץ' but pattern says should be 'קשיא' (והא [contradiction])
+  step 16 [שאלה] What use are spoiled oil and honey?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_15a.json: 1/23 flagged (4%) ===
+  step 7 [ראיה] Proof from שְׁמוּאֵל's instruction
+     · MISMATCH: label='ראיה' but pattern says should be 'קשיא' (והא [contradiction])
+
+=== Bava_Metzia_16b.json: 1/16 flagged (6%) ===
+  step 5 [ראיה] Conclusion: Specific field is like a specific woman
+     · MISMATCH: label='ראיה' but pattern says should be 'קשיא' (והא [contradiction])
+
+=== Bava_Metzia_17a.json: 1/20 flagged (5%) ===
+  step 13 [שאלה] Clarifying question about the timing of the second loan
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_17b.json: 1/8 flagged (12%) ===
+  step 6 [תשובה] Proof from the Mishnah in Ketubot
+     · SEQUENCE: 'תשובה' immediately after 'קשיא' — almost always תירוץ
+
+=== Bava_Metzia_20b.json: 1/26 flagged (4%) ===
+  step 9 [שאלה] What does the finder proclaim?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_23b.json: 1/12 flagged (8%) ===
+  step 2 [שאלה] Question to Rav Sheshet: Is number a valid siman?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_25b.json: 1/14 flagged (7%) ===
+  step 12 [שאלה] Question: What is the relevance of the בריתא's reasoning acc
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_28a.json: 1/23 flagged (4%) ===
+  step 21 [מימרא] The Baraita on specifying the festival number
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+
+=== Bava_Metzia_3a.json: 1/14 flagged (7%) ===
+  step 12 [מימרא] רַבִּי חִיָּה's teaching on partial admission via witnesses
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+
+=== Bava_Metzia_40a.json: 1/19 flagged (5%) ===
+  step 13 [שאלה] Question: How large is a large measure?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_42a.json: 1/13 flagged (8%) ===
+  step 7 [מימרא] Modern exceptions: roof beams, between bricks, and corners
+     · MISMATCH: label='מימרא' but pattern says should be 'קשיא' (והא [contradiction])
+
+=== Bava_Metzia_43b.json: 1/13 flagged (8%) ===
+  step 10 [שאלה] רַבִּי זֵירָא's inquiry to רַבִּי יַעֲקֹב בַּר אִידִי
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_44a.json: 1/15 flagged (7%) ===
+  step 6 [שאלה] רַב אָשֵׁי's question on lifting an אַרְנָקִי
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_44b.json: 1/13 flagged (8%) ===
+  step 13 [שאלה] Who is רַבִּי יוֹחָנָן?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_48a.json: 1/13 flagged (8%) ===
+  step 10 [שאלה] Source for רֵישׁ לָקִישׁ from a ברייתא
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_4a.json: 1/15 flagged (7%) ===
+  step 14 [שאלה] How would רַב חִיָּה respond to the rabbinic enactment?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_58b.json: 1/15 flagged (7%) ===
+  step 12 [מימרא] Public Humiliation as Spilling Blood
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+
+=== Bava_Metzia_5b.json: 1/18 flagged (6%) ===
+  step 7 [שאלה] Why is an שְׁבוּעָה necessary at all?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_64a.json: 1/11 flagged (9%) ===
+  step 7 [שאלה] According to which Tanna does רַב rule?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_66b.json: 1/20 flagged (5%) ===
+  step 18 [ראיה] Proof from רַב נַחְמָן's teaching on palm fruit
+     · MISMATCH: label='ראיה' but pattern says should be 'קשיא' (והא [contradiction])
+
+=== Bava_Metzia_6a.json: 1/17 flagged (6%) ===
+  step 17 [ראיה] Proof from a disputed bathhouse
+     · MISMATCH: label='ראיה' but pattern says should be 'קשיא' (תא שמע citing source as challenge)
+
+=== Bava_Metzia_7a.json: 1/19 flagged (5%) ===
+  step 7 [מימרא] רַב תַּחְלִיפָא's teaching on disputed garments and רַבִּי א
+     · REVIEW: opener pattern 'תניא/תנו רבנן (could be מימרא if standalone, but flag for review)' present; check label='מימרא'
+
+=== Bava_Metzia_7b.json: 1/15 flagged (7%) ===
+  step 11 [שאלה] Question: What is the Novelty of רַבִּי יוֹחָנָן's Ruling?
+     · SEQUENCE: 'שאלה' immediately after 'קשיא' without resolution — usually a follow-up קשיא
+
+=== Bava_Metzia_9a.json: 1/17 flagged (6%) ===
+  step 13 [דחיה] Rejection of Rabbi Abbahu's Opinion
+     · MISMATCH: label='דחיה' but pattern says should be 'קשיא' (והא [contradiction])
+
+OVERALL: 32/1574 steps flagged (2.0%) across 120 amudim

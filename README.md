@@ -36,7 +36,7 @@ Per-pass routing is overridable via `PASS_<NAME>_PROVIDER` env vars.
 ## Project layout
 
 ```
-v2/
+.
 ├── index.html, vite.config.ts, tsconfig.json, package.json
 ├── .env.example, .gitignore, README.md
 ├── src/

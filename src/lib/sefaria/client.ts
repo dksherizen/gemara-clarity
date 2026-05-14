@@ -40,10 +40,11 @@ export interface MeforeshWithText extends MeforeshLink {
   english: string;
 }
 
-// Rashi only — keeps the pipeline focused and dramatically lowers cost.
-// Override per-call with options.extraSeforim or options.replaceCoreMeforshim.
+// Rashi + Tosafot — required for Bavli, especially Bava Metzia where Tosafot
+// is foundational. Override per-call with options.extraSeforim.
 const CORE_MEFORSHIM = new Set([
   "Rashi",
+  "Tosafot",
 ]);
 
 function flattenStrings(value: SefariaTextResponse["text"]): string[] {

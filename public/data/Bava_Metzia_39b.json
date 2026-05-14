@@ -1,0 +1,905 @@
+{
+  "ref": "Bava Metzia 39b",
+  "masechet": "Bava_Metzia",
+  "daf": 39,
+  "amud": "b",
+  "mainTopic": "ירושת אבד ופוטרין לתינוק · האח מבי חוזאיי",
+  "overview": "(1) The Gemara discusses the inheritance rights of a missing person's relatives and the dilemma of appointing a guardian for a minor's potential inheritance. (2) A story about a man claiming to be a brother and demanding inheritance, leading to a dispute over improvements made to the property. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 6,
+      "topic": "ירושת אבד ופוטרין לתינוק",
+      "gist": "The Gemara discusses the inheritance rights of a missing person's relatives and the dilemma of appointing a guardian for a minor's potential inheritance.",
+      "openingFormula": "ואפילו הגדיל",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 7,
+      "endLine": 10,
+      "topic": "האח מבי חוזאיי",
+      "gist": "A story about a man claiming to be a brother and demanding inheritance, leading to a dispute over improvements made to the property. — discussion continues into next amud.",
+      "openingFormula": "מרי בר איסק אתא ליה אחא מבי חוזאיי",
+      "firstStepNumber": 7,
+      "lastStepNumber": 9
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Even if the minor reached majority",
+      "stepSummary": "The Gemara states that even if the minor reached majority, the relative does not acquire presumptive ownership.",
+      "whatsHappening": "The גמרא concludes a prior discussion by stating that even if a minor reached majority, a relative occupying his property does not gain חזקה. This is a setup line transitioning to the next topic.",
+      "deeperAnalysis": "The text asserts that ignorance of ownership prevents חזקה from taking effect, even after the minor grows up. This establishes the baseline principle that awareness is required for presumptive ownership to apply.",
+      "keyTerms": [
+        {
+          "term": "הִגְדִּיל",
+          "meaning": "reached majority"
+        },
+        {
+          "term": "חֲזָקָה",
+          "meaning": "presumptive ownership"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַאֲפִילּוּ הִגְדִּיל.",
+          "english": "And even if he increased."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַאֲפִילּוּ הִגְדִּיל.",
+      "macroPhase": "conclusion",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "conclusion",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:1:1",
+            "hebrew": "ואפי' הגדיל - הקטן משירד לתוכו ואכלו ג' שנים בפניו משהגדיל לא הויא חזקה דהואיל ותחילת ירידתו לתוכו הוה קטן לא ידע כשהגדיל שהן של אביו ולפיכך לא מיחה דאי ס\"ל לרב הונא דמחזיקין בהן משהגדיל היכי מחתינן נכרי לנכסי קטן שמא יהא בידו משיגדיל ויטעון אתה מכרת לי משגדלת ואכלתים שני חזקה:",
+            "english": "",
+            "takeaway": "רש״י explains that even after the minor reaches majority, the relative's occupation does not constitute חזקה because the minor, having entered the property as a minor, would not have known upon reaching majority that the property belonged to his father and therefore would not have protested."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Limitations on appointing a relative for a minor's property",
+      "stepSummary": "The Gemara lists specific limitations on when a relative can manage a minor's property: only paternal brothers, only land, and only if no document of division exists.",
+      "whatsHappening": "The גמרא lists three specific limitations on the rule that a relative cannot manage a minor's property. This is a setup line introducing potential exceptions.",
+      "deeperAnalysis": "The text specifies that the rule only applies to paternal brothers, land, and cases without an עיטדא. In excluded cases, the relative can manage the property because there is publicity or different inheritance dynamics.",
+      "keyTerms": [
+        {
+          "term": "אַחֵי דְּאַבָּא",
+          "meaning": "paternal brothers"
+        },
+        {
+          "term": "אַחֵי דְּאִמָּא",
+          "meaning": "maternal brothers"
+        },
+        {
+          "term": "עִיטְדָּא",
+          "meaning": "document of division"
+        },
+        {
+          "term": "קָלָא",
+          "meaning": "publicity"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְלָא אֲמַרַן אֶלָּא בְּאַחֵי דְאַבָּא,",
+          "english": "And we said only in paternal brothers,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲבָל בְּאַחֵי דְאִמָּא לֵית לַן בַּהּ.",
+          "english": "But in maternal brothers we have no concern with it."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַאֲחֵי דְאַבָּא נָמֵי לָא אֲמַרַן אֶלָּא בְּאַרְעָתָא,",
+          "english": "And paternal brothers too we said only in land,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל בְּבָתֵּי לֵית לַן בַּהּ.",
+          "english": "But in houses we have no concern with it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּבְאַרְעָתָא נָמֵי לָא אֲמַרַן אֶלָּא דְּלָא עֲבִיד עִיטְדָּא,",
+          "english": "And in land too we said only that he did not make a division document,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲבָל עֲבִיד עִיטְדָּא –",
+          "english": "But he made a division document –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "קָלָא אִית לַהּ.",
+          "english": "It has publicity."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלָא אֲמַרַן אֶלָּא בְּאַחֵי דְּאַבָּא...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:2:1",
+            "hebrew": "ולא אמרן - דאין מורידין קרוב לנכסי קטן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's phrase 'ולא אמרן' refers to the prohibition of appointing a relative to manage a minor's property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:2:2",
+            "hebrew": "אלא באחי דאבא - אחיו מאביו שיטעון בהן צד ירושה:",
+            "english": "",
+            "takeaway": "רש״י explains that 'אחי דאבא' refers to paternal brothers who have a competing inheritance claim in the minor's property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:2:4",
+            "hebrew": "אבל בבתי לית לן בה - שהשכנים מעידין עליהם שבאו לחלקו של קטן:",
+            "english": "",
+            "takeaway": "רש״י explains that for houses, neighbors can testify regarding the division of the minor's share, thus allowing a relative to manage it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:2:5",
+            "hebrew": "עיטדא - שטר חלוקה כשחלקו מתחילה (מלכים ב י״ב:ד׳) רק הבמות לא סרו מתרגמינן במתא לא עטדו לא הפליגו מהם:",
+            "english": "",
+            "takeaway": "רש״י defines עיטדא as a document of division (שטר חלוקה) created at the initial partition of the estate."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Rejection of the limitations",
+      "stepSummary": "The Gemara rejects the limitations, stating that in all cases, a relative cannot manage a minor's property.",
+      "whatsHappening": "The גמרא explicitly rejects the limitations listed in the previous step. This is a direct challenge to the prior setup.",
+      "deeperAnalysis": "The text states 'וְלֹא הִיא' and asserts 'לֹא שָׁנִיא' for each category, concluding 'לֹא מַחְתִּינַן' in all cases. This establishes that the rule is absolute: no relative manages a minor's property, regardless of the specific circumstances.",
+      "keyTerms": [
+        {
+          "term": "וְלֹא הִיא",
+          "meaning": "but this is not so"
+        },
+        {
+          "term": "לֹא שָׁנִיא",
+          "meaning": "no difference"
+        },
+        {
+          "term": "לֹא מַחְתִּינַן",
+          "meaning": "we do not authorize"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְלָא הִיא –",
+          "english": "And not so"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא שְׁנָא אַחֵי דְאַבָּא וְלָא שְׁנָא אַחֵי דְאִמָּא,",
+          "english": "No difference paternal brothers and no difference maternal brothers"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא שְׁנָא אַרְעָתָא וְלָא שְׁנָא בָּתֵּי,",
+          "english": "No difference land and no difference houses"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלָא שְׁנָא עֲבִיד עִיטְדָּא לָא שְׁנָא",
+          "english": "And no difference made a document of division no difference"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא עֲבִיד עִיטְדָּא – לָא מַחֲתִינַן.",
+          "english": "Did not make a document of division — we do not authorize."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלֹא הִיא – לֹא שָׁנִיא אַחֵי דְּאַבָּא...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:3:1",
+            "hebrew": "לא שנא אחי דאמא - פן יאמר של אמי היו נכסי מלוג ואביו של קטן בעל אמי היה מוחזק בהן מחמת שהוא אוכל פירות והוא מת קודם לאמי ולא ירשה ואני יורש חציין מחמת אמי:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern for אחי דאמא is that the minor's father, who was eating the fruits of the נכסי מלוג, died before the mother, so the brothers claim half the property as heirs of their mother."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 39b:3:1",
+            "hebrew": "לא שנא עביד עיטדא לא מחתינן - וא\"ת דבח\"ה (ב\"ב דף כט: ושם ד\"ה אבל) אמרינן עטדא קלא אית לה וי\"ל ביתומים החמירו יותר:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty from בבא בתרא that an עיטדא has a public voice, and resolves it by stating that the Sages were more stringent regarding orphans."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The case of the old woman with three daughters",
+      "stepSummary": "The Gemara presents a case of an old woman with three daughters, two of whom are captive, and one of whom died leaving a minor son.",
+      "whatsHappening": "The גמרא introduces a new case involving an old woman with three daughters to test the absolute rule. This is a setup line for a practical application.",
+      "deeperAnalysis": "The case presents a complex inheritance scenario with one captive daughter, one deceased daughter leaving a minor son, and one free daughter. This tests how the rule applies when relatives are unavailable or incapacitated.",
+      "keyTerms": [
+        {
+          "term": "סָבְתָּא",
+          "meaning": "old woman"
+        },
+        {
+          "term": "אִשְׁתְּבָא",
+          "meaning": "taken captive"
+        },
+        {
+          "term": "שְׁכִיבָא",
+          "meaning": "died"
+        },
+        {
+          "term": "יָנוּקָא",
+          "meaning": "minor"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהִיא סָבְתָּא דַּהֲוַיָא לַהּ תְּלָת בְּנָתָא.",
+          "english": "That old woman who had three daughters."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִישְׁתְּבַאי אִיהִי וַחֲדָא בְּרַתָּא.",
+          "english": "She and one daughter were taken captive."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִידַּךְ תַּרְתֵּי בְּנָתָא, שְׁכִיבָא חֲדָא מִינַּיְיהוּ וּשְׁבַקָה יָנוֹקָא.",
+          "english": "The other two daughters, one of them died and left a minor."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר אַבָּיֵי: הֵיכִי נַעֲבֵיד?",
+          "english": "Abaye said: What should we do?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לוֹקְמִינְהוּ לְנִכְסֵי בִּידָא דַּאֲחָתָא –",
+          "english": "Let us establish the property in the possession of the sister –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דִּלְמָא שְׁכִיבָא סָבְתָּא וְאֵין מוֹרִידִין קָרוֹב לְנִכְסֵי קָטָן!",
+          "english": "Perhaps the old woman died and one does not lower a relative to the property of a minor!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נוֹקְמִינְהוּ לְנִכְסֵיה בִּידָא דְּיָנוֹקָא –",
+          "english": "Let us establish the property in the possession of the minor –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דִּלְמָא לָא שְׁכִיבָא סָבְתָּא וְאֵין מוֹרִידִין",
+          "english": "Perhaps the old woman did not die and one does not lower"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "קָטָן לְנִכְסֵי שָׁבוּי!",
+          "english": "a minor to the property of a captive!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהִיא סָבְתָּא דְּהַוְיָא לָהּ תְּלָת בְּנָתָא...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:4:1",
+            "hebrew": "היכי ליעבד - בנכסי דסבתא שאין אנו יודעין אם קיימת אם מתה:",
+            "english": "",
+            "takeaway": "רש״י explains that the question of how to manage the property arises because we do not know whether the grandmother is alive or dead."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:4:2",
+            "hebrew": "בידא דאחתא - דהילכתא כרשב\"ג דקם ליה שמואל כוותיה:",
+            "english": "",
+            "takeaway": "רש״י notes that the proposal to place the property in the hands of the free daughter is based on the הלכה following רבי שמעון בן גמליאל, as שמואל rules in accordance with him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:4:3",
+            "hebrew": "דלמא שכיבא סבתא - ויש לקטן חלק בהן שהם שלו מחמת אמו או שמא חציין שלו שמא מתו שתי השבויות:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern if the grandmother died is that the minor son would have a share in the property, either through his mother or potentially half if both captives died, and we cannot place property in the hands of a minor."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:4:4",
+            "hebrew": "לוקמינהו לפלגא דנכסי בידא דינוקא - איכא למיחש דלמא לא שכיבא סבתא ואין לו חלק בהן ואין מורידין קטן לנכסי שבוי:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern if we place the property with the minor is that the grandmother might still be alive, in which case the minor has no share, and we do not place a minor in charge of a captive's property."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 39b:4:1",
+            "hebrew": "דלמא שכיבא סבתא - וא\"ת הא דתנן פרק כל הגט (גיטין דף כח. ושם ד\"ה והניחו) המביא גט ממדינת הים והניחו זקן או חולה נותנין לה בחזקת שהוא קיים וי\"ל דסבתא הגיעה לגבורות דהתם אמרינן כי הגיע לגבורות חיישינן אך קשה דבסמוך אמרינן הלכך פלגא יהבינן לאחתא תרי תלתי הוה לה למיתב דאפילו שכיבא סבתא מסתמא ברתא לא שכיבא דליכא למימר דברתא נמי הגיעה לגבורות דאם כן סבתא איתפלגא ותו ליכא למיחש דלמא שכיבא כדאמר בגיטין (שם) כיון דפלג פלג וי\"ל דגבי גט דוקא אמרינן בחזקת שהוא קיים משום עיגונא וכן בשביל אכילת קרבן ותרומה אבל הכא אדרבה החמירו בנכסי יתומים להחזיק הסבתא וברתא במתה דאמרינן לעיל דאפי' בעביד עיטדא לא מחתינן אע\"ג דאית לה קלא אי נמי הכא שנשבו חיישינן טפי דלמא מתו לפי שעשו להם יסורין:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that in גיטין we assume a captive is alive if they reached old age, but here we worry the grandmother died, and answers that the concern for death is greater in cases of captivity due to suffering, or that the rule of assuming life only applies to גט to prevent עיגון or for קרבן and תרומה, whereas here we are stringent regarding orphans' property."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "Abaye's solution: split the property",
+      "stepSummary": "Abaye proposes splitting the property: half to the surviving sister, half to a steward for the minor.",
+      "whatsHappening": "אָבָיֵי proposes splitting the property to balance the rights of the surviving sister and the minor. This is a direct response to the case setup.",
+      "deeperAnalysis": "The solution allocates half to the sister and half to a steward for the minor, accounting for uncertainty about the old woman's death. This pragmatic approach protects both parties' potential inheritance rights.",
+      "keyTerms": [
+        {
+          "term": "פַּלְגָּא",
+          "meaning": "half"
+        },
+        {
+          "term": "מוֹקְמִינַן",
+          "meaning": "we establish/appoint"
+        },
+        {
+          "term": "פוֹטְרוֹפָּא",
+          "meaning": "steward"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי: הִלְכָּךְ, פַּלְגָא יָהֲבִינָא לַהּ לַאֲחָתָא.",
+          "english": "Abaye said: Therefore, half I give to the sister."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאִידַּךְ פַּלְגָא מוֹקְמִינַן לֵיהּ אַפּוֹטְרוֹפָּא לְיָנוֹקָא.",
+          "english": "And the other half we establish a steward for the minor."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רָבָא אָמַר: מִגּוֹ דְּמוֹקְמִינַן אַפּוֹטְרוֹפָּא לְפַלְגָא,",
+          "english": "Rava said: Since we establish a steward for half,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מוֹקְמִינַן לֵיהּ אַפּוֹטְרוֹפָּא לְאִידַּךְ פַּלְגָא.",
+          "english": "we establish a steward for the other half."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר אַבָּיֵי: הִלְכָּךְ, פַּלְגָּא יָהֲבִינָא לָהּ לַאֲחָתָא...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:5:1",
+            "hebrew": "פלגא יהבינן לאחתא - ממה נפשך אם מתו שתי השבויות הרי זו יורשת חציין ואם לאו מורידין קרוב לנכסי שבוי:",
+            "english": "",
+            "takeaway": "רש״י explains that giving half to the sister is justified because if the grandmother died, the sister inherits half, and if she is alive, the sister is permitted to manage the captive's property as a relative."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:5:2",
+            "hebrew": "מוקמינן אפוטרופוס - ולא מחתינן קטן לגוייהו דלמא לא שכיבא ואין מורידין קטן לנכסי שבוי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that appointing a steward for the minor's half prevents the minor from directly managing the captive's property, which is prohibited."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 39b:5:1",
+            "hebrew": "מוקמינן ליה אפוטרופוס - ואם תאמר והא אין מורידין קטן לנכסי שבוי ומסתמא אפי' על ידי אפוטרופוס דהא משמע דאי ודאי לא שכיבא סבתא הוה יהבינן כל נכסי לאחתא ואמאי נוקי פלגא לינוקא על ידי אפוטרופוס אלא ודאי בכל ענין אין מורידין קטן דכיון שהקטן אדון האפוטרופוס אולי ישמע לקטן שלא לחרוש ושלא לזרוע וי\"ל דהא דקאמר פלגא מוקמינן ליה אפוטרופוס לינוקא לא לאכול כל הפירות כדין קרוב היורד לנכסי שבוי אלא שישמור האפוטרופוס כדין אריס בחזקת סבתא ויתפרנס הקטן מזה וזה טוב מלתתם לאחתא שתאכל כל הפירות חנם כדין קרוב היורד לנכסי שבוי:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that a minor should not manage a captive's property even via a steward, and resolves it by explaining that the steward acts like a sharecropper preserving the property under the grandmother's status, allowing the minor to benefit from the produce rather than the sister consuming it all as a relative inheritor."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "The old woman died",
+      "stepSummary": "The Gemara reports that the old woman died, and the fate of the captive daughter is still unknown.",
+      "whatsHappening": "The גמרא updates the case by revealing the old woman died, while the captive daughter's fate remains unknown. This is a transition line introducing new information.",
+      "deeperAnalysis": "This update changes the inheritance dynamics, requiring a new distribution of the property. The uncertainty about the captive daughter complicates the application of the previous solution.",
+      "keyTerms": [
+        {
+          "term": "לְסוֹף",
+          "meaning": "ultimately"
+        },
+        {
+          "term": "שְׁמַעוּ",
+          "meaning": "they heard"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְסוֹף שְׁמַעוּ דִּשְׁכִיבָא סָבְתָּא. אָמַר אַבָּיֵי:",
+          "english": "At the end, they heard that the old woman died. Abaye said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תִּילְתָּא יָהֲבִינַן לַהּ לַאֲחָתָא,",
+          "english": "One-third we give to her, to the sister,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְתִילְתָּא יָהֲבִינַן לֵיהּ לְיָנוֹקָא.",
+          "english": "and one-third we give to him, to the minor."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאִידַּךְ תִּילְתָּא יָהֲבִינַן דַּנְקָא לַאֲחָתָא,",
+          "english": "And the other one-third, one-sixth we give to the sister,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִידַּךְ דַּנְקָא מוֹקְמִינַן לֵיהּ אַפּוֹטְרוֹפָּא לְיָנוֹקָא. רָבָא אָמַר:",
+          "english": "and the other one-sixth we appoint a steward for him, to the minor. Rava said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִגּוֹ דְּמוֹקֵים אַפּוֹטְרוֹפָּא לְדַנְקָא מוֹקְמִינַן נָמֵי",
+          "english": "Since we appoint a steward for one-sixth, we also appoint"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַפּוֹטְרוֹפָּא לְאִידַּךְ דַּנְקָא.",
+          "english": "a steward for the other one-sixth."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לְסוֹף שְׁמַעוּ דִּשְׁכִיבָא סָבְתָּא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:6:1",
+            "hebrew": "שמעו דשכיבא סבתא - לסוף שמעו שמתה הזקנה ועל הבת שנשבית לא שמעו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the news received is specifically that the grandmother died, while the status of the captive daughter remains unknown."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:6:2",
+            "hebrew": "תילתא יהבינן כו' - דהא ודאי שליש הנכסים לזו ושליש לקטן:",
+            "english": "",
+            "takeaway": "רש״י explains that one-third of the estate is definitively allocated to the sister and one-third to the minor son."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:6:3",
+            "hebrew": "דנקא - שתות חצי השליש:",
+            "english": "",
+            "takeaway": "רש״י defines דנקא as a sixth, which is half of the one-third share."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:6:4",
+            "hebrew": "יהבינן לאחתא - ממה נפשך אם מתה האחות הרי חצי חלקה לזו ואם לאו מורידין קרוב לנכסי שבוי:",
+            "english": "",
+            "takeaway": "רש״י explains that one sixth is given to the sister because if the captive died, half of her share goes to the sister, and if she is alive, the sister is a close relative who can inherit from the captive's estate."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:6:5",
+            "hebrew": "ואידך דנקא - לא יהבינן לה שמא של קטן הם ואין מורידין קרוב לנכסי קטן:",
+            "english": "",
+            "takeaway": "רש״י explains that the remaining sixth is not given to the sister because it might belong to the minor, and the court does not allow a relative to take possession of a minor's assets."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The case of מרי בר איסק and the brother from בֵּי חוֹזָאֵי",
+      "stepSummary": "The Gemara introduces a narrative case where a man claims to be the brother of מרי בר איסק and demands inheritance, but מרי בר איסק denies knowing him.",
+      "whatsHappening": "The גמרא opens a new narrative where a brother appears after a long absence and demands a share of the inheritance, but the defendant denies recognition. This is a setup line for a new legal dispute.",
+      "deeperAnalysis": "The core dispute is identity, setting up the legal question of burden of proof in identity disputes. The defendant's denial challenges the claimant's right to the inheritance.",
+      "keyTerms": [
+        {
+          "term": "מָרִי בַּר אִיסַק",
+          "meaning": "a wealthy, powerful man in the narrative"
+        },
+        {
+          "term": "בֵּי חוֹזָאֵי",
+          "meaning": "a distant location, emphasizing the brother's long absence"
+        },
+        {
+          "term": "פּוֹלֵג",
+          "meaning": "divide [the inheritance]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מָרִי בַּר אִיסַק אֲתָא לֵיהּ אַחָא מִבֵּי חוֹזָאֵי.",
+          "english": "Mari bar Isak, a brother came to him from Bei Ḥozai."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: פְּלוֹג לִי.",
+          "english": "He said to him: Divide for me."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: לָא יָדַעְנָא לָךְ.",
+          "english": "He said to him: I do not know you."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "מָרִי בַּר אִיסַק אֲתָא לֵיהּ אַחָא מִבֵּי חוֹזָאֵי. אֲמַר לֵיהּ: פּוֹלֵג לִי. אֲמַר לֵיהּ: לָא יָדַעְנָא לָךְ.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "new_sugya_start",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:7:1",
+            "hebrew": "אתא ליה אחא מבי חוזאי - שהלך אביו לבי חוזאי ונשא שם אשה וילדה לו את זה וחזר מרי לכאן וירד לנכסי אביו ובא זה אחריו לזמן מרובה ותבע חלקו:",
+            "english": "",
+            "takeaway": "רש״י explains that the claimant is a half-brother from a second marriage in בֵּי חוֹזָאֵי, who arrived later to demand his share of the inheritance."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "רַב חִסְדָּא's ruling on burden of proof",
+      "stepSummary": "רַב חִסְדָּא rules that מרי בר איסק is justified in denying recognition, citing the precedent of יוֹסֵף, and shifts the burden of proof to the claimant, then to the defendant due to his violent nature.",
+      "whatsHappening": "רַב חִסְדָּא adjudicates the case by validating the defendant's denial and then shifting the burden of proof to the defendant due to his intimidating nature. This is a direct ruling on the narrative setup.",
+      "deeperAnalysis": "The ruling uses a biblical precedent to justify non-recognition after long separation. Normally, the claimant bears the burden of proof, but רַב חִסְדָּא pragmatically shifts it to the defendant because witnesses fear him, overriding the standard rule.",
+      "keyTerms": [
+        {
+          "term": "חֲתִימַת זָקָן",
+          "meaning": "trace of a beard, indicating physical change over time"
+        },
+        {
+          "term": "הַמוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה",
+          "meaning": "the burden of proof is on the claimant"
+        },
+        {
+          "term": "גַּבְרָא אַלִּימָא",
+          "meaning": "a violent or intimidating man"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב חִסְדָּא.",
+          "english": "He came before Rav Ḥisda."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: שַׁפִּיר קָאָמַר לָךְ, שֶׁנֶּאֱמַר:",
+          "english": "He said to him: Well he spoke to you, as it is said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״וַיַּכֵּר יוֹסֵף אֶת אֶחָיו וְהֵם לֹא הִכִּרֻהוּ״ –",
+          "english": "\"And Joseph knew his brothers and they did not know him\" –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְלַמֵּד שֶׁיָּצָא בְּלֹא חֲתִימַת זָקָן וּבָא בַּחֲתִימַת זָקָן.",
+          "english": "Teaching that he went out without a beard and came with a beard."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: זִיל אַיְיתִי סָהֲדִי דַּאֲחוּהּ אַתְּ.",
+          "english": "He said to him: Go bring witnesses that you are his brother."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר לֵיהּ: אִית לִי סָהֲדִי,",
+          "english": "He said to him: I have witnesses,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְדָחֲלִי מִינֵּיהּ דְּגַבְרָא אַלִּימָא הוּא.",
+          "english": "and they fear him because he is a violent man."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲמַר לֵיהּ לְדִידֵיהּ:",
+          "english": "He said to him:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "זִיל אַנְתְּ אַיְיתִי סָהֲדֵי דְּלָאו אֲחוּךְ הוּא.",
+          "english": "Go you bring witnesses that he is not your brother."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲמַר לֵיהּ: דִּינָא הָכִי? !",
+          "english": "He said to him: Is this the law?!"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הַמּוֹצִיא מֵחֲבֵירוֹ עָלָיו הָרְאָיָה.",
+          "english": "The one who takes from his fellow – upon him is the burden of proof."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֲמַר לֵיהּ: הָכִי דָּיְינִינָא לָךְ וּלְכֹל אַלִּימֵי דְּחַבְרָךְ.",
+          "english": "He said to him: Thus I judge you and all the violent ones of your companions."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֲמַר לֵיהּ: סוֹף סוֹף אָתוּ סָהֲדִי וְלָא מַסְהֲדִי.",
+          "english": "He said to him: In the end, witnesses will come and they will not testify."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "אֲמַר לֵיהּ: תַּרְתֵּי לָא עָבְדִי.",
+          "english": "He said to him: Two things I will not do."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אֲתָא לְקַמֵּיהּ דְּרַב חִסְדָּא. אֲמַר לֵיהּ: שַׁפִּיר קָאָמַר לָךְ...",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:8:1",
+            "hebrew": "שפיר קאמר לך - שאינו מכירך ואין זה רמאות שכשיצא מאצלך לא היה לך חתימת זקן ועכשיו באת בחתימת זקן:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חסדא uses the verse about יוסף to validate the defendant's denial, as physical changes like a beard (חתימת זקן) can prevent recognition after a long separation."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:8:2",
+            "hebrew": "ויכר יוסף את אחיו - שכשיצא מהם היו כולם חתומי זקן והם לא הכירוהו שיצא מאצלם בלא חתימת זקן ובא בחתימת זקן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the verse about יוסף recognizing his brothers while they did not recognize him proves that a person can emerge with a beard after previously being without one, justifying the defendant's claim of non-recognition."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:8:3",
+            "hebrew": "דלאו אחוך הוא - אותם עדים שיש לו לזה שבאו משם ומכירין בו מי הוא הביאם אתה ויעידו שאינו בן אביך או בקש עדים אחרים:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חסדא orders the defendant to bring witnesses who know his origins to testify that he is not the claimant's brother, or to find other witnesses to the same effect."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:9:1",
+            "hebrew": "א\"ל - מרי לרב חסדא אי מינאי דחלי מה תועלת:",
+            "english": "",
+            "takeaway": "רש״י explains that מרי בר איסק questions the utility of רב חסדא's ruling, implying that if witnesses are afraid of him, they will simply not testify, leaving the case unresolved."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:9:2",
+            "hebrew": "סוף סוף אתו סהדי ולא מסהדי - אלא כמותי ולא כמותך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that מרי בר איסק argues witnesses will ultimately come but refuse to testify truthfully due to fear, benefiting neither party."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:9:3",
+            "hebrew": "תרתי לא עבדי - מיראתך יעשו אחת שישתקו אבל שתים לא יעשו לא דיין שישתקו ולא יעידו האמת אלא גם שיעידו שקר:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חסדא's response 'תרתי לא עבדי' means witnesses will not commit two wrongs: they may remain silent out of fear, but they will not go so far as to actively lie and testify falsely."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 39b:8:1",
+            "hebrew": "שיצא בלא חתימת זקן - הוא הדין אם יצא בחתימת זקן דאין נאמן לומר שהוא אחיו דא\"כ לא שבקת חיי לכל בריה העשירים שכל אחד יאמר אני אחיך ועוד דהא תנן בפ' יש נוחלין (ב\"ב דף קלד.) האומר זה אחי אינו נאמן אלא הכא מרי בר איסק לא היה טוען ברי אלא לא ידענא לך ולכך אם יצא בחתימת זקן אינו נאמן כיון שאינו מכחישו אלא אמר לא ידענא ליה:",
+            "english": "",
+            "takeaway": "תוספות explains that the defendant is not believed to claim brotherhood even if he had a beard initially, as this would allow anyone to falsely claim inheritance, and cites a ברייתא in בבא בתרא that one is not believed to claim 'this is my brother'."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 39b:8:2",
+            "hebrew": "זי\"ל את אייתי סהדי דלאו אחוך הוא - וא\"ת וכי כל אדם עשיר אלם יצטרך להביא עדים שאין התובעו אחיו וי\"ל דשאני הכא שאותו אמר שיש לו עדים ויראים להגיד א\"ל רב חסדא שיעשה עמהם שיעידו ומרי בר איסק א\"ל סוף סוף דהשתא נמי יעידו שקר מיראתי ויאמרו שאינו אחיו או יאמרו שאינם יודעים אע\"פ שיודעין ומשני תרתי לא עבדי חדא שישתקו מלהעיד וחדא שישקרו ויאמרו אין אנו יודעים או שיאמרו אינו אחיו:",
+            "english": "",
+            "takeaway": "תוספות addresses why the burden is shifted only here, explaining that since the claimant admitted witnesses exist but fear the defendant, רב חסדא orders the defendant to confront them, and clarifies that 'תרתי לא עבדי' refers to witnesses not remaining silent and not lying, as they will not commit both sins."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "The brother's claim to improvements",
+      "stepSummary": "After witnesses confirm the brotherhood, the brother demands a share of the orchards and gardens that מרי בר איסק planted, and רַב חִסְדָּא rules in his favor based on a Mishna about adult and minor sons.",
+      "whatsHappening": "The narrative advances: witnesses confirm the brotherhood. The brother now claims a share of the improvements made by מרי בר איסק.",
+      "deeperAnalysis": "The identity dispute is resolved. Now the financial dispute begins. רַב חִסְדָּא cites a Mishna: when adult sons improve property that also belongs to minor sons, the improvements are shared.",
+      "keyTerms": [
+        {
+          "term": "פַּרְדֵּיסֵי וּבוּסְתָּנִי",
+          "meaning": "orchards and gardens, representing improvements"
+        },
+        {
+          "term": "הִשְׁבִּיחוּ לָאֶמְצַע",
+          "meaning": "the improvements are shared equally"
+        },
+        {
+          "term": "גְּדוֹלִים וּקְטַנִּים",
+          "meaning": "adult and minor sons"
+        }
+      ],
+      "whatToRemember": "The Mishna cited is about adult sons improving property that belongs to both adults and minors.",
+      "whyThisMatters": "This sets up the central halachic dispute: does the Mishna's rule apply when the improver didn't know the other heir existed?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְסוֹף אֲתוֹ סָהֲדִי דַּאֲחוּהּ הוּא.",
+          "english": "At the end, witnesses of his brother came."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: לִפְלוֹג לִי נָמֵי מִפַּרְדֵּיסֵי וּבוּסְתָּנִי דִּשְׁתַל.",
+          "english": "He said to him: Divide for me also from the orchards and gardens that you planted."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: שַׁפִּיר קָאָמַר לָךְ,",
+          "english": "He said to him: He spoke well to you,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּתְנַן: הִנִּיחַ בָּנִים גְּדוֹלִים וּקְטַנִּים,",
+          "english": "For we learned: He left adult and minor sons,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהִשְׁבִּיחוּ גְּדוֹלִים אֶת הַנְּכָסִים – הִשְׁבִּיחוּ לָאֶמְצַע.",
+          "english": "And the adults enhanced the property — the enhancement is for the middle."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "לְסוֹף אֲתוּ סָהֲדִי דַּאֲחוּהּ הוּא. אֲמַר לֵיהּ: לִפְלוֹג לִי נָמֵי מִפַּרְדֵּיסֵי וּבוּסְתָּנִי דִּשְׁתַּל...",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 39b:10:1",
+            "hebrew": "א\"ל - ההוא אחא לרב חסדא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase א"
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T22:43:31.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 86.40836129995296,
+      "structure": 2376.6227681999444,
+      "validate": 338.4900861001224,
+      "translate": 416.884399600327,
+      "meforshim": 867.1156058996567,
+      "teaching": 915.1740322000114
+    }
+  }
+}

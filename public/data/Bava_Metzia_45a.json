@@ -1,0 +1,1177 @@
+{
+  "ref": "Bava Metzia 45a",
+  "masechet": "Bava_Metzia",
+  "daf": 45,
+  "amud": "a",
+  "mainTopic": "(continues) מחלוקת בית שמאי ובית הלל במעשר שני · לישנא אחרינא במחלוקת בית שמאי ובית הלל",
+  "overview": "(1) The Gemara examines the dispute between Beit Shammai and Beit Hillel regarding redeeming מעשר שני with gold coins, analyzing whether the disagreement is based on the status of gold as currency or a rabbinic decree, and concludes with Rabbi Yochanan's view. (2) An alternative explanation for the dispute between Beit Shammai and Beit Hillel is presented, focusing on the biblical definition of כסף and whether it includes מעשר שני, with Rav Papa resolving the difficulty regarding the Mishnah's wording. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 4,
+      "topic": "(continues) מחלוקת בית שמאי ובית הלל במעשר שני",
+      "gist": "The Gemara examines the dispute between Beit Shammai and Beit Hillel regarding redeeming מעשר שני with gold coins, analyzing whether the disagreement is based on the status of gold as currency or a rabbinic decree, and concludes with Rabbi Yochanan's view.",
+      "openingFormula": "תנן התם",
+      "firstStepNumber": 1,
+      "lastStepNumber": 4
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 5,
+      "endLine": 14,
+      "topic": "לישנא אחרינא במחלוקת בית שמאי ובית הלל",
+      "gist": "An alternative explanation for the dispute between Beit Shammai and Beit Hillel is presented, focusing on the biblical definition of כסף and whether it includes מעשר שני, with Rav Papa resolving the difficulty regarding the Mishnah's wording. — discussion continues into next amud.",
+      "openingFormula": "לישנא אחרינא אמרי לה",
+      "firstStepNumber": 5,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן's ruling on borrowing gold dinars",
+      "stepSummary": "Rabbi Yochanan rules that it is prohibited to borrow a gold dinar and repay with a gold dinar.",
+      "whatsHappening": "The Gemara cites רַבִּי יוֹחָנָן's ruling that it is prohibited to borrow a gold dinar and repay with a gold dinar. This is a setup line introducing a proof.",
+      "deeperAnalysis": "This ruling is used as a proof to determine which opinion belongs to רַבִּי יוֹחָנָן. If רַבִּי יוֹחָנָן holds that gold is not currency, he would prohibit borrowing and repaying with gold dinars.",
+      "keyTerms": [
+        {
+          "term": "אָסוּר לִלְווֹת",
+          "meaning": "it is prohibited to borrow"
+        },
+        {
+          "term": "דִּינָר",
+          "meaning": "dinar"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָסוּר לִלְווֹת דִּינָר בְּדִינָר.",
+          "english": "It is forbidden to borrow a dinar with a dinar."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָסוּר לִלְווֹת דִּינָר בְּדִינָר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:1:1",
+            "hebrew": "אסור ללות דינר בדינר - שמא יוקירו ויבא לידי רבית ובדינר זהב קאמר כדמפרש ואזיל:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition against borrowing a dinar and repaying with a dinar is due to the concern that the value of gold may increase, leading to a violation of רבית, and specifies that this ruling applies specifically to gold dinars as clarified in the subsequent text."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Explanation: רַבִּי יוֹחָנָן holds that gold is not currency",
+      "stepSummary": "The Gemara explains that Rabbi Yochanan's ruling implies that he holds gold is not currency, as the value of gold can fluctuate.",
+      "whatsHappening": "The Gemara explains that רַבִּי יוֹחָנָן's ruling implies that he holds gold is not currency. This is a setup line introducing an explanation.",
+      "deeperAnalysis": "The Gemara argues that if רַבִּי יוֹחָנָן held that gold is currency, he would permit borrowing and repaying with gold dinars. The fact that he prohibits it implies that he holds gold is not currency.",
+      "keyTerms": [
+        {
+          "term": "טִבְעָא",
+          "meaning": "currency"
+        },
+        {
+          "term": "פֵּירָא",
+          "meaning": "commodity"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דִּינָר דְּמַאי?",
+          "english": "A dinar of what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִילֵּימָא דִּינָר שֶׁל כֶּסֶף בְּדִינָר שֶׁל כֶּסֶף,",
+          "english": "If I say a silver dinar for a silver dinar,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְגַבֵּי נַפְשֵׁיהּ מִי אִיכָּא לְמַאן דְּאָמַר",
+          "english": "relative to itself, is there anyone who says"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָאו טִבְעָא הָוֵי?",
+          "english": "it was not currency?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא פְּשִׁיטָא דִּינָר שֶׁל זָהָב בְּדִינָר שֶׁל זָהָב,",
+          "english": "Rather, it is obvious: a gold dinar for a gold dinar,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּלְמַאן?",
+          "english": "and according to whom?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִי לְבֵית הִלֵּל – הָא אָמְרִי טִבְעָא הָוֵי.",
+          "english": "If according to Beit Hillel — they say it was currency."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֶלָּא לָאו לְבֵית שַׁמַּאי,",
+          "english": "Rather, is it not according to Beit Shammai?"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּשְׁמַע מִינַּהּ רַבִּי יוֹחָנָן הוּא דְּאָמַר: אֵין מְחַלְּלִין!",
+          "english": "And learn from it that Rabbi Yoḥanan is the one who said: We do not desacralize!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דִּינָר דְּמַאי? אִילֵּימָא דִּינָר שֶׁל כֶּסֶף בְּדִינָר שֶׁל כֶּסֶף, לְגַבֵּי נַפְשֵׁיהּ מִי אִיכָּא לְמַאן דְּאָמַר לָאו טִבְעָא הָוֵי? אֶלָּא פְּשִׁיטָא דִּינָר שֶׁל זָהָב בְּדִינָר שֶׁל זָהָב, וּלְמַאן? אִי לְבֵית הִלֵּל – הָא אָמְרִי טִבְעָא הָוֵי. אֶלָּא לָאו לְבֵית שַׁמַּאי, וּשְׁמַע מִינַּהּ רַבִּי יוֹחָנָן הוּא דְּאָמַר: אֵין מְחַלְּלִין!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:2:1",
+            "hebrew": "לגבי נפשיה מי איכא למ\"ד לאו טבעא הוי - וא\"ת א\"כ היכי מוכח לעיל (בבא מציעא דף מד:) דרבי חייא סבר דהבא הוי טבעא דלמא היינו דוקא לגבי נפשיה ולא לגבי כספא וי\"ל דלעיל סבר כמסקנא דהכא דאי לענין מקח וממכר פירא הוי לגבי הלואה נמי פירא הוי:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that if gold is not currency for oneself, how can we derive from earlier in בבא מציעא that רבי חייא holds gold is currency, and answers that רבי חייא follows the conclusion here that gold is produce for both purchase and loan."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:2:2",
+            "hebrew": "אלא לב\"ש - ולא שיסבור כמותו אלא אליבייהו קאמר אי נמי ר' יוחנן סבר לה כמתני' דהזהב קונה את הכסף:",
+            "english": "",
+            "takeaway": "תוספות clarifies that רבי יוחנן does not necessarily hold like בית שמאי, but rather speaks according to their opinion, or alternatively holds like the מיתא that gold acquires silver."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: רַבִּי יוֹחָנָן holds that gold is currency",
+      "stepSummary": "The Gemara rejects the previous explanation, arguing that Rabbi Yochanan holds that gold is currency, but the prohibition against borrowing and repaying with gold dinars is due to a different reason.",
+      "whatsHappening": "The Gemara rejects the previous explanation, arguing that רַבִּי יוֹחָנָן holds that gold is currency. This is a setup line introducing a rejection.",
+      "deeperAnalysis": "The Gemara argues that רַבִּי יוֹחָנָן holds that gold is currency, but the prohibition is due to the רַבָּנַן deeming the legal status of a gold dinar like that of a commodity in the context of מִקָּח וּמִמְכָּר. This is because the value of gold can fluctuate.",
+      "keyTerms": [
+        {
+          "term": "שָׁאנֵי הַלְוָאָה",
+          "meaning": "the halakha of a loan is different"
+        },
+        {
+          "term": "מִקָּח וּמִמְכָּר",
+          "meaning": "buying and selling"
+        },
+        {
+          "term": "רַבָּנַן",
+          "meaning": "the Sages"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא,",
+          "english": "No,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְעוֹלָם אֵימָא לָךְ רַבִּי יוֹחָנָן הוּא דְּאָמַר מְחַלְּלִין,",
+          "english": "Forever I will say to you: Rabbi Yoḥanan is the one who said they desacralize,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְשָׁאנֵי הַלְוָאָה כֵּיוָן דִּלְעִנְיַן מִקָּח וּמִמְכָּר",
+          "english": "And a loan is different, since it concerns buying and selling"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שַׁוְּיוּהּו רַבָּנַן כִּי פֵירָא, דְּאָמְרִינַן:",
+          "english": "They deemed them like produce, as we say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיהוּ נִיהוּ דְּאוֹקֵיר וְזִיל –",
+          "english": "It is the gold that appreciates and goes –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לְגַבֵּי הַלְוָאָה נָמֵי פֵּירָא הָוֵי.",
+          "english": "Regarding a loan too, it is produce."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, לְעוֹלָם אֵימָא לָךְ רַבִּי יוֹחָנָן הוּא דְּאָמַר מְחַלְּלִין, וְשָׁאנֵי הַלְוָאָה כֵּיוָן דִּלְעִנְיַן מִקָּח וּמִמְכָּר שַׁוְּיוּהּו רַבָּנַן כִּי פֵירָא, דְּאָמְרִינַן: אִיהוּ נִיהוּ דְּאוֹקֵיר וְזִיל – לְגַבֵּי הַלְוָאָה נָמֵי פֵּירָא הָוֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        18
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:3:1",
+            "hebrew": "לעולם אימא לך ר' יוחנן הוא דאמר דברי הכל מחללינן - דלגבי פירא טבעא הוי:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יוחנן holds that gold is considered טבעא (currency) for the purpose of redeeming פירות (produce) with מעשר שני."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:3:2",
+            "hebrew": "כיון דלענין מקח וממכר שויוהו רבנן כי פירא - כדתנן (לעיל בבא מציעא דף מד.) הזהב קונה את הכסף:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Sages treated gold like פירא (commodity) for מקח וממכר (buying and selling), as evidenced by the Mishnah that gold can acquire silver."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:3:1",
+            "hebrew": "ושאני הלואה - השתא מצי מיירי בדינר כסף וכבית הלל וא\"ת היכי מוכח בסמוך ה\"נ מסתברא דר' יוחנן דאמר מחללין מדאמר ר' יוחנן אע\"פ שאמרו אסור ללוות דינר בדינר אבל מחללין מעשר שני עליו מנ\"ל דאיירי בדינר זהב וכבית שמאי דלמא בדינר כסף וכב\"ה וי\"ל דעל כרחך בדינר זהב איירי דאי בשל כסף ולבית הלל פשיטא דמחללין דמתניתין היא (מע\"ש פ\"ב מ\"ז) לא יעשה סלעין דינרי זהב א\"כ אותן סלעין חילל פירות עליהן ולב\"ש דוקא אסור ללוות דסברי דהבא פירא הוי אבל לב\"ה מותר ללוות דדהבא טבעא הוי דהא מחללין סלעין עליו ולב\"ש נמי הוי טבעא לחלל פירות עליו וכן לקמן (בבא מציעא דף מח.) ר\"ש אומר אין דינר זהב קונה טלית אלמא לגבי פירא טבעא הוי ואפילו לגבי כספא מקרי טבעא דשמא כילדותו מסתברא ומיהו ר\"ח פירש דהכי אמר רב האי גאון דדהבא פירא הוי לכל מילי ושמא בימי האמוראים היה זהב יוצא בהוצאה והוה טבעא ובימי הגאון לא היה יוצא כלל ולכך אמר דהבא פירא:",
+            "english": "",
+            "takeaway": "תוספות explains that רבי יוחנן's statement about redeeming מעשר שני on gold dinars must refer to gold dinars and בית שמאי, because if it were silver dinars and בית הלל, it would be obvious from the Mishnah, and רבי שמעון's statement that a gold dinar does not acquire a garment shows that gold is considered טבעא for produce."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from Ravin's statement",
+      "stepSummary": "The Gemara cites Ravin's statement that Rabbi Yochanan permits redeeming מעשר שני with gold dinars.",
+      "whatsHappening": "The Gemara cites Ravin's statement that Rabbi Yochanan permits redeeming מעשר שני with gold dinars. This serves as a proof to determine which opinion belongs to Rabbi Yochanan.",
+      "deeperAnalysis": "If Rabbi Yochanan holds that gold is currency, he would permit redeeming מעשר שני with gold dinars. This statement clarifies his position on the status of gold coins.",
+      "keyTerms": [
+        {
+          "term": "רָבִין",
+          "meaning": "Ravin"
+        },
+        {
+          "term": "שְׁמַע מִינַּהּ",
+          "meaning": "learn from it"
+        }
+      ],
+      "whatToRemember": "Rabbi Yochanan permits redeeming מעשר שני with gold dinars.",
+      "whyThisMatters": "This proof clarifies which opinion belongs to Rabbi Yochanan.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא,",
+          "english": "So too, it is reasonable to say"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּכִי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן:",
+          "english": "For when Ravin came, Rabbi Yoḥanan said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַף עַל פִּי שֶׁאָמְרוּ אָסוּר לִלְווֹת דִּינָר בְּדִינָר,",
+          "english": "Even though they said it is prohibited to borrow a dinar with a dinar,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל מְחַלְּלִין מַעֲשֵׂר שֵׁנִי עָלָיו. שְׁמַע מִינַּהּ.",
+          "english": "but one may desacralize second tithe with it. Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּכִי אֲתָא רָבִין אָמַר רַבִּי יוֹחָנָן: אַף עַל פִּי שֶׁאָמְרוּ אָסוּר לִלְווֹת דִּינָר בְּדִינָר, אֲבָל מְחַלְּלִין מַעֲשֵׂר שֵׁנִי עָלָיו. שְׁמַע מִינַּהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        19
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:4:1",
+            "hebrew": "הכי נמי מסתברא - דרבי יוחנן הוא דאמר מחללינן:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's phrase 'הכי נמי מסתברא' indicates that the opinion permitting redemption with gold dinars is indeed רבי יוחנן's view, as he is the one who stated 'מחללין'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the Mishna about exchanging copper for silver",
+      "stepSummary": "The Gemara cites a Mishna about exchanging copper מעשר שני coins for silver to challenge the previous discussion about exchanging silver for gold.",
+      "whatsHappening": "The Gemara introduces a Mishna as a challenge to the previous resolution regarding exchanging מעשר שני coins. The Mishna states that Beit Shammai permit exchanging copper coins for a full silver sela, while Beit Hillel limit it to a shekel.",
+      "deeperAnalysis": "The Gemara argues: if Beit Shammai permit exchanging copper for silver, why would they forbid exchanging silver for gold? The Gemara answers that copper coins are different because they circulate more easily in places where they are common.",
+      "keyTerms": [
+        {
+          "term": "תָּא שְׁמַע",
+          "meaning": "come and hear [a proof]"
+        },
+        {
+          "term": "פּוֹרֵט",
+          "meaning": "exchanging coins"
+        },
+        {
+          "term": "סֶלַע",
+          "meaning": "silver coin"
+        },
+        {
+          "term": "פְּרִיטֵי",
+          "meaning": "copper coins"
+        }
+      ],
+      "whyThisMatters": "This sets up the need for a new explanation for the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי,",
+          "english": "Come and hear: One who exchanges a sela of second-tithe money,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֵּית שַׁמַּאי אוֹמְרִים:",
+          "english": "Beit Shammai say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּכׇל הַסֶּלַע מָעוֹת,",
+          "english": "With every sela of coins,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּבֵית הִלֵּל אוֹמְרִים:",
+          "english": "And Beit Hillel say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת.",
+          "english": "With a silver shekel, with a shekel of coins."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הַשְׁתָּא לְבֵית שַׁמַּאי לְגַבֵּי פְּרִיטֵי מְחַלְּלִינַן,",
+          "english": "Now, according to Beit Shammai, regarding perutot we desacralize,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְגַבֵּי דַּהֲבָא מִיבַּעְיָא?",
+          "english": "Regarding gold, is it necessary?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "שָׁאנֵי פְּרִיטֵי בְּאַתְרָא דְּסָגַיִין חֲרִיפֵי.",
+          "english": "Perutot are different, in a place where they are abundant and sharp."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:5:1",
+            "hebrew": "הפורט סלע ממעות מעשר שני - מי שיש לו מעות נחשת של מעשר שני ובא לפורטן בסלע כסף להעלות לירושלים מפני משאוי הדרך:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna discusses someone exchanging copper coins of מעשר שני for a silver סלע to avoid the burden of carrying heavy copper coins to ירושלים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:5:2",
+            "hebrew": "ב\"ש אומרים בכל הסלע מעות - אם בא לפורטן יפרוט כולן ויתן מעות בשביל כל הסלע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בית שמאי permit exchanging all the copper coins for the full silver סלע at once."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:5:3",
+            "hebrew": "וב\"ה אומרים לא יפרוט - אלא חציין שהפרוטות יוצאות בירושלים וכשיבא שם יהא צריך לפרוטות מיד לקנות צרכי סעודה ואם ירוצו הכל אצל שולחני לפרוט יוקירו הפרוטות ונמצא מעשר שני נפסד לפיכך ישאו פרוטות עמהן להוציא במקצת לכשיכלו יפרוט הכסף שבידו מעט מעט:",
+            "english": "",
+            "takeaway": "רש״י explains that בית הלל limit the exchange to half the coins because copper coins are needed in ירושלים for immediate purchases, and exchanging all at once would cause the remaining copper coins to lose value due to scarcity."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:5:4",
+            "hebrew": "השתא לב\"ש כו' - דמדקתני ממעות מעשר שני ש\"מ חילל פירות על הפרוטות:",
+            "english": "",
+            "takeaway": "רש״י notes that the Mishna's phrasing 'ממעות מעשר שני' implies that the copper coins were already used to redeem produce, meaning the produce was already חלל."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:5:5",
+            "hebrew": "לגבי דהבא מיבעיא - דמחללין פירות ותיובתא דמ\"ד אף בפירות על דינרין מחלוקת:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge is that if בית שמאי permit exchanging copper (which is less valuable) for silver, they should certainly permit exchanging silver for gold, challenging the view that there is a dispute about redeeming produce with silver coins."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:5:1",
+            "hebrew": "בכל הסלע מעות - רש\"י פי' טעם בדברי ב\"ה ובדברי ב\"ש לא נתן טעם משמע לב\"ש יכול לעשות מה שירצה וכן לקמן בהפורט סלע בירושלים וקשה דבמסכת עדיות (פ\"א מ\"ט) תני להו בהדי דברים דב\"ש לחומרא והוי ליה למתנינהו בהדי קולי ב\"ש לכך נראה דב\"ש דוקא בכל הסלע קאמרי ולא יחליף ב' וג' פעמים שבכל פעם משתכר החנוני ונמצא מפסיד מעשר שני ועי\"ל דהכא דוקא יתן בכל הסלע מעות שלא יתעפשו בדרך קודם שיגיע שם:",
+            "english": "",
+            "takeaway": "תוספות questions why בית שמאי's ruling is not listed among their stringent opinions in מסכת עדיות, and suggests בית שמאי only permit exchanging the full סלע at once to prevent the merchant from profiting multiple times and causing loss to the מעשר שני, or to prevent the coins from spoiling during the journey."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Alternative explanation: dispute over silver vs gold coins",
+      "stepSummary": "A new version of the dispute is introduced, attributing it to Rabbi Yochanan and Reish Lakish, focusing on whether 'the money' includes second money.",
+      "whatsHappening": "The Gemara introduces a לישנא אחרינא, attributing the dispute to Rabbi Yochanan and Reish Lakish. One opinion holds that the dispute is about exchanging silver sela coins for gold dinars.",
+      "deeperAnalysis": "Beit Shammai interpret 'the money' as referring only to the first money (silver), not second money (gold). This shifts the focus from a practical dispute to a textual interpretation dispute.",
+      "keyTerms": [
+        {
+          "term": "לִישַׁנָא אַחֲרִינָא",
+          "meaning": "another version"
+        },
+        {
+          "term": "כֶּסֶף רִאשׁוֹן",
+          "meaning": "first money"
+        },
+        {
+          "term": "כֶּסֶף שֵׁנִי",
+          "meaning": "second money"
+        },
+        {
+          "term": "דִּינָרִין",
+          "meaning": "gold coins"
+        }
+      ],
+      "whyThisMatters": "This shifts the focus from a practical dispute to a textual interpretation dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לִישָּׁנָא אַחֲרִינָא אָמְרִי לַהּ, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ.",
+          "english": "Another version they say to it: Rabbi Yoḥanan and Reish Lakish."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חַד אָמַר: מַחְלוֹקֶת בִּסְלָעִין עַל דִּינָרִים,",
+          "english": "One said: A dispute with sela coins over dinars,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּבֵית שַׁמַּאי סָבְרִי: ״הַכֶּסֶף״ –",
+          "english": "Beit Shammai hold: 'The money' –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי.",
+          "english": "First money and not second money."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "לִישַׁנָא אַחֲרִינָא אָמְרִי לַהּ, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        21
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:6:1",
+            "hebrew": "הכסף - וצרת הכסף והלכת (דברים י״ד:כ״ה):",
+            "english": "",
+            "takeaway": "רש״י explains that the term כסף in the verse is derived from the phrase וצרת הכסף in דברים יד:כה, establishing the source for the discussion about money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:6:2",
+            "hebrew": "כסף ראשון - שחללת הפירות עליהם אתה צריך לצור בידך ולהוליך ולא שתחלל אותו כסף על כסף אחר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that כסף ראשון refers to money on which one directly redeems the produce, requiring one to carry it in hand and bring it, rather than redeeming that money with other money."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Beit Hillel's view: 'the money' includes second money",
+      "stepSummary": "Beit Hillel interpret 'the money' as including second money, but agree that desacralizing produce with gold is permitted.",
+      "whatsHappening": "The Gemara continues the explanation of the first opinion, stating Beit Hillel's view. Beit Hillel use a ריבוי from the double mention of 'the money' to include second money.",
+      "deeperAnalysis": "However, they agree that desacralizing produce with gold dinars is permitted, as gold is still considered first money for that purpose. This clarifies the scope of the dispute.",
+      "keyTerms": [
+        {
+          "term": "רִיבָה",
+          "meaning": "inclusion"
+        },
+        {
+          "term": "מְחַלְּלִין",
+          "meaning": "desacralize"
+        },
+        {
+          "term": "דִּבְרֵי הַכֹּל",
+          "meaning": "everyone agrees"
+        }
+      ],
+      "whatToRemember": "The dispute is only about exchanging silver for gold, not about using gold to buy produce.",
+      "whyThisMatters": "This clarifies the scope of the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּבֵית הִלֵּל סָבְרִי:",
+          "english": "And Beit Hillel hold:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״הַכֶּסֶף״, ״כֶּסֶף״, רִיבָּה –",
+          "english": "\"The money,\" \"money,\" an addition —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַאֲפִילּוּ כֶּסֶף שֵׁנִי.",
+          "english": "And even second money."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל פֵּירוֹת עַל דִּינָרִין –",
+          "english": "But produce on dinars —"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּבְרֵי הַכֹּל מְחַלְּלִינַן,",
+          "english": "Words of all, we desacralize,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּאַכַּתִּי כֶּסֶף רִאשׁוֹן הוּא.",
+          "english": "That my eating is first money."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "וּבֵית הִלֵּל סָבְרִי: ״הַכֶּסֶף״, ״כֶּסֶף״, רִיבָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        22
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:7:1",
+            "hebrew": "הכסף כסף ריבה - כסף יתירא כתיב בפרשה:",
+            "english": "",
+            "takeaway": "רש״י explains that the ריבוי is derived from the extra word כסף written in the verse."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Second opinion: dispute also over desacralizing produce with gold",
+      "stepSummary": "A second opinion holds that the dispute extends to desacralizing produce with gold dinars.",
+      "whatsHappening": "The Gemara presents a second opinion within the לישנא אחרינא. This opinion holds that Beit Shammai and Beit Hillel also disagree about whether one can desacralize produce with gold dinars.",
+      "deeperAnalysis": "This expands the scope of the dispute. It sets up the next challenge.",
+      "keyTerms": [
+        {
+          "term": "וְחַד אָמַר",
+          "meaning": "and one said"
+        },
+        {
+          "term": "אַף",
+          "meaning": "even"
+        },
+        {
+          "term": "נָמֵי",
+          "meaning": "also"
+        }
+      ],
+      "whyThisMatters": "This sets up the next challenge.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְחַד אָמַר: אַף בְּפֵירוֹת עַל דִּינָרִין נָמֵי מַחְלוֹקֶת.",
+          "english": "And one said: Even with regard to produce with dinars there is a dispute."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "וְחַד אָמַר: אַף בְּפֵירוֹת עַל דִּינָרִין נָמֵי מַחְלוֹקֶת.",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:8:1",
+            "hebrew": "אף בפירות על דינרין מחלוקת - וטעמא דב\"ש משום דדהבא פירא הוא ולא מתחלל עליה מעשר:",
+            "english": "",
+            "takeaway": "רש״י explains that בית שמאי's reason for the dispute is that gold is considered פירות, and therefore מעשר cannot be redeemed upon it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Why not dispute over exchanging silver for silver?",
+      "stepSummary": "The Gemara challenges the first opinion: if they dispute over exchanging silver for gold, why not dispute over exchanging silver for silver?",
+      "whatsHappening": "The Gemara raises a difficulty against the first opinion. If Beit Shammai forbid exchanging silver for gold because it's second money, they should also forbid exchanging silver for silver.",
+      "deeperAnalysis": "The Gemara is pressing on the scope of the dispute. This forces a clarification of the dispute.",
+      "keyTerms": [
+        {
+          "term": "לִיפְלוֹג",
+          "meaning": "let them dispute"
+        },
+        {
+          "term": "סְלָעִין עַל סְלָעִין",
+          "meaning": "silver coins for silver coins"
+        }
+      ],
+      "whyThisMatters": "This forces a clarification of the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר סְלָעִין עַל דִּינָרִין מַחְלוֹקֶת,",
+          "english": "And according to the one who says: a dispute over sela coins for dinars,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַדְּמִיפַּלְגִי בִּסְלָעִין עַל דִּינָרִין,",
+          "english": "Rather, they disagree over sela coins for dinars,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לִיפְלוֹג בִּסְלָעִין עַל סְלָעִין!",
+          "english": "Let them disagree over sela coins for sela coins!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "וּלְמַאן דְּאָמַר סְלָעִין עַל דִּינָרִין מַחְלוֹקֶת, אַדְּמִיפַלְגִי בִּסְלָעִין עַל דִּינָרִין, לִיפְלוֹג בִּסְלָעִין עַל סְלָעִין!",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:9:1",
+            "hebrew": "ולמ\"ד בסלעין על דינרין - דוקא פליגי וטעמא דב\"ש משום כסף שני הוי ולא משום דדהבא פירא הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the dispute in the first opinion is specifically about exchanging silver for gold, and the reason for בית שמאי's prohibition is that gold is considered second money, not because it is considered produce."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:9:2",
+            "hebrew": "אדמיפלגי בסלעין על דינרין - שיש לטעות ולומר טעמא משום דדהבא חשיב ליה פירא הוא ניפלגו בסלעין על סלעין ששניהם של כסף:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's difficulty arises from the potential misunderstanding that בית שמאי prohibit silver for gold because gold is considered produce, so they should also prohibit silver for silver since both are silver."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:9:1",
+            "hebrew": "לפלגי בסלעים על סלעים - ריב\"ן ל\"ג ליה דאמאי יחלל על סלעין אחרים מיהו הא לא קשיא שהראשונים אינם חריפים להוציאם בירושלים כמו השניים שהם מטבע אחר והא דאמר בהגוזל [קמא] (ב\"ק דף צז:) התקינו שיהו כל המעות יוצאות בירושלים מ\"מ אלו חריפין מאלו אך קשה דלקמן (בבא מציעא דף נה:) אמרי' ותנן לה במסכת מעשר שני (פ\"ב מ\"ו) סלע של חולין ושל מעשר שני שנתערבו מביא בסלע מעות ומחלל עליהם מפני שאמרו מחללין כסף על נחשת מדוחק ופרש\"י אבל לא יקח אחד מהסלעין ויאמר אם מעשר הוא מוטב ואם לאו חבירו יהא מחולל עליו משום דאין מחללין כסף על כסף אפילו מדוחק וי\"ל דהתם הסלעים שוין זה כזה ולכך אין מחללין אבל מטבע שאינו חריף על החריף מחללין אי נמי אתיא כר' מאיר דתנן (שם מ\"ח) בתר בבא דהפורט סלע אין מחללין כסף על כסף דברי ר' מאיר וחכמים מתירין [לפנינו שם במס' מעשר שני לא נמצא כך וע\"ש בתוי\"ט שכתב דנוסחא אחרת היתה לפניהם]:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty of why one cannot redeem second tithe with other silver coins, explaining that the first coins are not as sharp in Jerusalem as the second coins which are a different currency, and resolves the contradiction with the Mishnah in מעשר שני by distinguishing between coins of equal value and coins of different sharpness, or by attributing the prohibition to רבי מאיר."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: gold is considered produce relative to silver",
+      "stepSummary": "The Gemara resolves the difficulty by explaining that Beit Hillel concede that gold is considered produce relative to silver, and one cannot desacralize produce with produce.",
+      "whatsHappening": "The Gemara provides a resolution to the קשיא. If they had disputed over exchanging silver for silver, one might have thought that Beit Hillel concede that gold is considered produce relative to silver.",
+      "deeperAnalysis": "One cannot desacralize produce with produce. Therefore, the Tanna teaches us that they also dispute over exchanging silver for gold.",
+      "keyTerms": [
+        {
+          "term": "הֲוָה אָמֵינָא",
+          "meaning": "I would have thought"
+        },
+        {
+          "term": "פֵּירָא הָוֵי",
+          "meaning": "is considered produce"
+        },
+        {
+          "term": "קָא מַשְׁמַע לַן",
+          "meaning": "it teaches us"
+        }
+      ],
+      "whyThisMatters": "This clarifies the scope of the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי אִפְּלוּג בִּסְלָעִין עַל סְלָעִין, הֲוָה אָמֵינָא:",
+          "english": "If they had disagreed regarding sela coins on sela coins, I would say:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָנֵי מִילֵּי בִּסְלָעִין עַל סְלָעִין,",
+          "english": "These matters regarding sela coins on sela coins,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל בִּסְלָעִין עַל דִּינָרִין –",
+          "english": "but regarding sela coins on dinars –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מוֹדוּ לְהוּ בֵּית הִלֵּל לְבֵית שַׁמַּאי",
+          "english": "Beit Hillel concede to Beit Shammai"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּדַהֲבָא לְגַבֵּי כַּסְפָּא פֵּירָא הָוֵי וְלָא",
+          "english": "that gold relative to silver is a commodity and not"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מְחַלְּלִינַן, קָא מַשְׁמַע לַן.",
+          "english": "we desacralize, it teaches us."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אִי אִפְּלוּג בִּסְלָעִין עַל סְלָעִין, הֲוָה אָמֵינָא...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:10:1",
+            "hebrew": "הוה אמינא - בסלעין על סלעין הוא דפליג בית הלל עלייהו דלית להו כסף ראשון ולא כסף שני:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern was that בית הלל only disputes with בית שמאי regarding silver for silver because they do not accept the concepts of כסף ראשון and כסף שני."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:10:2",
+            "hebrew": "אבל בסלעין על דינרין אימא מודו להו - דלא מיתחלי משום דדהבא פירא הוא קמ\"ל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah teaches us that בית הלל do not concede to בית שמאי even regarding silver for gold, despite the principle that gold is considered produce relative to silver."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the Mishna about exchanging silver for copper in Jerusalem",
+      "stepSummary": "The Gemara cites a Mishna about exchanging silver for copper in Jerusalem to challenge the previous explanation.",
+      "whatsHappening": "The Gemara introduces a Mishna as a challenge to the previous explanation. The Mishna states that Beit Shammai permit exchanging silver for copper in Jerusalem, while Beit Hillel limit it to a shekel.",
+      "deeperAnalysis": "The Gemara argues: if Beit Shammai permit exchanging silver for copper in Jerusalem, why would they forbid exchanging silver for gold? The Gemara answers that Jerusalem is different because the verse says 'and you shall bestow the money for whatever your soul desires'.",
+      "keyTerms": [
+        {
+          "term": "יְרוּשָׁלַיִם",
+          "meaning": "Jerusalem"
+        },
+        {
+          "term": "בְּכָל הַסֶּלַע מָעוֹת",
+          "meaning": "with the entire silver coin"
+        }
+      ],
+      "whyThisMatters": "This sets up the need for a new explanation for the dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם,",
+          "english": "Come and hear: One who exchanges a sela of second tithe in Jerusalem,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֵּית שַׁמַּאי אוֹמְרִים:",
+          "english": "Beit Shammai say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּכׇל הַסֶּלַע מָעוֹת,",
+          "english": "With every sela, coins;"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּבֵית הִלֵּל אוֹמְרִים:",
+          "english": "And Beit Hillel say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת.",
+          "english": "With a silver shekel, with a shekel of coins."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הַשְׁתָּא כַּסְפָּא לְגַבֵּי פְּרִיטֵי מְחַלְּלִינַן,",
+          "english": "Now, silver coins, regarding exchanging for perutot, we desacralize,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְלָא אָמְרִינַן ״כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי״,",
+          "english": "And we do not say 'first silver and not second silver',"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לְגַבֵּי דַּהֲבָא דַּחֲשִׁיב מִינֵּיהּ,",
+          "english": "Regarding gold, which is more valuable than it,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִי אָמְרִינַן ״כֶּסֶף רִאשׁוֹן וְלֹא כֶּסֶף שֵׁנִי״?",
+          "english": "Do we say 'first silver and not second silver'?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע שֶׁל מַעֲשֵׂר שֵׁנִי בִּירוּשָׁלַיִם...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:11:1",
+            "hebrew": "ה\"ג הפורט סלע של מעשר שני בירושלים - שהיה מחליף סלעים שבידו ונוטל פרוטות להוציאם לצרכי סעודות מעשר:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna describes a person exchanging silver coins for copper coins in ירושלים to spend on the needs of מעשר שני meals."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:11:2",
+            "hebrew": "בית שמאי אומרים - אם בא להחליף כל הסלעין שבידו במעות יחליף:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בית שמאי permit exchanging all the silver coins one has for copper coins."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:11:3",
+            "hebrew": "וב\"ה אומרים לא יחליף אלא חציין - שמא לא ישהה בעיר עד שיוציא את כולן ויפקיד בעיר עד רגל אחר והפרוטות מתעפשות ואם יחזור ויחליפם בסלעין נמצא שולחני משתכר שתי פעמים ומעשר שני נפסד:",
+            "english": "",
+            "takeaway": "רש״י explains that בית הלל limit the exchange to half the coins, lest the person stay in the city too long, the copper coins become invalid, and if exchanged back, the money-changer profits twice while the מעשר שני is lost."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:11:1",
+            "hebrew": "השתא כספא לגבי פריטי מחללין - הא פשיטא ליה שיש חלוק בין ירושלים לחוץ לירושלים דחוץ לירושלים עיקר חלול הוא פירות על פריטי או על סלעים כדי להקל משאו ובירושלים עיקר החלול הוא כסף על פירות כדי לאכלם או על פריטי כדי לקנות בהם צורך אכילה ולכך לא פריך מינה ללישנא קמא ולא למ\"ד אף בפירות על דינרין מחלוקת ופליגי אי דהבא פירא הוי אי לאו ולא פריך אלא למ\"ד דטעמייהו דב\"ש משום כסף ראשון ולא כסף שני דלענין ראשון ושני סבור שאין לחלק בין תוך ירושלים לחוצה לה:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara's challenge is only relevant to the opinion that בית שמאי's reason is 'כסף ראשון ולא כסף שני', because that opinion does not distinguish between ירושלים and outside ירושלים, whereas other opinions do distinguish between the two locations."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Jerusalem is different",
+      "stepSummary": "Rava resolves the difficulty by explaining that Jerusalem is different because the verse says 'and you shall bestow the money for whatever your soul desires'.",
+      "whatsHappening": "The גמרא resolves the קשיא by distinguishing יְרוּשָׁלַיִם. This is a תירוץ step.",
+      "deeperAnalysis": "The verse states 'וְנָתַתָּה הַכֶּסֶף' in יְרוּשָׁלַיִם. This implies one may exchange money for anything there, including copper coins.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "שָׁאנֵי יְרוּשָׁלַיִם",
+          "meaning": "Jerusalem is different"
+        },
+        {
+          "term": "וְנָתַתָּה הַכֶּסֶף",
+          "meaning": "and you shall bestow the money"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: יְרוּשָׁלַיִם קָמוֹתְבַתְּ? שָׁאנֵי יְרוּשָׁלַיִם,",
+          "english": "Rava said: Jerusalem is written? Jerusalem is different,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּכְתִיב בֵּיהּ ״וְנָתַתָּה הַכֶּסֶף בְּכֹל אֲשֶׁר",
+          "english": "for it is written in it: \"And you shall give the money for all that"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּאַוֶּה נַפְשְׁךָ בַּבָּקָר וּבַצֹּאן״.",
+          "english": "your soul desires, in cattle and in sheep.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אָמַר רָבָא: יְרוּשָׁלַיִם קָמוֹתְבַתְּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 45a:12:1",
+            "hebrew": "בכל אשר תאוה נפשך - ואם תאמר והא בעינן פרי מפרי וגדולי קרקע וי\"ל דלא ממעטין אלא מים ומלח אבל לא פרוטה דבפרוטה קונה בקר וצאן דהוו פרי מפרי:",
+            "english": "",
+            "takeaway": "תוספות explains that the verse 'בכל אשר תאוה נפשך' does not exclude copper coins (פרוטה) from being used for purchase, because copper coins are used to buy cattle and sheep, which are considered 'פרי מפרי'."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the Mishna about exchanging copper for silver",
+      "stepSummary": "The Gemara cites a Mishna about exchanging copper for silver to challenge the previous explanation.",
+      "whatsHappening": "The גמרא introduces a משנה as a תָּא שְׁמַע challenge. This is a קשיא step.",
+      "deeperAnalysis": "The משנה permits exchanging copper for silver according to בֵּית שַׁמַּאי. The גמרא argues: if they permit copper for silver, why forbid silver for gold? The answer is that everyone agrees 'the money' includes second money, but the dispute is about a decree.",
+      "keyTerms": [
+        {
+          "term": "הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי",
+          "meaning": "one who exchanges copper coins of second tithe"
+        },
+        {
+          "term": "בְּשֶׁקֶל כֶּסֶף",
+          "meaning": "with a silver shekel"
+        },
+        {
+          "term": "בֵּית שַׁמַּאי",
+          "meaning": "Beit Shammai"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי –",
+          "english": "Come and hear: One who exchanges a sela from second-tithe coins –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֵּית שַׁמַּאי אוֹמְרִים:",
+          "english": "Beit Shammai say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּכׇל הַסֶּלַע מָעוֹת,",
+          "english": "In every sela of coins,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּבֵית הִלֵּל אוֹמְרִים:",
+          "english": "And Beit Hillel say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּשֶׁקֶל כֶּסֶף, בְּשֶׁקֶל מָעוֹת!",
+          "english": "In a silver shekel, in a shekel of coins!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "תָּא שְׁמַע: הַפּוֹרֵט סֶלַע מִמְּעוֹת מַעֲשֵׂר שֵׁנִי...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 45a:13:1",
+            "hebrew": "ת\"ש - מההיא קמייתא דלא מיירי בירושלים דמחליף פרוטות ונוטל סלע:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna cited as a challenge refers to the first Mishna in the chapter, which discusses exchanging copper coins for a silver sela in Yerushalayim."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: the dispute is about a decree",
+      "stepSummary": "The Gemara resolves the difficulty by explaining that everyone agrees that 'the money' includes second money, but the dispute is about a decree.",
+      "whatsHappening": "The גמרא provides a תירוץ to the קשיא. This is a resolution step.",
+      "deeperAnalysis": "Everyone agrees 'the money' includes second money. The dispute is about a decree: בֵּית שַׁמַּאי decree against exchanging silver for gold lest one delay ascent. בֵּית הִלֵּל do not decree this.",
+      "keyTerms": [
+        {
+          "term": "דְּכוּלֵּי עָלְמָא",
+          "meaning": "everyone agrees"
+        },
+        {
+          "term": "גָּזְרִינַן",
+          "meaning": "we decree"
+        },
+        {
+          "term": "שֶׁמָּא יְשַׁהֶה עֲלִיּוֹתָיו",
+          "meaning": "lest he delay his ascent"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא דְּכוּלֵּי עָלְמָא ״הַכֶּסֶף״ ״כֶּסֶף״ רִיבָּה,",
+          "english": "Rather, all the world \"the money\" \"money\" adds,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַאֲפִילּוּ כֶּסֶף שֵׁנִי.",
+          "english": "and even second money."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא אִי אִיתְּמַר דְּרַבִּי יוֹחָנָן וְרַבִּי",
+          "english": "Rather if it was said of Rabbi Yoḥanan and Rabbi"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שִׁמְעוֹן בֶּן לָקִישׁ, הָכִי אִיתְּמַר:",
+          "english": "Shimon ben Lakish, thus it was said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חַד אָמַר מַחְלוֹקֶת בִּסְלָעִין עַל דִּינָרִין,",
+          "english": "One said: A dispute in selas over dinars,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּבֵית שַׁמַּאי סָבְרִי: גָּזְרִינַן",
+          "english": "Beit Shammai hold: We decree"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אֶלָּא דְּכוּלֵּי עָלְמָא ״הַכֶּסֶף״ ״כֶּסֶף״ רִיבָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continuation"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T01:27:37.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 95.88284299999941,
+      "structure": 1797.1753545000684,
+      "validate": 261.4934203000739,
+      "translate": 367.2525031999685,
+      "meforshim": 706.8575258002966,
+      "teaching": 852.9485643000808
+    }
+  }
+}

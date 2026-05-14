@@ -1,0 +1,1471 @@
+{
+  "ref": "Bava Metzia 59b",
+  "masechet": "Bava_Metzia",
+  "daf": 59,
+  "amud": "b",
+  "mainTopic": "התנור של עכנאי ונענועו · לא תונה את הגר · אין מערבין פירות בפירות",
+  "overview": "(1) The narrative of the dispute over the Aknayi oven, the miracles performed by רבי אליעזר, the rejection of the Bat Kol, his excommunication, and the resulting agricultural damage. (2) The derivation of the three negative commandments regarding the oppression of a convert and the reason for the Torah's emphasis on the convert. (3) The Mishnah and Gemara discussing the prohibition of mixing new and old produce, and the specific laws regarding mixing wine, dregs, and water. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 11,
+      "topic": "התנור של עכנאי ונענועו",
+      "gist": "The narrative of the dispute over the Aknayi oven, the miracles performed by רבי אליעזר, the rejection of the Bat Kol, his excommunication, and the resulting agricultural damage.",
+      "openingFormula": "וזהו תנור של עכנאי",
+      "firstStepNumber": 1,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 12,
+      "endLine": 15,
+      "topic": "לא תונה את הגר",
+      "gist": "The derivation of the three negative commandments regarding the oppression of a convert and the reason for the Torah's emphasis on the convert.",
+      "openingFormula": "תנו רבנן",
+      "firstStepNumber": 10,
+      "lastStepNumber": 13
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 16,
+      "endLine": 16,
+      "topic": "אין מערבין פירות בפירות",
+      "gist": "The Mishnah and Gemara discussing the prohibition of mixing new and old produce, and the specific laws regarding mixing wine, dregs, and water. — discussion continues into next amud.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 14,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Introduction of the תַּנּוּר שֶׁל עַכְנַאי",
+      "stepSummary": "The sugya introduces the famous dispute over the Aknayi oven and explains the etymology of its name.",
+      "whatsHappening": "The Gemara introduces the famous dispute over the תַּנּוּר שֶׁל עַכְנַאי. It defines the name 'עַכְנַאי' by citing רַב יְהוּדָה אָמַר שְׁמוּאֵל.",
+      "deeperAnalysis": "The sages surrounded the oven with arguments like a snake (עַכְנָא) to declare it impure. רַבִּי אֱלִיעֶזֶר offered every possible proof, yet the court rejected them all.",
+      "keyTerms": [
+        {
+          "term": "תַּנּוּר שֶׁל עַכְנַאי",
+          "meaning": "the oven of Aknayi"
+        },
+        {
+          "term": "עַכְנָא",
+          "meaning": "a snake"
+        },
+        {
+          "term": "הֵשִׁיב רַבִּי אֱלִיעֶזֶר כָּל תְּשׁוּבוֹת שֶׁבָּעוֹלָם",
+          "meaning": "R. Eliezer gave all possible answers"
+        }
+      ],
+      "whatToRemember": "The name 'עַכְנַאי' refers to the snake-like encirclement of debate.",
+      "whyThisMatters": "Sets the stage for the entire narrative of the dispute and the principle of majority rule.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְזֶה הוּא תַּנּוּר שֶׁל עַכְנַאי. מַאי עַכְנַאי?",
+          "english": "And this is the oven of Achnai. What is Achnai?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:",
+          "english": "Said Rabbi Yehudah, said Shmuel:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁהִקִּיפוּ[הוּ] דְּבָרִים כְּעַכְנָא זוֹ, וְטִמְּאוּהוּ. תָּנָא:",
+          "english": "That they surrounded it with words like an Achnai snake, and made it impure.",
+          "notes": "Achnai is a type of snake that coils around its prey."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּאוֹתוֹ הַיּוֹם הֵשִׁיב רַבִּי אֱלִיעֶזֶר כׇּל תְּשׁוּבוֹת שֶׁבָּעוֹלָם,",
+          "english": "On that day Rabbi Eliezer returned all answers in the world,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְלֹא קִיבְּלוּ הֵימֶנּוּ.",
+          "english": "And they did not accept from him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְזֶה הוּא תַּנּוּר שֶׁל עַכְנַאי. מַאי עַכְנַאי? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: שֶׁהִקִּיפוּ[הוּ] דְּבָרִים כְּעַכְנָא זוֹ, וְטִמְאוּהוּ. תָּנָא: בְּאוֹתוֹ הַיּוֹם הֵשִׁיב רַבִּי אֱלִיעֶזֶר כָּל תְּשׁוּבוֹת שֶׁבָּעוֹלָם, וְלֹא קִיבְלוּ הֵימֶנּוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:1:1",
+            "hebrew": "עכנאי - נחש דרכו לעשות בעגולה להכניס זנבו אצל פיו:",
+            "english": "Akhnai: It is the way of a snake to make [itself] into a circle, to place its tail inside its mouth.",
+            "takeaway": "רש״י explains that the name עכנאי derives from the behavior of a snake (עכנא), which coils into a circle by placing its tail in its mouth, illustrating how the sages surrounded the oven with their arguments."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:1:1",
+            "hebrew": "זה תנור של עכנאי - יש דגרס חכנאי וכן בירושלמי וחכן זה נחש ושמא בעל התנור שהיה עושה שמו כן:",
+            "english": "And this is the oven of akhnai: Some have the version, chakhnai, and so is it in the Yerushalmi. And this chakhan is a snake. But perhaps the name of the owner of the oven who made [it] is like this.",
+            "takeaway": "תוספות notes an alternative textual variant, חכנאי, found in the ירושלמי, and suggests that the name might simply refer to the owner of the oven rather than the metaphorical snake imagery."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on the metaphorical explanation of the name עכנאי as a snake coiling around the oven, תוספות introduces a textual variant (חכנאי) and offers an alternative etymology based on the owner's name, challenging the necessity of the snake metaphor."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "The first two miracles: the carob tree and the water channel",
+      "stepSummary": "רבי אליעזer invokes two miracles to prove his halachic position, but the sages reject them as valid proof.",
+      "whatsHappening": "The narrative describes רַבִּי אֱלִיעֶזֶר's first two attempts to prove his case through supernatural signs.",
+      "deeperAnalysis": "רַבִּי אֱלִיעֶזֶר challenges the sages: if the law is like him, the carob tree will prove it. The tree uproots itself, but the sages reject this proof. He then invokes the water channel, which flows backward, yet they again reject this proof.",
+      "keyTerms": [
+        {
+          "term": "חָרוּב",
+          "meaning": "carob tree"
+        },
+        {
+          "term": "אַמַּת הַמַּיִם",
+          "meaning": "water channel"
+        },
+        {
+          "term": "אֵין מְבִיאִין רְאָיָה",
+          "meaning": "we do not bring proof"
+        }
+      ],
+      "whatToRemember": "Miracles are not accepted as halachic proof.",
+      "whyThisMatters": "Establishes the core principle that halacha is determined by debate and majority, not supernatural intervention.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי –",
+          "english": "He said to them: If the halakha is according to me –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חָרוּב זֶה יוֹכִיחַ.",
+          "english": "this carob tree will prove it."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נֶעֱקַר חָרוּב מִמְּקוֹמוֹ מֵאָה אַמָּה,",
+          "english": "The carob was uprooted from its place a hundred cubits,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמְרִי לַהּ: אַרְבַּע מֵאוֹת אַמָּה.",
+          "english": "and they say to it: four hundred cubits."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מִן הֶחָרוּב.",
+          "english": "They said to him: One does not bring proof from the carob."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חָזַר וְאָמַר לָהֶם:",
+          "english": "He returned and said to them:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם הֲלָכָה כְּמוֹתִי –",
+          "english": "If the halakha is according to me –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַמַּת הַמַּיִם יוֹכִיחוּ.",
+          "english": "the water channel will prove it."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "חָזְרוּ אַמַּת הַמַּיִם לַאֲחוֹרֵיהֶם.",
+          "english": "The water channel returned to its back."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מֵאַמַּת הַמַּיִם.",
+          "english": "They said to him: One does not bring proof from the water channel."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – חָרוּב זֶה יוֹכִיחַ. נֶעֱקַר חָרוּב מִמְּקוֹמוֹ מֵאָה אַמּוֹת, וְאָמְרִי לַהּ: אַרְבַּע מֵאוֹת אַמּוֹת. אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מִן הֶחָרוּב. חָזַר וְאָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – אַמַּת הַמַּיִם יוֹכִיחוּ. חָזְרוּ אַמַּת הַמַּיִם לַאֲחוֹרֵיהֶם. אָמְרוּ לוֹ: אֵין מְבִיאִין רְאָיָה מֵאַמַּת הַמַּיִם.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The third miracle: the walls of the Beit Midrash",
+      "stepSummary": "רבי אליעזer invokes the walls of the Beit Midrash, but רבי יהושע rebukes them, and they remain tilted.",
+      "whatsHappening": "The narrative describes the third miracle and רַבִּי יְהוֹשֻׁעַ's intervention.",
+      "deeperAnalysis": "רַבִּי אֱלִיעֶזֶר invokes the walls of the Beit Midrash, which begin to fall. רַבִּי יְהוֹשֻׁעַ rebukes them, asking how scholars can defeat each other in halacha. The walls do not fall out of respect for רַבִּי יְהוֹשֻׁעַ, nor do they straighten out of respect for רַבִּי אֱלִיעֶזֶר, remaining tilted to this day.",
+      "keyTerms": [
+        {
+          "term": "כּוֹתְלֵי בֵּית הַמִּדְרָשׁ",
+          "meaning": "walls of the House of Study"
+        },
+        {
+          "term": "גָּעַר בָּהֶם רַבִּי יְהוֹשֻׁעַ",
+          "meaning": "R. Yehoshua rebuked them"
+        },
+        {
+          "term": "אִם תַּלְמִידֵי חֲכָמִים מְנַצְחִים זֶה אֶת זֶה בַּהֲלָכָה",
+          "meaning": "if scholars defeat each other in the law"
+        }
+      ],
+      "whatToRemember": "The walls remain tilted as a testament to the dispute.",
+      "whyThisMatters": "Shows that even when miracles occur, they do not determine halacha.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "חָזַר וְאָמַר לָהֶם:",
+          "english": "He returned and said to them:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם הֲלָכָה כְּמוֹתִי –",
+          "english": "If the halakha is according to me –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כּוֹתְלֵי בֵּית הַמִּדְרָשׁ יוֹכִיחוּ.",
+          "english": "The walls of the House of Study will prove it."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הִטּוּ כּוֹתְלֵי בֵּית הַמִּדְרָשׁ לִיפּוֹל.",
+          "english": "The walls of the House of Study inclined to fall."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גָּעַר בָּהֶם רַבִּי יְהוֹשֻׁעַ, אָמַר לָהֶם:",
+          "english": "Rabbi Yehoshua rebuked them, he said to them:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִם תַּלְמִידֵי חֲכָמִים מְנַצְּחִים זֶה אֶת זֶה בַּהֲלָכָה,",
+          "english": "If students of sages defeat each other in halakha,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַתֶּם מָה טִיבְכֶם?",
+          "english": "What is your nature?",
+          "notes": "Refers to the walls' role in the dispute."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לֹא נָפְלוּ מִפְּנֵי כְבוֹדוֹ שֶׁל רַבִּי יְהוֹשֻׁעַ,",
+          "english": "They did not fall because of the honor of Rabbi Yehoshua,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְלֹא זָקְפוּ מִפְּנֵי כְבוֹדוֹ שֶׁל רַבִּי אֱלִיעֶזֶר,",
+          "english": "And they did not straighten because of the honor of Rabbi Eliezer,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וַעֲדַיִן מַטִּין וְעוֹמְדִין.",
+          "english": "And they still incline and stand."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "חָזַר וְאָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – כּוֹתְלֵי בֵּית הַמִּדְרָשׁ יוֹכִיחוּ. הִטּוּ כּוֹתְלֵי בֵּית הַמִּדְרָשׁ לִיפּוֹל. גָּעַר בָּהֶם רַבִּי יְהוֹשֻׁעַ, אָמַר לָהֶם: אִם תַּלְמִידֵי חֲכָמִים מְנַצְחִים זֶה אֶת זֶה בַּהֲלָכָה, אַתֶּם מָה טִיבְכֶם? לֹא נָפְלוּ מִפְּנֵי כְּבוֹדוֹ שֶׁל רַבִּי יְהוֹשֻׁעַ, וְלֹא זָקְפוּ מִפְּנֵי כְּבוֹדוֹ שֶׁל רַבִּי אֱלִיעֶזֶר, וַעֲדַיִן מַטִּין וְעוֹמְדִין.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Bat Kol and רַבִּי יְהוֹשֻׁעַ's response",
+      "stepSummary": "רבי אליעזer invokes a Bat Kol, but רבי יהושע responds with 'The Torah is not in heaven'.",
+      "whatsHappening": "The narrative describes the final miracle (Bat Kol) and the decisive response from רַבִּי יְהוֹשֻׁעַ.",
+      "deeperAnalysis": "רַבִּי אֱלִיעֶזֶר invokes a Bat Kol to prove his case. רַבִּי יְהוֹשֻׁעַ stands and quotes Deuteronomy 30:12: 'The Torah is not in heaven.' רַבִּי יִרְמְיָה explains that since the Torah was given at Sinai, we do not pay attention to a Bat Kol, as the Torah already states 'After the majority to incline' (Exodus 23:2).",
+      "keyTerms": [
+        {
+          "term": "בַּת קוֹל",
+          "meaning": "heavenly voice"
+        },
+        {
+          "term": "לֹא בַשָּׁמַיִם הִיא",
+          "meaning": "it is not in heaven"
+        },
+        {
+          "term": "אַחֲרֵי רַבִּים לְהַטּוֹת",
+          "meaning": "after the majority to incline"
+        }
+      ],
+      "whatToRemember": "The principle 'לֹא בַשָּׁמַיִם הִיא' establishes majority rule in halacha.",
+      "whyThisMatters": "This is the foundational principle for all halachic decision-making.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "חָזַר וְאָמַר לָהֶם:",
+          "english": "He returned and said to them:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם הֲלָכָה כְּמוֹתִי –",
+          "english": "If the law is according to me –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִן הַשָּׁמַיִם יוֹכִיחוּ.",
+          "english": "from Heaven they will prove it."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יָצָאתָה בַּת קוֹל וְאָמְרָה:",
+          "english": "A heavenly voice went out and said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָה לָכֶם אֵצֶל רַבִּי אֱלִיעֶזֶר,",
+          "english": "What do you have with Rabbi Eliezer,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שֶׁהֲלָכָה כְּמוֹתוֹ בְּכׇל מָקוֹם.",
+          "english": "that the law is according to him in every place."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "עָמַד רַבִּי יְהוֹשֻׁעַ עַל רַגְלָיו וְאָמַר:",
+          "english": "Rabbi Yehoshua stood on his feet and said:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״לֹא בַשָּׁמַיִם הִיא!",
+          "english": "\"It is not in Heaven!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״ מַאי ״לֹא בַּשָּׁמַיִם הִיא״?",
+          "english": "\" What is \"It is not in Heaven\"?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמַר רַבִּי יִרְמְיָה:",
+          "english": "Rabbi Yirmiyah said:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "שֶׁכְּבָר נִתְּנָה תּוֹרָה מֵהַר סִינַי,",
+          "english": "That the Torah was already given from Mount Sinai,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֵין אָנוּ מַשְׁגִּיחִין בְּבַת קוֹל,",
+          "english": "we do not look at a heavenly voice,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "שֶׁכְּבָר כָּתַבְתָּ בְּהַר סִינַי בַּתּוֹרָה ״אַחֲרֵי רַבִּים לְהַטֹּת״.",
+          "english": "that You already wrote at Mount Sinai in the Torah \"after the many to incline\"."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "אַשְׁכְּחֵיהּ רַבִּי נָתָן לְאֵלִיָּהוּ, אֲמַר לֵיהּ:",
+          "english": "Rabbi Natan found Elijah, he said to him:"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "מַאי עָבֵיד קוּדְשָׁא בְּרִיךְ הוּא בְּהַהִיא שַׁעְתָּא?",
+          "english": "What did the Holy One, Blessed be He, do in that hour?"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "אֲמַר לֵיהּ: קָא חָיֵיךְ וְאָמַר, ״נִצְּחוּנִי בָּנַי!",
+          "english": "He said to him: He was smiling and said, \"My sons have defeated Me!"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "נִצְּחוּנִי בָּנַי! ״",
+          "english": "My sons have defeated Me! \""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "חָזַר וְאָמַר לָהֶם: אִם הֲלָכָה כְּמוֹתִי – מִן הַשָּׁמַיִם יוֹכִיחוּ. יָצָאתָה בַּת קוֹל וְאָמְרָה: מָה לָכֶם אֵצֶל רַבִּי אֱלִיעֶזֶר, שֶׁהֲלָכָה כְּמוֹתוֹ בְּכָל מָקוֹם. עָמַד רַבִּי יְהוֹשֻׁעַ עַל רַגְלָיו וְאָמַר: ״לֹא בַשָּׁמַיִם הִיא!״ מַאי ״לֹא בַשָּׁמַיִם הִיא״? אָמַר רַבִּי יִרְמְיָה: שֶׁכְּבָר נִתְּנָה תוֹרָה מֵהַר סִינַי, אֵין אָנוּ מַשְׁגִּיחִין בְּבַת קוֹל, שֶׁכְּבָר כָּתַבְתָּ בְּהַר סִינַי בַּתּוֹרָה ״אַחֲרֵי רַבִּים לְהַטּוֹת״.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:5:1",
+            "hebrew": "לא בשמים היא - והא דאמר בפ\"ק דיבמות (ד' יד. ושם ד\"ה רבי) דהלכה כב\"ה משום דיצאה בת קול שאני הכא שבא לחלוק על דברי תורה דכתיב אחרי רבים להטות אבל התם אדרבה ב\"ה רובא אי לאו דהוה מספקא לן אי אזלינן בתר רובא משום דב\"ש הוו חריפי טובא ועוד דכאן לא יצאה בת קול אלא משום כבודו דר\"א שאמר מן השמים יוכיחו והא דאמר התם רבי יהושע היא דאמר אין משגיחין בבת קול ולא שמעינן ליה לר' יהושע אלא על ב\"ק דהאי מעשה דר\"א דהכא התם דייק מדקאמר לא בשמים היא כבר ניתנה לנו תורה מסיני משמע דבשום מקום אין משגיחין:",
+            "english": "It is not in heaven: And that which it said in the first chapter of Yevamot (Yevamot 14a; and see Tosafot on Yevamot 14a, s.v. Rabbi) that the law is like the House of Hillel because a Divine Voice emerged - it is different here; since it is coming to disagree with words of the Torah, as it is written (Exodus 23:2), \"After a majority to incline.\" Whereas there it is just the opposite, the House of Hillel is the majority [such that the law would follow them even without the Divine Voice], if it were not that we were in doubt if we follow the majority, because the House of Shammai is very sharp. And also (another answer) is that here the Divine Voice only emerged on account of the honor of Rabbi Eliezer, who said, \"Heaven will prove [it].\" And that which it said over there that [disregarding the Divine Voice] is [always the position of] Rabbi Yehoshua, who said that we do not pay attention to a Divine Voice - yet we do not hear it from Rabbi Yehoshua except in this incident of Rabbi Eliezer from here - it is making an exact inference there: Since he says, \"It is not in heaven, the Torah was already given from Sinai,\" it is implied that we do not pay attention [to it] in any place.",
+            "takeaway": "תוספות explains that the principle of disregarding a בַּת קוֹל applies here because it contradicts the explicit Torah law of אַחֲרֵי רַבִּים לְהַטּוֹת, whereas in יבמות the בַּת קוֹל supported the majority and was issued for the honor of רַבִּי אֱלִיעֶזֶר."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:5:2",
+            "hebrew": "קחייך ואמר נצחוני בני - והא דאמר בריש ע\"ז (ד' ג:) מיום שחרב בהמ\"ק אין שחוק לפני הקב\"ה היינו קבוע והכא מילתא דבדיחותא בעלמא הוא דאמר:",
+            "english": "He, smiled and said, \"My children have triumphed over Me\": And that which it said at the beginning of Avodah Zarah (3b), \"There is no more laughter in front of the Holy One, blessed be He, since the Temple was destroyed\" - that is fixed [laughter], whereas here it is just [regarding] a joke that He said.",
+            "takeaway": "תוספות reconciles God's laughter here with the statement in עבודה זרה that there is no laughter before God since the Temple's destruction by distinguishing between fixed laughter and the temporary joy expressed in this specific instance."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "God's reaction and the excommunication of רַבִּי אֱלִיעֶזֶר",
+      "stepSummary": "God smiles at the sages' victory, and רבי אליעזer is excommunicated.",
+      "whatsHappening": "The narrative describes God's reaction and the subsequent excommunication of רַבִּי אֱלִיעֶזֶר.",
+      "deeperAnalysis": "רַבִּי נַחְמָן meets Elijah, who reports that God smiled and said, 'My sons have defeated Me.' This shows God's acceptance of the principle of majority rule. The sages then burn all the produce רַבִּי אֱלִיעֶזֶר had declared pure and excommunicate him.",
+      "keyTerms": [
+        {
+          "term": "קָא חָיֵךְ וְאָמַר",
+          "meaning": "He smiled and said"
+        },
+        {
+          "term": "נִצְחוּנִי בָנַי",
+          "meaning": "My sons have defeated Me"
+        },
+        {
+          "term": "נִמְנוּ עָלָיו וּבֵרְכוּהוּ",
+          "meaning": "they voted upon him and excommunicated him"
+        }
+      ],
+      "whatToRemember": "God accepts the principle of majority rule.",
+      "whyThisMatters": "Shows that even God accepts the principle of majority rule in halacha.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עָמַד רַבִּי יְהוֹשֻׁעַ עַל רַגְלָיו וְאָמַר:",
+          "english": "Rabbi Yehoshua stood on his feet and said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״לֹא בַשָּׁמַיִם הִיא!",
+          "english": "\"It is not in heaven!\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״ מַאי ״לֹא בַּשָּׁמַיִם הִיא״?",
+          "english": "\"What is 'It is not in heaven'?\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר רַבִּי יִרְמְיָה:",
+          "english": "Rabbi Yirmiyah said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁכְּבָר נִתְּנָה תּוֹרָה מֵהַר סִינַי,",
+          "english": "The Torah was already given from Mount Sinai,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵין אָנוּ מַשְׁגִּיחִין בְּבַת קוֹל,",
+          "english": "we do not look at a heavenly voice,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שֶׁכְּבָר כָּתַבְתָּ בְּהַר סִינַי בַּתּוֹרָה ״אַחֲרֵי רַבִּים לְהַטֹּת״.",
+          "english": "for You already wrote at Mount Sinai in the Torah: 'After the many to incline.'"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַשְׁכְּחֵיהּ רַבִּי נָתָן לְאֵלִיָּהוּ, אֲמַר לֵיהּ:",
+          "english": "Rabbi Natan found Elijah, he said to him:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מַאי עָבֵיד קוּדְשָׁא בְּרִיךְ הוּא בְּהַהִיא שַׁעְתָּא?",
+          "english": "What did the Holy One, blessed be He, do at that hour?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲמַר לֵיהּ: קָא חָיֵיךְ וְאָמַר, ״נִצְּחוּנִי בָּנַי!",
+          "english": "He said to him: He was smiling and said, 'My sons have defeated Me!"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "נִצְּחוּנִי בָּנַי! ״ אָמְרוּ:",
+          "english": "My sons have defeated Me!' They said:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אוֹתוֹ הַיּוֹם הֵבִיאוּ כׇּל טְהָרוֹת שֶׁטִּיהֵר",
+          "english": "That day they brought all the pure things that Teher",
+          "notes": "Teher is a place known for its purity laws; here it refers to items declared pure by Rabbi Eliezer."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "רַבִּי אֱלִיעֶזֶר וּשְׂרָפוּם בָּאֵשׁ.",
+          "english": "Rabbi Eliezer and burned them in fire."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְנִמְנוּ עָלָיו וּבֵרְכוּהוּ, וְאָמְרוּ: מִי יֵלֵךְ וְיוֹדִיעוֹ?",
+          "english": "And they counted against him and excommunicated him, and they said: Who will go and inform him?"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "אֲמַר לָהֶם רַבִּי עֲקִיבָא: אֲנִי אֵלֵךְ,",
+          "english": "Rabbi Akiva said to them: I will go,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "שֶׁמָּא יֵלֵךְ אָדָם שֶׁאֵינוֹ הָגוּן וְיוֹדִיעוֹ,",
+          "english": "lest a person who is not fit go and inform him,"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "וְנִמְצָא מַחְרִיב אֶת כָּל הָעוֹלָם כּוּלּוֹ.",
+          "english": "and he will be found destroying the entire world."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אַשְׁכְּחֵיהּ רַבִּי נָתָן לְאֵלִיָּהוּ, אֲמַר לֵיהּ: מַאי עָבֵיד קוּדְשָׁא בְּרִיךְ הוּא בְּהַהִיא שַׁעְתָּא? אֲמַר לֵיהּ: קָא חָיֵךְ וְאָמַר, ״נִצְחוּנִי בָנַי! נִצְחוּנִי בָנַי!״ אָמְרוּ: אוֹתוֹ הַיּוֹם הֵבִיאוּ כָּל טְהָרוֹת שֶׁטִּהֵר רַבִּי אֱלִיעֶזֶר וּשְׂרָפוּם בָּאֵשׁ. וְנִמְנוּ עָלָיו וּבֵרְכוּהוּ, וְאָמְרוּ: מִי יֵלֵךְ וְיוֹדִיעוֹ? אֲמַר לָהֶם רַבִּי עֲקִיבָא: אֲנִי אֵלֵךְ, שֶׁמָּא יֵלֵךְ אָדָם שֶׁאֵינוֹ הָגוּן וְיוֹדִיעוֹ, וְנִמְצָא מַחְרִיב אֶת כָּל הָעוֹלָם כּוּלּוֹ.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:6:1",
+            "hebrew": "כל טהרות שטיהר ר\"א - על ידי מעשה שאירע נשאלה הלכה זו בבית המדרש שנפלה טומאה לאויר תנור זה וחזרו ועשאו על גביו טהרות וטיהרם ר\"א והביאום ושרפום לפניו:",
+            "english": "All the ritually pure items deemed pure by Rabbi Eliezer: As a result of an incident that occurred, there was an inquiry about this law in the study hall - that ritual impurity fell into the space of this oven, and they then prepared pure foods on top of it. And Rabbi Eliezer deemed them pure; but they brought them and burned them before him.",
+            "takeaway": "רש״י explains that the burning of the טהרות was a direct response to a specific הלכה inquiry in the בית המדרש regarding an oven where טומאה fell into its airspace, which רבי אליעזר had ruled טהור."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:5:1",
+            "hebrew": "לא בשמים היא - והא דאמר בפ\"ק דיבמות (ד' יד. ושם ד\"ה רבי) דהלכה כב\"ה משום דיצאה בת קול שאני הכא שבא לחלוק על דברי תורה דכתיב אחרי רבים להטות אבל התם אדרבה ב\"ה רובא אי לאו דהוה מספקא לן אי אזלינן בתר רובא משום דב\"ש הוו חריפי טובא ועוד דכאן לא יצאה בת קול אלא משום כבודו דר\"א שאמר מן השמים יוכיחו והא דאמר התם רבי יהושע היא דאמר אין משגיחין בבת קול ולא שמעינן ליה לר' יהושע אלא על ב\"ק דהאי מעשה דר\"א דהכא התם דייק מדקאמר לא בשמים היא כבר ניתנה לנו תורה מסיני משמע דבשום מקום אין משגיחין:",
+            "english": "It is not in heaven: And that which it said in the first chapter of Yevamot (Yevamot 14a; and see Tosafot on Yevamot 14a, s.v. Rabbi) that the law is like the House of Hillel because a Divine Voice emerged - it is different here; since it is coming to disagree with words of the Torah, as it is written (Exodus 23:2), \"After a majority to incline.\" Whereas there it is just the opposite, the House of Hillel is the majority [such that the law would follow them even without the Divine Voice], if it were not that we were in doubt if we follow the majority, because the House of Shammai is very sharp. And also (another answer) is that here the Divine Voice only emerged on account of the honor of Rabbi Eliezer, who said, \"Heaven will prove [it].\" And that which it said over there that [disregarding the Divine Voice] is [always the position of] Rabbi Yehoshua, who said that we do not pay attention to a Divine Voice - yet we do not hear it from Rabbi Yehoshua except in this incident of Rabbi Eliezer from here - it is making an exact inference there: Since he says, \"It is not in heaven, the Torah was already given from Sinai,\" it is implied that we do not pay attention [to it] in any place.",
+            "takeaway": "תוספות distinguishes this case from יבמות 14a, where the הלכה follows בית הלל despite a בת קול, by noting that here the dispute challenges the explicit תורה principle of אחרי רבים להטות, whereas in יבמות בית הלל was already the majority and the בת קול was only needed due to בית שמאי's sharpness, or alternatively, the בת קול here was only for רבי אליעזר's honor."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:5:2",
+            "hebrew": "קחייך ואמר נצחוני בני - והא דאמר בריש ע\"ז (ד' ג:) מיום שחרב בהמ\"ק אין שחוק לפני הקב\"ה היינו קבוע והכא מילתא דבדיחותא בעלמא הוא דאמר:",
+            "english": "He, smiled and said, \"My children have triumphed over Me\": And that which it said at the beginning of Avodah Zarah (3b), \"There is no more laughter in front of the Holy One, blessed be He, since the Temple was destroyed\" - that is fixed [laughter], whereas here it is just [regarding] a joke that He said.",
+            "takeaway": "תוספות reconciles God's laughter here with the statement in עבודה זרה 3b that there is no laughter before God since the Temple's destruction by explaining that the laughter in עבודה זרה refers to fixed, continuous joy, whereas here it was a momentary expression of amusement."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי עַקִּיבָא informs רַבִּי אֱלִיעֶזֶר",
+      "stepSummary": "רבי עקיבא informs רבי אליעזer of his excommunication, and רבי אליעזer reacts with grief.",
+      "whatsHappening": "The narrative describes רַבִּי עַקִּיבָא's careful approach to informing רַבִּי אֱלִיעֶזֶר.",
+      "deeperAnalysis": "רַבִּי עַקִּיבָא dresses in black and sits at a distance of four cubits. רַבִּי אֱלִיעֶזֶר asks what day it is, and רַבִּי עַקִּיבָא says it appears his friends have distanced themselves. רַבִּי אֱלִיעֶזֶר tears his clothes, removes his shoes, and sits on the ground.",
+      "keyTerms": [
+        {
+          "term": "לָבַשׁ שְׁחוֹרִים וְנִתְעַטֵּף שְׁחוֹרִים",
+          "meaning": "he dressed in black and wrapped himself in black"
+        },
+        {
+          "term": "יָשַׁב לְפָנָיו בְּרִיחוּק אַרְבַּע אַמּוֹת",
+          "meaning": "he sat before him at a distance of four cubits"
+        },
+        {
+          "term": "חֲבֵרִים בְּדֵלִים מִמֶּךָ",
+          "meaning": "your friends have distanced themselves from you"
+        }
+      ],
+      "whatToRemember": "רַבִּי עַקִּיבָא's careful approach shows respect for רַבִּי אֱלִיעֶזֶר.",
+      "whyThisMatters": "Shows the respect due to a great sage even when excommunicated.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מָה עָשָׂה רַבִּי עֲקִיבָא?",
+          "english": "What did Rabbi Akiva do?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָבַשׁ שְׁחוֹרִים וְנִתְעַטֵּף שְׁחוֹרִים,",
+          "english": "He dressed in black and wrapped himself in black,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְיָשַׁב לְפָנָיו בְּרִיחוּק אַרְבַּע אַמּוֹת.",
+          "english": "and sat before him at a distance of four cubits."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר לוֹ רַבִּי אֱלִיעֶזֶר: עֲקִיבָא, מָה יוֹם מִיָּמִים?",
+          "english": "Rabbi Eliezer said to him: Akiva, what day is this among days?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר לוֹ: רַבִּי, כִּמְדוּמֶּה לִי שֶׁחֲבֵירִים בְּדֵילִים מִמֶּךָ.",
+          "english": "He said to him: Rabbi, it seems to me that colleagues separate from you."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַף הוּא קָרַע בְּגָדָיו וְחָלַץ מִנְעָלָיו,",
+          "english": "Also he tore his garments and removed his shoes,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְנִשְׁמַט וְיָשַׁב עַל גַּבֵּי קַרְקַע.",
+          "english": "and slipped away and sat on top of the ground."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מָה עָשָׂה רַבִּי עֲקִיבָא? לָבַשׁ שְׁחוֹרִים וְנִתְעַטֵּף שְׁחוֹרִים, וְיָשַׁב לְפָנָיו בְּרִיחוּק אַרְבַּע אַמּוֹת. אָמַר לוֹ רַבִּי אֱלִיעֶזֶר: עֲקִיבָא, מָה יוֹם מִיָּמִים? אָמַר לוֹ: רַבִּי, כִּמְדוּמֶה לִי שֶׁחֲבֵרִים בְּדֵלִים מִמֶּךָ. אַף הוּא קָרַע בְּגָדָיו וְחָלַץ מִנְעָלָיו, וְנִשְׁמַט וְיָשַׁב עַל גַּבֵּי קַרְקַע.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:7:1",
+            "hebrew": "לבש שחורים - ענין צער ואבל:",
+            "english": "He wore black: This is a matter (an indication) of distress and mourning.",
+            "takeaway": "רש״י explains that רבי עקיבא wore black garments as a sign of distress and mourning to prepare רבי אליעזer for the bad news."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:7:2",
+            "hebrew": "אף הוא קרע בגדיו - שהמנודה חייב בקריעה:",
+            "english": "He too, rent his garments: As one excommunicated is obligated to tear.",
+            "takeaway": "רש״י explains that רבי אליעזer tore his garments because one who is excommunicated is obligated to perform קריעה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:7:3",
+            "hebrew": "וחלץ מנעליו - שהמנודה אסור בנעילת הסנדל במו\"ק (דף טו:):",
+            "english": "And removed his shoes: Since one excommunicated is forbidden to wear shoes. This is in Moed Katan (15b).",
+            "takeaway": "רש״י explains that רבי אליעזer removed his shoes because an excommunicated person is forbidden to wear them, as stated in מועד קטן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:7:4",
+            "hebrew": "ונשמט - מן הכסא:",
+            "english": "And he dropped: From the chair.",
+            "takeaway": "רש״י explains that the term נשמט means רבי אליעזer dropped down from his chair to sit on the ground."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:7:1",
+            "hebrew": "וקרע בגדיו וחלץ מנעליו - אין להוכיח מכאן הא דמבעיא ליה במועד קטן (ד' טו: ושם ד\"ה לא) אם מנודה צריך קריעת בגדים וחלוץ מנעל דדלמא הכא לצערא בעלמא הוא דעבד הכי:",
+            "english": "He rent his garments and removed his shoes: It cannot be proven from here [about] that which it asked in Moed Katan (Moed Katan 15b; and see Tosafot on Moed Katan, s.v. La), whether one excommunicated must rent his garments and remove his shoes. As perhaps here, he is only doing it from plain distress.",
+            "takeaway": "תוספות argues that we cannot derive the halachic obligation of קריעה and חליצה for an excommunicated person from this narrative, as רבי אליעזer may have done so merely out of personal distress rather than legal requirement."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges the assumption that רבי אליעזer's actions were legally mandated, whereas רש״י explicitly states they were obligations of נידוי, creating a tension regarding whether this narrative serves as a source for הלכה or merely describes emotional reaction."
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The agricultural damage and רַבִּי אֱלִיעֶזֶר's power",
+      "stepSummary": "רבי אליעזer's grief causes widespread agricultural damage, demonstrating his immense power.",
+      "whatsHappening": "The narrative describes the agricultural damage caused by רַבִּי אֱלִיעֶזֶר's tears.",
+      "deeperAnalysis": "רַבִּי אֱלִיעֶזֶר's tears cause a third of the world's olives, wheat, and barley to be stricken. Some say even dough in a woman's hand spoiled. A Baraita adds that רַבִּי אֱלִיעֶזֶר was so great that wherever he looked, things burned.",
+      "keyTerms": [
+        {
+          "term": "זָלְגוּ עֵינָיו דְּמָעוֹת",
+          "meaning": "his eyes flowed with tears"
+        },
+        {
+          "term": "לָקָה הָעוֹלָם",
+          "meaning": "the world was stricken"
+        },
+        {
+          "term": "בְּכָל מָקוֹם שֶׁנָּתַן בּוֹ עֵינָיו רַבִּי אֱלִיעֶזֶר – נִשְׂרַף",
+          "meaning": "wherever R. Eliezer put his eyes, it burned"
+        }
+      ],
+      "whatToRemember": "רַבִּי אֱלִיעֶזֶר's power was immense, but he accepted the excommunication.",
+      "whyThisMatters": "Shows the gravity of the situation and רַבִּי אֱלִיעֶזֶר's acceptance of the decision.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "זָלְגוּ עֵינָיו דְּמָעוֹת,",
+          "english": "His eyes flowed tears,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָקָה הָעוֹלָם: שְׁלִישׁ בְּזֵיתִים,",
+          "english": "The world was stricken: a third in olives,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּשְׁלִישׁ בְּחִטִּים, וּשְׁלִישׁ בִּשְׂעוֹרִים.",
+          "english": "and a third in wheat, and a third in barley."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְיֵשׁ אוֹמְרִים: אַף בָּצֵק שֶׁבִּידֵי אִשָּׁה טָפַח.",
+          "english": "And there are those who say: even dough in a woman's hand spoiled."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תָּנָא: אַף גָּדוֹל הָיָה בְּאוֹתוֹ הַיּוֹם,",
+          "english": "It was taught: Great was he on that day,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שֶׁבְּכָל מָקוֹם שֶׁנָּתַן בּוֹ עֵינָיו רַבִּי אֱלִיעֶזֶר –",
+          "english": "that in every place that he put his eyes, Rabbi Eliezer –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נִשְׂרַף.",
+          "english": "it was burned."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "זָלְגוּ עֵינָיו דְּמָעוֹת, לָקָה הָעוֹלָם: שְׁלִישׁ בְּזֵיתִים, וּשְׁלִישׁ בְּחִטִּים, וּשְׁלִישׁ בִּשְׂעוֹרִים. וְיֵשׁ אוֹמְרִים: אַף בָּצֵק שֶׁבִּידֵי אִשָּׁה טָפַח. תָּנָא: אַף גָּדוֹל הָיָה בְּאוֹתוֹ הַיּוֹם, שֶׁבְּכָל מָקוֹם שֶׁנָּתַן בּוֹ עֵינָיו רַבִּי אֱלִיעֶזֶר – נִשְׂרַף.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:8:1",
+            "hebrew": "טפח - נתקלקל:",
+            "english": "Spoiled: Went bad.",
+            "takeaway": "רש״י explains that טפח refers to the dough spoiling or going bad due to רבי אליעזer's tears."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:8:2",
+            "hebrew": "אך גדול - מכה גדולה:",
+            "english": "Great anger: A great plague.",
+            "takeaway": "רש״י interprets אך גדול as indicating a great plague or severe affliction that occurred on that day."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי גַּמְלִיאֵל's near-drowning and prayer",
+      "stepSummary": "רבי גמליאל is nearly drowned but prays for the sake of peace, and the sea calms.",
+      "whatsHappening": "The narrative describes רַבִּי גַּמְלִיאֵל's near-drowning and his prayer.",
+      "deeperAnalysis": "רַבִּי גַּמְלִיאֵל is on a ship and a wave threatens to drown him. He realizes this is because of רַבִּי אֱלִיעֶזֶר. He prays that he did not act for his own honor or his father's house, but for God's honor, so that controversies not multiply in Israel.",
+      "keyTerms": [
+        {
+          "term": "עָמַד עָלָיו נַחְשׁוֹל לְטַבְּעוֹ",
+          "meaning": "a wave stood upon him to drown him"
+        },
+        {
+          "term": "לֹא לִכְבוֹדִי עָשִׂיתִי, וְלֹא לִכְבוֹד בֵּית אַבָּא עָשִׂיתִי",
+          "meaning": "not for my honor I did, nor for the honor of my father's house"
+        },
+        {
+          "term": "שֶׁלֹּא יִרְבּוּ מַחְלוֹקוֹת בְּיִשְׂרָאֵל",
+          "meaning": "so that controversies not multiply in Israel"
+        }
+      ],
+      "whatToRemember": "רַבִּי גַּמְלִיאֵל's actions were for the sake of peace.",
+      "whyThisMatters": "Shows that the excommunication was for the sake of peace and unity.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַף רַבָּן גַּמְלִיאֵל הָיָה בָּא בִּסְפִינָה.",
+          "english": "And even Rabban Gamliel was coming in a ship."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עָמַד עָלָיו נַחְשׁוֹל לְטַבְּעוֹ. אָמַר:",
+          "english": "A wave stood upon him to drown him. He said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּמְדוּמֶּה לִי שֶׁאֵין זֶה אֶלָּא בִּשְׁבִיל",
+          "english": "It appears to me that this is only because of"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַבִּי אֱלִיעֶזֶר בֶּן הוּרְקָנוֹס.",
+          "english": "Rabbi Eliezer ben Hurcanus."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עָמַד עַל רַגְלָיו וְאָמַר:",
+          "english": "He stood on his feet and said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רִבּוֹנוֹ שֶׁל עוֹלָם,",
+          "english": "Master of the world,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "גָּלוּי וְיָדוּעַ לְפָנֶיךָ שֶׁלֹּא לִכְבוֹדִי עָשִׂיתִי,",
+          "english": "It is revealed and known before You that not for my honor I did,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְלֹא לִכְבוֹד בֵּית אַבָּא עָשִׂיתִי,",
+          "english": "and not for the honor of my father's house I did,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֶלָּא לִכְבוֹדְךָ, שֶׁלֹּא יִרְבּוּ מַחְלוֹקוֹת בְּיִשְׂרָאֵל.",
+          "english": "but for Your honor, that controversies not multiply in Israel."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "נָח הַיָּם מִזַּעְפּוֹ.",
+          "english": "The sea rested from its anger."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאַף רַבָּן גַּמְלִיאֵל הָיָה בָא בִסְפִינָה. עָמַד עָלָיו נַחְשׁוֹל לְטַבְּעוֹ. אָמַר: כִּמְדוּמֶה לִי שֶׁאֵין זֶה אֶלָּא בִּשְׁבִיל רַבִּי אֱלִיעֶזֶר בֶּן הוּרְקָנוֹס. עָמַד עַל רַגְלָיו וְאָמַר: רִבּוֹנוֹ שֶׁל עוֹלָם, גָּלוּי וְיָדוּעַ לְפָנֶיךָ שֶׁלֹּא לִכְבוֹדִי עָשִׂיתִי, וְלֹא לִכְבוֹד בֵּית אַבָּא עָשִׂיתִי, אֶלָּא לִכְבוֹדְךָ, שֶׁלֹּא יִרְבּוּ מַחְלוֹקוֹת בְּיִשְׂרָאֵל. נָח הַיָּם מִזַּעְפּוֹ.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        7
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:9:1",
+            "hebrew": "ר\"ג - נשיא היה ועל פיו נעשה:",
+            "english": "Rabban Gamliel: He was the leader (nassi). And [this] was done by his [command].",
+            "takeaway": "רש״י explains that רבן גמליאל was the נשיא, and the decree to exile רבי אליעזר was enacted by his authority."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:9:2",
+            "hebrew": "שלא ירבו מחלוקות - שלא ירגיל היחיד לחלוק על המרובין:",
+            "english": "So that disputes will not proliferate: So that an individual will not accustom himself to disagree with the many.",
+            "takeaway": "רש״י clarifies that the concern about מחלוקות proliferating refers to preventing an individual from establishing a precedent of dissenting against the majority."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "אִמָּא שָׁלוֹם's reaction and the death of רבי גמליאל",
+      "stepSummary": "Ima Shalom, רבי אליעזer's wife and רבי גמליאל's sister, reacts to the excommunication and רבי גמליאל dies.",
+      "whatsHappening": "The narrative describes אִמָּא שָׁלוֹם's reaction to the decree and the subsequent death of רבי גמליאל.",
+      "deeperAnalysis": "אִמָּא שָׁלוֹם, רבי אליעזer's wife and רבי גמליאל's sister, prevented רבי אליעזer from praying. She later found him prostrate and declared he had killed her brother. A shofar blast announced רבי גמליאל's death, confirming her prophetic insight from her grandfather's house.",
+      "keyTerms": [
+        {
+          "term": "אִמָּא שָׁלוֹם",
+          "meaning": "Ima Shalom"
+        },
+        {
+          "term": "קְטַלְתִּי לְאָח",
+          "meaning": "you have killed my brother"
+        },
+        {
+          "term": "כָּל הַשְּׁעָרִים נִנְעָלִים חוּץ מִשַּׁעֲרֵי אוֹנָאָה",
+          "meaning": "all gates are closed but the gates of deception"
+        }
+      ],
+      "whatToRemember": "The personal cost of the dispute was immense.",
+      "whyThisMatters": "Shows the personal cost of the dispute and the deep family ties involved.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִימָּא שָׁלוֹם, דְּבֵיתְהוּ דְּרַבִּי אֱלִיעֶזֶר,",
+          "english": "Ima Shalom, the house of Rabbi Eliezer,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲחָתֵיהּ דְּרַבָּן גַּמְלִיאֵל הֲוַאי.",
+          "english": "She was the sister of Rabban Gamliel."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מֵהָהוּא מַעֲשֶׂה וְאֵילָךְ,",
+          "english": "From that incident and onward,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא הֲוָה שָׁבְקָה לֵיהּ לְרַבִּי אֱלִיעֶזֶר",
+          "english": "She did not leave him, Rabbi Eliezer,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְמִיפַּל עַל אַפֵּיהּ.",
+          "english": "To fall on his face."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָהוּא יוֹמָא רֵישׁ יַרְחָא הֲוָה,",
+          "english": "That day was the beginning of the month,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִיחַלַּף לַהּ בֵּין מָלֵא לְחָסֵר.",
+          "english": "And it was confused for her between full and deficient.",
+          "notes": "Refers to the calculation of the lunar month length."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אִיכָּא דְּאָמְרִי: אֲתָא עַנְיָא וְקָאֵי אַבָּבָא,",
+          "english": "There are those who say: A poor man came and stood at the gate,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אַפִּיקָא לֵיהּ רִיפְתָּא.",
+          "english": "She brought out bread to him."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אַשְׁכַּחְתֵּיהּ דְּנָפֵל עַל אַנְפֵּיהּ.",
+          "english": "She found him that he was fallen on his face."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אֲמַרָה לֵיהּ: קוּם, (קטלית לאחי) [קְטַלְיתֵּהּ לְאָח].",
+          "english": "She said to him: Arise, you have killed my brother."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אַדְּהָכִי נְפַק שִׁיפּוּרָא מִבֵּית רַבָּן גַּמְלִיאֵל דִּשְׁכֵיב.",
+          "english": "Immediately a shofar went out from the house of Rabban Gamliel that he was lying [dying].",
+          "notes": "Announcing Rabban Gamliel's death."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֲמַר לַהּ: מְנָא יְדַעְתְּ? אֲמַרָה לֵיהּ:",
+          "english": "He said to her: From where did you know? She said to him:"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "כָּךְ מְקוּבְּלַנִי מִבֵּית אֲבִי אַבָּא:",
+          "english": "Thus I received from the house of my father's father:"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "כׇּל הַשְּׁעָרִים נִנְעָלִים חוּץ מִשַּׁעֲרֵי אוֹנָאָה.",
+          "english": "All gates are locked except the gates of deception.",
+          "notes": "Deception here refers to the hidden knowledge of death."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִמָּא שָׁלוֹם, דְּבֵיתְהוּ דְּרַבִּי אֱלִיעֶזֶר, אֲחָתֵיהּ דְּרַבָּן גַּמְלִיאֵל הֲוַאי. מֵהָהוּא מַעֲשֶׂה וְאֵילָךְ, לָא הֲוָה שָׁבְקָה לֵיהּ לְרַבִּי אֱלִיעֶזֶר לְמִיפַּל עַל אַפֵּיהּ. הָהוּא יוֹמָא רֵישׁ יַרְחָא הֲוָה, וְאִיחַלַף לַהּ בֵּין מָלֵא לְחָסֵר. אִיכָא דְּאָמְרִי: אֲתָא עַנְיָא וְקָאֵי אַבָּבָא, אַפִּיקָא לֵיהּ רִיפְתָּא. אַשְׁכַּחְתֵּיהּ דְּנָפֵל עַל אַנְפֵּיהּ. אֲמַרָה לֵיהּ: קוּם, (קטלית לאחי) [קְטַלְתִּי לְאָח]. אַדְהָכִי נְפַק שִׁיפּוּרָא מִבֵּית רַבָּן גַּמְלִיאֵל דִּשְׁכֵיב. אֲמַר לַהּ: מְנָא יְדַעְתְּ? אֲמַרָה לֵיהּ: כָּךְ מְקוּבְלַנִי מִבֵּית אַבִּי אַבָּא: כָּל הַשְּׁעָרִים נִנְעָלִים חוּץ מִשַּׁעֲרֵי אוֹנָאָה.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:10:2",
+            "hebrew": "בין מלא לחסר - סבורה היתה שיהא החדש חסר וקבוע ביום ל' ולא יפול ביום החדש על פניו והיה מלא ולא נקבע עד יום שלשים ואחד ולא נזהרה בו ביום ל' ונפל על פניו:",
+            "english": "A full [month] and a deficient [month]: She reasoned that it would be a deficient month and the ratification [of the incoming month] would be on the thirtieth day, so that he would not lower his head. But it was full and they did not ratify it until the thirty-first day; so she was not careful about him on the thirtieth day and he lowered his head.",
+            "takeaway": "רש״י explains that אִיחַלַּף לַהּ בֵּין מָלֵא לְחָסֵר means she mistakenly thought the month would be חסר (deficient) and thus the new moon would be fixed on the 30th day, so she didn't prevent רבי אליעזר from praying on the 30th, but it turned out to be מלא (full) and fixed on the 31st, meaning he prayed on the 30th when he shouldn't have."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:11:1",
+            "hebrew": "מבית אבי אבא - מבית אבי המשפחה שבת נשיאים היתה והם מבית דוד:",
+            "english": "From the house of the father of my father: From the house of the patriarch of the family. As she was the daughter of leaders (nesiim), and they are from the House of David.",
+            "takeaway": "רש״י explains that מִבֵּית אֲבִי אַבָּא refers to the House of David, as the family of נשיאים (leaders) descended from דוד."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:11:2",
+            "hebrew": "חוץ משערי אונאה - לפי שצער הלב היא וקרוב להוריד דמעות:",
+            "english": "Except for the gates of mistreatment: Since [it refers to] the pain of the heart; and it is close to [causing] tears to come down.",
+            "takeaway": "רש״י explains that שַׁעֲרֵי אוֹנָאָה refers to the pain of the heart, which is close to causing tears to fall."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:11:1",
+            "hebrew": "מבית אבי אבא - פי' בקונטרס מבית דוד אבי משפחה שבת נשיאים היתה והם מבית דוד:",
+            "english": "From the house of the father of my father: [Rashi] explained, \"From the House of David, the patriarch of the family. As she was the daughter of leaders (nesiim), and they are from the House of David.\"",
+            "takeaway": "תוספות questions רש״י's explanation that מִבֵּית אֲבִי אַבָּא refers to the House of David, suggesting instead that it refers to the House of רבן גמליאל, as he was the אבי המשפחה, citing רבן גמליאל's similar statement in ר"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges רש״י's identification of מִבֵּית אֲבִי אַבָּא with the House of David, arguing it more likely refers to the House of רבן גמליאל, the actual patriarch of the family, as evidenced by רבן גמליאל's own use of the phrase in ר"
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The three prohibitions of מְאַנֶּה and two of לוֹחֵץ",
+      "stepSummary": "The ברייתא states that one who wrongs a convert verbally transgresses three negative commandments, while one who oppresses him transgresses two.",
+      "whatsHappening": "The sugya opens with a ברייתא establishing the baseline halachic counts for two types of mistreatment of a convert.",
+      "deeperAnalysis": "The ברייתא distinguishes between מְאַנֶּה (verbal wronging) and לוֹחֵץ (oppression). It assigns three prohibitions to the former and two to the latter. This asymmetry is the starting point for the Gemara's inquiry.",
+      "keyTerms": [
+        {
+          "term": "מְאַנֶּה",
+          "meaning": "one who wrongs verbally"
+        },
+        {
+          "term": "לוֹחֵץ",
+          "meaning": "one who oppresses"
+        },
+        {
+          "term": "לָאוִין",
+          "meaning": "negative commandments"
+        }
+      ],
+      "whatToRemember": "The baseline counts are 3 for מְאַנֶּה and 2 for לוֹחֵץ.",
+      "confusionAlert": "The terms מְאַנֶּה and לוֹחֵץ are technical; מְאַנֶּה refers to verbal mistreatment, לוֹחֵץ to physical/financial oppression.",
+      "whyThisMatters": "The entire sugya revolves around explaining why the Torah counts these prohibitions differently.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: הַמְאַנֶּה אֶת הַגֵּר, עוֹבֵר בִּשְׁלֹשָׁה לָאוִין.",
+          "english": "The rabbis taught: One who wrongs a convert transgresses three negative commandments."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַלּוֹחֲצוֹ, עוֹבֵר בִּשְׁנַיִם.",
+          "english": "And one who oppresses him transgresses two."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: הַמְאַנֶּה אֶת הַגֵּר, עוֹבֵר בִּשְׁלֹשָׁה לָאוִין. וְהַלּוֹחֲצוֹ, עוֹבֵר בִּשְׁנַיִם.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:12:1",
+            "hebrew": "המאנה את הגר - אונאת דברים:",
+            "english": "",
+            "takeaway": "רש״י explains that מְאַנֶּה refers to אונאת דברים, which is the verbal mistreatment of a convert."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:12:2",
+            "hebrew": "הלוחצו - דוחקו:",
+            "english": "",
+            "takeaway": "רש״י explains that לוֹחֵץ means דוחקו, which is oppressing or pressuring the convert."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Why the asymmetry in the counts?",
+      "stepSummary": "The Gemara challenges the ברייתא's distinction: both מְאַנֶּה and לוֹחֵץ have three scriptural prohibitions, so why does the ברייתa count only two for לוֹחֵץ?",
+      "whatsHappening": "The Gemara attacks the ברייתa's count by showing that the scriptural sources for לוֹחֵץ are just as numerous as those for מְאַנֶּה.",
+      "deeperAnalysis": "The Gemara lists three verses for מְאַנֶּה and three verses for לוֹחֵץ. It notes that in both cases, the convert is included in the general prohibition ('עמיתו' / 'הכלל'). Therefore, the counts should be identical. The ברייתa's distinction is unexplained.",
+      "keyTerms": [
+        {
+          "term": "מַאי שְׁנָא",
+          "meaning": "what is different"
+        },
+        {
+          "term": "כְּתִיבִי",
+          "meaning": "are written"
+        },
+        {
+          "term": "בְּכָלָל",
+          "meaning": "included in the general category"
+        }
+      ],
+      "whatToRemember": "The Gemara shows that the scriptural basis for both actions is identical in number.",
+      "confusionAlert": "The Gemara is not denying the verses; it is denying the ברייתa's count based on those verses.",
+      "whyThisMatters": "This קשיא forces a re-evaluation of the ברייתa's counts.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי שְׁנָא מְאַנֶּה,",
+          "english": "What is the difference between one who wrongs"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּכְתִיבִי שְׁלֹשָׁה לָאוִין:",
+          "english": "that three prohibitions are written:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״וְגֵר לֹא תוֹנֶה״,",
+          "english": "\"And a convert you shall not wrong,\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״וְכִי יָגוּר אִתְּךָ גֵּר בְּאַרְצְכֶם לֹא תוֹנוּ אֹתוֹ״,",
+          "english": "\"And if a convert dwells with you in your land, you shall not wrong him,\""
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״וְלֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״,",
+          "english": "\"And a man shall not wrong his fellow,\""
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְגֵר בִּכְלַל עֲמִיתוֹ הוּא.",
+          "english": "And a convert is included in 'his fellow'."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לוֹחֲצוֹ נָמֵי שְׁלֹשָׁה כְּתִיבִי:",
+          "english": "Regarding one who oppresses him, also three are written:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״וְלֹא תִלְחָצֶנּוּ״, ״וְגֵר לֹא תִלְחָץ״,",
+          "english": "\"And you shall not oppress him,\" \"and a convert you shall not oppress,\""
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״וְלֹא תִהְיֶה לוֹ כְּנֹשֶׁה״,",
+          "english": "\"And you shall not be to him as a creditor,\""
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְגֵר בַּכְּלָל הוּא!",
+          "english": "And a convert is included!"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אֶלָּא, אֶחָד זֶה וְאֶחָד זֶה בִּשְׁלֹשָׁה.",
+          "english": "Rather, both this and that with three."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי שְׁנָא מְאַנֶּה, דִּכְתִיבִי שְׁלֹשָׁה לָאוִין...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:13:1",
+            "hebrew": "לוחצו נמי תלתא כתיב ביה - וגר לא תלחץ ולא תלחצנו ולא תהיה לו כנושה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the three verses for לוֹחֵץ are ״וְגֵר לֹא תִלְחָץ״, ״וְלֹא תִלְחָצֶנּוּ״, and ״וְלֹא תִהְיֶה לוֹ כְּנֹשֶׁה״."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:13:2",
+            "hebrew": "לא תהיה לו כנושה - לחץ הוא שדוחקו לתבוע חובו:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse ״וְלֹא תִהְיֶה לוֹ כְּנֹשֶׁה״ refers to the prohibition of לוֹחֵץ, meaning one who pressures a debtor to repay his debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:13:3",
+            "hebrew": "ה\"ג מאי שנא מאנה דכתיב ביה תלתא וגר לא תונה ולא תונו אותו ולא תונו איש את עמיתו וגר בכלל עמיתו הוא:",
+            "english": "",
+            "takeaway": "רש״י notes a textual variant in the Gemara, indicating that the text should read ״מַאי שְׁנָא מְאַנֶּה דִּכְתִיב בֵּיהּ תְּלָתָא״, listing the three verses for מְאַנֶּה as ״וְגֵר לֹא תוֹנֶה״, ״וְלֹא תוֹנוּ אֹתוֹ״, and ״וְלֹא תוֹנוּ אִישׁ אֶת עֲמִיתוֹ״, with the convert included in ״עֲמִיתוֹ״."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "The Torah's emphasis on the convert",
+      "stepSummary": "A new ברייתa is cited, stating that the Torah warns about the convert in 36 (or 46) places because his inclination is bad.",
+      "whatsHappening": "The sugya shifts to a new topic: the reason for the Torah's repeated warnings about the convert.",
+      "deeperAnalysis": "The ברייתa quotes רבי אליעזר הגדול, who asks why the Torah emphasizes the convert so much. The answer given is 'מִפְּנֵי שֶׁסּוֹרוֹ רַע' — because his inclination is bad. This sets up the next question about how to interpret this.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֱלִיעֶזֶר הַגָּדוֹל",
+          "meaning": "Rabbi Eliezer the Great"
+        },
+        {
+          "term": "סּוֹרוֹ רַע",
+          "meaning": "his inclination is bad"
+        },
+        {
+          "term": "הִזְהִירָה תּוֹרָה",
+          "meaning": "the Torah warned"
+        }
+      ],
+      "whatToRemember": "The Torah's emphasis on the convert is due to his bad inclination.",
+      "confusionAlert": "This is a new ברייתa, not a continuation of the previous one.",
+      "whyThisMatters": "This introduces the concept of the convert's bad inclination, which is central to the next part of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא, רַבִּי אֱלִיעֶזֶר הַגָּדוֹל אוֹמֵר:",
+          "english": "It was taught: Rabbi Eliezer the Great says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִפְּנֵי מָה הִזְהִירָה תּוֹרָה בִּשְׁלֹשִׁים וְשִׁשָּׁה מְקוֹמוֹת,",
+          "english": "For what reason did the Torah warn in thirty-six places,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמְרִי לַהּ: בְּאַרְבָּעִים וְשִׁשָּׁה מְקוֹמוֹת,",
+          "english": "and they say to it: in forty-six places,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּגֵר? מִפְּנֵי שֶׁסּוֹרוֹ רַע.",
+          "english": "about a convert? Because his inclination is bad."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא, רַבִּי אֱלִיעֶזֶר הַגָּדוֹל אוֹמֵר: מִפְּנֵי מָה הִזְהִירָה תּוֹרָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 59b:14:1",
+            "hebrew": "ואמרי לה במ\"ו - יש מפרש משום דחשיב כי גרים הייתם וכיוצא בה:",
+            "english": "And some say 46 - there are those who explain this because they count \"because you were strangers in Egypt\" and similar ones.",
+            "takeaway": "תוספות explains that the count of 46 mentions of the convert includes verses like 'בְּאַרְצָם גֵּרִים הִייתֶם' and similar expressions."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "שאלה",
+      "title": "What is the meaning of the verse?",
+      "stepSummary": "The Gemara asks what the verse 'וְגֵר לֹא תוֹנֶה וְלֹא תִלְחָצֶנּוּ כִּי גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרָיִם' means in light of the previous teaching.",
+      "whatsHappening": "The Gemara poses a question about the interpretation of a specific verse.",
+      "deeperAnalysis": "The Gemara quotes the verse and asks for its meaning. This is a neutral request for information, not an objection. The verse is 'וְגֵר לֹא תוֹנֶה וְלֹא תִלְחָצֶנּוּ כִּי גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרָיִם'.",
+      "keyTerms": [
+        {
+          "term": "מַאי דִּכְתִיב",
+          "meaning": "what is written"
+        },
+        {
+          "term": "כִּי גֵרִים הֱיִיתֶם",
+          "meaning": "for you were strangers"
+        }
+      ],
+      "whatToRemember": "The verse is being interpreted in the context of the convert's bad inclination.",
+      "confusionAlert": "This is a שאלה, not a קשיא. The Gemara is not attacking the previous teaching, but asking for its application.",
+      "whyThisMatters": "This leads to רבי נתן's interpretation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי דִּכְתִיב ״וְגֵר לֹא תוֹנֶה וְלֹא",
+          "english": "What is that which is written: \"And you shall not wrong a convert, nor shall…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תִלְחָצֶנּוּ כִּי גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרָיִם״?",
+          "english": "Rabbi Nathan said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּנֵינָא, רַבִּי נָתָן אוֹמֵר:",
+          "english": "A fault that is in you, do not say to your fellow."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מוּם שֶׁבְּךָ אַל תֹּאמַר לַחֲבֵרֶךָ.",
+          "english": "And this is what people say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהַיְינוּ דְּאָמְרִי אִינָשֵׁי:",
+          "english": "One who has someone who was hung in his [family] record,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דִּזְקִיף לֵיהּ זְקִיפָא בִּדְיוּתְקֵיהּ,",
+          "english": "let him not say to his fellow, \"Hang me a fish [on the grill].\""
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לָא נֵימָא לֵיהּ לְחַבְרֵיהּ זְקֵיף בִּינִיתָא.",
+          "english": "his [family] record, let him not say, \"Hang me a fish [on the grill].\"..."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי דִּכְתִיב ״וְגֵר לֹא תוֹנֶה וְלֹא תִלְחָצֶנּוּ כִּי גֵרִים הֱיִיתֶם בְּאֶרֶץ מִצְרָיִם״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:15:1",
+            "hebrew": "מום שבך אל תאמר לחברך - כיון דגרים הייתם גנאי הוא לכם להזכיר שם גירות:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי נתן's interpretation of the verse as 'מום שבך אל תאמר לחברך' means one should not remind a convert of their past status, as it is a disgrace (גנאי) to mention their conversion since the Israelites themselves were converts in Egypt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:15:2",
+            "hebrew": "מאן דאית ליה זקיפ' בדיותקיה לא נימא לחבריה זקיף ביניתא - מיש שיש לו תלוי במשפחתו לא יאמר לעבדו או לבן ביתו תלה לי דג זה שכל שם תלייה גנאי הוא לו:",
+            "english": "",
+            "takeaway": "רש״י explains the Aramaic proverb 'דזקיף ליה זקיפא בדיותקיה' as a practical example of this principle: one who has a hook (זקיפא) hanging in their own house should not ask their servant or household member to hang a fish for them, because the word for hanging (תלייה) would remind them of their own 'hanging' (conversion) and cause them disgrace."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah's prohibition on mixing produce",
+      "stepSummary": "The Mishnah prohibits mixing fruits, even fresh with fresh, and a fortiori fresh with old.",
+      "whatsHappening": "The sugya opens with the Mishnah's basic prohibition on mixing produce.",
+      "deeperAnalysis": "The Mishnah establishes a baseline prohibition: one may not mix fruits for sale, even if both batches are fresh. It adds a fortiori that mixing fresh with old is also prohibited. This sets the stage for the specific exceptions and cases that follow.",
+      "keyTerms": [
+        {
+          "term": "אֵין מְעָרְבִין",
+          "meaning": "one may not mix"
+        },
+        {
+          "term": "פֵּירוֹת",
+          "meaning": "fruits / produce"
+        },
+        {
+          "term": "חֲדָשִׁים",
+          "meaning": "fresh / new"
+        },
+        {
+          "term": "יְשָׁנִים",
+          "meaning": "old"
+        }
+      ],
+      "whatToRemember": "The baseline is a prohibition on mixing produce for sale.",
+      "confusionAlert": "The Mishnah's language 'even fresh with fresh' implies that mixing is generally prohibited, but the reason is not yet stated.",
+      "whyThisMatters": "This establishes the general rule that the Gemara will now refine and limit.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אֵין מְעָרְבִין פֵּירוֹת בְּפֵירוֹת, אֲפִילּוּ חֲדָשִׁים בַּחֲדָשִׁים.",
+          "english": "Mishnah: One does not mix fruits with fruits, even new with new."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאֵין צָרִיךְ לוֹמַר, חֲדָשִׁים בִּישָׁנִים.",
+          "english": "And it is not necessary to say, new with old."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אֵין מְעָרְבִין פֵּירוֹת בְּפֵירוֹת, אֲפִלּוּ חֲדָשִׁים בַּחֲדָשִׁים.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 59b:16:1",
+            "hebrew": "מתני' אין מערבין פירות בפירות - בעל הבית שאומר פירות שדה פלוני אני מוכר לך כך וכך סאין לא יערבנו בפירות שדה אחרת:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah's prohibition on mixing produce applies when a seller has agreed to sell produce from a specific field and then mixes it with produce from a different field."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T08:27:32.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 95.78078750002896,
+      "structure": 1906.0374919000315,
+      "validate": 289.6151242000051,
+      "translate": 459.4355101000401,
+      "meforshim": 1570.060660900257,
+      "teaching": 855.0428926000022
+    }
+  }
+}

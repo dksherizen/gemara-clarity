@@ -1,0 +1,511 @@
+{
+  "ref": "Bava Metzia 34b",
+  "masechet": "Bava_Metzia",
+  "daf": 34,
+  "amud": "b",
+  "mainTopic": "איבעיות בהשבת אבדה",
+  "overview": "The Gemara lists several unresolved questions (תיקו) regarding the laws of returning lost property when heirs are involved or when only partial payment is made.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 5,
+      "topic": "איבעיות בהשבת אבדה",
+      "gist": "The Gemara lists several unresolved questions (תיקו) regarding the laws of returning lost property when heirs are involved or when only partial payment is made.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 5
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "שאלה",
+      "title": "Guardian's retraction after agreeing to pay",
+      "stepSummary": "The גמרא asks whether a guardian who initially agreed to pay but then retracted is bound by his word or merely delaying payment.",
+      "whatsHappening": "The גמרא opens with a שאלה about a שומר who changes his mind after agreeing to pay for a lost item. This is a setup line introducing the first unresolved question.",
+      "deeperAnalysis": "The Gemara asks whether the guardian is retracting his commitment or merely delaying payment. This distinction determines if his initial verbal agreement creates a binding obligation.",
+      "keyTerms": [
+        {
+          "term": "מִהְדָּר קָא הָדַר בֵּיהּ",
+          "meaning": "he is retracting his statement"
+        },
+        {
+          "term": "דַּחוֹיֵי הוּא דְּקָא מְדַחֵי לֵיהּ",
+          "meaning": "he is merely delaying payment"
+        },
+        {
+          "term": "שׁוֹמֵר",
+          "meaning": "guardian"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְחָזַר וְאָמַר ״אֵינִי מְשַׁלֵּם״, מַאי?",
+          "english": "And he returned and said, 'I will not pay,' what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִי אָמְרִינַן מִהְדָּר קָא הָדַר בֵּיהּ,",
+          "english": "Do we say, he is retracting from it,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ דִלְמָא בְּמִלְּתֵיהּ קָאֵי וְדַחוֹיֵי הוּא",
+          "english": "or perhaps he stands by his word and he is"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּקָא מְדַחֵי לֵיהּ?",
+          "english": "delaying him?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "וְחָזַר וְאָמַר ״אֵינִי מְשַׁלֵּם״, מַאי? מִי אָמְרִינַן מִהְדָּר קָא הָדַר בֵּיהּ, אוֹ דִּלְמָא בְּמִלְּתֵיהּ קָאֵי וְדַחוֹיֵי הוּא דְּקָא מְדַחֵי לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "first_step",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 34b:1:1",
+            "hebrew": "וחזר ואמר איני משלם [מאי] מי אמרינן מהדר קהדר ביה - מכאן מוכיח ר\"ת דאם אמר לחברו השבע וטול קודם שנשבע יכול לחזור בו ולומר אשבע ולא אשלם ובפרק יש נוחלין (ב\"ב דף קכח. ושם) דאמר עבדי גנבת והלה אומר אתה מכרתו לי רצונך השבע וטול ונשבע אינו יכול לחזור בו לא גרס נשבע בלא וא\"ו דמשמע שבע\"כ ישבע ובריש שבועת הדיינים (שבועות דף לט. ושם ד\"ה אם) דאמר אם אמר איני נשבע פוטרין אותו מיד לא כפרש\"י שפוטרין אותו לפי שאינו יכול לחזור בו אלא יש לומר מסלקין אותו מב\"ד כדי שיתבייש לחזור ולומר אשבע מיהו שוב פירש ר\"ת בתשובה אחת דשפיר גרסינן נשבע בלא וא\"ו וישבע בע\"כ והא דאמרינן בפרק זה בורר (סנהדרין דף כד. ושם: ד\"ה שלח) גבי נאמן עלי אבא ואביך מחלוקת לאחר גמר דין אבל קודם גמר דין דברי הכל יכול לחזור בו הכא אפילו קודם שנשבע אינו יכול לחזור בו דכיון שקבל עליו לשלם אם ישבע זה שכנגדו הוי כמו לאחר גמר דין והכא דקאמר מהדר קהדר ביה לא שיוכל לחזור אלא רוצה הוא לחזור אף על פי שאינו יכול ולא מקני ליה כפילא משום דאטרחיה לב\"ד כדאמר בסמוך גבי ההוא דאפקיד כיפי וכה\"ג איכא בפ' יש נוחלין (ב\"ב דף קלח.) מדאשתיק קננהו וכשצוח לבסוף מהדר קהדר ביה פירוש רוצה לחזור ואינו יכול:",
+            "english": "",
+            "takeaway": "תוספות explains that ר"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "Heirs refusing to pay after father agreed",
+      "stepSummary": "The גמרא asks whether heirs who refuse to pay after their father agreed are retracting their father's commitment or merely delaying payment.",
+      "whatsHappening": "The גמרא poses a second שאלה about heirs who refuse to pay after their father agreed to do so. This is a setup line extending the issue to heirs.",
+      "deeperAnalysis": "The question is whether the heirs are retracting their father's commitment or merely delaying payment. This tests if a father's verbal agreement binds his successors.",
+      "keyTerms": [
+        {
+          "term": "בָּנָיו",
+          "meaning": "his sons/heirs"
+        },
+        {
+          "term": "מִלְּתָא דַּאֲבוּהוֹן",
+          "meaning": "the word of their father"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר ״הֲרֵינִי מְשַׁלֵּם״ וָמֵת,",
+          "english": "He said, \"Behold I will pay,\" and he died,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאָמְרוּ בָּנָיו ״אֵין אָנוּ מְשַׁלְּמִין״, מַאי?",
+          "english": "and his sons said, \"We are not paying,\" what?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִי אָמְרִינַן מִהְדָּר קָא הָדְרִי בְּהוּ,",
+          "english": "Do we say he is retracting from them,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אוֹ דִלְמָא בְּמִלְּתָא דַאֲבוּהוֹן קָיְימִי,",
+          "english": "or perhaps they stand by their father's matter,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְדַחוֹיֵי הוּא דְּקָא מְדַחוּ לֵיהּ?",
+          "english": "and they are delaying him?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "אָמַר ״הֲרֵינִי מְשַׁלֵּם״ וָמֵת, וְאָמְרוּ בָּנָיו ״אֵין אָנוּ מְשַׁלְּמִין״, מַאי? מִי אָמְרִינַן מִהְדָּר קָא הָדְרִי בְּהוּ, אוֹ דִּלְמָא בְּמִלְּתָא דַּאֲבוּהוֹן קָיְימִי, וְדַחוֹיֵי הוּא דְּקָא מְדַחוּ לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "follows_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:2:1",
+            "hebrew": "ואמרו בנים אין אנו משלמין - לא הספיק לשלם עד שמת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the scenario assumes the father died before he had the opportunity to fulfill his payment commitment."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 34b:2:1",
+            "hebrew": "הריני משלם ומת כו' - תימה היאך ישלם לבני הנפקד כפל הא אין אדם מוריש קנס לבניו כדתנן בריש פרק נערה שנתפתתה (כתובות דף מא:):",
+            "english": "",
+            "takeaway": "תוספות questions how the heirs could be liable to pay double to the depositary, given the principle that one does not bequeath a monetary penalty (קנס) to their heirs, as established in כתובות."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות raises a fundamental legal difficulty regarding the liability of heirs for a penalty, which contrasts with רש״י's focus on the factual timeline of the father's death."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "שאלה",
+      "title": "Owner's waiver of double payment for heirs",
+      "stepSummary": "The גמרא asks whether the owner can claim that his waiver of double payment was only for the father, not the heirs.",
+      "whatsHappening": "The גמרא poses a third שאלה about whether the owner's waiver of double payment applies only to the father or extends to the heirs. This is a setup line.",
+      "deeperAnalysis": "The owner might claim his waiver was personal to the father. The Gemara asks if this distinction holds or if the waiver applies universally.",
+      "keyTerms": [
+        {
+          "term": "כִּי אַקְנַאי כְּפֵילָא",
+          "meaning": "when I waived the double payment"
+        },
+        {
+          "term": "נְיָיח נַפְשַׁאי",
+          "meaning": "pleasant to me"
+        },
+        {
+          "term": "לָא שְׁנָא",
+          "meaning": "it makes no difference"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שִׁלְּמוּ בָּנִים, מַאי?",
+          "english": "The children paid, what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָצֵי אָמַר לְהוּ:",
+          "english": "He can say to them:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי אַקְנַאי כְּפֵילָא –",
+          "english": "For the double payment is doubled –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לַאֲבוּכוֹן דַּעֲבַד לִי נְיָיח נַפְשַׁאי,",
+          "english": "To your father who did for me pleasant things for my soul,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְדִידְכוּ לָא, אוֹ דִלְמָא לָא שְׁנָא.",
+          "english": "To you not, or perhaps it makes no difference."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "שִׁלְמוּ בָּנִים, מַאי? מָצֵי אָמַר לְהוּ: כִּי אַקְנַאי כְּפֵילָא – לַאֲבוּכוֹן דַּעֲבַד לִי נְיָיח נַפְשַׁאי, לְדִידְכוּ לָא, אוֹ דִּלְמָא לָא שְׁנָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "follows_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:3:1",
+            "hebrew": "שלמו בנים - והאב לא הספיק לומר הריני משלם עד שמת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the scenario of heirs paying arises specifically when the father died before he had the opportunity to declare that he would pay."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:3:2",
+            "hebrew": "דעבד לי נייח נפשאי - פעמים רבות עשה לי קורת רוח:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase דעבד לי נייח נפשאי means the father frequently brought the owner satisfaction and pleasure."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "שאלה",
+      "title": "Father's waiver of double payment for guardian",
+      "stepSummary": "The גמרא asks whether the heirs can claim that their father's waiver of double payment was only for the guardian, not them.",
+      "whatsHappening": "The גמרא poses a fourth שאלה about whether the father's waiver of double payment applies only to the guardian or extends to the heirs. This is a setup line.",
+      "deeperAnalysis": "The heirs might claim the father's waiver was personal to the guardian. The Gemara asks if this distinction holds or if the waiver applies universally.",
+      "keyTerms": [
+        {
+          "term": "כִּי אַקְנִי לָךְ אֲבוּנָא כְּפֵילָא",
+          "meaning": "when our father waived the double payment for you"
+        },
+        {
+          "term": "נְיָיח נַפְשֵׁיהּ",
+          "meaning": "pleasant to him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שִׁילֵּם לְבָנִים, מַאי?",
+          "english": "Paid to the children, what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָצוּ אָמְרִי לֵיהּ:",
+          "english": "They could say to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי אַקְנִי לָךְ אֲבוּנָא כְּפֵילָא –",
+          "english": "Because my father ceded the double payment to you –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דַּעֲבַדְתְּ לֵיהּ נְיָיח נַפְשֵׁיהּ,",
+          "english": "That you did for him what pleased him,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל אֲנַן לְדִידַן לָא,",
+          "english": "But for us, not [did you do so],"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אוֹ דִלְמָא לָא שְׁנָא.",
+          "english": "Or perhaps it makes no difference."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שִׁלְּמוּ בָּנִים לְבָנִים, מַאי?",
+          "english": "The children pay to the children, what?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "שִׁילֵּם לְבָנִים, מַאי? מָצוּ אָמְרִי לֵיהּ: כִּי אַקְנִי לָךְ אֲבוּנָא כְּפֵילָא – דַּעֲבַדְתְּ לֵיהּ נְיָיח נַפְשֵׁיהּ, אֲבָל אֲנַן לְדִידַן לָא, אוֹ דִּלְמָא לָא שְׁנָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "follows_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:4:1",
+            "hebrew": "שילם לבנים - מתו הבעלים ונגנבה ואמר השומר לבנים הריני משלם או שילם מהו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the case of שילם לבנים refers to a scenario where the original owner died and the item was stolen, and the guardian offers to pay the heirs, raising the question of whether this payment is valid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:4:2",
+            "hebrew": "או דלמא - כיון ששניהם הראשונים הוה להו נייחא נפשא בהדדי קנו כפילא אף בנים מן הבנים:",
+            "english": "",
+            "takeaway": "רש״י explains that the alternative view (או דלמא) holds that since the original parties achieved mutual satisfaction (נייחא נפשיה), the heirs also acquire the right to double payment from the guardian's heirs."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:4:3",
+            "hebrew": "שלמו בנים לבנים מהו - דליכא שום צד נייחא נפשא באלו שהם קיימים שלא הם ולא אביהם עשו קורת רוח לאלו ולא אביהם של אלו קיבל קורת רוח מבני השומר:",
+            "english": "",
+            "takeaway": "רש״י defines the case of שלמו בנים לבנים as a situation where there is no mutual satisfaction (נייחא נפשיה) because neither the living heirs nor their deceased fathers established any relationship of satisfaction with each other."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "שאלה",
+      "title": "Guardian paying half the amount",
+      "stepSummary": "The גמרא asks what is the law when a guardian pays half.",
+      "whatsHappening": "The גמרא poses a fifth שאלה about the law when a guardian pays half the amount. This is a setup line.",
+      "deeperAnalysis": "The Gemara asks what happens when a guardian pays only half. This tests the boundaries of partial payment obligations.",
+      "keyTerms": [
+        {
+          "term": "שִׁילֵּם מֶחֱצָה",
+          "meaning": "he paid half"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שִׁילֵּם מֶחֱצָה, מַאי?",
+          "english": "He paid half, what?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שָׁאַל שְׁתֵּי פָּרוֹת וְשִׁילֵּם אַחַת מֵהֶן, מַאי?",
+          "english": "He borrowed two cows and paid one of them, what?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׁאַל מִן הַשּׁוּתָּפִין וְשִׁילֵּם לְאֶחָד מֵהֶן, מַאי?",
+          "english": "He borrowed from the partners and paid one of them, what?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שׁוּתָּפִין שֶׁשָּׁאֲלוּ וְשִׁילֵּם אֶחָד מֵהֶן, מַאי?",
+          "english": "Partners borrowed and one of them paid, what?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שָׁאַל מִן הָאִשָּׁה וְשִׁילֵּם לְבַעְלָהּ, מַאי?",
+          "english": "He borrowed from the woman and paid her husband, what?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִשָּׁה שֶׁשָּׁאֲלָה וְשִׁילֵּם בַּעֲלָהּ, מַאי? תֵּיקוּ.",
+          "english": "A woman borrowed and her husband paid, what? Unresolved."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "שִׁילֵּם מֶחֱצָה, מַאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "follows_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:1",
+            "hebrew": "שילם מחצה - מתחילתו אמר הריני משלם מחצה ולא יותר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase שילם מחצה refers to a case where the borrower initially declared he would only pay half the value and no more."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:2",
+            "hebrew": "מהו - לקנות חצי הכפל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question מהו asks whether paying half acquires the right to the double payment (כפל) for the remaining half."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:3",
+            "hebrew": "שאל שתי פרות - אם תימצי לומר לא קני מחצה שאל שתי פרות ונגנבו ואמר הריני משלם אחת ולא אמר מתה מחמת מלאכה:",
+            "english": "",
+            "takeaway": "רש״י explains the scenario of שאל שתי פרות as a case where two cows were borrowed and stolen, and the borrower pays for one without claiming it died from work, to test if paying for one cow acquires the double payment for the other."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:4",
+            "hebrew": "מהו - לקנות כפל שלה מי אמרינן כיון דפרה שלימה שילם קנה, או דלמא כיון דתרוייהו חד פקדון הוו ואינו משלם את שתיהם לא אקני ליה כפילא שהרי הוא נפסד על ידו:",
+            "english": "",
+            "takeaway": "רש״י poses the dilemma of whether paying for a whole cow acquires the double payment for the second cow, or if they are considered one deposit and since he doesn't pay for both, he doesn't acquire the double payment because he still causes a loss."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:5",
+            "hebrew": "ושילם לאחד מהם - חלקו חצי דמיה שעליו מהו לקנות חלקו המגיעו מי אמרינן כל הקרן שלו שילם או דלמא בעינן עד שישלם כל הפרה:",
+            "english": "",
+            "takeaway": "רש״י explains that שילם לאחד מהם refers to paying half the value owed to one partner, and the question is whether paying the principal owed to that partner acquires the double payment for his share, or if one must pay for the entire cow."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:6",
+            "hebrew": "ושילם אחד מהם - חצי דמיו שעליו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that שילם אחד מהם means one of the partners paid half the value owed to him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:7",
+            "hebrew": "מהו - שיקנה חצי הכפל מי אמרינן הרי שילם כל המוטל עליו:",
+            "english": "",
+            "takeaway": "רש״י asks whether paying the full amount owed to one partner acquires half the double payment, since he paid everything that was incumbent upon him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:8",
+            "hebrew": "שאל מן האשה - פרה של נכסי מלוג שהקרן שלה והפירות לבעל:",
+            "english": "",
+            "takeaway": "רש״י explains that שאל מן האשה refers to borrowing a cow from a woman's נכסי מלוג, where the principal belongs to her and the fruits belong to her husband."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:9",
+            "hebrew": "ושילם - הפרה לבעל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that שילם means the borrower paid the value of the cow to the husband."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:10",
+            "hebrew": "מהו - לקנות הכפל מי אמרינן כיון דקרן לאו דבעל הוא לאו תשלומין מעליא נינהו ולא קני כפילא או דלמא כיון דאפוטרופוס הוא על הנכסים ואוכל הפירות בעלים הוי עלייהו ותשלומין הן:",
+            "english": "",
+            "takeaway": "רש״י poses the dilemma of whether paying the husband acquires the double payment, since the principal isn't his and thus it's not a proper payment, or if the husband is considered the owner regarding the fruits and thus the payment is valid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 34b:5:11",
+            "hebrew": "אשה ששאלה - לצורך קרקע מלוג שלה:",
+            "english": "",
+            "takeaway": "רש״י explains that אשה ששאלה refers to a woman who borrowed a cow for the needs of her נכסי מלוג land."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 34b:5:1",
+            "hebrew": "שאל מן האשה - פי' רש\"י פרה מנכסי מלוג שהקרן שלה ופירות לבעל וקשה דמאי קבעי דכי שאל פרה מן האשה כאילו שאל הפירות מן הבעל וכששילם הפרה לבעל כאילו שילם הקרן לאשה ויש ליישב ששילם לבעל חלקו כמו שהיתה שוה לפירותיה ולא שילם הקרן וגרע משילם לאחד משותפים חלקו דהתם שילם קרן ודוחק ויש לפרש שאל מן האשה כשהיתה פנויה שהיו שלה הקרן והפירות וניסת דהשתא שילם הפירות לבעל אפילו נתן הכל לאשה דכיון דניסת יש לו פירות כדין נכסי מלוג וכן אשה ששאלה כשהיא פנויה וניסת ושלמה דהשתא שילם הבעל דהוו הפירות שלו והריב\"ן פי' שאל מן האשה ומתה ושילם לבעל מהו דאפילו אם תמצא לומר דשילם לבנים קנה כפילא משום ניחותא דאבוהון אבל בעל לא חייש לניחותא דאשה וללישנא דמעכשיו אשה אינה חסה על בעלה וכן אשה ששאלה ומתה ושילם בעל אפי' אם מפקיד מקני כפילא לבני נפקד משום דרחים להו משום אבוהון אבל לא מקני להו לבעל משום אשתו שמתה:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation of שאל מן האשה, noting that borrowing from a woman's נכסי מלוג is like borrowing fruits from the husband, and paying the husband is like paying the principal to the woman, so they propose alternative explanations: either the woman was single when borrowing and married later, or the woman died and the husband paid, and discusses whether the double payment is acquired due to the husband's relationship to the children or the deceased wife."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's straightforward reading of the נכסי מלוג case, arguing it creates a logical contradiction regarding who owns the principal and fruits, and offers alternative scenarios (marriage after borrowing or death) to resolve the difficulty."
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T19:36:43.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 80.02530660002958,
+      "structure": 860.4683259999729,
+      "validate": 111.11377679998986,
+      "translate": 137.1125211000326,
+      "meforshim": 284.6877119001001,
+      "teaching": 324.43104979995405
+    }
+  }
+}

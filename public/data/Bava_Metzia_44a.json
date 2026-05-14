@@ -1,0 +1,1072 @@
+{
+  "ref": "Bava Metzia 44a",
+  "masechet": "Bava_Metzia",
+  "daf": 44,
+  "amud": "a",
+  "mainTopic": "(continues) החושב לשלוח יד · הזהב קונה את הכסף",
+  "overview": "(1) The Mishnah discusses liability for intending to misappropriate a deposit, with Beit Shammai and Beit Hillel disagreeing, and cases of tilting or lifting a jar. (2) The new perek begins with the Mishnah stating that gold acquires silver but not vice versa, and the Gemara discusses Rabbi's change of opinion.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 6,
+      "topic": "(continues) החושב לשלוח יד",
+      "gist": "The Mishnah discusses liability for intending to misappropriate a deposit, with Beit Shammai and Beit Hillel disagreeing, and cases of tilting or lifting a jar.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 7,
+      "endLine": 15,
+      "topic": "הזהב קונה את הכסף",
+      "gist": "The new perek begins with the Mishnah stating that gold acquires silver but not vice versa, and the Gemara discusses Rabbi's change of opinion.",
+      "openingFormula": "הדרן עלך",
+      "firstStepNumber": 7,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The Braita explaining the dispute",
+      "stepSummary": "A Braita is cited that explains the dispute between Beit Shammai and Beit Hillel based on two verses.",
+      "whatsHappening": "The Gemara cites a Braita that provides the scriptural basis for the Mishna's dispute. The Braita shows that Beit Shammai derive liability for intent from the verse 'על כל דבר פשע', while Beit Hillel derive the requirement for actual misappropriation from 'אם לא שלח ידו במלאת רעהו'.",
+      "deeperAnalysis": "The Braita also records the mutual objections each side raises against the other's verse. This Braita sets up the need for a resolution, as each side's verse seems to contradict the other.",
+      "keyTerms": [
+        {
+          "term": "עַל כָּל דְּבַר פֶּשַׁע",
+          "meaning": "for every matter of guilt"
+        },
+        {
+          "term": "אִם לֹא שָׁלַח יָדוֹ בְּמִלְאֶת רֵעֵהוּ",
+          "meaning": "if he has not misappropriated his neighbor's goods"
+        },
+        {
+          "term": "מַחְשָׁבָה",
+          "meaning": "intent"
+        },
+        {
+          "term": "מַעֲשֶׂה",
+          "meaning": "action"
+        }
+      ],
+      "whatToRemember": "The two verses are the key to understanding the dispute.",
+      "whyThisMatters": "This Braita sets up the need for a resolution, as each side's verse seems to contradict the other.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גמ׳ מְנָהָנֵי מִילֵּי? דְּתָנוּ רַבָּנַן:",
+          "english": "GEMARA: From where do we know these matters? As the Sages taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״עַל כׇּל דְּבַר פֶּשַׁע״,",
+          "english": "\"For every matter of guilt\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בֵּית שַׁמַּאי אוֹמְרִים:",
+          "english": "Beit Shammai say:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְלַמֵּד שֶׁחַיָּיב עַל הַמַּחְשָׁבָה כְּמַעֲשֶׂה.",
+          "english": "It teaches that one is liable for the thought as for the deed."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּבֵית הִלֵּל אוֹמְרִים:",
+          "english": "And Beit Hillel say:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵינוֹ חַיָּיב עַד שֶׁיִּשְׁלַח בּוֹ יָד, שֶׁנֶּאֱמַר:",
+          "english": "He is not liable until he extends his hand into it, as it is stated:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״אִם לֹא שָׁלַח יָדוֹ בִּמְלֶאכֶת רֵעֵהוּ״.",
+          "english": "\"If he did not extend his hand to the property of his neighbor.\""
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָמְרוּ לָהֶן בֵּית שַׁמַּאי לְבֵית הִלֵּל:",
+          "english": "Beit Shammai said to Beit Hillel:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וַהֲלֹא כְּבָר נֶאֱמַר ״עַל כׇּל דְּבַר פֶּשַׁע״!",
+          "english": "Is it not already stated \"for every matter of guilt\"?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמְרוּ לָהֶן בֵּית הִלֵּל לְבֵית שַׁמַּאי:",
+          "english": "Beit Hillel said to Beit Shammai:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וַהֲלֹא כְּבָר נֶאֱמַר ״אִם לֹא שָׁלַח",
+          "english": "Is it not already stated \"if he did not extend"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "יָדוֹ בִּמְלֶאכֶת רֵעֵהוּ״!",
+          "english": "his hand to the property of his neighbor\"!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גמ׳ מְנָהָנֵי מִלֵּי? דְּתָנוּ רַבָּנַן...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        78
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "cites_source"
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: the verses teach different things",
+      "stepSummary": "The Gemara resolves the apparent contradiction between the two verses by explaining that they teach different things.",
+      "whatsHappening": "The Gemara provides a resolution to the mutual objections in the Braita. The Gemara explains that the verse 'על כל דבר פשע' is needed to teach that liability extends to one's agent (שליח) or servant (עבד), not just the bailee himself.",
+      "deeperAnalysis": "This resolves the contradiction: Beit Hillel's verse limits liability to actual misappropriation by the bailee, while Beit Shammai's verse extends liability to misappropriation by the bailee's agent. This resolution clarifies the scope of the dispute and shows how both verses can be true.",
+      "keyTerms": [
+        {
+          "term": "עַבְדּוֹ",
+          "meaning": "his servant"
+        },
+        {
+          "term": "שְׁלוּחוֹ",
+          "meaning": "his agent"
+        },
+        {
+          "term": "תַּלְמוּד לוֹמַר",
+          "meaning": "the Torah comes to teach"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the scope of liability: personal vs. agent.",
+      "whyThisMatters": "This resolution clarifies the scope of the dispute and shows how both verses can be true.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִם כֵּן,",
+          "english": "If so,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָה תַּלְמוּד לוֹמַר ״עַל כׇּל דְּבַר פֶּשַׁע״?",
+          "english": "What does the Torah come to say 'for every matter of trespass'?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁיָּכוֹל אֵין לִי אֶלָּא הוּא,",
+          "english": "That perhaps I only have him,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר לְעַבְדּוֹ וְלִשְׁלוּחוֹ מִנַּיִן?",
+          "english": "Who said to his slave and his agent, from where?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״עַל כׇּל דְּבַר פֶּשַׁע״.",
+          "english": "The Torah comes to say: 'for every matter of trespass'."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִם כֵּן, מָה תַּלְמוּד לוֹמַר ״עַל כָּל דְּבַר פֶּשַׁע״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        79
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:2:1",
+            "hebrew": "גמ' אמר לעבדו - שישלח יד וכן עשה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'אמר לעבדו' refers to a scenario where the bailee instructs his servant to misappropriate the item, and the servant actually does so."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:2:2",
+            "hebrew": "מנין - שהוא חייב:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'על כל דבר פשע' is necessary to derive that the bailee is liable for the actions of his agent or servant."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Rava on tilting a jar",
+      "stepSummary": "Rava clarifies the Mishna's case of tilting a jar, distinguishing between breaking and spoiling.",
+      "whatsHappening": "The Gemara moves to the Mishna's case of tilting a jar and cites Rava's clarification. Rava explains that the Mishna's ruling (paying only for the quarter-log taken) applies only if the jar broke.",
+      "deeperAnalysis": "If the wine spoiled (החמיצה), the bailee pays for the entire jar. The reason is that by tilting the jar, he benefited the wine (גירי דידיה הוא דאהנו לה), making him liable for the full value if it spoiled. This clarification shows that the Mishna's ruling is not absolute but depends on the type of damage.",
+      "keyTerms": [
+        {
+          "term": "רַבָּה",
+          "meaning": "Rava"
+        },
+        {
+          "term": "הֶחְמִיצָה",
+          "meaning": "spoiled"
+        },
+        {
+          "term": "גִּירֵי דִידֵיהּ",
+          "meaning": "his own benefit"
+        },
+        {
+          "term": "אֲהֲנוֹ לַהּ",
+          "meaning": "he benefited it"
+        }
+      ],
+      "whatToRemember": "Rava's distinction between breaking and spoiling is key to understanding the Mishna's ruling.",
+      "whyThisMatters": "This clarification shows that the Mishna's ruling is not absolute but depends on the type of damage.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הִטָּה אֶת הֶחָבִית כּוּ׳. אָמַר רַבָּה:",
+          "english": "He tilted the jar, etc. Ravah said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא נִשְׁבְּרָה,",
+          "english": "They only taught this when it broke,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל הֶחְמִיצָה –",
+          "english": "but when it became sour –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְשַׁלֵּם אֶת כּוּלָּהּ. מַאי טַעְמָא?",
+          "english": "he pays for all of it. What is the reason?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גִּירֵי דִידֵיהּ הוּא דְּאַהֲנוֹ לַהּ.",
+          "english": "It is his own property that benefited it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הִטָּה אֶת הֶחָבִית כּו׳. אָמַר רַבָּה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        78
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_mishna",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:3:1",
+            "hebrew": "לא שנו - דהיכא דנטל ולא הגביה כל החבית פטור:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishna's ruling of partial payment applies only when the bailee took some wine but did not lift the entire jar, thus exempting him from full liability."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:3:2",
+            "hebrew": "אלא נשברה - דאונס הוא והרי לא קנאה שיתחייב באונסין:",
+            "english": "",
+            "takeaway": "רש״י explains that if the jar broke, it is considered an אונס, and since the bailee did not acquire the jar through קניין, he is not liable for accidental damage."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:3:3",
+            "hebrew": "אבל החמיצה - פשיעה היא ומזיק בידים הוא דבשביל שחיסרה החמיצה שכן דרך יין להחמיץ בכלי חסר:",
+            "english": "",
+            "takeaway": "רש״י states that if the wine spoiled, it is considered פשיעה because the bailee actively caused the damage by leaving the jar partially empty, which is known to cause wine to sour."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:3:4",
+            "hebrew": "גירי דידיה אהנו לה - חצים שלו גרמו לה להחמיץ:",
+            "english": "",
+            "takeaway": "רש״י interprets גירי דידיה הוא דאהנו לה to mean that the bailee's own actions (leaving the jar partially empty) caused the wine to spoil."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Shmuel on lifting a jar",
+      "stepSummary": "Shmuel clarifies the Mishna's case of lifting a jar, explaining that actual taking is not required.",
+      "whatsHappening": "The Gemara moves to the Mishna's case of lifting a jar and cites Shmuel's clarification. Shmuel explains that the Mishna's ruling (paying for the entire jar) does not require actual taking of the wine.",
+      "deeperAnalysis": "Merely lifting the jar with the intent to take is sufficient to create liability for the full value. This is because lifting constitutes acquisition (קניין) of the entire jar. This clarification shows that the Mishna's ruling is based on the act of lifting, not on actual taking.",
+      "keyTerms": [
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Shmuel"
+        },
+        {
+          "term": "נָטַל מַמָּשׁ",
+          "meaning": "actually took"
+        },
+        {
+          "term": "הִגְבִּיהָּ לִיטּוֹל",
+          "meaning": "lifted to take"
+        }
+      ],
+      "whatToRemember": "Shmuel's ruling hinges on the concept of acquisition by lifting.",
+      "whyThisMatters": "This clarification shows that the Mishna's ruling is based on the act of lifting, not on actual taking.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הִגְבִּיהָהּ וְנָטַל הֵימֶנָּה כּוּ׳. אָמַר שְׁמוּאֵל:",
+          "english": "He lifted it and took from it etc. Shmuel said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא נָטַל נָטַל מַמָּשׁ,",
+          "english": "He did not take, he took something tangible,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא כֵּיוָן שֶׁהִגְבִּיהָהּ לִיטּוֹל,",
+          "english": "But since he lifted it to take,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַף עַל פִּי שֶׁלֹּא נָטַל.",
+          "english": "Even though he did not take."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הִגְבִּיהָּ וְנָטַל הֵימֶנָּה כּו׳. אָמַר שְׁמוּאֵל...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        78
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_mishna"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Does שְׁמוּאֵל require חֶסְרוֹן for שְׁלִיחוּת יָד?",
+      "stepSummary": "The Gemara raises a difficulty: does Shmuel hold that שליחות יד (misappropriation) requires no חסרון (loss)?",
+      "whatsHappening": "The גְּמָרָה raises a difficulty on שְׁמוּאֵל's ruling. It questions whether he holds that שְׁלִיחוּת יָד does not require חֶסְרוֹן.",
+      "deeperAnalysis": "The difficulty challenges the consistency of שְׁמוּאֵל's view with the general principle that liability requires actual loss. The גְּמָרָה probes if שְׁמוּאֵל deviates from this standard.",
+      "keyTerms": [
+        {
+          "term": "שְׁלִיחוּת יָד",
+          "meaning": "misappropriation"
+        },
+        {
+          "term": "חֶסְרוֹן",
+          "meaning": "loss"
+        },
+        {
+          "term": "לֵימָא קָא סָבַר",
+          "meaning": "let us say he holds"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לֵימָא קָא סָבַר שְׁמוּאֵל שְׁלִיחוּת יָד",
+          "english": "Let us say that Shmuel holds that an agent's hand is like his hand"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵינָהּ צְרִיכָה חֶסְרוֹן? אָמְרִי: לָא,",
+          "english": "Does it not require a deficiency? They said: No,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׁאנֵי הָכָא דְּנִיחָא לֵיהּ דְּתִיהְוֵי הָא",
+          "english": "Here is different, that it is pleasant to him that this should be"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חָבִית כּוּלַּהּ בָּסִיס לְהָא רְבִיעִית.",
+          "english": "A jar, all of it is base for this quarter-log."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לֵימָא קָא סָבַר שְׁמוּאֵל שְׁלִיחוּת יָד אֵינָהּ צְרִיכָה חֶסְרוֹן?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        82
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "raises_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:5:1",
+            "hebrew": "דניחא ליה דתיהוי כולה חבית בסיס להאי רביעית - שתשמר אותה רביעית ולא תחמיץ ולעולם שליחות יד בדבר אחר צריכה חסרון והנוטל פקדון ומגביהו על מנת לשלוח בו יד כל זמן שלא חסרו אינו מתחייב בהגבהתו הואיל ולא נטלו ע\"מ לגזול את כולו אלא לשלוח בו יד ושליחות יד בלא חסרון ליתיה אבל יין שאינו משתמר אלא בכלי מלא הוה ליה כמי שנטל והניחו עם השאר להשתמר ונעשה שואל על כל שאר החבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the case is unique because the owner benefits from the wine being preserved in the full barrel, and therefore שליחות יד generally requires חסרון, but here the borrower becomes a שואל for the entire barrel since the wine is only preserved when the vessel is full."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "שאלה",
+      "title": "רַב אָשֵׁי's question on lifting an אַרְנָקִי",
+      "stepSummary": "Rav Ashi raises a question about lifting a money bag to take a dinar.",
+      "whatsHappening": "רַב אָשֵׁי raises a new question about lifting a money bag. He asks if taking a דִּינָר from an אַרְנָקִי creates liability for the whole bag.",
+      "deeperAnalysis": "The question tests the limits of the previous resolution. It hinges on whether the bag is guarded for the money or the wine, and if the bag benefits the coin.",
+      "keyTerms": [
+        {
+          "term": "רַב אָשֵׁי",
+          "meaning": "Rav Ashi"
+        },
+        {
+          "term": "אַרְנָקִי",
+          "meaning": "money bag"
+        },
+        {
+          "term": "דִּינָר",
+          "meaning": "dinar"
+        },
+        {
+          "term": "חַמְרָא",
+          "meaning": "wine"
+        },
+        {
+          "term": "מִנְטַר",
+          "meaning": "guarded"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בָּעֵי רַב אָשֵׁי:",
+          "english": "Rav Ashi raises a question:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הִגְבִּיהַּ אַרְנָקִי לִיטּוֹל הֵימֶנָּה דִּינָר, מַהוּ?",
+          "english": "He raised the purse to take a dinar from it — what is the law?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חַמְרָא הוּא דְּלָא מִינְּטַר אֶלָּא אַגַּב חַמְרָא,",
+          "english": "It is wine that is not guarded except because of the wine,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל זוּזָא מִינְּטַר?",
+          "english": "But a coin is guarded?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אוֹ דִּלְמָא שָׁאנֵי נְטִירוּתָא דְּאַרְנָקִי מִנְּטִירוּתָא דְּדִינָר? תֵּיקוּ.",
+          "english": "Or perhaps the guarding of a purse is different from the guarding of a dinar? Let it stand unresolved."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בָּעֵי רַב אָשֵׁי: הִגְבִּיהַּ אַרְנָקִי לִיטּוֹל הֵימֶנָּה דִּינָר...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        84
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "raises_new_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:6:1",
+            "hebrew": "הגביה ארנקי ליטול דינר - ולא נטל לשמואל מהו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question of רב אשי is specifically about whether the act of lifting the ארנקי to take a דינר is considered a valid act of taking (נטילה) according to the opinion of שמואל."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:6:2",
+            "hebrew": "אבל זוזא מינטר - לבדו ולא ניחא ליה דלהוי אינך בסיס להאי ולא הוי כנוטל ומניח:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern is whether the owner guards the דינר individually, meaning he does not want the other coins to serve as a base (בסיס) for this one, which would invalidate the act of taking and placing (נוטל ומניח)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:6:3",
+            "hebrew": "שאני נטירותא דארנקי - כיס מלא נראה ומשתמר ואין נוח להיות נאבד כדינר יחידי:",
+            "english": "",
+            "takeaway": "רש״י suggests that the נטירותא of an ארנקי is different because a full bag is visible and guarded, making it less likely to be lost compared to a single דינר."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מסקנא",
+      "title": "Closing of the previous פֶּרֶק",
+      "stepSummary": "The sugya begins with the standard closing formula for the previous perek.",
+      "whatsHappening": "The גְּמָרָה formally concludes the previous פֶּרֶק. It uses the standard closing formula הֲדַרַן עֲלָךְ.",
+      "deeperAnalysis": "This is a structural marker, not an argumentative step. It signals the end of the discussion on the previous topic.",
+      "keyTerms": [
+        {
+          "term": "הֲדַרַן עֲלָךְ",
+          "meaning": "we will return to you"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֲדַרַן עֲלָךְ הַמַּפְקִיד",
+          "english": "I return to you, the one who deposits"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הֲדַרַן עֲלָךְ הַמַּפְקִיד",
+      "macroPhase": "conclusion",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "מִשְׁנָה: Gold acquires silver, silver does not acquire gold",
+      "stepSummary": "The Mishna states the principle that gold acquires silver, but silver does not acquire gold.",
+      "whatsHappening": "The new פֶּרֶק opens with the מִשְׁנָה stating the primary rule of acquisition. It establishes that gold acquires silver, but silver does not acquire gold.",
+      "deeperAnalysis": "The מִשְׁנָה establishes a hierarchy of currency. Gold is more valuable and functions as the item being acquired, while silver functions as money.",
+      "keyTerms": [
+        {
+          "term": "הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף",
+          "meaning": "gold acquires silver"
+        },
+        {
+          "term": "הַכֶּסֶף אֵינוֹ קוֹנֶה אֶת הַזָּהָב",
+          "meaning": "silver does not acquire gold"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף,",
+          "english": "The Mishnah: Gold acquires silver,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַכֶּסֶף אֵינוֹ קוֹנֶה אֶת הַזָּהָב.",
+          "english": "and silver does not acquire gold."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף, וְהַכֶּסֶף אֵינוֹ קוֹנֶה אֶת הַזָּהָב.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:8:1",
+            "hebrew": "מתני' הזהב קונה את הכסף - הלוקח דינרי זהב טבועים בדינרי כסף ונתן לו דינרי זהב משיכת הזהב קונה את הכסף לבעל הזהב ונתחייב לו זה משקיבל דינרי זהב לתת לו דינרי הכסף ואינו יכול לחזור בו אבל הכסף אינו קונה את הזהב שאם נתן לו דינרי הכסף תחילה לא קנה ויכולין שניהם לחזור דמטבע כסף הוי מעות משום דחריפי לינתן בהוצאה ודינר זהב אינו אלא כשאר מטלטלין ופירות ומעות אינן קונות עד שימשוך המטלטלין אבל משיכת המטלטלין קונה ואין אחד מהם יכול לחזור בו ובגמ' מפרש טעמא איכא דיליף משיכה מן התורה ואיכא דמוקי לה בתקנתא דרבנן:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna describes a transaction where a buyer acquires silver coins by giving gold coins, and because משיכה of the gold effects acquisition, the seller cannot retract, whereas if silver were given first, it would not acquire the gold because silver is considered מעות which do not acquire until the item is moved, while gold is treated like מטלטלין which are acquired by משיכה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 44a:8:1",
+            "hebrew": "מתני' הזהב - הנחושת קונה את הכסף. האי איצטריך דאע\"ג דבאתרא דמסגי פריטי חריפין טפי [מכספא] הוו פירא משום דאיכא אתרא דלא מסגי כדאמר בגמרא (עמוד ב) אך תימה אמאי איצטריך למיתני דמעות הרעות שנפסלו דמקרו פירי השתא נחשת דסגי טובא הוי פירי כל שכן מעות שנפסלו ותו דכל המטלטלים קונין זה את זה מוקי בגמ'. במעות חד פסלתו מלכות וחד פסלתו מדינה כל שכן דמעות שנפסלו דמקרו פירי לגבי כסף לכך נראה דמעות הרעות היינו שיוצאות קצת ואסימון אצטריך לפרש\"י דמפרש אסימון הוי שעשוי כתקון המטבע היוצאת בעיר ואין חסר רק צורה אשמועינן דאפילו הכי הוי פירי אע\"ג דאינו חסר כ\"א מעט דבדבר מועט יטביעו הרבה מהם ולרבינו תם דמפרש אסימון שיש עליו צורה ואינה יוצאה בהוצאה צ\"ל שיוצאת בדוחק אך לא כל כך בדוחק כמו מעות הרעות ומטלטלין קונין מטבע אשמועינן דקונין אפילו מטבע כמו מעות הרעות ואסימון דמקרי פירי לגבי כספא ולגבי מטלטלין מקרי טבעא:",
+            "english": "",
+            "takeaway": "תוספות questions why the Mishna needs to teach that copper acquires silver when copper is clearly פירות, and suggests that the Mishna's mention of מעות הרעות and אסימון is necessary to teach that even coins that are still somewhat in circulation or only slightly defective are considered פירות relative to silver, and that מטלטלין can acquire even such coins."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "מִשְׁנָה: Copper acquires silver, bad coins acquire good",
+      "stepSummary": "The Mishna extends the principle to copper/silver and bad/good coins.",
+      "whatsHappening": "The מִשְׁנָה continues with parallel cases. It states that copper acquires silver, and bad coins acquire good ones.",
+      "deeperAnalysis": "These cases reinforce the hierarchy. The less valuable item functions as the item being acquired, while the more valuable functions as money.",
+      "keyTerms": [
+        {
+          "term": "הַנְּחֹשֶׁת קוֹנָה אֶת הַכֶּסֶף",
+          "meaning": "copper acquires silver"
+        },
+        {
+          "term": "מָעוֹת הָרָעוֹת קוֹנוֹת אֶת הַיָּפוֹת",
+          "meaning": "bad coins acquire good ones"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַנְּחֹשֶׁת קוֹנָה אֶת הַכֶּסֶף,",
+          "english": "The copper acquires the silver,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַכֶּסֶף אֵינוֹ קוֹנֶה אֶת הַנְּחשֶׁת.",
+          "english": "and the silver does not acquire the copper."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מָעוֹת הָרָעוֹת קוֹנוֹת אֶת הַיָּפוֹת,",
+          "english": "Bad coins acquire the good ones,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהַיָּפוֹת אֵינָן קוֹנוֹת אֶת הָרָעוֹת.",
+          "english": "and the good ones do not acquire the bad ones."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַנְּחֹשֶׁת קוֹנָה אֶת הַכֶּסֶף, וְהַכֶּסֶף אֵינוֹ קוֹנֶה אֶת הַנְּחשֶׁת. מָעוֹת הָרָעוֹת קוֹנוֹת אֶת הַיָּפוֹת, וְהַיָּפוֹת אֵינָן קוֹנוֹת אֶת הָרָעוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        88
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:9:2",
+            "hebrew": "קונה את הכסף - דינרי של כסף או כל מטבע של כסף כולן טעם אחד להם מי שטבעו חשוב לטבוע הוי מעות ואינו קונה ומי שאין טבעו חשוב וחריף הוי כפירות ומשיכתן הוא קיום דבר:",
+            "english": "",
+            "takeaway": "רש״י explains that the distinction between copper and silver (and bad vs. good coins) hinges on whether the currency is considered 'money' (מעות) or 'produce' (פירות), where only items classified as פירות can effect קניין through משיכה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "מִשְׁנָה: אֲסִימוֹן acquires minted coin, movables acquire coin",
+      "stepSummary": "The Mishna extends the principle to unminted/minted coins and movables/coin.",
+      "whatsHappening": "The מִשְׁנָה continues with more cases. It states that an אֲסִימוֹן acquires a minted coin, and movables acquire coin.",
+      "deeperAnalysis": "The pattern holds. The less monetary item functions as the item being acquired, while the more monetary functions as money.",
+      "keyTerms": [
+        {
+          "term": "אֲסִימוֹן קוֹנֶה אֶת הַמַּטְבֵּעַ",
+          "meaning": "unminted coin acquires minted coin"
+        },
+        {
+          "term": "מִטַּלְטְלִין קוֹנִין אֶת הַמַּטְבֵּעַ",
+          "meaning": "movables acquire coin"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲסִימוֹן קוֹנֶה אֶת הַמַּטְבֵּעַ,",
+          "english": "A token acquires the coin,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַמַּטְבֵּעַ אֵינוֹ קוֹנֶה אֶת אֲסִימוֹן.",
+          "english": "And the coin does not acquire the token."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִטַּלְטְלִין קוֹנִין אֶת הַמַּטְבֵּעַ,",
+          "english": "Movable property acquires the coin,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַטְבֵּעַ אֵינוֹ קוֹנֶה אֶת הַמִּטַּלְטְלִין.",
+          "english": "A coin does not acquire movable property."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲסִימוֹן קוֹנֶה אֶת הַמַּטְבֵּעַ, וְהַמַּטְבֵּעַ אֵינוֹ קוֹנֶה אֶת אֲסִימוֹן. מִטַּלְטְלִין קוֹנִין אֶת הַמַּטְבֵּעַ, מַטְבֵּעַ אֵינוֹ קוֹנֶה אֶת הַמִּטַּלְטְלִין.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        89
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:10:1",
+            "hebrew": "אסימון - שאין עליו צורה פלדו\"ן בלעז זוזים עגולין ומוכנים לצור עליהם את הצורה בחותם שקורין קוי\"ץ:",
+            "english": "",
+            "takeaway": "רש״י defines אסימון as an unminted metal disc lacking a stamped image, which is prepared to receive a seal."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 44a:10:1",
+            "hebrew": "אסימון - פרש\"י שאין בו צורה כלל וקשה לרבינו תם דבפרק במה אשה (שבת דף סה. ושם ד\"ה ליעבד) אמרו יוצאין בסלע שעל גבי הציצית אי משום צורתא ליעביד ליה פולסא משמע דפולסא יש עליו צורה ובגמרא מפרש לקמן מאי אסימון פולסא וי\"ל לפרש\"י דכל דבר שאינו כתקונו קרי אסימון או שאין בו צורה או שיש בו צורה שאינה חשובה וא\"ת מה בין אסימון שאין עליו צורה למעות הניתנין לסימן בבית המרחץ דאמרי' בגמ' (שם) ושוין רבי דוסא דאמר מחללין על אסימון מודה שאין מחללין על מעות הניתנין כו' ויש לומר דאסימון הם מעות שנעשו ברוחב ובעובי ובמשקל המטבע היוצא בעיר ובדבר מועט יטביעו הרבה מהם ולכך מחללין על אסימון ור\"ת מפרש דאסימון יש בה צורה ואינה יוצאה בהוצאה וא\"ת בגמרא קאמר רבי דוסא דאמר מחללין על אסימון ורבי ישמעאל אמרו דבר אחד דתניא וצרת הכסף לרבות כל דבר הנצרר ביד דברי רבי ישמעאל ר\"ע אומר לרבות דבר שיש בו צורה משמע דרבי ישמעאל לא בעי צורה ואסימון יש בו צורה וא\"כ היאך אמרו דבר אחד ויש לומר לרבות כל דבר הנצרר ביד אע\"פ שאינו יוצא בהוצאה אך שיהיה בו צורה כל דהו ור\"ע בעי צורה חשובה שתצא בהוצאה אך יוצאה לגמרי לא בעי מדאיצטריך לרבויי ולפי' רש\"י אתי שפיר:",
+            "english": "",
+            "takeaway": "תוספות notes that רבינו תם challenges רש״י's definition by citing שבת 65a, where אסימון seems to have a form, and proposes that אסימון refers to metal with a form that is not valid currency, or alternatively, that רש״י means any item not in its proper state, whether lacking form or having an insignificant form."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות presents a difficulty against רש״י's definition of אסימון as lacking form, based on a sugya in שבת, and offers alternative explanations to reconcile the texts."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "מִשְׁנָה: General rule and practical application",
+      "stepSummary": "The Mishna states the general rule and gives a practical example of acquisition by pulling.",
+      "whatsHappening": "The מִשְׁנָה summarizes the principle and provides a practical example. It states that all movables acquire each other, and gives an example of pulling produce.",
+      "deeperAnalysis": "The general rule is that all movables acquire each other. The example clarifies that pulling produce effects acquisition even without payment.",
+      "keyTerms": [
+        {
+          "term": "כָּל הַמִּטַּלְטְלִים קוֹנִין זֶה אֶת זֶה",
+          "meaning": "all movables acquire each other"
+        },
+        {
+          "term": "מָשַׁךְ הֵימֶנּוּ פֵּרוֹת",
+          "meaning": "he pulled produce from him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "זֶה הַכְּלָל: כׇּל הַמִּטַּלְטְלִים קוֹנִין זֶה אֶת זֶה.",
+          "english": "This is the general rule: all movable property acquires one another."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיצַד?",
+          "english": "How so?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מָשַׁךְ הֵימֶנּוּ פֵּירוֹת וְלֹא נָתַן לוֹ מָעוֹת –",
+          "english": "He drew from him produce and did not give him money –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵינוֹ יָכוֹל לַחְזוֹר בּוֹ.",
+          "english": "He cannot retract from it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נָתַן לוֹ מָעוֹת וְלֹא מָשַׁךְ הֵימֶנּוּ פֵּירוֹת –",
+          "english": "He gave him money and did not draw from him produce –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "יָכוֹל לַחְזוֹר בּוֹ.",
+          "english": "He can retract from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "זֶה הַכְּלָל: כׇּל הַמִּטַּלְטְלִים קוֹנִין זֶה אֶת זֶה. כֵּיצַד? מָשַׁךְ הֵימֶנּוּ פֵּירוֹת וְלֹא נָתַן לוֹ מָעוֹת – אֵינוֹ יָכוֹל לַחְזוֹר בּוֹ. נָתַן לוֹ מָעוֹת וְלֹא מָשַׁךְ הֵימֶנּוּ פֵּירוֹת – יָכוֹל לַחְזוֹר בּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        90
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:11:1",
+            "hebrew": "כל המטלטלין קונין זה את זה - בין בתורת חליפין שהחליף אלו באלו כיון שמשך האחד קנה חבירו את שלו בין בתורת דמים בכמה תתן לי את שלך בכך וכך וזה חוזר ואומר לו בכמה תתן לי שלך בכך וכך ונתרצו ומשך האחד נתקיימו הדברים והאי כל לאתויי אפי' כיס מלא מעות בכיס מלא מעות כדריש לקיש בגמרא:",
+            "english": "",
+            "takeaway": "רש״י explains that the general rule 'all movables acquire each other' applies both to barter (חליפין) and to monetary sales (דמים), and the word 'all' (כל) includes even a bag of money exchanged for another bag of money, as ריש לקיש states in the Gemara."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:11:2",
+            "hebrew": "יכול לחזור בו - זה וזה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'can renege' (יכול לחזור בו) applies to both the buyer and the seller."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "מִשְׁנָה: Moral warning against reneging",
+      "stepSummary": "The Mishna warns that those who renege on transactions will face divine retribution.",
+      "whatsHappening": "The מִשְׁנָה adds a moral warning about reneging on a transaction. It warns that divine justice will punish those who do not stand by their word.",
+      "deeperAnalysis": "Although the law allows reneging before acquisition, the מִשְׁנָה warns of divine punishment. This is a moral, not legal, statement.",
+      "keyTerms": [
+        {
+          "term": "מִי שֶׁפָּרַע מֵאַנְשֵׁי דוֹר הַמַּבּוּל",
+          "meaning": "He Who exacted payment from the generation of the flood"
+        },
+        {
+          "term": "הוּא עָתִיד לְהִפָּרַע מִמִּי שֶׁאֵינוֹ עוֹמֵד בְּדִבּוּרוֹ",
+          "meaning": "will exact payment from whoever does not stand by his statement"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲבָל אָמְרוּ:",
+          "english": "But they said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִי שֶׁפָּרַע מֵאַנְשֵׁי דּוֹר הַמַּבּוּל וּמִדּוֹר הַפְּלַגָּה –",
+          "english": "Whoever was exacted from the people of the generation of the Flood and the generation of the Dispersion –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוּא עָתִיד לְהִפָּרַע מִמִּי שֶׁאֵינוֹ עוֹמֵד בְּדִבּוּרוֹ.",
+          "english": "He is destined to be exacted from whoever does not stand by his word."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲבָל אָמְרוּ: מִי שֶׁפָּרַע מֵאַנְשֵׁי דּוֹר הַמַּבּוּל וּמִדּוֹר הַפְּלַגָּה – הוּא עָתִיד לְהִפָּרַע מִמִּי שֶׁאֵינוֹ עוֹמֵד בְּדִבּוּרוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        91
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי שִׁמְעוֹן's dissent on acquisition",
+      "stepSummary": "Rabbi Shimon holds that whoever has the money has the advantage.",
+      "whatsHappening": "The מִשְׁנָה records רַבִּי שִׁמְעוֹן's dissenting view on acquisition. He rejects the hierarchy principle entirely.",
+      "deeperAnalysis": "רַבִּי שִׁמְעוֹן holds that whoever holds the money has the advantage. This ignores the type of currency or item involved. It sets up the גְּמָרָה's discussion of רַבִּי's change of opinion.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי שִׁמְעוֹן אוֹמֵר",
+          "meaning": "Rabbi Shimon says"
+        },
+        {
+          "term": "כָּל שֶׁהַכֶּסֶף בְּיָדוֹ – יָדוֹ עַל הָעֶלְיוֹנָה",
+          "meaning": "whoever has the money in his hand has the advantage"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי שִׁמְעוֹן אוֹמֵר:",
+          "english": "Rabbi Shimon says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֹּל שֶׁהַכֶּסֶף בְּיָדוֹ –",
+          "english": "All that the silver is in his hand –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יָדוֹ עַל הָעֶלְיוֹנָה.",
+          "english": "his hand is on the upper one."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי שִׁמְעוֹן אוֹמֵר: כֹּל שֶׁהַכֶּסֶף בְּיָדוֹ – יָדוֹ עַל הָעֶלְיוֹנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        92
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 44a:13:1",
+            "hebrew": "כל שהכסף בידו כו' - פליג אדרבנן דאמרי נתן לו מעות יכול לחזור בו אפילו לוקח ואתא ר\"ש למימר מוכר שהכל בידו הוא דיכול לחזור בו אבל לוקח אין יכול לחזור בו ובגמ' מפרש טעמא:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי שִׁמְעוֹן disagrees with the רבנן who hold that the buyer can retract after paying money, and instead maintains that the seller can retract but the buyer cannot."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי teaches his son רַבִּי שִׁמְעוֹן",
+      "stepSummary": "The Gemara introduces the story of Rabbi teaching his son Rabbi Shimon.",
+      "whatsHappening": "The גְּמָרָה begins a narrative about רַבִּי teaching his son. רַבִּי teaches the מִשְׁנָה's rule that gold acquires silver.",
+      "deeperAnalysis": "רַבִּי שִׁמְעוֹן challenges his father. He notes that in his youth, רַבִּי taught the opposite: silver acquires gold. This sets up the גְּמָרָה's exploration of רַבִּי's change of opinion.",
+      "keyTerms": [
+        {
+          "term": "מַתְנֵי לֵיהּ רַבִּי לְרַבִּי שִׁמְעוֹן בְּרֵיהּ",
+          "meaning": "Rabbi taught his son Rabbi Shimon"
+        },
+        {
+          "term": "שָׁנִיתָ לָנוּ בְּיַלְדוּתֶיךָ",
+          "meaning": "you taught us in your youth"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ מַתְנֵי לֵיהּ רַבִּי לְרַבִּי שִׁמְעוֹן בְּרֵיהּ:",
+          "english": "The Gemara teaches it to Rabbi, to Rabbi Shimon his son:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף.",
+          "english": "Gold acquires silver."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר לוֹ: רַבִּי,",
+          "english": "He said to him: Rabbi,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שָׁנִיתָ לָנוּ בְּיַלְדוּתֶיךָ:",
+          "english": "You taught us in your youth:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַכֶּסֶף קוֹנֶה אֶת הַזָּהָב,",
+          "english": "Silver acquires gold,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְתַחֲזוֹר וְתִשְׁנֶה לָנוּ בְּזִקְנוּתֶיךָ:",
+          "english": "And you will return and teach us in your old age:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף!",
+          "english": "Gold acquires silver!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ מַתְנֵי לֵיהּ רַבִּי לְרַבִּי שִׁמְעוֹן בְּרֵיהּ: הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף. אָמַר לוֹ: רַבִּי, שָׁנִיתָ לָנוּ בְּיַלְדוּתֶיךָ: הַכֶּסֶף קוֹנֶה אֶת הַזָּהָב, וְתַחֲזוֹר וְתִשְׁנֶה לָנוּ בְּזִקְנוּתֶיךָ: הַזָּהָב קוֹנֶה אֶת הַכֶּסֶף!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        93
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "שאלה",
+      "title": "What did רַבִּי hold in his youth and old age?",
+      "stepSummary": "The Gemara asks what Rabbi's reasoning was in his youth and in his old age.",
+      "whatsHappening": "The גְּמָרָה poses a question about רַבִּי's underlying reasoning. It asks what he held in his youth and what he holds now.",
+      "deeperAnalysis": "The גְּמָרָה seeks to understand the basis for רַבִּי's change of opinion. It wants to know his reasoning in his youth and what led him to change his mind. This is a neutral request for information, not an objection.",
+      "keyTerms": [
+        {
+          "term": "בְּיַלְדוּתֵיהּ מַאי סְבַר",
+          "meaning": "in his youth, what did he hold?"
+        },
+        {
+          "term": "בְּזִקְנוּתֵיהּ מַאי סָבַר",
+          "meaning": "in his old age, what did he hold?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּיַלְדוּתֵיהּ מַאי סְבַר, וּבְזִקְנוּתֵיהּ מַאי סָבַר?",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּיַלְדוּתֵיהּ סְבַר: דַּהֲבָא דַּחֲשִׁיב הָוֵי טִבְעָא,",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כַּסְפָּא דְּלָא חֲשִׁיב – הָוֵי פֵּירָא,",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְקָנֵי לֵיהּ פֵּירָא לְטִבְעָא.",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּזִקְנוּתֵיהּ סְבַר: כַּסְפָּא",
+          "english": "[translation unavailable]"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּיַלְדוּתֵיהּ מַאי סְבַר, וּבְזִקְנוּתֵיהּ מַאי סָבַר?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        94
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T00:19:17.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 122.6039583000238,
+      "structure": 2424.0285364000592,
+      "validate": 314.4292459000135,
+      "translate": 402.34302830015076,
+      "meforshim": 1418.293998199806,
+      "teaching": 1032.7795553999604
+    }
+  }
+}

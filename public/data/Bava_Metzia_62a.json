@@ -1,0 +1,1302 @@
+{
+  "ref": "Bava Metzia 62a",
+  "masechet": "Bava_Metzia",
+  "daf": 62,
+  "amud": "a",
+  "mainTopic": "חייך קודמין לחיי חבירך · הנח להם אביהם מעות של ריבית · הגזלנים ומלוה ריבית",
+  "overview": "(1) The Gemara discusses the verse 'וְחֵי אָחִיךָ עִמָּךְ' and its application to the case of two people with one jug of water, establishing that one's own life takes precedence. (2) The Gemara discusses the law that heirs are not obligated to return interest inherited from their father, and explores the reasoning behind this, including the concept of 'כבוד אביהם' and the requirement of 'תשובה'. (3) The Gemara discusses the obligation to return interest even after it has been collected, and explores the dispute between R. Nehemiah and R. Eliezer ben Ya'akov regarding the concept of 'קום עשה' and the status of a document ('שטר'). (4) Rav Safra's rule regarding the return of interest in cases where the gentiles take it vs. where they don't, and the distinction between 'ריבית קצוצה' and 'ריבית מוקדמת/מאוחרת'. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 2,
+      "topic": "חייך קודמין לחיי חבירך",
+      "gist": "The Gemara discusses the verse 'וְחֵי אָחִיךָ עִמָּךְ' and its application to the case of two people with one jug of water, establishing that one's own life takes precedence.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 3,
+      "endLine": 6,
+      "topic": "הנח להם אביהם מעות של ריבית",
+      "gist": "The Gemara discusses the law that heirs are not obligated to return interest inherited from their father, and explores the reasoning behind this, including the concept of 'כבוד אביהם' and the requirement of 'תשובה'.",
+      "openingFormula": "מיתיבי",
+      "firstStepNumber": 3,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 7,
+      "endLine": 12,
+      "topic": "הגזלנים ומלוה ריבית",
+      "gist": "The Gemara discusses the obligation to return interest even after it has been collected, and explores the dispute between R. Nehemiah and R. Eliezer ben Ya'akov regarding the concept of 'קום עשה' and the status of a document ('שטר').",
+      "openingFormula": "מיתיבי",
+      "firstStepNumber": 7,
+      "lastStepNumber": 12
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 13,
+      "endLine": 15,
+      "topic": "כל שאילו בדיניהם",
+      "gist": "Rav Safra's rule regarding the return of interest in cases where the gentiles take it vs. where they don't, and the distinction between 'ריבית קצוצה' and 'ריבית מוקדמת/מאוחרת'. — discussion continues into next amud.",
+      "openingFormula": "אמר רב ספרא",
+      "firstStepNumber": 13,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The verse 'וְחֵי אָחִיךָ עִמָּךְ' teaches returning interest",
+      "stepSummary": "The Gemara cites a teaching that the verse 'וְחֵי אָחִיךָ עִמָּךְ' is used to derive the obligation to return interest to a borrower so that he may survive.",
+      "whatsHappening": "The sugya opens with a freestanding teaching (מימרא) explaining the derivation from the verse 'וְחֵי אָחִיךָ עִמָּךְ'.",
+      "deeperAnalysis": "The verse 'וְחֵי אָחִיךָ עִמָּךְ' (Leviticus 25:36) is interpreted as a source for the obligation to return interest (אַהְדַּר לֵיהּ) to a borrower. The rationale is 'כִּי הֵיכִי דְנֵיחֵי' — so that he may live comfortably. This establishes the verse's application in a financial context.",
+      "keyTerms": [
+        {
+          "term": "וְחֵי אָחִיךָ עִמָּךְ",
+          "meaning": "and your brother shall live with you"
+        },
+        {
+          "term": "אַהְדַּר לֵיהּ",
+          "meaning": "return to him [the interest]"
+        },
+        {
+          "term": "כִּי הֵיכִי דְנֵיחֵי",
+          "meaning": "so that he may live [comfortably]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "״וְחֵי אָחִיךָ עִמָּךְ״.",
+          "english": "\"And your brother shall live with you.\""
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַהְדַּר לֵיהּ כִּי הֵיכִי דְּנֵיחֵי.",
+          "english": "Return to him so that he may be at ease."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "״וְחֵי אָחִיךָ עִמָּךְ״. אַהְדַּר לֵיהּ כִּי הֵיכִי דְנֵיחֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:1:1",
+            "hebrew": "וחי אחיך עמך - רישיה דקרא ברבית קאי אל תקח מאתו וגו':",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'וְחֵי אָחִיךָ עִמָּךְ' is part of the Torah's prohibition against taking ריבית, specifically following the command 'אַל תִּקַּח מֵעִמּוֹ'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "What does רבי יוחנן do with the verse?",
+      "stepSummary": "The Gemara asks what רבי יוחנן derives from the verse 'וְחֵי אָחִיךָ עִמָּךְ', since the previous teaching already used it for a different purpose.",
+      "whatsHappening": "The Gemara poses a neutral question about רבי יוחנן's use of the same verse.",
+      "deeperAnalysis": "Since the verse was already used to derive the law of returning interest, the Gemara asks what רבי יוחנן does with it. This is a שאלה, not a קשיא, because it is not attacking the previous teaching but rather inquiring about רבי יוחנן's independent derivation.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        },
+        {
+          "term": "מַאי עָבֵיד לֵיהּ",
+          "meaning": "what does he do with it [the verse]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבִּי יוֹחָנָן,",
+          "english": "And Rabbi Yoḥanan,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַאי ״וְחֵי אָחִיךָ עִמָּךְ״ מַאי עָבֵיד לֵיהּ?",
+          "english": "this 'and your brother shall live with you' — what does he do with it?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִבְּעֵי לֵיהּ לְכִדְתַנְיָא:",
+          "english": "He requires it for that which is taught:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שְׁנַיִם שֶׁהָיוּ מְהַלְּכִין בַּדֶּרֶךְ וּבְיַד אֶחָד",
+          "english": "Two who were walking on the road and in the hand of one of them"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מֵהֶן קִיתוֹן שֶׁל מַיִם,",
+          "english": "a jug of water,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִם שׁוֹתִין שְׁנֵיהֶם – מֵתִים.",
+          "english": "if both drink — they die."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִם שׁוֹתֶה אֶחָד מֵהֶן – מַגִּיעַ לַיִּשּׁוּב.",
+          "english": "And if one of them drinks — he reaches a settled area."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דָּרַשׁ בֶּן פְּטוֹרָא:",
+          "english": "Ben Petora expounded:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מוּטָב שֶׁיִּשְׁתּוּ שְׁנֵיהֶם וְיָמוּתוּ,",
+          "english": "It is preferable that both drink and die,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְאַל יִרְאֶה אֶחָד מֵהֶם בְּמִיתָתוֹ שֶׁל חֲבֵירוֹ.",
+          "english": "and let not one of them see the death of his companion."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "עַד שֶׁבָּא רַבִּי עֲקִיבָא וְלִימֵּד:",
+          "english": "Until Rabbi Akiva came and taught:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "״וְחֵי אָחִיךָ עִמָּךְ״,",
+          "english": "'and your brother shall live with you',"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "חַיֶּיךָ קוֹדְמִים לְחַיֵּי חֲבֵירֶךָ.",
+          "english": "your life takes precedence over the life of your companion."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַבִּי יוֹחָנָן, הַאי ״וְחֵי אָחִיךָ עִמָּךְ״ מַאי עָבֵיד לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:2:1",
+            "hebrew": "אם ישתו שניהם ימותו - בצמא שאין מספיק לשניהם:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'if they both drink, they will die' refers to the fact that the water is insufficient for both, leading to death from thirst."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:2:2",
+            "hebrew": "ואם ישתה האחד מגיע לישוב - וימצא מים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'if one drinks, he reaches habitation' means the survivor will find more water upon reaching a settlement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:2:3",
+            "hebrew": "עמך - חייך קודמין:",
+            "english": "",
+            "takeaway": "רש״י interprets the verse 'your brother shall live with you' to mean that your own life takes precedence over your fellow's life."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Baraita: Heirs not obligated to return interest",
+      "stepSummary": "The גמרא cites a ברייתא stating that heirs are not obligated to return interest money inherited from their father, even if they know it is interest, and infers that the father himself was obligated.",
+      "whatsHappening": "The גמרא opens with a ברייתא that seems to imply the father was obligated to return interest, challenging the prior discussion.",
+      "deeperAnalysis": "The ברייתא teaches that heirs are not obligated to return interest money. The גמרא infers from this that the father himself was obligated, creating a difficulty for the prior ruling that one is not obligated to return interest.",
+      "keyTerms": [
+        {
+          "term": "מֵיתִיבִי",
+          "meaning": "the Gemara raises an objection"
+        },
+        {
+          "term": "מָעוֹת שֶׁל רִבִּית",
+          "meaning": "money of interest"
+        },
+        {
+          "term": "הָא אֲבִיהֶן חַיָּב לְהַחְזִיר",
+          "meaning": "but this indicates that their father himself is obligated to return"
+        }
+      ],
+      "whatToRemember": "The ברייתa distinguishes between money (not returned) and defined items (returned).",
+      "confusionAlert": "The inference that the father was obligated is a standard תלמודic technique (הא אביהן חייב להחזיר).",
+      "whyThisMatters": "This sets up the core question of whether interest is returned by heirs.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: הִנִּיחַ לָהֶם אֲבִיהֶם מָעוֹת שֶׁל רִבִּית,",
+          "english": "He sat: Their father left them money of interest,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל פִּי שֶׁיּוֹדְעִים שֶׁהֵן שֶׁל רִבִּית –",
+          "english": "Even though they know that they are of interest –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵינָן חַיָּיבִין לְהַחְזִירָן.",
+          "english": "They are not obligated to return them."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא אֲבִיהֶן חַיָּיב לְהַחְזִיר!",
+          "english": "But their father is obligated to return!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "מֵיתִיבִי: הִנִּיחַ לָהֶם אֲבִיהֶם מָעוֹת שֶׁל רִבִּית, אַף עַל פִּי שֶׁיּוֹדְעִים שֶׁהֵן שֶׁל רִבִּית – אֵינָן חַיָּיבִין לְהַחְזִירָן. הָא אֲבִיהֶן חַיָּיב לְהַחְזִיר!",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:3:1",
+            "hebrew": "אינהו הוא דאין חייבין להחזיר - כדתרצה רבה בהגוזל בתרא (ב\"ק דף קיב.) וחי אחיך עמך לדידיה הוא דאזהריה רחמנא אהדר ליה דניחי בהדך דסיפיה דקרא ארישיה קאי אל תקח ואם לקחת החזר אבל לבריה לא אזהר:",
+            "english": "",
+            "takeaway": "רש״י explains that the heirs are exempt from returning interest because the Torah's prohibition of 'ואם לקחת החזר' applies only to the borrower himself, as derived from the preceding verse 'וחי אחיך עמך', and does not extend to his heirs."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "The father was also not obligated",
+      "stepSummary": "The גמרא resolves the difficulty by stating that the father was also not obligated to return the interest, and the ברייתא focuses on the heirs' obligation.",
+      "whatsHappening": "The גמרא rejects the inference that the father was obligated, explaining that the ברייתa is structured to teach the heirs' obligation.",
+      "deeperAnalysis": "The גמרא argues that the father was not obligated to return interest. The ברייתa teaches the heirs' non-obligation to set up the contrast with defined items, which they must return due to כבוד אביהם.",
+      "keyTerms": [
+        {
+          "term": "בְּדִין הוּא",
+          "meaning": "by right / logically"
+        },
+        {
+          "term": "סֵיפָא",
+          "meaning": "the latter clause"
+        },
+        {
+          "term": "כְּבוֹד אֲבִיהֶם",
+          "meaning": "the honor of their father"
+        }
+      ],
+      "whatToRemember": "The ברייתa's structure is pedagogical, not a statement about the father's obligation.",
+      "confusionAlert": "The phrase 'בדין הוא דאבוהון נמי לא מיחייב להחזיר' means 'by right, the father too should not be obligated to return'.",
+      "whyThisMatters": "This clarifies that the father's obligation is not the focus of the ברייתa.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּדִין הוּא דַּאֲבוּהוֹן נָמֵי לָא מִיחַיַּיב לְהַחְזִיר,",
+          "english": "By right, their father too is not obligated to return,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאַיְּידֵי דְּקָא בָעֵי לְמִתְנֵי סֵיפָא:",
+          "english": "And since he wants to teach the latter clause:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הִנִּיחַ לָהֶן אֲבִיהֶם פָּרָה וְטַלִּית וְכׇל",
+          "english": "Their father left them a cow and a garment and every"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דָּבָר הַמְסוּיָּם חַיָּיבִין לְהַחְזִיר מִפְּנֵי כְּבוֹד",
+          "english": "defined thing, they are obligated to return because of their father's honor,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבִיהֶם, תָּנֵי נָמֵי רֵישָׁא בְּדִידְהוּ.",
+          "english": "He also taught the first clause on its own."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "דחיה",
+      "triggerLanguage": "בְּדִין הוּא דַאֲבוּהוֹן נָמֵי לָא מִיחַיַּיב לְהַחְזִיר, וְאַיְידֵי דְקָא בָעֵי לְמִתְנֵי סֵיפָא: הִנִּיחַ לָהֶן אֲבִיהֶם פָּרָה וְטַלִּית וְכָל דָּבָר הַמְסוּיָם חַיָּיבִין לְהַחְזִיר מִפְּנֵי כְּבוֹד אֲבִיהֶם, תָּנֵי נָמֵי רֵישָׁא בְּדִידְהוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:4:1",
+            "hebrew": "בדין הוא כו' - כרבי יוחנן דהאי וחי אחיך לכדר\"ע:",
+            "english": "",
+            "takeaway": "רש״י explains that the father's lack of obligation follows רבי יוחנן's interpretation of וחי אחיך, which aligns with רבי עקיבא's view that the verse refers only to the borrower's lifetime."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:4:2",
+            "hebrew": "המסוים - שניכר שהוא גזל ואביהם נזכר בה לקלון:",
+            "english": "",
+            "takeaway": "רש״י clarifies that המסוים refers to items recognizable as stolen, where the father's name is associated with them to his disgrace."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Why are heirs obligated for defined items?",
+      "stepSummary": "The גמרא challenges the obligation of heirs to return defined items, citing a verse that limits כבוד אביהם to actions befitting the people.",
+      "whatsHappening": "The גמרא questions the basis for the heirs' obligation to return defined items, using a verse to limit the scope of כבוד אביהם.",
+      "deeperAnalysis": "The גמרא asks why heirs are obligated to return defined items due to כבוד אביהם. It cites a verse that limits this obligation to actions befitting the people, implying that returning interest (an unbecoming action) should not be required.",
+      "keyTerms": [
+        {
+          "term": "וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר",
+          "meaning": "nor curse a ruler of your people"
+        },
+        {
+          "term": "בְּעוֹשֶׂה מַעֲשֵׂה עַמְּךָ",
+          "meaning": "one who performs an action becoming of your people"
+        }
+      ],
+      "whatToRemember": "The verse 'ונשיא בעמך לא תאור' is used to limit כבוד אביהם to befitting actions.",
+      "confusionAlert": "The phrase 'קר כאן' means 'read here', indicating the application of the verse to the current case.",
+      "whyThisMatters": "This challenges the basis for the heirs' obligation to return defined items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָנֵי, מִפְּנֵי כְּבוֹד אֲבִיהֶם מִי מִיחַיְּיבִי?",
+          "english": "And these, because of the honor of their father, who is obligated?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קְרִי כָּאן: ״וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר״,",
+          "english": "Read here: \"Nor curse a ruler of your people\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּעוֹשֶׂה מַעֲשֵׂה עַמְּךָ.",
+          "english": "In one who does the deed of your people."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "וְהָנֵי, מִפְּנֵי כְּבוֹד אֲבִיהֶם מִי מִיחַיְּיבִי? קְרִי כָּאן: ״וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר״, בְּעוֹשֶׂה מַעֲשֵׂה עַמְּךָ.",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges"
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "The father repented",
+      "stepSummary": "The גמרא resolves the difficulty by stating that the father repented, making him worthy of respect.",
+      "whatsHappening": "The גמרא resolves the difficulty by stating that the father repented, making him worthy of respect.",
+      "deeperAnalysis": "The גמרא cites Rabbi Pinchas in the name of Rava, stating that the obligation to uphold a father's honor applies when the father repented. This makes the father worthy of respect, and thus the heirs are obligated to return the defined items.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי פִּנְחָס",
+          "meaning": "Rabbi Pinchas"
+        },
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "תְּשׁוּבָה",
+          "meaning": "repentance"
+        }
+      ],
+      "whatToRemember": "The father's repentance is the key to the heirs' obligation.",
+      "confusionAlert": "The phrase 'כדאמר רבי פנחס משמיה דרבא' means 'as Rabbi Pinchas said in the name of Rava'.",
+      "whyThisMatters": "This clarifies that the father's repentance is the basis for the heirs' obligation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כִּדְאָמַר רַבִּי פִּנְחָס מִשְּׁמֵיהּ דְּרָבָא:",
+          "english": "As Rabbi Pinchas said in the name of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּשֶׁעָשָׂה תְּשׁוּבָה, הָכָא נָמֵי בְּשֶׁעָשָׂה תְּשׁוּבָה.",
+          "english": "When he did repentance, here too when he did repentance."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי עָשָׂה תְּשׁוּבָה, מַאי בָּעֵי גַּבֵּיהּ?",
+          "english": "If he did repentance, what does he need from him?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁלֹּא הִסְפִּיק לְהַחְזִיר עַד שֶׁמֵּת.",
+          "english": "That he did not manage to return until he died."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "כִּדְאָמַר רַבִּי פִּנְחָס מִשְּׁמֵיהּ דְּרָבָא: בְּשֶׁעָשָׂה תְּשׁוּבָה, הָכָא נָמֵי בְּשֶׁעָשָׂה תְּשׁוּבָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:6:1",
+            "hebrew": "דר' פנחס - בסוף חומר בקודש (חגיגה דף כו.):",
+            "english": "",
+            "takeaway": "רש״י points to the source of the statement of רבי פנחס in the final chapter of חגיגה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62a:6:1",
+            "hebrew": "אי עשה תשובה מאי בעי גביה - למ\"ד רבית קצוצה יוצאה בדיינין פריך שפיר דהיה לו להחזיר ואפילו למאן דאמר אינה יוצאה מ\"מ הוה לו להחזיר משום לעז ובושת וכיון דלא חשש גם בניו אין להם לחוש לכבודו:",
+            "english": "",
+            "takeaway": "תוספות explains that the question 'אי עשה תשובה, מאי בעי גביה?' is a strong challenge because if the father repented, he should have returned the interest, and since he didn't care about returning it, his sons shouldn't care about honoring him."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Baraita: Robbers and interest-lenders must return collected funds",
+      "stepSummary": "The Gemara cites a baraita stating that robbers and interest-lenders must return collected funds, then analyzes the wording to show it applies to interest-lenders.",
+      "whatsHappening": "The Gemara opens with a baraita that seems to establish a clear obligation to return interest even after collection. It then analyzes the baraita's wording to clarify its scope.",
+      "deeperAnalysis": "The baraita groups robbers and interest-lenders together, stating both must return collected funds. The Gemara questions the phrasing 'even though they collected' for robbers, since robbery implies taking by force, not 'collection.' It concludes the baraita actually refers only to interest-lenders, establishing that collected interest must be returned.",
+      "keyTerms": [
+        {
+          "term": "מֵיתִיבִי",
+          "meaning": "the Gemara raises an objection"
+        },
+        {
+          "term": "גַּזְלָנִין",
+          "meaning": "robbers"
+        },
+        {
+          "term": "מַלְוֵי רִבִּית",
+          "meaning": "those who lend with interest"
+        },
+        {
+          "term": "אַף עַל פִּי שֶׁגָּבוּ",
+          "meaning": "even though they collected"
+        }
+      ],
+      "whatToRemember": "The baraita's phrasing is clarified to apply specifically to interest-lenders, not robbers.",
+      "confusionAlert": "The term 'גזלנים' here is reinterpreted to mean interest-lenders, not literal robbers.",
+      "whyThisMatters": "This establishes the baseline halachic position that interest must be returned even after collection, setting up the subsequent dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: הַגַּזְלָנִין וּמַלְוֵי רִבִּית,",
+          "english": "They sat: robbers and lenders of interest,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל פִּי שֶׁגָּבוּ – מַחְזִירִין.",
+          "english": "even though they collected – they return."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "גַּזְלָנִים מַאי ״אַף עַל פִּי שֶׁגָּבוּ״ אִיכָּא?",
+          "english": "Robbers, what 'even though they collected' is there?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי גְּזוּל – גְּזוּל,",
+          "english": "If robbery – robbery,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי לָא גְּזוּל –",
+          "english": "if not robbery –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "גַּזְלָנִין קָרֵית לְהוּ? !",
+          "english": "do you call them robbers?!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֶלָּא אֵימָא: גַּזְלָנִין, מַאי נִיהוּ? מַלְוֵי רִבִּית.",
+          "english": "Rather say: robbers, what are they? Lenders of interest."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַף עַל פִּי שֶׁגָּבוּ – מַחְזִירִין.",
+          "english": "even though they collected – they return."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "מֵיתִיבִי: הַגַּזְלָנִין וּמַלְוֵי רִבִּית, אַף עַל פִּי שֶׁגָּבוּ – מַחְזִירִין.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:7:1",
+            "hebrew": "גזלנין קרית להו - בתמיה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question 'גזלנין קרית להו?' is phrased as a rhetorical challenge, implying that if the funds were not forcibly taken, they cannot be classified as robbers."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62a:7:1",
+            "hebrew": "גזלן מאי אע\"פ שגבו איכא - וא\"ת דאף על פי שגבו משום מלוה ברבית נקטי' וי\"ל דא\"כ גזלנין למאי תננהו פשיטא דמחזיר להכי איצטריך ליה לשנויי הגזלנין מאי ניהו מלוי ברבית:",
+            "english": "",
+            "takeaway": "תוספות addresses why the Gemara questions the term 'גזלנין' instead of simply assuming 'אף על פי שגבו' applies only to interest-lenders, explaining that the mention of robbers is necessary to establish their obligation to return funds, thus requiring the clarification that the baraita's 'robbers' actually refers to interest-lenders."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Dispute: R. Nehemiah and R. Eliezer ben Ya'akov exempt due to קום עשה",
+      "stepSummary": "The Gemara resolves the baraita by identifying it as a dispute: R. Nehemiah and R. Eliezer ben Ya'akov exempt the lender and guarantor because of the principle of קום עשה.",
+      "whatsHappening": "The Gemara resolves the apparent obligation to return interest by citing a dispute among Tannaim.",
+      "deeperAnalysis": "The Gemara introduces a baraita showing that R. Nehemiah and R. Eliezer ben Ya'akov exempt the lender and guarantor from punishment because of the principle of קום עשה. This principle holds that when a transgression can be rectified by a positive action, lashes are not administered. The Gemara then asks what this positive action is, suggesting it might be the obligation to return the interest.",
+      "keyTerms": [
+        {
+          "term": "תַּנַּיִם",
+          "meaning": "Tannaim"
+        },
+        {
+          "term": "רַבִּי נְחֶמְיָה",
+          "meaning": "Rabbi Nehemiah"
+        },
+        {
+          "term": "רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב",
+          "meaning": "Rabbi Eliezer ben Ya'akov"
+        },
+        {
+          "term": "קוּם עֲשֵׂה",
+          "meaning": "arise and do [a positive action to rectify]"
+        }
+      ],
+      "whatToRemember": "The principle of קום עשה exempts from lashes when a transgression can be rectified by a positive action.",
+      "confusionAlert": "The exemption is from lashes, not from the obligation to return the interest itself.",
+      "whyThisMatters": "This introduces the key halachic principle of קום עשה and sets up the debate about what constitutes the rectifying action.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנָּאֵי הִיא, דְּתַנְיָא:",
+          "english": "It is a dispute of tanna’im, as it is taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַבִּי נְחֶמְיָה וְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב",
+          "english": "Rabbi Neḥemya and Rabbi Eliezer ben Ya’akov"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "פּוֹטְרִין אֶת הַמַּלְוֶה וְאֶת הֶעָרֵב,",
+          "english": "exempt the lender and the guarantor,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִפְּנֵי שֶׁיֵּשׁ בָּהֶן קוּם עֲשֵׂה.",
+          "english": "because there is in them 'arise and do'."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי קוּם עֲשֵׂה?",
+          "english": "What is 'arise and do'?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָאו מִשּׁוּם דְּאָמְרִינַן לְהוּ קוּמוּ אַהֲדוּרוּ?",
+          "english": "Is it not because we say to them: Arise and return it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "תַּנַּיִם הֵן, דְּתַנְיָא: רַבִּי נְחֶמְיָה וְרַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב פּוֹטְרִין אֶת הַמַּלְוֶה וְאֶת הֶעָרֵב, מִפְּנֵי שֶׁיֵּשׁ בָּהֶן קוּם עֲשֵׂה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:8:1",
+            "hebrew": "פוטרין את המלוה ואת הערב - מן לא תעשה ומלקות:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי נחמיה and רבי אליעזר בן יעקב exempt the lender and guarantor from the prohibition of לא תעשה and the punishment of מלקות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:8:2",
+            "hebrew": "מפני שיש בהן קום עשה - והוה ליה לאו הניתק לעשה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the principle of קום עשה means the prohibition is a לאו הניתק לעשה, which exempts one from lashes."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:8:3",
+            "hebrew": "קומו אהדורו - מה שגביתם וזהו נתקו לעשה כדאמרינן אל תקח ואם לקחת החזר וחי אחיך:",
+            "english": "",
+            "takeaway": "רש״י explains that the positive action (קום עשה) is the obligation to return the interest collected, fulfilling the requirement of 'if you took it, return it'."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62a:8:1",
+            "hebrew": "תנאי היא - וא\"ת דבהגוזל (ב\"ק דף צד:) משני דמחזירין לצאת ידי שמים ואמאי לא משני נמי הכא הכי והתם נמי אמאי לא משני תנאי היא כדמשני הכא וי\"ל דהכא קאמר אליבא דר' יוחנן ולדידיה דאמר אינה יוצאה בדיינין אף לצאת ידי שמים אינו צריך להחזיר ולכך לא מצי לשנויי הכא אלא תנאי היא וסוגיא דהתם אתי כההוא תנא דאית ליה יוצאה בדיינין דפריך אההיא ברייתא דסברה דמן התורה מחזירין אלא משום מעשה שהיה תקנו דאין מחזירין ופריך מהך ברייתא דהויא לאחר התקנה ותנאי דהכא נחלקו אם יוצאה בדיינין מן התורה ודלא כפי' ריב\"ן דפירש לעיל למורא ניתן שיש לו להחזיר מיראת שמים ולא להשבון על פי בית דין:",
+            "english": "",
+            "takeaway": "תוספות addresses why the Gemara doesn't suggest the answer 'they return to fulfill the will of Heaven' (as in בבא קמא), explaining that here the discussion follows רבי יוחנן's view that interest is not returned by court decree, so even for Heaven's sake it need not be returned, whereas בבא קמא follows a Tanna who holds it is returned by court decree."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "The קוֹם עֲשֵׂה is tearing up the document",
+      "stepSummary": "The Gemara answers that the קום עשה is not returning the interest, but rather tearing up the promissory note.",
+      "whatsHappening": "The גמרא redefines the קוֹם עֲשֵׂה as tearing the שִׁטְרָא rather than returning funds. This is a direct answer to the previous difficulty.",
+      "deeperAnalysis": "The גמרא rejects returning the interest as the required action. Instead, the positive commandment is fulfilled by tearing the promissory note. This shifts the focus from monetary restitution to formal debt cancellation.",
+      "keyTerms": [
+        {
+          "term": "לִקְרוֹעַ שִׁטְרָא",
+          "meaning": "to tear up the document"
+        },
+        {
+          "term": "שִׁטְרָא",
+          "meaning": "document"
+        }
+      ],
+      "whatToRemember": "The קוֹם עֲשֵׂה is interpreted as tearing up the document, not returning the interest.",
+      "whyThisMatters": "This redefines the nature of the rectifying action, setting up the subsequent debate about the status of the document.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִכְּלָל דְּתַנָּא קַמָּא סָבַר לָאו בְּנֵי אַהְדּוֹרֵי נִינְהוּ!",
+          "english": "From the inference that the first tanna holds that they are not of the generations!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא, מַאי ״קוּם עֲשֵׂה״ – לִקְרוֹעַ שְׁטָרָא.",
+          "english": "No, what is 'arise and do' — to tear up the document."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "לָא, מַאי ״קוּם עֲשֵׂה״ – לִקְרוֹעַ שִׁטְרָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:9:1",
+            "hebrew": "לאו בני אהדורי נינהו - וחי אחיך לכדר\"ע:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase לאו בני אהדורי נינהו refers to the opinion of רבי עקיבא regarding the verse וחי אחיך."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:9:2",
+            "hebrew": "לא - לעולם אימא לך אם גבה דברי הכל אינו מתוקן בחזרה מן המלקות דאין כאן ניתק לעשה והאי דתני פטורין בשלא גבו דהתם לא הואי אלא שומא בעלמא ששמו עליו נשך על ידי תנאי ואתו רבי נחמיה ור' אלעזר למימר דלא תשימון עליו נשך דקאמר רחמנא לאו אשומא גרידתא קפיד אלא אשומא הבא לידי גיבוי וכל כמה שלא גבו איכא קום עשה לקרועי שטרא והשתא קפריך ואזיל לפרושי שינויא מאי קסבר כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that the תנא קמא holds that if interest was collected, there is no remedy through return to avoid lashes, because the prohibition is not ניתק לעשה; the exemption for uncollected interest is because it is merely a שומא, and רבי נחמיה and רבי אלעזר argue that the Torah cares about שומא only when it leads to collection, so until collection there is a קום עשה to tear the שטר."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62a:9:1",
+            "hebrew": "לא מאי קום עשה לקרועי שטרא - פרש\"י וכולהו סבירא להו כוותיה דר' יוחנן דאי גבו אין מחזירין דתו ליכא קום עשה לאהדורי רבית ופלוגתייהו בלא גבו וקשה דמעיקרא פריך אדר' יוחנן ומשני תנאי היא ופלוגתייהו ברבי יוחנן ודחי דכולהו סבירא להו כוותיה כל שכן דאמר ליה שפיר טפי וי\"ל דמעיקרא ודאי סבר דפליגי בלאו דואל תקח מאתו נשך ופליגי ברבי יוחנן ורבי אלעזר ומסיק דכולהו אית להו דר' אלעזר ולא לקי אלאו דאל תקח משום דניתק לעשה הוא בהשבה אבל פליגי בלאו דלא תשימון והיכא דלא גבה עדיין הרבית דת\"ק סבר מיד כשנכתב השטר נגמרה השומא והוי כאילו גבה כבר ואין עוד תקנה לתקן הלאו דלא תשימון ור' נחמיה ורבי אלעזר [ב\"י] סברי לאו דשומא מתלא תלי וקאי שאם יקרע השטר קודם שיגבה פטור והמקשה לא הבין יפה טעמו ופריך אי כגבוי דמי כו' ואי לאו כגבוי דמי אמאי חייב לרבנן ומשני לאו כגבוי דמי וטעמייהו דרבנן דסברי משעת כתיבה נגמרה השומא וא\"ת והיכי ס\"ד מעיקרא דפליגי באל תקח הא אמרינן לקמן (בבא מציעא דף עה:) דערב אינו עובר אלא משום לא תשימון בלבד וי\"ל דהיינו כשהערב לא קבל רבית מן הלוה אבל הכא שהערב קבל רבית מן הלוה ונתנו למלוה לכך חייב גם משום אל תקח לת\"ק ואם תאמר ואמאי לא דחי דכולהו סבירא להו כר' אלעזר ופליגי אי חייב על לאו הניתק לעשה אי לאו וי\"ל (דהכא) הלכה דפטור ועוד דבריש תמורה (דף ד:) פי' דלכ\"ע פטור:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara's alternative that the קום עשה is tearing the שטר implies all opinions agree with רבי יוחנן that if interest was collected it cannot be returned, and the dispute is only when it was not collected, with the תנא קמא holding that the שומא is complete upon writing the שטר and רבי נחמיה and רבי אלעזר holding that the prohibition is suspended until collection."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "What does tearing the document accomplish?",
+      "stepSummary": "The Gemara challenges the idea that tearing the document is the קום עשה, questioning what it accomplishes.",
+      "whatsHappening": "The גמרא challenges the logic of tearing the document as the rectifying action. This is a direct challenge to the previous explanation.",
+      "deeperAnalysis": "The גמרא asks what tearing the document achieves. If the document is considered collected, tearing it changes nothing since the transgression is complete. If it is not considered collected, no transgression has occurred yet.",
+      "keyTerms": [
+        {
+          "term": "מַאי קָסָבַר",
+          "meaning": "what does he hold"
+        },
+        {
+          "term": "שִׁטְרָא הָעוֹמֵד לִגְבוֹת",
+          "meaning": "a document fit to be collected"
+        },
+        {
+          "term": "כְּגָבוּי דָּמֵי",
+          "meaning": "as though the money were collected"
+        }
+      ],
+      "whatToRemember": "The גמרא is challenging the relevance of tearing the document.",
+      "whyThisMatters": "This challenge forces a deeper analysis of the status of the document and the nature of the transgression.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי קָסָבַר?",
+          "english": "What does he hold?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי קָסָבַר שְׁטָר הָעוֹמֵד לִגְבּוֹת כְּגָבוּי דָּמֵי,",
+          "english": "If he holds that a document standing to be collected is as collected money,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָא עֲבַדוּ אִיסּוּרַיְיהוּ.",
+          "english": "and they already performed their transgression."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאִי לָאו כְּגָבוּי דָּמֵי,",
+          "english": "And if not as collected money,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָא לָא עֲבוּד וְלֹא כְּלוּם!",
+          "english": "they have done nothing at all!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "מַאי קָסָבַר? אִי קָסָבַר שִׁטְרָא הָעוֹמֵד לִגְבוֹת כְּגָבוּי דָּמֵי, וְהָא עֲבַדוּ אִסּוּרַיְיהוּ. וְאִי לָאו כְּגָבוּי דָּמֵי, הָא לָא עֲבוּד וְלֹא כְּלוּם!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:10:1",
+            "hebrew": "כגבוי דמי - שהרי שיעבד לו קרקעותיו על הקרן ועל הרבית:",
+            "english": "",
+            "takeaway": "רש״י explains that if the document is considered as already collected, it is because the borrower's real estate was encumbered for both the principal and the interest."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:10:2",
+            "hebrew": "עבדו לאיסורייהו - וקריעתו הויא השבתו ואם גבו נמי הוו מיחייבי ליה לאהדורי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the transgression is complete, tearing the document constitutes returning the prohibited item, and if the money was already collected, they would be obligated to return it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:10:3",
+            "hebrew": "לא עבד כלום - ומאן פליג עלייהו:",
+            "english": "",
+            "takeaway": "רש״י notes that if the document is not considered as collected, no transgression has occurred, and asks who would disagree with this conclusion."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "The document is not as collected, but appraisal is significant",
+      "stepSummary": "The Gemara resolves the difficulty by stating that the document is not considered as collected, but the act of appraisal is itself a significant matter.",
+      "whatsHappening": "The גמרא resolves the challenge by focusing on the act of appraisal. This is a resolution to the previous challenge.",
+      "deeperAnalysis": "The תנא holds the document is not considered collected. However, the act of appraisal is itself a significant matter. The transgression occurs at the point of appraisal, and tearing the document rectifies that specific act.",
+      "keyTerms": [
+        {
+          "term": "לְעוֹלָם",
+          "meaning": "always / in any case"
+        },
+        {
+          "term": "סוּמָא מִלְתָּא הִיא",
+          "meaning": "appraisal is a significant matter"
+        }
+      ],
+      "whatToRemember": "The transgression is tied to the act of appraisal, not the collection of funds.",
+      "whyThisMatters": "This introduces the concept that appraisal itself is a significant act, shifting the focus from the document to the underlying valuation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְעוֹלָם קָסָבַר שְׁטָר הָעוֹמֵד לִגְבּוֹת לָאו כְּגָבוּי דָּמֵי,",
+          "english": "Forever he holds that a document standing to be collected is not as collected money,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא קָא מַשְׁמַע לַן דְּשׂוּמָא מִילְּתָא הִיא.",
+          "english": "And this teaches us that an appraisal is a matter."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "לְעוֹלָם קָסָבַר שִׁטְרָא הָעוֹמֵד לִגְבוֹת לָאו כְּגָבוּי דָּמֵי, וְהָא קָא מַשְׁמַע לַן דְּסוּמָא מִלְתָּא הִיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:11:1",
+            "hebrew": "לעולם לאו כגבוי דמי - ואשומא גרידתא מחייב ליה תנא קמא:",
+            "english": "",
+            "takeaway": "רש״י explains that the תנא קמא holds the document is not considered as collected, and the liability arises specifically from the act of appraisal itself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "ראיה",
+      "title": "Mishna: Witnesses are liable, proving appraisal is significant",
+      "stepSummary": "The Gemara cites a mishna listing witnesses as liable for interest, using it to prove that appraisal is a significant matter.",
+      "whatsHappening": "The גמרא cites a משנה to prove that appraisal is a significant matter. This is a supporting proof, not a new challenge.",
+      "deeperAnalysis": "The משנה lists witnesses as liable for the prohibition of interest. Since witnesses do not directly participate in the lending, their liability must stem from their role in the appraisal process. This proves that appraisal itself is a significant act that incurs liability.",
+      "keyTerms": [
+        {
+          "term": "הָכִי נָמֵי מִסְתַּבְּרָא",
+          "meaning": "this too is reasonable"
+        },
+        {
+          "term": "עוֹבְרִים בְּלֹא תַּעֲשֶׂה",
+          "meaning": "violate a prohibition without a positive commandment"
+        },
+        {
+          "term": "הָעֵדִים",
+          "meaning": "the witnesses"
+        }
+      ],
+      "whatToRemember": "The משנה's inclusion of witnesses supports the idea that appraisal is a significant act.",
+      "whyThisMatters": "This provides textual support for the resolution, strengthening the argument that appraisal is a significant matter.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא, דִּתְנַן:",
+          "english": "So too it is reasonable, for we learned:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאֵלּוּ עוֹבְרִים בְּלֹא תַעֲשֶׂה:",
+          "english": "And these transgress without a prohibition:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַמַּלְוֶה וְהַלּוֹוֶה, הֶעָרֵב וְהָעֵדִים.",
+          "english": "The lender and the borrower, the guarantor and the witnesses."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בִּשְׁלָמָא כּוּלְּהוּ עֲבוּד מַעֲשֶׂה, אֶלָּא עֵדִים מַאי עֲבוּד?",
+          "english": "In any case, all of them performed an action, but the witnesses, what did they do?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא לָאו, שְׁמַע מִינַּהּ דְּשׂוּמָא מִילְּתָא הִיא.",
+          "english": "Rather, no, learn from it that an appraisal is a matter."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁמַע מִינַּהּ.",
+          "english": "Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּתַנְיָא: וְאֵלּוּ עוֹבְרִים בְּלֹא תַּעֲשֶׂה: הַמַּלְוֶה וְהַלּוֹוֶה, הֶעָרֵב וְהָעֵדִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:12:1",
+            "hebrew": "דתנן כו' - ואי אמרת לא מחייבי עד דגבו בשלמא כולהו עבדי מעשה בגבייתו מלוה גובה מן הערב והערב מן הלוה הלוה נתן ביד המלוה ועבר בלא תשיך (דברים כג) אלא עדים מאי עבוד:",
+            "english": "",
+            "takeaway": "רש״י explains that if witnesses were not liable for appraisal, they would have no direct action (מעשה) in the loan transaction, unlike the lender, borrower, and guarantor who are involved in the actual collection and payment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:12:2",
+            "hebrew": "אלא לאו משום שומא - הלכך מלוה וערב נמי מתחילתן חייבין משום שומא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's conclusion proves that the lender and guarantor are also liable from the outset due to the appraisal (שומא), establishing that appraisal is a significant act (מילתא) that incurs liability."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "רַב סָפְרָא's principle on returning interest",
+      "stepSummary": "רַב סָפְרָא establishes a general rule: if gentile law would compel the borrower to pay the lender, Jewish law compels the lender to return it; if gentile law would not compel payment, Jewish law would not compel return.",
+      "whatsHappening": "The sugya opens with רַב סָפְרָא's sweeping principle regarding the return of רִבִּית. This is a setup for the subsequent debate.",
+      "deeperAnalysis": "רַב סָפְרָא sets up a binary framework based on gentile law. If the obligation is clear enough that gentiles would enforce payment from borrower to lender, then under Jewish law the lender must return it. Conversely, if gentiles would not enforce it, Jewish law also does not compel return.",
+      "keyTerms": [
+        {
+          "term": "רַב סָפְרָא",
+          "meaning": "the Amora stating the principle"
+        },
+        {
+          "term": "דִּינֵיהֶם",
+          "meaning": "the laws of the gentiles"
+        },
+        {
+          "term": "דִּינֵינוּ",
+          "meaning": "our [Jewish] laws"
+        },
+        {
+          "term": "מוֹצִיאִין מִלּוֶה לְמַלְוֶה",
+          "meaning": "one removes [the money] from the borrower to give to the lender"
+        },
+        {
+          "term": "מַחְזִירִין מִמַּלְוֶה לְלוֶה",
+          "meaning": "one returns [the money] from the lender to the borrower"
+        }
+      ],
+      "whatToRemember": "The core principle is that the clarity of the obligation in gentile law dictates whether Jewish law compels the return of interest.",
+      "whyThisMatters": "This principle attempts to use secular legal standards as a proxy for determining the severity/clarity of the prohibition in Jewish law.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב סָפְרָא:",
+          "english": "Rav Safra says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֹּל שֶׁאִילּוּ בְּדִינֵיהֶם מוֹצִיאִים מִלֹּוֶה לְמַלְוֶה,",
+          "english": "In all that they ask in their laws, they remove from the borrower to the…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּדִינֵינוּ מַחְזִירִין מִמַּלְוֶה לְלֹוֶה.",
+          "english": "in our laws, they return from the lender to the borrower."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כֹּל שֶׁאִילּוּ בְּדִינֵיהֶם אֵין מוֹצִיאִין מִלֹּוֶה לְמַלְוֶה,",
+          "english": "In all that they ask in their laws, they do not remove from the borrower to the…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּדִינֵינוּ אֵין מַחְזִירִין מִמַּלְוֶה לְלֹוֶה.",
+          "english": "in our laws, they do not return from the lender to the borrower."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב סָפְרָא: כֹּל שֶׁאִילּוּ בְּדִינֵיהֶם מוֹצִיאִין מִלּוֶה לְמַלְוֶה...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:13:1",
+            "hebrew": "בדיניהם - של אומות שלא נאסר להם רבית:",
+            "english": "",
+            "takeaway": "רש״י explains that דִּינֵיהֶם refers to the laws of non-Jews, for whom רִבִּית is not prohibited."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:13:2",
+            "hebrew": "מוציאין מן הלוה למלוה - אם אין לו משכון ע\"י תנאי שביניהם כגון רבית קצוצה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that מוֹצִיאִים מִלֹּוֶה לְמַלְוֶה means extracting payment from the borrower to the lender when there is no collateral, such as in the case of רִבִּית קְצוּצָה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:13:3",
+            "hebrew": "בדינינו - אם גבה מחזירין לו כר' אלעזר ולקמיה פריך ליה מאבק רבית דבדיניהם מוציאין ובדינינו אין מחזירין:",
+            "english": "",
+            "takeaway": "רש״י explains that בְּדִינֵינוּ means that if the lender collected the interest, he must return it, following the opinion of רַבִּי אֱלֵעָזֶר, and notes that the Gemara will later challenge this principle with the case of אָבֶק רִבִּית."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from סְאָה בִּסְאָה",
+      "stepSummary": "אַבָּיֵי challenges the generality of רַב סָפְרָא's rule by citing the case of סְאָה בִּסְאָה, where gentile law would enforce payment but Jewish law does not compel return.",
+      "whatsHappening": "אַבָּיֵי attacks the universality of the principle with a counter-example. This is a direct challenge to the previous statement.",
+      "deeperAnalysis": "אַבָּיֵי asks if this is really a universal rule. He points to סְאָה בִּסְאָה, where gentile law would enforce repayment because it's a valid contract. However, under Jewish law, one does not compel the lender to return the extra value because it is not considered prohibited interest.",
+      "keyTerms": [
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "the Amora raising the challenge"
+        },
+        {
+          "term": "סְאָה בִּסְאָה",
+          "meaning": "lending a se'ah to be repaid with a se'ah [of produce]"
+        },
+        {
+          "term": "וּכְלָלָא הוּא",
+          "meaning": "is it a universal principle?"
+        }
+      ],
+      "whatToRemember": "The challenge hinges on a case where the gentile obligation exists but the Jewish prohibition of interest does not apply in the same way.",
+      "whyThisMatters": "This challenge forces a refinement of what constitutes a 'loan' in the eyes of gentile law versus Jewish law.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: וּכְלָלָא הוּא?",
+          "english": "Abaye said to Rav Yosef: And is it a general principle?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַהֲרֵי סְאָה בִּסְאָה –",
+          "english": "But there is a se’a for a se’a –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּבְדִינֵיהֶם מוֹצִיאִין מִלֹּוֶה לְמַלְוֶה,",
+          "english": "that by their laws they remove from the borrower to the lender,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּבְדִינֵינוּ אֵין מַחְזִירִין מִמַּלְוֶה לְלֹוֶה!",
+          "english": "and by our laws we do not return from the lender to the borrower!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: אִינְהוּ בְּתוֹרַת פִּקָּדוֹן אֲתָא לִידֵיהּ.",
+          "english": "He said to him: They, it came to him by the law of a deposit."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ אַבָּיֵי לְרַב יוֹסֵף: וּכְלָלָא הוּא? וַהֲרֵי סְאָה בִּסְאָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:14:1",
+            "hebrew": "ובדינינו אין מחזירין - את העודף ביוקר שהוקירו החטים בשעת תשלומין דהא אבק רבית הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that under Jewish law, the extra value is not returned because it is considered אבק רבית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:14:2",
+            "hebrew": "אינהו בתורת פקדון אתו לידיה - אינהו כי מגבו סאה בסאה מן הלוה למלוה לאו בתורת רבית קא מגבו ליה אלא בתורת פקדון הוא בעיניהם דהא סאה מסר לו בידו וכי אמר רב ספרא למילתיה הכי אמרה כל שבדיניהם מוציאין בתורת רבית בדינינו מחזירין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that gentile courts enforce repayment not as רבית but as a פקדון (deposit), and thus רב ספרא's principle only applies to cases where gentile law treats it as רבית."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 62a:14:1",
+            "hebrew": "אינהו בתורת פקדון אתא לידיה - דאמר (לקמן בבא מציעא דף סג:) מי קדחו חטין באכלבאי כמו כן הייתי שומרם בבית ומוכרם ביוקר:",
+            "english": "",
+            "takeaway": "תוספות explains that the gentile court treats the transaction as a פקדון, citing the principle that the lender is considered a guardian who stored the produce and sold it at a higher price."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י and תוספות both explain that gentile law treats the loan as a פקדון rather than רבית, but תוספות provides the specific conceptual mechanism (guardianship/storage) from the later Gemara that justifies this classification."
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from מַשְׁכַּנְתָּא בְּלָא נַכְיְיָתָא",
+      "stepSummary": "רָבִינָא challenges the principle with the case of a mortgage without deduction, where gentile law enforces payment but Jewish law does not compel return.",
+      "whatsHappening": "רָבִינָא raises a second counter-example to test the principle again. This is a direct challenge to the previous statement.",
+      "deeperAnalysis": "רָבִינָא asks about a mortgage where the lender holds the borrower's field and consumes its produce without deducting the value from the debt. Gentile law would enforce the lender's right to the produce as part of the agreement. However, under Jewish law, one does not compel the lender to return the value of the consumed produce.",
+      "keyTerms": [
+        {
+          "term": "רָבִינָא",
+          "meaning": "the Amora raising the challenge"
+        },
+        {
+          "term": "מַשְׁכַּנְתָּא בְּלָא נַכְיְיָתָא",
+          "meaning": "a mortgage without deduction [of the produce's value from the debt]"
+        }
+      ],
+      "whatToRemember": "This case involves a mortgage where the lender benefits from the collateral without reducing the debt.",
+      "whyThisMatters": "This challenge tests the principle in a case involving real estate and consumption of produce.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי:",
+          "english": "Ravina said to Rav Ashi:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַהֲרֵי מַשְׁכַּנְתָּא בְּלָא נַכְיְיתָא –",
+          "english": "And behold, a mortgage without deduction —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּבְדִינֵיהֶם מוֹצִיאִין מִלֹּוֶה לְמַלְוֶה וּבְדִינֵינוּ אֵין",
+          "english": "In their laws they remove from borrower to lender, and in our laws we do…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַחְזִירִין מִמַּלְוֶה לְלֹוֶה.",
+          "english": "return from lender to borrower."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: אִינְהוּ, בְּתוֹרַת זְבִינֵי אֲתָא לִידַיְיהוּ.",
+          "english": "He said to him: They, by law of sales it came to them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי: וַהֲרֵי מַשְׁכַּנְתָּא בְּלָא נַכְיְיָתָא...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:15:1",
+            "hebrew": "משכנתא בלא נכייתא - מלוה מעות על הכרם ואוכל את הפירות ואינו פוסק לנכות לו מן החוב כלום בשביל אכילתו ואוכל בתורת רבית:",
+            "english": "",
+            "takeaway": "רש״י explains that מַשְׁכַּנְתָּא בְּלָא נַכְיְיָתָא refers to a loan secured by a vineyard where the lender consumes the produce without deducting its value from the principal, which constitutes רִבִּית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 62a:15:2",
+            "hebrew": "דבדיניהם מוציאין - אם אכל הלוה הפירות משמשכנה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase מוֹצִיאִין מִלּוֶה לְמַלְוֶה in the context of gentile law means they would force the borrower to pay the lender for the produce the lender consumed from the mortgaged property."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T09:47:29.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 135.2637143000029,
+      "structure": 2320.5243478000048,
+      "validate": 289.1456242002896,
+      "translate": 360.82798939966597,
+      "meforshim": 686.2527952996315,
+      "teaching": 981.3912318000221
+    }
+  }
+}

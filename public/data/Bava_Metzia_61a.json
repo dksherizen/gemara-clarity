@@ -1,0 +1,806 @@
+{
+  "ref": "Bava Metzia 61a",
+  "masechet": "Bava_Metzia",
+  "daf": 61,
+  "amud": "a",
+  "mainTopic": "(continues) הזהב - איזהו נשך ואיזהו תרבות",
+  "overview": "The opening of the new Perek 'Hazaheb', defining the difference between נשך and תרבות, the biblical derivations for interest on money and food, and the dispute over whether interest is collected by courts. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 18,
+      "topic": "(continues) הזהב - איזהו נשך ואיזהו תרבות",
+      "gist": "The opening of the new Perek 'Hazaheb', defining the difference between נשך and תרבות, the biblical derivations for interest on money and food, and the dispute over whether interest is collected by courts. — discussion continues into next amud.",
+      "openingFormula": "הדרן עליך הזהב",
+      "firstStepNumber": 1,
+      "lastStepNumber": 10
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "ראיה",
+      "title": "Baraita: deriving נֶשֶׁךְ in food and רִבִּית in money from verses",
+      "stepSummary": "A baraita explains how the Torah prohibits interest on both money and food, using verses from Leviticus and Deuteronomy.",
+      "whatsHappening": "The Gemara cites a baraita that derives the full scope of the interest prohibition. It uses verses from Leviticus and Deuteronomy to cover all combinations of money and food.",
+      "deeperAnalysis": "The baraita starts with Leviticus: 'נֶשֶׁךְ כֶּסֶף' and 'רִבִּית אוֹכֶל'. It needs to derive נֶשֶׁךְ in food and רִבִּית in money. It uses Deuteronomy: 'נֶשֶׁךְ אֹכֶל' and 'נֶשֶׁךְ כֶּסֶף'. It also uses a גְּזֵרָה שָׁוָה (verbal analogy) between the borrower and lender to extend the prohibition to both parties.",
+      "keyTerms": [
+        {
+          "term": "גְּזֵרָה שָׁוָה",
+          "meaning": "verbal analogy"
+        },
+        {
+          "term": "בַּלּוֶה",
+          "meaning": "in the borrower"
+        },
+        {
+          "term": "בַּמַּלְוֶה",
+          "meaning": "in the lender"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִם אֵינוֹ עִנְיָן לְנֶשֶׁךְ כֶּסֶף,",
+          "english": "If it is not a matter of neshekh with money,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁהֲרֵי כְּבָר נֶאֱמַר ״לֹא תַשִּׁיךְ לְאָחִיךָ״,",
+          "english": "since it is already said, 'You shall not lend with interest to your brother,'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּנֵהוּ עִנְיָן לְרִבִּית כֶּסֶף.",
+          "english": "apply it as a matter of ribit with money."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין לִי אֶלָּא בְּלֹוֶה, בְּמַלְוֶה מִנַּיִן?",
+          "english": "I have only a borrower; from where [is it derived] for a lender?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נֶאֱמַר נֶשֶׁךְ בַּלֹּוֶה וְנֶאֱמַר נֶשֶׁךְ בַּמַּלְוֶה.",
+          "english": "Neshekh is stated regarding the borrower, and neshekh is stated regarding the lender."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מָה נֶשֶׁךְ הָאָמוּר בַּלֹּוֶה –",
+          "english": "What [is] neshekh stated regarding the borrower –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לֹא חִלַּקְתָּ בּוֹ בֵּין בְּכֶסֶף בֵּין",
+          "english": "you did not divide in it between money, between"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּאוֹכֶל בֵּין בְּנֶשֶׁךְ בֵּין בְּרִבִּית,",
+          "english": "food, between neshekh, between ribit;"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אַף נֶשֶׁךְ הָאָמוּר בַּמַּלְוֶה –",
+          "english": "so too, neshekh stated regarding the lender –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לֹא תַּחְלוֹק בּוֹ בֵּין בְּכֶסֶף בֵּין",
+          "english": "do not divide in it between money, between"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "בְּאוֹכֶל בֵּין בְּנֶשֶׁךְ בֵּין בְּרִבִּית.",
+          "english": "food, between neshekh, between ribit."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "מִנַּיִן לְרַבּוֹת כׇּל דָּבָר?",
+          "english": "From where [is it derived] to include everything?"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״נֶשֶׁךְ כׇּל דָּבָר אֲשֶׁר יִשָּׁךְ״.",
+          "english": "Scripture teaches to say: 'Neshekh of anything that is lent with interest.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנָן",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:2:1",
+            "hebrew": "אין לי - שעובר על שני לאוין בין בכסף ובין באוכל אלא לוה:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita's statement 'אין לי אלא בלוה' means that without the גזירה שווה, the borrower is liable for two negative commandments (one for money and one for food), but the lender is not yet included."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:1:1",
+            "hebrew": "אם אינו ענין לנשך כסף שכבר נאמר לא תשיך - פי' אפילו אי לא כתב אלא לא תשיך לאחיך כסף אוכל הוי ידעינן נשך בכסף ואוכל ואי כתב לא תשיך לאחיך נשך כסף אוכל הוי ידעינן נמי רבית כסף ואוכל באם אינו ענין ונשך אוכל אתי לג\"ש ונשך כל דבר אתי לאוקמי נשך במלוה באם אינו ענין ללוה והויא ג\"ש מופנה משני צדדים והיינו דקאמר בסמוך מה לוה לא חלקת כו' דהכל כתב בלוה וכי קאמר נשך באוכל מנין ת\"ל נשך אוכל לאו מנשך מפיק אלא מאוכל גרידא דקאי אלא תשיך וה\"ק ת\"ל נשך אוכל בלוה ובג\"ש מפיק ליה במלוה וא\"ת כיון דכתיב כל דבר אפילו לרבות עצים ואבנים א\"כ כסף אוכל למה לי וי\"ל למדרש כלל ופרט וכלל לא תשיך כלל כסף אוכל פרט כל דבר חזר וכלל מה הפרט מפורש דבר המטלטל וגופו ממון כו' יצאו קרקעות שאין מטלטלין ויצא פחות מש\"פ שאינו ממון וכן משמע פרק נערה (כתובות דף מו. ושם ד\"ה אתיא) דקתני רבי יהודה אומר אינו חייב עד שישכור דאתיא (. שומא שומא) בעי ר' ירמיה שכרם בקרקע מהו או בפחות מש\"פ מהו ואי שייך רבית בקרקע או בפחות מש\"פ מאי בעי אלא ודאי פטור ובעי כיון דגמר מרבית מה להלן פטור אף כאן פטור א\"ד לא והדאמר בערכין (דף לא. ושם) גבי בתי ערי חומה רבית גמורה היא והתורה התירה התם הלוה מעות על הקרקע אבל קרקע בקרקע אפשר דשרי מן התורה:",
+            "english": "",
+            "takeaway": "תוספות explains that the baraita's logic relies on the principle of 'אם אינו ענין' to derive that the verse 'לא תשיך' already covers both money and food for the borrower, allowing the term 'נשך' in Deuteronomy to be used for a גזירה שווה to include the lender, and further clarifies that 'כל דבר' is interpreted through a כלל ופרט וכלל to exclude land and items worth less than a פרוטה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רָבִינָא: the verses themselves cover all cases without needing derivations",
+      "stepSummary": "רָבִינָא argues that the verses in Leviticus are written in a way that inherently covers all combinations of money/food and נֶשֶׁךְ/רִבִּית, making the baraita's derivations unnecessary.",
+      "whatsHappening": "רָבִינָא offers an alternative reading of the verses that bypasses the baraita's complex derivations. He argues the text structure itself implies the full prohibition.",
+      "deeperAnalysis": "רָבִינָא notes that the verse says: 'אֶת כַּסְפְּךָ לֹא תִתֵּן לוֹ בְּנֶשֶׁךְ וּבְמַרְבִּית לֹא תִתֵּן אֹכְלֶךָ'. The terms נֶשֶׁךְ and מַרְבִּית are interposed between כֶּסֶף and אֹכֶל. This structure implies that both terms apply to both money and food, without needing extra verses or גְּזֵרָה שָׁוָה.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבִינָא אָמַר:",
+          "english": "Ravina said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא נֶשֶׁךְ בְּאוֹכֶל וְלָא רִבִּית בְּכֶסֶף צְרִיכִי קְרָא,",
+          "english": "Neither neshekh of food nor ribit of money require a verse,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאִי כְּתִיב ״אֶת כַּסְפְּךָ לֹא תִתֵּן",
+          "english": "For if it were written, \"Your money you shall not give"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לוֹ בְּנֶשֶׁךְ וְאׇכְלְךָ בְּמַרְבִּית״ – כִּדְקָאָמְרַתְּ.",
+          "english": "to him with neshekh and your food with marbit\" — as you said."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַשְׁתָּא דִּכְתִיב ״אֶת כַּסְפְּךָ לֹא תִתֵּן",
+          "english": "Now that it is written, \"Your money you shall not give"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לוֹ בְּנֶשֶׁךְ וּבְמַרְבִּית לֹא תִתֵּן אׇכְלֶךָ״,",
+          "english": "to him with neshekh and with marbit you shall not give your food\","
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "קְרִי בֵּיהּ הָכִי:",
+          "english": "We read in it thus:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״אֶת כַּסְפְּךָ לֹא תִתֵּן לוֹ בְּנֶשֶׁךְ וּבְמַרְבִּית״,",
+          "english": "\"Your money you shall not give to him with neshekh and with marbit\","
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״וּבְנֶשֶׁךְ וּבְמַרְבִּית לֹא תִתֵּן אׇכְלֶךָ״.",
+          "english": "\"and with neshekh and with marbit you shall not give your food.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבִינָא אָמַר",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:4:1",
+            "hebrew": "רבינא אמר לא נשך באוכל ולא רבית בכסף צריכי קרא - למיגמר במלוה מן הלוה דבגופו כתיבי כדמפרש ואזיל:",
+            "english": "",
+            "takeaway": "רש״י explains that רָבִינָא's statement addresses the need to derive the prohibition of interest on loans from the verses that explicitly mention loans, as he will explain."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:4:2",
+            "hebrew": "כדקאמרת - נשך קאי אכסף ומרבית אאוכל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'כִּדְקָאָמְרַתְּ' refers to the initial assumption that נֶשֶׁךְ applies only to כֶּסֶף and מַרְבִּית applies only to אֹכֶל."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:4:1",
+            "hebrew": "קרי ביה כספך לא תתן בנשך ובמרבית - וה\"נ בפ\"ק דע\"ז (דף כ. ושם ד\"ה אחד) ופרק כל שעה (פסחים דף כא: ושם ד\"ה ליכתב) ופרק כל הבשר (חולין דף קיד: ושם ד\"ה או) לגר אשר בשעריך תתננה ואכלה או מכור לנכרי ודריש לגר תתננה ומכור תתננה ומכור לנכרי ואפילו מאן דפליג היינו משום דכתיב או לחלק וא\"ת בפ\"ק דקדושין (דף לב: ושם) לא בעו רבנן למדרש כר' יוסי הגלילי מפני שיבה תקום והדרת תקום והדרת פני זקן וי\"ל משום דאין מפני מיושב אוהדרת ולא תקום אפני זקן והא דאמר התם ורבנן אי כתיב מפני שיבה תקום והדרת תקום והדרת פני זקן כדאמרת היינו משום דאז על כרחך אמרת הכי והא דאמר בפרק הוציאו לו (יומא דף נב. ושם: ד\"ה שאת) ה' מקראות אין להם הכרע שאת ארור מחר משוקדים וקם ולא אמר דקאי אלעיל ואלרע היינו משום דהכא כיון דקאי על כרחך נשך אכספך אמרת ה\"ה ארבית וכיון דקאי רבית אאוכל כמו כן נשך קאי אאוכל וכן תתננה כן אבל הנך חמש דלמא לא קיימי אלא אלעיל לבד או אלרע וא\"ת התניא פרק שני דזבחים (דף כד.) ולקח הכהן מן הדם באצבעו ונתן קבל או זרק בשמאל פסול ור\"ש סבר קבל בשמאל כשר ואמר אביי טעם דר\"ש דסבר דקרא דאצבעו דמשמע ימין לא קאי אלא אונתן דלאחריו ולא אולקח דלפניו ולתנא קמא קאי אתרוייהו והשתא מאי שנא מהנך ה' דאין להם הכרע וי\"ל דהתם פשטיה דקרא משמע דקאי אולקח מ\"מ סבר תנא קמא דקאי נמי אונתן דכתיב קרא אחרינא ולקח מדם הפר ונתן על קרנות המזבח באצבעו דהתם קאי אצבע אנתינה וילמד סתום מן המפורש והיינו נמי טעמא דר\"ש:",
+            "english": "",
+            "takeaway": "תוספות explains that רָבִינָא's method of reading the verse with interposed terms applies here because the terms naturally apply to both subjects, unlike other cases where the terms might only apply to one subject or where the verse structure doesn't clearly support dual application."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "But the Tanna of the baraita explicitly uses גְּזֵרָה שָׁוָה!",
+      "stepSummary": "The Gemara challenges רָבִינָא: the baraita clearly uses a גְּזֵרָה שָׁוָה, so how can he say it's unnecessary?",
+      "whatsHappening": "The Gemara presses רָבִינָא on the baraita's explicit methodology. It challenges his claim that the derivation is unnecessary.",
+      "deeperAnalysis": "The Gemara asks: 'וְהָא תָּנָא ״נֶאֱמַר״ ״נֶאֱמַר״ קָאָמַר!' The baraita explicitly uses the language of גְּזֵרָה שָׁוָה ('נֶאֱמַר... נֶאֱמַר'). So רָבִינָא's claim that it's unnecessary seems to contradict the Tanna.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא תַּנָּא ״נֶאֱמַר״ ״נֶאֱמַר״ קָאָמַר!",
+          "english": "But isn't the tanna saying 'It is stated, it is stated'?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא תָּנָא ״נֶאֱמַר״ ״נֶאֱמַר״ קָאָמַר!",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:5:1",
+            "hebrew": "והא תנא נאמר נאמר קאמר - ומגזרה שוה נפקא ליה והיכי פליג אמורא אתנא ואמר דמגופיה יליף:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge is based on the fact that the תנא explicitly derives the law from a גְּזֵרָה שָׁוָה, so it is difficult to understand how רָבִינָא, an אמורא, can contradict him by claiming the law is derived from the text itself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "רָבִינָא: the גְּזֵרָה שָׁוָה is only needed for the borrower's verse in Deuteronomy",
+      "stepSummary": "The Gemara resolves the difficulty: רָבִינָא agrees the גְּזֵרָה שָׁוָה is needed, but only to extend the borrower's verse in Deuteronomy to the lender.",
+      "whatsHappening": "The Gemara clarifies רָבִינָא's position. He agrees the baraita uses a גְּזֵרָה שָׁוָה, but for a narrower purpose.",
+      "deeperAnalysis": "The Gemara explains: רָבִינָא holds that the Leviticus verse covers all cases for the lender. The גְּזֵרָה שָׁוָה is only needed to teach that the Deuteronomy verse ('נֶשֶׁךְ כָּל דָּבָר') also applies to the lender, not just the borrower.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי קָאָמַר: אִילּוּ לֹא נֶאֱמַר קְרָא,",
+          "english": "Thus he says: If the verse had not been stated,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָיִיתִי אוֹמֵר גְּזֵירָה שָׁוָה.",
+          "english": "I would have said [it is derived by] a verbal analogy."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַכְשָׁיו שֶׁנֶּאֱמַר קְרָא, גְּזֵירָה שָׁוָה לָא צְרִיךְ.",
+          "english": "Now that the verse is stated, a verbal analogy is not needed."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא גְּזֵירָה שָׁוָה לְמָה לִי?",
+          "english": "But for what do I need a verbal analogy?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְ״נֶשֶׁךְ כׇּל דָּבָר אֲשֶׁר יִשָּׁךְ״, דְּלָא כְּתִב בְּמַלְוֶה.",
+          "english": "For 'neshekh of anything that is lent', which is not written regarding a lender."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי קָאָמַר",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        55
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:6:1",
+            "hebrew": "הכי קאמר תנא אילו לא נאמר קרא - בדרך הנשמע לשניהם אע\"פ כן הייתי לומדו בגזירה שוה והשתא גזירה שוה לא צריך להכי:",
+            "english": "",
+            "takeaway": "רש״י explains that the תנא is saying that even without the explicit verse, one could have derived the law via a גְּזֵרָה שָׁוָה, but now that the verse is stated, the גְּזֵרָה שָׁוָה is unnecessary for that purpose."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:6:1",
+            "hebrew": "גזירה שוה לא צריך - וא\"ת קרא למה לי וי\"ל דאין שום אריכות לשון בפסוק אלא שסמך נשך ומרבית זה לזה:",
+            "english": "",
+            "takeaway": "תוספות addresses the question of why the verse is needed if the גְּזֵרָה שָׁוָה could have taught it, answering that the verse is necessary because there is no explicit linguistic connection (אריכות לשון) in the text other than the juxtaposition of נֶשֶׁךְ and מִרְבִּית."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות raises a difficulty on רש״י's explanation: if the גְּזֵרָה שָׁוָה could have taught the law, why is the verse necessary? תוספות answers that the verse is required because the גְּזֵרָה שָׁוָה lacks a proper אריכות לשון, relying only on the juxtaposition of terms."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "שאלה",
+      "title": "Why does the Torah list prohibitions on interest, robbery, and exploitation separately?",
+      "stepSummary": "רָבָא asks why the Torah needs separate verses for interest, robbery, and exploitation, since they all involve taking money illegitimately.",
+      "whatsHappening": "רָבָא raises a new question about the structure of the Torah's prohibitions. He asks why each is listed separately instead of being derived from one another.",
+      "deeperAnalysis": "רָבָא asks: 'לְמָה לִי דִּכְתַב רַחֲמָנָא לָאו בְּרִבִּית, לָאו בְּגָזֵל, לָאו בְּאוֹנָאָה?' All three involve taking money improperly, so why not derive one from the other?",
+      "keyTerms": [
+        {
+          "term": "גָּזֵל",
+          "meaning": "robbery"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "exploitation / overcharging"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: לְמָה לִי דִּכְתַב רַחֲמָנָא לָאו בְּרִבִּית,",
+          "english": "Rava said: Why do I need that the Merciful One wrote not in interest,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָאו בְּגָזֵל, לָאו בְּאוֹנָאָה?",
+          "english": "not in robbery, not in overcharging?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:7:1",
+            "hebrew": "למה לי לאו ברבית לאו בגזל כו' - ילמדו זה מזה שבכולן חסרון ממון שמחסר את חבירו:",
+            "english": "",
+            "takeaway": "רש״י explains that רָבָא's question arises because all three prohibitions involve חסרון ממון, so one might think they could be derived from each other."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תשובה",
+      "title": "Each prohibition has a unique feature that prevents derivation from the others",
+      "stepSummary": "The Gemara answers that each prohibition has a unique element: interest prohibits the borrower, robbery is against the victim's will, and exploitation involves ignorance.",
+      "whatsHappening": "The Gemara explains why each prohibition is necessary. It highlights the unique characteristics of each transgression.",
+      "deeperAnalysis": "The Gemara explains: interest is unique because it prohibits the borrower. Robbery is unique because it's against the victim's will. Exploitation is unique because the victim is unaware. These unique features prevent deriving one from the others.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא לָאו בְּרִבִּית –",
+          "english": "They are necessary, for if the Merciful One had written only with regard to interest –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשּׁוּם דְּחִידּוּשׁ הוּא,",
+          "english": "it is because of its novel element,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּאֲפִילּוּ בְּלֹוֶה אָסְרָה רַחֲמָנָא.",
+          "english": "that even for the borrower the Merciful One prohibited it."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאִי כְּתַב רַחֲמָנָא לָאו בְּגָזֵל –",
+          "english": "And if the Merciful One had written only with regard to robbery –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִשּׁוּם דִּבְעַל כֻּרְחֵיהּ,",
+          "english": "because it is against his will,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲבָל אוֹנָאָה – אֵימָא לָא.",
+          "english": "but exploitation – one might say not."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִי כְּתַב רַחֲמָנָא לָאו בְּאוֹנָאָה,",
+          "english": "And if the Merciful One had written only with regard to exploitation,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִשּׁוּם דְּלָא יָדַע דְּמָחֵיל.",
+          "english": "because he does not know that he is being exploited."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "צְרִיכִי",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:8:1",
+            "hebrew": "דאפילו בלוה אסר רחמנא - וגזר עליו שלא יתננו ואיכא למימר חידוש הוא שחידשה תורה בזו ולא שאסר לחסר את חבירו בדרך אחרת דהא אזהרת לוה לאו משום דמחסר הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition on the borrower in ריב is a חידוש because the Torah specifically forbade the borrower from taking interest, which is not a case of directly diminishing another's property like גזל."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Can one prohibition be derived from the other two?",
+      "stepSummary": "The Gemara asks if one of the three prohibitions can be derived from the other two combined.",
+      "whatsHappening": "The Gemara tests if a combination of two prohibitions can cover the third. It explores whether a joint derivation is possible.",
+      "deeperAnalysis": "The Gemara asks: 'חֲדָא מֵחֲדָא לָא אָתְיָא. תֵּיתֵי חֲדָא מִתַּרְתֵּי.' It then tests if interest can be derived from robbery + exploitation.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "חֲדָא מֵחֲדָא לָא אָתְיָא.",
+          "english": "One from one does not come."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תֵּיתֵי חֲדָא מִתַּרְתֵּי. הֵי תֵּיתֵי?",
+          "english": "Come one from two. Which comes?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא לִכְתּוֹב רַחֲמָנָא לָאו בְּרִבִּית, וְתֵיתֵי מֵהָנָךְ.",
+          "english": "Let the Merciful One not write 'no' in interest, and it will come from those."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָה לְהָנָךְ שֶׁכֵּן שֶׁלֹּא מִדַּעַת, תֹּאמַר בְּרִבִּית דְּמִדַּעְתֵּיהּ.",
+          "english": "What to those? A neighbor without knowledge, you say in interest of his knowledge."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "חֲדָא מֵחֲדָא לָא אָתְיָא",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:11:1",
+            "hebrew": "מה להנך דלא מדעתיה - אונאה לא ידעי ביה גזל על כרחיה שקל:",
+            "english": "",
+            "takeaway": "רש״י explains that the two prohibitions of אונאה and גזל involve the victim's lack of knowledge or consent, unlike ריבית which is given willingly."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:11:2",
+            "hebrew": "תאמר ברבית דמדעתו - נותן לו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ריבית is distinct because the lender willingly gives the money, making it different from the other two prohibitions."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: interest cannot be derived from robbery + exploitation",
+      "stepSummary": "The Gemara rejects deriving interest from the other two: robbery and exploitation are against the victim's will/awareness, but interest is consensual.",
+      "whatsHappening": "The Gemara dismantles the proposed derivation. It shows why the combination still fails to cover interest.",
+      "deeperAnalysis": "The Gemara argues: robbery and exploitation are notable because they are transgressed without the victim's consent/awareness. Interest is different because the borrower consents to the terms. So you can't derive interest from the other two.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא לִכְתּוֹב רַחֲמָנָא לָאו בְּאוֹנָאָה, וְתֵיתֵי מֵהָנָךְ.",
+          "english": "Let the Merciful One not write exploitation, and it will come from these."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָה לְהָנָךְ, שֶׁכֵּן אֵין דֶּרֶךְ מִקָּח וּמִמְכָּר בְּכָךְ.",
+          "english": "What is notable about these? They are not transgressed in the typical manner of buying and selling."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מָה לְהָנָךְ שֶׁכֵּן שֶׁלֹּא מִדַּעַת",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:12:1",
+            "hebrew": "שכן אין דרך מקח וממכר - תאמר באונאה שהיא דרך מקח וממכר ויש בני אדם שצריכין לחפץ וקונין ביותר משוויו:",
+            "english": "",
+            "takeaway": "רש״י explains that אונאה is fundamentally a matter of מקח וממכר, where a buyer might willingly overpay due to need, unlike ריב which lacks this commercial context."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Why not derive גָּזֵל from רִבִּית and אוֹנָאָה?",
+      "stepSummary": "The גמרא challenges why the Torah explicitly prohibits גזל instead of deriving it from ריבית and אונאה.",
+      "whatsHappening": "The גמרא opens with a redundancy attack: why write גָּזֵל explicitly when it could be derived from רִבִּית and אוֹנָאָה?",
+      "deeperAnalysis": "The גמרא explores a possible derivation: if רִבִּית and אוֹנָאָה are prohibited, גָּזֵל should be derivable. However, it shows that each has unique features (רִבִּית involves awareness, אוֹנָאָה involves unawareness), making them unsuitable as bases for deriving גָּזֵל. The common denominator is taking money unlawfully, but the derivation fails due to these differences.",
+      "keyTerms": [
+        {
+          "term": "גָּזֵל",
+          "meaning": "robbery"
+        },
+        {
+          "term": "רִבִּית",
+          "meaning": "interest"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "exploitation"
+        },
+        {
+          "term": "חִידּוּשׁ",
+          "meaning": "novel element"
+        },
+        {
+          "term": "תּוֹכִיחַ",
+          "meaning": "will prove"
+        }
+      ],
+      "whatToRemember": "The failure of the derivation highlights the unique nature of גָּזֵל.",
+      "confusionAlert": "The term 'חִידּוּשׁ' refers to a novel element in the prohibition.",
+      "whyThisMatters": "This establishes the necessity of explicit prohibitions for certain transgressions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא לָא לִכְתּוֹב רַחֲמָנָא לָאו בְּגָזֵל, וְתֵיתֵי מֵהָנָךְ.",
+          "english": "Rather, let the Merciful One not write with regard to robbery, and it will come from these."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּמַאי פָּרְכַתְּ: מָה לְרִבִּית שֶׁכֵּן חִידּוּשׁ? אוֹנָאָה תּוֹכִיחַ!",
+          "english": "What refutation will you offer? What is novel about interest of a neighbor? Exploitation will prove!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מָה לְאוֹנָאָה שֶׁכֵּן לָא יָדַע וּמָחֵיל?",
+          "english": "What is novel about exploitation? The neighbor did not know and waived?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רִבִּית תּוֹכִיחַ! וְחָזַר הַדִּין:",
+          "english": "Interest will prove! And the argument returns:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לֹא רְאִי זֶה כִּרְאִי זֶה,",
+          "english": "This proof is not like this proof,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלֹא רְאִי זֶה כִּרְאִי זֶה.",
+          "english": "And this proof is not like this proof."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הַצַּד הַשָּׁוֶה שֶׁבָּהֶן, שֶׁכֵּן גּוֹזְלוֹ.",
+          "english": "The equal aspect in them, a neighbor robs him."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַף אֲנִי אָבִיא גָּזֵל!",
+          "english": "Also I will bring robbery!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא לָא לִכְתּוֹב רַחֲמָנָא לָאו בְּגָזֵל, וְתֵיתֵי מֵהָנָךְ. דְּמַאי פָּרְכַתְּ: מָה לְרִבִּית שֶׁכֵּן חִידּוּשׁ? אוֹנָאָה תּוֹכִיחַ!",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:13:1",
+            "hebrew": "לא לכתוב בגזל ותיתי מהנך - דכי פרכת מה לרבית שכן חדוש. תאמר בגזל אונאה תוכיח מה לאונאה שכן לא ידע דמחיל. תאמר בגזל דידע ואיכא למימר דמייאש ומחיל רבית תוכיח וחזר הדין הצד השוה שבהן שמחסרו ממון אף אני אביא גזל:",
+            "english": "",
+            "takeaway": "רש״י explains that the גמרא's redundancy attack fails because ריבית and אונאה have unique features (awareness vs. unawareness) that prevent them from serving as a valid basis for deriving גזל, despite their shared element of financial loss."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "גָּזֵל is needed for כּוֹבֵשׁ שְׂכַר שָׂכִיר",
+      "stepSummary": "The גמרא resolves that גזל is explicitly written to prohibit withholding a worker's wages.",
+      "whatsHappening": "The גמרא answers that גָּזֵל is needed for the specific case of withholding wages.",
+      "deeperAnalysis": "The גמרא explains that גָּזֵל is explicitly written to cover the case of כּוֹבֵשׁ שְׂכַר שָׂכִיר, which is not covered by רִבִּית or אוֹנָאָה. This case involves not taking money but failing to pay, which is a unique form of transgression.",
+      "keyTerms": [
+        {
+          "term": "כּוֹבֵשׁ שְׂכַר שָׂכִיר",
+          "meaning": "withholding wages"
+        },
+        {
+          "term": "לֹא תַעֲשֹׁק",
+          "meaning": "you shall not oppress"
+        },
+        {
+          "term": "שְׁנֵי לָאוִין",
+          "meaning": "two prohibitions"
+        }
+      ],
+      "whatToRemember": "The explicit prohibition of גָּזֵל covers cases not derivable from other prohibitions.",
+      "confusionAlert": "The term 'כּוֹבֵשׁ שְׂכַר שָׂכִיר' refers to withholding wages.",
+      "whyThisMatters": "This establishes the necessity of explicit prohibitions for specific transgressions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרִי: הָכִי נָמֵי.",
+          "english": "They say: So too."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא, לָאו בְּגָזֵל לְמָה לִי?",
+          "english": "But, if not for robbery, for what do I need it?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְכוֹבֵשׁ שְׂכַר שָׂכִיר.",
+          "english": "To prohibit withholding the wages of a hired laborer."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כּוֹבֵשׁ שְׂכַר שָׂכִיר,",
+          "english": "Withholding the wages of a hired laborer,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּהֶדְיָא כְּתִיב בֵּיהּ ״לֹא תַעֲשֹׁק שָׂכִיר עָנִי וְאֶבְיוֹן״!",
+          "english": "Is it not explicitly written in it: 'You shall not oppress a poor and needy hired laborer'!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לַעֲבוֹר עָלָיו בִּשְׁנֵי לָאוִין.",
+          "english": "To transgress upon him with two prohibitions."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְלוֹקְמַהּ בְּרִבִּית וְאוֹנָאָה, וְלַעֲבוֹר עָלָיו בִּשְׁנֵי לָאוִין?",
+          "english": "And interpret it with interest and exploitation, and transgress upon him with two prohibitions?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דָּבָר הַלָּמֵד מֵעִנְיָינוֹ, וּבְעִנְיָינָא דְּשָׂכִיר כְּתִיב.",
+          "english": "A matter learned from its context, and in the matter of a hired laborer it…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרִי: הָכִי נָמֵי. אֶלָּא, לָאו בְּגָזֵל לְמָה לִי? לְכוֹבֵשׁ שְׂכַר שָׂכִיר.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 61a:16:1",
+            "hebrew": "לכובש שכר שכיר - דלא מטא לידיה ולא מחסר ליה:",
+            "english": "",
+            "takeaway": "רש״י explains that כובש שכר שכיר refers to a case where the wages never reached the worker's possession, so the employer did not actually deprive him of something he already held."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:16:1",
+            "hebrew": "אמרי הכי נמי - וא\"ת והא אין מזהירין מן הדין וי\"ל דגזל לאו הניתק לעשה הוא כדאמרינן פרק שילוח הקן (חולין קמא.) ומטעם דאין מזהירין מן הדין הוה מצי למימר לעיל דלא ילפי מהדדי אלא דעדיפא קאמר דאפילו מדינא לא אתי:",
+            "english": "",
+            "takeaway": "תוספות addresses the principle of אין מזהירין מן הדין by noting that גזל is a לאו ניתק לעשה, which allows it to serve as a warning even for cases derived logically, though the Gemara prefers a stronger derivation."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:16:2",
+            "hebrew": "אלא לאו דגזל למה לי לכובש שכר שכיר - וא\"ת ולוקמיה בגזל גופיה ובגזל עבדים דלא אתי מרבית ואונאה דאין אונאה לעבדים כדקאמר לעיל (בבא מציעא דף נו:) דהא קרקע אינה נגזלת אינו מן המקרא אלא משום דאי אפשר לזוזה ממקומה אבל עבדי דניידי אע\"ג דהוקשו לקרקעות יעבור בלא תגזול:",
+            "english": "",
+            "takeaway": "תוספות asks why the verse isn't needed for גזל גופיה or גזל עבדים, which are not covered by ריבית or אונאה, and answers that while land cannot be stolen, slaves are movable and thus subject to גזל."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 61a:17:1",
+            "hebrew": "לעבור עליו בשני לאוין - וא\"ת ולוקמיה בגזל גופיה ולעבור עליו בשני לאוין וי\"ל משום דלא לקי אלאו דגזל משום דניתק לעשה אבל כי מוקמינן אכובש שכר שכיר באם אינו ענין לקי שפיר וא\"ת לקמן בהמקבל (בבא מציעא דף קיא:) אמרינן דגזל הכנעני מותר ודריש רעך ולא כנעני וצריכי דאי כתב גזל דלא טרח פירוש דשמא נפלו בירושה או מציאה או מתנה אבל שכר שכיר דטרח כנעני נמי אסור והשתא הא מוקמינן הכא האי לא תעשוק את רעך ולא תגזול כולה קרא בעושק שכר שכיר וי\"ל דדריש מדסמיך רעך ללא תגזול ואפקה בלשון גזילה למימר דגזל הכנעני שרי וא\"ת והיכי ס\"ד למימר דגזל הכנעני אסור דאיצטריך קרא למעוטי הלא בישראל גופיה לא ידענא גזל אלא מרבית ואונאה ורבית שרי בכנעני דכתיב לנכרי תשיך ואונאה נמי דכתיב עמיתך ודרשינן לעיל (בבא מציעא דף נט.) עם שאתך בתורה [ובמצות] וי\"ל דהוה אסרינן גזל הכנעני מואכלת את כל העמים דדרשינן מהתם בהגוזל בתרא (ב\"ק דף קיג:) שגזל הכנעני אסור דדוקא בזמן שהם מסורים בידך שרי קרא:",
+            "english": "",
+            "takeaway": "תוספות explains that the two לאוין apply to כובש שכר שכיר because גזל itself does not incur lashes due to being ניתק לעשה, whereas the specific prohibition of עושק שכר שכיר does, and further clarifies the status of גזל הכנעני based on the proximity of רעך to לא תגזול."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T08:27:32.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 95.78078750002896,
+      "structure": 1906.0374919000315,
+      "validate": 289.6151242000051,
+      "translate": 459.4355101000401,
+      "meforshim": 1570.060660900257,
+      "teaching": 855.0428926000022
+    }
+  }
+}

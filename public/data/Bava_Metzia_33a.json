@@ -1,0 +1,1483 @@
+{
+  "ref": "Bava Metzia 33a",
+  "masechet": "Bava_Metzia",
+  "daf": 33,
+  "amud": "a",
+  "mainTopic": "(continues) צער בעלי חיים דאורייתא או דרבנן · שיעור ראייה ופגיעה · משנה אבדתו ואבדת אביו",
+  "overview": "(1) Rava initiates a lengthy debate on whether צער בעלי חיים is biblical or rabbinic, analyzing various proofs from the Mishnah and Baraitot regarding a non-Jew's beast, wine of libation, and a hater. (2) A Baraita defines the distance of 'seeing' and 'meeting' regarding a lost object as one and a half miles, and mentions taking payment for measuring. (3) The Mishnah establishes the priority of returning a lost object between one's own, one's father's, and one's teacher's, and the order of redemption from captivity. (4) Rav Yehuda cites Rav deriving the priority of one's own lost object from the verse 'there shall be no poor among you'. (5) The Gemara discusses the definition of a teacher (רבּו) according to Rabbi Meir, Rabbi Yehuda, and Rabbi Yose, and resolves a contradiction in Rabbi Yochanan's rulings. (6) A Baraita discusses the value of studying Mishnah vs. Talmud, and Rabbi Yochanan explains the priority of Mishnah based on the severity of errors in Talmud. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 4,
+      "topic": "(continues) צער בעלי חיים דאורייתא או דרבנן",
+      "gist": "Rava initiates a lengthy debate on whether צער בעלי חיים is biblical or rabbinic, analyzing various proofs from the Mishnah and Baraitot regarding a non-Jew's beast, wine of libation, and a hater.",
+      "openingFormula": "אָמַר רָבָא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 5,
+      "endLine": 6,
+      "topic": "שיעור ראייה ופגיעה",
+      "gist": "A Baraita defines the distance of 'seeing' and 'meeting' regarding a lost object as one and a half miles, and mentions taking payment for measuring.",
+      "openingFormula": "תָּנוּ רַבָּנַן",
+      "firstStepNumber": 4,
+      "lastStepNumber": 5
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 7,
+      "endLine": 9,
+      "topic": "משנה אבדתו ואבדת אביו",
+      "gist": "The Mishnah establishes the priority of returning a lost object between one's own, one's father's, and one's teacher's, and the order of redemption from captivity.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 6,
+      "lastStepNumber": 8
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 10,
+      "endLine": 11,
+      "topic": "מקור דאבדתו קודם",
+      "gist": "Rav Yehuda cites Rav deriving the priority of one's own lost object from the verse 'there shall be no poor among you'.",
+      "openingFormula": "גְּמָ׳ מְנָא הָנֵי מִילֵּי",
+      "firstStepNumber": 9,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 5,
+      "startLine": 12,
+      "endLine": 17,
+      "topic": "הגדרת רבּו",
+      "gist": "The Gemara discusses the definition of a teacher (רבּו) according to Rabbi Meir, Rabbi Yehuda, and Rabbi Yose, and resolves a contradiction in Rabbi Yochanan's rulings.",
+      "openingFormula": "הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי",
+      "firstStepNumber": 11,
+      "lastStepNumber": 16
+    },
+    {
+      "sugyaNumber": 6,
+      "startLine": 18,
+      "endLine": 19,
+      "topic": "העדפת משנה על תלמוד",
+      "gist": "A Baraita discusses the value of studying Mishnah vs. Talmud, and Rabbi Yochanan explains the priority of Mishnah based on the severity of errors in Talmud. — discussion continues into next amud.",
+      "openingFormula": "תָּנוּ רַבָּנַן",
+      "firstStepNumber": 17,
+      "lastStepNumber": 18
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי",
+      "stepSummary": "The Gemara resolves the challenge by arguing that the Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי, who holds that צַעַר בַּעֲלֵי חַיּוֹת is not biblical.",
+      "whatsHappening": "The Gemara resolves the difficulty raised in step 57. It argues that the Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי, who holds that צַעַר בַּעֲלֵי חַיּוֹת is not biblical.",
+      "deeperAnalysis": "The Gemara argues that the Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי, who holds that צַעַר בַּעֲלֵי חַיּוֹת is not biblical. Therefore, the Baraita is not denying that צַעַר בַּעֲלֵי חַיּוֹת is biblical, but rather teaching according to רַבִּי יוֹסֵי הַגְּלִילִי.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹסֵי הַגְּלִילִי",
+          "meaning": "Rabbi Yosei the Galilean"
+        },
+        {
+          "term": "צַעַר בַּעֲלֵי חַיּוֹת דְּרַבָּנַן",
+          "meaning": "suffering of animals is rabbinic"
+        }
+      ],
+      "whatToRemember": "The resolution is that the Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי, who holds that צַעַר בַּעֲלֵי חַיּוֹת is not biblical.",
+      "confusionAlert": "The Gemara is not denying that צַעַר בַּעֲלֵי חַיּוֹת is biblical, but rather resolving the difficulty raised in step 57.",
+      "whyThisMatters": "This resolution supports רָבָא's claim that צַעַר בַּעֲלֵי חַיּוֹת is biblical.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָא מַנִּי? רַבִּי יוֹסֵי הַגְּלִילִי הִיא,",
+          "english": "This is Rabbi Yose the Galilean?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר צַעַר בַּעֲלֵי חַיִּים דְּרַבָּנַן.",
+          "english": "Who says that avoiding distress to living creatures is a rabbinic decree."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָא מַנּוּ? רַבִּי יוֹסֵי הַגְּלִילִי הִיא, דְּאָמַר צַעַר בַּעֲלֵי חַיּוֹת דְּרַבָּנַן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step"
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from תַּחַת מַשָּׂאוֹ",
+      "stepSummary": "The Gemara cites a proof from the phrase 'תַּחַת מַשָּׂאוֹ' that the Baraita is according to רַבִּי יוֹסֵי הַגְּלִילִי.",
+      "whatsHappening": "The גמרא cites a proof from the phrase תַּחַת מַשָּׂאוֹ. This line serves as a setup to identify the תנא of the ברייתא.",
+      "deeperAnalysis": "The phrase תַּחַת מַשָּׂאוֹ implies the animal is burdened. This aligns with רַבִּי יוֹסֵי הַגְּלִילִי, who holds צַעַר בַּעֲלֵי חַיּוֹת is not biblical. Thus, the ברייתא follows his view.",
+      "keyTerms": [
+        {
+          "term": "תַּחַת מַשָּׂאוֹ",
+          "meaning": "under its burden"
+        },
+        {
+          "term": "מַשָּׂאוֹי שֶׁיּוּכַל לַעֲמוֹד בּוֹ",
+          "meaning": "a burden the animal can bear"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי:",
+          "english": "Thus it is also logical, that it is precise:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״תַּחַת מַשָּׂאוֹ״ –",
+          "english": "\"Under his burden\" –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַשּׂאוֹי שֶׁיָּכוֹל לַעֲמוֹד בּוֹ,",
+          "english": "His burden that he can stand in it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ הַאי סְבָרָא –",
+          "english": "Who heard him that he has this reasoning –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבִּי יוֹסֵי הַגְּלִילִי, שְׁמַע מִינַּהּ.",
+          "english": "Rabbi Yose the Galilean, heard from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּקָתָנֵי: ״תַּחַת מַשָּׂאוֹ״ – מַשָּׂאוֹי שֶׁיּוּכַל לַעֲמוֹד בּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the latter clause",
+      "stepSummary": "The Gemara challenges the resolution by citing the latter clause of the Baraita, which teaches that one is obligated to assist an animal that is not unloaded.",
+      "whatsHappening": "The גמרא raises a difficulty against the previous resolution. This is a direct challenge to the identification of the תנא.",
+      "deeperAnalysis": "The latter clause teaches obligation to assist an animal not yet unloaded. This reflects the רַבָּנַן, who hold צַעַר בַּעֲלֵי חַיּוֹת is biblical. Therefore, the ברייתא cannot be solely according to רַבִּי יוֹסֵי הַגְּלִילִי.",
+      "keyTerms": [
+        {
+          "term": "לֹא מְפוֹרָק",
+          "meaning": "not unloaded"
+        },
+        {
+          "term": "רַבָּנַן",
+          "meaning": "the Rabbis"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִי מָצֵית מוֹקְמַתְּ לַהּ כְּרַבִּי יוֹסֵי הַגְּלִילִי?",
+          "english": "And do you find it established according to Rabbi Yosei HaGalili?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא קָתָנֵי סֵיפָא: ״תַּחַת מַשָּׂאוֹ״ – וְלֹא מְפוֹרָק.",
+          "english": "And yet the latter clause states: 'Under his burden' — and not dismantled."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי ״לֹא מְפוֹרָק״?",
+          "english": "What is 'not dismantled'?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִילֵּימָא לֹא מְפוֹרָק כְּלָל,",
+          "english": "If we say not dismantled at all,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָא כְּתִיב: ״הָקֵם תָּקִים עִמּוֹ״!",
+          "english": "Here it is written: 'You shall surely restore it to him'!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא פְּשִׁיטָא: ״לֹא מְפוֹרָק״ בְּחִנָּם, אֶלָּא בְּשָׂכָר,",
+          "english": "Rather, it is obvious: 'not dismantled' for free, but for payment,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַאן שָׁמְעַתְּ לֵיהּ דְּאִית לֵיהּ הַאי סְבָרָא –",
+          "english": "Who heard him holding this opinion —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "רַבָּנַן! לְעוֹלָם רַבִּי יוֹסֵי הַגְּלִילִי הִיא,",
+          "english": "The Rabbis! It is forever Rabbi Yosei HaGalili,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּבִטְעִינָה סָבַר לַהּ כְּרַבָּנַן.",
+          "english": "And regarding a cart, he holds it according to the Rabbis."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִי מָצֵית מוֹקְמַתּוּ לַהּ כְּרַבִּי יוֹסֵי הַגְּלִילִי? וְהָא קָתָנֵי סֵיפָא: ״תַּחַת מַשָּׂאוֹ״ – וְלֹא מְפוֹרָק.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Defining ראייה and פגיעה distances",
+      "stepSummary": "A Baraita defines the distance of 'seeing' and 'meeting' regarding a lost object as one and a half miles, and mentions taking payment for measuring.",
+      "whatsHappening": "The גמרא introduces a ברייתא defining the distances for 'seeing' and 'meeting' a lost object. This is a transition to a new topic within the same sugya.",
+      "deeperAnalysis": "The ברייתא sets the distance for ראייה and פגיעה at one and a half miles. It also mentions taking payment for measuring. This establishes the physical parameters for the mitzvah of returning a lost object.",
+      "keyTerms": [
+        {
+          "term": "תָּנוּ רַבָּנַן",
+          "meaning": "The Sages taught"
+        },
+        {
+          "term": "כִּי תִרְאֶה",
+          "meaning": "When you see"
+        },
+        {
+          "term": "כִּי תִפְגַּע",
+          "meaning": "When you meet"
+        },
+        {
+          "term": "שִׁיעֲרוּ חֲכָמִים",
+          "meaning": "The Sages estimated"
+        },
+        {
+          "term": "אֶחָד מִשֶּׁבַע וּמֶחֱצָה בְּמִיל",
+          "meaning": "one and a half miles"
+        },
+        {
+          "term": "רִיס",
+          "meaning": "a measure of distance, here one and a half miles"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: ״כִּי תִרְאֶה״ –",
+          "english": "The Sages taught: \"When you see\" –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יָכוֹל אֲפִילּוּ מֵרָחוֹק,",
+          "english": "Perhaps even from afar,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״כִּי תִפְגַּע״.",
+          "english": "Scripture teaches: \"When you encounter.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי ״כִּי תִפְגַּע״, יָכוֹל פְּגִיעָה מַמָּשׁ?",
+          "english": "If \"when you encounter,\" perhaps actual contact?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״כִּי תִרְאֶה״.",
+          "english": "Scripture teaches: \"When you see.\""
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאֵיזוֹ הִיא רְאִיָּיה שֶׁיֵּשׁ בָּהּ פְּגִיעָה –",
+          "english": "And what is the seeing that has encounter –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שִׁיעֲרוּ חֲכָמִים אֶחָד מִשֶּׁבַע וּמֶחֱצָה בְּמִיל,",
+          "english": "The Sages estimated one seventh and a half of a mile,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְזֶה הוּא רִיס.",
+          "english": "and this is a ris.",
+          "notes": "A ris is a unit of distance, approximately 1/7.5 of a mile."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: ״כִּי תִרְאֶה״ – יָכוֹל אֲפִילּוּ מֵרָחוֹק, תַּלְמוּד לוֹמַר: ״כִּי תִפְגַּע״. אִי ״כִּי תִפְגַּע״, יָכוֹל פְּגִיעָה מַמָּשׁ? תַּלְמוּד לוֹמַר: ״כִּי תִרְאֶה״. וְאֵיזוֹ הִיא רְאִיָּיה שֶׁיֵּשׁ בָּהּ פְּגִיעָה – שִׁיעֲרוּ חֲכָמִים אֶחָד מִשֶּׁבַע וּמֶחֱצָה בְּמִיל, וְזֶה הוּא רִיס.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:5:1",
+            "hebrew": "יכול מרחוק - והטיל עליו שילך שם:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern of 'even from afar' implies the Torah would obligate the finder to travel to the location of the lost object."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 33a:5:1",
+            "hebrew": "וזהו ריס - אית דגרסי רוס דשבע ומחצה רוס עולה אלפים דהוי שיעור מיל כדמוכח בפרק שני שעירי (יומא דף סז.) גבי סוכות דשעיר המשתלח:",
+            "english": "",
+            "takeaway": "תוספות notes a variant reading of 'ריס' as 'רוס', explaining that seven and a half 'רוס' equal two thousand cubits, which is the measure of a מיל as proven in יומא regarding the Succot of the scapegoat."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "Walking with the animal up to a פרסה",
+      "stepSummary": "The Tanna adds that one walks with the animal up to one parasang, and Ravba bar bar Chana says that one takes payment for accompanying the animal.",
+      "whatsHappening": "The גמרא introduces a תנא who adds that one walks with the animal up to one פרסה. This expands the scope of the obligation.",
+      "deeperAnalysis": "The תנא adds that one accompanies the animal up to one פרסה. רַבָּה בַר בַר חָנָה states one takes payment for this accompaniment. This clarifies that accompaniment beyond the mitzvah's core distance is a paid service.",
+      "keyTerms": [
+        {
+          "term": "תָּנָא",
+          "meaning": "The Tanna taught"
+        },
+        {
+          "term": "וּמִדַּדֶּה עִמּוֹ עַד פַּרְסָה",
+          "meaning": "and he walks with it up to one parasang"
+        },
+        {
+          "term": "אָמַר רַבָּה בַר בַר חָנָה",
+          "meaning": "Ravba bar bar Chana said"
+        },
+        {
+          "term": "וְנוֹטֵל שָׂכָר",
+          "meaning": "and he takes payment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנָא: וּמִדַּדֶּה עִמּוֹ עַד פַּרְסָה.",
+          "english": "It is taught: And he measures with him up to a parasang."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַבָּה בַּר בַּר חָנָה: וְנוֹטֵל שָׂכָר.",
+          "english": "Rabba bar bar Ḥana says: And he takes wages."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנָא: וּמִדַּדֶּה עִמּוֹ עַד פַּרְסָה. אָמַר רַבָּה בַּר בַּר חָנָה: וְנוֹטֵל שָׂכָר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:6:1",
+            "hebrew": "מדדה עמו - לאחר שהטעינו שמא יחזור ויפול:",
+            "english": "",
+            "takeaway": "רש״י explains that the requirement to walk with the animal up to a parasang applies after loading, to prevent the load from falling off again."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 33a:6:1",
+            "hebrew": "ונוטל שכר - במה שמדדה ובפריקה מיירי שירא פן ירבץ דאי בטעינה פשיטא דהא טעינה גופה בשכר וכל שכן מה שמדדה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that Ravba bar bar Chana's statement about taking payment refers to the walking and unloading, as one fears the animal might lie down, whereas payment for loading is obvious since loading itself is a paid service."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Priority of one's own אֲבֵדָה",
+      "stepSummary": "The משנה establishes that one's own lost item takes precedence over both one's father's and one's teacher's lost items.",
+      "whatsHappening": "The משנה opens by establishing the priority of one's own lost item. This is a setup for a hierarchy of obligations.",
+      "deeperAnalysis": "The משנה sets the baseline: one's own lost item takes precedence over that of one's father or teacher. This establishes a clear hierarchy of obligation for returning lost objects.",
+      "keyTerms": [
+        {
+          "term": "אֲבֵדָתוֹ",
+          "meaning": "his lost item"
+        },
+        {
+          "term": "אֲבֵדַת אָבִיו",
+          "meaning": "his father's lost item"
+        },
+        {
+          "term": "אֲבֵדַת רַבּוֹ",
+          "meaning": "his teacher's lost item"
+        },
+        {
+          "term": "קוֹדֶמֶת",
+          "meaning": "takes precedence"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אֲבֵדָתוֹ וַאֲבֵדַת אָבִיו – אֲבֵדָתוֹ קוֹדֶמֶת.",
+          "english": "His loss and his father's loss — his loss takes precedence."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲבֵדָתוֹ וַאֲבֵדַת רַבּוֹ – שֶׁלּוֹ קוֹדֵם.",
+          "english": "His loss and his teacher's loss — his takes precedence."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אֲבֵדָתוֹ וַאֲבֵדַת אָבִיו – אֲבֵדָתוֹ קוֹדֶמֶת. אֲבֵדָתוֹ וַאֲבֵדַת רַבּוֹ – שֶׁלּוֹ קוֹדֵם.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 33a:7:1",
+            "hebrew": "אבדתו קודמת - וא\"ת אבדתו ואבדת רבו וכבוד אביו איזהו קודם אי אבדתו הלא כבוד אביו עדיף למאן דאמר בפ\"ק דקדושין (דף לב. ושם) משל בן ואם כבוד אביו הלא אבדת רבו קודמת כדאמר לעיל. אני ה' ויש לומר אבדתו קודמת דהיכא דאביו נהנה מגוף הבהמה חייב לכבדו כגון שחוט לי בהמתך אבל הניחה ליאבד ותביא לי לאכול שגם לאב קשה האבדה אלא שרוצה לאכול:",
+            "english": "",
+            "takeaway": "תוספות addresses the conflict between returning one's own lost item, honoring one's father, and returning one's teacher's lost item, ruling that one's own lost item takes precedence because the father's desire to eat from the animal does not constitute a direct benefit from the animal's body that would mandate immediate honor."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Teacher's priority over father's",
+      "stepSummary": "The משנה rules that the teacher's lost item takes precedence over the father's, because the father brings one into this world while the teacher brings one into the World-to-Come.",
+      "whatsHappening": "The משנה establishes the priority of the teacher over the father, with a rationale. This is a core conceptual shift.",
+      "deeperAnalysis": "The משנה rules the teacher takes precedence over the father. The rationale is that the father brings one into this world, but the teacher brings one into the World-to-Come. An exception exists if the father is a scholar.",
+      "keyTerms": [
+        {
+          "term": "הֱבִיאוֹ לָעוֹלָם הַזֶּה",
+          "meaning": "brought him into this world"
+        },
+        {
+          "term": "מְבִיאוֹ לְחַיֵּי הָעוֹלָם הַבָּא",
+          "meaning": "brings him to life in the World-to-Come"
+        },
+        {
+          "term": "אָבִיו חָכָם",
+          "meaning": "his father is a scholar"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲבֵדַת אָבִיו וַאֲבֵדַת רַבּוֹ –",
+          "english": "The lost item of his father and the lost item of his teacher –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁל רַבּוֹ קוֹדֶמֶת,",
+          "english": "that of his teacher takes precedence,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁאָבִיו הֱבִיאוֹ לָעוֹלָם הַזֶּה,",
+          "english": "for his father brought him into this world,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְרַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה מְבִיאוֹ לְחַיֵּי הָעוֹלָם הַבָּא.",
+          "english": "and his teacher, who taught him wisdom, brings him to the life of the World-to-Come."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִם אָבִיו חָכָם – שֶׁל אָבִיו קוֹדֶמֶת.",
+          "english": "And if his father is wise – that of his father takes precedence."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲבֵדַת אָבִיו וַאֲבֵדַת רַבּוֹ – שֶׁל רַבּוֹ קוֹדֶמֶת, שֶׁאָבִיו הֱבִיאוֹ לָעוֹלָם הַזֶּה, וְרַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה מְבִיאוֹ לְחַיֵּי הָעוֹלָם הַבָּא. וְאִם אָבִיו חָכָם – שֶׁל אָבִיו קוֹדֶמֶת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        64
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Applying the hierarchy to other contexts",
+      "stepSummary": "The משנה extends the priority rules to unloading burdens and redeeming from captivity, maintaining the teacher-first rule unless the father is a scholar.",
+      "whatsHappening": "The משנה applies the same priority rules to unloading burdens and redeeming from captivity. This is a generalization of the principle.",
+      "deeperAnalysis": "The משנה extends the hierarchy to unloading burdens and redeeming from captivity. In both cases, the teacher takes precedence over the father, unless the father is a scholar. This shows the principle is universal.",
+      "keyTerms": [
+        {
+          "term": "נוֹשְׂאִין מַשּׂאוֹי",
+          "meaning": "carrying a burden"
+        },
+        {
+          "term": "בְּבֵית הַשְּׁבִי",
+          "meaning": "in captivity"
+        },
+        {
+          "term": "פוֹדֶה",
+          "meaning": "redeems"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי –",
+          "english": "His father and his teacher were carrying a burden –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַנִּיחַ אֶת שֶׁל רַבּוֹ,",
+          "english": "He puts down his teacher's,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאַחַר כָּךְ מַנִּיחַ אֶת שֶׁל אָבִיו.",
+          "english": "and afterward he puts down his father's."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָיָה אָבִיו וְרַבּוֹ בְּבֵית הַשְּׁבִי –",
+          "english": "His father and his teacher were in captivity –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "פּוֹדֶה אֶת רַבּוֹ,",
+          "english": "He redeems his teacher,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאַחַר כָּךְ פּוֹדֶה אֶת אָבִיו.",
+          "english": "and afterward he redeems his father."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִם אָבִיו חָכָם –",
+          "english": "And if his father is a scholar –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "פּוֹדֶה אֶת אָבִיו,",
+          "english": "He redeems his father,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְאַחַר כָּךְ פּוֹדֶה אֶת רַבּוֹ.",
+          "english": "and afterward he redeems his teacher."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי – מַנִּיחַ אֶת שֶׁל רַבּוֹ, וְאַחַר כָּךְ מַנִּיחַ אֶת שֶׁל אָבִיו. הָיָה אָבִיו וְרַבּוֹ בְּבֵית הַשְּׁבִי – פּוֹדֶה אֶת רַבּוֹ, וְאַחַר כָּךְ פּוֹדֶה אֶת אָבִיו. וְאִם אָבִיו חָכָם – פּוֹדֶה אֶת אָבִיו, וְאַחַר כָּךְ פּוֹדֶה אֶת רַבּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "שאלה",
+      "title": "Source for one's own אֲבֵדָה taking precedence",
+      "stepSummary": "The גמרא asks for the scriptural source of the rule that one's own lost object takes precedence.",
+      "whatsHappening": "The גמרא opens with a neutral request for the source of the halakha. This is a standard setup line.",
+      "deeperAnalysis": "The previous sugya established the practical rule that one's own lost object takes precedence. Now the גמרא seeks the foundational source for this principle. This is a standard opening question requesting the textual basis.",
+      "keyTerms": [
+        {
+          "term": "מְנָא הָנֵי מִילֵּי",
+          "meaning": "from where are these matters derived?"
+        },
+        {
+          "term": "אָבֶדֶת",
+          "meaning": "lost object"
+        },
+        {
+          "term": "קֹדֶם",
+          "meaning": "takes precedence"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ מְנָא הָנֵי מִילֵּי?",
+          "english": "GEMARA: From where are these two matters?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב יְהוּדָה אָמַר רַב, אָמַר קְרָא:",
+          "english": "Rav Yehuda said Rav said, the verse says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן״,",
+          "english": "\"Only so that there shall be no needy among you\","
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁלְּךָ קוֹדֵם לְשֶׁל כׇּל אָדָם.",
+          "english": "yours precedes that of every person."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None",
+      "triggerLanguage": "גְּמָ׳ מְנָא הָנֵי מִילֵּי?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:10:1",
+            "hebrew": "גמ' מנא הני מילי - דשלו קודם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question מְנָא הָנֵי מִילֵּי specifically seeks the source for the rule that one's own lost item takes precedence."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:10:2",
+            "hebrew": "לא יהיה בך אביון - הזהר מן עניות:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse אֶפֶס כִּי לֹא יִהְיֶה בְּךָ אֶבְיוֹן is understood as a command to guard against poverty, which implies a duty to prioritize one's own financial interests."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "רַב יְהוּדָה's principle of self-fulfilling prophecy",
+      "stepSummary": "רַב יְהוּדָה אָמַר רַב: כָּל הַמְקַיֵּם בְּעַצְמוֹ כָּךְ, סוֹף בָּא לִידֵי כָּךְ",
+      "whatsHappening": "The Gemara introduces a general principle from רַב יְהוּדָה in the name of רַב. This is a setup line establishing a moral framework before the main sugya begins.",
+      "deeperAnalysis": "The principle states that whoever fulfills a certain trait in themselves will ultimately experience that same trait. This sets a thematic tone for the upcoming discussion on teacher-student dynamics and precedence.",
+      "keyTerms": [
+        {
+          "term": "רַב יְהוּדָה",
+          "meaning": "Rav Yehuda"
+        },
+        {
+          "term": "רַב",
+          "meaning": "Rav"
+        },
+        {
+          "term": "מְקַיֵּם",
+          "meaning": "fulfills"
+        },
+        {
+          "term": "סוֹף בָּא לִידֵי כָּךְ",
+          "meaning": "ultimately comes to experience that fate"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב יְהוּדָה אָמַר רַב:",
+          "english": "And Rav Yehuda says that Rav says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל הַמְקַיֵּים בְּעַצְמוֹ כָּךְ,",
+          "english": "Anyone who fulfills this for himself,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סוֹף בָּא לִידֵי כָּךְ.",
+          "english": "ultimately comes to this.",
+          "notes": "Refers to the fate of becoming impoverished and having others prioritize their interests at his expense."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None",
+      "triggerLanguage": "וְאָמַר רַב יְהוּדָה אָמַר רַב: כׇּל הַמְקַיֵּים בְּעַצְמוֹ כָּךְ, סוֹף בָּא לִידֵי כָּךְ.",
+      "macroPhase": "mishnah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        68
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:11:1",
+            "hebrew": "כל המקיים בעצמו כך - אף על פי שלא הטילו עליו הכתוב יש לאדם ליכנס לפנים משורת הדין ולא לדקדק שלי קודם אם לא בהפסד מוכיח ואם תמיד מדקדק. פורק מעליו עול ג\"ח וצדקה וסוף שיצטרך לבריות:",
+            "english": "",
+            "takeaway": "רש״י explains that רב's statement means a person should voluntarily enter into פנים משורת הדין and not be overly strict about his own rights unless there is a clear loss, because if one is always strict, he removes from himself the yoke of ג"
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna and Baraita on the definition of רַבּוֹ",
+      "stepSummary": "The Mishna states that a teacher's burden takes precedence over a father's, and a Baraita defines 'teacher' according to three opinions: Rabbi Meir (wisdom/Talmud), Rabbi Yehuda (majority of knowledge), and Rabbi Yosei (even one Mishna).",
+      "whatsHappening": "The sugya opens with the Mishna and a Baraita establishing the three Tannaitic definitions of who qualifies as a רַבּוֹ whose burden takes precedence. This is a setup line introducing the core textual sources.",
+      "deeperAnalysis": "The Mishna establishes the principle of precedence for the teacher. The Baraita clarifies the scope: רַבִּי מֵאִיר restricts it to תַּלְמוּד, רַבִּי יְהוּדָה expands it to majority of knowledge, and רַבִּי יוֹסֵי expands it further to even a single Mishna. This sets the stage for the practical examples and the later halachic dispute.",
+      "keyTerms": [
+        {
+          "term": "רַבּוֹ",
+          "meaning": "his teacher"
+        },
+        {
+          "term": "תַּלְמוּד",
+          "meaning": "Talmud / advanced analysis"
+        },
+        {
+          "term": "רַבִּי מֵאִיר",
+          "meaning": "Rabbi Meir"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yehuda"
+        },
+        {
+          "term": "רַבִּי יוֹסֵי",
+          "meaning": "Rabbi Yosei"
+        }
+      ],
+      "whatToRemember": "The three opinions define the threshold of 'teacher' for the law of precedence.",
+      "confusionAlert": "Note that רַבִּי מֵאִיר's 'wisdom' is interpreted later as תַּלְמוּד, not just general knowledge.",
+      "whyThisMatters": "This is the foundational text for the entire sugya on the definition of רַבּוֹ.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשּׂאוֹי וְכוּ׳.",
+          "english": "His father and his teacher were carrying a burden, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תָּנוּ רַבָּנַן: רַבּוֹ שֶׁאָמְרוּ רַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה,",
+          "english": "The Sages taught: His teacher, that they said, his teacher who taught him wisdom,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלֹא רַבּוֹ שֶׁלִּמְּדוֹ מִקְרָא וּמִשְׁנָה,",
+          "english": "and not his teacher who taught him Bible and Mishna,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּבְרֵי רַבִּי מֵאִיר.",
+          "english": "the words of Rabbi Meir."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: כֹּל שֶׁרוֹב חׇכְמָתוֹ הֵימֶנּוּ.",
+          "english": "Rabbi Yehuda says: Whoever his wisdom is from him."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יוֹסֵי אוֹמֵר:",
+          "english": "Rabbi Yosei says:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ לֹא הֵאִיר עֵינָיו אֶלָּא בְּמִשְׁנָה אַחַת,",
+          "english": "Even if he did not enlighten his eyes except in one Mishna,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "זֶה הוּא רַבּוֹ.",
+          "english": "this is his teacher."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָיָה אָבִיו וְרַבּוֹ נוֹשְׂאִין מַשָּׂאוֹי וְכוּ׳. תָּנוּ רַבָּנָן: רַבּוֹ שֶׁאָמְרוּ רַבּוֹ שֶׁלִּמְּדוֹ חָכְמָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:12:1",
+            "hebrew": "שלמדו חכמה - סברת טעמי המשנה ולהבין שלא יהו סותרות זו את זו וטעמי איסור והיתר והחיוב והפטור והוא נקרא גמרא:",
+            "english": "",
+            "takeaway": "רש״י defines חכמה as understanding the underlying logic of the משנה, resolving apparent contradictions, and grasping the reasons for prohibitions, permissions, obligations, and exemptions, which is called גמרא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:12:2",
+            "hebrew": "מקרא - תורה נביאים וכתובים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that מקרא refers to תורה, נביאים, and כתובים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:12:3",
+            "hebrew": "משנה - כמו שהן שנויות ואין טעמן מפורש בהן:",
+            "english": "",
+            "takeaway": "רש״י explains that משנה refers to the text as it is recited without the explicit underlying reasons."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:12:4",
+            "hebrew": "כל שרוב חכמתו הימנו - אם מקרא אם משנה אם גמרא:",
+            "english": "",
+            "takeaway": "רש״י notes that רבי יהודה's criterion of רוב חכמתו applies regardless of whether the knowledge comes from מקרא, משנה, or גמרא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:12:5",
+            "hebrew": "האיר עיניו - שהודיעו טעם משנה אחת שלא יכול להבין:",
+            "english": "",
+            "takeaway": "רש״י interprets אפילו לא האיר עיניו אלא במשנה אחת as teaching the reason for a single משנה that the student could not otherwise understand."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא and שְׁמוּאֵל: Practical examples of רַבּוֹ",
+      "stepSummary": "Rava cites Rav Sehora as his רַבּוֹ for explaining a specific term, and Shmuel is cited as having torn his garment for a Sage who explained a Mishna to him.",
+      "whatsHappening": "The Gemara provides practical examples of how the definition of רַבּוֹ applies in practice, showing that even a single explanation can qualify someone as a רַבּוֹ. This is a setup line illustrating the lenient view.",
+      "deeperAnalysis": "רַבָּא and שְׁמוּאֵל demonstrate that the status of רַבּוֹ can be acquired through a single, specific teaching. This supports the lenient view of רַבִּי יוֹסֵי, showing that even a minor contribution can establish the relationship.",
+      "keyTerms": [
+        {
+          "term": "רַבָּא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "רַב סְחוֹרָה",
+          "meaning": "Rav Sehora"
+        },
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Shmuel"
+        },
+        {
+          "term": "קָרַע",
+          "meaning": "tore his garment"
+        }
+      ],
+      "whatToRemember": "רַבָּא and שְׁמוּאֵל show that even a single explanation can create the status of רַבּוֹ.",
+      "confusionAlert": "Note that רַבָּא says 'כְּגוֹן' (for example), indicating this is an illustration, not a comprehensive ruling.",
+      "whyThisMatters": "These examples ground the abstract definitions in practical halachic behavior.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: כְּגוֹן רַב סְחוֹרָה, דְּאַסְבְּרַן זוּהֲמָא לִיסְטְרוֹן.",
+          "english": "Rava said: For example, Rav Seḥora, who explained to me zuhama listeron."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁמוּאֵל קְרַע מָאנֵיהּ עֲלֵיהּ הָהוּא מֵרַבָּנַן",
+          "english": "Shmuel rent his garment over him, that one of the Sages"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאַסְבְּרֵיהּ ״אֶחָד יוֹרֵד לְאַמַּת הַשֶּׁחִי וְאֶחָד פּוֹתֵחַ כֵּיוָן״.",
+          "english": "who explained to him 'One descends to the depth of the armpit and one opens directly.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבָּא: כְּגוֹן רַב סְחוֹרָה, דְּאַסְבַּרַן זוּהֲמָא לִיסְטְרוֹן...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        70
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:13:1",
+            "hebrew": "דאסברן זוהמא ליסטרון - בסדר טהרות (כלים פי\"ב משנה ב ופכ\"ה משנה ג) היא שנויה ולא הייתי יודע מה כלי הוא ולמדני שהוא כף גדולה שמסלקין בו זוהם הקדירה והקלחת לצדדין:",
+            "english": "",
+            "takeaway": "רש״י explains that רב סחורה learned from רבא the identification of a specific vessel (זוהמא) used for removing impurity from pots, as found in סדר טהרות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:13:2",
+            "hebrew": "קרע מאניה - קרע שאין מתאחה כדין תלמיד על הרב:",
+            "english": "",
+            "takeaway": "רש״י clarifies that שמואל tore his garment (קרע מאניה) upon the passing of a תלמיד חכם, demonstrating the proper mourning ritual for a student's teacher."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:13:3",
+            "hebrew": "אחד יורד לאמת השחי - משנה היא במסכת תמיד (פרק ג משנה ו) אצל הנכנסים שחרית לפתוח דלתות ההיכל מי שזכה בדישון מזבח הפנימי כו' ושני מפתחות בידו אחד יורד לאמת השחי ואחד פותח כיון אחד מן המפתחות הללו פותח פשפש הצפוני שאצל פתח ההיכל בקרן מזרחית צפונית של אולם והיכל כדתנן התם שני פשפשים היה לו לשער הגדול אחד לצפון ההיכל והאולם ואחד לדרומו ואותו שבדרום לא נכנס בו אדם מעולם כדמפרש התם ואותו פשפש שבצפון והוא לפתח שבזוית האולם שאצל חמש אמות של כותל ההיכל שבצפון פתח ההיכל ודלת סובבת בו ואותו מפתח של אותו הפתח יורד לאמת השחי. פשפשים פתחים קטנים כמין כיפות קטנות ארכו כעובי רוחב הכותל ודלת סובבת בו פושטי\"ר בלעז אחד יורד לאמת השחי. הבא לפתוח בו שחרית [פשפש שבזוית האולם] עומד מבחוץ בתוך האולם ומכניס ידו בחור שבכותל עד בית שחיו ופותח:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase אחד יורד לאמת השחי refers to a procedure in מסכת תמיד where one person inserts their hand into a small opening (פשפש) in the wall to unlock the inner door of the היכל."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:13:4",
+            "hebrew": "ואחד פותח כיון - לאחר שנכנס בזה ובא לו לתא אשר על פני אחת עשרה אמה של אולם קצת מן ההיכל ופותח במפתח שני דלת אחד שמן התא להיכל מהר בלא טורח כשאר פתחים ונכנס להיכל לפתוח דלתות ההיכל:",
+            "english": "",
+            "takeaway": "רש״י explains that ואחד פותח כיון refers to the second person who, after the first unlocks the outer mechanism, quickly opens the main door to the היכל without difficulty."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:13:5",
+            "hebrew": "כיון - כמו (פסחים לז.) יעשנה בדפוס ויקבענה כיון מהר בלא טורח והאי שער הגדול הוא פתח ההיכל שבין אולם להיכל:",
+            "english": "",
+            "takeaway": "רש״י defines the term כיון as meaning quickly and without effort, citing a parallel usage in פסחים."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "עוּלָּא: Babylonian scholars and the מוּבְהָק",
+      "stepSummary": "Ulla states that Babylonian scholars rise and tear for each other, but for returning a lost item, one only returns it to a מוּבְהָק (preeminent) teacher.",
+      "whatsHappening": "עוּלָּא distinguishes between general respect (rising/tearing) and the specific halachic precedence of returning a lost item, which requires a מוּבְהָק. This is a setup line introducing a new category.",
+      "deeperAnalysis": "עוּלָּא clarifies that while Babylonian scholars have mutual respect, the strict halachic precedence for אֲבֵדָה requires a higher threshold: a מוּבְהָק. This introduces a new category of teacher, distinct from the Tannaitic definitions.",
+      "keyTerms": [
+        {
+          "term": "עוּלָּא",
+          "meaning": "Ulla"
+        },
+        {
+          "term": "מוּבְהָק",
+          "meaning": "preeminent, distinct"
+        },
+        {
+          "term": "אֲבֵדָה",
+          "meaning": "lost item"
+        }
+      ],
+      "whatToRemember": "עוּלָּא introduces the concept of מוּבְהָק for the specific case of אֲבֵדָה.",
+      "confusionAlert": "Note the distinction between general respect and the specific halachic rule of אֲבֵדָה.",
+      "whyThisMatters": "This distinction is crucial for understanding the later dispute about the halachic ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר עוּלָּא: תַּלְמִידֵי חֲכָמִים שֶׁבְּבָבֶל,",
+          "english": "Ulla says: The Torah scholars who are in Babylonia"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עוֹמְדִין זֶה מִפְּנֵי זֶה,",
+          "english": "rise in deference before one another"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְקוֹרְעִין זֶה עַל זֶה.",
+          "english": "and rend their garments in mourning over one another's passing."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּלְעִנְיַן אֲבֵדָה בִּמְקוֹם אָבִיו,",
+          "english": "But with regard to returning a lost item in a case where both one's father…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֵינָן חוֹזְרִין אֶלָּא לְרַבּוֹ מוּבְהָק.",
+          "english": "he returns the lost item only to his preeminent teacher before returning that of his…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר עוּלָּא: תַּלְמִידֵי חֲכָמִים שֶׁבְּבָבֶל, עוֹמְדִין זֶה מִפְּנֵי זֶה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:14:1",
+            "hebrew": "עומדין זה מפני זה - כדין תלמיד לרב לפי שהיו יושבין תמיד בבית המדרש יחד ומקשין ומפרקין וכולם למדים זה מזה:",
+            "english": "",
+            "takeaway": "רש״י explains that Babylonian scholars rise for one another because they study together in the בית המדרש and learn from each other, thus fulfilling the law of a תלמיד rising for a רב."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:14:2",
+            "hebrew": "לרבו מובהק - שרוב חכמתו ממנו כר\"י:",
+            "english": "",
+            "takeaway": "רש״י defines a רבו מובהק as a teacher from whom the student derives the majority of his wisdom, similar to רבי יוחנן's relationship with his teachers."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 33a:14:1",
+            "hebrew": "ומקרעין זה על זה - אף על פי שאינו יודע יותר לפי שלומדין זה מזה ואם תאמר דאמרינן בפרק האורג (שבת דף קה: ושם) חייב לקרוע על אדם כשר אפילו לא היה בשעת יציאת נשמה ויש לומר דהכא מיירי בקרע שאינו מתאחה כדין תלמיד על רבו וכן פירש רש\"י:",
+            "english": "",
+            "takeaway": "תוספות clarifies that tearing for one another is permitted even without superior knowledge because they learn from each other, and resolves a potential contradiction from שבת by specifying that this refers to a tear that does not heal, following רש״י's interpretation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "רַב חִסְדָּא and רַב הוּנָא: The dilemma of mutual need",
+      "stepSummary": "Rav Hisda asks Rav Huna about the case where a teacher needs his student, leading to a misunderstanding and mutual fasting.",
+      "whatsHappening": "The Gemara presents a narrative about רַב חִסְדָּא and רַב הוּנָא, illustrating the complexity of the teacher-student relationship when roles are reversed. This is a setup line introducing a practical difficulty.",
+      "deeperAnalysis": "רַב חִסְדָּא's question about a teacher needing his student highlights a practical difficulty: what if the student is the teacher's peer? רַב הוּנָא's reaction shows the sensitivity of this issue, leading to a resolution through mutual fasting.",
+      "keyTerms": [
+        {
+          "term": "רַב חִסְדָּא",
+          "meaning": "Rav Hisda"
+        },
+        {
+          "term": "רַב הוּנָא",
+          "meaning": "Rav Huna"
+        },
+        {
+          "term": "תַּעֲנִיּוֹת",
+          "meaning": "fasts"
+        }
+      ],
+      "whatToRemember": "The story of רַב חִסְדָּא and רַב הוּנָא illustrates the practical difficulties of defining רַבּוֹ.",
+      "confusionAlert": "Note that רַב הוּנָא's response 'אַתְּ צְרִיכַתְ לִי' (you need me) is a correction of רַב חִסְדָּא's premise.",
+      "whyThisMatters": "This narrative adds a practical dimension to the theoretical definitions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "קָבָעֵי מִינֵּיהּ רַב חִסְדָּא מֵרַב הוּנָא:",
+          "english": "Rav Ḥisda raised a dilemma before Rav Huna:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תַּלְמִיד וְצָרִיךְ לוֹ רַבּוֹ,",
+          "english": "A student and his teacher needs him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי? אֲמַר לֵיהּ: חִסְדָּא חִסְדָּא,",
+          "english": "What? He said to him: Ḥisda, Ḥisda,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא צְרִיכְנָא לָךְ,",
+          "english": "I do not need you,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַתְּ צְרִיכַתְּ לִי עַד אַרְבְּעִין שְׁנִין.",
+          "english": "You need me until forty years."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִיקְּפַדוּ אַהֲדָדֵי וְלָא עָיְילִי לְגַבֵּי הֲדָדֵי.",
+          "english": "They became angry with each other and did not enter to each other."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "יְתֵיב רַב חִיסְדָּא אַרְבְּעִין תַּעֲנִיָּתָא,",
+          "english": "Rav Ḥisda sat forty fasts,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִשּׁוּם דַּחֲלַשׁ דַּעְתֵּיהּ דְּרַב הוּנָא.",
+          "english": "Because of the weakening of Rav Huna's heart."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "יָתֵיב רַב הוּנָא אַרְבְּעִין תַּעֲנִיָּתָא,",
+          "english": "Rav Huna sat forty fasts,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִשּׁוּם דְּחַשְׁדֵיהּ לְרַב חִסְדָּא.",
+          "english": "Because of his suspicion of Rav Ḥisda."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "קָבָעֵי מִינֵיהּ רַב חִסְדָּא מֵרַב הוּנָא: תַּלְמִיד וְצָרִיךְ לוֹ רַבּוֹ...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        72
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:15:1",
+            "hebrew": "וצריך לו רבו - ששמע שמועות שיש בידו מפי אחרים:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'וְצָרִיךְ לוֹ רַבּוֹ' means the teacher needs the student because the student possesses teachings (שמועות) that the teacher does not know, having heard them from other sources."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:15:2",
+            "hebrew": "מאי - כלומר קודם לאביו לענין אבדה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question 'מַאי' is asking who has the halachic priority to take the lost item first, specifically comparing the student's right to that of the teacher's father (קודם לאביו לענין אבדה)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute about the halachic ruling",
+      "stepSummary": "Rav Yitzhak bar Yosef cites Rabbi Yochanan as ruling like Rabbi Yehuda, while Rav Acha bar Rav Huna cites Rav Sheshet as ruling like Rabbi Yosei.",
+      "whatsHappening": "The Gemara presents a dispute about the halachic ruling, with two Amoraim citing different Tannaitic opinions. This is a setup line introducing the central conflict.",
+      "deeperAnalysis": "This sets up the central conflict of the sugya: does the halacha follow רַבִּי יְהוּדָה (majority of knowledge) or רַבִּי יוֹסֵי (even one Mishna)? The attribution to רַבִּי יוֹחָנָן and רַב שֵׁשֶׁת adds weight to the dispute.",
+      "keyTerms": [
+        {
+          "term": "רַב יִצְחָק בַּר יוֹסֵף",
+          "meaning": "Rav Yitzhak bar Yosef"
+        },
+        {
+          "term": "רַב אַחָא בַּר רַב הוּנָא",
+          "meaning": "Rav Acha bar Rav Huna"
+        },
+        {
+          "term": "רַב שֵׁשֶׁת",
+          "meaning": "Rav Sheshet"
+        }
+      ],
+      "whatToRemember": "The dispute is between רַבִּי יְהוּדָה and רַבִּי יוֹסֵי, as cited by later Amoraim.",
+      "confusionAlert": "Note that רַבִּי יוֹחָנָן is cited as ruling like רַבִּי יְהוּדָה, which will be challenged in the next step.",
+      "whyThisMatters": "This is the core halachic dispute that the Gemara will resolve.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיתְּמַר: רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יוֹחָנָן:",
+          "english": "It was stated: Rav Yitzchak bar Yosef says Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲלָכָה כְּרַבִּי יְהוּדָה.",
+          "english": "The halakha is in accordance with Rabbi Yehuda."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַב אַחָא בַּר רַב הוּנָא אָמַר רַב שֵׁשֶׁת:",
+          "english": "Rav Acha bar Rav Huna says Rav Sheshet says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲלָכָה כְּרַבִּי יוֹסֵי.",
+          "english": "The halakha is in accordance with Rabbi Yosei."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיתְּמַר: רַב יִצְחָק בַּר יוֹסֵף אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כְּרַבִּי יְהוּדָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        73
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to רַבִּי יוֹחָנָן's ruling",
+      "stepSummary": "The Gemara challenges Rabbi Yochanan's ruling like Rabbi Yehuda, citing his own statement that the halacha follows the unattributed Mishna, which rules like Rabbi Meir.",
+      "whatsHappening": "The Gemara raises a contradiction: if רַבִּי יוֹחָנָן rules like רַבִּי יְהוּדָה, why does he also say the halacha follows the unattributed Mishna, which rules like רַבִּי מֵאִיר? This is a challenge line.",
+      "deeperAnalysis": "The unattributed Mishna defines רַבּוֹ as one who taught 'wisdom', which is interpreted as רַבִּי מֵאִיר's view. If רַבִּי יוֹחָנָן rules like the unattributed Mishna, he should rule like רַבִּי מֵאִיר, not רַבִּי יְהוּדָה. This creates a direct contradiction in his rulings.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        },
+        {
+          "term": "סְתָם מִשְׁנָה",
+          "meaning": "unattributed Mishna"
+        },
+        {
+          "term": "חָכְמָה",
+          "meaning": "wisdom"
+        }
+      ],
+      "whatToRemember": "The challenge is based on רַבִּי יוֹחָנָן's own statement about following the unattributed Mishna.",
+      "confusionAlert": "Note that the unattributed Mishna is interpreted as following רַבִּי מֵאִיר, not רַבִּי יְהוּדָה.",
+      "whyThisMatters": "This contradiction must be resolved to determine the halachic ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי?",
+          "english": "And did Rabbi Yoḥanan say so?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָאָמַר רַבִּי יוֹחָנָן:",
+          "english": "But Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲלָכָה כִּסְתַם מִשְׁנָה, וּתְנַן:",
+          "english": "The halakha is in accordance with the unattributed mishna, and we learned:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַבּוֹ שֶׁלִּמְּדוֹ חׇכְמָה.",
+          "english": "His teacher who taught him wisdom."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי ״חׇכְמָה״? רוֹב חׇכְמָתוֹ.",
+          "english": "What is 'wisdom'? The majority of his wisdom."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי? וְהָא אָמַר רַבִּי יוֹחָנָן: הֲלָכָה כִּסְתָם מִשְׁנָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        74
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:17:1",
+            "hebrew": "ותנן רבו שלמדו חכמה - סתמא כר' מאיר:",
+            "english": "",
+            "takeaway": "רש״י explains that the unattributed Mishna (סתם משנה) rules like רבי מאיר, which is the basis for the Gemara's challenge to רבי יוחנן's position."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:17:2",
+            "hebrew": "רוב חכמתו - אם מקרא מקרא אם משנה משנה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'רוב חכמתו' means the teacher taught the student the majority of his wisdom, whether from the Torah (מקרא) or from the Mishna (משנה)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "מימרא",
+      "title": "The Baraita on the value of studying מִקְרָא, מִשְׁנָה, and תַּלְמוּד",
+      "stepSummary": "A Baraita teaches the relative merits of studying מקרא, משנה, and תלמוד, concluding that one should always prioritize משנה over תלמוד.",
+      "whatsHappening": "The sugya opens with a Baraita establishing the hierarchy of Torah study. This is a setup line introducing a new textual source.",
+      "deeperAnalysis": "The Baraita assigns increasing merit to מִקְרָא, מִשְׁנָה, and תַּלְמוּד, with תַּלְמוּד being the greatest. However, it concludes with a surprising directive to always prioritize מִשְׁנָה over תַּלְמוּד, setting up the central tension of the sugya.",
+      "keyTerms": [
+        {
+          "term": "מִקְרָא",
+          "meaning": "Bible / Scripture"
+        },
+        {
+          "term": "מִשְׁנָה",
+          "meaning": "Mishna / Tannaitic law"
+        },
+        {
+          "term": "תַּלְמוּד",
+          "meaning": "Talmud / Gemara / advanced analysis"
+        },
+        {
+          "term": "מִדָּה",
+          "meaning": "measure / virtue / merit"
+        },
+        {
+          "term": "שָׂכָר",
+          "meaning": "reward"
+        }
+      ],
+      "whatToRemember": "The Baraita's final line is the key to the entire sugya's resolution.",
+      "confusionAlert": "The apparent contradiction is intentional and drives the Gemara's analysis.",
+      "whyThisMatters": "This establishes the foundational principle that foundational knowledge (מִשְׁנָה) takes precedence over advanced analysis (תַּלְמוּד) when necessary.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: הָעוֹסְקִין בְּמִקְרָא –",
+          "english": "The Sages taught: Those who engage in Scripture –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִדָּה וְאֵינָהּ מִדָּה, בַּמִּשְׁנָה –",
+          "english": "a measure but not a measure, in Mishna –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִדָּה וְנוֹטְלִין עָלֶיהָ שָׂכָר, בַּתַּלְמוּד –",
+          "english": "a measure and they take for it a wage, in Talmud –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין לָךְ מִדָּה גְּדוֹלָה מִזּוֹ,",
+          "english": "there is no measure greater than this,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד.",
+          "english": "and always be running to the Mishna more than the Talmud."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנָן: הָעוֹסְקִין בְּמִקְרָא – מִדָּה וְאֵינָהּ מִדָּה, בַּמִּשְׁנָה – מִדָּה וְנוֹטְלִין עָלֶיהָ שָׂכָר, בַּתַּלְמוּד – אֵין לְךָ מִדָּה גְדוֹלָה מִזּוֹ, וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:18:1",
+            "hebrew": "מדה - היא קצת:",
+            "english": "",
+            "takeaway": "רש״י explains that מדה here refers to a fixed, quantifiable measure of reward."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:18:2",
+            "hebrew": "ואינה מדה - שהמשנה וגמרא יפים ממנה מפני שתלוין בגירסא ומשתכחים שבימיהם לא היה גמרא בכתב וגם לא היה ניתן לכתוב אלא לפי שנתמעטו הלבבות התחילו דורות [אחרונים] לכתבו:",
+            "english": "",
+            "takeaway": "רש״י explains that מקרא lacks a fixed measure because it is inferior to משנה and גמרא, which rely on precise textual transmission (גירסא) and are prone to being forgotten, whereas מקרא was not originally written down and only later committed to text due to declining intellectual capacity."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 33a:18:3",
+            "hebrew": "גמרא - כבר פירשתי למעלה שהוא לתת לב להבין סתימות טעמי המשנה מה הם וכששתים סותרות זו את זו יבין לתרץ שיהיו שתיהן קיימות או לדעת דברי התנאים החלוקים בדבר ונימא הא מני פלוני חכם הוא:",
+            "english": "",
+            "takeaway": "רש״י defines גמרא as the intellectual effort to understand the hidden reasons behind משנה, resolve apparent contradictions to preserve both opinions, and attribute differing views to specific תנאים."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "קשיא",
+      "title": "The internal contradiction in the Baraita",
+      "stepSummary": "The Gemara challenges the Baraita for being self-contradictory: it first praises תלמוד as the greatest, then commands prioritizing משנה.",
+      "whatsHappening": "The Gemara flags a direct internal contradiction within the Baraita's own text. This is a setup line identifying the tension.",
+      "deeperAnalysis": "The Baraita claims תַּלְמוּד has no greater measure, yet immediately commands running to מִשְׁנָה more than תַּלְמוּד. This creates a logical clash: if תַּלְמוּד is supreme, why prioritize מִשְׁנָה?",
+      "keyTerms": [
+        {
+          "term": "הָא גּוּפָא קַשְׁיָא",
+          "meaning": "this itself is difficult / self-contradictory"
+        },
+        {
+          "term": "אָמַרְתָּ",
+          "meaning": "you said"
+        },
+        {
+          "term": "וַהֲדַר אָמַרְתָּ",
+          "meaning": "and then you said"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָא גוּפַאּ קַשְׁיָא.",
+          "english": "This very thing is difficult."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמְרַתְּ בַּתַּלְמוּד אֵין לְךָ מִדָּה גְּדוֹלָה מִזּוֹ,",
+          "english": "You said in the Talmud: There is no virtue greater than this,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲדַר אָמְרַתְּ:",
+          "english": "And then you said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד!",
+          "english": "And always be running to the Mishna more than the Talmud!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabbi Yoḥanan said:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָא גּוּפָא קַשְׁיָא. אָמַרְתָּ בַּתַּלְמוּד אֵין לְךָ מִדָּה גְדוֹלָה מִזּוֹ, וַהֲדַר אָמַרְתָּ: וּלְעוֹלָם הֱוֵי רָץ לַמִּשְׁנָה יוֹתֵר מִן הַתַּלְמוּד!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        77
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T19:06:01.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 223.5936922999681,
+      "structure": 3233.5305230999365,
+      "validate": 413.9874453995144,
+      "translate": 501.82597050012555,
+      "meforshim": 720.0525985999848,
+      "teaching": 1452.513658299984
+    }
+  }
+}

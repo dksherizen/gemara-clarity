@@ -1,0 +1,1229 @@
+{
+  "ref": "Bava Metzia 3a",
+  "masechet": "Bava_Metzia",
+  "daf": 3,
+  "amud": "a",
+  "mainTopic": "(continues) לעולם כסומכוס · לעולם כרבי יוסי · בין לרבנן ובין לרבי יוסי",
+  "overview": "(1) The Gemara reconciles the Mishnah with Somchos, who holds that money in doubt is divided without an oath, by distinguishing between cases of doubt and clear claims, or by noting the oath is a rabbinic enactment. (2) The Gemara reconciles the Mishnah with Rabbi Yosi, who holds that disputed money should be left until Elijah comes, by distinguishing between cases involving a thief and cases of mutual holding. (3) A discussion on the case of a shopkeeper and a worker, where both take an oath and collect from the employer, based on the employer's trust in the shopkeeper. (4) The Gemara analyzes Rabbi Chiya's teaching on partial admission and witnesses, exploring the kal vachomer logic of Rav Papa regarding why witnesses obligate an oath just as a partial admission does. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 2,
+      "topic": "(continues) לעולם כסומכוס",
+      "gist": "The Gemara reconciles the Mishnah with Somchos, who holds that money in doubt is divided without an oath, by distinguishing between cases of doubt and clear claims, or by noting the oath is a rabbinic enactment.",
+      "openingFormula": "לימא מתניתין דלא כסומכוס",
+      "firstStepNumber": 1,
+      "lastStepNumber": 1
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 3,
+      "endLine": 9,
+      "topic": "לעולם כרבי יוסי",
+      "gist": "The Gemara reconciles the Mishnah with Rabbi Yosi, who holds that disputed money should be left until Elijah comes, by distinguishing between cases involving a thief and cases of mutual holding.",
+      "openingFormula": "לימא מתניתין דלא כרבי יוסי",
+      "firstStepNumber": 2,
+      "lastStepNumber": 7
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 10,
+      "endLine": 13,
+      "topic": "בין לרבנן ובין לרבי יוסי",
+      "gist": "A discussion on the case of a shopkeeper and a worker, where both take an oath and collect from the employer, based on the employer's trust in the shopkeeper.",
+      "openingFormula": "בין לרבנן ובין לרבי יוסי",
+      "firstStepNumber": 8,
+      "lastStepNumber": 11
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 14,
+      "endLine": 18,
+      "topic": "תני רבי חייא מנה לי בידך",
+      "gist": "The Gemara analyzes Rabbi Chiya's teaching on partial admission and witnesses, exploring the kal vachomer logic of Rav Papa regarding why witnesses obligate an oath just as a partial admission does. — discussion continues into next amud.",
+      "openingFormula": "תני רבי חייא",
+      "firstStepNumber": 12,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution via שְׁבוּעָה מִדְּרַבָּנַן",
+      "stepSummary": "The Gemara resolves the challenge by stating that the oath is a rabbinic enactment to prevent people from seizing property.",
+      "whatsHappening": "The גמרא provides a final resolution by attributing the שְׁבוּעָה to a תַּקָּנַת חֲכָמִים. The oath is a rabbinic enactment to prevent property seizure.",
+      "deeperAnalysis": "This clarifies that the שְׁבוּעָה is not a biblical requirement. It resolves the challenge by showing the oath serves a different purpose than סוֹמְכוֹס's principle.",
+      "keyTerms": [
+        {
+          "term": "שְׁבוּעָה זוֹ מִדְּרַבָּנַן הִיא",
+          "meaning": "This oath is rabbinic in origin, not biblical."
+        },
+        {
+          "term": "תַּקָּנַת חֲכָמִים",
+          "meaning": "Enactment of the Sages, a rabbinic decree."
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲפִילּוּ תֵּימָא סוֹמְכוֹס,",
+          "english": "Even if you say Sumchus,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁבוּעָה זוֹ מִדְּרַבָּנַן הִיא כִּדְרַבִּי יוֹחָנָן.",
+          "english": "This oath is rabbinic, like Rabbi Yochanan."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמַר רַבִּי יוֹחָנָן:",
+          "english": "For Rabbi Yochanan said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שְׁבוּעָה זוֹ תַּקָּנַת חֲכָמִים הִיא,",
+          "english": "This oath is a rabbinic enactment,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁלֹּא יְהֵא כׇּל אֶחָד וְאֶחָד הוֹלֵךְ",
+          "english": "so that each and every one not go"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְתוֹקֵף בְּטַלִּיתוֹ שֶׁל חֲבֵירוֹ וְאוֹמֵר: שֶׁלִּי הוּא.",
+          "english": "and seize his friend's tallit and say: It is mine."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲפִילּוּ תֵּימָא סוֹמְכוֹס",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_challenge",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַבִּי יוֹסֵי's ruling on disputed funds",
+      "stepSummary": "The גמרא challenges the Mishnah's ruling that disputed money should be split, arguing it contradicts רבי יוסי's principle that disputed funds should remain untouched until Elijah comes.",
+      "whatsHappening": "The גמרא opens with a direct קשיא against the מִשְׁנָה's ruling. It cites רַבִּי יוֹסֵי's view that disputed funds should remain untouched until Elijah comes.",
+      "deeperAnalysis": "The מִשְׁנָה rules for splitting disputed money, but רַבִּי יוֹסֵי holds for leaving it untouched. The גמרא argues that if the מִשְׁנָה followed רַבִּי יוֹסֵי, it would not rule for splitting.",
+      "keyTerms": [
+        {
+          "term": "לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי יוֹסֵי",
+          "meaning": "We should derive that the מִשְׁנָה does not follow רַבִּי יוֹסֵי."
+        },
+        {
+          "term": "הַכֹּל יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "It all should be set aside until Elijah comes."
+        },
+        {
+          "term": "רַמַּאי",
+          "meaning": "Liar, a term used in the context of disputed claims."
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי יוֹסֵי,",
+          "english": "Let us say that our Mishnah is not according to Rabbi Yose,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי כְּרַבִּי יוֹסֵי – הָא אָמַר:",
+          "english": "For if it were according to Rabbi Yose — behold, he said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִם כֵּן מָה הִפְסִיד רַמַּאי?",
+          "english": "If so, what did the liar lose?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא הַכֹּל יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "Rather, let everything be set aside until Elijah comes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לֵימָא מַתְנִיתִין דְּלָא כְּרַבִּי יוֹסֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:3:1",
+            "hebrew": "דר' יוסי - לקמן בהמפקיד (בבא מציעא דף לז.): שנים שהפקידו אצל אחד זה מנה וזה מאתים זה אומר מאתים שלי וזה אומר מאתים שלי וקאמר ת\"ק נותן לזה מנה ולזה מנה והשאר יהא מונח עד שיבא אליהו אמר ר' יוסי א\"כ מה הפסיד הרמאי ולמה יודה הרי קיבל את שלו אלא הכל יהא מונח ויפסיד הרמאי וה\"נ יהא מונח:",
+            "english": "Of Rabbi Yose: Later in [the chapter entitled] HaMafkid (Bava Metzia 37a): Two people who deposited [money] with one person; this one deposited one hundred dinars and that one deposited two hundred dinars. This one says, \"The two hundred is mine\"; and that one says, \"The two hundred is mine,\" So the first teacher said, \"He gives one hundred dinars to this one and one hundred dinars to that one. And the rest of the money will remain (in keeping) until Elijah comes [to decide].\" Rabbi Yose said, \"If so, what did the swindler lose\" - and why should he confess; behold he received his [money]. \"Rather, all of it will remain until Elijah comes,\" so that the swindler will lose [something]. And here too, it should remain.",
+            "takeaway": "רש״י explains that רבי יוסי's ruling in בבא מציעא דף לז. regarding disputed deposits requires all funds to remain untouched until Elijah comes, so that the fraudulent claimant (רמאי) suffers a loss and is incentivized to confess, rather than receiving his original deposit through a split ruling."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The מִשְׁנָה follows רַבִּי יוֹסֵי by analogy to הַשְּׁאָר",
+      "stepSummary": "The גמרא resolves the challenge by arguing that the Mishnah's case is analogous to the 'remainder' in רבי יוסי's ruling, as both involve uncertainty.",
+      "whatsHappening": "The גמרא offers a תירוץ to the challenge. It argues that the מִשְׁנָה's case is similar to הַשְּׁאָר in רַבִּי יוֹסֵי's ruling.",
+      "deeperAnalysis": "The גמרא argues that since the רַבָּנַן rule that הַשְּׁאָר should be set aside, the מִשְׁנָה's case is similar due to uncertainty. This attempts to reconcile the מִשְׁנָה with רַבִּי יוֹסֵי's view.",
+      "keyTerms": [
+        {
+          "term": "הַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "The remainder will be set aside until Elijah comes."
+        },
+        {
+          "term": "כִּשְׁאָר דָּמֵי",
+          "meaning": "Similar to the remainder."
+        },
+        {
+          "term": "דִּסְפֵיקָא הִיא",
+          "meaning": "For it is unclear, indicating doubt."
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא מַאי רַבָּנַן –",
+          "english": "But what do the Rabbis say?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיוָן דְּאָמְרִי רַבָּנַן:",
+          "english": "Since the Rabbis say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״הַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ״,",
+          "english": "\"The remainder should be set aside until Elijah comes.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא נָמֵי כִּשְׁאָר דָּמֵי, דִּסְפֵיקָא הִיא!",
+          "english": "This too is like the remainder of money, which is a doubt!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא מַאי רַבָּנַן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:4:1",
+            "hebrew": "הא נמי כשאר דמיא - דהתם על מנה השני הם דנין ואלו דנין על הטלית כולה:",
+            "english": "As this is also comparable to the remainder: As there, they were judging about the second hundred dinars, whereas [here] they are judging about the whole garment.",
+            "takeaway": "רש״י explains that the analogy to the remainder works because in רבי יוסי's case the dispute is only over the second hundred dinars, whereas in the Mishnah's case the dispute is over the entire garment."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Certainty vs. Uncertainty in Ownership",
+      "stepSummary": "The גמרא challenges the resolution by arguing that the two cases are fundamentally different, as one involves certainty and the other uncertainty.",
+      "whatsHappening": "The גמרא challenges the previous analogy by highlighting a fundamental difference between the two cases. It argues that the depositors' case involves certainty, whereas the Mishnah's case involves uncertainty.",
+      "deeperAnalysis": "In the depositors' case, the money definitely belongs to one of them, making it a case of וַדַּאי. In the Mishnah's case, the money could belong to both, creating a state of uncertainty. This distinction undermines the validity of the earlier comparison.",
+      "keyTerms": [
+        {
+          "term": "הַאי מַאי",
+          "meaning": "What kind of comparison is this"
+        },
+        {
+          "term": "בִּשְׁלָמָא רַבָּנַן",
+          "meaning": "It is easy for the Rabbis"
+        },
+        {
+          "term": "וַדַּאי הַאי מָנֶה דְּחַד מִינַּיְיהוּ הוּא",
+          "meaning": "This maneh certainly belongs to one of them"
+        },
+        {
+          "term": "אִיכָּא לְמֵימַר דְּתַרְוַיְיהוּ הוּא",
+          "meaning": "It could be said that it belongs to both of them"
+        },
+        {
+          "term": "פָּלְגִי בִּשְׁבוּעָה",
+          "meaning": "To split it with an oath"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַאי מַאי? אִי אָמְרַתְּ בִּשְׁלָמָא רַבָּנַן,",
+          "english": "This — what is it? If you say, it is the Rabbis,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָתָם דְּוַדַּאי הַאי מָנֶה דְּחַד מִינַּיְיהוּ",
+          "english": "there, certainly this maneh belongs to one of them"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוּא אָמְרִי רַבָּנַן:",
+          "english": "they say: Let it be set aside until Elijah comes."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "Here, where it can be said that it belongs to both of them,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָכָא דְּאִיכָּא לְמֵימַר דְּתַרְוַיְיהוּ הוּא,",
+          "english": "they say: Split it with an oath."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמְרִי רַבָּנַן: פָּלְגִי בִּשְׁבוּעָה.",
+          "english": "But if you say, it is Rabbi Yosei,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ רַבִּי יוֹסֵי הִיא,",
+          "english": "now, how much more so there, where certainly there is a maneh"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הַשְׁתָּא וּמָה הָתָם דִּבְוַדַּאי אִיכָּא מָנֶה",
+          "english": "for one and there is a maneh for the other,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "לְמָר וְאִיכָּא מָנֶה לְמָר,",
+          "english": "Rabbi Yosei says: Let it be set aside until Elijah comes,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲמַר רַבִּי יוֹסֵי יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ,",
+          "english": "here, where it can be said that it belongs to one of them —"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הָכָא דְּאִיכָּא לְמֵימַר דְּחַד מִינַּיְיהוּ הוּא –",
+          "english": "all the more so!"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "לֹא כׇּל שֶׁכֵּן!",
+          "english": "all the more so!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַאי מַאי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:5:1",
+            "hebrew": "דחד מינייהו הוא - ואין לומר יחלוקו:",
+            "english": "Belong to one of them: Such that, \"They divide it,\" may not be said.",
+            "takeaway": "רש״י explains that in the case of the depositors, since the money certainly belongs to one of them, the rule of יחלוקו (they divide) does not apply."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:6:1",
+            "hebrew": "הכא דאיכא למימר דחד מינייהו הוא - ואין לחבירו חלק בה לא כ\"ש דלית ליה יחלוקו:",
+            "english": "Here, where it can be said that it all belongs to one of them: And his fellow has no portion in it - is it not all the more so that he does not subscribe [to the position that] they divide it.",
+            "takeaway": "רש״י clarifies that in the Mishnah's case, where it is possible the money belongs entirely to one person, it is even less likely that רבי יוסי would rule for them to divide it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Distinguishing Based on the Presence of a Liar",
+      "stepSummary": "The גמרא resolves the challenge by arguing that the Mishnah's case does not involve a liar, unlike the case of the depositors.",
+      "whatsHappening": "The גמרא offers a resolution by arguing that the Mishnah's case does not necessarily involve a liar. It distinguishes the two cases based on the presence or absence of a רַמַאי.",
+      "deeperAnalysis": "The depositors' case involves a liar, as one of them is lying about the amount deposited. The Mishnah's case, however, does not necessarily involve a liar, as both could be telling the truth. This distinction reconciles the Mishnah with רַבִּי יוֹסֵי's view.",
+      "keyTerms": [
+        {
+          "term": "אֲפִילּוּ תֵּימָא רַבִּי יוֹסֵי",
+          "meaning": "Even if you say it is Rabbi Yossi"
+        },
+        {
+          "term": "וַדַּאי אִיכָּא רַמַּאי",
+          "meaning": "There is certainly a liar"
+        },
+        {
+          "term": "מִי יֵימַר דְּאִיכָּא רַמַּאי",
+          "meaning": "Who can tell us that there is a liar"
+        },
+        {
+          "term": "תַּרְוַיְיהוּ בַּהֲדֵי הֲדָדֵי אַגְבְּהוּהָ",
+          "meaning": "They simultaneously picked it up"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲפִילּוּ תֵּימָא רַבִּי יוֹסֵי,",
+          "english": "Even if you say Rabbi Yosei,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָתָם – וַדַּאי אִיכָּא רַמַּאי,",
+          "english": "There – certainly there is a liar,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא מִי יֵימַר דְּאִיכָּא רַמַּאי?",
+          "english": "Here, will he say that there is a liar?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵימָא תַּרְוַיְיהוּ בַּהֲדֵי הֲדָדֵי אַגְבְּהוּהָ.",
+          "english": "Say both of them together with him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲפִילּוּ תֵּימָא רַבִּי יוֹסֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:7:1",
+            "hebrew": "התם ודאי איכא רמאי - לכך קניס ליה גם במה שהוא שלו בודאי אבל הכא אימור תרוייהו בהדי הדדי אגבהוה דליכא רמאי דכל חד סבור שהוא הגביה קודם:",
+            "english": "There, [in the case of the third hundred-zuz], there definitely is a cheater. The Gemara seeks to reconcile our Mishna with R’ Yose of the Mishna on 37a, where he says that when one of the two litigants gave a custodian two hundred zuz and the other gave him one hundred zuz and they are now disputing ownership of the third hundred-zuz. R’ Yose rules that the court impounds all the money and holds it in abeyance until Eliyahu comes and tells us which loitigant is telling the truth. The Gemara differentiates between our Mishna of 2a, where two are holding a garment and each claims that the garment is his and the Mishna about the third hundred-zuz on 37a. In the case of the third hundred-zuz, one of the litigants is definitely cheating, therefore, [the Rabanan] fined him by taking from him even that one hundred zuz which is definitely his. It is only the third hundred-zuz whose ownership is in doubt. We are certain that each of the litigants owns one hundred zuz and even so we take away one hundred zuz from each of the litigants. But here in 2a when the two litigants are holding a garment and each is claiming that he is the sole owner, I can say that both lifted it up together and the garment actually belongs to both, but there is no definite cheater, for each one believes that he lifted it up first.",
+            "takeaway": "תוספות explains that in the case of the third hundred-zuz, there is definitely a liar, so the court imposes a fine (קנס) by withholding even the money that is undoubtedly his, whereas in the Mishnah's case of the garment, there is no definite liar since both could have lifted it together, so no fine is applied."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative Resolution: Penalizing the Liar",
+      "stepSummary": "The גמרא offers an alternative resolution, arguing that רבי יוסי penalizes the liar in the depositors' case by confiscating their deposit.",
+      "whatsHappening": "The גמרא offers an alternative resolution by arguing that רַבִּי יוֹסֵי penalizes the liar in the depositors' case. This penalty is intended to prompt the liar to admit their lie.",
+      "deeperAnalysis": "רַבִּי יוֹסֵי confiscates the deposit from the liar, creating a financial loss that encourages them to confess. This alternative resolution attempts to reconcile the Mishnah with רַבִּי יוֹסֵי's view by distinguishing between the two cases based on the presence of a penalty for lying.",
+      "keyTerms": [
+        {
+          "term": "אִי נָמֵי",
+          "meaning": "Alternatively"
+        },
+        {
+          "term": "קָנֵיס לֵיהּ רַבִּי יוֹסֵי לְרַמַּאי",
+          "meaning": "Rabbi Yosei penalizes the swindler"
+        },
+        {
+          "term": "כִּי הֵיכִי דְּלוֹדֵי",
+          "meaning": "So that he will admit that he lied"
+        },
+        {
+          "term": "מַאי פְּסֵידָא אִית לֵיהּ דְּלוֹדֵי",
+          "meaning": "What loss would a swindler incur that would prompt him to admit that he is lying"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי נָמֵי: הָתָם קָנֵיס לֵיהּ רַבִּי יוֹסֵי לְרַמַּאי",
+          "english": "If so: There, Rabbi Yosei imposed a penalty on the swindler"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי הֵיכִי דְּלוֹדֵי,",
+          "english": "Just as in the case of the storekeeper,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא מַאי פְּסֵידָא אִית לֵיהּ דְּלוֹדֵי.",
+          "english": "Here, what loss does the storekeeper have?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי נָמֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "offers_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:8:1",
+            "hebrew": "מאי פסידא אית ליה - למי שאין לו חלק בה אם תהא מונחת:",
+            "english": "What loss is there to the one who does not have a portion in it, if it remains.",
+            "takeaway": "רש״י explains that the question 'מאי פסידא אית ליה דלודי' asks what loss the liar suffers if the disputed item is held in abeyance, since he has no legitimate claim to it anyway."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:8:2",
+            "hebrew": "דלודי - שאין לו חלק בה כשיודה מה יטול:",
+            "english": "To concede: Since he does not have a portion in it, what does he take when he concedes?",
+            "takeaway": "רש״י clarifies that 'דלודי' refers to the incentive to admit the truth, which is absent here because the liar gains nothing by confessing when he has no rightful portion in the item."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:8:1",
+            "hebrew": "אי נמי התם קניס כי היכי דלודי - אבל הכא אפילו איכא ודאי רמאי כגון שזה אומר אני מצאתיה היום וזה אומר אני מצאתיה אתמול מודה דיחלוקו ולא אמרינן יהא מונח עד שיבא אליהו דבשביל כך לא יפרוש דהא אינו מפסיד כלום:",
+            "english": "Alternatively, there [in R’ Yose’s case on 37a], he fines [the cheater] so that he should admit [that the third hundred-zuz is not his.] In that case we have leverage that will force the cheater to admit that the third hundred-zuz is not his. We are impounding not only the hundred zuz whose ownership is in doubt, but even the hundred zuz, which definitely belongs to the cheater. The cheater will ultimately realize that his attempt to cheat is costing him the one hundred zuz that is legitimately his and admit that he is wrong in order to retrieve his one hundred zuz, but here in our Mishna, even if there definitely is a cheater, for example when this one says I found it today and his opponent says, I found it yesterday. One of the two is definitely lying, but R’ Yose concedes that they should divide the garment, and we do not say that [the garment] should be held in abeyance until Eliyahu comes and tells us who the rightful owner is, because this will not cause the cheater to withdraw his claim, for he is not losing anything by the courts impounding the garment. It is not his and he is losing nothing. There is no point in holding the garment in abeyance.",
+            "takeaway": "תוספות explains that רבי יוסי penalizes the liar in the deposit case by impounding even the undisputed portion to force admission, but in this case of two claimants, even if one is definitely lying, רבי יוסי agrees they should divide the item rather than hold it in abeyance, because the liar loses nothing by the impoundment and thus has no incentive to withdraw his claim."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: Inapplicability to Buying and Selling",
+      "stepSummary": "The גמרא rejects the alternative resolution by arguing that it does not apply to cases of buying and selling, where both parties have an interest in the item.",
+      "whatsHappening": "The גמרא rejects the alternative resolution by arguing that it does not apply to cases of buying and selling. It sets up the final conclusion of the sugya.",
+      "deeperAnalysis": "The alternative resolution works well in the case of a found item, where the liar has no incentive to admit their lie. However, in cases of buying and selling, both parties have an interest in the item, so the alternative resolution does not apply. This rejection sets up the final conclusion of the sugya.",
+      "keyTerms": [
+        {
+          "term": "תִּינַח מְצִיאָה",
+          "meaning": "This distinction works out well in the case of a found item"
+        },
+        {
+          "term": "מִקָּח וּמִמְכָּר מַאי אִיכָּא לְמֵימַר",
+          "meaning": "But in a case of buying and selling, what is there to say"
+        },
+        {
+          "term": "מְחַוַּורְתָּא כִּדְשַׁנִּין מֵעִיקָּרָא",
+          "meaning": "Rather, the distinction is clearly as we explained initially"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תִּינַח מְצִיאָה, מִקָּח וּמִמְכָּר מַאי אִיכָּא לְמֵימַר?",
+          "english": "Let us set aside a found object; what is there to say regarding a purchase and sale?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא מְחַוַּורְתָּא כִּדְשַׁנִּין מֵעִיקָּרָא.",
+          "english": "Rather, the white garment is like the one we sanctify from the beginning."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תִּינַח מְצִיאָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:9:1",
+            "hebrew": "מקח וממכר מאי איכא למימר - הא אוקימנא דקיבל דמים מתרוייהו ואי הוה אמרינן יהא הטלית והדמים מונחים אית ליה פסידא לרמאי ויודה על האמת קודם שיפסיד:",
+            "english": "Buying and selling, what can be said: Behold we establish it to be when he received money from both of them. So if we say [to] let the garment and the money remain, there would be a loss to the swindler; so he would confess the truth before he loses.",
+            "takeaway": "רש״י explains that in cases of מקח וממכר, the swindler would confess the truth before losing the money he received, so the alternative resolution of leaving the item in abeyance does not work."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:9:1",
+            "hebrew": "אלא מחוורתא כדשנין מעיקרא - נוכל לומר דהדר ביה ולא סגי בטעמא דמפסיד הרמאי לבד דלא קניס ר' יוסי אלא היכא דאיכא ודאי רמאי ואית ליה פסידא אבל היכא דאיכא רמאי וליכא פסידא לא יקנוס כדמשמע לישנא דא\"כ מה הפסיד הרמאי מיהו לשון אלא משמע דהדר לגמרי וכן בסמוך דפריך בין לרבנן בין לרבי יוסי. נימא יהא מונח אף על גב דהתם לית ליה פסידא לרמאי:",
+            "english": "Rather, it is clear that our original answer [is correct]. We find in the Mishna on 37a that R’ Yose holds that when there is a dispute about the third hundred-zuz, we confiscate all the money, even the two hundred zuz that definitely belongs to each of the litigants and it is held in abeyance until Eliyahu comes and identifies the true owner. The Gemara argues that since R’ Yose holds that we must confiscate one hundred zuz that definitely belongs to the cheater, by kal v’chomer in our Mishna we should definitely not allow him to take even half of the disputed garment, since it might belong to his opponent. If we confiscate that which is definitely his, we certainly should not award him that which may belong to his opponent. The Gemara offers two possible answers to this question. There are two inherent differences between R’ Yose’s case and our Mishna that might result in a different ruling. A) In R’ Yose’s case we confiscate all the money, because one of the two litigants is definitely cheating and attempting to steal, but in our Mishna, it is not definite that either of the litigants is attempting to steal. It is conceivable that they both lifted up the garment simultaneously and that each one believes that he was first. Therefore, in our Mishna R’ Yose might agree that division of the garment is a valid solution. B) In R’ Yose’s case when we confiscate one hundred zuz that definitely belongs to the cheater, we are using it as leverage to force him to admit that he is the cheater. However, in our Mishna, there is no portion of the disputed funds that belongs exclusively to the cheater. We have no leverage that would compel him to confess. Even if we should leave the money in abeyance forever, the cheater is losing nothing. Therefore it is best to divide the garment between the two litigants. According to this answer, whenever we have the option of pressuring the cheater to confess by impounding the disputed property, there should be no division. Eventually, the Gemara shows that in one of the cases of our Mishna we do have leverage that would force the cheater to confess. That is in the case where they are disputing who purchased the garment, and each one paid the money for the garment to the seller. The seller actually has twice the price of the garment in his possession. The court can confiscate all the money with the garment and use it as leverage to persuade the cheater to confess. Since the Mishna rules that even in the case of a purchase, the garment is to be divided, obviously the Mishna does not hold that when one can pressure the cheater to confess, we do not divide the disputed property. If we take the approach of answer B), the Mishna cannot be reconciled with R’ Yose. The Gemara retracts from answer B) and holds that the first answer A) that R’ Yose rules in favor of confiscation only when one of the litigants is definitely cheating, is correct. Upon analysis of R’ Yose’s original statement on 37a, it appears that R’ Yose does hold that we should use available money to pressure the cheater into confessing. R’ Yose uses the phrase “if so, what will the cheater lose?”. This phrase seems to say that R’ Yose holds that confiscation is called for only when it can be used to pressure the cheater into confessing. When the Gemara says that we must reject answer B) in favor of answer A), we must ask - to what degree are we rejecting answer B)? Is it a total rejection or only a modified rejection? Do we say that pressuring the cheater to confess is not a factor at all, or do we say that it is not the only factor? Tosfos will explain how we might live with answer B) despite the Gemara’s refutation of this answer. We can say that [the Gemara] retracts from [answer B)] and it is insufficient to say that the reason for confiscation is dependent only on whether the cheater will lose because we have demonstrated that even when there is a way of pressuring the cheater to confess, such as when they are disputing who purchased the garment, our Mishna rules that the garment is to be divided. It is evident that our Mishna holds that when the litigants are not definitely attempting to cheat, we do not impound the disputed property. Even so, it is still possible to say, that R’ Yose does not penalize the litigants by impounding the disputed property only when both criteria are met: a) there is definitely a cheater, and b) the cheater will lose unless he confesses; but when there definitely is a cheater, but he will not incur a loss, such as when they are arguing about certain funds or property where there is no room for legitimate error, and there is nothing other than the disputed funds to confiscate, [R’ Yose] will not penalize the cheater by impounding the disputed property. A critical reading of the text seems to support this modified position: As it can be understood from the wording of R’ Yose’s statement “if so, that you confiscate only the third hundred-zuz, what will the cheater lose?”1Ultimately, Tosfos concludes that even when we cannot exert pressure on the cheater, the disputed property or money is to be impounded and held in abeyance until Eliyahu comes and identifies the true owner. If so, how do we explain the expression “If so, what will the cheater lose?”, which seems to be saying that we impound the funds only when this will exert pressure on the cheater to confess. See the digest at the end of our Maseches who quotes an answer from חכמת מנוח. He explains that R’ Yose is arguing that even though we might impound disputed funds even when there is no loss for the cheater, we certainly should take advantage of the opportunity to expound disputed funds when this can be used to exert pressure on the cheater. His argument to his opponents is that by returning one hundred zuz to each of the litigants, you are throwing away the advantage of using the one hundred zuz to coerce the cheater to confess. This does not mean that we impound money only when this condition exists, it merely means that we should take advantage of the opportunity when we have it. This expression indicates that R’ Yose’s ruling is only in effect when we can penalize the cheater by impounding something that is definitely his. This expression leans in favor of Tosfos’ position that when our Gemara rejects answer B) it is only saying that it is not the sole criteria for R’ Yose’s ruling, but this does not mean that it is not a criteria at all. A close look at the text of our Gemara indicates otherwise. However, the expression ‘אלא-rather’ in the heading of our Tosfos, indicates a total retraction of answer B). The word אלא says that we are rejecting approach B) entirely and that pressuring the cheater is not a criteria at all. Tosfos offers further proof that answer B) is totally rejected: The Gemara immediately following the words of our Tosfos: Both according to the Rabanan and R’ Yose, there in the case of a storekeeper who swears about the information in his records, where he claims he paid the worker as per the instructions of the householder and the worker claims he never received payment, where the Mishna taught - this one, the employee, swears and collects and that one, the storekeeper, swears and collects. The Gemara asks: How come we do not exact the disputed funds from the householder and they should be held in abeyance until Eliyahu comes and informs us who the true owner is? In this case there A) is a definite cheater. B) However, there are no funds to be used to pressure the cheater into confessing. Even so, the Gemara asks that we should confiscate the disputed funds. So too, in the adjoining passage, [the Gemara] asks: Both according to the Rabanan who favor impounding only the third hundred-zuz whose ownership is disputed, and according to R’ Yose2On the surface, this seems to be an extremely strong question on Tosfos proposal that both elements are required - A) a definitye cheater, and B) the ability to pressure the cheater. See 41 אילת השחר by Moreinu R’ Aharon Leib Shteinman שליט\"א who explains how this may not be such a strong question. who rules that all three hundred zuz must be impounded, we should say in the case of the storekeeper whose records show that he was asked by the householder to pay his employee and that he did as instructed, we should impound the payment from the householder and it should be held in abeyance until Eliyahu comes and informs us who the rightful owner is, even though there would be no loss for the cheater. It is evident that the Gemara’s conclusion was that causing the cheater a loss is not a factor at all. We rule that disputed funds are impounded based on one criterion - is there a definite cheater or not?",
+            "takeaway": "תוספות explains that רבי יוסי only penalizes a definite swindler who suffers a loss, but in cases where there is no definite swindler or no loss, he does not penalize, and the term אלא indicates a complete return to the original answer."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "The Case of the Shopkeeper and the Worker",
+      "stepSummary": "The Gemara introduces the case of a shopkeeper and a worker both claiming payment from the employer, where both take an oath and collect.",
+      "whatsHappening": "The גמרא sets up the scenario of a shopkeeper and a worker both claiming payment from the employer. It establishes that both take an oath and collect.",
+      "deeperAnalysis": "This line introduces the specific case of a shopkeeper and a worker, both claiming payment from the employer. It establishes the ruling that both take an oath and collect, setting the stage for the subsequent question about why the money is not held.",
+      "keyTerms": [
+        {
+          "term": "חֶנְוָנִי",
+          "meaning": "shopkeeper"
+        },
+        {
+          "term": "פִּנְקָסוֹ",
+          "meaning": "his ledger"
+        },
+        {
+          "term": "נִשְׁבַּע וְנוֹטֵל",
+          "meaning": "takes an oath and collects"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בֵּין לְרַבָּנַן וּבֵין לְרַבִּי יוֹסֵי,",
+          "english": "Between the Sages and between Rabbi Yose,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָתָם גַּבֵּי חֶנְוָנִי עַל פִּנְקָסוֹ דְּקָתָנֵי:",
+          "english": "There, regarding a storekeeper on his ledger of small items:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "זֶה נִשְׁבָּע וְנוֹטֵל,",
+          "english": "This one takes an oath and takes,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְזֶה נִשְׁבָּע וְנוֹטֵל.",
+          "english": "And this one takes an oath and takes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בֵּין לְרַבָּנַן וּבֵין לְרַבִּי יוֹסֵי, הָתָם גַּבֵּי חֶנְוָנִי עַל פִּנְקָסוֹ דְּקָתָנֵי: זֶה נִשְׁבָּע וְנוֹטֵל, וְזֶה נִשְׁבָּע וְנוֹטֵל.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:10:1",
+            "hebrew": "גבי חנוני נמי יהא מונח - לר\"ע דאמר (יבמות דף קיח:) בלקח מחמשה ואינו יודע מאיזה מהם לקח נותן לכאו\"א לא פריך אמאי נותן לכאו\"א יהא מונח דהתם הוה ליה למדכר ואיהו דאפסיד אנפשיה:",
+            "english": "Regarding the shopkeeper concerning his ledger, let us take the money from the householder and hold it in abeyance until Eliyahu comes. The Gemara seems to be searching for cases where we do not apply the ruling - it should be held in abeyance. Tosfos holds that there is another case where this ruling could be applied. The Gemara should have placed it on the table as well. The Mishna in Yevamos 118b speaks of a person who stole from one of five people. Each of the five claims that he was the victim and is entitled to be paid. R’ Akiva holds that the thief must pay each of the five possible victims in order to be definitely free from sin. Within the text of the Gemara there, it is evident that some hold that R’ Akiva’s ruling is in effect even for one who purchased from one of five people and they are each claiming that they were the seller. In order to be free of sin, one must pay to all of the possible sellers. Tosfos is referring to this opinion in the Gemara in Yevamos 118b. According to R’ Akiva who says (Yevamos 118b): When one purchased from one of five people and he does not know from which one of them he purchased, and each one of them claims that he was the seller, he must pay to each and every one of them, [the Gemara] does not ask: Why must he pay to each and every one who claims that he was the seller? We should rule that [the payment] should be taken from the buyer and held in abeyance until Eliyahu comes and identifies the true seller, as the Gemara says here in regard to the case of the storekeeper? Because there the buyer was negligent, he should have remembered from whom he purchased the article. By his negligence he damaged himself and must pay each of those who claims to be the buyer. At this point in the dialogue of our Gemara, the Gemara does not believe that the householder was negligent and therefore suggests that the money be taken from him and held in abeyance.",
+            "takeaway": "תוספות explains that the Gemara does not ask why the money should be held in abeyance in the case of a buyer who purchased from one of five sellers, because the buyer was negligent and should have remembered which seller he bought from, thus causing his own loss."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Why Not Hold the Money?",
+      "stepSummary": "The Gemara challenges why the money is not held until Elijah comes, given that there is certainly a swindler among the litigants.",
+      "whatsHappening": "The גמרא questions why the money is not held until the matter is clarified. It points out that there is certainly a swindler among the litigants.",
+      "deeperAnalysis": "This line presents a challenge to the ruling in the previous step. It argues that since one of the parties must be lying, the money should be held until Elijah comes to resolve the matter. This sets up the need for a resolution.",
+      "keyTerms": [
+        {
+          "term": "נַפְקֵיהּ לְמָמוֹנָא",
+          "meaning": "appropriate the money"
+        },
+        {
+          "term": "מוּנָח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "placed in a safe place until Elijah comes"
+        },
+        {
+          "term": "רַמַאי",
+          "meaning": "swindler"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי שְׁנָא דְּלָא אָמְרִינַן נַפְּקֵיהּ לְמָמוֹנָא מִבַּעַל הַבַּיִת,",
+          "english": "What is the difference that we do not say: Take it out from the homeowner's money,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וִיהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ,",
+          "english": "and let it be set aside until Elijah comes,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּהָא בְּוַדַּאי אִיכָּא רַמַּאי!",
+          "english": "for there is certainly a swindler!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי שְׁנָא דְלָא אָמְרִינַן נַפְקֵיהּ לְמָמוֹנָא מִבַּעַל הַבַּיִת, וִיהֵא מוּנָח עַד שֶׁיָּבֹא אֵלִיָּהוּ, דְהָא בְוַדַאי אִכָּא רַמַאי!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "challenges_previous"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "The Shopkeeper's Argument",
+      "stepSummary": "The Gemara resolves the challenge by explaining that the shopkeeper can argue that he acted as the employer's agent and has no dealings with the worker.",
+      "whatsHappening": "The גמרא provides a resolution by explaining the shopkeeper's argument that he acted as the employer's agent. He has no dealings with the worker.",
+      "deeperAnalysis": "This line resolves the challenge by explaining that the shopkeeper can argue that he acted as the employer's agent. Since the employer did not specify that the shopkeeper should give the food in the presence of witnesses, the shopkeeper is not responsible for the worker's oath. This shifts the responsibility to the employer.",
+      "keyTerms": [
+        {
+          "term": "שְׁלִיחוּתָא",
+          "meaning": "agency"
+        },
+        {
+          "term": "מַאי אִית לִי גַּבֵּי שָׂכִיר",
+          "meaning": "what business do I have with the hired laborer"
+        },
+        {
+          "term": "לָא מְהֵימַן לִי בִּשְׁבוּעָה",
+          "meaning": "he is not trustworthy to me by virtue of his oath"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרִי הָתָם,",
+          "english": "They say there,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַיְינוּ טַעְמָא דְּאָמַר לֵיהּ חֶנְוָנִי לְבַעַל הַבַּיִת:",
+          "english": "This is the reason that he said to the storekeeper:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲנָא שְׁלִיחוּתָא דִידָךְ קָא עָבְדִינָא,",
+          "english": "I am doing your agency,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאי אִית לִי גַּבֵּי שָׂכִיר,",
+          "english": "What do I have with the hired laborer?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף עַל גַּב דְּקָא מִשְׁתְּבַע לִי,",
+          "english": "Even though he is taking an oath to me,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָא מְהֵימַן לִי בִּשְׁבוּעָה, אַתְּ הֶאֱמַנְתֵּיהּ,",
+          "english": "He is not trustworthy to me by his oath, you trusted him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּלָא אֲמַרְתְּ לִי בְּסָהֲדֵי הַב לֵיהּ.",
+          "english": "That you did not say to me in the presence of witnesses give it to…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרִי הָתָם, הַיְינוּ טַעְמָא דְאָמַר לֵיהּ חֶנְוָנִי לְבַעַל הַבַּיִת: אֲנָא שְׁלִיחוּתָא דִידָךְ קָא עָבְדִינָא, מַאי אִית לִי גַּבֵּי שָׂכִיר, אַף עַל גַּב דְקָא מִשְׁתְּבַע לִי, לָא מְהֵימַן לִי בִּשְׁבוּעָה, אַתְּ הֶאֱמַנְתֵּיהּ, דְלָא אֲמַרְתְּ לִי בְסָהֲדֵי הַב לֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:12:1",
+            "hebrew": "התם היינו טעמא - דשניהם נשבעין ונוטלין דחנוני אומר לבעל הבית אנא שליחותא דידך עבדי ונתתי לפועלך ממון שצויתני:",
+            "english": "There, this is the reason, both of them make an oath and take: Because the storekeeper can say to the homeowner, \"I carried out your agency that you ordered me and gave the money to your worker.\"",
+            "takeaway": "רש״י explains that the shopkeeper's defense is that he acted as the employer's agent, fulfilling the employer's command to give the money to the worker."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:12:2",
+            "hebrew": "מאי אית לי גבי שכיר - לערער:",
+            "english": "What [business] do I have with the hired laborer to challenge [his claim].",
+            "takeaway": "רש״י clarifies that the shopkeeper has no standing to challenge the worker's claim directly."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:12:3",
+            "hebrew": "לא מהימן לי - איני מאמינו בשבועה אני אומר שהוא רשע ואין לי להאמין אדם בשבועה על כרחי אלא אם כן האמנתיו מתחילה להפקיד אצלו או להתנות עמו:",
+            "english": "He is not trustworthy to me: I do not trust him with an oath; I say that he is evil. And I do not have to trust a person with an oath against my will, unless I trusted him from the beginning, to deposit [something] with him or to make a stipulation with him.",
+            "takeaway": "רש״י explains that the shopkeeper is not obligated to trust the worker's oath unless he initially established a relationship of trust, such as a deposit or a prior agreement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:12:4",
+            "hebrew": "את הימנתיה - ואתה הוא שקילקלת ואין לי להפסיד בקלקולך שיהיו מעותי מונחין עד שיבא אליהו:",
+            "english": "You trusted him: And you are the one who fouled up, so I should not have to lose through your fouling up, such that my money should remain until Eliyahu comes.",
+            "takeaway": "רש״י states that the employer is responsible for the situation because he trusted the worker without witnesses, and the shopkeeper should not suffer a loss due to the employer's negligence."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:12:1",
+            "hebrew": "ולא אמרת לי הב ליה בסהדי - תימה לימא ליה בעל הבית לתקוני שדרתיך ולא לעוותי אע\"ג דלא אמר ליה הב ליה בסהדי היה לו מעצמו להשים על לב כדאמרינן בפ' הכותב (כתובות דף פה.) גבי אבימי דהוי מסקי ביה זוזי בי חוזאי ושדרינהו ביד (רבא) ופרענהו ואמר להו הב לי שטרא ואמרו ליה הנך סטראי נינהו ומסיק התם דלא שנא א\"ל שקול שטרא והב להו זוזי ולא שנא הב זוזי ושקול שטרא מחייב השליח משום דאמר ליה לתקוני שדרתיך ולא לעוותי וי\"ל דהתם כיון דהזכיר לקיחת השטר כאילו אומר עשה באותו ענין שיבא השטר לידך אבל הכא לא הזכיר עדים כלל:",
+            "english": "You did not instruct me to give him [his wages] with witnesses. It is because of your negligence in not telling me to pay your employee in the presence of witnesses that we now have this problem. I, the storekeeper, need not suffer for your negligence by the court impounding your money. The Gemara seems to accept this argument that it was incumbent upon the householder to instruct the storekeeper to pay only in the presence of witnesses. We do not expect the storekeeper to suspect that the employee might attempt to cheat and the storekeeper should have thought of using witnesses on his own. Tosfos will now present a Gemara in Kesubos 85a, where it seems that an agent, even if not specifically instructed, is expected to use his good sense to assure that his payment will free the principal from having to pay again. This is bewildering! Let the householder say to the storekeeper, I made you an agent to pay my employee for my benefit, so that I would no longer be liable to pay, but not for my detriment, to pay the employee without documentation of the payment. Even though [the householder] did not specifically tell [the storekeeper]: Pay him in the presence of witnesses, on his own [the storekeeper] should have exercised caution and should not have paid unless witnesses were present. Where do we see that it is incumbent on the agent to consider the possibility that the recipient might deny that he was paid? As [the Gemara] says in Perek Hakosev (Kesubos 85a) in regard to Avimi who owed money to the people of Bei Chozai. He sent [payment] in the hands of Chama son of Rabah bar Abuhu and he paid [the people of Bei Chozai]. [Chama] said to them: Give me the document so that you will not be able to collect again. They said to [Chama]: The money that you paid was for another debt. Avimi still owes us money to satisfy the debt of this document. We will not return it to you. Chama had obviously been deceived into paying the debt without destroying the document and the people of Bei Chozai would again collect the debt of the document. Who must assume the loss, Avimi the principal or Chama the agent? The Gemara there concludes that no matter whether [Avimi] told [Chama]: Take the document and then pay, or whether he said: Pay the money and take the document, the agent Chama, is liable, because [Avimi] can say to [Chama] I sent you for my benefit not for my detriment. You were obliged to use common sense and make sure to take back the document so that I would not have to pay again. So too, in the case of the storekeeper who paid the employee for the benefit of the householder, it should be incumbent on the storekeeper to pay the employee his wages in a way that would not subject the householder to pay a second time. We can answer: That there in Kesubos 85a, since [Avimi] mentioned that Chama should take back the document, it is as if he said: Do this in a way that the document will come into your possession and I will not have to pay again, but here [the householder] did not mention witnesses at all. In the absence of even a mention that there might be a problem with the employee’s honesty, the storekeeper did not have to anticipate that he might eventually deny that he was paid. In Avimi’s case, it was brought o Chama’s attention that the people of Chozai might be dishonest and attempt to secure payment a second time. It was incumbent upon Chama to exercise caution and be sure that he had the document in his hands before paying the cash.",
+            "takeaway": "תוספות questions why the shopkeeper cannot argue that he was sent to benefit the employer, not to harm him, and thus should have independently ensured payment was witnessed, citing a parallel case in כתובות where an agent is expected to secure documentation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges the Gemara's acceptance of the shopkeeper's defense by arguing that an agent should inherently act to protect the principal's interests, implying the shopkeeper should have demanded witnesses on his own initiative, unlike רש״י who simply explains the shopkeeper's lack of obligation to trust the worker's oath without prior arrangement."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "The Worker's Argument",
+      "stepSummary": "The Gemara further resolves the challenge by explaining that the worker can argue that he worked for the employer and has no dealings with the shopkeeper.",
+      "whatsHappening": "The גמרא provides a further resolution by explaining the worker's argument that he worked for the employer. He has no dealings with the shopkeeper.",
+      "deeperAnalysis": "This line completes the resolution by explaining that the worker can also argue that he worked for the employer. Since the employer did not specify that the worker should receive payment from the shopkeeper, the worker is not responsible for the shopkeeper's oath. This shifts the responsibility to the employer, leading to the conclusion that both take an oath and collect from the employer.",
+      "keyTerms": [
+        {
+          "term": "עֲבַדִי עֲבִידְתָּא גַּבָּךְ",
+          "meaning": "I worked for you"
+        },
+        {
+          "term": "מַאי אִית לִי גַּבֵּי חֶנְוָנִי",
+          "meaning": "what relationship do I have with the storekeeper"
+        },
+        {
+          "term": "תַּרְוַיְיהוּ מִשְׁתַּבְעִי וְשָׁקְלִי",
+          "meaning": "both take an oath and take payment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְשָׂכִיר נָמֵי אָמַר לֵיהּ לְבַעַל הַבַּיִת:",
+          "english": "And the hired laborer also said to the employer:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲנָא עֲבַדִי עֲבִידְתָּא גַּבָּךְ,",
+          "english": "I did work for you,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי אִית לִי גַּבֵּי חֶנְוָנִי,",
+          "english": "What do I have with the storekeeper?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַף עַל גַּב דְּמִשְׁתְּבַע לִי לָא מְהֵימָן לִי.",
+          "english": "Even though he is obligated to me, he is not trustworthy to me."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הִלְכָּךְ, תַּרְוַיְיהוּ מִשְׁתַּבְעִי וְשָׁקְלִי מִבַּעַל הַבַּיִת.",
+          "english": "Therefore, both take an oath and take from the employer."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְשָׂכִיר נָמֵי אָמַר לֵיהּ לְבַעַל הַבַּיִת: אֲנָא עֲבַדִי עֲבִידְתָּא גַּבָּךְ, מַאי אִית לִי גַּבֵּי חֶנְוָנִי, אַף עַל גַּב דְמִשְׁתְּבַע לִי לָא מְהֵימָן לִי. הִלְכָךְ, תַּרְוַיְיהוּ מִשְׁתַּבְעִי וְשָׁקְלִי מִבַּעַל הַבַּיִת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "completes_resolution"
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי חִיָּה's teaching on partial admission via witnesses",
+      "stepSummary": "The Gemara introduces a baraita of Rabbi Chiya stating that when witnesses testify to a partial debt, the defendant pays the admitted amount and takes an oath on the remainder, derived via a kal vachomer from the rule of partial admission.",
+      "whatsHappening": "The גמרא introduces a ברייתא from רַבִּי חִיָּה establishing that witnesses testifying to a partial debt obligate an oath on the remainder. This is a setup line introducing a new source.",
+      "deeperAnalysis": "The ברייתא rules that witnesses obligate an oath just as a partial admission does. The derivation is a קַל וָחוֹמֶר: if a defendant's own words obligate an oath, witnesses should certainly do so. The principle is that הוֹדָאַת פִּיו should not be greater than הַעֲדָאַת עֵדִים.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי חִיָּה",
+          "meaning": "Rabbi Chiya, the Tanna"
+        },
+        {
+          "term": "הוֹדָאַת פִּיו",
+          "meaning": "Admission of his mouth"
+        },
+        {
+          "term": "הַעֲדָאַת עֵדִים",
+          "meaning": "Testimony of witnesses"
+        }
+      ],
+      "whatToRemember": "The core principle: הוֹדָאַת פִּיו גְדוֹלָה מֵהַעֲדָאַת עֵדִים — the admission of the mouth should not be greater than the testimony of witnesses.",
+      "whyThisMatters": "This establishes the legal equivalence between a partial admission and partial witness testimony regarding the obligation to take an oath.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנֵי רַבִּי חִיָּיא:",
+          "english": "Rabbi Hiyya taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָנֶה לִי בְּיָדְךָ, וְהַלָּה אוֹמֵר:",
+          "english": "A maneh is in your hand, and the other says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין לְךָ בְּיָדִי כְּלוּם,",
+          "english": "You have nothing in my hand,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָעֵדִים מְעִידִים אוֹתוֹ שֶׁיֵּשׁ לוֹ חֲמִשִּׁים זוּז –",
+          "english": "and the witnesses testify that he has fifty zuz –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נוֹתֵן לוֹ חֲמִשִּׁים זוּז,",
+          "english": "he gives him fifty zuz,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְיִשָּׁבַע עַל הַשְּׁאָר.",
+          "english": "and he swears on the remainder."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שֶׁלֹּא תְּהֵא הוֹדָאַת פִּיו גְּדוֹלָה מֵהַעֲדָאַת עֵדִים,",
+          "english": "That the admission of his mouth not be greater than the testimony of witnesses,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִקַּל וָחוֹמֶר.",
+          "english": "from a kal vachomer."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנֵי רַבִּי חִיָּיא: מָנֶה לִי בְּיָדְךָ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:14:1",
+            "hebrew": "וישבע על השאר - כדין מודה מקצת הטענה שאמרה תורה ישבע כדילפינן בשבועות (דף לט:) מכי הוא זה ואע\"ג דזה לא הודה הרי יש עדים במקצת ולא תהא הודאת פיו גדולה לחייבו על השאר שבועה מהעדאת עדים:",
+            "english": "",
+            "takeaway": "רש״י explains that the defendant must take an oath on the remainder according to the law of מודה מקצת, derived from שבועות, because the testimony of witnesses to part of the debt is treated like a partial admission, ensuring that הודאת פיו is not greater than העדאת עדים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:15:1",
+            "hebrew": "מקל וחומר - לקמן מפרש מאי ק\"ו:",
+            "english": "",
+            "takeaway": "רש״י notes that the kal vachomer mentioned here will be explained further down in the Gemara."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah of two holding a garment",
+      "stepSummary": "The Gemara challenges Rabbi Chiya's baraita by citing the Mishnah of two holding a garment, where witnesses (the physical grasp) testify to partial ownership, yet an oath is still required, seemingly contradicting the need for a kal vachomer.",
+      "whatsHappening": "The גמרא raises a difficulty against the ברייתא's derivation. It points to a case where witnesses effectively testify to partial ownership, yet an oath is still required.",
+      "deeperAnalysis": "The גמרא cites the משנה of שְׁנַיִם אוֹחֲזִין בְּטַלִּית. In that case, the physical grasp acts as witnesses that each person owns what they hold. This is a case of partial witness testimony. Yet the משנה rules that they take an oath. If witnesses obligate an oath via קַל וָחוֹמֶר, why is the משנה's case different?",
+      "keyTerms": [
+        {
+          "term": "שְׁנַיִם אוֹחֲזִין בְּטַלִּית",
+          "meaning": "Two holding a garment"
+        },
+        {
+          "term": "תְּפִיסָה",
+          "meaning": "Physical grasp/holding"
+        },
+        {
+          "term": "אֲנַן סָהֲדִי",
+          "meaning": "We are witnesses"
+        }
+      ],
+      "whyThisMatters": "This challenge forces the גמרא to clarify the exact nature of the קַל וָחוֹמֶר and why it is needed.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְתַנָּא תּוּנָא:",
+          "english": "And the tanna also taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁנַיִם אוֹחֲזִין בְּטַלִּית זֶה אוֹמֵר אֲנִי מְצָאתִיהָ וְכוּ׳.",
+          "english": "Two holding a tallit, this one says: I found it, etc."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָא הָכָא כֵּיוָן דְּתָפֵיס,",
+          "english": "And here, since he has seized"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲנַן סָהֲדִי דְּמַאי דְּתָפֵיס הַאי דִּידֵיהּ הוּא,",
+          "english": "We are witnesses that what this one seized is his,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמַאי דְּתָפֵיס הַאי דִּידֵיהּ הוּא, וְקָתָנֵי: יִשָּׁבַע!",
+          "english": "and what that one seized is his, and it teaches: Let him swear!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְתַנָּא תּוּנָא: שְׁנַיִם אוֹחֲזִין בְּטַלִּית",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:16:1",
+            "hebrew": "ותנא תונא - ותנא דידן סייעתא לדידי:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara cites the Mishnah of שְׁנַיִם אוֹחֲזִין בְּטַלִּית as a supporting proof (סייעתא) for the current argument."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:16:2",
+            "hebrew": "זה אומר כו' - וקתני שניהם ישבעו:",
+            "english": "",
+            "takeaway": "רש״י notes that the Mishnah concludes that both parties must take an oath (שניהם ישבעו)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:16:3",
+            "hebrew": "אנן סהדי דמה דתפס האי - היינו פלגא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the physical grasp (תְּפִיסָה) serves as witness testimony that each person owns half of the garment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:16:4",
+            "hebrew": "דידיה הוא - שהרי מוחזק הוא בפנינו והרי הוא תובע את כולה וחבירו כופר את כולה שאומר כולה שלי ואף מה שאתה תפוס בידך ואנו מעידין אותו שיש לו בה מקצת ומחייבים את חבירו שבועה על השאר דהיינו חצי שעיכב לעצמו:",
+            "english": "",
+            "takeaway": "רש״י explains that since each person is in possession of half and claims the whole, while the other denies the whole claim, the witnesses testify to partial ownership, thereby obligating an oath on the remaining half."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Clarifying the need for the קַל וָחוֹמֶר",
+      "stepSummary": "The Gemara explains that the kal vachomer is necessary to prevent the assumption that only a partial admission obligates an oath based on Rabba's reasoning about human psychology.",
+      "whatsHappening": "The גמרא resolves the difficulty by explaining the specific assumption the קַל וָחוֹמֶר is meant to counter. It introduces רַבָּה's psychological explanation for why a partial admission obligates an oath.",
+      "deeperAnalysis": "The גמרא asks what the קַל וָחוֹמֶר teaches. It prevents the assumption that only a partial admission obligates an oath because of רַבָּה's reasoning. רַבָּה explains that a person doesn't deny the whole debt because he doesn't want to be insolent in front of his creditor. He admits part to avoid looking insolent, but denies the rest because he hopes to pay later. The תורה imposes an oath to force full admission. However, this psychological reasoning doesn't apply to witnesses. If witnesses testify, the defendant might be completely dishonest, and his oath would be worthless. Therefore, the קַל וָחוֹמֶר is needed to obligate an oath even when witnesses are involved, overriding the assumption that only admission triggers an oath.",
+      "keyTerms": [
+        {
+          "term": "חֲזָקָה אֵין אָדָם מֵעִיז פָּנָיו",
+          "meaning": "Presumption that a person doesn't act insolently"
+        },
+        {
+          "term": "רַבָּה",
+          "meaning": "Rabba, the Amora"
+        },
+        {
+          "term": "אִשְׁתְּמוֹטֵי",
+          "meaning": "Evading/withholding"
+        }
+      ],
+      "whatToRemember": "רַבָּה's reasoning: חֲזָקָה אֵין אָדָם מֵעִיז פָּנָיו בִּפְנֵי בַּעַל חוֹבוֹ — a person doesn't act insolently in front of his creditor.",
+      "whyThisMatters": "This clarifies the unique role of the קַל וָחוֹמֶר in extending the oath obligation to cases of witness testimony.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי ״שֶׁלֹּא תְּהֵא הוֹדָאַת פִּיו גְּדוֹלָה",
+          "english": "What is 'that the admission of his mouth should not be greater"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מֵהַעֲדָאַת עֵדִים מִקַּל וָחוֹמֶר״?",
+          "english": "than the testimony of witnesses, from a kal vachomer?'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁלֹּא תֹּאמַר הוֹדָאַת פִּיו הוּא דְּרַמְיָא",
+          "english": "That you should not say that the admission of his mouth, he is one who…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַחֲמָנָא שְׁבוּעָה עֲלֵיהּ כִּדְרַבָּה. דְּאָמַר רַבָּה:",
+          "english": "the Merciful One imposed an oath upon him, as Rabba said."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִפְּנֵי מָה אָמְרָה תּוֹרָה מוֹדֶה מִקְצָת הַטַּעֲנָה יִשָּׁבַע?",
+          "english": "For what reason did the Torah say: one who admits part of the claim shall take an oath?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חֲזָקָה אֵין אָדָם מֵעִיז פָּנָיו בִּפְנֵי בַּעַל חוֹבוֹ,",
+          "english": "There is a presumption that a person does not embolden his face before his creditor,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְהַאי בְּכוּלֵּיהּ בָּעֵי דְּנִכְפְּרֵיהּ,",
+          "english": "and this one in all of it wants that he exempt him,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְהָא דְּלָא כַּפְרֵיהּ –",
+          "english": "and this that he did not exempt him –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִשּׁוּם דְּאֵין אָדָם מֵעִיז פָּנָיו וְהַאי",
+          "english": "because a person does not embolden his face, and this one"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "בְּכוּלֵּיהּ בָּעֵי דְּלוֹדֵי לֵיהּ.",
+          "english": "in all of it wants that he admit to him."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְהַאי דְּלָא אוֹדִי –",
+          "english": "And this that he did not admit –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אִשְׁתְּמוֹטֵי הוּא דְּקָא מִישְׁתְּמֵט מִינֵּיהּ, סָבַר:",
+          "english": "He is one who is hiding from him, he thought:"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "עַד דְּהָווּ לִי זוּזִי וּפָרַעְנָא לֵיהּ, וְאָמַר רַחֲמָנָא:",
+          "english": "Until I have coins and I pay him, and the Merciful One said:"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "רְמִי שְׁבוּעָה עֲלֵיהּ כִּי הֵיכִי דְּלוֹדֵי לֵיהּ בְּכוּלֵּיהּ,",
+          "english": "He throws an oath upon him so that he admit to him in all of it,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "אֲבָל הַעֲדָאַת עֵדִים,",
+          "english": "but the testimony of witnesses,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "דְּלֵיכָּא לְמֵימַר הָכִי – אֵימָא לָא.",
+          "english": "where one cannot say so – let us say no."
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "קָא מַשְׁמַע לַן קַל וָחוֹמֶר.",
+          "english": "It teaches us a kal vachomer."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי ״שֶׁלֹּא תֵּהֵא הוֹדָאַת פִּיו גְדוֹלָה מֵהַעֲדָאַת עֵדִים מִקַּל וָחוֹמֶר״?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        36
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:17:1",
+            "hebrew": "מאי לא תהא הודאת פיו גדולה מהעדאת עדים - מהיכי תיתי לן למידק דתיסק אדעתין דתהא הודאת פיו גדולה מהעדאת עדים דאיצטריך לתנא למילף מק\"ו דלא תהא הודאת פיו גדולה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question 'מאי לא תהא הודאת פיו גדולה מהעדאת עדים' seeks to understand the initial assumption that would require the kal vachomer to teach that a partial admission is not greater than witness testimony."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 3a:18:1",
+            "hebrew": "מפני מה אמרה תורה כו' - ולא חשבו כמשיב אבידה לפטרו שלא כפר בכולו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rabba's reasoning for the oath in מודה מקצת is not based on the defendant being treated like one who returns a lost item (משיב אבידה) because he didn't deny the entire claim."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 3a:18:1",
+            "hebrew": "מפני מה אמרה תורה כו' - פי' יהא נאמן במגו דאי בעי כופר הכל או נילף מהכא דלא נימא מגו בעלמא ומשני דאין זה מגו דאין אדם מעיז פניו לכפור הכל הואיל וחבירו מכיר בשקרו אבל במקום שיכול להעיז כגון בבנו ואמר מנה לאביך בידי והאכלתיו פרס נאמן במגו דאי בעי כפר הכל כדאיתא פ\"ב דכתובות (דף יח. ושם) ובפרק שבועת הדיינים (שבועות דף מב.) וא\"ת כופר הכל מנלן דפטור ואין לומר מטעם חזקה דאין אדם מעיז דהא אפי' במקום שיכול להעיז פטור כגון בבנו ואפילו מודה מקצת פטור התם מגו דאי בעי כפר הכל ואין לומר דילפינן מדאיצטריך למכתב שעד אחד מחייבו שבועה ואי כופר הכל חייב מאי נפקא מינה מעד אחד הא בלאו הכי חייב דהא איצטריך במקום שהוא אינו תובע כלום ואינו יודע והעד מעיד שהוא גנב או שאביו הלוה לו וי\"ל דמכי הוא זה משמע דגזירת הכתוב הוא דדוקא מודה מקצת הטענה חייב ולא כופר הכל:",
+            "english": "Why did the Torah say etc. [that one who admits to partial liability must swear]? As we learn this Gemara together we will see that if a defendant totally denies the plaintiff’s claim, for example: Reuven claims that Shimon owes him one hundred zuz. Shimon says it is untrue: I owe you nothing. Shimon is not liable to pay nor to swear to defend his denial by Torah law. This scenario is referred to as כופר הכל - the defendant totally denies the claim. If however, Shimon admits partial liability, for example: He says - I owe you only fifty zuz, he must pay the fifty that he admits to owing and must also swear that he does not owe Reuven the other fifty. This is called מודה במקצת - partial admission. In our Gemara, Rabah is attempting to explain this phenomena. The Gemara begins with a general question: Why did the Torah say that one who admits to partial liability must swear? The implication of this question is that that there is reason to say that this oath is not necessary. What is that logic? [Tosfos] explains the underlying logic of the Gemara’s question: [The defendant] should be believed when he admits to partial liability with a migo,1See 2Ac Tosfos ד'ה זה נוטל רביע for a general explanation of the concept of migo. since if he had wanted to lie, he could have totally denied the plaintiff’s claim. As we will soon learn, he would not have to swear if he did totally deny the claim. We should therefore believe his partial admission and he should not have to swear to defend his denial of a portion of the debt. It is fairly obvious that a partial admission requires an oath despite the migo that the defendant has. How do we deal with Rabah’s question if we do not have the option of saying that one who partially admits liability does not have to swear? Or, we should learn from this ruling that partial admission requires an oath that we do not use a migo elsewhere. As Tosfos has pointed out, the oath required of one who partially admits to the claim against him is an inherent contradiction to the concept of migo. We should conclude that migo is not a viable method of proving the truthfulness of one’s claim. [The Gemara] answers: Ordinarily a migo is acceptable proof of one’s truthfulness, however,this is not a viable migo, because a person does not have the audacity to totally deny a claim against him, since his neighbor, the plaintiff, is aware of his lie. It is psychologically easier for him to admit to partial liability than to totally deny that claim. Migo says: believe my first claim because if I was a liar I have a better claim. In the case of partial admission this is not true. Totally denying the claim is extremely difficult for him, because it requires a level of audacity of which he is not capable. Tosfos proves his point by showing that when one can easily totally deny the claim against him, he actually does not need to swear since he has a migo. However, in a situation where one does have the audacity to totally deny the claim against him, for example: when his opponent is the son2The father who lent the money to the borrower is well aware of the borrower’s lying. The borrower does not have the audacity to lie in his face. The son of the lender who is attempting to recover money that he believes belongs to him, does not really know the truth and it is easier to lie in his face. of the lender as opposed to the lender himself, and [the borrower] says: Your father left a hundred zuz in my possession, i.e. I owed him a hundred zuz, but I paid half, he is believed because he has a migo that he could have totally denied the claim against him, as it is stated in the second Perek of Kesubos (18a) and in Perek Shavuos HaDayanim (Shavuos 42a). It is evident that when the defendant does have an acceptable migo, he is in fact exempt from swearing. In the classic case of a partial admission, he must swear because he does not have a viable migo. He cannot muster the audacity to totally deny the claim on the plaintiff. The migo we are discussing is based on the ability to totally deny the plaintiff’s claim. This brings us to Tosfos’ next question. If you ask: How do we know that one who entirely denies the plaintiff’s claim is exempt from swearing? Tosfos first rejects two possible sources for this ruling. We should not say that this is because of a chazakah3An assumption of fact. that a person does not have the audacity to totally deny his debt. Since he is denying it, he is obviously being truthful. For even in a situation where one can be brazen, such as when the plaintiff is the son of the lender, the borrower who totally denies the claim against him is believed. Furthermore, even one who admits to partial liability is exempt [when it is the lender’s son who is the plaintiff] since if he wanted to lie, he would have denied the claim entirely. It is clear that a total denial is accepted even when there is no chazakah that he would not have the audacity to brazenly deny the claim against him. So much so, that in such a situation we say that the partial admitter is also exempt from swearing because of a migo. The second possible solution that Tosfos rejects: We should not say that we derive that one who totally denies the claim is exempt from swearing, from that which the Torah needed to write that a single witness against a plaintiff, obligates him to swear in defense of his denial. Now, if one who totally denies the claim against him is obligated to swear, what difference is the testimony of the single witness, he is obligated to swear without this testimony? It must be that he is exempt from swearing when he totally denies the plaintiff’s claim and is obligated to swear when there is a single witness against him. Tosfos explains that this argument is also incorrect. Even if one who totally denies the plaintiff’s claim is obligated to swear, there is still a need for the Torah to tell us of the oath generated by a single witness. For it is necessary to tell us that a single witness obligates the defendant to swear in a situation where [the plaintiff] is not making any claim at all and he does not know that the defendant owes him money, but the witness is testifying that [the defendant] stole from the plaintiff, or that the plaintiff’s father lent [the defendant] money. The plaintiff has no idea that the defendant owes him money. There is no claim by the plaintiff and no denial of such claim by the defendant. It is only the testimony of the single witness that obligates the defendant to swear. It is therefore possible to say that even when one is in total denial of the plaintiff’s claim he is obligated to swear and the Torah found it necessary to write about an oath generated by a single witness’ testimony, for a situation where there is no claim and counterclaim at all. In order to understand Tosfos’ answer, we must have some background information about the source of the obligation of a defendant to swear. In Shemos 22, 8, the Torah speaks of the obligation to defend one’s claim by taking an oath. The exact wording of the verse is: אשר יאמר כי הוא זה - That [the defendant] will say in response to the claim against him but this is it. The Gemara in Bava Kama 106b comments about the meaning of this verse: He is not obligated to swear until he denies some of the claim and admits some of the claim. What is the reason for this requirement? The verse says: That he will say, but only this is it. The Gemara understands that the words “but this is it” mean that he is agreeing to some of the claim against him, but not to all of it a partial admission. It is for such partial admission that an oath is called for. We can answer: That from the verse “כי הוא שה - but this is it”, it is understood that it is a decree of the Torah, that only one who admits to part of the claim against him is obligated to swear, but not one who totally denies the claim. [See at length about this in Tosfos Bava Kama 107a [ד'ה עירוב - We see from the verse that the Torah required an oath only in the case of partial admission and not when the claim is totally denied.",
+            "takeaway": "תוספות explains that Rabba's question 'מפני מה אמרה תורה' addresses why the Torah requires an oath for מודה מקצת despite the defendant having a מגו to deny everything (כופר הכל) and be exempt, and answers that the חזקה of 'אין אדם מעיז פניו' prevents him from using that מגו when facing his creditor, though it applies differently in cases like a son where he can be insolent."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T00:40:13.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 112.33873799996218,
+      "structure": 1845.1434293000493,
+      "translate": 402.61202009994304,
+      "meforshim": 719.9673500999343,
+      "teaching": 984.1931134999031
+    }
+  }
+}

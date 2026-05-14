@@ -1,0 +1,705 @@
+{
+  "ref": "Bava Metzia 14a",
+  "masechet": "Bava_Metzia",
+  "daf": 14,
+  "amud": "a",
+  "mainTopic": "(continues) מציאת אשתו שגירשה",
+  "overview": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 12,
+      "topic": "(continues) מציאת אשתו שגירשה",
+      "gist": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her.",
+      "openingFormula": "מציאת אשתו",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Resolution: שְׁמוּאֵל's two refutations",
+      "stepSummary": "The Gemara explains the two refutations of שמואל: one aligns with רבי אלעזr's refutation, and the other is about returning a שטר הקנאה.",
+      "whatsHappening": "The גמרא explains the two refutations of שְׁמוּאֵל. It clarifies the nature of each refutation.",
+      "deeperAnalysis": "The first refutation aligns with רַבִּי אֱלֵעָזָר's refutation, as שְׁמוּאֵל also establishes the dispute when the debtor does not admit. The second refutation is about שְׁמוּאֵל's statement that a שִׁטְרָא דְּהַקְנָאָה should be returned without suspicion of repayment, which is refuted by the בְּרֵיתָא's ruling not to return even when both admit.",
+      "keyTerms": [
+        {
+          "term": "תִּרְצָא",
+          "meaning": "Resolution"
+        },
+        {
+          "term": "שִׁטְרָא דְּהַקְנָאָה",
+          "meaning": "Deed of transfer"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תְּיוּבְתָּא דִשְׁמוּאֵל בְּתַרְתֵּי:",
+          "english": "Shmuel's refutation is two:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חֲדָא כְּרַבִּי אֶלְעָזָר,",
+          "english": "One like Rabbi Elazar,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּהָא מוֹקֵי מַתְנִיתִין בְּשֶׁאֵין חַיָּיב מוֹדֶה.",
+          "english": "for he establishes the Mishnah when the liable one does not admit."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וַחֲדָא דְּאָמַר שְׁמוּאֵל:",
+          "english": "And one that Shmuel said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָצָא שְׁטַר הַקְנָאָה בַּשּׁוּק –",
+          "english": "Found a deed of acquisition in the market –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "יַחְזִיר לַבְּעָלִים, וְלָא חָיְישִׁינַן לְפֵרָעוֹן.",
+          "english": "he returns to the owners, and we do not worry about repayment."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תְּיוּבְתָּא דְּקָתָנֵי הָכָא:",
+          "english": "A refutation of the Sages here:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַף עַל פִּי שֶׁשְּׁנֵיהֶם מוֹדִים לֹא",
+          "english": "Even though both admit, not"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "יַחְזִיר לֹא לָזֶה וְלֹא לָזֶה,",
+          "english": "he returns not to this and not to this,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אַלְמָא חָיְישִׁינַן לְפֵרָעוֹן,",
+          "english": "apparently we worry about repayment,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְכׇל שֶׁכֵּן הָכָא דְּלָא מוֹדֵה לֹוֶה –",
+          "english": "and all the more so here when the borrower does not admit –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "דְּחָיְישִׁינַן לְפֵרָעוֹן.",
+          "english": "that we worry about repayment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תיובתא דשמואל בתרתי: חדא כרבי אלעזר, דהא מוקי מתניתין בשאין חייב מודה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:3:1",
+            "hebrew": "שטר הקנאה - דליכא למימר כתב ללות ולא לוה דהא אפילו לא לוה שעביד נפשיה:",
+            "english": "",
+            "takeaway": "רש״י explains that a שטר הקנאה cannot be dismissed as a document written for a loan that never occurred, because even if no loan took place, the debtor has already incurred liability through his own actions."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:3:2",
+            "hebrew": "ולא חיישינן לפרעון - אפילו אין חייב מודה דאם איתא דפרעיה מקרע הוה קרע ליה והכא קתני אע\"פ ששניהם מודים כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that שמואל's ruling to return the document without fear of repayment applies even when the debtor does not admit, because if the debt were already paid, the debtor would have torn up the document."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:4:1",
+            "hebrew": "וכ\"ש בשאינו מודה - והא לא קשיא לר' אלעזר דהוא אמר בשאין חייב מודה לא יחזיר שום שטר הראוי לגבות דהאי דקאמר ר' מאיר יחזיר משום דלאו בר גבייה הוא:",
+            "english": "",
+            "takeaway": "רש״י resolves the apparent contradiction by explaining that רבי אלעזר's position only applies to documents that are collectible, whereas רבי מאיר's ruling to return the document is based on it being uncollectible."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "שְׁמוּאֵל's reason for the רַבָּנָן's view",
+      "stepSummary": "שמואל explains that the רבנן hold that the omission of אחריאות is a scribal error.",
+      "whatsHappening": "The גמרא introduces שְׁמוּאֵל's explanation for the רַבָּנָן's view. It provides a rationale for their position.",
+      "deeperAnalysis": "שְׁמוּאֵל explains that the רַבָּנָן hold that the omission of אַחֲרָיוּת is a טָעוּת סוֹפֵר, as one would not lend money without a property guarantee. This implies that the note should be treated as if it had אַחֲרָיוּת.",
+      "keyTerms": [
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Amora"
+        },
+        {
+          "term": "טָעוּת סוֹפֵר",
+          "meaning": "Scribal error"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר שְׁמוּאֵל: מַאי טַעְמַיְיהוּ דְּרַבָּנַן?",
+          "english": "Shmuel said: What is the reason of the Rabbis?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סָבְרִי אַחְרָיוּת טָעוּת סוֹפֵר הוּא.",
+          "english": "They hold that it is a scribal error of omission."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אמר שמואל: מאי טעמא דרבנן? סברי אחריאות טעות סופר הוא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:5:1",
+            "hebrew": "מאי טעמייהו דרבנן - דאמרי כי אין בו אחריות נכסים גובה אף מן המשועבדים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the רבנן's position, which שמואל is explaining, is that a loan document lacking אחריאות still allows collection from משועבדים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:5:2",
+            "hebrew": "אחריות טעות סופר הוא - כשאינו כתוב בשטר סופר הוא שטעה אבל זה לא לוה לו מעותיו בלא אחריות נכסים דלא שדי אינש זוזי בכדי:",
+            "english": "",
+            "takeaway": "רש״י explains that שמואל attributes the omission of אחריאות to a טעות סופר, reasoning that no one lends money without a property guarantee (לא שדי אינש זוזי בכדי)."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 14a:5:1",
+            "hebrew": "מאי טעמייהו דרבנן - תימה אי שמואל ידע ברייתא דקתני אחד זה ואחד זה גובה מנכסים משועבדים א\"כ היה לו לפרש המשנה כוותיה ולא הוה איתותב ואי לא ידע ברייתא מנליה דלרבנן אין בו אחריות וגבי ממשעבדי וי\"ל דלא ידע הברייתא ומ\"מ אית ליה מסברא כדפרישית לעיל (בבא מציעא דף יג: ד\"ה דברי) דאי לא גבי ממשעבדי לא גבי נמי מבני חרי כמו לר\"מ:",
+            "english": "",
+            "takeaway": "תוספות questions why שמואל didn't simply interpret the משנה according to the ברייתא that both parties agree on collecting from משועבדים, and answers that שמואל likely didn't know the ברייתא but held this view logically, as otherwise he wouldn't collect from בני חרי either."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: שְׁמוּאֵל's view on שֶׁבַח, שֶׁפַר, וְשִׁעְבּוּד",
+      "stepSummary": "רבה בר אייתי challenges שמואל's view by citing his statement that שבח, שפר, ושיעבוד require consultation.",
+      "whatsHappening": "The גמרא raises a difficulty against שְׁמוּאֵל's view. It challenges the consistency of his statements.",
+      "deeperAnalysis": "רַבָּה בַּר אִיבּוּתִי challenges שְׁמוּאֵל's view by citing his statement that שֶׁבַח, שֶׁפַר, וְשִׁעְבּוּד require consultation. This implies that שְׁמוּאֵל holds that these clauses are not automatically included, contradicting the idea that their omission is a טָעוּת סוֹפֵר.",
+      "keyTerms": [
+        {
+          "term": "קוֹשְׁיָא",
+          "meaning": "Challenge"
+        },
+        {
+          "term": "רַבָּה בַּר אִיבּוּתִי",
+          "meaning": "Amora"
+        },
+        {
+          "term": "שֶׁבַח, שֶׁפַר, וְשִׁעְבּוּד",
+          "meaning": "Enhancement, superior-quality land, and lien"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רָבָא בַּר אִיתַּי לְרַב",
+          "english": "Rava bar Ittai said to Rav"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִידִי בַּר אָבִין:",
+          "english": "Idi bar Avin:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמִי אָמַר שְׁמוּאֵל הָכִי?",
+          "english": "And did Shmuel say so?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָאָמַר שְׁמוּאֵל: שֶׁבַח, שֶׁפֶר וְשִׁעְבּוּד – צָרִיךְ לִימָּלֵךְ!",
+          "english": "And Shmuel said: Enhancement, superior-quality land, and a lien — one must ask!",
+          "notes": "Refers to a scribe asking the seller about including specific clauses in a deed of sale."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אמר ליה רבה בר אייתי לרב אידי בר אבין: ומי אמר שמואל הכי? והא אמר שמואל: שבח, שפר ושיעבוד – צריך למילך!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:6:1",
+            "hebrew": "שבח שפר ושעבוד צריך לימלך - הסופר צריך לימלך במוכר שדה לחבירו לישאל הימנו אם יקבל עליו לכתוב בשטר המכירה שהוא שיעבד לו נכסיו למכירה זו שאם יבא בעל חובו ויטרפנה מן הלוקח שיגבה לוקח זה הקרן והשבח שהשביח בה לפני טירפא משפר עידית שבנכסים ואם לא נמלך בו לא יכתוב שיש מוכר שאין מקבל עליו אחריות ואף אם קבל על הקרן לא קבל על השבח ואף אם קבל על שניהם לא קבל להגבותו מן העידית אלא מן הבינונית אלמא לאו טעות סופר הוא דאיכא למימר אמליך ביה ולא קבל עליה:",
+            "english": "",
+            "takeaway": "רש״י explains that שמואל's statement that שבח, שפר, ושיעבוד require consultation means the scribe must ask the seller if he wants to include clauses guaranteeing repayment of principal and improvements from prime assets if a creditor seizes the field, proving these are not automatic inclusions but optional terms the seller might refuse, thus refuting the idea that their omission is a טעות סופר."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 14a:6:1",
+            "hebrew": "שעבוד צריך לימלך - בשטרי מקח ואי לא כתבו מבני חרי נמי לא גבי אי בעל חוב טרפה לה כדאמר בסמוך אפי' שלא באחריות דלא ניחא לי דלהוי תרעומת דשמעון עלי אלמא לא הדר עליה אבל אי נגזל טרפה חוזר על הגזלן אפילו בלא אחריות ואפילו ממשעבדי כיון דהוי מקח טעות הוי ליה שטר הלואה והשתא א\"ש דלא קאמר הכא פירי דמיירי שבעל חוב טרפה ולית ליה פירי כדאמר לקמן (בבא מציעא דף טו.) בעל חוב גובה את השבח שבח אין פירי לא והא ניחא נמי דלקמן (שם) אמר שמואל אמליך וכתוב שופרא ושבחא ופירי ולא קאמר שעבוד כדהכא משום דלקמן מיירי בנגזל שטרפה אף בלא כתיבת שעבוד חוזר עליו ואפי' ממשעבדי והיינו טעמא כדפרישית דכיון דיש לו שטר מקח והרי מקח בטל שגזולה היתה והוי ליה שטר הלואה דאמרינן ביה אחריות טעות סופר הוא והא דאמר שמואל בחזקת הבתים (ב\"ב דף מג.) המוכר שדה שלא באחריות אין מעיד לו עליה מפני שמעמידה בפני בעל חובו הא לאו הכי מעיד לו עליה אפי' נמצאת שאינה שלו משמע דלא הדר עליה התם מיירי שפירש לו בשטר שלא באחריות אבל סתמא הדר עליה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that שמואל's requirement to consult about שעבוד applies to sales documents where the seller might refuse to guarantee against creditor seizure, but distinguishes this from cases of theft where the sale is void and the document becomes a loan document with automatic guarantee, resolving the apparent contradiction with שמואל's other statements about פירות and guarantees."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Distinction between שִׁטְרָא דְּהַלְוָאָה and שִׁטְרָא דְּמִקְנֵה וּמִמְכָּר",
+      "stepSummary": "The Gemara resolves the difficulty by distinguishing between a שטר הלואה and a שטר מקח וממכר.",
+      "whatsHappening": "The גמרא provides a resolution to the difficulty. It distinguishes between two types of documents.",
+      "deeperAnalysis": "The גמרא explains that שְׁמוּאֵל's statement about טָעוּת סוֹפֵר applies to a שִׁטְרָא דְּהַלְוָאָה, as one would not lend money without a guarantee. His statement about consultation applies to a שִׁטְרָא דְּמִקְנֵה וּמִמְכָּר, as one might buy land for a day and not require a guarantee.",
+      "keyTerms": [
+        {
+          "term": "תִּרְצָא",
+          "meaning": "Resolution"
+        },
+        {
+          "term": "שִׁטְרָא דְּהַלְוָאָה",
+          "meaning": "Promissory note"
+        },
+        {
+          "term": "שִׁטְרָא דְּמִקְנֵה וּמִמְכָּר",
+          "meaning": "Deed of sale"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לֵימָא מַאן דְּאָמַר הָא לָא אָמַר הָא?",
+          "english": "Shall we say that the one who says this does not say that?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא קַשְׁיָא: כָּאן בִּשְׁטַר הַלְוָאָה,",
+          "english": "It is not difficult: Here, in a promissory note,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּלָא יָהֵיב אִינָשׁ זוּזֵי בִּכְדִי.",
+          "english": "that a person does not give coins for nothing."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כָּאן בְּמִקָּח וּמִמְכָּר, דְּעָבֵיד אִינָשׁ דְּזָבֵין אַרְעָא לְיוֹמֵיהּ.",
+          "english": "There, in a purchase and sale, that a person sells land for his day."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לימא מאן דאמר הא לא אמר הא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        39
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:7:1",
+            "hebrew": "לימא מאן דאמר הא - משמיה דשמואל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's question 'לֵימָא מַאן דְּאָמַר הָא לָא אָמַר הָא' is asking whether שמואל himself contradicted himself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:7:2",
+            "hebrew": "לא אמר הא - ואמוראי נינהו אליבא דשמואל:",
+            "english": "",
+            "takeaway": "רש״י explains that the resolution is that the two statements are not from שמואל directly, but are אמוראי נינהו explaining שמואל's position."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:8:1",
+            "hebrew": "בשטרי הלואה - טעות סופר הוא כיון דלא אכיל פירות ולא מתהני מידי לא שדי זוזי בכדי לאוזפיה בלא אחריות וזה ימכור נכסיו וכשיבא לגבות לא ימצא כלום:",
+            "english": "",
+            "takeaway": "רש״י explains that in a שטר הלואה, a scribal error is assumed because a lender would not give money without a guarantee (אחריות), especially since the borrower derives no benefit from the loan itself and might sell his assets before repayment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:8:2",
+            "hebrew": "עביד אינש דזבין ארעא ליומא - לספק יום אחד שמא לא יטרפוה ממנו ואם יטרפוה שמא לזמן מרובה ואוכל בתוך כך פירות הרבה:",
+            "english": "",
+            "takeaway": "רש״י explains that in a שטר מקח וממכר, a person might buy land for a short period (ליומא) to enjoy its fruits before potential seizure, thus not requiring a guarantee and necessitating consultation about the document's validity."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Proof from the case of אָבוֹה בַּר אִיבּוּתִי",
+      "stepSummary": "The Gemara cites a case where אבוה בר איהי bought a loft without a guarantee, and שמואל ruled that the creditor could repossess it.",
+      "whatsHappening": "The גמרא provides a proof for the distinction between שִׁטְרָא דְּהַלְוָאָה and שִׁטְרָא דְּמִקְנֵה וּמִמְכָּר. It cites a specific case to support the resolution.",
+      "deeperAnalysis": "The case of אָבוֹה בַּר אִיבּוּתִי illustrates that in a sale, the lack of a guarantee is not a טָעוּת סוֹפֵר, as שְׁמוּאֵל ruled that the creditor could repossess the loft. This supports the distinction made in the previous resolution.",
+      "keyTerms": [
+        {
+          "term": "רְאִיָּה",
+          "meaning": "Proof"
+        },
+        {
+          "term": "אָבוֹה בַּר אִיבּוּתִי",
+          "meaning": "Person in the case"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כִּי הָהִיא דַּאֲבוּהּ בַּר אִיהִי זְבַין עִלִּיתָא מֵאֲחָתֵיהּ,",
+          "english": "For that incident where Avuh bar Ihi bought a loft from his sister,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲתָא בַּעַל חוֹב טַרְפַהּ מִינֵּיהּ.",
+          "english": "her creditor came and repossessed it from him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּמָר שְׁמוּאֵל,",
+          "english": "He came before Mar Shmuel,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: כְּתַבָה לָךְ אַחְרָיוּת?",
+          "english": "He said to him: Did she write you a guarantee?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: לָא.",
+          "english": "He said to him: No."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר לֵיהּ: אִם כֵּן, זִיל לִשְׁלָמָא. אֲמַר לֵיהּ:",
+          "english": "He said to him: If so, go in peace. He said to him:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְהָא מָר הוּא דְּאָמַר אַחְרָיוּת טָעוּת סוֹפֵר הוּא!",
+          "english": "But isn't it you, Master, who said that a guarantee is a scribal error!"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲמַר לֵיהּ: הָנֵי מִילֵּי בִּשְׁטָרֵי הַלְוָאָה,",
+          "english": "He said to him: These matters are regarding promissory notes,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲבָל בִּשְׁטָרֵי מִקָּח וּמִמְכָּר – לָא,",
+          "english": "but regarding deeds of purchase and sale – no,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "דַּעֲבִיד אִינָשׁ דְּזָבֵין אַרְעָא לְיוֹמֵיהּ.",
+          "english": "for a person does [buy] land for his day.",
+          "notes": "Meaning: a person might buy land for a short time, accepting the risk of a prior lien."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כי ההיא דאבוה בר איהי זבין עיליתא מאחותיה, אתא בעל חוב טרפא מיניה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        40
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:9:1",
+            "hebrew": "זיל לשלמא - אין כאן עוד דין שמחלת על הכל:",
+            "english": "",
+            "takeaway": "רש״י explains that שמואל's ruling of זיל לשלמא means the buyer has no further legal recourse, as the creditor's repossession effectively nullified the sale's protections."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "אָבָאִי's view on litigation",
+      "stepSummary": "אבאיי states that if a creditor repossesses land sold with a guarantee, the seller can litigate with the creditor.",
+      "whatsHappening": "The גמרא introduces אָבָאִי's view on litigation. It establishes a principle regarding legal disputes.",
+      "deeperAnalysis": "אָבָאִי explains that if a creditor repossesses land sold with a guarantee, the seller can litigate with the creditor because the creditor's action affects the seller's obligation to the buyer.",
+      "keyTerms": [
+        {
+          "term": "אָבָאִי",
+          "meaning": "Amora"
+        },
+        {
+          "term": "מִשְׁתֵּי דִינָא",
+          "meaning": "Litigate"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי: רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן בְּאַחְרָיוּת,",
+          "english": "Abaye said: Reuven sold a field to Shimon with a guarantee,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּבָא בַּעַל חוֹב דִּרְאוּבֵן וְקָא טָרֵיף לֵיהּ מִינֵּיהּ,",
+          "english": "and Reuven's creditor came and is seizing it from him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּינָא הוּא דְּאָזֵיל רְאוּבֵן וּמִשְׁתַּעֵי דִּינָא בַּהֲדֵיהּ,",
+          "english": "the law is that Reuven goes and litigates with him,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלָא מָצֵי אָמַר לֵיהּ:",
+          "english": "and he cannot say to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָאו בַּעַל דְּבָרִים דִּידִי אַתְּ,",
+          "english": "You are not a party to my matter,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּאָמַר לֵיהּ: דְּמַפְּקַתְּ מִינֵּיהּ,",
+          "english": "who says to him: That which you take from him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "עֲלַי דִּידִי הָדַר.",
+          "english": "returns to me."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אמר אבאיי: רעבן שמכר שדה לשמעון באחריאות, ובא בעל חוב דרעבן וקא טריף ליה מיניה, דינא הוא דאזיל רעבן ומשתי דינא בהדיה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:10:1",
+            "hebrew": "באחריות - אם יטרפוה ממנו ישלם לו:",
+            "english": "",
+            "takeaway": "רש״י explains that the term באחריות means the seller guarantees the land against repossession by creditors, obligating him to compensate the buyer if the land is taken."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:10:2",
+            "hebrew": "לאשתעויי דינא בהדיה - דבע\"ח ולסלקו מעל שמעון בכל טענה שיוכל לטעון ולומר פרעתיך כך וכך או כך וכך יש לי עליך תביעה ואני מעכב חוב זה תחתיו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the seller can litigate with the creditor to remove the debt from the buyer by raising defenses such as repayment or counterclaims."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:10:3",
+            "hebrew": "ולא מצי - בע\"ח למימר ליה לאו בעל דברים דידי את בדבר זה קרקע שמעון אני נוטל אם יש לך תביעה עלי העמידני בדין:",
+            "english": "",
+            "takeaway": "רש״י explains that the creditor cannot dismiss the seller by claiming they are not his direct debtor, because the seller has a vested interest in the outcome of the litigation."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:10:4",
+            "hebrew": "דמפקת מיניה עלי הדר - מה שאתה מוציא משמעון יחזור עלי:",
+            "english": "",
+            "takeaway": "רש״י states that any land removed from the buyer's possession will ultimately revert to the seller's responsibility to compensate."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 14a:10:1",
+            "hebrew": "דינא הוא דאתי ראובן - תימה מאי נפקא מינה דהא כל מה שיוכל לטעון ראובן טוען שמעון דטוענין ללוקח ואין לומר דנ\"מ אם יש לבע\"ח עדים שקרובים לראובן ורחוקים לשמעון דאי טעין נמי שמעון הם פסולים דכיון דאי מפסיד שמעון הדר על ראובן כדמוכח ספ\"ק דמכות (דף ז.) גבי אלעא וטוביה קרובים דערבא הוו וקא מסיק דפסולים אף ללוה ולמלוה כיון דאי לית ליה ללוה אזיל בתר ערבא ומהאי טעמא נמי א\"ל דנ\"מ אם יש לשמעון עדים שהם קרובים לו ורחוקים לראובן דכי נמי טוען ראובן פסולים שעל פי עדותם ישאר הקרקע ביד שמעון שהוא קרובם וכל שכן כשקנה שלא באחריות שהם פסולים שאז מרויחים לו הקרקע לגמרי וי\"ל דנ\"מ אם אמר שמעון אין לי עדים ואין לי ראיה ואח\"כ מצא עדים או ראיה שהוא אינו יכול להביא דאין הלכה כרשב\"ג בראיה אחרונה (סנהדרין דף לא.) וראובן יביאם א\"נ כגון שבעל חוב חייב שבועה דאורייתא לראובן והשתא יגלגל עליו שבועה שלא פרע אבל לשמעון לא ישבע אלא שבועה דרבנן ובפרק הכותב (כתובות דף פח.) אמר אי פקח הוא מייתי ליה לידי שבועה דאורייתא אלמא יש חומר בשבועה דאורייתא יותר משבועה דרבנן בנרות דולקות ונודות נפוחות כדמפרש בתשובת הגאונים ועוד נפקא מינה כגון שראובן פקח ובעל דברים ועוד שאינו מעיז ברצון נגד ראובן לפי שידע שפרעו או אם יכול ראובן ללכת עמו לב\"ד הגדול ושמעון אינו יכול [וע\"ע תוס' כתובות צב: ד\"ה דינא הוא וכו']:",
+            "english": "",
+            "takeaway": "תוספות questions the practical difference of the seller litigating instead of the buyer, since the buyer can raise the seller's defenses, and answers that it matters when the seller has better witnesses, when the creditor owes the seller an oath דאורייתא, or when the seller is more capable of handling the litigation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Alternative view on litigation",
+      "stepSummary": "Some say that אבאיי also allows litigation even without a guarantee, to avoid grievance.",
+      "whatsHappening": "The גמרא introduces an alternative view on litigation. It broadens the scope of the previous ruling.",
+      "deeperAnalysis": "This view extends אָבָאִי's ruling to cases without a guarantee, based on the principle that the seller should not want the buyer to have a תְּרַעֲמָתָא.",
+      "keyTerms": [
+        {
+          "term": "אִיכָּא דְּאָמְרִי",
+          "meaning": "Some say"
+        },
+        {
+          "term": "תְּרַעֲמָתָא",
+          "meaning": "Grievance"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּאָמְרִי: אֲפִילּוּ שֶׁלֹּא בְּאַחְרָיוּת נָמֵי, דְּאָמַר לֵיהּ:",
+          "english": "There are those who say: Even without a guarantee, as he said to him:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא נִיחָא לִי דְּלֶיהְוֵי לְשִׁמְעוֹן תַּרְעוֹמֶת עֲלַי.",
+          "english": "It is not agreeable to me that Shimon should have a grievance against me."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "איכא דאמרי: אפילו שלא באחריאות נמי, דאמר ליה: לא ניחא לי דליהוי לשמעון תרעומת עלי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "אָבָאִי's Limitation on Litigation",
+      "stepSummary": "אבאיי states that if disputants emerge regarding land sold without a guarantee, the seller can litigate as long as the buyer has not taken possession.",
+      "whatsHappening": "The גמרא introduces אָבָאִי's ruling regarding land sold without a guarantee. This is a new statement, not a resolution of the previous dispute.",
+      "deeperAnalysis": "אָבָאִי rules that if third parties claim ownership, the seller can only litigate if the buyer has not yet taken possession. This limits the seller's ability to challenge the sale once the buyer is established in the land.",
+      "keyTerms": [
+        {
+          "term": "אָבָאִי",
+          "meaning": "Amora"
+        },
+        {
+          "term": "עָסְקִין",
+          "meaning": "Disputants"
+        },
+        {
+          "term": "הִחֲזִיק בָּהּ",
+          "meaning": "Took possession"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר אַבָּיֵי: רְאוּבֵן שֶׁמָּכַר שָׂדֶה לְשִׁמְעוֹן שֶׁלֹּא בְּאַחְרָיוּת,",
+          "english": "And Abaye said: Reuven sold a field to Shimon without a guarantee,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְיָצְאוּ עָלֶיהָ עֲסִיקִין,",
+          "english": "and disputants emerged against it,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עַד שֶׁלֹּא הֶחְזִיק בָּהּ",
+          "english": "until he did not take possession of it"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "ואמר אבאיי: רעבן שמכר שדה לשמעון שלא באחריאות, ויצאו עליה עסיקין, עד שלא החזיק בה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 14a:12:1",
+            "hebrew": "עסיקין - עוררין כמו התעשקו עמו (בראשית כו):",
+            "english": "",
+            "takeaway": "רש״י explains that עסיקין refers to legal claimants (עוררין) who challenge the sale, rather than bandits or robbers."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 14a:12:1",
+            "hebrew": "ויצאו עליה עסיקין - פי' עוררין ולא אנסין מדמפליג בין מכר באחריות ללא באחריות וכן מוכח פ' שבועת העדות (שבועות דף לא. ושם) ואשר לא טוב עשה וגו' זה הלוקח שדה שיש עליה עסיקין ואי אנסין תבא עליו ברכה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that עסיקין means legal claimants (עוררין) and not bandits (אנסין), based on the distinction between sales with and without guarantee and the parallel in שבועות."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 14a:12:2",
+            "hebrew": "עד שלא החזיק בה כו' - תימה היכי מיירי אי גם לא נתן מעות פשיטא דיכול לחזור בו דאפילו מי שפרע ליכא ואי נתן המעות אמאי יכול לחזור בו והא קרקע נקנית בכסף אם לא נעמיד באתרא דלא קנו בכספא ועוד משהחזיק בה אינו יכול לחזור בו אבל באחריות יכול לחזור בו אמאי יכול לחזור בו כיון שנתן מעות והחזיק כמשפט ועוד חזקה דדייש אמצרי לא אשכחן בשום מקום ולמה הניח חזקה דתנן במתני' (ב\"ב ד' מב.) דנעל גדר ופרץ ועוד מאי שנא הכא ששואל מאימתי הוי חזקה יותר מבשום מקום דבכמה מקומות מזכיר חזקה ולא בעי מאימת הוי חזקה ופירש ריב\"א דמיירי כגון שקנאה בקנין גמור כגון בחליפין ולא נתן מעות וקאמר עד שלא החזיק בה חזקה דמפרש בתר הכי דייש אמצרי שלא הלך לארכה ולרחבה ולא סמכה דעתיה יכול לחזור בו משהחזיק בה שהלך לארכה ולרחבה אינו יכול לחזור בו אבל באחריות יכול לחזור כיון שלא נתן מעות ויש עוררים הואיל וסופו לשלם מעותיו עתה שהם בידו יעכבם וא\"ש דדייש אמצרי אינה חזקה גמורה אלא לראותה אם היא מיושבת על לבו וא\"ת כשהחזיק בה אמאי אינו יכול לחזור בו כיון שלא נתן מעות לימא ליה שקול ארעא בזוזך אפילו אית ליה זוזי לפי המפרשים דאפילו אית ליה זוזי מצי לסלק ליה לבע\"ח בשאר דברים וגרסינן בהמוכר פירות (ב\"ב ד' צב: ושם ד\"ה אי) אי לתנהו להנהו זוזי כו' וי\"ל דהכא מצי א\"ל האי ארעא אינה שוה כפי מעותי לפי שיש עליה עוררים אבל שור שנגח כיון דאייקר שוה מעותיו שפיר:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty of when the seller can retract by explaining, following ריב״א, that the case involves a full acquisition via חליפין without payment, where חזקה means physically inspecting the land (דייש אמצרי) to ensure it suits him, which allows retraction before inspection but not after, whereas in a guaranteed sale, the seller can retract because the buyer can withhold payment due to the claimants."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T05:25:53.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 63.67425949999597,
+      "structure": 977.2287558000535,
+      "translate": 289.8538480999996,
+      "meforshim": 389.8565573999076,
+      "teaching": 520.3873568999697
+    }
+  }
+}

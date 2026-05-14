@@ -1,0 +1,615 @@
+{
+  "ref": "Bava Metzia 13b",
+  "masechet": "Bava_Metzia",
+  "daf": 13,
+  "amud": "b",
+  "mainTopic": "(continues) מציאת אשתו שגירשה",
+  "overview": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 9,
+      "topic": "(continues) מציאת אשתו שגירשה",
+      "gist": "The Gemara analyzes the Mishnah's statement about a divorced wife's find, explaining it refers to a case of 'megoreses v'einah megoreses' where the husband is still obligated to support her. — discussion continues into next amud.",
+      "openingFormula": "מציאת אשתו",
+      "firstStepNumber": 1,
+      "lastStepNumber": 5
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The debtor denies the debt",
+      "stepSummary": "The Gemara answers that the debtor claims the loan never happened, so he has no claim to the paper.",
+      "whatsHappening": "The גמרא provides a תירוץ. The debtor denies the debt, so he cannot claim the note even for its physical value.",
+      "deeperAnalysis": "This resolution introduces the concept of denial. If the debtor denies the debt, he cannot claim the note because he is effectively saying it is a forgery.",
+      "keyTerms": [
+        {
+          "term": "תִּרְצָא",
+          "meaning": "Resolution"
+        },
+        {
+          "term": "לֹא הָיוּ דְבָרִים מַעוֹלָם",
+          "meaning": "These matters never happened"
+        },
+        {
+          "term": "מַכְחִישׁ",
+          "meaning": "Denies"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּאָמַר לֹא הָיוּ דְבָרִים מֵעוֹלָם.",
+          "english": "The one who says that these matters never existed."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לוה הוא דאמר לא היו דברים מעולם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 13b:1:1",
+            "hebrew": "הא קאמר לא היו דברים מעולם - משמע שהלוה טוען שהוא מזויף דליכא למימר מה שטען לא היו דברים מעולם היינו שאומר פרעתי דא\"כ נהדר ליה ללוה לצור ע\"פ צלוחיתו ועוד דשמואל לא חייש לפרעון וקשה דאפילו יש בו אחריות אמאי לא יחזיר אם לא יקיימנו לא יגבה כלום ואם יקיימנו בדין יגבה ואין לומר דחיישינן שמא יוציאנו שלא בפניו או על הלקוחות ויתומים ולא נטעון להם מזויף משום דלא שכיח כמו שאין טוענין ליתמי נאנסו משום דלא שכיח כדאמרינן בהמוכר [את] הבית (ב\"ב דף ע: ושם) וכיון דאין טוענין להו מזויף גם אין טוענין להם פרוע הוא אע\"ג דשמואל סבר בפ' מי שמת (בבא בתרא דף קנד: ושם) מודה בשטר שכתבו צריך לקיימו ונאמן לומר פרוע הוא במגו דאי בעי אמר מזויף מכל מקום ליתמי וללקוחות דלא טענינן מזויף לא טענינן פרוע הוא הא ליתא דאפילו לא נטעון להם מזויף הוא נטעון להם פרוע כדאמרי' בהמוכר [את] הבית (שם דף ע: ושם) גבי שטר כיס היוצא על היתומים דנשבע וגובה מחצה אבל בפלגא דפקדון טענינן להו החזרתי כמו אביהם שהיה נאמן לומר החזרתי במגו דאי בעי אמר נאנסו ולכך גם להם טענינן החזרתי אף על גב דלא טענינן להו נאנסו ועוד דעל כרחך טענינן להו מזויף או פרוע דאם לא כן לא שבקת חיי לכל בריה דיוכל כל אדם להוציא על היתומים ולקוחות ושלא בפניו שטר מלוה או שטר מכר שעשה כרצונו ולא נטעון להם וכן מוכח בפרק גט פשוט (בבא בתרא דף קעד: ושם) דרב ושמואל דאמרי תרוייהו שכיב מרע שאמר מנה לפלוני בידי אמר תנו נותנין לא אמר תנו אין נותנין ומפרש התם דנקיט שטרא אמר תנו קיימיה לשטרא לא אמר תנו לא קיימיה לשטריה אלמא טענינן מזויף הוא בשביל יתומים דרב סבר בפ\"ב דכתובות (דף יט.) מודה בשטר שכתבו אין צריך לקיימו ולא טענינן פרעתי א\"כ אי לא קיימיה לשטריה טענינן מזויף וא\"כ אמאי לא יחזיר ואין לומר כיון דנפל אתרע ליה הלכך אפילו יקיימנו יש לחוש שמא מזויף הוא ולכך קאמר לא יחזיר פן יטרוף כשתשתכח הנפילה דהא אמרינן לקמן (בבא מציעא דף טז:) אמר שמואל מצא שטר הקנאה יחזיר דאי משום כתב ללות ולא לוה כו' משמע דאין הלוה בפנינו שהוא מודה מדקאמר שמא כתב ללות ולא לוה ואמאי יחזיר ניחוש שמא מזויף הוא ואפילו אם מקיים אותו. אינו מועיל וכן רב אסי דאמר לקמן (בבא מציעא דף יז.) המוצא שטר שכתוב בו הנפק יחזיר אמאי יחזיר ניחוש שמא זייף חתימת הדיינין וי\"ל דמילתא דשמואל ורב אסי מיירי שאין הלוה בפנינו ולכך יחזיר ואין לחוש שמא מזויף הוא וכשירצה לגבות נטעון מזויף ואם יקיימנו יגבה ואפי' אם יבא אח\"כ הלוה ויטעון מזויף הוא אין לחוש כיון שבא לידו בהיתר וכן משמע לעיל (בבא מציעא דף ז:) דקאמר ואחר שמצא שטר שנפל ליד דיין כו' משמע אם המלוה מצאו גובה כיון שבא לידו בהיתר אבל הכא במתני' איירי שהלוה בפנינו בשעת מציאה וטוען מזויף ולכך כיון דאיכא ריעותא דנפילה וגם טוען הלוה בודאי מזויף לא יחזיר כי יש לחוש שמא יגבה מיתומים ולקוחות או שלא בפניו ע\"י קיום השטר והקיום אינו מועיל כי שמא טרח לזייף השטר בטוב עד שסבורים העדים שהיא חתימתן כי ההיא דגט פשוט (ב\"ב דף קסז.) דמנח ידיה אזרנוקא וכתב שרבא בעצמו היה סבור שהיא חתימתו ומיהו מלוה עצמו יכול להיות שיגבה ע\"י קיום לפי שהוא יודע באמת שהוא מזויף יטרח לסתור ראייתו וא\"ת לעיל (בבא מציעא דף ז:) דאמר רבי יוסי נפל ליד דיין הרי הוא בחזקתו ולא חיישינן לפרעון ואע\"ג דמשמע שהלוה בפנינו וטוען פרעתי דומיא דרישא דשנים אדוקין בשטר ואמאי לא יהא נאמן לומר פרעתי במגו דאי בעי אמר מזויף הוא דאז לא יחזיר פן יגבה מיתומים ולקוחות ואפילו מקויים לא מהני ליה כדפרישית וי\"ל דאין זה מגו דטוב לו לומר פרעתי שלא יכחישנו שום אדם מלומר מזויף כי ירא פן יקיימנו ואע\"ג שהקיום אינו מועיל לגבות בו מכל מקום אין טוען ברצון דבר שיכול להכחישו ואם נאמר שמן הלוה בעצמו הוא גובה ע\"י קיום מצינו למימר דהרי הוא בחזקתו לא שיחזירנו למלוה שיש לחוש פן יוציאנו על יתומים ולקוחות אלא אם יקיימנו המלוה בעודו ביד המוצא יגבה מן הלוה ולא חיישינן לפרעון:",
+            "english": "",
+            "takeaway": "תוספות explains that the debtor's claim of 'לא היו דברים מעולם' implies he is asserting the document is forged, rather than claiming he already paid, because if he claimed payment, he would be obligated to return the document for the creditor to use as a container."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רבי אלעזר's view on the dispute",
+      "stepSummary": "רבי אלעזר states that the dispute is when the debtor does not admit to the debt, and explains the positions of רבי מאיר and the רבנן.",
+      "whatsHappening": "The גמרא introduces רבי אלעזר's interpretation of the Mishnah's dispute. He places the dispute in a case where the debtor does not admit.",
+      "deeperAnalysis": "רבי אלעזר explains that רבי מאיר holds that without a guarantee, no collection is possible, while the רבנן hold that collection from unsold property is possible. When the debtor admits, everyone agrees to return the note.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֱלֵעָזָר",
+          "meaning": "Amora"
+        },
+        {
+          "term": "מַחְלֹקֶת",
+          "meaning": "Dispute"
+        },
+        {
+          "term": "חַיָּב מוֹדֶה",
+          "meaning": "Liable party admits"
+        },
+        {
+          "term": "קְנוּנְיָא",
+          "meaning": "Collusion"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי אֶלְעָזָר: מַחְלוֹקֶת בְּשֶׁאֵין חַיָּיב מוֹדֶה.",
+          "english": "Rabbi Elazar says: The dispute is when the liable party does not admit."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּרַבִּי מֵאִיר סָבַר:",
+          "english": "For Rabbi Meir holds:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׁטָר שֶׁאֵין בּוֹ אַחְרָיוּת נְכָסִים –",
+          "english": "A document that has no property guarantee –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵינוֹ גּוֹבֶה לָא מִמְּשַׁעְבְּדִי וְלָא מִבְּנֵי חָרֵי.",
+          "english": "one does not collect neither from liened nor from unsold."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרַבָּנַן סָבְרִי: מִמְּשַׁעְבְּדִי הוּא דְּלָא גָּבֵי,",
+          "english": "And the Rabbis hold: From liened it is that he does not collect,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִבְּנֵי חָרֵי – מִגְבָּא גָּבֵי.",
+          "english": "from unsold – he collects."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲבָל כְּשֶׁחַיָּיב מוֹדֶה –",
+          "english": "But when the liable party admits –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דִּבְרֵי הַכֹּל יַחְזִיר,",
+          "english": "the words of all, he returns,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְלָא חָיְישִׁינַן לְפֵרָעוֹן וְלִקְנוּנְיָא.",
+          "english": "and we do not worry about repayment and collusion."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אמר רבי אלעזר: מחלוקת בשאין חייב מודה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:2:1",
+            "hebrew": "אינו גובה לא מנכסים משועבדים ולא מבני חורין - אם אין הלוה מודה דשטרא דלא שעבד בה נכסים לאו שטרא הוא והוה כמלוה על פה ושאין עליה עדים:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי מאיר considers a שטר without אחריאות נכסים as invalid, treating it like a מלוה על פה without witnesses, thus preventing collection from either משועבדים or בני חורין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:2:2",
+            "hebrew": "ורבנן סברי - להא מיהא הוי שטרא שתהא כמלוה על פה בעדים הלכך גבי מבני חרי ולהכי לא יחזיר דכיון דנפל אתרע ליה ואמרינן מזויף הוא כדקאמר לוה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the רבנן view the שטר as valid for collection from בני חורין like a מלוה על פה with witnesses, and therefore the debtor should not return it because its loss implies it might be forged."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 13b:2:1",
+            "hebrew": "דברי הכל יחזיר לפרעון ולקנוניא לא חיישינן - ולשמא כתב ללות בניסן כו' נמי לא חיישינן כדאביי ולקנוניא משום יש בו אחריות נקט דבשאין בו אחריות לא שייך קנוניא דלא גבי ממשעבדי דלא ידע ברייתא דבסמוך א\"נ רבי אלעזר סבר דאין בו אחריות גבי ממשעבדי לרבנן דאחריות ט\"ס הוא אע\"ג דלא ידע ברייתא דבסמוך דסבר אי לאו טעות סופר הוא מבני חרי נמי לא גבי דכיון שמחל השעבוד מחל גם הקרן כמו לרבי מאיר וכן משמע קצת דקאמר מחלוקת כשאין חייב מודה דהיינו באין בו אחריות ועל זה קאמר בתר הכי אבל חייב מודה לפרעון ולקנוניא לא חיישינן משמע דאאין בו אחריות קאי:",
+            "english": "",
+            "takeaway": "תוספות explains that the concern for קנוניא is specifically linked to אחריאות, as without אחריאות there is no collection from משועבדים, and thus no risk of קנוניא, or alternatively, that רבי אלעזר views the lack of אחריאות as a טעות סופר for the רבנן."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רבי יוחנן's view on the dispute",
+      "stepSummary": "רבי יוחנן states that the dispute is when the debtor admits to the debt, and explains the positions of רבי מאיר and the רבנן.",
+      "whatsHappening": "The גמרא introduces רבי יוחנן's interpretation of the Mishnah's dispute. He places the dispute in a case where the debtor admits.",
+      "deeperAnalysis": "רבי יוחנן explains that רבי מאיר holds that without a guarantee, collection from encumbered property is not possible, but from unsold property it is. The רבנן hold that collection from encumbered property is also possible. When the debtor does not admit, everyone agrees not to return the note due to suspicion of repayment.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Amora"
+        },
+        {
+          "term": "מַחְלֹקֶת",
+          "meaning": "Dispute"
+        },
+        {
+          "term": "חַיָּב מוֹדֶה",
+          "meaning": "Liable party admits"
+        },
+        {
+          "term": "פֵּרָעוֹן",
+          "meaning": "Repayment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר:",
+          "english": "And Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַחְלוֹקֶת כְּשֶׁחַיָּיב מוֹדֶה,",
+          "english": "The dispute is when the liable party admits,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּרַבִּי מֵאִיר סָבַר:",
+          "english": "For Rabbi Meir holds:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שְׁטָר שֶׁאֵין בּוֹ אַחְרָיוּת נְכָסִים –",
+          "english": "A document that has no property guarantee –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִמְּשַׁעְבְּדִי הוּא דְּלָא גָּבֵי,",
+          "english": "From liened property it is that he does not collect,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲבָל מִבְּנֵי חָרֵי – מִגְבָּא גָּבֵי.",
+          "english": "But from unsold property – he collects."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְרַבָּנַן סָבְרִי: מִמְּשַׁעְבְּדֵי נָמֵי גָּבֵי.",
+          "english": "And the Rabbis hold: From liened property too he collects."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲבָל כְּשֶׁאֵין חַיָּיב מוֹדֶה –",
+          "english": "But when the liable party does not admit –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דִּבְרֵי הַכֹּל לֹא יַחְזִיר, דְּחָיְישִׁינַן לְפֵרָעוֹן.",
+          "english": "The words of all: he does not return, we are concerned for repayment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "ורבי יוחנן אמר: מחלוקת כשחייב מודה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:3:1",
+            "hebrew": "ממשעבדי נמי גבי - כדמפרש לקמן אחריות טעות סופר הוא וחיישינן לפרעון ולקנוניא:",
+            "english": "",
+            "takeaway": "רש״י explains that the רבנן's position that one collects from משועבדי is based on the later explanation that the lack of אחריאות is a scribal error, and the real concern is פרעון and קנוניא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:3:2",
+            "hebrew": "אבל כשאין חייב מודה - ואפילו מודה שכתבו אלא שאמר פרעתיו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the case of 'no admission' includes a scenario where the debtor admits the note was written but claims he already paid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:3:3",
+            "hebrew": "דברי הכל לא יחזיר - דחיישינן לפרעון כדקאמר:",
+            "english": "",
+            "takeaway": "רש״י states that in the case of no admission, everyone agrees the note is not returned because of the concern for פרעון."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "ראיה",
+      "title": "Baraita supporting רבי יוחנן",
+      "stepSummary": "A baraita is cited that supports רבי יוחנן's view and refutes elements of רבי אלעזר and שמואל.",
+      "whatsHappening": "The גמרא cites a בריתא that aligns with רבי יוחנן's interpretation. The בריתa states that if the note has a guarantee, it is not returned even if both admit.",
+      "deeperAnalysis": "The בריתא supports רבי יוחנן's view that the dispute is when the debtor admits. It provides external textual proof for his interpretation of the Mishnah.",
+      "keyTerms": [
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "Baraita"
+        },
+        {
+          "term": "תִּיּוּבְתָּא",
+          "meaning": "Refutation"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Amora"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא כְּווֹתֵיהּ דְּרַבִּי יוֹחָנָן,",
+          "english": "It is taught in a baraita in accordance with the opinion of Rabbi Yoḥanan,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּתְיוּבְתָּא דְּרַבִּי אֶלְעָזָר בַּחֲדָא,",
+          "english": "and from it there is a conclusive refutation of one element of the opinion of…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּתְיוּבְתָּא דִשְׁמוּאֵל בְּתַרְתֵּי.",
+          "english": "and a conclusive refutation of two elements of the opinion of Shmuel."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָצָא שִׁטְרֵי חוֹב וְיֵשׁ בָּהֶם אַחְרָיוּת נְכָסִים,",
+          "english": "One found promissory notes and they include a property guarantee,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף עַל פִּי שֶׁשְּׁנֵיהֶם מוֹדִים –",
+          "english": "even if both agree –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לֹא יַחְזִיר לֹא לָזֶה וְלֹא לָזֶה.",
+          "english": "one should not return it to this one or to that one."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵין בָּהֶן אַחְרָיוּת נְכָסִים,",
+          "english": "They do not include a property guarantee,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בִּזְמַן שֶׁהַלֹּוֶה מוֹדֶה – יַחְזִיר לַמַּלְוֶה,",
+          "english": "when the debtor admits – one should return to the creditor,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֵין הַלֹּוֶה מוֹדֶה –",
+          "english": "the debtor does not admit –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לֹא יַחְזִיר לֹא לָזֶה וְלֹא לָזֶה,",
+          "english": "one should not return it to this one or to that one,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "דִּבְרֵי רַבִּי מֵאִיר.",
+          "english": "these are the words of Rabbi Meir."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "שֶׁהָיָה רַבִּי מֵאִיר אוֹמֵר:",
+          "english": "As Rabbi Meir would say:"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "שְׁטָרי שֶׁיֵּשׁ (בָּהֶם) [בּוֹ] אַחְרָיוּת נְכָסִים,",
+          "english": "Promissory notes that include a property guarantee,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "גּוֹבֶה מִנְּכָסִים מְשׁוּעְבָּדִים.",
+          "english": "one collects from liened property."
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "וְשֶׁאֵין (בָּהֶם) [בּוֹ] אַחְרָיוּת נְכָסִים,",
+          "english": "And those that do not include a property guarantee,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "גּוֹבֶה מִנְּכָסִים בְּנֵי חוֹרִין. וַחֲכָמִים אוֹמְרִים:",
+          "english": "one collects from unsold property. And the Rabbis say:"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "אֶחָד זֶה וְאֶחָד זֶה גּוֹבֶה מִנְּכָסִים מְשׁוּעְבָּדִים.",
+          "english": "both this and that one collects from liened property."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תניא כוותיה דרבי יוחנן, ותיובתא דרבי אלעזר בחדא, ותיובתא דשמואל בתרתי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:5:1",
+            "hebrew": "אף על פי ששניהם מודים כו' - חיישינן לקנוניא:",
+            "english": "",
+            "takeaway": "רש״י explains that when both parties admit, the document is not returned because of the concern for קנוניא (fraudulent collusion)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:5:2",
+            "hebrew": "בזמן שהלוה מודה - שהוא חייב לו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'when the borrower admits' means he admits he owes the debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:5:3",
+            "hebrew": "יחזיר למלוה - שאין כאן קנוניא דלא גבי ממשעבדי:",
+            "english": "",
+            "takeaway": "רש״י explains that the document is returned to the lender in this case because there is no concern for קנוניא, as the lender cannot collect from encumbered property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:6:1",
+            "hebrew": "גובה מנכסים משועבדים - ולא יחזיר ואפי' שניהם מודים דחיישינן לקנוניא:",
+            "english": "",
+            "takeaway": "רש״י explains that according to רבי מאיר, a document with אחריאות נכסים allows collection from encumbered property, so it is not returned even if both admit due to the concern for קנוניא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: רַבִּי אֱלֵעָזָר's two refutations are one",
+      "stepSummary": "The Gemara explains that the two refutations of רבי אלעזr are actually one, as they stem from the same reasoning.",
+      "whatsHappening": "The גמרא resolves the apparent contradiction regarding the number of refutations of רַבִּי אֱלֵעָזָר. It clarifies that the two refutations are actually one.",
+      "deeperAnalysis": "The גמרא explains that both refutations stem from רַבִּי אֱלֵעָזָר's view that the dispute is when the debtor does not admit. This leads to the conclusion that רַבִּי מֵאִיר holds that without אַחֲרָיוּת, no collection is possible, which is refuted by the בְּרֵיתָא.",
+      "keyTerms": [
+        {
+          "term": "תִּרְצָא",
+          "meaning": "Resolution"
+        },
+        {
+          "term": "חֲדָא הוּא",
+          "meaning": "It is one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תְּיוּבְתָּא דְּרַבִּי אֶלְעָזָר בַּחֲדָא, דְּאָמַר:",
+          "english": "A conclusive refutation of Rabbi Elazar in one matter, that he said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְרַבִּי מֵאִיר שְׁטָר שֶׁאֵין בּוֹ אַחְרָיוּת נְכָסִים –",
+          "english": "For Rabbi Meir, a document that does not have property guarantee –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵינוֹ גּוֹבֶה מִנְּכָסִים מְשׁוּעְבָּדִים וְלֹא מִנְּכָסִים בְּנֵי חוֹרִין.",
+          "english": "he does not collect from liened property and not from unsold property."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְקָאָמַר:",
+          "english": "And he says:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בֵּין לְרַבִּי מֵאִיר בֵּין לְרַבָּנַן לָא חָיְישִׁינַן לִקְנוּנְיָא.",
+          "english": "Both according to Rabbi Meir and according to the Rabbis, we do not suspect collusion."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּבָרָיְיתָא קָתָנֵי: שְׁטָר שֶׁאֵין בּוֹ אַחְרָיוּת נְכָסִים –",
+          "english": "And the baraita teaches: A document that does not have property guarantee –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מִמְּשַׁעְבְּדִי הוּא דְּלָא גָּבֵי,",
+          "english": "from liened property is that he does not collect,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הָא מִבְּנֵי חוֹרִין מִגְבָּא גָּבֵי.",
+          "english": "but from unsold property he collects."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְקָתָנֵי: בֵּין לְרַבִּי מֵאִיר בֵּין לְרַבָּנַן, חָיְישִׁינַן לִקְנוּנְיָא.",
+          "english": "And it teaches: Both according to Rabbi Meir and according to the Rabbis, we suspect collusion."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "דְּקָתָנֵי: אַף עַל פִּי שֶׁשְּׁנֵיהֶם מוֹדִים לֹא",
+          "english": "That it teaches: Even though both admit, not"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "יַחְזִיר לֹא לָזֶה וְלֹא לָזֶה.",
+          "english": "he returns, not to this one and not to that one."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אַלְמָא חָיְישִׁינַן לִקְנוּנְיָא.",
+          "english": "Apparently, we suspect collusion."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְהָא הָנֵי תַּרְתֵּי הוּא?",
+          "english": "And aren't these two?"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "חֲדָא הוּא, דְּחַד טַעַם הוּא,",
+          "english": "It is one, that one reason is it,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "דְּמִשּׁוּם דְּקָאָמַר רַבִּי אֶלְעָזָר מַחְלוֹקֶת בְּשֶׁאֵין",
+          "english": "because of that Rabbi Elazar says a dispute is when there is not"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "חַיָּיב מוֹדֶה –",
+          "english": "the liable one admits –"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "הוּא מְתָרֵץ הָכִי.",
+          "english": "he answers thus."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תיובתא דרבי אלעזר בחדא, דאמר: לרבי מאיר שטר שאין בו אחריאות נכסים – אינו גובה מנכסים משועבדים ולא מנכסים בני חורין.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 13b:9:1",
+            "hebrew": "הני תרתי מילי הוי - ואת אמרת תיובתא דרבי אלעזר בחדא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question 'הא הני תרתי הוא?' challenges the previous statement that there is only one refutation, pointing out that there appear to be two distinct contradictions."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 13b:8:1",
+            "hebrew": "הא מבני חרי גבי - בלא דיוקא הוי מצי לאתויי דקתני בהדיא וגובה מנכסים בני חורין אלא שכן דרך הגמרא:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara's inference 'הא מבני חורין מגבי' is a standard Talmudic deduction (בלא דיוקא) rather than an explicit statement in the baraita."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 13b:8:2",
+            "hebrew": "אלמא חיישינן לקנוניא - ואע\"ג דמצינו למימר טעמא דלא יחזיר משום דשמא כתב ללות בניסן מ\"מ קשיא דר\"א דאמר יחזיר ולא חייש:",
+            "english": "",
+            "takeaway": "תוספות clarifies that even if one could explain the rule 'לא יחזיר' as being due to a potential loan date discrepancy, it still contradicts רבי אלעזר's view that we do not worry about קנוניא."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 13b:9:1",
+            "hebrew": "הני תרתי מילי נינהו חדא היא - וא\"ת ואמאי חדא היא הלא לא הוצרך לומר ר\"א אבל כשחייב מודה דברי הכל יחזיר לפרעון ולקנוניא לא חיישינן דהומ\"ל בין במודה בין באינו מודה לרבי מאיר יחזיר באין בו אחריות דאינו גובה בו כלום ולרבנן לא יחזיר דגבי ממשעבדי וחיישינן לקנוניא וי\"ל דהא דקאמר לפרעון ולקנוניא לא חיישינן מתניתין קשיתיה דתנן וכל מעשה ב\"ד יחזיר אלמא לא חיישינן לקנוניא ולא יעמידנו בשטרי חלטאתא כדדחי לקמן (בבא מציעא דף טז:) וכיון דמכח מתניתין קאמר לא חשיב לה אבל מה שמפרש דלר\"מ אינו גובה כלום באין בו אחריות זה לא הזקיקה אותו המשנה לפרש ולכך קאמר חדא היא ולשמואל בתרתי משום דהא דקאמר לא חיישינן לפרעון ולקנוניא לא מכח מתניתין קאמר דהא בעלמא קאמר ליה מצא שטר הקנאה בשוק כו':",
+            "english": "",
+            "takeaway": "תוספות resolves why the two refutations are considered one by distinguishing between a statement forced by the Mishnah (which is not counted as a separate refutation) and an independent explanation of רבי מאיר's view (which is counted), whereas for שמואל both are independent."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T05:25:53.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 63.67425949999597,
+      "structure": 977.2287558000535,
+      "translate": 289.8538480999996,
+      "meforshim": 389.8565573999076,
+      "teaching": 520.3873568999697
+    }
+  }
+}

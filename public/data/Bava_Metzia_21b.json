@@ -1,0 +1,1185 @@
+{
+  "ref": "Bava Metzia 21b",
+  "masechet": "Bava_Metzia",
+  "daf": 21,
+  "amud": "b",
+  "mainTopic": "(continues) מציאת פירות מפוזרים ויאוש שלא מדעת",
+  "overview": "The Gemara begins the new perek discussing found scattered produce and coins, analyzing the concept of יאוש שלא מדעת (despair without knowledge) through various cases of lost items to determine if the owner despairs of recovery.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 17,
+      "topic": "(continues) מציאת פירות מפוזרים ויאוש שלא מדעת",
+      "gist": "The Gemara begins the new perek discussing found scattered produce and coins, analyzing the concept of יאוש שלא מדעת (despair without knowledge) through various cases of lost items to determine if the owner despairs of recovery.",
+      "openingFormula": "הדרן עליך",
+      "firstStepNumber": 1,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Clarification: agreement on items with distinguishing marks",
+      "stepSummary": "The Gemara clarifies that both sides agree despair without knowledge is invalid for items with distinguishing marks, explaining the reasoning.",
+      "whatsHappening": "The גמרא clarifies the scope of the dispute, noting agreement on items with distinguishing marks and explaining the reasoning behind this agreement.",
+      "deeperAnalysis": "The גמרא narrows the dispute by stating that both אַבָּיֵי and רַבָּא agree that despair without knowledge is invalid for items with distinguishing marks. The reasoning is that the owner will not despair because he can identify the item and reclaim it.",
+      "keyTerms": [
+        {
+          "term": "סִימָן",
+          "meaning": "Distinguishing mark"
+        },
+        {
+          "term": "כּוּלֵּי עָלְמָא לָא פְּלִיגִי",
+          "meaning": "Everyone agrees"
+        },
+        {
+          "term": "בְּאִיסּוּרָא הוּא דַּאֲתָא לִידֵיהּ",
+          "meaning": "It comes into his possession in a prohibited manner"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּדָבָר שֶׁיֵּשׁ בּוֹ סִימָן –",
+          "english": "Regarding a thing that has an identification mark –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּלָא הָוֵי יֵאוּשׁ.",
+          "english": "All the world do not dispute that it is not abandonment."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאַף עַל גַּב דְּשַׁמְעִינֵיהּ דְּמִיָּאַשׁ לְסוֹף,",
+          "english": "And even though we hear him that he abandoned in the end,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא הָוֵי יֵאוּשׁ,",
+          "english": "it is not abandonment,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּכִי אֲתָא לִידֵיהּ –",
+          "english": "because when it came to his hand –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בְּאִיסּוּרָא הוּא דַּאֲתָא לִידֵיהּ,",
+          "english": "in a prohibition it came to his hand,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דִּלְכִי יָדַע דִּנְפַל מִינֵּיהּ לָא מִיָּאַשׁ,",
+          "english": "because when he knows that it fell from him he does not abandon,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מֵימָר אָמַר: סִימָנָא אִית לִי בְּגַוֵּיהּ,",
+          "english": "He says: I have an identification mark in it,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "יָהֵבְנָא סִימָנָא וְשָׁקֵילְנָא לֵיהּ.",
+          "english": "I will give the identification mark and I will take it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּדָבָר שֶׁיֵּשׁ בּוֹ סִימָן – כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּלָא הָוֵי יֵאוּשׁ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        75
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:2:1",
+            "hebrew": "דמיאש לבסוף - לאחר שמצאו זה וכללא דיאוש כגון דאמר ווי ליה לחסרון כיס דגלי דעתיה שנואש מהן:",
+            "english": "That he ultimately despairs (abandons it) - after this one finds it. And the principle of abandonment is such as when he says, \"Woe is me for the monetary loss\" - as he reveals his thinking that he has despaired about [reclaiming] them.",
+            "takeaway": "רש״י explains that יאוש לבסוף occurs after the finder acquires the item, and the general principle of יאוש is demonstrated when the owner expresses distress over the monetary loss, thereby revealing his intent to abandon hope of recovery."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:2:2",
+            "hebrew": "באיסורא אתא לידיה - דדבר שאינו עשוי להתיאש הוא:",
+            "english": "In a prohibited [manner] that it came into his possession - For it is something that is not prone to be abandoned.",
+            "takeaway": "רש״י clarifies that the item comes into the finder's possession in an אסור manner because an item with a סימן is inherently not subject to יאוש."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 21b:2:1",
+            "hebrew": "דלכי נפל מיניה לא מיאש - ואע\"ג דהשתא מיאש אקראי בעלמא הוא ומתחילה לא היה עומד ליאש:",
+            "english": "Because when it fell, he does not despair (abandon it) - And even though, he abandons it now, it is a general coincidence; and he was not prepared to abandon them as first.",
+            "takeaway": "תוספות explains that even though the owner ultimately יאש, this יאוש is merely incidental (אקראי בעלמא) and does not constitute valid יאוש because he did not initially intend to abandon the item when it was lost."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute over יאוש שלא מדעת in the sea/river",
+      "stepSummary": "The Gemara concludes the previous sugya by stating that the dispute between Abaye and Rava regarding items found in the sea or river concerns only items without a siman, and presents their respective positions on whether יאוש שלא מדעת constitutes valid יאוש.",
+      "whatsHappening": "The Gemara concludes the previous sugya by clarifying the scope of the dispute between אַבָּיֵי and רַבָּא regarding items found in the sea or river. This serves as a transition line before introducing the new perek.",
+      "deeperAnalysis": "The dispute is limited to items without a סימן. אַבָּיֵי holds that there is no יאוש because the owner did not know the item fell. רַבָּא holds that יאוש exists because the owner would despair upon realizing the loss.",
+      "keyTerms": [
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "בְּזוּטוֹ שֶׁל יָם",
+          "meaning": "intertidal space of the sea"
+        },
+        {
+          "term": "בְּשָׁלוֹוִילְתּוֹ שֶׁל נָהָר",
+          "meaning": "flooded ground of a river"
+        }
+      ],
+      "whatToRemember": "אַבָּיֵי: no יאוש without knowledge. רַבָּא: יאוש exists even without knowledge.",
+      "whyThisMatters": "This sets up the central question of the new perek: does יאוש שלא מדעת constitute valid יאוש?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּזוּטוֹ שֶׁל יָם וּבִשְׁלוּלִיתוֹ שֶׁל נָהָר,",
+          "english": "In the intertidal space of the sea and in the flooded ground of a river,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל גַּב דְּאִית בֵּיהּ סִימָן,",
+          "english": "even though it has an identification mark,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַחֲמָנָא שַׁרְיֵיהּ, כִּדְבָעֵינַן לְמֵימַר לְקַמַּן.",
+          "english": "the Torah permits it, as we will say below."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי פְּלִיגִי בְּדָבָר שֶׁאֵין בּוֹ סִימָן.",
+          "english": "They disagree regarding a thing that has no identification mark."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַבָּיֵי אָמַר: לָא הָוֵי יֵאוּשׁ,",
+          "english": "Abaye said: It is not abandonment,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּהָא לָא יָדַע דִּנְפַל מִינֵּיהּ.",
+          "english": "for he did not know that it fell from him."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רָבָא אָמַר: הָוֵי יֵאוּשׁ,",
+          "english": "Rabbah said: It is abandonment,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דִּלְכִי יָדַע דִּנְפַל מִינֵּיהּ –",
+          "english": "for when he knows that it fell from him –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מִיָּאַשׁ. מֵימָר אָמַר:",
+          "english": "he abandons it. Meimar said:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "סִימָנָא לֵית לִי בְּגַוֵּיהּ,",
+          "english": "I have no identification mark in it,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "מֵהַשְׁתָּא הוּא דְּמִיָּאַשׁ.",
+          "english": "from now he abandons it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּזוּטוֹ שֶׁל יָם וּבִשְׁלוּלִיתוֹ שֶׁל נָהָר, אַף עַל גַּב דְּאִית בֵּיהּ סִימָן, רַחֲמָנָא שַׁרְיֵיהּ, כִּדְבָעֵינַן לְמֵימַר לְקַמַּן. כִּי פְּלִיגִי בְּדָבָר שֶׁאֵין בּוֹ סִימָן. אַבָּיֵי אָמַר: לָא הָוֵי יֵאוּשׁ, דְּהָא לָא יָדַע דִּנְפַל מִינֵּיהּ. רָבָא אָמַר: הָוֵי יֵאוּשׁ, דִּלְכִי יָדַע דִּנְפַל מִינֵּיהּ – מִיָּאַשׁ. מֵימָר אָמַר: סִימָנָא לֵית לִי בְּגַוֵּיהּ, מֵהַשְׁתָּא הוּא דְּמִיָּאַשׁ.",
+      "macroPhase": "conclusion",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "conclusion",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:3:1",
+            "hebrew": "זוטו של ים - מקומות בשפת הים שדרך הים לחזור לאחוריו י' פרסאות או חמשה עשר פרסאות פעמיים ביום ושוטף מה שמוצא שם והולך זוטו לשון גודל ושירוע בלשון יווני כמו שכתבו הזקנים לתלמי המלך ואל אצילי ואל זאטוטי (מגילה דף ט.):",
+            "english": "By the tide (zuto) of the sea - Places on the seashore, where it is the way of the sea to return [to the shore] ten or fifteen parsa twice a day, so it sweeps away that which it finds there and goes. Zuto is an expression of largeness and expansion in the Greek language; like the sages wrote [in their Greek translation] to King Ptolemy, \"and upon the exalted ones\" (Exodus 24:11), [as] \"and upon the zatuti\" (Megillah 9a).",
+            "takeaway": "רש״י explains that זוטו של ים refers to the tidal zones where the sea recedes and returns, sweeping away items, and notes the Greek etymology of the term."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:3:2",
+            "hebrew": "ושלוליתו של נהר - כשהוא גדל ויוצא חוץ לגדותיו ושולל שלל ושוטף הנמצא:",
+            "english": "Or by the flooding (sheluliyato) of a river - when it expanded and overflows its banks and takes booty (sholel shelal) and sweeps away that which is found.",
+            "takeaway": "רש״י defines שלוליתו של נהר as the area where a river overflows its banks and sweeps away items, deriving the term from the root שׁלל meaning to take booty."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:3:3",
+            "hebrew": "רחמנא שרייה - ואפי' באת ליד המוצא לפני יאוש:",
+            "english": "The Merciful One permits it - and even when it comes to the finder before abandonment [by its original owner].",
+            "takeaway": "רש״י clarifies that רחמנא שרייה means the Torah permits the finder to keep the item even if they acquire it before the owner's יאוש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:3:4",
+            "hebrew": "לקמן - בשמעתין מנין לאבידה ששטפה נהר כו':",
+            "english": "Below - in our discussion, \"From where do we know that a lost object swept away by a river, etc.\"",
+            "takeaway": "רש״י notes that the Gemara's reference לקמן points to the later discussion in the same sugya about the source for the law regarding items swept by a river."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:4:1",
+            "hebrew": "מהשתא הוי יאוש - שהרי נפל וכשיודע שוב אין דעתו עליו:",
+            "english": "From now, that he despairs (it is abandoned) - For behold, it fell; and when he knows, his mind will no longer be upon it.",
+            "takeaway": "רש״י explains the third opinion that יאוש occurs immediately upon the item falling because the owner's hope is lost from that moment, even before they realize the loss."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from scattered fruit",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking scattered fruit, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a משנה about scattered fruit to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The משנה permits taking scattered fruit. This implies the owner despairs of recovering the fruit even though he did not know it fell. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "פֵּירוֹת מְפוּזָּרִין",
+          "meaning": "scattered fruit"
+        },
+        {
+          "term": "הָא לָא יָדַע דְּנָפַל מִנֵּיהּ",
+          "meaning": "he did not know that it fell from him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: פֵּירוֹת מְפוּזָּרִין,",
+          "english": "Come and hear: scattered fruits,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא לָא יָדַע דִּנְפַל מִינֵּיהּ!",
+          "english": "Here he did not know that it fell from him!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא אָמַר רַב עוּקְבָא בַּר חָמָא:",
+          "english": "Here Rabbi Uqva bar Chama said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכָא בְּמַכְנַשְׁתָּא (דְּבִיזְרֵי) [דְּבֵי דָרֵי] עָסְקִינַן,",
+          "english": "Here we are dealing with gathering (of seeds) [of dwellers],"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דַּאֲבֵידָה מִדַּעַת הִיא.",
+          "english": "For it is a lost item with awareness."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: פֵּירוֹת מְפוּזָּרִין, הָא לָא יָדַע דִּנְפַל מִינֵּיהּ!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        77
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:6:1",
+            "hebrew": "דאבידה מדעת היא - שלא נפלו ממנו ומדעת הניחם הפקר:",
+            "english": "That is a deliberate loss - As it did not fall from him, and he knowingly placed them down [to be] ownerless.",
+            "takeaway": "רש״י explains that the Mishnah refers to fruit that the owner deliberately left behind, making it a case of אבידה מדעת rather than an accidental loss."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from scattered coins",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking scattered coins, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a משנה about scattered coins to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The משנה permits taking scattered coins. This implies the owner despairs of recovering the coins even though he did not know they fell. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשִׂיּוֹת מְפוּזָּרוֹת",
+          "meaning": "scattered coins"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: מָעוֹת מְפוּזָּרוֹת –",
+          "english": "Come and hear: Scattered coins –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ, אַמַּאי?",
+          "english": "These are his, why?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא לָא יָדַע דִּנְפַל מִינֵּיהּ!",
+          "english": "He did not know that they fell from him!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָתָם נָמֵי כִּדְרַבִּי יִצְחָק דְּאָמַר:",
+          "english": "There too, according to Rabbi Yitzchak who said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָדָם עָשׂוּי לְמַשְׁמֵשׁ בְּכִיסוֹ בְּכׇל שָׁעָה וְשָׁעָה.",
+          "english": "A person is accustomed to use his pouch at every moment."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָכָא נָמֵי אָדָם עָשׂוּי לְמַשְׁמֵשׁ בְּכִיסוֹ",
+          "english": "Here too, a person is accustomed to use his pouch"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בְּכׇל שָׁעָה וְשָׁעָה.",
+          "english": "at every moment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: מָעוֹת מְפוּזָּרוֹת – הֲרֵי אֵלּוּ שֶׁלּוֹ, אַמַּאי? הָא לָא יָדַע דִּנְפַל מִינֵּיהּ!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        79
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:7:1",
+            "hebrew": "עשוי למשמש - וקודם שמצאו זה נודע לבעלים שנפלו ונואשו:",
+            "english": "Prone to feel - So before this one finds it, it is known to the owners that they fell and they abandon it.",
+            "takeaway": "רש״י explains that the assumption that a person checks his pocket constantly means the owner will realize the coins are missing and despair before the finder picks them up."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from round cakes and baker's cakes",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking round cakes and baker's cakes, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a משנה about round cakes and baker's cakes to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The משנה permits taking round cakes and baker's cakes. This implies the owner despairs of recovering the cakes even though he did not know they fell. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "עֵיגוּלֵי דַּבְּלָה",
+          "meaning": "round cakes of pressed figs"
+        },
+        {
+          "term": "כִּכָּרוֹת שֶׁל נַחְתּוֹם",
+          "meaning": "baker's cakes"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: עִיגּוּלֵי דְבֵילָה וְכִכָּרוֹת שֶׁל נַחְתּוֹם –",
+          "english": "Come and hear: Coins of Beila and loaves of Nachatam –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ. אַמַּאי?",
+          "english": "These are his. Why?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָא לָא יָדַע דִּנְפַל מִינֵּיהּ?",
+          "english": "And isn't he unaware that it fell from him?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָתָם נָמֵי, אַגַּב דְּיַקִּירֵי מִידָּע יָדַע בְּהוּ.",
+          "english": "There too, because they are precious, he knows about them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: עִיגּוּלֵי דְבֵילָה וְכִכָּרוֹת שֶׁל נַחְתּוֹם – הֲרֵי אֵלּוּ שֶׁלּוֹ. אַמַּאי? וְהָא לָא יָדַע דִּנְפַל מִינֵּיהּ?",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        81
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:8:1",
+            "hebrew": "דיקירי - כבד משא:",
+            "english": "Are heavy (literally, weighty) - A load that is heavy.",
+            "takeaway": "רש״י explains that יקירי means the cakes are heavy, so the owner would notice if one fell."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from strips of purple wool",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking strips of purple wool, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a משנה about strips of purple wool to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The משנה permits taking strips of purple wool. This implies the owner despairs of recovering the wool even though he did not know it fell. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "לְשׁוֹנוֹת שֶׁל אַרְגָּמָן",
+          "meaning": "strips of purple wool"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: וּלְשׁוֹנוֹת שֶׁל אַרְגָּמָן –",
+          "english": "Come and hear: And the threads of purple dye –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ. וְאַמַּאי?",
+          "english": "These are his. And why?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא לָא יָדַע דִּנְפַל מִינֵּיהּ! הָתָם נָמֵי,",
+          "english": "He did not know that it fell from him! There too,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַגַּב דַּחֲשִׁיבִי מַשְׁמוּשֵׁי מְמַשְׁמֵשׁ בְּהוּ, וְכִדְרַבִּי יִצְחָק.",
+          "english": "Because he values their use, he uses them, and like Rabbi Yitzchak."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: וּלְשׁוֹנוֹת שֶׁל אַרְגָּמָן – הֲרֵי אֵלּוּ שֶׁלּוֹ. וְאַמַּאי? הָא לָא יָדַע דִּנְפַל מִינֵּיהּ!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        83
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection"
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from coins in synagogues",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Baraita that permits taking coins found in synagogues, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a ברייתא about coins found in synagogues to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The ברייתא permits taking coins found in synagogues. This implies the owner despairs of recovering the coins even though he did not know they fell. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשִׂיּוֹת בְּבָתֵּי כְּנִסְיוֹת וּבְבָתֵּי מִדְרָשׁוֹת",
+          "meaning": "coins in synagogues and study halls"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: הַמּוֹצֵא מָעוֹת בְּבָתֵּי כְנֵסִיּוֹת וּבְבָתֵּי מִדְרָשׁוֹת,",
+          "english": "Come and hear: One who finds coins in synagogues and study halls,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּבְכׇל מָקוֹם שֶׁהָרַבִּים מְצוּיִין שָׁם –",
+          "english": "and in every place where the public are usually there –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ,",
+          "english": "these are his,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִפְּנֵי שֶׁהַבְּעָלִים מִתְיָאֲשִׁין מֵהֶן.",
+          "english": "because the owners despair of them."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָא לָא יָדַע דִּנְפַל מִינֵּיהּ?",
+          "english": "And did he not know that it fell from him?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר רַבִּי יִצְחָק:",
+          "english": "Rabbi Yitzchak said:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָדָם עָשׂוּי לְמַשְׁמֵשׁ בְּכִיסוֹ בְּכׇל שָׁעָה.",
+          "english": "A person is accustomed to check his pocket at every moment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: הַמּוֹצֵא מָעוֹת בְּבָתֵּי כְנֵסִיּוֹת וּבְבָתֵּי מִדְרָשׁוֹת, וּבְכׇל מָקוֹם שֶׁהָרַבִּים מְצוּיִין שָׁם – הֲרֵי אֵלּוּ שֶׁלּוֹ, מִפְּנֵי שֶׁהַבְּעָלִים מִתְיָאֲשִׁין מֵהֶן. וְהָא לָא יָדַע דִּנְפַל מִינֵּיהּ?",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        85
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 21b:10:1",
+            "hebrew": "ת\"ש המוצא מעות כו' - תימה כיון דכבר הקשה ממתני' דמעות מפוזרות אמאי פריך תו מהך ברייתא ורבי יצחק נמי אמאי לא אמר למלתיה אמתני' וי\"ל דברייתא אלימא ליה לאקשויי דמשמע דבכל ענין הרי אלו שלו אע\"ג דאיכא סימן מדמוקי טעמא שהרבים מצויין שם ומשמע נמי אע\"ג דכשזה הגביה עדיין היה בעל אבידה בבית המדרש ולא ידע שנפל מיניה:",
+            "english": "Come and hear, one who finds coins, etc. - It is a wonder: Since it already brought a difficulty from our mishnah about scattered coins, why does it also challenge from this baraita? And also why did Rabbi Yitzhak not say his piece about our mishnah? And it can be said that it was stronger for it to raise a difficulty on the baraita, since it implies that it is the [finder's] in all cases - even in the case where there is an identifying mark, since it establishes the reason to be because the multitudes are found there. And it is also implied [that this is the case] even though the owner of the lost object was still in the study hall when [the finder] picked it up, and he didn't know that it had fallen from him.",
+            "takeaway": "תוספות explains that the Gemara prefers to challenge from this ברייתא rather than the משנה because the ברייתא implies that the finder keeps the coins even if they have a סימן, and even if the owner was still present in the בית הכנסת when the coins were picked up."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from gleanings",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking gleanings after the nemushot have passed, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The Gemara brings a proof from a משנה about gleanings to challenge the idea that יאוש שלא מדעת is not valid.",
+      "deeperAnalysis": "The משנה permits taking gleanings after the נמושות have passed. This implies the owner despairs of recovering the gleanings even though he did not know they were left. This contradicts the position that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "לֶקֶט",
+          "meaning": "gleanings"
+        },
+        {
+          "term": "נְמוּשׁוֹת",
+          "meaning": "elderly gleaners"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: מֵאֵימָתַי כׇּל אָדָם מוּתָּרִים בַּלֶּקֶט?",
+          "english": "Come and hear: From when are all people permitted in the gleanings?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשֶּׁיֵּלְכוּ בָּהּ הַנָּמוֹשׁוֹת.",
+          "english": "From when the nemushot walk in it."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמְרִינַן: מַאי נָמוֹשׁוֹת?",
+          "english": "And we say: What are nemushot?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמַר רַבִּי יוֹחָנָן: סָבֵי דְּאָזְלִי אַתִּיגְרָא.",
+          "english": "And Rabbi Yoḥanan said: The elderly who go with a cane."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רֵישׁ לָקִישׁ אָמַר: לָקוֹטֵי בָּתַר לָקוֹטֵי.",
+          "english": "Reish Lakish said: Gleaners after gleaners."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאַמַּאי? נְהִי דַּעֲנִיִּים דְּהָכָא מִיָּאֲשִׁי –",
+          "english": "And why? Let the poor here despair –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִיכָּא עֲנִיִּים בְּדוּכְתָּא אַחְרִיתָא דְּלָא מִיָּאֲשִׁי!",
+          "english": "There are poor in another place who do not despair!"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָמְרִי: כֵּיוָן דְּאִיכָּא עֲנִיִּים הָכָא,",
+          "english": "They say: Since there are poor here,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הָנָךְ מֵעִיקָּרָא אִיָּאוֹשֵׁי מִיָּאַשׁ, וְאָמְרִי:",
+          "english": "Those from the outset despair, and they say:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "עֲנִיִּים דְּהָתָם מְלַקְּטִי לֵיהּ.",
+          "english": "The poor there gather it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: מֵאֵימָתַי כׇּל אָדָם מוּתָּרִים בַלֶּקֶט? מִשֶּׁיֵּלְכוּ בָּהּ הַנָּמוֹשׁוֹת. וְאָמְרִינַן: מַאי נָמוֹשׁוֹת? וְאָמַר רַבִּי יוֹחָנָן: סָבֵי דְּאָזְלִי אַתִּיגְרָא. רֵישׁ לָקִישׁ אָמַר: לָקוֹטֵי בָּתַר לָקוֹטֵי. וְאַמַּאי? נְהִי דַּעֲנִּיִּים דְּהָכָא מִיָּאֲשִׁי – אִיכָּא עֲנִּיִּים בְּדוּכְתָּא אַחְרִיתָא דְּלָא מִיָּאֲשִׁי!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        87
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:11:1",
+            "hebrew": "סבי דאזלי אתיגרא - זקנים עניים הולכים על משענתם בנחת ורואין כל שבולת ושבולת ולשון נמושות כמו לא ימושו (ישעיהו נט) שממשמשין והולכים:",
+            "english": "\"Elderly people who walk [with] a cane - Poor elderly men walk slowly with their canes, so they see each and every sheaf. And the expression, nemushot, is like [its usage], \"shall not depart (yamushu)\" (Isaiah 59:21) - since they feel and [then] they go.",
+            "takeaway": "רש״י explains that רבי יוחנן's definition of נמושות as elderly poor people walking slowly with canes implies they meticulously check every sheaf, ensuring the owner's awareness of the remaining gleanings."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:11:2",
+            "hebrew": "לקוטי בתר לקוטי - לשון נמושות כמו לא ימיש (שמות יג) שנוטלין ומשין הכל מלפניהם:",
+            "english": "The gleaners after the gleaners - The expression, nemushot, is like [its usage], \"not feel (yamish)\" (Exodus 13:22) - as they take and feel everything from in front of them.",
+            "takeaway": "רש״י explains that ריש לקיש's definition of נמושות as gleaners following other gleaners implies they thoroughly clear the field, ensuring the owner's awareness of the remaining gleanings."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:12:1",
+            "hebrew": "ואמאי - אי יאוש שלא מדעת לאו יאוש הוא:",
+            "english": "And why - if abandonment without awareness is not [considered] abandonment.",
+            "takeaway": "רש״י clarifies that the Gemara's challenge (ואמאי) arises specifically from the assumption that יאוש שלא מדעת is not valid יאוש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:12:2",
+            "hebrew": "נהי - דלגבי עניים דהכא הוי יאוש מדעת שראו שהלכו בה הנמושות ונתיאשו אלא עניים דעיר אחרת עדיין לא ידעי והיאך מותרין בו אלא משום כיון דלכי ידעי מיאשי הוי יאוש משעה שהלכו בו ובהיתר באו ליד זה:",
+            "english": "Given that - concerning the poor people from here, it is abandonment with awareness; since they saw the nemushot walked through it. But the poor of another city do not yet know - so how is it that we are permitted it. Rather it is because their abandonment, when they do know, is [considered] abandonment from the time [the nemushot] left it. So it was permissible when it came to the hand of this one.",
+            "takeaway": "רש״י explains that the Mishnah's permission to take gleanings after the נמושות pass implies that יאוש is effective retroactively from the moment the נמושות left, even for poor people in other cities who were unaware at that time."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: the poor in other places despair from the outset",
+      "stepSummary": "The Gemara resolves the challenge by explaining that the poor in other places despair of recovering the gleanings from the outset.",
+      "whatsHappening": "The Gemara resolves the challenge by explaining that the poor in other places despair of recovering the gleanings from the outset.",
+      "deeperAnalysis": "The poor in other places despair because they know the poor in the current location will take the gleanings. Therefore, the poor in other places will not come to take the gleanings. This allows the Gemara to maintain that יאוש שלא מדעת is not valid יאוש.",
+      "keyTerms": [
+        {
+          "term": "כִּיוָן דְּאִיכָּא עֲנִיִּים הָכָא",
+          "meaning": "since there are poor people here"
+        },
+        {
+          "term": "הַנַּחְתּוֹת מֵעִיקָּרָא אִיאוּשִׁי מִיאוֹשׁ",
+          "meaning": "those from the outset despairs"
+        }
+      ],
+      "whatToRemember": "The poor in other places despair of recovering the gleanings from the outset.",
+      "whyThisMatters": "This resolution allows the Gemara to maintain the position that יאוש שלא מדעת is not valid יאוש.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַמַּאי? נְהִי דַּעֲנִיִּים דְּהָכָא מִיָּאֲשִׁי –",
+          "english": "And why? Let the poor here despair"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִיכָּא עֲנִיִּים בְּדוּכְתָּא אַחְרִיתָא דְּלָא מִיָּאֲשִׁי!",
+          "english": "There are poor in another place who do not despair!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמְרִי: כֵּיוָן דְּאִיכָּא עֲנִיִּים הָכָא,",
+          "english": "They say: Since there are poor here,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָנָךְ מֵעִיקָּרָא אִיָּאוֹשֵׁי מִיָּאַשׁ, וְאָמְרִי:",
+          "english": "Those from the outset despaired, and they say:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עֲנִיִּים דְּהָתָם מְלַקְּטִי לֵיהּ.",
+          "english": "The poor there gather it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרִי: כֵּיוָן דְּאִיכָּא עֲנִּיִּים הָכָא, הָנָךְ מֵעִקָּרָא אִיָּאוֹשֵׁי מִיָּאַשׁ, וְאָמְרִי: עֲנִּיִּים דְּהָתָם מְלַקְּטִי לֵיהּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        88
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:12:1",
+            "hebrew": "ואמאי - אי יאוש שלא מדעת לאו יאוש הוא:",
+            "english": "And why - if abandonment without awareness is not [considered] abandonment.",
+            "takeaway": "רש״י explains that the Gemara's question arises from the principle that יאוש שלא מדעת is not considered valid יאוש."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:12:2",
+            "hebrew": "נהי - דלגבי עניים דהכא הוי יאוש מדעת שראו שהלכו בה הנמושות ונתיאשו אלא עניים דעיר אחרת עדיין לא ידעי והיאך מותרין בו אלא משום כיון דלכי ידעי מיאשי הוי יאוש משעה שהלכו בו ובהיתר באו ליד זה:",
+            "english": "Given that - concerning the poor people from here, it is abandonment with awareness; since they saw the nemushot walked through it. But the poor of another city do not yet know - so how is it that we are permitted it. Rather it is because their abandonment, when they do know, is [considered] abandonment from the time [the nemushot] left it. So it was permissible when it came to the hand of this one.",
+            "takeaway": "רש״י clarifies that while the local poor have יאוש מדעת, the poor of other cities do not yet know, so their יאוש is retroactively applied from the time the nemushot passed, thereby permitting the acquisition."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from קַצִּיעוֹת בַּדֶּרֶךְ",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that permits taking dried figs but prohibits taking olives, implying the owner despairs of the figs but not the olives.",
+      "whatsHappening": "The גמרא challenges the ruling on יֵאוּשׁ שֶׁלֹּא מִדַּעַת by citing a מִשְׁנָה about dried figs and olives. This is a setup line introducing a textual proof.",
+      "deeperAnalysis": "The מִשְׁנָה permits taking dried figs but forbids taking olives. This distinction implies the owner despairs of the figs but not the olives, contradicting the view that יֵאוּשׁ שֶׁלֹּא מִדַּעַת is invalid.",
+      "keyTerms": [
+        {
+          "term": "קַצִּיעוֹת בַּדֶּרֶךְ",
+          "meaning": "dried figs on the path"
+        },
+        {
+          "term": "בַּזֵּיתִים וּבַחֲרוּבִים אֲסוּר",
+          "meaning": "in olives and carobs it is prohibited"
+        },
+        {
+          "term": "יֵאוּשׁ שֶׁלֹּא מִדַּעַת",
+          "meaning": "despair without knowledge"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: קְצִיעוֹת בַּדֶּרֶךְ,",
+          "english": "Come and hear: scattered produce on the road,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַאֲפִילּוּ בְּצַד שְׂדֵה קְצִיעוֹת,",
+          "english": "and even beside a field of scattered produce,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכֵן תְּאֵנָה הַנּוֹטָה לַדֶּרֶךְ,",
+          "english": "and likewise a fig tree leaning toward the road,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמָצָא תְּאֵנִים תַּחְתֶּיהָ –",
+          "english": "and one found figs beneath it –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מוּתָּרוֹת מִשּׁוּם גָּזֵל,",
+          "english": "they are permitted with regard to robbery,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּפְטוּרוֹת מִן הַמַּעֲשֵׂר.",
+          "english": "and exempt from tithes."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בְּזֵיתִים וּבְחָרוּבִים – אָסוּר.",
+          "english": "In olives and carobs – prohibited."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: קְצִיעוֹת בַּדֶּרֶךְ, וַאֲפִילּוּ בְּצַד שְׂדֵה קְצִיעוֹת, וְכֵן תְּאֵנָה הַנּוֹטָה לַדֶּרֶךְ, וּמָצָא תְּאֵנִים תַּחְתֶּיהָ – מוּתָּרוֹת מִשּׁוּם גָּזֵל, וּפְטוּרוֹת מִן הַמַּעֲשֵׂר. בְּזֵיתִים וּבְחָרוּבִים – אָסוּר.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        89
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:13:1",
+            "hebrew": "קציעות - תאנים שקוצצין אותם באיזמל ומוהל שלהן זב ושוטחן בשדה ליבש:",
+            "english": "Dried figs - Figs that are cut off with a scalpel, such that their sap flows out; and we spread them out on the field to dry.",
+            "takeaway": "רש״י explains that קציעות are figs cut with a scalpel so their sap flows out, then spread in the field to dry."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:13:2",
+            "hebrew": "ואפי' בצד שדה קציעות - שדה ששוטחים בה קציעות דידע דמהנהו אתו:",
+            "english": "And even in the side of a field of dried figs - A field in which we spread out figs to dry, as he knows that they came from them.",
+            "takeaway": "רש״י clarifies that a field of קציעות is a place where figs are spread to dry, so the owner knows they came from there."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:13:3",
+            "hebrew": "מותרות משום גזל - אע\"ג דכי נפל לא ידע כיון דלכי ידע מיאש מהשתא הוי יאוש כרבא:",
+            "english": "Permitted [regarding] robbery - Even though he did not know when they fell; since once he will know, he will abandon [them], the abandonment is from now - like Rava.",
+            "takeaway": "רש״י explains that the figs are permitted because the owner will despair once he knows they fell, which constitutes יאוש from now, following רבא's view."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:13:4",
+            "hebrew": "ופטורות מן המעשר - כדין הפקר דהפקר פטור מן המעשר:",
+            "english": "Exempt from tithes - like the law of ownerless property. As ownerless property is exempt form tithes.",
+            "takeaway": "רש״י states that the figs are exempt from מעשר because they are treated as הפקר, which is exempt from tithes."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:13:5",
+            "hebrew": "בזיתים ובחרובים אסור - כאביי:",
+            "english": "In [the case of] olives or of carobs, it is prohibited - like Abbaye.",
+            "takeaway": "רש״י explains that olives and carobs are prohibited because the owner does not despair, following אביי's view."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 21b:13:1",
+            "hebrew": "ופטורות ממעשר - במס' פאה (פ\"א מ\"ו) מוכח דוקא בהפקיר קודם גמר מלאכה פטור מן המעשר אבל אם הפקיר לאחר גמר מלאכה שנתחייב כבר במעשר אין בכך כלום וה\"נ מיירי קודם גמר מלאכה שלא נתייבשו עדיין כדמוכח בביצה פרק המביא (דף לד:) דתאנים העומדין לשוטחן בשדה ולעשות מהן קציעות לא נגמר מלאכתן למעשר עד שיתייבשו ואפילו זכה בהן המוצא קודם שיתייבשו פטורות מן המעשר כדאמרינן בב\"ק (דף כח.) המפקיר כרמו והשכים בבקר ובצרו פטור מן המעשר וגבי הקדש אינו כן שאם הקדיש קודם גמר מלאכה ונפדה קודם גמר מלאכה חייב במעשר כדמוכח קצת בפרק האומר (סב:):",
+            "english": "And exempt from tithes - In Tractate Peah 4:1, it is shown that it is only when he renders it ownerless before the end of the work [on the produce] that it is exempt from tithes. But if he renders it ownerless after the end of the work, when he was already obligated in tithes, there is nothing in this. And here too is it is speaking about after the end of the work, such that they have not yet dried - as it is shown in Beitzah 34b, the chapter [entitled] Hamevie - that the end of the work of figs that are ready to be spread out in the field and to be made into dried figs, is not until they are dried. And even if the finder claimed them before they dried, they are [still] exempt from tithes, as we say in Bava Kamma 28a, \"One who renders his vineyard ownerless and arose early in the morning and harvested it [...] is exempt from tithes.\" But it is not like this concerning consecrated property (hekdesh). As if he consecrated [it] before the end of the work and it was redeemed before the end of the work, it is [still] obligated in tithes, as it is somewhat shown in the chapter [entitled] HaOmer (Kiddushin 62b).",
+            "takeaway": "תוספות explains that the exemption from מעשר applies only because the figs were rendered ownerless before גמר מלאכה (when they dried), as shown in בבא קמא and בבא מציעא, unlike הקדש which remains obligated if redeemed before גמר מלאכה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: the owner checks for valuable items",
+      "stepSummary": "The Gemara resolves the challenge by explaining that the owner of dried figs is likely to check for them and realize the loss.",
+      "whatsHappening": "The גמרא resolves the challenge by explaining the owner of dried figs likely realizes the loss. This is a direct answer to the previous קושיא.",
+      "deeperAnalysis": "Dried figs are considered valuable (חֲשׁוּבִי). The owner will feel around for them (מִמְשָׁמֵשׁ בָּהֶן) and discover they are missing. Thus, he despairs with knowledge (יֵאוּשׁ מִדַּעַת), not without it.",
+      "keyTerms": [
+        {
+          "term": "אֲגַב דְּחֲשׁוּבִי מִמְשָׁמֵשׁ בָּהֶן",
+          "meaning": "because they are valuable, he feels around for them"
+        },
+        {
+          "term": "יֵאוּשׁ מִדַּעַת",
+          "meaning": "despair with knowledge"
+        },
+        {
+          "term": "חֲשׁוּבִי",
+          "meaning": "valuable/significant"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בִּשְׁלָמָא רֵישָׁא לְאַבָּיֵי לָא קַשְׁיָא:",
+          "english": "But the beginning, according to Abaye, is not difficult:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַגַּב דַּחֲשִׁיבִי – מְמַשְׁמֵשׁ בְּהוּ.",
+          "english": "Since they are numerous – he uses them."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּאֵנָה נָמֵי מִידָּע יְדִיעַ דְּנָתְרָא.",
+          "english": "A fig also, from the beginning, is known that it remains."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בִּשּׁלָמָא רֵישָׁא לְאַבָּיֵי לָא קַשְׁיָא: אַגַּב דַּחֲשִׁיבִי – מְמַשְׁמֵשׁ בְּהוּ. תְּאֵנָה נָמֵי מִידָּע יְדִיעַ דְּנָתְרָא.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        90
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:14:1",
+            "hebrew": "בשלמא רישא לאביי - מצי לתרוצי דמעיקרא ידע ואיאש כדמפרש ואזיל:",
+            "english": "Granted, the first clause [to] Abbaye - he can find to answer, that he knew from the beginning - as it continues to explain.",
+            "takeaway": "רש״י explains that the resolution for Abbaye is that the owner knew about the loss from the beginning and therefore despaired, as the Gemara will elaborate."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 21b:14:1",
+            "hebrew": "תאנה נמי מידע ידיע דנתרא - פירוש בשלמא לאביי תאנה מותרת כיון דרגילות היא דנתרא מעיקרא מתיאש לפי שסבור שהמוצא יקחנה כי הוא לא ידע שנפלה מן האילן אלא סבור הוא מעוברי דרכים נפלה ובזיתים ובחרובין אסור דלא עבידי דנתרי אע\"ג דאם היה יודע דנפלו היה מתיאש לפי שעוברי דרכים יקחו כי יתלו דנפל מעוברי דרכים השתא דלא ידע סבור שלא נפלו אסורה דהוה ליה יאוש שלא מדעת אבל לרבא דהוי יאוש אמאי אסור וא\"ת אם דין הוא לתלות בעוברי דרכים ולא באילן שאצלו אמאי אסור בזיתים ובחרובין וי\"ל דבדין ודאי אין לתלות בעוברי דרכים אלא באילן אלא שהבעלים מתיאשים לפי שסבורין שעוברי דרכים דלא מעלי יורו היתירא בפירות שמוצאים ויתלום בעוברי דרכים וא\"ת אם כן מאי פריך לרבא נימא דזיתים וחרובין אסירי משום דאף לאחר שידעו הבעלים שנפלו לא נתיאשו לפי שיודעין שהמוצא לא יקחם שיתלה שנפלו מן האילן כאשר הוא האמת שאין לתלות בעוברי דרכים וי\"ל דאם אינן מתיאשים בתאנה אמאי מותרים מיהו אית ספרים דגרסינן שאני זית הואיל וזיתו מוכיח עליו דבזה מתורץ מה שהקשינו כלומר לפי שהם תחת הזית יחשבו הבעלים שהמוצא לא יקחם לתלות בעוברי דרכים אבל תאנה עם נפילתה נמאסת פירוש מתלכלכת ונמאסת בעיניו ומפקירה אבל ברוב ספרים גרסינן הואיל וחזותו מוכיח עליו ואע\"ג דמנתרא מידע ידעי דוכתא דאיניש איניש פירוש זיתים שנפלו דומין לזיתים שעומדין באילן ולפיכך אף כשידעו הבעלים שנפלו לא יתיאשו דיודעין שהמוצאם לא יקחם אבל תאנה עם נפילתה נמסת כן גרסינן בערוך נמסת בלא אל\"ף ואין דומין לאותן שבאילן אי נמי גרסינן נמאסת ומחמת שמתלכלכת אינה דומה לתאנה שבאילן:",
+            "english": "The fig tree, too, one knows that [the figs] fell - The explantion: Granted, [in the case of] the fig trees, [taking the figs is] permissible - since it is common that they fall, [the owner] abandons them from the beginning. For he thinks that the finder will take them, for [the latter] did not know that it fell from a tree, but rather thinks that it fell from passers-by. But with olives and carobs, it is forbidden, for they are not prone to falling. Even though if [the owner knew that it fell], he would abandon [it] - as passers-by would take [it], since they would assume that it fell from [other] passers-by. [But] now that they did not know, they would think [the olives or carobs] did not fall - [so] it would be forbidden, as it would be abandonment without awareness. But according to Rava, why would it be forbidden? And if you will say, \"If it is the law to assume [the fruit came from] passers-by, and not from the tree adjacent to it, why is it forbidden with olives and carobs\" - one can say that according to the law, we certainly do not assume [it was] from passers-by, but from the tree; however, the owners will abandon [the fruit nevertheless], as they think that passers-by who are not upstanding will decide upon a dispensation for the fruit that they find, and assume they were from passers-by. And if you will say, \"If so, what is the challenge it presents to Rava; let us say that olives and carobs are forbidden because even after the owners know that they fell, they do not abandon [them], since they know that the finder will not take them; as he will assume that they fell from the tree, as is the truth, since one should not assume [they were] from passers-by - one can say, if they do not abandon [them in the case of] the fig tree, why would [the figs] be permitted? However there are books [of the Talmud] that have the variant, \"an olive is different, since its olive tree (zaito) proves about it.\" For with this, that which we raised as a difficulty is answered. That is to say that since they are below the olive tree, the owners will think that the finder will not take them, to assume [them] from passers-by. But \"a fig becomes disgusting with its fall\" - the explanation is, it gets dirty and is disgusting to him, so he renders it ownerless. But in most books, we have the variant, \"since its appearance (chazuto) proves about it; and even though the olives fall, [the finder] knows that the place of a person is that person's\" - the explanation is, olives that fell are similar to olives [still] standing on the tree; and therefore even when the owners know they fell, they will not abandon [them], as they know that the ones that find them will not take them. But \"a fig dissolves (nimiset) with its fall\" - this is the variant in Arukh - nimiset without an aleph - so they are not similar to those on the tree. And also we can follow the variant [that has] nimaeset (becomes disgusting) - and because it becomes dirty, it is not similar to a fig on the tree.",
+            "takeaway": "תוספות explains that dried figs are permitted because the owner despaired from the beginning, assuming the finder would take them thinking they fell from a passerby, whereas olives and carobs are forbidden because they don't typically fall, so the owner doesn't despair until he knows they fell, which constitutes יאוש שלא מדעת."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from olives",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Mishnah that prohibits taking olives, implying the owner does not despair of recovering them.",
+      "whatsHappening": "The גמרא challenges the resolution by focusing on the olives mentioned in the same מִשְׁנָה. This is a setup line for a new difficulty.",
+      "deeperAnalysis": "The מִשְׁנָה forbids taking olives, implying the owner does not despair. If the owner does not know he lost them, this contradicts the rule that יֵאוּשׁ שֶׁלֹּא מִדַּעַת is invalid.",
+      "keyTerms": [
+        {
+          "term": "הָא לָא יָדַע דְּנָפַל מִנֵּיהּ",
+          "meaning": "he did not know that it fell from him"
+        },
+        {
+          "term": "בַּזֵּיתִים",
+          "meaning": "in olives"
+        },
+        {
+          "term": "אֲסוּר",
+          "meaning": "prohibited"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא סֵיפָא לְרָבָא קַשְׁיָא,",
+          "english": "But the latter clause is difficult according to Rava,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּקָתָנֵי ״בְּזֵיתִים וּבְחָרוּבִים אָסוּר״,",
+          "english": "as it teaches: 'In olives and in carobs it is prohibited'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַבִּי אֲבָהוּ: שָׁאנֵי זַיִת,",
+          "english": "Rabbi Abbahu said: The olive is different,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הוֹאִיל וְחָזוּתוֹ מוֹכִיחַ עָלָיו,",
+          "english": "Since its appearance testifies about it,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאַף עַל גַּב דְּנָתְרִין זֵיתֵי מִידָּע יְדִיעַ,",
+          "english": "And even though olives remain, from knowing knowledge,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דּוּכְתָּא דְּאִינִישׁ אִינִישׁ הוּא.",
+          "english": "A place of a person is a person."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא סֵיפָא לְרָבָא קַשְׁיָא, דְּקָתָנֵי ״בְּזֵיתִים וּבְחָרוּבִים אָסוּר״, אָמַר רַבִּי אֲבָהוּ: שָׁאנֵי זַיִת, הוֹאִיל וְחָזוּתוֹ מוֹכִיחַ עָלָיו, וְאַף עַל גַּב דְּנָתְרִין זֵיתֵי מִידָּע יְדִיעַ, דּוּכְתָּא דְּאִינִישׁ אִינִישׁ הוּא.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        91
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:15:1",
+            "hebrew": "דקתני בזיתים ובחרובין אסור - וסלקא דעתך משום דלא עבידי דנתרי וליכא למימר ידע דאיאש ואע\"ג דלכי ידע מיאש לא הוי יאוש מהשתא:",
+            "english": "As it teaches, olives or carobs are prohibited - And you would think it is because they are not prone to fall and it cannot be said that [the finder] knew that [the owner] abandoned [them]. So even though once he will know, he will abandon [them], it is not [considered] abandonment from now.",
+            "takeaway": "רש״י explains that the challenge arises because one might assume the prohibition on taking olives is due to the owner not having יאוש, since olives are not typically dropped and thus the owner would not have abandoned them even if he knew they fell."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:15:2",
+            "hebrew": "חזותו מוכיח עליו - מראיתו ניכר של מי הוא הלכך מריה לכי ידע דנפיל לא מיאש דמימר אמר כולי עלמא ידעי דדידי נינהו ולא הפקר הן ולא שקלי להו:",
+            "english": "Its appearance proves about it - It is known whose it is from its appearance. Hence once its owner knows that it fell, he will not abandon [it]. For he will surely say, \"Everyone knows that they are mine and they are not ownerless, so they will not take them.\"",
+            "takeaway": "רש״י clarifies that the unique status of olives is that their appearance identifies the owner, so the owner does not despair because he knows others recognize them as his and will not take them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the fig tree",
+      "stepSummary": "The Gemara challenges the resolution that the olive has a siman by pointing out that the fig tree also has a siman, so the owner should not despair of recovering the figs.",
+      "whatsHappening": "The גמרא challenges the resolution regarding olives by pointing out a similarity with figs. This is a setup line for a new difficulty.",
+      "deeperAnalysis": "The previous resolution suggested olives have a סימן, preventing despair. The גמרא argues figs under a fig tree also have a סימן (the tree itself). Therefore, the owner should not despair of figs either, contradicting the מִשְׁנָה.",
+      "keyTerms": [
+        {
+          "term": "אֲפִלּוּ רִישָׁא נָמֵי",
+          "meaning": "even the first clause"
+        },
+        {
+          "term": "תְּאֵנָה נָמֵי מִידַע יְדַעְתָּא דְּנָתְרָא",
+          "meaning": "the fig tree also knows that it remains"
+        },
+        {
+          "term": "סִימָן",
+          "meaning": "identifying mark"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, אֲפִילּוּ רֵישָׁא נָמֵי!",
+          "english": "If so, even the beginning!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב פָּפָּא: תְּאֵנָה עִם נְפִילָתָהּ נִמְאֶסֶת.",
+          "english": "Rav Pappa said: A fig with its fall becomes disgusting."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, אֲפִילּוּ רֵישָׁא נָמֵי!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        93
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:16:1",
+            "hebrew": "עם נפילתה נמאסת - הלכך כיון דידיע דנתרא מעיקרא מיאש משום מאיסותא דמכי נפלה לא חשיבא עליה ומפקר לה:",
+            "english": "Becomes disgusting with its fall - Hence since he know that they fall, he abandons [them] from the beginning because of [their] disgust. As from when it falls, it is not significant to him and he renders it ownerless.",
+            "takeaway": "רש״י explains that the owner despairs of recovering the figs because they become disgusting immediately upon falling, so he renders them ownerless from the outset."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a thief and a robber",
+      "stepSummary": "The Gemara challenges the position that יאוש שלא מדעת is not valid יאוש by citing a Baraita about a thief and a robber, implying the owner despairs even without knowing the loss.",
+      "whatsHappening": "The גמרא brings a בְּרֵיתָא about a thief and a robber to challenge the ruling on יֵאוּשׁ שֶׁלֹּא מִדַּעַת. This is a setup line introducing a new textual proof.",
+      "deeperAnalysis": "The בְּרֵיתָא discusses cases where an item is taken and given to another. This implies the owner despairs even without knowing the loss occurred. This contradicts the position that יֵאוּשׁ שֶׁלֹּא מִדַּעַת is invalid.",
+      "keyTerms": [
+        {
+          "term": "הַגַּנָּב שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה",
+          "meaning": "the thief who took from this one and gave to that one"
+        },
+        {
+          "term": "וְגַזְלָן שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה",
+          "meaning": "and the robber who took from this one and gave to that one"
+        },
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "a teaching not in the Mishnah"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע: הַגַּנָּב שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה,",
+          "english": "Come and hear: A thief who took from this one and gave to that one,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְכֵן גַּזְלָן שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה,",
+          "english": "and likewise a robber who took from this one and gave to that one,"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע: הַגַּנָּב שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה, וְכֵן גַּזְלָן שֶׁנָּטַל מִזֶּה וְנָתַן לָזֶה,",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        95
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "objection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 21b:17:1",
+            "hebrew": "לא ידיע - לא גרסינן ופירוש היה משובש בספרים:",
+            "english": "",
+            "takeaway": "רש״י explains that the text in the manuscripts was corrupted and the correct reading is not 'לא ידיע'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T09:24:51.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 86.43356570001924,
+      "structure": 2369.779802699981,
+      "translate": 465.63970599963795,
+      "meforshim": 713.1112553001731,
+      "teaching": 1048.0664347999264
+    }
+  }
+}

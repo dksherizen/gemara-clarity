@@ -1,0 +1,886 @@
+{
+  "ref": "Bava Metzia 51b",
+  "masechet": "Bava_Metzia",
+  "daf": 51,
+  "amud": "b",
+  "mainTopic": "(continues) תנאי בטול אונאה · הנושא והנותן באמנה",
+  "overview": "(1) A dispute between Rav and Shmuel regarding the validity of a stipulation waiving Ona'ah, analyzed through the lens of R' Meir and R' Yehuda's views on conditions in monetary matters. (2) The laws of a middleman (So'ei ve'Noten) who cannot mix values of trust and market value, and the new Mishnah regarding the minimum Ona'ah in a Sela.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 7,
+      "topic": "(continues) תנאי בטול אונאה",
+      "gist": "A dispute between Rav and Shmuel regarding the validity of a stipulation waiving Ona'ah, analyzed through the lens of R' Meir and R' Yehuda's views on conditions in monetary matters.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 8,
+      "endLine": 11,
+      "topic": "הנושא והנותן באמנה",
+      "gist": "The laws of a middleman (So'ei ve'Noten) who cannot mix values of trust and market value, and the new Mishnah regarding the minimum Ona'ah in a Sela.",
+      "openingFormula": "תנו רבנן",
+      "firstStepNumber": 7,
+      "lastStepNumber": 10
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "שְׁמוּאֵל's defense: Even according to רַבִּי מֵאִיר, שְׁמוּאֵל is correct",
+      "stepSummary": "Shmuel defends his position by distinguishing between abrogating Torah law and waiving a monetary claim.",
+      "whatsHappening": "שְׁמוּאֵל defends his position by distinguishing between abrogating Torah law and waiving a monetary claim. He argues his ruling stands even according to רַבִּי מֵאִיר.",
+      "deeperAnalysis": "שְׁמוּאֵל argues רַבִּי מֵאִיר only invalidates conditions that directly abrogate Torah law. In אוֹנָאָה, the stipulation is merely waiving a monetary claim. It is not abrogating the Torah's prohibition itself.",
+      "keyTerms": [
+        {
+          "term": "וַדַּאי קָא עָקַר",
+          "meaning": "he definitely abrogates [Torah law]"
+        },
+        {
+          "term": "מִי יֵימַר דְּקָא עָקַר מִידֵּי",
+          "meaning": "who says that he abrogates anything?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּשְׁמוּאֵל אָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי מֵאִיר,",
+          "english": "And Shmuel says: I say even to Rabbi Meir,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עַד כָּאן לָא קָאָמַר רַבִּי מֵאִיר הָתָם,",
+          "english": "Until here Rabbi Meir does not say there,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא דְּוַדַּאי קָא עָקַר,",
+          "english": "But that he definitely uproots,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל הָכָא מִי יֵימַר דְּקָא עָקַר מִידֵּי.",
+          "english": "But here who says that he uproots anything."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּשְׁמוּאֵל אָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי מֵאִיר, עַד כָּאן לָא קָאָמַר רַבִּי מֵאִיר הָתָם, אֶלָּא דְּוַדַּאי קָא עָקַר, אֲבָל הָכָא מִי יֵימַר דְּקָא עָקַר מִידֵּי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "refutes",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:2:1",
+            "hebrew": "דודאי עקר - בשעת התנאי עוקר דברי תורה שהטילה עליו שאר כסות ועונה וזה עוקר החובה מעליו ואפי' הוא נותן לאחר זמן מתנה בעלמא הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי מאיר's concern of דודאי קא עקר applies to cases where the condition directly abrogates a Torah obligation, such as waiving the husband's duties of שאר כסות ועונה, which renders the transaction invalid even if the husband later provides a gift."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:2:2",
+            "hebrew": "אבל הכא מי יימר דעקר - שמא לא יהא בו אונאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that in the case of אונאה, we cannot be certain that the condition abrogates Torah law because there might not actually be any overcharge, meaning the stipulation is merely a waiver of a potential monetary claim rather than a direct abrogation."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:2:1",
+            "hebrew": "אבל הכא מי יימר דקעקר - ובפ\"ק דמכות. (דף ג: ושם ד\"ה ושמואל) דפריך לשמואל מאונאה לשביעית התם בשביעית נמי לא ידע דקעקר דאימר יפרע לו קודם שביעית:",
+            "english": "",
+            "takeaway": "תוספות connects this principle to a discussion in מסכת מכות, where שמואל's ruling on שביעית is defended similarly by arguing that we cannot be certain the condition abrogates Torah law because the debt might be repaid before the שביעית year arrives."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רַב אַנָּן's distinction between two types of stipulations",
+      "stepSummary": "Rav Anan cites Shmuel's distinction between waiving a claim and attempting to abrogate the law itself.",
+      "whatsHappening": "רַב אַנָּן cites שְׁמוּאֵל's distinction between waiving a claim and attempting to abrogate the law. This clarifies שְׁמוּאֵל's position.",
+      "deeperAnalysis": "רַב אַנָּן reports שְׁמוּאֵל distinguished two formulations. 'עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה' is valid. 'עַל מְנָת שֶׁאֵין בּוֹ אוֹנָאָה' is invalid. This aligns with שְׁמוּאֵל's defense in the previous step.",
+      "keyTerms": [
+        {
+          "term": "אֵין לְךָ עָלַי אוֹנָאָה",
+          "meaning": "you have no claim of אוֹנָאָה against me"
+        },
+        {
+          "term": "אֵין בּוֹ אוֹנָאָה",
+          "meaning": "there is no אוֹנָאָה in it [abrogating the law]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב עָנָן:",
+          "english": "Rav Anan says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְדִידִי מִפָּרְשָׁא לִי מִינֵּיהּ דְּמָר שְׁמוּאֵל:",
+          "english": "To me it was explained from Mar Shmuel:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָאוֹמֵר לַחֲבֵירוֹ ״עַל מְנָת שֶׁאֵין לְךָ",
+          "english": "One who says to his friend \"On condition that you have no"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עָלַי אוֹנָאָה״ –",
+          "english": "claim of exploitation against me\" –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "he has no claim of exploitation against him."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״עַל מְנָת שֶׁאֵין בּוֹ אוֹנָאָה״ –",
+          "english": "\"On condition that there is no exploitation in it\" –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הֲרֵי יֵשׁ בּוֹ אוֹנָאָה.",
+          "english": "behold, there is exploitation in it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב עָנָן: לְדִידִי מִפָּרְשָׁא לִי מִינֵּיהּ דְּמָר שְׁמוּאֵל: הָאוֹמֵר לַחֲבֵירוֹ ״עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה״ – אֵין לוֹ עָלָיו אוֹנָאָה. ״עַל מְנָת שֶׁאֵין בּוֹ אוֹנָאָה״ – הֲרֵי יֵשׁ בּוֹ אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:3:1",
+            "hebrew": "אין לו עליו אונאה - כדפרישית דמי יימר דעקר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'אין לו עליו אונאה' is valid because it constitutes a waiver of the claim, as he previously explained that one can waive their rights."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:3:2",
+            "hebrew": "שאין בו אונאה - אם אמר לו בלשון זה אין זה לשון מחילת אונאה אלא לשון תביעת אונאה דע\"מ שאין בו אונאה אמר והרי יש בו ומקח טעות נמי הוי ואם רצה לחזור חוזר לגמרי:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'שאין בו אונאה' is invalid because it is not a waiver but a claim that the item has no overcharge, which is false, thus constituting a מקח טעות that allows the buyer to cancel the sale entirely."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:3:1",
+            "hebrew": "על מנת שאין כו' - פי' רש\"י אני מבטיחך שאין בו אונאה ויש בו אונאה והוי גם מקח טעות וקשה דבפ\"ק דמכות (שם) מדמהו לעל מנת שלא תשמטהו שביעית דמשמטתו שביעית והתם לא שייך האי טעמא אלא הוי טעמא שאין לו כח להתנות שלא תחול שביעית על המלוה וי\"ל דלא מדמי אלא כי היכי דגבי אונאה יש חילוק בין לשון שאין עליו לשאין בו ה\"נ גבי שביעית יש חילוק בין לשון זה ללשון זה ורבינו שמואל מפרש דע\"מ שאין בו אונאה משמע על מנת שלא יחול איסור דלא תונו על המקח וע\"כ הוא חל והשתא הוי ממש דומיא דשביעית:",
+            "english": "",
+            "takeaway": "תוספות note that רש״י's explanation of 'על מנת שאין בו אונאה' as a false guarantee leading to מקח טעות is difficult to reconcile with the parallel case of 'על מנת שלא תשמטהו שביעית' in מסכת מכות, where the invalidity is due to the inability to stipulate against a Torah law, and they resolve this by suggesting the comparison is only regarding the distinction between the two types of language, while רבינו שמואל explains that 'שאין בו אונאה' means attempting to prevent the prohibition of אונאה from applying, which is invalid just like preventing שביעית."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenge רש״י's explanation of the second phrase as a מקח טעות by comparing it to the case of שביעית in מסכת מכות, where the invalidity is due to the inability to stipulate against a Torah law, and they offer רבינו שמואל's explanation that the second phrase is an attempt to abrogate the prohibition of אונאה, which aligns with the שביעית case."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Difficulty from a Baraita validating the stipulation",
+      "stepSummary": "A Baraita is cited that seems to validate the stipulation even in cases where Rav would invalidate it.",
+      "whatsHappening": "The גמרא introduces a ברייתא that validates the stipulation 'עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה'. This creates a direct challenge to רַב's position.",
+      "deeperAnalysis": "The ברייתא explicitly supports the validity of the condition, contradicting רַב's ruling. This forces a re-evaluation of which תנא רַב follows, especially since he claimed his ruling stands even according to רַבִּי יְהוּדָה.",
+      "keyTerms": [
+        {
+          "term": "מֵיתִיבִי",
+          "meaning": "let us juxtapose [introducing a difficulty]"
+        },
+        {
+          "term": "הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה",
+          "meaning": "one who conducts business on faith"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה,",
+          "english": "He sat: The one who buys and sells on trust,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָאוֹמֵר לַחֲבֵירוֹ ״עַל מְנָת שֶׁאֵין לְךָ",
+          "english": "and the one who says to his friend, \"On condition that you have no"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עָלַי אוֹנָאָה״ –",
+          "english": "claim of exploitation against me\" –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה. לְרַב דְּאָמַר:",
+          "english": "he has no claim of exploitation against him. According to Rav, who said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי יְהוּדָה, הָא מַנִּי?",
+          "english": "I stated my opinion even according to Rabbi Yehuda, whose is this?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי: הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה, וְהָאוֹמֵר לַחֲבֵירוֹ ״עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה״ – אֵין לוֹ עָלָיו אוֹנָאָה. לְרַב דְּאָמַר: אֲנָא דַּאֲמַרִי אֲפִילּוּ לְרַבִּי יְהוּדָה, הָא מַנִּי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:4:1",
+            "hebrew": "הנושא ונותן באמנה - מכור במה שתוכל ותן לי המעות לזמן פלוני והנני סומך עליך ונותן לו שכר טרחו כדלקמן:",
+            "english": "",
+            "takeaway": "רש״י explains that הנושא ונותן באמנה refers to a transaction where the buyer purchases an item on credit with a fixed payment date, relying on the seller's trust, and pays a fee for the seller's effort."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:4:2",
+            "hebrew": "אין לו עליו אונאה - לומר יותר היה שוה ואם מכר זה בדמים רבים אין זה יכול לומר לא אתן אלא דמיו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that אין לו עליו אונאה means the buyer cannot later claim the item was worth more to demand a refund, nor can the seller claim the price was too low if the item was sold for a high price."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:4:1",
+            "hebrew": "הנושא ונותן באמנה - פי' רש\"י שמאמינו שימכרנו כמו שיוכל אין לו עליו אונאה והריוח וההפסד למשלחו וקשה דאין שייך לשון אונאה על זה ועוד אי שליח לא קבל עליו אחריות פשיטא שהריוח וההפסד למשלח ואי קבל השליח עליו אחריות וההפסד א\"כ יש לו עליו אונאה ונראה דנושא ונותן באמנה היינו שמאמינו בכמה קנה ונותן לו כך ויותר מעט והשתא שייך שפיר אין עליו אונאה:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's definition of הנושא ונותן באמנה as a sales agency, arguing that אונאה does not apply to an agent, and instead defines it as a transaction where the buyer purchases at a set price and pays a small premium, making the stipulation against אונאה relevant."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disputes רש״י's interpretation of הנושא ונותן באמנה, arguing that רש״י's agency model makes the concept of אונאה inapplicable, and proposes an alternative definition involving a fixed price with a premium to justify the relevance of the אונאה stipulation."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "Abaye's resolution: Rav follows R' Meir, Shmuel follows R' Yehuda",
+      "stepSummary": "Abaye resolves the difficulty by reverting to the initial alignment: Rav follows R' Meir, Shmuel follows R' Yehuda.",
+      "whatsHappening": "אַבָּיֵי resolves the difficulty by reverting to the initial alignment: רַב follows רַבִּי מֵאִיר, and שְׁמוּאֵל follows רַבִּי יְהוּדָה.",
+      "deeperAnalysis": "אַבָּיֵי argues the ברייתא proves the original alignment was correct. רַב follows רַבִּי מֵאִיר who invalidates conditions, while שְׁמוּאֵל follows רַבִּי יְהוּדָה who validates them in monetary matters.",
+      "keyTerms": [
+        {
+          "term": "מְחַוּוּורְתָּא",
+          "meaning": "it is clear [from the proof]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי: מְחַוַּורְתָּא,",
+          "english": "Abaye said: It is clear"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב אָמַר כְּרַבִּי מֵאִיר,",
+          "english": "Rav said according to Rabbi Meir"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּשְׁמוּאֵל דְּאָמַר כְּרַבִּי יְהוּדָה.",
+          "english": "and Shmuel who said according to Rabbi Yehuda"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר אַבָּיֵי: מְחַוּוּורְתָּא, רַב אָמַר כְּרַבִּי מֵאִיר, וּשְׁמוּאֵל דְּאָמַר כְּרַבִּי יְהוּדָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:5:1",
+            "hebrew": "מחוורתא כו' - ורב מוקי לה כרבי יהודה דאפי' היכא דלא ידע ומחיל נמי אמר:",
+            "english": "",
+            "takeaway": "רש״י explains that the term מחוורתא indicates that Rav's position is actually the more straightforward one, as he holds that even when the owner is unaware and forgives the loss, the condition is still invalid."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Rava's distinction: Stipulation in a standard case vs. explicit case",
+      "stepSummary": "Rava resolves the difficulty by distinguishing between a standard case and an explicit case of Ona'ah.",
+      "whatsHappening": "רַבָּא offers an alternative resolution by distinguishing between a standard case and an explicit case of אוֹנָאָה.",
+      "deeperAnalysis": "רַבָּא argues the ברייתא speaks of a standard case where the buyer doesn't know the true value. רַב's ruling applies to an explicit case where both parties know the true value, making the stipulation invalid.",
+      "keyTerms": [
+        {
+          "term": "בִּסְתָם",
+          "meaning": "in a standard case [where the value is unknown]"
+        },
+        {
+          "term": "בִּמְפָרֵשׁ",
+          "meaning": "in an explicit case [where the value is known]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא אָמַר: לָא קַשְׁיָא,",
+          "english": "Rava said: It is not difficult,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כָּאן – בִּסְתָם,",
+          "english": "Here – in an unspecified case,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כָּאן – בִּמְפָרֵשׁ.",
+          "english": "Here – in an explicit case."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא אָמַר: לָא קַשְׁיָא, כָּאן – בִּסְתָם, כָּאן – בִּמְפָרֵשׁ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:6:1",
+            "hebrew": "סתם - ע\"מ שאין לך עלי אונאה דלא ידע דניחול:",
+            "english": "",
+            "takeaway": "רש״י explains that in a standard case (בִּסְתָם), the buyer is unaware of the true value, so the stipulation against אונאה is valid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:6:2",
+            "hebrew": "מפרש - שפירש לו יודע אני שיש אונאה ואני מוכרו לך ע\"מ שאין לך עלי אונאה דבהא אמר רבי יהודה דמתנה ותנאו קיים דדמי לשאר וכסות:",
+            "english": "",
+            "takeaway": "רש״י explains that in an explicit case (בִּמְפָרֵשׁ), the buyer knows about the אונאה and explicitly accepts the stipulation, which רבי יהודה considers valid as it resembles a gift with conditions."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "ראיה",
+      "title": "Baraita supporting Rava's distinction",
+      "stepSummary": "A Baraita is cited to support Rava's distinction between standard and explicit cases.",
+      "whatsHappening": "The גמרא cites a ברייתא that explicitly supports רַבָּא's distinction between standard and explicit cases.",
+      "deeperAnalysis": "The ברייתa distinguishes between standard cases where the stipulation is invalid and explicit cases where both parties know the true value. This confirms רַבָּא's resolution and clarifies the application of the law.",
+      "keyTerms": [
+        {
+          "term": "בַּמֶּה דְּבָרִים אֲמוּרִים",
+          "meaning": "in what case are these words said?"
+        },
+        {
+          "term": "יוֹדֵעַ אֲנִי בּוֹ",
+          "meaning": "I know about it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּתַנְיָא: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּסְתָם.",
+          "english": "As it is taught: In what matters are these words said? In an unspecified case."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲבָל בִּמְפָרֵשׁ, מוֹכֵר שֶׁאָמַר לַלּוֹקֵחַ:",
+          "english": "But in an explicit case, a seller who said to the buyer:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חֵפֶץ זֶה שֶׁאֲנִי מוֹכֵר לָךְ בְּמָאתַיִם",
+          "english": "This item that I am selling to you for two hundred"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יוֹדֵעַ אֲנִי בּוֹ שֶׁאֵינוֹ שָׁוֶה אֶלָּא מָנֶה.",
+          "english": "I know about it that it is not worth only a hundred."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה –",
+          "english": "On the condition that you have no overcharge against me –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "He has no overcharge against him."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְכֵן לוֹקֵחַ שֶׁאָמַר לַמּוֹכֵר:",
+          "english": "And likewise a buyer who said to the seller:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "חֵפֶץ זֶה שֶׁאֲנִי לוֹקֵחַ מִמְּךָ בְּמָנֶה",
+          "english": "This item that I am buying from you for a hundred"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "יוֹדֵעַ אֲנִי בּוֹ שֶׁשָּׁוֶה מָאתַיִם.",
+          "english": "I know about it that it is worth two hundred."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה –",
+          "english": "On the condition that you have no overcharge against me –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "He has no overcharge against him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּתַנְיָא: בַּמֶּה דְּבָרִים אֲמוּרִים – בִּסְתָם. אֲבָל בִּמְפָרֵשׁ, מוֹכֵר שֶׁאָמַר לַלּוֹקֵחַ: חֵפֶץ זֶה שֶׁאֲנִי מוֹכֵר לָךְ בְּמָאתַיִם יוֹדֵעַ אֲנִי בּוֹ שֶׁאֵינוֹ שָׁוֶה אֶלָּא מָנֶה. עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה – אֵין לוֹ עָלָיו אוֹנָאָה. וְכֵן לוֹקֵחַ שֶׁאָמַר לַמּוֹכֵר: חֵפֶץ זֶה שֶׁאֲנִי לוֹקֵחַ מִמְּךָ בְּמָנֶה יוֹדֵעַ אֲנִי בּוֹ שֶׁשָּׁוֶה מָאתַיִם. עַל מְנָת שֶׁאֵין לְךָ עָלַי אוֹנָאָה – אֵין לוֹ עָלָיו אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        64
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:7:1",
+            "hebrew": "במה דברים אמורים - דיש אונאה לזה על זה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Baraita's opening phrase 'במה דברים אמורים' refers to cases where the law of אונאה applies between the parties."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:7:2",
+            "hebrew": "בסתם - מכר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'בסתם' refers to a standard sale where no explicit stipulation regarding value was made."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:7:3",
+            "hebrew": "אבל במפרש - כגון מוכר כו':",
+            "english": "",
+            "takeaway": "רש״י explains that 'במפרש' refers to an explicit case, such as the seller stating the true value and waiving אונאה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:7:1",
+            "hebrew": "במה דברים אמורים בסתם - ר\"ח פסק כרב דהלכתא כרב באיסורי תימה דהא לא פליגי אם מותר לעשות כן אלא פליגי אם חייב להחזיר האונאה והלכה כשמואל בדיני ובשאילתות דרב אחאי פרשת בהר סיני. פוסק כרב משום דהך ברייתא קאי כוותיה דמפליג בין סתם למפרש ואתיא לדידיה שפיר כר' יהודה אבל לשמואל לא מתוקמא לא כר\"מ ולא כרבי יהודה וריב\"ן פי' דלשמואל הכי פירושא דברייתא בד\"א בסתם פי' שלא אמר ע\"מ אבל מפרש ע\"מ שאין לך עלי אונאה נעשה כאומר יודע אני שאינו שוה כו' ואתיא כרבי יהודה אי נמי י\"ל אורחא דמילתא נקט דאותו שאמר ע\"מ שאין לך עלי אונאה רגיל לומר איני יודע שאינו שוה כו' אע\"פ שאינו יודע אם אמר אמת ואתיא אפילו כר\"מ דלא ידע דקעקר:",
+            "english": "",
+            "takeaway": "תוספות notes that ר"
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:7:1",
+            "hebrew": "במה דברים אמורים בסתם - ר\"ח פסק כרב דהלכתא כרב באיסורי תימה דהא לא פליגי אם מותר לעשות כן אלא פליגי אם חייב להחזיר האונאה והלכה כשמואל בדיני ובשאילתות דרב אחאי פרשת בהר סיני. פוסק כרב משום דהך ברייתא קאי כוותיה דמפליג בין סתם למפרש ואתיא לדידיה שפיר כר' יהודה אבל לשמואל לא מתוקמא לא כר\"מ ולא כרבי יהודה וריב\"ן פי' דלשמואל הכי פירושא דברייתא בד\"א בסתם פי' שלא אמר ע\"מ אבל מפרש ע\"מ שאין לך עלי אונאה נעשה כאומר יודע אני שאינו שוה כו' ואתיא כרבי יהודה אי נמי י\"ל אורחא דמילתא נקט דאותו שאמר ע\"מ שאין לך עלי אונאה רגיל לומר איני יודע שאינו שוה כו' אע\"פ שאינו יודע אם אמר אמת ואתיא אפילו כר\"מ דלא ידע דקעקר:",
+            "english": "",
+            "takeaway": "תוספות explains that ר"
+          }
+        ],
+        "acharonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:7:1",
+            "hebrew": "במה דברים אמורים בסתם - ר\"ח פסק כרב דהלכתא כרב באיסורי תימה דהא לא פליגי אם מותר לעשות כן אלא פליגי אם חייב להחזיר האונאה והלכה כשמואל בדיני ובשאילתות דרב אחאי פרשת בהר סיני. פוסק כרב משום דהך ברייתא קאי כוותיה דמפליג בין סתם למפרש ואתיא לדידיה שפיר כר' יהודה אבל לשמואל לא מתוקמא לא כר\"מ ולא כרבי יהודה וריב\"ן פי' דלשמואל הכי פירושא דברייתא בד\"א בסתם פי' שלא אמר ע\"מ אבל מפרש ע\"מ שאין לך עלי אונאה נעשה כאומר יודע אני שאינו שוה כו' ואתיא כרבי יהודה אי נמי י\"ל אורחא דמילתא נקט דאותו שאמר ע\"מ שאין לך עלי אונאה רגיל לומר איני יודע שאינו שוה כו' אע\"פ שאינו יודע אם אמר אמת ואתיא אפילו כר\"מ דלא ידע דקעקר:",
+            "english": "",
+            "takeaway": "תוספות explains that ר"
+          }
+        ],
+        "interplaySummary": "תוספות presents a complex discussion on how to reconcile the Baraita with the views of רב and שמואל, offering multiple explanations from ר"
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The rule of הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה",
+      "stepSummary": "A ברייתא teaches that a middleman conducting business on trust (אמנה) cannot mix valuation methods: he must either calculate both inferior and superior goods on trust, or both at market value.",
+      "whatsHappening": "The גמרא introduces a ברייתא establishing the prohibition against mixing אֲמָנָה and שָׁוֶה in a single transaction.",
+      "deeperAnalysis": "The ברייתא sets a foundational rule for a סוחר who buys in bulk and sells individually. He cannot exploit trust-based pricing for cheap goods while using market pricing for expensive ones.",
+      "keyTerms": [
+        {
+          "term": "הַנּוֹשֵׂא וְהַנּוֹתֵן",
+          "meaning": "the middleman who buys and sells"
+        },
+        {
+          "term": "בַּאֲמָנָה",
+          "meaning": "on trust / estimation"
+        },
+        {
+          "term": "בְּשָׁוֶה",
+          "meaning": "at market value"
+        },
+        {
+          "term": "בְּרִיתָא",
+          "meaning": "Tannaitic source outside the משנה"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה,",
+          "english": "The Sages taught: One who takes and gives on faith,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי זֶה לֹא יְחַשֵּׁב אֶת הָרַע",
+          "english": "this one must not calculate the bad"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בַּאֲמָנָה וְאֶת הַיָּפֶה בְּשָׁוֶה. אֶלָּא,",
+          "english": "on faith and the good equally. Rather,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אוֹ זֶה וָזֶה בַּאֲמָנָה,",
+          "english": "or this and that on faith,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אוֹ זֶה וָזֶה בְּשָׁוֶה.",
+          "english": "or this and that equally."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: הַנּוֹשֵׂא וְהַנּוֹתֵן בַּאֲמָנָה, הֲרֵי זֶה לֹא יְחַשֵּׁב אֶת הָרַע בַּאֲמָנָה וְאֶת הַיָּפֶה בְּשָׁוֶה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "introduces_new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:8:2",
+            "hebrew": "הרי זה לא יחשוב לו את הרע באמנה ואת היפה בשוה - להיות לו המתנת מעות היפה בשכר טרחו כגון היה לו שני יינות יפה שיש לו עליו קופצים ללקחו בבת אחת והרע שאינו נמכר אלא בחנות לא יאמר לו הרי לך יפה בשוויו ע\"מ שתמכור לי הרע בחנות כמה שתוכל ולכשימכר תן לי מעות שניהם ופוטר עצמו בהמתנת מעות של דמי היפה מלתת שכר טרחו על הרע והוי כרבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition against mixing אמנה and שוה prevents a merchant from charging the buyer market price for high-quality goods while giving him credit for low-quality goods, as the delayed payment for the good items effectively serves as interest (רבית) for the effort of selling the poor items."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:8:3",
+            "hebrew": "אלא או זה וזה באמנה - ויתן לו כדרך הנותן באמנה ששכר קצוב היה להם כדמפרש לקמן ארבעה למאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the transaction is entirely on אמנה, the merchant must pay the standard fixed fee (שכר קצוב) for the entire batch, as explained later in the Gemara."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:8:4",
+            "hebrew": "או זה וזה בשוה - והשכר יהא של מקבל:",
+            "english": "",
+            "takeaway": "רש״י explains that if the transaction is entirely on שוה, the merchant must pay the current market value for each item, and the profit (שכר) belongs to the buyer who sells them."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:8:1",
+            "hebrew": "לא יחשב את הרע באמנה - פי' רש\"י שנותן לו את הרע ומאמין לו כשימכרנו בחנות כמו שיוכל שישלם לו את היפה בשוה כמו ששוה עכשיו למכרו מיד וממתין לו מעות היפה עד שימכור הרע בשביל שטורח לו למכור הרע בחנות במעט מעט וזהו רבית וקשה דבפ' איזהו נשך (לקמן בבא מציעא דף. סה.) ה\"ל לאתויי ולא הכא ותו דבתוספתא (פ\"ג) מתניא לגבי אונאה ועוד שכבר נתן לו שכרו משמע שמקודם כבר היה לו שכרו ונראה כפי' ר\"ח שקנה י' דברים בי' דינרים ה' היפין שוה כל אחד דינר וחצי וחמשה הרעים אינן שוים כל אחד כ\"א חצי דינר וזה א\"ל אני מאמינך כמה נתת עליהם ואתן לך מעט יותר להרויח ולא יחשב לו הרע דינר דינר כמו שקנה והיפה דינר וחצי כמו ששוה שהרי לא נתן לו על הרע דינר אלא בשביל שגם היפים נתן לו בדינר דינר והוי אונאה אלא או זה וזה באמנה פירוש אם ימכרם כולם יחד יחשב כולם דינר דינר או זה וזה בשוים אם ימכור רעים לבדם יחשב כל אחד ואחד בחצי דינר ואם ימכור יפים לבדם יחשב כל אחד בדינר וחצי וגם יחשב שכר כתף כו' שכר עצמו אינו נוטל שכבר נתן לו שכרו פי' המוכר הראשון שקנאם תחלה ממנו:",
+            "english": "",
+            "takeaway": "תוספות rejects רש״י's explanation of רבית because the topic of interest is discussed elsewhere in בבא מציעא and the תוספתא links this rule to אונאה; instead, תוספות follows ר"
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:8:1",
+            "hebrew": "לא יחשב את הרע באמנה - פי' רש\"י שנותן לו את הרע ומאמין לו כשימכרנו בחנות כמו שיוכל שישלם לו את היפה בשוה כמו ששוה עכשיו למכרו מיד וממתין לו מעות היפה עד שימכור הרע בשביל שטורח לו למכור הרע בחנות במעט מעט וזהו רבית וקשה דבפ' איזהו נשך (לקמן בבא מציעא דף. סה.) ה\"ל לאתויי ולא הכא ותו דבתוספתא (פ\"ג) מתניא לגבי אונאה ועוד שכבר נתן לו שכרו משמע שמקודם כבר היה לו שכרו ונראה כפי' ר\"ח שקנה י' דברים בי' דינרים ה' היפין שוה כל אחד דינר וחצי וחמשה הרעים אינן שוים כל אחד כ\"א חצי דינר וזה א\"ל אני מאמינך כמה נתת עליהם ואתן לך מעט יותר להרויח ולא יחשב לו הרע דינר דינר כמו שקנה והיפה דינר וחצי כמו ששוה שהרי לא נתן לו על הרע דינר אלא בשביל שגם היפים נתן לו בדינר דינר והוי אונאה אלא או זה וזה באמנה פירוש אם ימכרם כולם יחד יחשב כולם דינר דינר או זה וזה בשוים אם ימכור רעים לבדם יחשב כל אחד ואחד בחצי דינר ואם ימכור יפים לבדם יחשב כל אחד בדינר וחצי וגם יחשב שכר כתף כו' שכר עצמו אינו נוטל שכבר נתן לו שכרו פי' המוכר הראשון שקנאם תחלה ממנו:",
+            "english": "",
+            "takeaway": "תוספות follows ר"
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "תוספות explicitly rejects רש״י's explanation that the prohibition is due to רבית, arguing instead that the issue is אונאה, as supported by the תוספתא and the fact that רבית is discussed elsewhere in the tractate."
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Permissible expenses vs. prohibited wages",
+      "stepSummary": "The ברייתא continues, listing expenses the middleman may recover (porter, camel, lodging) but explicitly forbids taking wages for his own labor, as he already received full payment from his supplier.",
+      "whatsHappening": "The ברייתא clarifies the financial boundaries: out-of-pocket expenses are recoverable, but personal wages are not.",
+      "deeperAnalysis": "The text distinguishes between actual costs incurred and compensation for time/effort. The latter is forbidden because the supplier already paid him 'שְׂכָרוֹ מִשָּׁלֵם'.",
+      "keyTerms": [
+        {
+          "term": "שְׂכַר כָּתֵף",
+          "meaning": "porter's fee"
+        },
+        {
+          "term": "שְׂכַר עַצְמוֹ",
+          "meaning": "wages for his own labor"
+        },
+        {
+          "term": "שְׂכָרוֹ מִשָּׁלֵם",
+          "meaning": "his wages are complete/full"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנוֹתֵן לוֹ שְׂכַר כַּתָּף, שְׂכַר גַּמָּל, שְׂכַר פּוּנְדָּק.",
+          "english": "And he gives him payment for porter, payment for camel, payment for lodging."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׂכַר עַצְמוֹ – אֵינוֹ נוֹטֵל,",
+          "english": "Payment for himself – he does not take,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁכְּבָר נָתַן לוֹ שְׂכָרוֹ מִשָּׁלֵם.",
+          "english": "For he already gave him his payment in full."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנוֹתֵן לוֹ שְׂכַר כָּתֵף, שְׂכַר גָּמָל, שְׂכַר פּוּנְדָּק. שְׂכַר עַצְמוֹ – אֵינוֹ נוֹטֵל, שְׂכָרוֹ מִשָּׁלֵם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_baraita",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:9:1",
+            "hebrew": "ונותן לו שכר כתף שכר גמל - אם נתן באמנה כשיבואו לחשבון ינכה לו שכר כתף המוליכו מביתו לחנות ואם הוצרך לגמלים נותן לו שכר גמל:",
+            "english": "",
+            "takeaway": "רש״י explains that when the item was given as an אמנה, the owner must reimburse the finder for actual transportation costs like שכר כתף (carrying from home to shop) or שכר גמל (hiring camels) when settling accounts."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "שאלה",
+      "title": "From where did the supplier pay him full wages?",
+      "stepSummary": "The גמרא asks a neutral question: if the middleman cannot take wages, where did the supplier's 'full payment' come from?",
+      "whatsHappening": "The גמרא seeks clarification on the mechanism of the supplier's payment.",
+      "deeperAnalysis": "The ברייתא claims the middleman already received 'שְׂכָרוֹ מִשָּׁלֵם' from the supplier. The גמרא asks what constitutes this payment and how he was compensated if he can't charge the buyer.",
+      "keyTerms": [
+        {
+          "term": "מֵהֵיכָא",
+          "meaning": "from where"
+        },
+        {
+          "term": "קָא יָהֵיב לֵיהּ",
+          "meaning": "is giving him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׂכָרוֹ מִשָּׁלֵם מֵהֵיכָא קָא יָהֵיב לֵיהּ?",
+          "english": "His wages in full, from where is he giving to him?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב פָּפָּא: בְּצַדְרוֹיֵי, דְּיָהֲבִי אַרְבַּע לִמְאָה.",
+          "english": "Rav Pappa said: In the case of sellers of inexpensive garments, that they give four for a…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׂכָרוֹ מִשָּׁלֵם מֵהֵיכָא קָא יָהֵיב לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        67
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "asks_about_prior_claim",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:10:1",
+            "hebrew": "בצדרויי - מוכרי בגדי קנבוס ששכר קצוב להם ליתן ארבעה למאה למי שטורח במכירתן:",
+            "english": "",
+            "takeaway": "רש״י explains that בצדרויי refers to linen merchants who have a fixed commission rate of four percent for those who exert effort in selling their goods."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah on minimum Ona'ah in a Sela",
+      "stepSummary": "A new Mishnah begins, asking how much a Sela coin can be worn down before using it at face value constitutes Ona'ah (overcharging).",
+      "whatsHappening": "The גמרא transitions to a new משנה regarding monetary law and coin depreciation.",
+      "deeperAnalysis": "The משנה introduces the concept of accepted depreciation in currency. It asks for the threshold where using a worn coin at its original value becomes exploitative.",
+      "keyTerms": [
+        {
+          "term": "סֶלַע",
+          "meaning": "a silver coin"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "overcharging / exploitation"
+        },
+        {
+          "term": "מַתְנִיָּה",
+          "meaning": "the Mishnah"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ כַּמָּה תְּהֵא הַסֶּלַע חֲסֵירָה וְלֹא",
+          "english": "MISHNA: How much can the sela coin be eroded through usage, and its use in…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יְהֵא בָּהּ אוֹנָאָה?",
+          "english": "Rabbi Meir says: The accepted depreciation is four issar, which is a rate of one…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי מֵאִיר אוֹמֵר: אַרְבַּע אִיסָּרוֹת, אִיסָּר לְדִינָר.",
+          "english": "And Rabbi Yehuda says: The accepted depreciation is four pundeyon, which is a rate of one pundeyon…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְרַבִּי יְהוּדָה אוֹמֵר: אַרְבַּע פּוּנְדְּיוֹנוֹת, פּוּנְדְּיוֹן לְדִינָר.",
+          "english": "And Rabbi Shimon says:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרַבִּי שִׁמְעוֹן אוֹמֵר:",
+          "english": "or one-twelfth of a dinar. And Rabbi Shimon says:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִיָּה: כַּמָּה תֵּהָא הַסֶּלַע חֲסֵרָה וְלֹא יִהְיֶה בָּהּ אוֹנָאָה?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:11:1",
+            "hebrew": "מתני' כמה תהא הסלע חסירה - מטבע היוצא ותמיד הוא שוחק וחסר כמה תחסר ואם הוציאה לא תהא אונאה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah addresses the natural wear and tear of coins, asking how much a סלע can be deficient before using it at face value constitutes אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:11:2",
+            "hebrew": "ד' איסרין - לסלע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רַבִּי מֵאִיר's threshold of four איסרין is calculated per סלע."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:11:3",
+            "hebrew": "איסר לדינר - והוא אחד מכ\"ד בו דו' מעה כסף דינר מעה שני פונדיונים פונדיון שני איסרין ובגמ' מפרש מאי שנא דגבי שאר סחורה אמרי' שתות וכאן יש אומרים כך ויש אומרים כך:",
+            "english": "",
+            "takeaway": "רש״י provides the monetary conversion rates (איסר לדינר, דינר to מעה, etc.) and notes that the Gemara will explain why the threshold for coins differs from the standard sixth for other merchandise."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 51b:11:4",
+            "hebrew": "ארבעה פונדיונים - אחד משנים עשר:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי יְהוּדָה's threshold of four פונדיונים represents one-twelfth of the coin's value."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 51b:11:1",
+            "hebrew": "איסר לדינר - וא\"ת והאמר רבא (לקמן בבא מציעא דף נו:) כל דבר שבמדה ושבמנין ושבמשקל אפי' פחות מכדי אונאה חוזר וי\"ל דהכא בתורת מטבע נתנו ולא בתורת משקל:",
+            "english": "",
+            "takeaway": "תוספות addresses the apparent contradiction with רבא's rule that any deficiency in measured or weighed items allows for return even below the אונאה threshold, resolving it by stating that coins are governed by the laws of currency (תורת מטבע) rather than the laws of weight (תורת משקל)."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T04:10:15.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 98.76449319999665,
+      "structure": 1900.0462517999695,
+      "validate": 277.00128730008146,
+      "translate": 409.66834620025475,
+      "meforshim": 675.1044970999355,
+      "teaching": 870.4126458000392
+    }
+  }
+}

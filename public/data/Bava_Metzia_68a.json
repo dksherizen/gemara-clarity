@@ -1,0 +1,914 @@
+{
+  "ref": "Bava Metzia 68a",
+  "masechet": "Bava_Metzia",
+  "daf": 68,
+  "amud": "a",
+  "mainTopic": "(continues) דיני משיכה ונכיה · חציון ושכר פועל",
+  "overview": "(1) The laws of collateral (mashkanta), including the validity of deductions (nakhia), the custom of the land, and various contracts used by sages. (2) The Mishnah and Gemara discuss the laws of partnerships in business and raising animals, focusing on the prohibition of interest and the requirement for proper wages. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 10,
+      "topic": "(continues) דיני משיכה ונכיה",
+      "gist": "The laws of collateral (mashkanta), including the validity of deductions (nakhia), the custom of the land, and various contracts used by sages.",
+      "openingFormula": "אמר מר בר רב יוסף משמיה דרבה",
+      "firstStepNumber": 1,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 11,
+      "endLine": 14,
+      "topic": "חציון ושכר פועל",
+      "gist": "The Mishnah and Gemara discuss the laws of partnerships in business and raising animals, focusing on the prohibition of interest and the requirement for proper wages. — discussion continues into next amud.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 10,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "The objection to נכיה based on the difference between שדה אחוזה and a loan",
+      "stepSummary": "The גמרא presents the reasoning of those who forbid נכיה: שדה אחוזה is a case of consecrated property, where the Torah established a fixed redemption rate. In contrast, נכיה is a loan, and it has the appearance of interest.",
+      "whatsHappening": "The גמרא presents the counter-argument to מר זוטרא's defense of נכיה.",
+      "deeperAnalysis": "Those who forbid נכיה argue that שדה אחוזה is a case of consecrated property, where the Torah established a fixed redemption rate. In contrast, נכיה is a loan, and it has the appearance of interest. Therefore, the analogy to שדה אחוזה is invalid.",
+      "keyTerms": [
+        {
+          "term": "הֶקְדֵּשׁ",
+          "meaning": "consecrated property"
+        },
+        {
+          "term": "הַלְוָאָה",
+          "meaning": "loan"
+        },
+        {
+          "term": "רִבִּית",
+          "meaning": "interest"
+        }
+      ],
+      "whatToRemember": "The objection is that שדה אחוזה is a case of consecrated property, while נכיה is a loan.",
+      "confusionAlert": "This is a תירוץ, not a new dispute.",
+      "whyThisMatters": "It provides the reasoning behind the prohibition of נכיה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמַאן דְּאָסַר – אָמַר לָךְ:",
+          "english": "And the one who prohibits says to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׂדֵה אֲחוּזָּה הֶקְדֵּשׁ הִיא,",
+          "english": "An ancestral field is consecrated property,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְרַחֲמָנָא אוֹקְמֵיהּ אַפִּדְיוֹן.",
+          "english": "And the Merciful One established it on a fixed price."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכָא – הַלְוָאָה הִיא וּמִיחֲזֵי כְּרִבִּית.",
+          "english": "Here — it is a loan and it appears as interest."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמַאן דְּאָסַר – אָמַר לָךְ: שָׂדֶה אֲחוּזָה הֶקְדֵּשׁ הִיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:2:1",
+            "hebrew": "התם לאו הלואה - בפדיון תליא מילתא ורחמנא אוקמיה אהאי פדיון ואמר בהכי נפרוק:",
+            "english": "",
+            "takeaway": "רש״י explains that שדה אחוזה is not a הלואה but rather a case of פדיון where the Torah explicitly established the redemption price."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רב אשי's ruling on the duration of an unspecified משיכנא",
+      "stepSummary": "רב אשי reports that the elders of Mata Meḥasya ruled that an unspecified משיכנא (mortgage) is for a year.",
+      "whatsHappening": "The גמרא introduces a new ruling from רב אשי regarding the duration of an unspecified mortgage.",
+      "deeperAnalysis": "רב אשי reports that the elders of Mata Meḥasya ruled that an unspecified משיכנא is for a year. This means that if the lender consumes the produce for a year, the borrower can remove him; but if not, the borrower cannot yet remove him.",
+      "keyTerms": [
+        {
+          "term": "מַשְׁכַּנְתָּא",
+          "meaning": "mortgage"
+        },
+        {
+          "term": "שָׁתָא",
+          "meaning": "year"
+        },
+        {
+          "term": "סָבֵי דְּמָתָא מַחְסֵיָא",
+          "meaning": "elders of Mata Meḥasya"
+        }
+      ],
+      "whatToRemember": "An unspecified משיכנא is for a year.",
+      "confusionAlert": "This is a new ruling, not a continuation of the previous dispute.",
+      "whyThisMatters": "It clarifies the duration of an unspecified mortgage.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב אָשֵׁי:",
+          "english": "Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא:",
+          "english": "The elders of the town of Mata Meḥasya told me:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סְתַם מַשְׁכַּנְתָּא – שַׁתָּא.",
+          "english": "An unspecified mortgage – a year."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְמַאי נָפְקָא מִינַּהּ?",
+          "english": "What practical difference results from it?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּאִי אָכֵיל לַהּ שַׁתָּא –",
+          "english": "For if he ate it for a year –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מָצֵי מְסַלֵּק לֵיהּ,",
+          "english": "he can remove him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִי לָא –",
+          "english": "and if not –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָא מָצֵי מְסַלֵּק לֵיהּ.",
+          "english": "he cannot remove him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב אָשֵׁי: אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא: סְתַם מַשְׁכַּנְתָּא – שָׁתָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:3:1",
+            "hebrew": "דלא מצי מסלק ליה - כל שנתו ואפילו באתרא דמסלקי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the borrower cannot remove the lender from the property for the entire year, even in a place where the custom is to allow removal."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רב אשי's explanation of the term משיכנא",
+      "stepSummary": "רב אשי reports that the elders of Mata Meḥasya explained that the term משיכנא refers to the fact that the property resides with the lender.",
+      "whatsHappening": "The גמרא introduces a new explanation from רב אשי regarding the term משיכנא.",
+      "deeperAnalysis": "רב אשי reports that the elders of Mata Meḥasya explained that the term משיכנא refers to the fact that the property resides with the lender. This is a new explanation, not a continuation of the previous discussion.",
+      "keyTerms": [
+        {
+          "term": "מַשְׁכַּנְתָּא",
+          "meaning": "mortgage"
+        },
+        {
+          "term": "דִּשְׁכִּינָה גַּבֵּיהּ",
+          "meaning": "it resides with him"
+        }
+      ],
+      "whatToRemember": "The term משיכנא refers to the fact that the property resides with the lender.",
+      "confusionAlert": "This is a new explanation, not a continuation of the previous discussion.",
+      "whyThisMatters": "It clarifies the meaning of the term משיכנא.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב אָשֵׁי:",
+          "english": "And Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא,",
+          "english": "The elders of Mata Meḥasya told me:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי ״מַשְׁכַּנְתָּא״ – דִּשְׁכוּנָה גַּבֵּיהּ.",
+          "english": "What is 'mashkanta' — that it resides with him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְמַאי נָפְקָא מִינַּהּ?",
+          "english": "What practical difference comes from it?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְדִינָא דְּבַר מִצְרָא.",
+          "english": "For the law of a neighbor's field.",
+          "notes": "Refers to the right of first refusal for adjacent fields."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַב אָשֵׁי: אֲמַרוּ לִי סָבֵי דְּמָתָא מַחְסֵיָא, מַאי ״מַשְׁכַּנְתָּא״ – דִּשְׁכִּינָה גַּבֵּיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:4:1",
+            "hebrew": "דשכונה גביה - אין שכן קרוב ממנו ואם בא הלוה למוכרה אין בבעל מצריה שכן טוב לקנותה כזה:",
+            "english": "",
+            "takeaway": "רש״י explains that the term משיכנא indicates the property remains with the lender, meaning no neighbor is closer to purchase it, so if the borrower wishes to sell, the right of the בעל מצריה (neighbor) to buy it is not applicable in this case."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רבה's ruling on three types of contracts",
+      "stepSummary": "רבה rules that the halacha is not in accordance with the contracts of Rav Pappa, the documents of Mehoza, or the tenancies of Neresh.",
+      "whatsHappening": "The גמרא introduces a new ruling from רבה regarding three types of contracts.",
+      "deeperAnalysis": "רבה rules that the halacha is not in accordance with the contracts of Rav Pappa, the documents of Mehoza, or the tenancies of Neresh. This sets up the subsequent discussion on the reasoning behind these rulings.",
+      "keyTerms": [
+        {
+          "term": "כְּטַרְשֵׁי פַּפּוּנָאֵי",
+          "meaning": "contracts of Rav Pappa"
+        },
+        {
+          "term": "שְׁטָרֵי מָחוֹזְנָאֵי",
+          "meaning": "documents of Mehoza"
+        },
+        {
+          "term": "חַכִּירֵי נַרְשָׁאֵי",
+          "meaning": "tenancies of Neresh"
+        }
+      ],
+      "whatToRemember": "The halacha is not in accordance with these three types of contracts.",
+      "confusionAlert": "This is a new ruling, not a continuation of the previous discussion.",
+      "whyThisMatters": "It introduces the central question of the sugya: the validity of these three types of contracts.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: לֵית הִלְכְתָא לָא כְּטַרְשֵׁי פַּפּוּנָאֵי,",
+          "english": "Rava said: The halakha is not according to the approvers of Rav Pappa's tacit interest agreement,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָא כִּשְׁטָרֵי מָחוֹזְנָאֵי,",
+          "english": "nor according to the approvers of the documents of Mehoza,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלָא כַּחֲכִירֵי נַרְשָׁאֵי.",
+          "english": "nor according to the approvers of the tenancies of Neresh."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: לֵית הִלְכָּה לָא כְּטַרְשֵׁי פַּפּוּנָאֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "Explanation of כטרשי פפונאי",
+      "stepSummary": "The גמרא explains that כטרשי פפונאי refers to the contracts of Rav Pappa.",
+      "whatsHappening": "The גמרא explains the first of the three types of contracts mentioned by רבה.",
+      "deeperAnalysis": "The גמרא explains that כטרשי פפונאי refers to the contracts of Rav Pappa. This is a straightforward explanation, not a new dispute.",
+      "keyTerms": [
+        {
+          "term": "כְּטַרְשֵׁי פַּפּוּנָאֵי",
+          "meaning": "contracts of Rav Pappa"
+        }
+      ],
+      "whatToRemember": "כטרשי פפונאי refers to the contracts of Rav Pappa.",
+      "confusionAlert": "This is a straightforward explanation, not a new dispute.",
+      "whyThisMatters": "It clarifies the meaning of the term כטרשי פפונאי.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּטַרְשֵׁי פַּפּוּנָאֵי – כְּטַרְשֵׁי דְּרַב פָּפָּא.",
+          "english": "Like the tacit interest agreements of Rav Pappa"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כְּטַרְשֵׁי פַּפּוּנָאֵי – כְּטַרְשֵׁי דְּרַב פָּפָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:6:1",
+            "hebrew": "טרשא דרב פפא - דאמר לעיל (בבא מציעא דף סה.) שכראי לא פסיד וכו'. לית הלכתא כוותיה כדאמרן מאי חזית דאזלת בתר דידך זיל בתר דידהו:",
+            "english": "",
+            "takeaway": "רש״י explains that כטרשי פפונאי refers to the ruling of רב פפא in בבא מציעא 65a that the worker does not lose his wages, but notes that הלכה does not follow him based on the principle of מאי חזית דאזלת בתר דידך זיל בתר דידהו."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Explanation of שְׁטָרֵי מָחוֹזְנָאֵי",
+      "stepSummary": "The גמרא explains that שטרות מחוזני refers to documents from Mehoza where the lender adds the profits to the principal, as though the transaction were already completed.",
+      "whatsHappening": "The גמרא explains the second contract type mentioned by רבה. It defines שְׁטָרֵי מָחוֹזְנָאֵי as documents from Mehoza where profits are added to the principal.",
+      "deeperAnalysis": "This practice treats the transaction as completed, adding profits to the loan amount. This creates the appearance of ריבית because the lender gains from the borrower's success without a valid wage structure.",
+      "keyTerms": [
+        {
+          "term": "שְׁטָרֵי מָחוֹזְנָאֵי",
+          "meaning": "documents of Mehoza"
+        },
+        {
+          "term": "רַוְוחָא",
+          "meaning": "profits"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁטָרֵי מָחוֹזְנָאֵי –",
+          "english": "Documents of Mechoza"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּזָקְפִי לֵיהּ לְרַוְוחָא אַקַּרְנָא,",
+          "english": "That they lend to him for profit"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכָתְבִי לֵיהּ בִּשְׁטָרָא.",
+          "english": "And write to him in the document"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִי יֵימַר דְּהָוֵה רַוְוחָא?",
+          "english": "Who says that there was profit?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁטָרֵי מָחוֹזְנָאֵי – דְּזָקְפִי לֵיהּ לְרַוְוחָא אַקַּרְנָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:7:1",
+            "hebrew": "מחוזנאי - בני מחוזא:",
+            "english": "",
+            "takeaway": "רש״י explains that מחוזנאי refers to the residents of the city of מחוזא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:7:2",
+            "hebrew": "דזקפי רווחא אקרנא - שקונים פרגמטיא בעלי בתים ונותנין לתגרים למחצית שכר ושמין כך וכך שכר יהיה בהן וזוקפין מחצית השכר עם הקרן וכותבין בשטר פלוני חייב לפלוני כך וכך לזמן פלוני:",
+            "english": "",
+            "takeaway": "רש״י explains that דזקפי רווחא אקרנא describes a business arrangement where property owners lease land to merchants for half the profits, estimate the expected earnings, and add that estimated profit to the principal loan amount in the written document."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "מַר בַּר אַמֵּימָר's report on his father's practice",
+      "stepSummary": "מר בר אמימר reports that his father would add the profits to the loan contract, but would reduce the debt if the borrower did not earn enough profit.",
+      "whatsHappening": "The גמרא introduces a report from מַר בַּר אַמֵּימָר about his father's lending practice. This is a new report, not a continuation of the previous explanation.",
+      "deeperAnalysis": "His father added profits to the contract but reduced the debt if profits were low. This practice seems to contradict רבה's ruling by allowing profit-sharing without a clear wage structure.",
+      "keyTerms": [
+        {
+          "term": "מַר בַּר אַמֵּימָר",
+          "meaning": "Mar, son of Ameimar"
+        },
+        {
+          "term": "אֲבָא",
+          "meaning": "father"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ מָר בַּר אַמֵּימָר לְרַב אָשֵׁי:",
+          "english": "Mar bar Ameimar said to Rav Ashi:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַבָּא עָבֵיד הָכִי,",
+          "english": "My father would do so,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכִי אָתוּ לְקַמֵּיהּ מְהֵימַן לְהוּ.",
+          "english": "and when they came before him, he would believe them."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: תִּינַח הֵיכָא דְּאִיתֵיהּ לְדִידֵיהּ,",
+          "english": "He said to him: Granted, where it is with him,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי שָׁכֵיב וְנָפֵל שְׁטָרָא קַמֵּי יַתְמֵי, מַאי?",
+          "english": "if he died and the document fell before orphans, what?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָוֵי ״כִּשְׁגָגָה שֶׁיֹּצָא מִלִּפְנֵי הַשַּׁלִּיט״ וְנָח נַפְשֵׁיהּ דְּאַמֵּימָר.",
+          "english": "It is 'like an error that proceeds from a ruler' and Ameimar's soul departed."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ מַר בַּר אַמֵּימָר לְרַב אָשֵׁי: אַבָּא עָבֵיד הָכִי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:8:1",
+            "hebrew": "וכי אתו לקמיה - ואמרי ליה לא הוה רווחא מהימן להו:",
+            "english": "",
+            "takeaway": "רש״י explains that when the borrowers came before אמימר, they would truthfully report whether they had made a profit or not, and he would believe them."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:8:2",
+            "hebrew": "תינח היכא דאיתיה לדידיה - אם יהא אביך קיים לזמן הפרעון שהוא חסיד ומאמינם ומה אם ימות היורשין יגבו הכל:",
+            "english": "",
+            "takeaway": "רש״י explains that רב אשי's objection is that while אמימר himself was a חסיד who could be trusted to reduce the debt, his heirs would not be trustworthy and would collect the full amount written in the contract."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Explanation of חַכִּירֵי נַרְשָׁאֵי",
+      "stepSummary": "The גמרא explains that חכירי נרשאי refers to tenancies from Neresh where the borrower mortgages his land to the lender and then leases it back from him.",
+      "whatsHappening": "The גמרא explains the third contract type mentioned by רבה. It defines חַכִּירֵי נַרְשָׁאֵי as tenancies from Neresh involving a mortgage and leaseback.",
+      "deeperAnalysis": "The borrower mortgages land to the lender, then leases it back. This is problematic because the lender isn't the true owner, and the lease payment is effectively interest for delaying repayment.",
+      "keyTerms": [
+        {
+          "term": "חַכִּירֵי נַרְשָׁאֵי",
+          "meaning": "tenancies of Neresh"
+        },
+        {
+          "term": "מִשְׁכֵּן לֵיהּ פְּלָנְיָא אַרְעֵיהּ לִפְלָנְיָא",
+          "meaning": "so-and-so has mortgaged his land to so-and-so"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "חֲכִירֵי נַרְשָׁאֵי, דְּכָתְבִי הָכִי:",
+          "english": "Tenants of Neresh, who write thus:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשְׁכֵּן לֵיהּ פְּלָנְיָא אַרְעֵיהּ לִפְלָנְיָא,",
+          "english": "So-and-so has mortgaged his land to so-and-so,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲדַר חַכְרַהּ מִינֵּיהּ.",
+          "english": "and he returned and leased it from him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵימַת קְנָאָהּ דְּאַקְנְיַיהּ נִהֲלֵיהּ?",
+          "english": "When did he acquire it, that he leased it to him?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "חַכִּירֵי נַרְשָׁאֵי, דְּכָתְבִי הָכִי: מִשְׁכֵּן לֵיהּ פְּלָנְיָא אַרְעֵיהּ לִפְלָנְיָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:9:1",
+            "hebrew": "חכירי - המקבל שדה מחבירו בעשרה כורין לשנה בין תעשה הרבה בין תעשה מעט:",
+            "english": "",
+            "takeaway": "רש״י defines חכיר as a tenant who pays a fixed annual rent of ten kor, regardless of the actual yield of the field."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:9:2",
+            "hebrew": "חכירי נרשאי - שהיו בעלי בתים מלוים מעות לעניים על שדותיהן וחוזרים וחוכרים אותם להם בכך וכך כורין לשנה:",
+            "english": "",
+            "takeaway": "רש״י explains that חכירי נרשאי refers to a practice in Neresh where homeowners would mortgage their land to lenders and then lease it back from them for a fixed annual rent."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:9:3",
+            "hebrew": "אימת קנייה - מלוה להך שדה דאקנייה נהליה לבעלים בתורת חכירות נמצא נוטל רבית קצוצה שהרי אין טורח בה ואף אם תלקה לא יפסיד מחכירותו כלום:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the lender is taking רבית קצוצה because he receives a fixed rent without any effort or risk, even if the field fails due to locusts."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "The modern practice of writing a document stating the lender acquired the field",
+      "stepSummary": "The גמרא introduces a new practice where the document states that the lender acquired the field and then leased it back to the borrower.",
+      "whatsHappening": "The גמרא introduces a contemporary practice addressing the previous challenge. It involves a document stating the lender acquired the field and leased it back.",
+      "deeperAnalysis": "This practice attempts to validate the transaction by formalizing the lender's acquisition. It shifts the focus to whether this documentation satisfies halachic requirements for ownership transfer.",
+      "keyTerms": [
+        {
+          "term": "וְהָאִידָנָא",
+          "meaning": "nowadays"
+        },
+        {
+          "term": "קְנֵינָא מִינֵיהּ וּשְׁהֵינָא כַּמָּה עִידָנֵי",
+          "meaning": "we acquired it from him and we waited a while"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָאִידָּנָא דְּקָא כָתְבִי הָכִי:",
+          "english": "And nowadays, when we write thus:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״קְנֵינָא מִינֵּיהּ וּשְׁהֵינָא כַּמָּה עִידָּנֵי, וַהֲדַר חַכְרַהּ״,",
+          "english": "\"We acquired it from him and we waited a while, and then he leased it back\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כְּדֵי שֶׁלֹּא תִּנְעוֹל דֶּלֶת בִּפְנֵי לוֹוִין –",
+          "english": "so as not to lock the door in the face of borrowers –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שַׁפִּיר דָּמֵי. וְלָאו מִלְּתָא הִיא.",
+          "english": "Good. But it is not a matter."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָאִידָנָא דְּקָא כָתְבִי הָכִי: ״קְנֵינָא מִינֵיהּ וּשְׁהֵינָא כַּמָּה עִידָנֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:10:1",
+            "hebrew": "שהינא כמה עידנין - ביד המלוה ועשה הוא ואכל בנכייתא והדר חכרה מיניה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase שהינא כמה עידנין means the lender held the field and consumed its produce (אכל בנכייתא) before leasing it back."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:10:2",
+            "hebrew": "שפיר דמי - כדי שלא תנעול דלת דכיון דשהייה גביה ואכל תלת שנין מה לי עבד בה איהו ומה לי חכריה:",
+            "english": "",
+            "takeaway": "רש״י explains that שפיר דמי is valid because since the lender already held the field and consumed produce for three years, it makes no difference whether he consumed it himself or leased it out, thus preventing the door from being shut in the borrower's face."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:10:3",
+            "hebrew": "ולאו מילתא היא - דאפילו שהייה נמי אסור. דרבית גמורה היא שאין כאן ספק כעושה ואוכל שפעמים שמוציא ואינו נוטל:",
+            "english": "",
+            "takeaway": "רש״י explains that ולאו מילתא היא means this practice is invalid because even the initial holding and consumption is forbidden as it constitutes definite ריבית, unlike the previous case of עושה ואוכל which involved uncertainty."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The מִשְׁנָה's prohibition on half-profit partnerships",
+      "stepSummary": "The Mishna prohibits entering into a partnership where profits are split 50/50 for a storekeeper or for raising animals, unless the worker is paid a proper wage.",
+      "whatsHappening": "The מִשְׁנָה establishes the baseline halacha regarding profit-sharing. It forbids 50/50 splits unless the worker receives a wage for labor.",
+      "deeperAnalysis": "The מִשְׁנָה covers storekeepers and animal raisers. A 50/50 split implies the owner lends capital and gets free labor, which is ריבית. The exception is raising animals until they triple in value or a donkey can carry a load.",
+      "keyTerms": [
+        {
+          "term": "חֶנְוָנִי",
+          "meaning": "storekeeper"
+        },
+        {
+          "term": "לְמַחֲצִית שָׂכָר",
+          "meaning": "for half the profits"
+        },
+        {
+          "term": "שָׂכָר עֲמָלוֹ וּמְזוֹנוֹ",
+          "meaning": "wage for his labor and the animal's food"
+        },
+        {
+          "term": "מַתְנִיָּה",
+          "meaning": "the Mishnaic teaching"
+        }
+      ],
+      "whatToRemember": "The core issue is ריבית. A 50/50 split implies the owner is lending half the capital and getting the worker's labor for free, which is interest.",
+      "whyThisMatters": "This sets up the entire sugya's focus on what constitutes a valid 'wage' to avoid the prohibition of interest.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אֵין מוֹשִׁיבִין חֶנְוָנִי לְמַחֲצִית שָׂכָר,",
+          "english": "One may not appoint a storekeeper for half-wages,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלֹא יִתֵּן מָעוֹת לִיקַּח בָּהֶן פֵּירוֹת לְמַחֲצִית שָׂכָר,",
+          "english": "and one may not give money to buy with them produce for half-wages,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא אִם כֵּן נוֹתֵן לוֹ שְׂכָרוֹ כְּפוֹעֵל.",
+          "english": "unless he gives him his wages as a laborer."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין מוֹשִׁיבִין תַּרְנְגוֹלִין לְמֶחֱצָה,",
+          "english": "One may not place chickens for half,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאֵין שָׁמִין עֲגָלִין וּסְיָיחִין לְמֶחֱצָה,",
+          "english": "and one may not appraise calves and foals for half,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא אִם כֵּן נוֹתֵן לוֹ שְׂכַר עֲמָלוֹ וּמְזוֹנוֹ.",
+          "english": "unless he gives him the wages of his labor and their food."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲבָל מְקַבְּלִין עֲגָלִין וּסְיָיחִין לְמֶחֱצָה,",
+          "english": "But one may accept calves and foals for half,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וּמְגַדְּלִין אוֹתָן עַד שֶׁיְּהוּ מְשׁוּלָּשִׁין.",
+          "english": "and raise them until they are one-third grown."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וַחֲמוֹר עַד שֶׁתְּהֵא טוֹעֶנֶת.",
+          "english": "and a donkey until it is load-bearing."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִיָּה: אֵין מוֹשִׁיבִין חֶנְוָנִי לְמַחֲצִית שָׂכָר...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:11:1",
+            "hebrew": "מתני' אין מושיבין חנוני למחצית שכר - לא יאמר בעל הבית לחנוני הרי פירות נמכרים בשוק ארבע סאים בסלע ואתה מוכרן בחנות פרוטה פרוטה ומשתכר סאה הילך פירות ושב ומכור תמיד והריוח נחלוק וטעמא דמילתא משום דאמרינן לקמן (בבא מציעא דף קד:) הך עיסקא פלגא מלוה ופלגא פקדון סתם המקבל פרגמטיא למחצית שכר מקבל עליו אחריות חצי הקרן באונסין וזולא הלכך ההיא פלגא כיון דמיחייב באונסין מלוה הוא אצלו שהרי שומא היא אצלו במעות כשער השוק ודינו ליטול חצי שכר נמצא מתעסק בחציו של בעל הבית שהוא פקדון אצלו בשכר המתנת מעות המלוה לפיכך אסור:",
+            "english": "",
+            "takeaway": "רש״י explains that a 50/50 partnership is forbidden because it is considered half a loan and half a deposit, meaning the worker is liable for half the principal in cases of force majeure, which constitutes interest on the owner's half."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:12:1",
+            "hebrew": "אלא אם כן נותן לו שכר עמלו - בחצי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the worker must be paid half of his labor's value as a wage to avoid the prohibition."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:12:2",
+            "hebrew": "אין מושיבין תרנגולין למחצה - לשום ביצים בדמים לבעל התרנגולת להושיבה עליהם לגדל אפרוחים למחצית שכר מה שיהיו האפרוחים שוין יותר על דמי הביצים דהואיל וזה מקבל עליו אחריות חצי דמי הביצים אם יתקלקלו או אם ימותו הוה ליה פלגא מלוה שהרי נישומין עליו בדמים מעכשיו דמיהן עליו במלוה ונמצא זה מגדל את חציו השני בשכר המתנת מעותיו:",
+            "english": "",
+            "takeaway": "רש״י explains that raising chickens for a 50/50 split is forbidden because the worker assumes liability for half the value of the eggs, making it a loan for that portion."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:12:3",
+            "hebrew": "ומזונו - מזון שהוא מוציא באפרוחים:",
+            "english": "",
+            "takeaway": "רש״י defines מזונו as the cost of feeding the chicks."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:12:4",
+            "hebrew": "ואין שמין עגלים וסייחים למחצה - עכשיו הן שוין כך וכך קבלם עליך לגדלם שנתיים למחצית שכר ולמחצית הפסד אם ימותו:",
+            "english": "",
+            "takeaway": "רש״י explains that valuing calves and foals for a 50/50 split means the worker accepts liability for half the loss if they die."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:13:1",
+            "hebrew": "אבל מקבלים עגלים וסייחים - קטנים בלא שומא שאם ימותו לא ישלם כלום ואם יחיו יחלקו ביניהם:",
+            "english": "",
+            "takeaway": "רש״י explains that accepting calves and foals without an initial valuation is permitted because the worker assumes no liability if they die."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:13:2",
+            "hebrew": "לכשיהיו משולשים - לכשיעמדו על שליש גדילתן שליש שור ושליש סוס אז יחלקו:",
+            "english": "",
+            "takeaway": "רש״י explains that the animals are raised until they have grown one-third of their final value, at which point the profit is divided."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:13:3",
+            "hebrew": "וחמור - מגדלה עד שתהא טוענת משאוי כך היה מנהגם לגדלם קודם חלוקה:",
+            "english": "",
+            "takeaway": "רש״י notes that the custom was to raise a donkey until it could carry a load before dividing the profits."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 68a:11:1",
+            "hebrew": "ונותן לו שכרו כפועל בטל - אי גרס תנא כפועל בטל א\"כ לא גרסי' במתני' בטל פירש בקונטרס כפועל בטל מאותה מלאכה דבטל מינה היינו שאם היה עושה תחלה מלאכה כבידה ומרויח הרבה וזאת היא קלה אומדים כמה יניח משכרו לעשות מלאכה זו שזהו יותר ממה שנותנין לעשות כי אין אדם מניח מריוח גדול אלא מעט אע\"פ שבא לו בטורח יותר ולפירושו אתיא מתניתין כר' שמעון דאמר נותן לו שכרו משלם ולא כר' מאיר וקשה לפירושו דקאמר בגמ' אבל סיפא דנפיש טרחא אימא לא סגי ליה כפועל בטל והשתא והלא לפי מה שהיא כבידה נוטל יותר אמאי ס\"ד דלא תסגי כפועל בטל ועוד דקתני בתוספתא (פ\"ד) המושיב את חבירו בחנות למחצית שכר נותן לו שכרו כפועל בטל דברי ר\"מ משמע דמתני' אתיא כר' מאיר ולכך נראה לפרש כפועל בטל היינו כיושב ובטל לגמרי והשתא א\"ש צריכותא דגמרא ומתניתין אתיא כר' מאיר והא דקאמר בגמ' רבי מאיר בין מרובה בין מועט היינו כלומר בין היה עוסק במלאכה מרובה בין היה עוסק במלאכה מועטת לעולם נותן לו כפועל בטל ר\"ש אומר נותן לו שכרו משלם שאומדים כמה היה רוצה ליטול וליבטל ממלאכה כבידה שהיה עוסק ויעסוק במלאכה קלה כזו דהיינו טפי מר' מאיר והא דקתני בתוספתא בסיפא בתר מילתיה דרבי מאיר ור' שמעון אומר נותן לו שכרו משלם אבל אינו דומה עושה מלאכה ליושב בטל יושב בחמה ליושב בצל לאו בטל לגמרי אלא מאותה מלאכה החמורה ומיהו לעיל בסוף אלו מציאות (בבא מציעא דף לא: ושם) גבי השבת אבידה דקתני נוטל שכרו כפועל בטל נראה כפי' הקונטרס מדפריך התם הא לאו בטל הוא משמע דפריך משום דמשמע ליה ברייתא דקתני כפועל בטל שנותנים לו כמו שירצה פועל לישב וליבטל לגמרי לכך נראה לפרש התם הך דמשני אביי כפועל בטל מאותה מלאכה דבטיל מינה כדפי' בקונטרס וא\"ת אם כן הוא נוטל שכרו על השבת אבידה ובהכונס (ב\"ק דף נו:) אמרינן דטעם דשומר אבידה הוי כשומר חנם משום דמאי הנאה קא מטי ליה וע\"כ לא קאמרי רבנן טעינה בשכר אלא משום דא\"כ לכתוב רחמנא טעינה ולא בעי פריקה וי\"ל דאין לחוש אם נוטל שכר כיון שעוסק במלאכה אחרת ומפסיד דהא אם היה שם בית דין היה מתנה ליטול כל מה שמפסיד ועכשיו דליכא ב\"ד למה לא יטול כל טרחו ובפרק עד כמה (בכורות דף כט: ושם ד\"ה כפועל) נמי דקתני נוטל שכר לדון כפועל בטל התם נמי י\"ל כפ\"ה כיון שמתבטל ממלאכתו יכול ליטול שכר:",
+            "english": "",
+            "takeaway": "תוספות argues that כפועל בטל means the worker is paid as if he were completely idle, rather than רש״י's view that it means idle from his usual heavy labor, because this aligns with רבי מאיר's opinion and resolves difficulties in the Gemara."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 68a:12:1",
+            "hebrew": "אלא אם כן נותן לו שכר עמלו ומזונו - הכא לא שייך למיתני כפועל בטל דאין מתבטל להאכילה ולהשקותה אלא רגע אחד ביום אבל חנוני כל עסקו בכך דתניא בתוספתא (פ\"ד) המושיב חנוני בחנות אם היה אומן לא יעסוק באומנתו:",
+            "english": "",
+            "takeaway": "תוספות explains that the term כפועל בטל is not used for animal care because the worker is not completely idle, unlike a storekeeper who spends all day in the shop."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 68a:13:1",
+            "hebrew": "אבל מקבלים עגלין וסייחין - תימה מאי קמ\"ל פשיטא כיון דאין מקבל עליו אחריות ואי משום דבעי למיתני ומגדלין אותן עד שיהיו משולשין זה היה יכול להשמיענו ברישא לאחר שנתן שכרו ויש לומר דקמשמע לן דבסתמא אין מקבל עליו שום אחריות ולא הוי עסקא כיון דבתחלה כשקבל עגלים לא שמו אותם אלא לאחר שגדלו ובאין לחלוק השבח אז שמין אותם כמה השביחו ולהכי תנא ברישא שמין ובסיפא מקבלין וכששמין בשעת קבלה בסתם מקבל עליו חצי האחריות כמו בשאר עסקא:",
+            "english": "",
+            "takeaway": "תוספות explains that the Mishna teaches that without an initial valuation, the worker assumes no liability at all, distinguishing it from cases where valuation creates a loan-like liability."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות disagrees with רש״י on the definition of כפועל בטל, arguing it means completely idle rather than idle from heavy labor, to align with רבי מאיר and resolve textual difficulties."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The בָּרִייתָא clarifies 'as a laborer' means 'as an idle laborer'",
+      "stepSummary": "A Baraita clarifies that the Mishna's requirement to pay 'as a laborer' means paying as an 'idle laborer' (כפועל בטל).",
+      "whatsHappening": "The גמרא cites a בָּרִייתָא clarifying the מִשְׁנָה's term כְּפוֹעֵל. It specifies this means כְּפוֹעֵל בָּטֵל, or an idle laborer.",
+      "deeperAnalysis": "The בָּרִייתָא adds 'בָּטֵל' to the מִשְׯנָה's 'כְּפוֹעֵל'. This raises the question of what 'idle laborer' means in this context, setting up the next definition.",
+      "keyTerms": [
+        {
+          "term": "כְּפוֹעֵל בָּטֵל",
+          "meaning": "as an idle laborer"
+        },
+        {
+          "term": "בָּרִייתָא",
+          "meaning": "a Tannaitic teaching outside the Mishna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ תָּנָא: כְּפוֹעֵל בָּטֵל.",
+          "english": "GEMARA: The Sages taught: As an idle laborer."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי כְּפוֹעֵל בָּטֵל?",
+          "english": "What is an idle laborer?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנָא: כְּפוֹעֵל בָּטֵל. מַאי כְּפוֹעֵל בָּטֵל?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:14:1",
+            "hebrew": "גמ' ה\"ג תנא כפועל בטל - ובמתניתין לא גרסינן בטל:",
+            "english": "",
+            "takeaway": "רש״י notes that the text of the Mishna does not include the word בטל, which is only added in the Baraita."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:14:2",
+            "hebrew": "כפועל בטל - משמע כמה אדם רוצה ליטול ולישב בטל:",
+            "english": "",
+            "takeaway": "רש״י explains that כפועל בטל implies a scenario where a person takes money and sits idle without working."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 68a:14:3",
+            "hebrew": "מאי כפועל בטל - הלא אין יושב ובטל שהרי טורח להוליך ולהביא פירות לחנות ולמכור ולקבל מעות ולמדוד הפירות:",
+            "english": "",
+            "takeaway": "רש״י questions the concept of an idle laborer, pointing out that a merchant is never truly idle as they must transport, sell, and measure goods."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T12:01:34.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 77.86255870002788,
+      "structure": 2011.0043334999355,
+      "validate": 299.6822591003147,
+      "translate": 365.4602121998323,
+      "meforshim": 693.4778301000479,
+      "teaching": 934.8095746999606
+    }
+  }
+}

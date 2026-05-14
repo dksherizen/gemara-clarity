@@ -1,0 +1,997 @@
+{
+  "ref": "Bava Metzia 64a",
+  "masechet": "Bava_Metzia",
+  "daf": 64,
+  "amud": "a",
+  "mainTopic": "(continues) הואזף פשיטי מחבריה · קרי קרי · שרי ליה לאיניש למימר לחבריה",
+  "overview": "(1) The law of finding extra change in a loan, and the distinction between a mistake ('טעות הדעת') and a gift, including the concern of 'הבלעה בחשבון'. (2) Rav Kahana's anecdote about Rav's teaching 'קרי קרי', which refers to the permissibility of selling future produce (milk, wool, offspring) without a fixed quantity, and the distinction between 'ממילא קא רבי' and fixed amounts. (3) Abaye's ruling on a transaction where the buyer takes the risk of price increase but the seller takes the risk of price decrease.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) הואזף פשיטי מחבריה",
+      "gist": "The law of finding extra change in a loan, and the distinction between a mistake ('טעות הדעת') and a gift, including the concern of 'הבלעה בחשבון'.",
+      "openingFormula": "ואמר רב נחמן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 10,
+      "topic": "קרי קרי",
+      "gist": "Rav Kahana's anecdote about Rav's teaching 'קרי קרי', which refers to the permissibility of selling future produce (milk, wool, offspring) without a fixed quantity, and the distinction between 'ממילא קא רבי' and fixed amounts.",
+      "openingFormula": "אמר רב כהנא",
+      "firstStepNumber": 4,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 11,
+      "endLine": 11,
+      "topic": "שרי ליה לאיניש למימר לחבריה",
+      "gist": "Abaye's ruling on a transaction where the buyer takes the risk of price increase but the seller takes the risk of price decrease.",
+      "openingFormula": "אמר אביי",
+      "firstStepNumber": 11,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תשובה",
+      "title": "רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵף: בְּעִשּׂוּרְיָיתָא וְחוּמְשִׁיָּיתָא",
+      "stepSummary": "רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵפ answers that a plausible error occurs when money is counted in units of tens or fives.",
+      "whatsHappening": "רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵף answers with a concrete counting example. He defines the threshold using standard monetary groupings.",
+      "deeperAnalysis": "Money is often counted in units of ten or five. Miscounting by one unit in these groups is a common, plausible error. This sets the practical limit for בִּכְדֵי שֶׁהַדַּעַת טוֹעָה.",
+      "keyTerms": [
+        {
+          "term": "עִשּׂוּרְיָיתָא",
+          "meaning": "units of ten"
+        },
+        {
+          "term": "חוּמְשִׁיָּיתָא",
+          "meaning": "units of five"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּעִישּׂוּרְיָיתָא וְחוּמְשְׁיָיתָא.",
+          "english": "In the tens and the fives."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב אַחָא בְּרֵיהּ דְּרַב יוֹסֵף: בְּעִשּׂוּרְיָיתָא וְחוּמְשִׁיָּיתָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        67
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:1:1",
+            "hebrew": "בעישורייתא וחומשייתא - אם יש לחלקם למעות העודפות להוציאן עשרה עשרה או ה' ה' ואין אחד או שנים עודפות שאין באות לכלל ה' יש לומר שטעה בחשבונו אם עישורייתא נינהו טעה בין חמשים לארבעים או בין ארבעים לשלשים ואם אינן עשיריות וישנן חמישיות יש שהיו רגילין למנות חמשה חמשה ואם היו עודפות הרבה כגון נ\"ה טעה בעשיריות כדפי' ויש כאן טעות של נ' בדילוג אחד ובה' העודפות טעה בין ג' לארבע או אם עודפות ט\"ו או כ\"ה. טעה ג' פעמים או ה' פעמים בחשבון של חמש אבל אם עודפות על החמישיות אחת או ב' או ג' וד' שאינן מגיעות לה' לא טעה כלום וכולם מתנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase refers to money that can be divided into groups of ten or five without significant remainders, making it plausible to miscount by one group (e.g., confusing 50 for 40 or 40 for 30), whereas if there are many remainders that don't form a group of five, no mistake is assumed and the excess is a gift."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 64a:1:1",
+            "hebrew": "בעישורייתא וחומשייתא - הם היו רגילין בחמשה כדרך שאנו מונין אחד אחד ולדידן הוי בכל ענין בכדי שהדעת טועה:",
+            "english": "",
+            "takeaway": "תוספות explains that people were accustomed to counting by fives, similar to how we count by ones today, and therefore in their view, any such counting error falls under the category of בכדי שהדעת טועה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "רַב אַחָא בְּרֵיהּ דְּרָבָא: וְאִי אִינְשָׁא תַּקִּיפָא הוּא?",
+      "stepSummary": "רַב אַחָא בְּרֵיהּ דְּרָבָא asks Rav Ashi what happens if the lender is a harsh person who does not give gifts.",
+      "whatsHappening": "רַב אַחָא בְּרֵיהּ דְּרָבָא raises a complication regarding a stingy lender. He questions whether a surplus from such a person can be assumed as a gift.",
+      "deeperAnalysis": "A stingy person (אִינְשָׁא תַּקִּיפָא) is unlikely to give a gift. The assumption that a large surplus is a מַתָּנָה becomes weak. The גמרא must find an alternative explanation for the extra money.",
+      "keyTerms": [
+        {
+          "term": "אִינְשָׁא תַּקִּיפָא",
+          "meaning": "a harsh / stingy person"
+        },
+        {
+          "term": "מַתָּנָה",
+          "meaning": "gift"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי:",
+          "english": "Rav Aḥa, son of Rava, said to Rav Ashi:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאִי אִינִישׁ תַּקִּיפָא הוּא דְּלָא יָהֵיב מַתָּנָה, מַאי?",
+          "english": "And if a person is harsh, who does not give a gift, what?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: דִּלְמָא מִיגְזָל גַּזְלֵיהּ וְאַבְלַע לֵיהּ בְּחֶשְׁבּוֹן.",
+          "english": "He said to him: Perhaps he robbed him and included it in the calculation."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּתַנְיָא: הַגּוֹזֵל אֶת חֲבֵירוֹ וְהִבְלִיעַ לוֹ בְּחֶשְׁבּוֹן –",
+          "english": "As it is taught: One who robs his fellow and included it in the calculation –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יָצָא.",
+          "english": "He is exempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב אַחָא בְּרֵיהּ דְּרָבָא לְרַב אָשֵׁי: וְאִי אִינְשָׁא תַּקִּיפָא הוּא דְּלָא יָהֵיב מַתָּנָה, מַאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        68
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:2:1",
+            "hebrew": "ואי איניש תקיפא הוא - זה שנתנם לו אדם קשה הוא שאינו רגיל לגמול חסדים ולתת מתנת חנם:",
+            "english": "",
+            "takeaway": "רש״י explains that אִינְשָׁא תַּקִּיפָא refers to a harsh person who is not accustomed to giving gifts or performing acts of kindness."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:2:2",
+            "hebrew": "מאי - במה יתלה זה לעכבם בידו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question מַאי asks what justification the lender has for withholding the money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:2:3",
+            "hebrew": "אמר ליה - כיון דליכא למימר טעה בחשבון תלינן למימר דלמא מיגזל גזליה זה ימים רבים וזה לא ידע והשתא מלאו לבו להשיבו:",
+            "english": "",
+            "takeaway": "רש״י explains that since we cannot assume the lender made a calculation error, we must consider that he stole the money long ago and is now absorbing the debt into the current calculation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "רַב אַחָא בְּרֵיהּ דְּרָבָא: וְאִי אִינְשָׁא דְּאָתֵי מֵעָלְמָא?",
+      "stepSummary": "רַב אַחָא בְּרֵיהּ דְּרָבָא asks Rav Ashi what happens if the lender is a stranger with whom the borrower has no prior relationship.",
+      "whatsHappening": "רַב אַחָא בְּרֵיהּ דְּרָבָא raises a second complication regarding a stranger lender. He questions the assumptions when the lender has no prior relationship with the borrower.",
+      "deeperAnalysis": "A stranger (אִינְשָׁא דְּאָתֵי מֵעָלְמָא) is unlikely to give a gift, and unlikely to have stolen from the borrower. The standard explanations for a surplus fail. The גמרא must consider a third-party thief scenario.",
+      "keyTerms": [
+        {
+          "term": "אִינְשָׁא דְּאָתֵי מֵעָלְמָא",
+          "meaning": "a person from the outside / a stranger"
+        },
+        {
+          "term": "שָׁקֵל וְטָרֵי",
+          "meaning": "conducts business / interacts"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִי אִינִישׁ דְּאָתֵי מֵעָלְמָא,",
+          "english": "And if a person who comes from the world,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּלָא שָׁקֵיל וְטָרֵי בַּהֲדֵיהּ,",
+          "english": "who does not take and deal with him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי? אֲמַר לֵיהּ:",
+          "english": "What? He said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּלְמָא אִינִישׁ אַחֲרִינָא גַּזְלֵיהּ, וַאֲמַר לֵיהּ:",
+          "english": "Perhaps another person robbed him, and said to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי יָזֵיף פְּלוֹנִי פְּשִׁיטֵי מִינָּךְ –",
+          "english": "When so-and-so borrows, take from you —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַבְלַע לֵיהּ בְּחֶשְׁבּוֹן.",
+          "english": "Swallow it in the calculation."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִי אִינְשָׁא דְּאָתֵי מֵעָלְמָא, דְּלָא שָׁקֵל וְטָרֵי בַּהֲדֵיהּ, מַאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:3:1",
+            "hebrew": "דלא שקיל וטרי ליה - לא נשא ונתן עמו מעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase דלא שקיל וטרי בהדיה means the stranger has never conducted any business transactions with the borrower previously."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רַב כּהנָא's anecdote about רַב's teaching 'קָרֵי קָרֵי'",
+      "stepSummary": "רַב כּהנָא recounts hearing רַב say 'קָרֵי קָרֵי' without understanding it, and later asking the students what it meant.",
+      "whatsHappening": "The sugya opens with a narrative frame: רַב כּהנָא heard רַב say 'קָרֵי קָרֵי' but didn't understand it. He asks the students for clarification after רַב left.",
+      "deeperAnalysis": "This is a standard narrative introduction to a teaching. The phrase 'קָרֵי קָרֵי' is cryptic, setting up the need for explanation. The narrative establishes the source (רַב) and the context (a teaching about gourds).",
+      "keyTerms": [
+        {
+          "term": "קָרֵי",
+          "meaning": "gourds"
+        },
+        {
+          "term": "רַב כּהנָא",
+          "meaning": "the sage recounting the story"
+        },
+        {
+          "term": "רַב",
+          "meaning": "the sage who made the original teaching"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב כָּהֲנָא:",
+          "english": "Rav Kahana said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲוָה יָתֵיבְנָא בְּשִׁילְהֵי פִּרְקֵי דְּרַב,",
+          "english": "I was sitting at the far end of Rav's study,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּשְׁמַעִית דְּקָאָמַר ״קָרֵי קָרֵי״ וְלָא יָדַעְנָא מַאי קָאָמַר.",
+          "english": "and I heard him saying 'gourds, gourds' and I did not know what he was saying."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בָּתַר דְּקָם רַב, אָמְרִי לְהוּ:",
+          "english": "After Rav arose, I said to them:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי ״קָרֵי קָרֵי״ דְּקָאָמַר רַב?",
+          "english": "What is 'gourds, gourds' that Rav was saying?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב כּהנָא: הֲוָה יָתֵיבְנָא בְּשִׁילְהֵי פִּרְקֵי דְּרַב, וּשְׁמַעִית דְּקָאָמַר ״קָרֵי קָרֵי״ וְלָא יָדַעְנָא מַאי קָאָמַר. בָּתַר דְּקָם רַב, אָמְרִי לְהוּ: מַאי ״קָרֵי קָרֵי״ דְּקָאָמַר רַב?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:4:1",
+            "hebrew": "בשילהי פירקין - כשסיים לדרוש באתי ולא שמעתי תחילת דבריו:",
+            "english": "",
+            "takeaway": "רש״י explains that רַב כּהנָא arrived at the end of the chapter's lecture and therefore missed the beginning of רַב's discourse, which is why he did not understand the phrase."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:4:2",
+            "hebrew": "שמעי' דקאמר קרי קרי - שמעתי דורש ומזכיר דלועין תמיד:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'קָרֵי קָרֵי' refers to רַב repeatedly mentioning gourds (דלועין) during his lecture."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Explanation of 'קָרֵי קָרֵי': selling future gourds",
+      "stepSummary": "The students explain that רַב was teaching about selling future gourds: if the larger gourds exist now, it's permitted; if not, it's forbidden.",
+      "whatsHappening": "The students answer רַב כּהנָא's question, explaining the content of רַב's teaching. They clarify the halachic rule regarding the sale of future produce.",
+      "deeperAnalysis": "The teaching concerns a sale of future produce (gourds). The key distinction is whether the larger gourds already exist at the time of the sale. If they exist, the sale is permitted; if not, it's forbidden as interest.",
+      "keyTerms": [
+        {
+          "term": "מַאן דְּיָהֵיב זוּזֵי לְגִנָּאָה אַקָּרֵי",
+          "meaning": "one who gives money to a gardener for gourds"
+        },
+        {
+          "term": "בְּנֵי גַרְמִידָא",
+          "meaning": "gourds a cubit in length"
+        },
+        {
+          "term": "אִיתַנְהוּ – שְׁרֵי, לֵיתַנְהוּ – אָסוּר",
+          "meaning": "if they exist – permitted, if not – forbidden"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַרוּ לִי, הָכִי קָאָמַר רַב:",
+          "english": "They said to me: Thus Rav says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַאי מַאן דְּיָהֵיב זוּזֵי לְגִינָּאָה אַקָּרֵי,",
+          "english": "This one who gave coins to a gardener,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְקָא אָזְלִי עֲשָׂרָה קָרֵי בְּנֵי זַרְתָּא,",
+          "english": "and they were going ten gourds of a span,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וַאֲמַר לֵיהּ: יָהֵבְינָא לָךְ בְּנֵי גַרְמִידָא,",
+          "english": "and he said to him: I will give you gourds of a cubit,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיתַנְהוּ – שְׁרֵי,",
+          "english": "If they are with him – permitted,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לֵיתַנְהוּ – אָסוּר.",
+          "english": "If they are not with him – prohibited."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַרוּ לִי, הָכִי קָאָמַר רַב: הַאי מַאן דְּיָהֵיב זוּזֵי לְגִנָּאָה אַקָּרֵי, וְקָא אָזְלִי עֲשָׂרָה קָרֵי בְּנֵי זַרְתָּא, וַאֲמַר לֵיהּ: יָהֵבְינָא לָךְ בְּנֵי גַרְמִידָא, אִיתַנְהוּ – שְׁרֵי, לֵיתַנְהוּ – אָסוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        74
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:5:1",
+            "hebrew": "יהבינא לך - לאחר זמן:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase יהבינא לך indicates a delayed payment, which is the core of the ריב concern."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:5:2",
+            "hebrew": "בני גרמידא - אמה אמה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בני גרמידא refers to large gourds, specifically measuring an אמה in size."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:5:3",
+            "hebrew": "איתנהו - אם יש לו בגנו גדולות בני אמה:",
+            "english": "",
+            "takeaway": "רש״י explains that איתנהו means the large gourds already exist in the seller's garden at the time of the transaction, making the sale permitted."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:5:4",
+            "hebrew": "ליתנהו - ועודן קטנות הן אסור:",
+            "english": "",
+            "takeaway": "רש״י explains that ליתנהו means the gourds are still small and do not yet exist as the larger produce promised, rendering the transaction forbidden as ריב."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Why is this teaching necessary?",
+      "stepSummary": "The גמרא asks why רַב's teaching is needed, as it seems obvious that selling non-existent produce is forbidden.",
+      "whatsHappening": "The גמרא challenges the novelty of רַב's teaching. It questions what new information is provided since selling non-existent produce seems obviously forbidden.",
+      "deeperAnalysis": "The גמרא assumes selling future produce is obviously forbidden if it doesn't exist. The question seeks the specific difficulty רַב was addressing. This sets up the distinction between produce that grows by itself versus produce that is replaced.",
+      "keyTerms": [
+        {
+          "term": "פְּשִׁיטָא!",
+          "meaning": "Isn't this obvious?"
+        },
+        {
+          "term": "מַהוּ דְּתֵימָא",
+          "meaning": "What might one say?"
+        },
+        {
+          "term": "כֵּיוָן דְּמִמֵּילָא קָא רָבוּ",
+          "meaning": "since they increase by themselves"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "פְּשִׁיטָא! מַהוּ דְּתֵימָא:",
+          "english": "It is obvious! What is it that you might say:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיוָן דְּמִמֵּילָא קָא רָבוּ –",
+          "english": "Since they increase by themselves –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שַׁפִּיר דָּמֵי, קָא מַשְׁמַע לַן.",
+          "english": "It is good, it teaches us."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "פְּשִׁיטָא! מַהוּ דְּתֵימָא: כֵּיוָן דְּמִמֵּילָא קָא רָבוּ – שַׁפִּיר דָּמֵי, קָא מַשְׁמַע לַן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        75
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step"
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "שאלה",
+      "title": "According to which Tanna does רַב rule?",
+      "stepSummary": "The גמרא asks which Tanna's opinion רַב is following.",
+      "whatsHappening": "The גמרא transitions to finding a Tannaitic source for רַב's teaching. This is a standard move to ground an Amoraic ruling in earlier tradition.",
+      "deeperAnalysis": "The גמרא seeks to identify the Tanna whose opinion aligns with רַב. This establishes the authoritative basis for the ruling. It sets up the citation of the supporting ברייתא.",
+      "keyTerms": [
+        {
+          "term": "כְּמַאן",
+          "meaning": "according to whom?"
+        },
+        {
+          "term": "כִּי הַאי תַּנָּא",
+          "meaning": "according to this Tanna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּמַאן – כִּי הַאי תַּנָּא.",
+          "english": "According to whom — like this tanna."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתַנְיָא: הַהוֹלֵךְ לַחְלוֹב אֶת עִזָּיו,",
+          "english": "As it is taught: One who goes to milk his goats,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלִגְזוֹז אֶת רְחֵלָיו,",
+          "english": "and to shear his sheep,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלִרְדּוֹת אֶת כַּוַּורְתּוֹ,",
+          "english": "and to extract his hives,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מְצָאוֹ חֲבֵירוֹ וְאָמַר לוֹ:",
+          "english": "his friend found him and said to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַה שֶּׁעִזַּי חוֹלְבוֹת מָכוּר לָךְ,",
+          "english": "Whatever my goats milk is sold to you,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַה שֶּׁרְחֵלַי גּוֹזְזוֹת מָכוּר לָךְ,",
+          "english": "whatever my sheep shear is sold to you,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מַה שֶּׁכַּוַּורְתִּי רוֹדָה מָכוּר לָךְ – מוּתָּר.",
+          "english": "whatever my hive extracts is sold to you — permitted."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כְּמַאן – כִּי הַאי תַּנָּא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        77
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:7:1",
+            "hebrew": "ולרדות את כוורתו - על שם שעשויות חלות חלות ודבוקות מדופן אל דופן קרי ליה רדייה כרדיית פת מדובקת בתנור:",
+            "english": "",
+            "takeaway": "רש״י explains that the term לרדות את כוורתו refers to harvesting honeycombs that are stuck to the walls of the hive, similar to how bread is stuck to the oven walls."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:7:2",
+            "hebrew": "מה שעזי חולבות מכור לך - בכך וכך זוז אם מעט אם רב יגיעך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase מה שעזי חולבות מכור לך means the buyer pays a fixed price regardless of whether the yield is small or large."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 64a:7:1",
+            "hebrew": "מה שעזי חולבות מכור לך מותר - הך ברייתא לא קשיא לרב דאסר לקמן פרדיסא בסוף פירקין (בבא מציעא דף עג.) דהכא אין רגילות לזלזל בשביל המתנת יום או יומים לכך מותר שמקבל עליו הפסד ושכר וכך יכול להפסיד כמו להשתכר הלכך אפילו ימצא יותר מן הדמים שנתן לא הוי אגר נטר אבל פרדיסא אסר רב דקא אוזיל גביה טובא שרגיל לקנות בעוד שהוא בוסר ומשום הקדמת מעות עד זמן הבציר אוזיל גביה והוי אגר נטר ואע״ג דהתם נמי זימנין דאית בהו תיוהא כדקאמר שמואל כגון ברד או קרח או גשמים ומפסיד הכל רב לא חייש להכי דלא שכיח הוא וא״ת לרב דאסר פרדיסא מ״ש ממשכנתא דסורא דמשמע לקמן (בבא מציעא דף סז:) דשריא לכ״ע דכתבי הכי במשלם שניא אילין תיפוק ארעא דא בלא כסף דשרי אפילו לכמה שנים לאוזולי גביה כ״ש לשנה אחת ויש לומר דשאני משכנתא דסורא שקונה קרקע מעכשיו במעות ושטר לפירותיה אי לא יפדנה הלוה אבל פרדיסא אינו זוכה בשום דבר והוי זוזי הלואה גביה עד הבצירה ועוד דמשכנתא דסורא קנוי לו קרקע לכל דבר אפי' למשטח בה פרי ולהעמיד שם בהמותיו וכל תשמיש שירצה אבל בפרדיסא אינו מוכר אלא יין בלבד ועוד י״ל דרב לא אסר פרדיס' אלא דוקא כשאמר ליה כך וכך הינין מכור לך אבל אם מכר לו הן רב הן מעט מה שיגדל מודה רב דשרי ואפ״ה שרי שמואל משום תיוהא שהיין יהיה רע ולא ישוה הדמים שנתן והכא בקרי ועזי חולבו' דאסור מודה שמואל דלא שייך ביה תיוהא ולאיכא דאמרי נמי דשרי רבא כיון דממילא קא רבו אתיא אפי' אליבא דרב ואע״ג דהתם נמי ממילא קרבי איכא לאוקמי דהתם מיירי בפרדיסא כשלא יצא עדיין הפרי כלל:",
+            "english": "",
+            "takeaway": "תוספות reconciles this ברייתא with רב's prohibition of פרדיסא by noting that in this case, the buyer accepts both loss and profit, whereas in פרדיסא, the advance payment is considered a loan due to the risk of spoilage, and further distinguishes משכנתא דסורא as a valid land purchase with rights to the land itself, unlike פרדיסא which only sells the wine."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Citation of the ברייתא about selling future produce",
+      "stepSummary": "The גמרא cites a ברייתא that permits selling future produce (milk, wool, honey) without a fixed quantity, but forbids it with a fixed quantity.",
+      "whatsHappening": "The גמרא cites a ברייתא that supports רַב's teaching.",
+      "deeperAnalysis": "The ברייתא teaches that selling future produce (milk, wool, honey) is permitted if no fixed quantity is specified, but forbidden if a fixed quantity is specified. This supports רַב's teaching that selling future produce is forbidden if it doesn't exist (since specifying a fixed quantity implies the produce doesn't exist yet).",
+      "keyTerms": [
+        {
+          "term": "הַהוֹלֵךְ לַחְלוֹב אֶת עִזּוֹ",
+          "meaning": "one who goes to milk his goats"
+        },
+        {
+          "term": "מַה שֶּׁעִזַּי חוֹלְבוֹת מָכוּר לָךְ",
+          "meaning": "whatever my goats milk is sold to you"
+        },
+        {
+          "term": "כָּךְ וְכָךְ מָכוּר לָךְ",
+          "meaning": "such and such an amount is sold to you"
+        }
+      ],
+      "whatToRemember": "The ברייתא distinguishes between selling future produce with and without a fixed quantity.",
+      "whyThisMatters": "This ברייתא provides the Tannaitic basis for רַב's teaching.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּמַאן – כִּי הַאי תַּנָּא.",
+          "english": "Like whom? Like this tanna."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתַנְיָא: הַהוֹלֵךְ לַחְלוֹב אֶת עִזָּיו,",
+          "english": "As it is taught: One who goes to milk his goats,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלִגְזוֹז אֶת רְחֵלָיו,",
+          "english": "and to shear his sheep,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלִרְדּוֹת אֶת כַּוַּורְתּוֹ,",
+          "english": "and to extract the honey from his hives,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מְצָאוֹ חֲבֵירוֹ וְאָמַר לוֹ:",
+          "english": "his friend found him and said to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַה שֶּׁעִזַּי חוֹלְבוֹת מָכוּר לָךְ,",
+          "english": "Whatever my goats milk is sold to you,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַה שֶּׁרְחֵלַי גּוֹזְזוֹת מָכוּר לָךְ,",
+          "english": "whatever my sheep shear is sold to you,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מַה שֶּׁכַּוַּורְתִּי רוֹדָה מָכוּר לָךְ –",
+          "english": "whatever my hives extract is sold to you –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מוּתָּר. אֲבָל אִם אָמַר לוֹ:",
+          "english": "permitted. But if he said to him:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מַה שֶּׁעִזַּי חוֹלְבוֹת כָּךְ וְכָךְ מָכוּר לָךְ,",
+          "english": "Whatever my goats milk, so much and so much is sold to you,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "מַה שֶּׁרְחֵלַי גּוֹזְזוֹת כָּךְ וְכָךְ מָכוּר לָךְ,",
+          "english": "whatever my sheep shear, so much and so much is sold to you,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "מַה שֶּׁכַּוַּורְתִּי רוֹדָה כָּךְ וְכָךְ מָכוּר לָךְ –",
+          "english": "whatever my hives extract, so much and so much is sold to you –"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אָסוּר. וְאַף עַל גַּב דְּמִמֵּילָא קָא רָבוּ,",
+          "english": "forbidden. And even though from themselves they increased,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "כֵּיוָן דְּלֵיתַנְהוּ בְּהַהִיא שַׁעְתָּא – אָסוּר.",
+          "english": "since they are not at that time – forbidden."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּתַנְיָא: הַהוֹלֵךְ לַחְלוֹב אֶת עִזּוֹ, וְלִגְזוֹז אֶת רְחֵלוֹ, וְלִרְדּוֹת אֶת כַּוּוּרְתּוֹ, מְצָאוֹ חֲבֵרוֹ וְאָמַר לוֹ: מַה שֶּׁעִזַּי חוֹלְבוֹת מָכוּר לָךְ, מַה שֶּׁרְחֵלוֹ גוֹזְזוֹת מָכוּר לָךְ, מַה שֶּׁכַּוּוּרְתּוֹ רוֹדָה מָכוּר לָךְ – מוּתָר. אֲבָל אִם אָמַר לוֹ: מַה שֶּׁעִזַּי חוֹלְבוֹת כָּךְ וְכָךְ מָכוּר לָךְ, מַה שֶּׁרְחֵלוֹ גוֹזְזוֹת כָּךְ וְכָךְ מָכוּר לָךְ, מַה שֶּׁכַּוּוּרְתּוֹ רוֹדָה כָּךְ וְכָךְ מָכוּר לָךְ – אָסוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        78
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:7:3",
+            "hebrew": "מותר - שהרי קיבל עליו הפסד ושכר הלכך אפי' ימצא יותר משוה הדמים אין כאן אגר נטר ליה דאי הוה בציר מדמים נמי הוה שקיל:",
+            "english": "",
+            "takeaway": "רש״י explains that selling future produce without a fixed quantity is permitted because the buyer accepts the risk of loss or gain, thereby avoiding the prohibition of אגר נטר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:8:1",
+            "hebrew": "אבל אמר לו כך וכך סאין - ואוזיל גביה בשכר הקדמת המעות אסור:",
+            "english": "",
+            "takeaway": "רש״י explains that specifying a fixed quantity is forbidden because the seller effectively charges interest for the advance payment, constituting אגר נטר."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 64a:7:1",
+            "hebrew": "מה שעזי חולבות מכור לך מותר - הך ברייתא לא קשיא לרב דאסר לקמן פרדיסא בסוף פירקין (בבא מציעא דף עג.) דהכא אין רגילות לזלזל בשביל המתנת יום או יומים לכך מותר שמקבל עליו הפסד ושכר וכך יכול להפסיד כמו להשתכר הלכך אפילו ימצא יותר מן הדמים שנתן לא הוי אגר נטר אבל פרדיסא אסר רב דקא אוזיל גביה טובא שרגיל לקנות בעוד שהוא בוסר ומשום הקדמת מעות עד זמן הבציר אוזיל גביה והוי אגר נטר ואע״ג דהתם נמי זימנין דאית בהו תיוהא כדקאמר שמואל כגון ברד או קרח או גשמים ומפסיד הכל רב לא חייש להכי דלא שכיח הוא וא״ת לרב דאסר פרדיסא מ״ש ממשכנתא דסורא דמשמע לקמן (בבא מציעא דף סז:) דשריא לכ״ע דכתבי הכי במשלם שניא אילין תיפוק ארעא דא בלא כסף דשרי אפילו לכמה שנים לאוזולי גביה כ״ש לשנה אחת ויש לומר דשאני משכנתא דסורא שקונה קרקע מעכשיו במעות ושטר לפירותיה אי לא יפדנה הלוה אבל פרדיסא אינו זוכה בשום דבר והוי זוזי הלואה גביה עד הבצירה ועוד דמשכנתא דסורא קנוי לו קרקע לכל דבר אפי' למשטח בה פרי ולהעמיד שם בהמותיו וכל תשמיש שירצה אבל בפרדיסא אינו מוכר אלא יין בלבד ועוד י״ל דרב לא אסר פרדיס' אלא דוקא כשאמר ליה כך וכך הינין מכור לך אבל אם מכר לו הן רב הן מעט מה שיגדל מודה רב דשרי ואפ״ה שרי שמואל משום תיוהא שהיין יהיה רע ולא ישוה הדמים שנתן והכא בקרי ועזי חולבו' דאסור מודה שמואל דלא שייך ביה תיוהא ולאיכא דאמרי נמי דשרי רבא כיון דממילא קא רבו אתיא אפי' אליבא דרב ואע״ג דהתם נמי ממילא קרבי איכא לאוקמי דהתם מיירי בפרדיסא כשלא יצא עדיין הפרי כלל:",
+            "english": "",
+            "takeaway": "תוספות reconciles this ברייתא with רב's prohibition of selling a פרדיס by distinguishing that future produce sales involve mutual risk of loss or gain, whereas selling a פרדיס involves only the seller's risk of price fluctuation, constituting אגר נטר."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא's alternative view: selling future produce is permitted",
+      "stepSummary": "The גמרא presents an alternative view: רַבָּא holds that selling future produce is permitted, even if it doesn't exist.",
+      "whatsHappening": "The גמרא introduces a different opinion: רַבָּא's view that selling future produce is permitted.",
+      "deeperAnalysis": "This is a standard 'איכא דאמרי' structure, presenting an alternative view. רַבָּא holds that selling future produce is permitted, even if it doesn't exist, as long as it grows by itself. This contrasts with רַב's view.",
+      "keyTerms": [
+        {
+          "term": "אִיכָּא דְּאָמְרִי",
+          "meaning": "there are those who say"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "the sage presenting the alternative view"
+        },
+        {
+          "term": "כֵּיוָן דְּמִמֵּילָא קָא רָבוּ – שַׁפִּיר דָּמֵי",
+          "meaning": "since they increase by themselves – it is permitted"
+        }
+      ],
+      "whatToRemember": "רַבָּא holds that selling future produce is permitted, even if it doesn't exist.",
+      "whyThisMatters": "This introduces a contrasting view, setting up the need for a distinction between the two cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּאָמְרִי, אָמַר רָבָא:",
+          "english": "There are those who say, Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיוָן דְּמִמֵּילָא קָא רָבוּ – שַׁפִּיר דָּמֵי.",
+          "english": "Since they grow by themselves – it is fine."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָתַנְיָא: כָּךְ וְכָךְ – אָסוּר!",
+          "english": "And it is taught: Such and such – forbidden!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָּא דְּאָמְרִי, אָמַר רַבָּא: כֵּיוָן דְּמִמֵּילָא קָא רָבוּ – שַׁפִּיר דָּמֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        79
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:9:1",
+            "hebrew": "איכא דאמרי - גבי קרי אמר רבא שפיר דמי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רַבָּא's statement applies specifically to the case of קרי (a field that grows by itself), where selling future produce is permitted."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:9:2",
+            "hebrew": "והא תניא אסור - גבי גיזה וחלב:",
+            "english": "",
+            "takeaway": "רש״י explains that the ברייתא cited as a challenge refers to the case of גיזה וחלב (shearing and milking), which is forbidden."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Distinction between produce that grows by itself vs. produce that is replaced",
+      "stepSummary": "The גמרא resolves the difficulty by distinguishing between produce that grows by itself (gourds) and produce that is replaced (milk, wool).",
+      "whatsHappening": "The גמרא resolves the difficulty by distinguishing between the two cases.",
+      "deeperAnalysis": "The resolution is that the ברייתa is talking about produce that is replaced (milk, wool), while רַבָּא is talking about produce that grows by itself (gourds). In the case of milk and wool, if you remove the milk, new milk replaces it. So the milk that is generated after the sale is not an extension of the milk that was present at the time of the sale. But in the case of gourds, if you remove the gourd, no other gourd replaces it. So the gourd that grows after the sale is an extension of the gourd that was present at the time of the sale. Therefore, רַבָּא's view is that selling future produce is permitted if it grows by itself, but the ברייתa is talking about produce that is replaced, which is forbidden.",
+      "keyTerms": [
+        {
+          "term": "הָתָם לָאו מִינֵּיהּ קָא רָבוּ",
+          "meaning": "there, they do not increase from themselves"
+        },
+        {
+          "term": "דְּשָׁקְלִי לֵיהּ לְהַאי וְאָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ",
+          "meaning": "if they remove this one, another comes in its place"
+        },
+        {
+          "term": "הָכָא מִינֵּיהּ קָא רָבוּ",
+          "meaning": "here, they increase from themselves"
+        },
+        {
+          "term": "דְּכִי שָׁקְלִי לֵיהּ לְהַאי – לָא אָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ",
+          "meaning": "if they remove this one, another does not come in its place"
+        }
+      ],
+      "whatToRemember": "The key distinction is between produce that grows by itself vs. produce that is replaced.",
+      "whyThisMatters": "This distinction resolves the apparent contradiction between רַבָּא's view and the ברייתa.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָתָם לָאו מִינֵּיהּ קָא רָבוּ,",
+          "english": "There, they do not increase from themselves,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּשָׁקְלִי לֵיהּ לְהַאי וְאָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ.",
+          "english": "because they take it from this one and another comes in its place."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא מִינֵּיהּ קָא רָבוּ,",
+          "english": "Here, they increase from themselves,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּכִי שָׁקְלִי לֵיהּ לְהַאי –",
+          "english": "because when they take it from this one –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא אָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ.",
+          "english": "another does not come in its place."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָתָם לָאו מִינֵּיהּ קָא רָבוּ, דְּשָׁקְלִי לֵיהּ לְהַאי וְאָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ. הָכָא מִינֵּיהּ קָא רָבוּ, דְּכִי שָׁקְלִי לֵיהּ לְהַאי – לָא אָתֵי אַחֲרִינָא בְּדוּכְתֵּיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        81
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:10:1",
+            "hebrew": "לאו מיניה קא רבו - חלב הבא לאחר זמן אינו גדל מכח חלב שהיה בבהמה בשעת מכר דהא כי שקיל להאי כוליה לגמרי אתי אחרינא:",
+            "english": "",
+            "takeaway": "רש״י explains that in the case of milk, the new milk that comes later does not grow from the strength of the milk that was in the animal at the time of sale, because when you take this milk, a completely new one comes in its place."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:10:2",
+            "hebrew": "אבל הכא - הנוסף על הדלועים קטנים ונעשו גדולות:",
+            "english": "",
+            "takeaway": "רש״י explains that in the case of gourds, the addition is that the small gourds grow and become large."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:10:3",
+            "hebrew": "מיניה קרבו - מכח הקטנות בא והקטנות כבר היו בשעת מכר ומדידיה הוא דקא משבח ואזיל:",
+            "english": "",
+            "takeaway": "רש״י explains that the growth comes from the small gourds themselves, which were already present at the time of sale, and they continue to grow and increase in size from their own substance."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:10:4",
+            "hebrew": "דכי שקלי ליה להאי - בוצינא זוטרתי לא אתיא אחריתי ש\"מ מגופיה קרבו:",
+            "english": "",
+            "takeaway": "רש״י explains that when you take this small gourd, another one does not come in its place, proving that the growth comes from its own body."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "Abaye's ruling on asymmetric risk allocation",
+      "stepSummary": "Abaye rules that a transaction is permitted where the buyer bears the risk of spoilage but the seller bears the risk of price fluctuation.",
+      "whatsHappening": "The sugya opens with Abaye's freestanding ruling on a specific type of conditional sale.",
+      "deeperAnalysis": "Abaye permits a deal where the buyer pays upfront for future delivery. The buyer takes the risk of the wine souring (תקפה), but the seller retains the risk of price changes (יקרא אי זילא). This asymmetric allocation of risk is the subject of the ruling.",
+      "keyTerms": [
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "the Amora issuing the ruling"
+        },
+        {
+          "term": "חַבִּיתָא דְחַמְרָא",
+          "meaning": "a barrel of wine"
+        },
+        {
+          "term": "תַּקְפָּא",
+          "meaning": "it sours / spoils"
+        },
+        {
+          "term": "יָקְרָא אִי זִילָא",
+          "meaning": "it appreciates or depreciates in value"
+        },
+        {
+          "term": "בִּרְשׁוּתָךְ / בִּרְשׁוּתַי",
+          "meaning": "in your possession / in my possession (indicating who bears the risk)"
+        }
+      ],
+      "whatToRemember": "The core ruling is about who bears the risk of price fluctuation vs. spoilage.",
+      "confusionAlert": "Note that 'יקרא אי זילא' covers both price increase and decrease, both falling on the seller.",
+      "whyThisMatters": "This establishes the baseline permissibility of such asymmetric contracts before Rav Sherevya's challenge.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי: שָׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ,",
+          "english": "Abaye said: It is permitted for a person to say to his friend,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֵילָךְ אַרְבְּעָה זוּזֵי אַחָבִיתָא דְחַמְרָא,",
+          "english": "Take these four dinars for the future delivery of a barrel of wine,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי תָּקְפָה – בִּרְשׁוּתָךְ,",
+          "english": "If it sours – it is in your possession,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי יָקְרָא אִי זִילָא – בִּרְשׁוּתַי.",
+          "english": "If it appreciates or depreciates – it is in my possession."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ רַב שֵׁרֵבְיָא לְאַבָּיֵי:",
+          "english": "Rav Sherevya said to Abaye:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר אַבָּיֵי: שָׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ, הֵילָךְ אַרְבְּעָה זוּזֵי אַחָבִיתָא דְחַמְרָא, אִי תָּקְפָה – בִּרְשׁוּתָךְ, אִי יָקְרָא אִי זִילָא – בִּרְשׁוּתַי.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:11:1",
+            "hebrew": "אחביתא דחמרא - שיש בידך:",
+            "english": "",
+            "takeaway": "רש״י explains that אחביתא דחמרא means the wine is already in the buyer's possession."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 64a:11:2",
+            "hebrew": "אם תקפה - אם מחמצת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that תקפה refers to the wine turning sour or fermenting."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 64a:11:1",
+            "hebrew": "אי תקפה ברשותך - תימה דהיכי מיירי דאי בשמשך א״כ אפילו אמר ליה אי תקפה אי זילא ברשותך ואי יקרי ברשותי הוה שרי שהרי מתנה עמו שאם יוקיר יהא המקח קיים מעכשיו ואין המעות הלואה אצלו ואי תקפה או זילא יהא המקח בטל ויהיו המעות הלואה ויחזירם לו ומה רבית יש כאן ואי בשלא משך מה צריך להתנות אי תקפה ברשותך כי לא אתני יכול לחזור דליכא מי שפרע כיון שמפסיד הכל כדמשמע לעיל בפ' הזהב (בבא מציעא דף מט:) גבי ההוא חמרא דבעי למנסביה דבי פרזק רופילא וי״ל דלעולם איירי כשמשך ואפ״ה אסור אי אמר אי זילא ברשותך דחשיב קרוב לשכר ורחוק להפסד כדאמר לקמן (בבא מציעא דף ע.) גבי עיסקא דאסור אע״ג שיכול להתנות שאם יבא הפסד בעיסקא יהיו כל המעות הלואה ואם יבא ריוח יהיו כולם פקדון אלא ודאי כיון דאחריות ההפסד על המקבל לא מהני אפילו בתנאי להחשיבם פקדון א״נ מיירי כשלא משך וצריך להתנות דאי לא מתני איכא מי שפרע דאין בו כל כך הפסד דאיכא דניחא ליה בחלא טפי מבחמרא כדאמרינן בהמוכר את הספינה (ב״ב ד' פד: ושם) וא״ת אכתי כי לא אתני נמי יכול לחזור בו אי תקפה דמקח טעות הוא אפי' הביאו לוקח בביתו ושהה הרבה ואחר כך החמיץ דא״ר חנינא בהמוכר את הפירות (שם ד' צח. ושם) גבי מוכר יין לחבירו והחמיץ לא שנו אלא בקנקנים דלוקח אבל בקנקנים דמוכר מצי אמר ליה הא חמרך והא קנקנך ואפי' מאן דפליג התם ואמר מזלא דגברא גרים מ״מ כי אתני מאי פריך הכא קרוב לשכר ורחוק להפסד הוא והא מקח טעות הוא דליכא למימר מזליה דלוקח גרים כיון דהתנה עמו דאי תקפה ברשותיה ובסוף פירקין (בבא מציעא ד' עג:) נמי אמרינן גבי רבנן דיהבי זוזי אחמרא בתשרי ומבחרי להו בטבת וקאמר אחמרא יהבי ואחלא לא יהבי ואין לחלק בין מוכר בתשרי ולוקח בטבת לשאר השנה דבהמוכר פירות לא קמפליג בין קודם טבת לאחר טבת לכך נראה דתקפה דהכא לאו היינו שהחמיץ אלא קלקול בעלמא כמו יין הנמכר בחנות דהמוכר פירות דאותו שהחמיץ אחר תשרי מתשרי היה עומד להתחמץ כדאמר בסוף פירקין ואותו הוי מקח טעות אבל תקיף דהכא אין זה הקלקול ראוי לעמוד מתשרי ואין זה מקח טעות ועליה יהבי זוזי והוי תקפה דהכא כי ההוא דהמוכר פירות דאמר רבא האי מאן דזבין חביתא דחמרא ותקיף כו' דלאו היינו החמיץ דבעי בתר הכי חלא מאי ואף על גב דבההיא דברכות (ד' ה:) רב הונא תקיפא ליה ארבע מאה דני דחמרא הוי החמיצו דקאמר אייקר חלא מ״מ הך דהכא לאו היינו החמיץ כדפי' וא״ת מאי צריך לקמן (שם) טעמא דמעיקרא חלא חלא תיפוק ליה דאפילו בתקפה דליכא למימר הכי שרי להתנות כדאמר הכא כיון דקביל עליה יוקרא וזולא קרוב לזה ולזה הוא וי״ל דקלקול של חימוץ שכיח הלכך אע״ג דמקבל עליה יוקרא וזולא הוי רחוק להפסד והוי דומה לרבית אי לאו טעמא דמעיקרא חלא חלא:",
+            "english": "",
+            "takeaway": "תוספות questions why the condition regarding souring is necessary if the buyer already took possession, and resolves that תקפה here refers to a type of spoilage that is not a מקח טעות, unlike souring which would allow the buyer to return the goods even without such a condition."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T09:47:29.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 135.2637143000029,
+      "structure": 2320.5243478000048,
+      "validate": 289.1456242002896,
+      "translate": 360.82798939966597,
+      "meforshim": 686.2527952996315,
+      "teaching": 981.3912318000221
+    }
+  }
+}

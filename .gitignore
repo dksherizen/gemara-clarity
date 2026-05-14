@@ -2,10 +2,15 @@ node_modules
 dist
 .env
 .env.local
-*.log
 .DS_Store
-public/data/*.json
-!public/data/*.demo.json
-!public/data/index.json
+
+# Runtime logs — volatile, not source
+*.log
+
+# Sefaria-originals cache: re-fetchable, not source-of-truth
 data/*.json
 !data/.gitkeep
+
+# Built amud JSONs in public/data/ ARE tracked.
+# The pipeline output is treated as part of the repo so a fresh clone
+# has a working PWA without re-running the batch.

@@ -170,6 +170,12 @@ tbody tr:nth-child(even) { background: rgba(255, 255, 255, 0.05); }
 body.light tbody tr:nth-child(odd) { background: white; }
 body.light tbody tr:nth-child(even) { background: #f8fbff; }
 
+/* Phrase-row token highlighting on hover — hover either Aramaic or English side,
+   both cells light up with an accent border so the eye can pair them. */
+tbody tr { transition: background 0.12s ease, box-shadow 0.12s ease; }
+tbody tr:hover { background: rgba(var(--accent-rgb), 0.10) !important; box-shadow: inset 3px 0 0 var(--accent), inset -3px 0 0 var(--accent); cursor: default; }
+body.light tbody tr:hover { background: rgba(var(--accent-rgb), 0.14) !important; }
+
 .rtl { direction: rtl; text-align: right; font-family: "Frank Ruhl Libre", serif; font-size: clamp(20px, var(--hebrew-size, 23px), 30px); unicode-bidi: isolate; line-height: 1.6; }
 
 .phrase-note { font-size: 12px; color: var(--muted); margin-top: 6px; font-style: italic; }
@@ -180,6 +186,25 @@ body.light tbody tr:nth-child(even) { background: #f8fbff; }
 .error { color: #ffd2d7; background: rgba(150, 20, 40, 0.22); border-color: rgba(255, 120, 140, 0.25); }
 body.light .error { color: #891826; background: #fff0f2; border-color: #f6c7cf; }
 .hidden { display: none !important; }
+
+/* Print layout — hide chrome, keep teaching content */
+@media print {
+  :root { color-scheme: light; --bg: white; --panel: white; --panel-2: white; --text: black; --soft: #333; --muted: #555; --border: #888; --border-2: #ccc; }
+  body { background: white !important; color: black !important; }
+  .no-print, .controls, .header, .pipeline-progress, .library, .step-outline, aside, .search-panel { display: none !important; }
+  .daf-layout { display: block !important; }
+  .step-card, .card { break-inside: avoid; page-break-inside: avoid; box-shadow: none !important; border: 1px solid #ccc !important; background: white !important; }
+  .step-card { margin-bottom: 16px; }
+  table { border: 1px solid #888; }
+  tbody td { border-color: #ccc !important; background: white !important; color: black !important; }
+  thead th { background: #f0f0f0 !important; color: black !important; }
+  .mef-verbatim, .mef-takeaway { color: black !important; }
+  .mef-source { color: #444 !important; }
+  .arg-flow { display: none !important; }
+  /* Single-sugya-print mode: hide all but the active sugya */
+  body.print-single-sugya .step-card:not([data-print-include="true"]) { display: none !important; }
+  body.print-single-sugya .sugya-divider:not([data-print-include="true"]) { display: none !important; }
+}
 
 body.hide-logic .logic-toggle-btn, body.hide-logic .logic-details { display: none !important; }
 body.hide-terms .key-terms-box { display: none !important; }
@@ -307,6 +332,17 @@ body.light .meforshim-block .mef-item .mef-verbatim { background: #f4f6fb; }
   letter-spacing: 0.12em; color: var(--muted);
 }
 
+@media (max-width: 900px) {
+  .daf-layout {
+    grid-template-columns: 1fr !important;
+  }
+  .daf-layout > aside {
+    position: relative !important;
+    max-height: 200px !important;
+    top: 0 !important;
+  }
+}
+
 @media (max-width: 700px) {
   .app { padding: 10px 10px 28px; }
   .compact-select.wide, .compact-input { width: 100%; max-width: none; }
@@ -362,3 +398,18 @@ tr, .term-item, .teaching-block, .key-terms-box, .alert-box, .remember-box { pag
   .meforshim-block .mef-item { background: white !important; }
   * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
 }
+
+.arg-flow { margin: 10px 0 14px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; background: var(--panel-2); }
+.arg-flow-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.arg-flow-label { font-size: 11px; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.06em; }
+.arg-flow-toggle { background: transparent; border: 1px solid var(--border); color: var(--muted); font-size: 11px; padding: 2px 8px; border-radius: 4px; }
+.arg-flow-toggle:hover { color: var(--soft); border-color: var(--border-2); }
+.arg-tree { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.arg-node { --depth: 0; display: grid; grid-template-columns: 3px 32px auto 1fr; align-items: center; column-gap: 8px; padding: 4px 8px 4px calc(8px + var(--depth) * 18px); border-radius: 5px; min-height: 24px; position: relative; }
+.arg-node:hover { background: rgba(255, 255, 255, 0.025); }
+body.light .arg-node:hover { background: rgba(0, 0, 0, 0.025); }
+.arg-node[data-role="opens_new_branch"]::before, .arg-node[data-role="alternative_approach"]::before { content: ""; position: absolute; left: calc(var(--depth) * 18px - 1px); top: 50%; width: 8px; height: 1px; background: var(--border); }
+.arg-bar { width: 3px; height: 16px; border-radius: 2px; }
+.arg-num { font-size: 11px; font-weight: 700; color: var(--muted); font-variant-numeric: tabular-nums; text-align: right; }
+.arg-type { font-family: "Frank Ruhl Libre", serif; font-size: 14px; font-weight: 600; line-height: 1; white-space: nowrap; min-width: 44px; }
+.arg-title { font-size: 12.5px; color: var(--soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

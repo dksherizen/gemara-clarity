@@ -1,0 +1,705 @@
+{
+  "ref": "Bava Metzia 41b",
+  "masechet": "Bava_Metzia",
+  "daf": 41,
+  "amud": "b",
+  "mainTopic": "(continues) הפקדת חבית ושליחות יד",
+  "overview": "The Mishnah discusses the liability of a bailee who moves a deposited jar and breaks it, and the Gemara analyzes the concept of 'shlichut yad'.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 8,
+      "topic": "(continues) הפקדת חבית ושליחות יד",
+      "gist": "The Mishnah discusses the liability of a bailee who moves a deposited jar and breaks it, and the Gemara analyzes the concept of 'shlichut yad'.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן's Counter: It is Not מְשׁוּנָּה",
+      "stepSummary": "רַבִּי יוֹחָנָן then states his own view: שְׁלִיחוּת יָד is not מְשׁוּנָּה between שׁוֹמֵר שָׂכָר and שׁוֹמֵר חִנָּם.",
+      "whatsHappening": "רַבִּי יוֹחָנָן presents his own opinion, which contradicts the previous statement. He holds that שְׁלִיחוּת יָד is not מְשׁוּנָּה.",
+      "deeperAnalysis": "רַבִּי יוֹחָנָן says: וַאֲנִי אוֹמֵר אֵינָהּ מְשׁוּנָּה. This means he holds that שְׁלִיחוּת יָד is not different between the two bailees, so the extra mention is not needed to teach that it doesn't require חֶסְרוֹן. This sets up a new question: why does the Torah mention it twice if it's not מְשׁוּנָּה?",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַאֲנִי אוֹמֵר אֵינָהּ מְשׁוּנָּה.",
+          "english": "And I say it is not different."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַאֲנִי אוֹמֵר אֵינָהּ מְשׁוּנָּה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        82
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "contradicts",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:1:1",
+            "hebrew": "ואני אומר - ר' יוחנן פליג אדרבי יוסי בן נהוראי רביה ואמר אף היא לצורך נאמרה ולוי ס\"ל כרבי יוסי בן נהוראי למידרש מיניה דאין צריכה חסרון דאי מקרא קמא לא תיסק אדעתין לחיוביה עד דמחסר ליה:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יוחנן disagrees with his teacher רבי יוסי בן נהוראי, holding that the second mention of שְׁלִיחוּת יָד is necessary for its own halakhic purpose rather than being מְשׁוּנָּה, while לוי follows רבי יוסי בן נהוראי to derive that the bailee is not liable unless there is חֶסְרוֹן."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "Clarifying the Term מְשׁוּנָּה",
+      "stepSummary": "The Gemara asks what the previous statement meant by מְשׁוּנָּה.",
+      "whatsHappening": "The Gemara asks for clarification of the term מְשׁוּנָּה. It seeks to understand the logic behind the previous statement.",
+      "deeperAnalysis": "The question is: וּמַאי מְשׁוּנָּה? (And what does מְשׁוּנָּה mean?). This is a neutral request for the definition of the term used in the previous statement. The answer will explain the קַל וָחוֹמֶר that would have derived שְׁלִיחוּת יָד for שׁוֹמֵר שָׂכָר from שׁוֹמֵר חִנָּם.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמַאי מְשׁוּנָּה? לֹא תֵּאָמֵר שְׁלִיחוּת יָד בְּשׁוֹמֵר שָׂכָר,",
+          "english": "And what is unusual? Let it not be said that misappropriation of hand in a paid bailee,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְתֵיתֵי מִשּׁוֹמֵר חִנָּם:",
+          "english": "and let it come from an unpaid bailee:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמָה שׁוֹמֵר חִנָּם שֶׁפָּטוּר בִּגְנֵבָה וַאֲבֵדָה",
+          "english": "And if an unpaid bailee who is exempt in theft and loss"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שָׁלַח בָּהּ יָד – חַיָּיב,",
+          "english": "sent hand in it – he is liable,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שׁוֹמֵר שָׂכָר שֶׁחַיָּיב בִּגְנֵבָה וַאֲבֵידָה לֹא כׇּל שֶׁכֵּן.",
+          "english": "a paid bailee who is liable in theft and loss, all the more so."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לְמַאי הִלְכְתָא כַּתְבִינְהוּ רַחֲמָנָא?",
+          "english": "For what halakha did the Merciful One write them?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לוֹמַר לָךְ: שְׁלִיחוּת יָד אֵינָהּ צְרִיכָה חֶסְרוֹן.",
+          "english": "To tell you: misappropriation of hand does not require loss."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמַאי מְשׁוּנָּה?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        83
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "asks",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:2:1",
+            "hebrew": "בשומר חנם נאמר ונקרב בעל הבית וגו' בשומר שכר כתיב שבועת ה' תהיה וגו' ואמרינן בהשואל (לקמן בבא מציעא דף צד:) פרשה ראשונה נאמרה בשומר חנם שניה בשומר שכר וכתיב בתרוייהו אם לא שלח הא אם שלח נתחייב בדברים שהוא פטור עליהם כגון שומר חנם בין בגנבה בין באונסין דמדשלח בה יד קנאה וקמה ברשותו ושומר שכר פטור במת או נשבר או נשבה דהיינו אונסין:",
+            "english": "",
+            "takeaway": "רש״י explains that the Torah's verses for שומר חנם and שומר שכר both include the phrase 'אם לא שלח', establishing that שליחות יד creates liability for both guardians even for damages they are otherwise exempt from, such as גנבה and אונסין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:2:2",
+            "hebrew": "שומר חנם שפטור - כל זמן שלא שלח בה יד כדכתיב אם לא ימצא הגנב ונקרב בעה\"ב דנשבע שלא שלח בה יד ולא פשע בשמירתו ופטור כדאמרינן לקמן בשמעתין דהאי ונקרב שבועה הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a שומר חנם is exempt from liability as long as he has not engaged in שליחות יד, as proven by the verse 'ונקרב בעל הבית' which implies an oath of non-involvement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:2:3",
+            "hebrew": "שומר שכר שחייב בגנבה ואבדה - דפרשה שניה בו נאמרה וכתיב בה אם גנב יגנב כו':",
+            "english": "",
+            "takeaway": "רש״י notes that a שומר שכר is liable for גנבה ואבדה based on the second Torah passage, which explicitly mentions theft."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:2:4",
+            "hebrew": "לא כ\"ש - שאם שלח בה יד חייב באונסין:",
+            "english": "",
+            "takeaway": "רש״י explains that the קל וחומר concludes that if a שומר שכר is liable for גנבה ואבדה, he is certainly liable for אונסין when he engages in שליחות יד."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:2:1",
+            "hebrew": "לומר לך שליחות יד אינה צריכה חסרון - וא\"ת התינח שומר שכר דאייתר קרא להכי אלא בשומר חנם מנ\"ל אי משומר שכר מה לשומר שכר שכן חייב בגנבה ואבדה וי\"ל כיון דשליחות יד חייב בתרוייהו אין זה אלא גילוי מילתא למילף דין של זה בזה:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty of deriving the law for שומר חנם from שומר שכר via קל וחומר, since שומר שכר is liable for גנבה ואבדה while שומר חנם is not, and answers that the Torah's mention of שליחות יד for both is merely a גילוי מילתא to teach that the rule applies to both."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges the logical derivation of שליחות יד for שומר חנם from שומר שכר due to their differing baseline liabilities, whereas רש״י simply explains the textual basis and the resulting קל וחומר without addressing this specific logical difficulty."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן's Counter: Not מְשׁוּנָּה According to רַבִּי אֶלְעָזָר",
+      "stepSummary": "רַבִּי יוֹחָנָן states his view: it is not מְשׁוּנָּה according to רַבִּי אֶלְעָזָר, who holds that both cases are one.",
+      "whatsHappening": "רַבִּי יוֹחָנָן presents his own view, which contradicts the previous statement. He holds that שְׁלִיחוּת יָד is not מְשׁוּנָּה according to רַבִּי אֶלְעָזָר.",
+      "deeperAnalysis": "רַבִּי יוֹחָנָן says: וַאֲנִי אוֹמֵר: אֵינָהּ מְשׁוּנָּה כְּרַבִּי אֶלְעָזָר, דְּאָמַר: דָּא וְדָא אַחַת הִיא. This means he holds that שְׁלִיחוּת יָד is not different between the two bailees, so the extra mention is not needed to teach that it doesn't require חֶסְרוֹן. This sets up a new question: why does the Torah mention it twice if it's not מְשׁוּנָּה?",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֶלְעָזָר",
+          "meaning": "Rabbi Elazar, the Tanna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַאֲנִי אוֹמֵר: אֵינָהּ מְשׁוּנָּה כְּרַבִּי אֶלְעָזָר,",
+          "english": "And I say: It is not different according to Rabbi Elazar,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר: דָּא וְדָא אַחַת הִיא.",
+          "english": "who says: This and that are one."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַאי דָּא וְדָא אַחַת?",
+          "english": "What is 'this and that are one'?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִשּׁוּם דְּאִיכָּא לְמִפְרַךְ:",
+          "english": "Because there is to refute:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָה לְשׁוֹמֵר חִנָּם,",
+          "english": "What is an unpaid bailee?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שֶׁכֵּן מְשַׁלֵּם תַּשְׁלוּמֵי כֶפֶל בְּטוֹעֵן טַעֲנַת גַּנָּב.",
+          "english": "A neighbor pays double payment when he claims a thief."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַאֲנִי אוֹמֵר: אֵינָהּ מְשׁוּנָּה כְּרַבִּי אֶלְעָזָר, דְּאָמַר: דָּא וְדָא אַחַת הִיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        85
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "contradicts",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:3:1",
+            "hebrew": "דא ודא אחת היא - כמשמעה של זו כך משמעה של זו לפי ששתיהן הוצרכו ואין כאן מקרא יתר:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי אֶלְעָזָר's statement דָּא וְדָא אַחַת הִיא means both verses have the same meaning and are both necessary, so there is no extra verse (מקרא יתר)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:3:2",
+            "hebrew": "מאי דא ודא אחת היא - למה שתיהן שוות הלא לא הוצרכה השניה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question 'מאי דא ודא אחת היא' asks why the two verses are considered equal when the second one should not have been necessary."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:3:3",
+            "hebrew": "שומר חנם שפוטר עצמו בטענת גנב - כלומר גנב גנבה ממני ובאו עדים שהיא אצלו משלם תשלומי כפל דכתיב אם לא ימצא הגנב וגו' ודרשינן בבבא קמא (דף סג:) אם לא ימצא כמה שאמר אלא שהוא עצמו גנבו מה כתיב אחריו אשר ירשיעון אלהים ישלם שנים אבל שומר שכר אינו משלם כפל שאם טען נגנבה משלם קרן שהרי הוא חייב בגניבה וטענה אחרת אינה מביאה אותו לידי כפל:",
+            "english": "",
+            "takeaway": "רש״י explains that a שומר חנם who claims theft (טענת גנב) pays double (תשלומי כפל) based on a derivation in בבא קמא, whereas a שומר שכר only pays the principal (קרן) because he is already liable for theft and other claims do not lead to double payment."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The View: קַרְנָא Without an Oath is Better",
+      "stepSummary": "The Gemara states the view of the one who does not refute the קַל וָחוֹמֶר: paying the principal without an oath is more stringent than paying double with an oath.",
+      "whatsHappening": "The Gemara presents the view of the one who does not refute the קַל וָחוֹמֶר. He holds that paying the principal without an oath is more stringent than paying double with an oath.",
+      "deeperAnalysis": "The statement is: וּמַאן דְּלָא פָּרֵיךְ סָבַר: קַרְנָא בְּלָא שְׁבוּעָה עֲדִיפָא מִכְּפֵילָא בִּשְׁבוּעָה. This means that paying the principal (קַרְנָא) without an oath is more stringent than paying double (כֶּפֶל) with an oath. Thus, שׁוֹמֵר שָׂכָר is consistently more stringent than שׁוֹמֵר חִנָּם, so the קַל וָחוֹמֶר stands.",
+      "keyTerms": [
+        {
+          "term": "קַרְנָא",
+          "meaning": "principal payment"
+        },
+        {
+          "term": "שְׁבוּעָה",
+          "meaning": "oath"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמַאן דְּלָא פָּרֵיךְ סָבַר:",
+          "english": "And the one who does not refute thinks:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קַרְנָא בְּלָא שְׁבוּעָה עֲדִיפָא מִכְּפֵילָא בִּשְׁבוּעָה.",
+          "english": "A horn without an oath is better than double with an oath."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמַאן דְּלָא פָּרֵיךְ סָבַר: קַרְנָא בְּלָא שְׁבוּעָה עֲדִיפָא מִכְּפֵילָא בִּשְׁבוּעָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        88
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "states_view",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:4:1",
+            "hebrew": "קרנא בלא שבועה עדיפא מכפילא בשבועה - חמור שומר שכר שחייב בקרן עד שלא נשבע לשקר במקום ששומר חנם פטור דהיינו גניבה ואבידה משומר חנם שמשלם כפל ומדה זו אינה אלא לאחר שנשבע לשקר שנגנבה ובאו עדים שהוא גנבה דכי אתרבי כפל בטוען טענת גנב לאחר שבועה אתרבי כדלקמן בשמעתין:",
+            "english": "",
+            "takeaway": "רש״י explains that שומר שכר is more stringent because he is liable for the principal (קרנא) for גניבה and אבידה before taking an oath, whereas שומר חנם only pays כפל after falsely swearing that the item was stolen and witnesses later prove it was indeed stolen."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:4:1",
+            "hebrew": "קרנא בלא שבועה - וא\"ת ורבי יוחנן ור' אלעזר דלית להו הך סברא מנ\"ל דפ' ראשונה בשומר חנם ושניה בשומר שכר דבריש השואל (לקמן בבא מציעא דף צד:) לא קים לן אלא מהך סברא דקרנא עדיפא ופי' רבינו שמואל דמסברא ידעינן דבפרשה ראשונה כתיב כסף או כלים ורגילות הוא לשמרם בחנם דליכא בהו טרחא ובפרשה שניה כתיב בהמה דאיכא טרחא ורגילות לשמרה בשכר אי נמי דלכ\"ע אית להו דקרנא עדיפא מכפילא בשבועה ומ\"מ סבירא להו לר' יוחנן ולרבי אלעזר דאין ללמוד שומר שכר משומר חנם הקל כיון שיש בו חומרא שמשלם כפל מה שאין כן בשומר שכר ואע\"ג דשומר שכר ודאי חמור שחייב בגנבה ואבדה ומאן דלא פריך סבר דמכפל אפילו פירכא לא עבדינן משום דמה דמשלם כפל הוא מחמת קולא שהוא פוטר עצמו בגנבה כדמפרש בריש מכלתין (דף ד. ושם) גבי תורת הזמה לא פריך והשתא אתי שפיר הא דריש השואל (לקמן בבא מציעא דף צה.) גבי הא דגמר גנבה בשואל מק\"ו דשומר שכר דפטור באונס וחייב בגנבה ואבדה שואל לא כל שכן ופריך מה לשומר שכר דחייב בכפל בטוען טענת לסטים מזויין] והשתא תימה לפי מה דסבר דכפל הוי חומרא מאי פריך אדרבה כיון שהוא חמור הוה לו ליפטר מגנבה כדי שיתחייב כפל וע\"ק ברייתא גופה שואל שחייב בשבורה ומתה כו' אדרבה היא הנותנת דמפני שהוא חמור פטר בו הגנבה כדי לחייבו בכפל ולפי מה דפרישית אתי שפיר וא\"ת לר' יוחנן דסבר הכא דמכפל עבדינן פירכא וגם סבר רב יוסף בפרק הכונס (ב\"ק דף נז. ושם) גבי שומר אבדה לר' יוחנן דלסטים מזויין גנב הוא אם כן גנבה ואבדה בשואל מנ\"ל דכי פריך בהשואל מה לשומר שכר שכן משלם כפל בלסטים מזויין ומשני לסטים מזויין גזלן הוא איבעית אימא קרנא בלא שבועה עדיפא וי\"ל דלר' יוחנן נפקא ליה מוכי ישאל וי\"ו מוסיף על ענין ראשון וכה\"ג יליף התם לעניין פטור בבעלים ואע\"ג דרבי יוסי ברבי נהוראי הוא תנא וסבר דקרנא עדיפא וכן ברייתא דהשואל (לקמן בבא מציעא דף צה.) סבר דקרנא עדיפא או לסטים מזויין גזלן הוא ור' יוחנן פליג בתרוייהו הא לא קשיא דר' יוחנן סבר כתנא דהכונס (ב\"ק דף נז:) דקאמר לא אם אמרת בשומר חנם שכן משלם כפל לכך שלח בה יד חייב דקאי אמילתיה דרבי יוסי בר' נהוראי:",
+            "english": "",
+            "takeaway": "תוספות explains that רבינו שמואל resolves how רבי יוחנן and רבי אלעזר know which parasha refers to which shomer by reasoning that כסף או כלים are typically guarded for free (שומר חנם) while בהמה requires effort and is typically guarded for hire (שומר שכר), and further clarifies that רבי יוחנן holds that one cannot learn שומר שכר from שומר חנם via קל וחומר because שומר חנם has the stringency of paying כפל, and that שומר שכר's liability for גניבה is derived from ויכול ישאל rather than the קל וחומר."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "רָבָא's view: Derive from שׁוֹאֵל",
+      "stepSummary": "רָבָא states that שְׁלִיחוּת יָד should be derived from שׁוֹאֵל via a קַל וָחוֹמֶר.",
+      "whatsHappening": "רָבָא introduces a new derivation for שְׁלִיחוּת יָד. He argues it should be derived from שׁוֹאֵל via a קַל וָחוֹמֶר.",
+      "deeperAnalysis": "רָבָא states that שְׁלִיחוּת יָד is not explicitly taught for שׁוֹמֵר חִנָּם or שׁוֹמֵר שָׂכָר. Instead, it is derived from שׁוֹאֵל, who is liable even with permission, implying greater liability for unauthorized bailees.",
+      "keyTerms": [
+        {
+          "term": "שׁוֹאֵל",
+          "meaning": "borrower"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא אָמַר: לֹא תֵּאָמֵר שְׁלִיחוּת יָד לֹא בְּשׁוֹמֵר",
+          "english": "Rava says: Do not say misappropriation of hand not with an unpaid bailee"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חִנָּם וְלֹא בְּשׁוֹמֵר שָׂכָר, וְתֵיתֵי מִשּׁוֹאֵל.",
+          "english": "and not with a paid bailee, and let it come from a borrower."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמַה שׁוֹאֵל דִּלְדַעַת בְּעָלִים קָא עָבֵיד",
+          "english": "And what? A borrower who does with the knowledge of the owners"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שָׁלַח בָּהּ יָד – חַיָּיב,",
+          "english": "stretched his hand — liable,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שׁוֹמֵר חִנָּם וְשׁוֹמֵר שָׂכָר לֹא כׇּל שֶׁכֵּן.",
+          "english": "an unpaid bailee and a paid bailee, all the more so."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא אָמַר: לֹא תֵּאָמֵר שְׁלִיחוּת יָד לֹא בְּשׁוֹמֵר חִנָּם וְלֹא בְּשׁוֹמֵר שָׂכָר, וְתֵיתֵי מִשּׁוֹאֵל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        89
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "states_view",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:5:1",
+            "hebrew": "רבא אמר - אפילו לרבי אלעזר נמי אתיא דלא תימא כו':",
+            "english": "",
+            "takeaway": "רש״י explains that רָבָא's derivation applies even according to רַבִּי אֱלֵעָזֶר, who holds that שְׁלִיחוּת יָד is mentioned for both שׁוֹמֵר חִנָּם and שׁוֹמֵר שָׂכָר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:5:2",
+            "hebrew": "ותיתי משואל - שחייבו הכתוב באונסין בשביל שכל הנאה שלו ושולח יד נמי כל הנאה שלו:",
+            "english": "",
+            "takeaway": "רש״י explains that שׁוֹאֵל is liable for אֹנְשִׁין because the entire benefit is his, and similarly, one who commits שְׁלִיחוּת יָד derives the entire benefit for himself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:5:3",
+            "hebrew": "(ומה שואל) שלדעת בעלים - שלח בה יד לעשות מלאכתו חייב באונסין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a שׁוֹאֵל acts with the owner's knowledge (לְדַעַת בַּעֲלִים) when using the item for his work, yet is still liable for אֹנְשִׁין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:5:4",
+            "hebrew": "שומר חנם ושומר שכר - השולחין יד שעושין מלאכתן שלא לדעת בעלים לא כ\"ש דחייב שוב באונסיה:",
+            "english": "",
+            "takeaway": "רש״י explains that a שׁוֹמֵר חִנָּם or שׁוֹמֵר שָׂכָר who commits שְׁלִיחוּת יָד acts without the owner's knowledge, and is therefore all the more so liable for אֹנְשִׁין."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:5:1",
+            "hebrew": "רבא אמר לא תימא שליחות יד כו' - פרש\"י דסבר אפילו כרבי אלעזר ואין להקשות לפירושו הא דקאמר ואידך שלא תאמר דיו והא תרוייהו צריכי לאינה צריכה חסרון לר' אלעזר דהא לא יליף שומר שכר משומר חנם דהא בתר הכי פריך ולמ\"ד [שליחות יד] צריכה חסרון תרתי למה לי ולדידיה לא ילפינן חד מחבריה אפילו הכי לא מוקמינן תרוייהו לדיו והיינו משום כדפ\"ל דכיון דשליחות יד חייב בתרוייהו גלוי מלתא בעלמא למילף דין של זה בזה ועוד יש לומר דרבא בא לפרש דהא דאמר ר\"א דא ודא אחת היא לא ששניהם צריכי לגופייהו כדאמרינן אלא ששניהם מיותרין דגמר להו משואל וסבר רבא קרנא עדיפא ושפיר גמר שומר שכר משומר חנם לכולי עלמא זה מזה מיהו ברייתא דהכונס (שם) סברה דלא ילפינן זה מזה דקתני לא אם אמרת בשומר חנם כו':",
+            "english": "",
+            "takeaway": "תוספות explains that רָבָא holds that even according to רַבִּי אֱלֵעָזֶר, the verses for שְׁלִיחוּת יָד are not needed for their own sake but are merely extra to teach that שׁוֹמֵר שָׂכָר can be derived from שׁוֹמֵר חִנָּם, resolving the difficulty of חֲסָרוֹן לְרַבִּי אֱלֵעָזֶר."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות addresses a difficulty with רש״י's explanation of רָבָא's view according to רַבִּי אֱלֵעָזֶר, clarifying that רָבָא holds the verses are extra to teach a derivation between the two types of bailees, rather than being necessary for their own independent laws."
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Why is it mentioned?",
+      "stepSummary": "The Gemara asks why the Torah mentions שְׁלִיחוּת יָד if it can be derived from שׁוֹאֵל.",
+      "whatsHappening": "The Gemara asks why the Torah explicitly mentions שְׁלִיחוּת יָד if it can be derived. This is a setup for the next explanation.",
+      "deeperAnalysis": "The question לָמָּה נֶאֱמַר seeks the reason for the explicit biblical mention. It anticipates an answer explaining the necessity of the text despite the logical derivation.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָמָּה נֶאֱמַר?",
+          "english": "Why is it said?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חֲדָא לוֹמַר לָךְ: שְׁלִיחוּת יָד אֵין צְרִיכָה חֶסְרוֹן.",
+          "english": "One to say to you: Misappropriation does not require loss."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאִידָּךְ: שֶׁלֹּא תֹּאמַר,",
+          "english": "And the other: Lest you say,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כְּנִידּוֹן.",
+          "english": "It is sufficient for the derived to be like the source.",
+          "notes": "Refers to the principle that a kal v'chomer conclusion must match the source case."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָה שׁוֹאֵל בִּבְעָלִים פָּטוּר –",
+          "english": "What borrower in partnership is exempt –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַף שׁוֹמֵר חִנָּם וְשׁוֹמֵר שָׂכָר בִּבְעָלִים פָּטוּר.",
+          "english": "Also unpaid bailee and paid bailee in partnership are exempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָמָּה נֶאֱמַר?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        90
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "asks",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:6:1",
+            "hebrew": "למה נאמרה - בשתיהן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the question לָמָּה נֶאֱמַר applies to both mentions of שְׁלִיחוּת יָד in the Torah."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:6:2",
+            "hebrew": "חדא לומר לך שליחות יד אינה צריכה חסרון:",
+            "english": "",
+            "takeaway": "רש״י explains that one mention of שְׁלִיחוּת יָד teaches that liability for misuse does not require a חֶסְרוֹן (loss or damage to the item)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:6:3",
+            "hebrew": "ואידך - האמורה בשומר שכר:",
+            "english": "",
+            "takeaway": "רש״י identifies the second mention of שְׁלִיחוּת יָד as the one found in the context of שׁוֹמֵר שָׂכָר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:6:4",
+            "hebrew": "שלא תאמר דיו לבא כו' - אם לא נאמרה בשאר שומרין ולמדה משואל הייתי אומר דיו לשליחות יד דשומרין שבא מדין שואל להיות כנדון:",
+            "english": "",
+            "takeaway": "רש״י explains that the second mention prevents a דַּיּוֹ לַבָּא מִן הַדִּין inference from שׁוֹאֵל, which would otherwise exempt שׁוֹמֵר חִנָּם and שׁוֹמֵר שָׂכָר from liability for שְׁלִיחוּת יָד when the owner is present."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:6:5",
+            "hebrew": "מה שואל - אם בעליו עמו כתיב לא ישלם אונסין אף שומרין ששלחו יד אם בעליו עמו יפטר כתב קרא יתירא לחייבו אפילו בבעלים וגלי רחמנא בחדא והא הדין בכולהו:",
+            "english": "",
+            "takeaway": "רש״י details the דַּיּוֹ לַבָּא מִן הַדִּין logic: since שׁוֹאֵל is exempt from אֹנְשִׁין when the owner is present, one might assume שׁוֹמְרִים are similarly exempt for שְׁלִיחוּת יָד, hence the Torah explicitly states liability even when the owner is present."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:6:1",
+            "hebrew": "חדא לומר [לך שליחות יד] אין צריכה חסרון - וא\"ת ונילף משואל דאינה צריכה חסרון דמשעת משיכה חייב באונסיה אע\"ג דלא נשתמש כדאמר בפ' השואל (לקמן בבא מציעא דף צט.) גבי שואל קורדום מחבירו כ\"ש שומרין שמושכין להשתמש שלא מדעת בעלים שחייבים וי\"ל בשואל דין הוא כיון דמושך לדעת בעלים חשיב כאילו נשתמש בה דלדעת כן שאלה ולאו לאוקמה בכילתא אבל שלא לדעת אינו חשיב כאילו כבר נשתמש בשביל משיכה לבדה לכך לא ילפינן משואל אלא משיכה שיש בה חסרון:",
+            "english": "",
+            "takeaway": "תוספות asks why we don't learn from שׁוֹאֵל that שְׁלִיחוּת יָד doesn't require חֶסְרוֹן, since a שׁוֹאֵל is liable for אֹנְשִׁין from the moment of מְשִׁיכָה even without usage, and answers that a שׁוֹאֵל's מְשִׁיכָה is with the owner's intent for usage, unlike a שׁוֹמֵר who takes without permission, so we only learn from מְשִׁיכָה that involves חֶסְרוֹן."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: According to the one who says שְׁלִיחוּת יָד requires חֶסְרוֹן, why two mentions?",
+      "stepSummary": "The Gemara challenges: according to the opinion that שְׁלִיחוּת יָד requires חֶסְרוֹן, why does the Torah mention it twice?",
+      "whatsHappening": "The Gemara challenges the view that שְׁלִיחוּת יָד requires חֶסְרוֹן. It asks why two mentions are needed if the קַל וָחוֹמֶר covers liability.",
+      "deeperAnalysis": "If שְׁלִיחוּת יָד requires חֶסְרוֹן, the קַל וָחוֹמֶר from שׁוֹאֵל should suffice for liability. The challenge questions the redundancy of two explicit mentions in the Torah.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר שְׁלִיחוּת יָד צְרִיכָה חֶסְרוֹן,",
+          "english": "And according to the one who says: misappropriation requires a loss,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָנֵי תַּרְתֵּי שְׁלִיחוּת יָד לְמָה לִי?",
+          "english": "These two mentions of misappropriation — what do I need them for?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חֲדָא שֶׁלֹּא תֹּאמַר דַּיּוֹ לַבָּא מִן",
+          "english": "One [is] so that you will not say with regard to this a fortiori inference"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַדִּין לִהְיוֹת כַּנִּדּוֹן.",
+          "english": "the principle: it is sufficient for the conclusion to be like its source."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּאָמַר שְׁלִיחוּת יָד צְרִיכָה חֶסְרוֹן, הָנֵי תַרְתֵּי שְׁלִיחוּת יָד לְמָה לִי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        92
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:7:1",
+            "hebrew": "חדא לדיו וחדא לכדתניא - ולמ\"ד נמי אינה צריכה חסרון דצריכי תרוייהו יליף שפיר ג\"ש לכדתניא לפי שיש כל כך תיבות בזה כמו בזה אם לא שלח ידו במלאכת רעהו:",
+            "english": "",
+            "takeaway": "תוספות explains that even according to the view that שְׁלִיחוּת יָד does not require חֶסְרוֹן, both mentions are necessary because one is needed to prevent the דַּיּוֹ לַבָּא מִן הַדִּן inference and the other is needed to derive the law via גְּזֵרָה שָׁוָה as stated in the בְּרֵיתָא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: One prevents דַּיּוֹ לַבָּא מִן הַדִּין, the other is for שְׁבוּעָה",
+      "stepSummary": "The Gemara resolves: one mention prevents the דַּיּוֹ לַבָּא מִן הַדִּין inference, and the other is to teach that שְׁלִיחוּת יָד requires an oath.",
+      "whatsHappening": "The Gemara resolves the challenge by assigning distinct purposes to each mention. One prevents a logical inference, the other teaches an oath requirement.",
+      "deeperAnalysis": "One mention blocks the דַּיּוֹ לַבָּא מִן הַדִּין inference that would limit liability. The other mention, via a גְּזֵרָה שָׁוָה, establishes that שְׁלִיחוּת יָד requires a שְׁבוּעָה.",
+      "keyTerms": [
+        {
+          "term": "גְּזֵרָה שָׁוָה",
+          "meaning": "verbal analogy"
+        },
+        {
+          "term": "שְׁבוּעָה",
+          "meaning": "oath"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר שְׁלִיחוּת יָד צְרִיכָה חֶסְרוֹן,",
+          "english": "And according to the one who says: misappropriation requires a loss,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָנֵי תַּרְתֵּי שְׁלִיחוּת יָד לְמָה לִי?",
+          "english": "These two mentions of misappropriation — what do I need them for?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חֲדָא שֶׁלֹּא תֹּאמַר דַּיּוֹ לַבָּא מִן",
+          "english": "One [is] so that you will not say with regard to this a fortiori inference"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַדִּין לִהְיוֹת כַּנִּדּוֹן.",
+          "english": "the principle: it is sufficient for the conclusion to be like its source."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִידָּךְ לְכִדְתַנְיָא: ״וְנִקְרַב בַּעַל הַבַּיִת אֶל הָאֱלֹהִים״ לִשְׁבוּעָה.",
+          "english": "And the other [is] for that which is taught: 'And the master of the house shall approach the judges' —…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַתָּה אוֹמֵר לִשְׁבוּעָה, אוֹ אֵינוֹ אֶלָּא לְדִין?",
+          "english": "You say for an oath, or is it only for judgment?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נֶאֶמְרָה שְׁלִיחוּת יָד לְמַטָּה,",
+          "english": "Misappropriation is stated below,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְנֶאֶמְרָה שְׁלִיחוּת יָד לְמַעְלָה,",
+          "english": "and misappropriation is stated above,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מָה לְהַלָּן לִשְׁבוּעָה –",
+          "english": "What [is] there — for an oath —"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אַף כָּאן לִשְׁבוּעָה.",
+          "english": "so too here — for an oath."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "חֲדָא שֶׁלֹּא תֹּאמַר דַּיּוֹ לַבָּא מִן הַדִּין לִהְיוֹת כַּנִּדּוֹן. וְאִידָּךְ לְכִדְתַנְיָא: ״וְנִקְרַב בַּעַל הַבַּיִת אֶל הָאֱלֹהִים״ לִשְׁבוּעָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        93
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:8:1",
+            "hebrew": "לשבועה - והכי קאמר אם לא ימצא כמה שאמר שנגנבה אלא הוא גנבה והוא כבר נקרב אל הדיינין לשבועה ונשבע לשקר ואח\"כ באו עדים אשר ירשיעון הדיינין ישלם כפל:",
+            "english": "",
+            "takeaway": "רש״י explains that the term לִשְׁבוּעָה refers to the scenario where the borrower claims the item was stolen, takes a false oath before the judges, and is subsequently found guilty by witnesses, thereby incurring double payment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:8:2",
+            "hebrew": "אתה אומר - קריבה לשבועה או אינו אלא קריבה לדין שמשעה שטען בב\"ד נגנבה אע\"פ שלא נשבע ישלם כפל אם באו עדים:",
+            "english": "",
+            "takeaway": "רש״י clarifies the alternative possibility (אוֹ אֵינוֹ אֶלָּא לְדִין) as the claim that the borrower becomes liable for double payment immediately upon making the claim in court, even before taking an oath."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:8:3",
+            "hebrew": "נאמר שליחות יד למטה - אצל שומר שכר שבועת ה' תהיה בין שניהם אם לא שלח:",
+            "english": "",
+            "takeaway": "רש״י identifies the lower instance of שְׁלִיחוּת יָד as the case of a שׁוֹמֵר שָׂכָר, where the Torah mandates an oath between the two parties if the borrower did not send his hand."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:8:4",
+            "hebrew": "ונאמר שליחות יד למעלה - ונקרב בעל הבית אל האלהים אם לא שלח:",
+            "english": "",
+            "takeaway": "רש״י identifies the upper instance of שְׁלִיחוּת יָד as the case of a שׁוֹמֵר חִנָּם, where the owner approaches the judges for an oath if the borrower did not send his hand."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 41b:8:5",
+            "hebrew": "אף כאן לשבועה - למדנו שאין משלמין כפל ע\"י טענת גנב אלא לאחר שבועה וגם למדנו שנפטר מגנבה ואבדה בשבועה:",
+            "english": "",
+            "takeaway": "רש״י concludes that the גְּזֵרָה שָׁוָה teaches two things: one is exempt from liability for theft and loss through an oath, and the other is that double payment is only incurred after a false oath, not merely upon the initial claim."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 41b:7:1",
+            "hebrew": "חדא לדיו וחדא לכדתניא - ולמ\"ד נמי אינה צריכה חסרון דצריכי תרוייהו יליף שפיר ג\"ש לכדתניא לפי שיש כל כך תיבות בזה כמו בזה אם לא שלח ידו במלאכת רעהו:",
+            "english": "",
+            "takeaway": "תוספות explains that even according to the opinion that שְׁלִיחוּת יָד does not require a חֶסְרוֹן, both mentions are necessary to derive the obligation of an oath via a גְּזֵרָה שָׁוָה, because the verses have a similar number of words."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T22:43:31.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 86.40836129995296,
+      "structure": 2376.6227681999444,
+      "validate": 338.4900861001224,
+      "translate": 416.884399600327,
+      "meforshim": 867.1156058996567,
+      "teaching": 915.1740322000114
+    }
+  }
+}

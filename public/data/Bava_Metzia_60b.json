@@ -1,0 +1,1290 @@
+{
+  "ref": "Bava Metzia 60b",
+  "masechet": "Bava_Metzia",
+  "daf": 60,
+  "amud": "b",
+  "mainTopic": "(continues) פרקוס ואונאה · הזהב - איזהו נשך ואיזהו תרבות",
+  "overview": "(1) The Mishnah and Gemara regarding the prohibition of 'Perkus' (deceptive practices like giving nuts to children or soaking grain) and the definitions of these terms. (2) The opening of the new Perek 'Hazaheb', defining the difference between נשך and תרבות, the biblical derivations for interest on money and food, and the dispute over whether interest is collected by courts. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 6,
+      "topic": "(continues) פרקוס ואונאה",
+      "gist": "The Mishnah and Gemara regarding the prohibition of 'Perkus' (deceptive practices like giving nuts to children or soaking grain) and the definitions of these terms.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 7,
+      "endLine": 19,
+      "topic": "הזהב - איזהו נשך ואיזהו תרבות",
+      "gist": "The opening of the new Perek 'Hazaheb', defining the difference between נשך and תרבות, the biblical derivations for interest on money and food, and the dispute over whether interest is collected by courts. — discussion continues into next amud.",
+      "openingFormula": "הדרן עליך הזהב",
+      "firstStepNumber": 7,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תשובה",
+      "title": "The חֲכָמִים's reason: easing the market",
+      "stepSummary": "The Gemara answers that reducing prices eases the market rate, benefiting everyone.",
+      "whatsHappening": "The גמרא answers that price reduction eases the market. This directly resolves the previous inquiry.",
+      "deeperAnalysis": "Lowering prices relieves the overall market rate. This makes goods more accessible to the community. The act is praised for its social benefit.",
+      "keyTerms": [
+        {
+          "term": "מַרְוַוח",
+          "meaning": "eases / relieves"
+        },
+        {
+          "term": "תַּרְעָא",
+          "meaning": "the market / gate"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִשּׁוּם דְּקָא מַרְוַוח לְתַרְעָא:",
+          "english": "Because he lowered the price to the door",
+          "notes": "Refers to setting a lower market price."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִשּׁוּם דְּקָא מַרְוַוח לְתַרְעָא:",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "inference",
+      "relationToPreviousStep": "answers_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:1:1",
+            "hebrew": "משום דמרווח תרעא - ואוצרי פירות יראו שהוזלו וימכרו בזול:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase מרווח תרעא means that the price reduction signals to the market that prices have dropped, encouraging other sellers to lower their prices as well."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "Who are the חֲכָמִים regarding sifting?",
+      "stepSummary": "The Gemara asks to identify the Chachamim who permit sifting beans.",
+      "whatsHappening": "The גמרא asks which תַּנָּא represents the חֲכָמִים on sifting. This is a setup line identifying the authority.",
+      "deeperAnalysis": "The inquiry seeks to attribute the leniency on sifting beans to a specific sage. This clarifies the scope of the ruling.",
+      "keyTerms": [
+        {
+          "term": "מַאן",
+          "meaning": "who"
+        },
+        {
+          "term": "רַבִּי אַחָא",
+          "meaning": "Tanna, lenient on visible changes"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְלֹא יָבוֹר אֶת הַגְּרִיסִין, דִּבְרֵי אַבָּא שָׁאוּל.",
+          "english": "And one may not sift the ground beans, the words of Abba Shaul."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וַחֲכָמִים מַתִּירִין וְכוּ׳. מַאן חֲכָמִים?",
+          "english": "And the Rabbis permit etc. Who are the Rabbis?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי אַחָא, דְּתַנְיָא: רַבִּי אַחָא מַתִּיר בְּדָבָר הַנִּרְאֶה.",
+          "english": "Rabbi Acha, as it is taught: Rabbi Acha permits in a matter that is visible."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלֹא יָבוֹר אֶת הַגְּרִיסִין, דִּבְרֵי אַבָּא שָׁאוּל. וַחֲכָמִים מַתִּירִין וְכוּ׳. מַאן חֲכָמִים?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "inference",
+      "relationToPreviousStep": "follows_mishna",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:2:1",
+            "hebrew": "מתיר בדבר הנראה - הלא יכול הלוקח לראות ולהבין מה דמי הפסולת הנברר מאלו שישנו באחרים וטוב לו להעלות בדמיהן של אלו יתר על כן מפני הטורח:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי אחא permits sifting because the buyer can visually inspect the beans and understand that the price increase reflects the removal of impurities, making the extra cost worthwhile due to the seller's effort."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Baraita on Prohibited Adornments",
+      "stepSummary": "A Baraita lists prohibited practices: stiffening animal hair, inflating innards, and soaking meat.",
+      "whatsHappening": "The גמרא cites a בְּרֵיתָא expanding on פַּרְכּוּס. This adds concrete examples of forbidden deception.",
+      "deeperAnalysis": "The בְּרֵיתָא lists stiffening hair, inflating innards, and soaking meat as prohibited. It then asks for the meaning of מְשַׁרְבְּטִין.",
+      "keyTerms": [
+        {
+          "term": "מְשַׁרְבְּטִין",
+          "meaning": "stiffening / treating"
+        },
+        {
+          "term": "נוֹפְחִין",
+          "meaning": "inflating"
+        },
+        {
+          "term": "שׁוֹרִין",
+          "meaning": "soaking"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֵין מְפַרְכְּסִין,",
+          "english": "One does not adorn"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא אֶת הָאָדָם וְכוּ׳ וְלֹא אֶת הַכֵּלִים.",
+          "english": "Not a person, etc., and not vessels."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תָּנוּ רַבָּנַן: אֵין מְשַׁרְבְּטִין אֶת הַבְּהֵמָה,",
+          "english": "The Sages taught: One does not stiffen the hair of an animal,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵין נוֹפְחִין בַּקְּרָבַיִים,",
+          "english": "and one does not inflate the innards,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאֵין שׁוֹרִין אֶת הַבָּשָׂר בַּמַּיִם.",
+          "english": "and one does not soak the meat in water."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַאי אֵין מְשַׁרְבְּטִין?",
+          "english": "What is 'one does not stiffen'?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הָכָא תַּרְגִּמוּ: מַיָּא דְחִיזְרָא.",
+          "english": "Here they interpret: water of barley.",
+          "notes": "Refers to feeding an animal barley water to make its hair stand on end."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "זְעֵירִי אָמַר רַב כָּהֲנָא: מַזְקַפְתָּא.",
+          "english": "Ze'eri said Rav Kahana: scrubbing."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֵין מְפַרְכְּסִין, לֹא אֶת הָאָדָם וְכוּ׳ וְלֹא אֶת הַכֵּלִים. תָּנוּ רַבָּנַן: אֵין מְשַׁרְבְּטִין אֶת הַבְּהֵמָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_mishna"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Amoraim permit adorning new merchandise",
+      "stepSummary": "Several Amoraim permit adorning new merchandise: fringes on cloaks, cleaning garments, tapering linen, drawing arrows, and drawing baskets.",
+      "whatsHappening": "The גמרא lists cases where אַמּוֹרָאִים permit enhancing new goods. This contrasts with the previous prohibition.",
+      "deeperAnalysis": "Several אַמּוֹרָאִים allow adding fringes, cleaning garments, tapering linen, drawing arrows, and shaping baskets. These are viewed as legitimate enhancements, not deception.",
+      "keyTerms": [
+        {
+          "term": "תּוּמֵי",
+          "meaning": "fringes"
+        },
+        {
+          "term": "קִרְמֵי",
+          "meaning": "ornamented garments"
+        },
+        {
+          "term": "צַדְרֵי",
+          "meaning": "linen garments"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁמוּאֵל שְׁרָא לְמִרְמֵא תּוּמֵי לְסַרְבָּלָא.",
+          "english": "Shmuel permitted to place fringes on a cloak."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב יְהוּדָה שְׁרָא לְכַסְכּוֹסֵי קִרְמֵי.",
+          "english": "Rav Yehuda permitted to clean and adorn ornamented garments."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבָּה שְׁרָא לְמִידַּק (צַרְדֵי) [צַדְרֵי].",
+          "english": "Rabba permitted to taper linen garments."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רָבָא שְׁרָא לְצַלּוֹמֵי גִּירֵי.",
+          "english": "Rava permitted to draw arrows to ornament garments."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַב פָּפָּא בַּר שְׁמוּאֵל שְׁרָא לְצַלּוֹמֵי דִּיקּוּלֵי.",
+          "english": "Rav Pappa bar Shmuel permitted to draw baskets for ornamentation."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהָא אֲנַן תְּנַן:",
+          "english": "And yet we learned:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵין מְפַרְכְּסִין לֹא אֶת הָאָדָם,",
+          "english": "One may not adorn a person,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְלֹא אֶת הַבְּהֵמָה,",
+          "english": "nor an animal,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְלֹא אֶת הַכֵּלִים!",
+          "english": "nor vessels!"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לָא קַשְׁיָא: הָא בְּחַדְתֵי, הָא בְּעַתִּיקֵי.",
+          "english": "It is not difficult: this one is in new ones, this one is in old…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁמוּאֵל שְׁרָא לְמִרְמֵא תּוּמֵי לְסַרְבָּלָא. רַב יְהוּדָה שְׁרָא לְכַסְכּוֹסֵי קִרְמֵי...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_baraita",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:1",
+            "hebrew": "למימרא תומי לסרבלא - פרנזי\"ש לייפותו עושין לו תלאי מחוטי משי סביב:",
+            "english": "",
+            "takeaway": "רש״י explains that שמואל permits adding silk fringes (תומי) to cloaks (סרבלא) to beautify them."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:2",
+            "hebrew": "לכסכוסי אנפרייש\"ר בלעז במי סובין:",
+            "english": "",
+            "takeaway": "רש״י explains that רב יהודה permits washing garments (קרמי) with bran water to clean them."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:3",
+            "hebrew": "קרמי - בגדים המצויירים אוברי\"ץ בלעז:",
+            "english": "",
+            "takeaway": "רש״י explains that קרמי refers to painted or dyed garments."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:4",
+            "hebrew": "למידק צרדי - להדק בגדי קנבוס במקבות עץ שיראה חוטן דק:",
+            "english": "",
+            "takeaway": "רש״י explains that רבה permits beating linen garments (צרדי) with wooden mallets to make the threads appear finer."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:5",
+            "hebrew": "לצלומי גירי - לצייר חיצים:",
+            "english": "",
+            "takeaway": "רש״י explains that רבא permits painting arrows (גירי)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:6",
+            "hebrew": "דיקולי - סלים:",
+            "english": "",
+            "takeaway": "רש״י explains that דיקולי refers to baskets."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:7",
+            "hebrew": "בחדתי - מותר. שאינו אלא ליפות והרוצה להוסיף על דמיהם בשביל יופיים. מוחל הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition does not apply to new merchandise (חדתי) because the enhancement is purely for beauty, and the buyer willingly pays extra for the improved appearance."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:4:8",
+            "hebrew": "בעתיקי - אסור שגונב את העין שנראים כחדשים:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition applies to old merchandise (עתיקי) because enhancing them deceives the eye by making them appear new."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "שאלה",
+      "title": "What is פַּרְכּוּס of a person?",
+      "stepSummary": "The Gemara asks for an example of 'פרקוס' involving a person.",
+      "whatsHappening": "The גמרא asks for an example of פַּרְכּוּס applied to a person. This is a setup line seeking a practical illustration.",
+      "deeperAnalysis": "The inquiry probes how deceptive practices apply to human beings. It seeks to clarify the scope of the prohibition.",
+      "keyTerms": [
+        {
+          "term": "פַּרְכּוּס",
+          "meaning": "deceptive practice"
+        },
+        {
+          "term": "אָדָם",
+          "meaning": "person"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "פִּרְכּוּס דְּאָדָם מַאי הִיא?",
+          "english": "Adornment of a person, what is it?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי הָא דְּהָהוּא עַבְדָּא סָבָא,",
+          "english": "For behold, that of that old slave,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּאֲזַל צַבְעֵיהּ לְרֵישֵׁיהּ וּלְדִיקְנֵיהּ.",
+          "english": "who went and dyed his head and his beard."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרָבָא, אֲמַר לֵיהּ: זִיבְנַן!",
+          "english": "He came before Rava, he said to him: Sell me!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: יִהְיוּ עֲנִיִּים בְּנֵי בֵיתֶךָ.",
+          "english": "He said to him: Let the poor be members of your household."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "פִּרְכּוּס דְּאָדָם מַאי הִיא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "inference",
+      "relationToPreviousStep": "follows_mishna",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:5:1",
+            "hebrew": "צבעיה - שהיה זקנו לבן וצבעו שחור ונראה כבחור:",
+            "english": "",
+            "takeaway": "רש״י explains that צבעיה refers to dyeing his white beard black to appear youthful."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:5:2",
+            "hebrew": "זיבנן - קנה אותי לעבד ונכרי היה דעבד עברי אסור לאחר חורבן שאין היובל נוהג:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבא's command זיבנן means to sell himself as a slave to a non-Jew, since selling to a Jew is forbidden after the destruction of the Temple when יובל is not in effect."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:5:3",
+            "hebrew": "ויהיו עניים בני ביתך - משנה היא (אבות פ\"א מ\"ה) טוב לי לפרנס עניי ישראל וישמשוני:",
+            "english": "",
+            "takeaway": "רש״י explains the old slave's curse ייהיו עניים בני ביתך by citing a משנה in אבות that it is preferable to support poor Jews who then serve you, rather than enslave them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא's refusal and רַב פַּפָּא's purchase",
+      "stepSummary": "Rava refused to buy the slave, but Rav Pappa bar Shmuel did, only to discover the deception.",
+      "whatsHappening": "The גמרא relates a story about a slave's deception. This illustrates the consequences of פַּרְכּוּס.",
+      "deeperAnalysis": "רַב פַּפָּא בַר שְׁמוּאֵל bought the slave, who revealed his age by removing dye. רַבָּא was spared this deception, highlighting the ethical lesson.",
+      "keyTerms": [
+        {
+          "term": "רַב פַּפָּא בַר שְׁמוּאֵל",
+          "meaning": "Amora, victim of deception"
+        },
+        {
+          "term": "צַדִּיק מִצָּרָה נֶחֱלָץ",
+          "meaning": "the righteous is delivered from trouble"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב פָּפָּא בַּר שְׁמוּאֵל, זַבְנֵיהּ.",
+          "english": "He came before Rav Pappa bar Shmuel, who purchased him."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יוֹמָא חַד אֲמַר לֵיהּ: ״אַשְׁקְיַין מַיָּא!",
+          "english": "One day he said to him: \"Give me water to drink!\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״ אֲזַל חַוְּורֵיהּ לְרֵישֵׁיהּ וּלְדִיקְנֵיהּ.",
+          "english": "\"He went to his head and to his beard."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: ״חֲזִי דַּאֲנָא קַשִּׁישׁ מֵאֲבוּךְ״.",
+          "english": "He said to him: \"See that I am older than your father.\""
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קָרֵי אַנַּפְשֵׁיהּ: ״צַדִּיק מִצָּרָה נֶחֱלָץ וַיָּבֹא אַחֵר תַּחְתָּיו״.",
+          "english": "He read about himself: \"The righteous is delivered from trouble and another comes in his stead.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲתָא לְקַמֵּיהּ דְּרַב פָּפָּא בַּר שְׁמוּאֵל, זַבְנֵיהּ...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_example",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:6:1",
+            "hebrew": "דיקניה - זקנו:",
+            "english": "",
+            "takeaway": "רש״י explains that דיקניה refers to the slave's white hair, which was revealed when he removed the dye."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:6:2",
+            "hebrew": "צדיק מצרה נחלץ - זה רבא:",
+            "english": "",
+            "takeaway": "רש״י identifies the צדיק in the verse as רבא, who was saved from the financial loss of purchasing a deceptive slave."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "הֲדַרַן עֲלָךְ הַזָּהָב",
+      "stepSummary": "The sugya concludes the previous topic and formally opens the new Perek 'Hazaheb'.",
+      "whatsHappening": "The גמרא uses a standard closing formula. This is a transition line marking the end of the sugya.",
+      "deeperAnalysis": "The phrase signals the conclusion of the current discussion. It introduces the new פֶּרֶק without argumentative content.",
+      "keyTerms": [
+        {
+          "term": "הֲדַרַן עֲלָךְ",
+          "meaning": "we return to you — standard closing/opening formula"
+        },
+        {
+          "term": "הַזָּהָב",
+          "meaning": "the gold — name of the new Perek"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֲדַרַן עֲלָךְ הַזָּהָב",
+          "english": "I return to you, the gold"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הֲדַרַן עֲלָךְ הַזָּהָב",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna defines נֶשֶׁךְ and תַּרְבִּית",
+      "stepSummary": "The Mishna introduces the two terms for interest: נֶשֶׁךְ (biting/loss) and תַּרְבִּית (increase/profit), and gives examples of each.",
+      "whatsHappening": "The Mishna defines the two categories of interest. It provides concrete examples for each.",
+      "deeperAnalysis": "The Mishna defines נֶשֶׁךְ as a direct increase in the loan amount. It defines תַּרְבִּית as a transaction where the lender profits from a change in market value.",
+      "keyTerms": [
+        {
+          "term": "נֶשֶׁךְ",
+          "meaning": "interest — connotes biting/loss to the borrower"
+        },
+        {
+          "term": "תַּרְבִּית",
+          "meaning": "increase — connotes profit for the lender"
+        },
+        {
+          "term": "מַלְוֶה",
+          "meaning": "lender"
+        },
+        {
+          "term": "לֹוֶה",
+          "meaning": "borrower"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אֵיזֶהוּ נֶשֶׁךְ וְאֵיזֶהוּ תַּרְבִּית?",
+          "english": "Mishnah: Which is neshekh and which is tarbit?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵיזֶהוּ נֶשֶׁךְ? הַמַּלְוֶה סֶלַע בַּחֲמִשָּׁה דִּינָרִין,",
+          "english": "Which is neshekh? One who lends a sela for five dinars,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סָאתַיִם חִטִּין בְּשָׁלֹשׁ –",
+          "english": "two se'ah of wheat for three —"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָסוּר, מִפְּנֵי שֶׁהוּא נוֹשֵׁךְ.",
+          "english": "it is prohibited, because he is biting."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאֵיזֶהוּ תַּרְבִּית? הַמַּרְבֶּה בְּפֵירוֹת. כֵּיצַד?",
+          "english": "And which is tarbit? One who increases in produce. How so?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָקַח הֵימֶנּוּ חִטִּין בְּדִינַר זָהָב הַכּוֹר, וְכֵן הַשַּׁעַר.",
+          "english": "He took from him wheat at a dinar of gold per kor, and so was the price."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "עָמְדוּ חִטִּין בִּשְׁלֹשִׁים דִּינָרִין.",
+          "english": "Wheat stood at thirty dinars."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָמַר לוֹ: תֵּן לִי חִטַּי,",
+          "english": "He said to him: Give me my wheat,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "שֶׁאֲנִי רוֹצֶה לְמוֹכְרָן וְלִיקַּח בָּהֶן יַיִן.",
+          "english": "for I want to sell them and buy with them wine."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמַר לוֹ: הֲרֵי חִטֶּיךָ עֲשׂוּיוֹת עָלַי בִּשְׁלֹשִׁים,",
+          "english": "He said to him: Behold your wheat are made upon me at thirty,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וַהֲרֵי לְךָ אֶצְלִי בָּהֶן יַיִן,",
+          "english": "and behold for you with me in them wine,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְיַיִן אֵין לוֹ.",
+          "english": "and wine he does not have."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "גְּמָ׳ מִדְּשָׁבֵיק לְרִיבִּית דְּאוֹרָיְיתָא,",
+          "english": "Gemara: From the fact that he set aside ribit de-oraita,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְקָא מְפָרֵשׁ דְּרַבָּנַן, מִכְּלָל דְּאוֹרָיְיתָא,",
+          "english": "and he is explaining that of the rabbis, from the general rule of Torah law,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "(דְּ)נֶשֶׁךָ וְתַרְבִּית –",
+          "english": "(that) neshekh and tarbit —"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "חֲדָא מִלְּתָא הִיא.",
+          "english": "one matter it is."
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "וְהָא קְרָאֵי כְּתִיבִי: נֶשֶׁךְ כֶּסֶף, וְרִיבִּית אוֹכֶל!",
+          "english": "And behold verses are written: neshekh of money, and ribit of food!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אֵיזֶהוּ נֶשֶׁךְ וְאֵיזֶהוּ תַּרְבִּית?",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:8:1",
+            "hebrew": "מתני' איזהו נשך - שהוא נושך דשקל מיניה מאי דלא יהיב ליה:",
+            "english": "",
+            "takeaway": "רש״י explains that the term נֶשֶׁךְ is derived from the root נָשַׁךְ, meaning to bite, because the lender takes more than he originally gave."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:10:1",
+            "hebrew": "המרבה בפירות - המרבה שכר לעצמו בפירות ובגמרא מפרש דבהלוואת כסף או פירות נמי הוי תרבית שהרי מתרבה ממונו והכא ריבית דרבנן קמפרש דרך מקח וממכר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that תַּרְבִּית refers to increasing one's profit through a transaction involving produce, and the Gemara will explain that this specific case is ריבית דרבנן involving a sale (מקח וממכר), even though תַּרְבִּית can apply to loans as well."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:10:3",
+            "hebrew": "וכן השער - כך היו נמכרין בעיר והותר לו לתת מעות עכשיו על מנת ליתן לו זה חטין כל ימות השנה בדמים הללו כשיעור מעותיו ואף על פי שעכשיו אין לו חטין דתנן בפירקין (עב ב) יצא השער. פוסקין ואף על פי שאין לזה יש לזה ויכול המוכר הלז לקנותם עתה במעות הללו:",
+            "english": "",
+            "takeaway": "רש״י explains that the initial agreement to sell wheat at a fixed price for the year is permitted because the market price was already established (יצא השער), allowing the seller to buy the wheat immediately at that price."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:10:5",
+            "hebrew": "אמר לו תן לי חטיי - וזו מותרת היא אם נתן לו חטין אבל פסוק היין שפוסק לו לתת בהן. אסור הואיל ואין לו שמא יוקיר היין ואף על פי שפוסק עמו כשער היין של עכשיו וכבר יצא השער ובגמרא מפרש טעמא:",
+            "english": "",
+            "takeaway": "רש״י notes that giving the wheat directly would be permitted, but demanding payment in wine is forbidden because the lender does not currently possess the wine, creating a risk that the wine's price might rise, which constitutes interest."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:12:1",
+            "hebrew": "גמ' לרבית דאורייתא - דרך הלואה משמע כדכתיב (משלי כ״ח:ח׳) מרבה הונו בנשך ובתרבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara assumes the Mishna's omission of ריבית דאורייתא implies that נֶשֶׁךְ and תַּרְבִּית are the same thing, based on the verse in משלי that links them together."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:12:2",
+            "hebrew": "והכתיב נשך כסף ורבית אוכל - את כספך לא תתן לו בנשך ובמרבית לא תתן אכלך ומדחלקו לשני לאוין. תרתי נינהו:",
+            "english": "",
+            "takeaway": "רש״י points out that the Torah explicitly distinguishes between נֶשֶׁךְ כֶּסֶף and רִבִּית אוֹכֶל with two separate prohibitions, proving they are two distinct categories."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 60b:8:1",
+            "hebrew": "מתני' איזהו נשך. מאה בדנקא פרש\"י - ק' פרוטות במעה שהוא שתות דינר וקשה היאך הוזלו הפרוטו' כל כך דבשער בינוני אין כי אם שנים ושלשים במעה ומעה שני פונדיון פונדיון ב' איסרים איסר ח' פרוטות היינו ל\"ב פרוטות ונראה כפירוש ריב\"ן דפירש ק' מעות בשתות מנה שהוא ארבע סלעים וארבע מעות א\"נ ק' איסרים בשתות דינר זהב שהוא ארבע דינרי כסף ומעה:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation of the monetary values in the Mishna as being economically unrealistic, and instead suggests the amounts should be understood according to the ריב"
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 60b:8:1",
+            "hebrew": "מתני' איזהו נשך. מאה בדנקא פרש\"י - ק' פרוטות במעה שהוא שתות דינר וקשה היאך הוזלו הפרוטו' כל כך דבשער בינוני אין כי אם שנים ושלשים במעה ומעה שני פונדיון פונדיון ב' איסרים איסר ח' פרוטות היינו ל\"ב פרוטות ונראה כפירוש ריב\"ן דפירש ק' מעות בשתות מנה שהוא ארבע סלעים וארבע מעות א\"נ ק' איסרים בשתות דינר זהב שהוא ארבע דינרי כסף ומעה:",
+            "english": "",
+            "takeaway": "תוספות cites the ריב"
+          }
+        ],
+        "acharonim": [],
+        "interplaySummary": "תוספות disagrees with רש״י's literal reading of the monetary values in the Mishna, finding them economically implausible, and instead adopts the ריב"
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Why does the Mishna discuss תַּרְבִּית דִּרַבָּנָן instead of נֶשֶׁךְ דִּאֹרַיְתָא?",
+      "stepSummary": "The Gemara challenges the Mishna's structure: by setting aside biblical interest to discuss rabbinic interest, it implies נֶשֶׁךְ and תַּרְבִּית are the same biblically, contradicting the verses.",
+      "whatsHappening": "The Gemara attacks the Mishna's choice of topic. It infers a contradiction with the Torah.",
+      "deeperAnalysis": "The Gemara notes that the Mishna sets aside biblical interest to explain rabbinic תַּרְבִּית. This implies that biblically, נֶשֶׁךְ and תַּרְבִּית are one thing. But the Torah explicitly distinguishes them.",
+      "keyTerms": [
+        {
+          "term": "מִדְשָׁבֵיק",
+          "meaning": "sets aside / passes over"
+        },
+        {
+          "term": "דִּאֹרַיְתָא",
+          "meaning": "biblical law"
+        },
+        {
+          "term": "דִּרַבָּנָן",
+          "meaning": "rabbinic law"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְתִיסְבְּרָא דְּאִיכָּא נֶשֶׁךְ בְּלֹא תַּרְבִּית, וְתַרְבִּית בְּלֹא נֶשֶׁךְ?",
+          "english": "And should you hold that there is neshekh without tarbit, and tarbit without neshekh?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נֶשֶׁךְ בְּלֹא תַּרְבִּית הֵיכִי דָּמֵי?",
+          "english": "Neshekh without tarbit — how does it resemble?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִדְשָׁבֵיק לְרִבִּית דְּאוֹרָיְיתָא, וְקָא מְפָרֵשׁ דְּרַבָּנַן",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        45
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:13:1",
+            "hebrew": "מי איכא נשך - שנושך את חבירו ואין ממונו מתרבה:",
+            "english": "",
+            "takeaway": "רש״י explains that נֶשֶׁךְ בְּלֹא תַּרְבִּית refers to a case where the lender 'bites' (נָשַׁךְ) the borrower through a penalty or loss, but the lender's principal does not actually increase (אֵין מִמּוֹנוֹ מִתְרַבֶּה)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:13:2",
+            "hebrew": "ומי איכא תרבית - שיהא מלוה נשכר ולא יהא לוה נשוך:",
+            "english": "",
+            "takeaway": "רש״י explains that תַּרְבִּית בְּלֹא נֶשֶׁךְ refers to a case where the lender gains a benefit (שֶׁיְּהֵא מַלְוֶה נִשְׂכָּר) but the borrower is not 'bitten' or harmed (וְלֹא יִהְיֶה לוֶה נִשְׁכוּךְ)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:13:3",
+            "hebrew": "נשך בלא תרבית - היכי מדמינן ליה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's question 'נֶשֶׁךְ בְּלֹא תַּרְבִּית הֵיכִי דָּמֵי?' is asking how we can conceptualize or find a practical example of interest that constitutes נֶשֶׁךְ but not תַּרְבִּית."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Can there be נֶשֶׁךְ without תַּרְבִּית, or תַּרְבִּית without נֶשֶׁךְ?",
+      "stepSummary": "The Gemara presses the difficulty: if the verses distinguish them, there must be cases where one exists without the other. It asks for examples.",
+      "whatsHappening": "The Gemara deepens the challenge. It asks for concrete cases of each term standing alone.",
+      "deeperAnalysis": "The Gemara asks if נֶשֶׁךְ can exist without תַּרְבִּית. It then asks for the circumstances of תַּרְבִּית without נֶשֶׁךְ.",
+      "keyTerms": [
+        {
+          "term": "נֶשֶׁךְ בְּלֹא תַּרְבִּית",
+          "meaning": "interest without increase"
+        },
+        {
+          "term": "תַּרְבִּית בְּלֹא נֶשֶׁךְ",
+          "meaning": "increase without interest"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי דְּאוֹזְפֵיהּ מְאָה בִּמְאָה וְעֶשְׂרִים,",
+          "english": "If he lent him a hundred for a hundred and twenty,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מֵעִיקָּרָא קָיְימִי מְאָה בְּדַנְקָא,",
+          "english": "from the beginning they stand at a hundred in value,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּלְבַסּוֹף קָיְימִי מְאָה וְעֶשְׂרִים בְּדַנְקָא.",
+          "english": "and ultimately they stand at a hundred and twenty in value."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "נֶשֶׁךְ אִיכָּא –",
+          "english": "There is neshekh –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּקָא נָכֵית לֵיהּ,",
+          "english": "that he is harming him,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּקָא שָׁקֵיל מִינֵּיהּ מִידֵּי דְּלָא יָהֵיב.",
+          "english": "that he is taking from him something that he did not give."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְתַרְבִּית לֵיכָּא –",
+          "english": "And there is no tarbit –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּלֵית לֵיהּ רַוְוחָא,",
+          "english": "that he has no profit,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דְּדַנְקָא אוֹזְפֵיהּ וְדַנְקָא קָא שָׁקֵיל מִינֵּיהּ.",
+          "english": "that he lent him value and he is taking value from him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְתִסְבְּרָא דְּאִיכָא נֶשֶׁךְ בְּלֹא תַּרְבִּית, וְתַרְבִּית בְּלֹא נֶשֶׁךְ?",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:1",
+            "hebrew": "כגון דאוזיף - הלווהו:",
+            "english": "",
+            "takeaway": "רש״י explains that אוזיף means the lender gave a loan."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:2",
+            "hebrew": "מאה - פרוטות במאה ועשרים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the amounts refer to 100 perutahs lent in exchange for 120 perutahs."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:3",
+            "hebrew": "מעיקרא - כשמלווהו:",
+            "english": "",
+            "takeaway": "רש״י explains that מעיקרא refers to the time when the loan is given."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:4",
+            "hebrew": "ולבסוף - כשמשלם:",
+            "english": "",
+            "takeaway": "רש״י explains that ולבסוף refers to the time when the borrower repays."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:5",
+            "hebrew": "בדנקא - במעה כסף שהוא שתות לדינר:",
+            "english": "",
+            "takeaway": "רש״י defines בדנקא as a silver coin worth one-sixth of a dinar."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:14:6",
+            "hebrew": "נכית - נושך ומחסרו:",
+            "english": "",
+            "takeaway": "רש״י explains that נכית means the lender is taking interest and diminishing the borrower's wealth."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Attempted case of נֶשֶׁךְ without תַּרְבִּית: fixed coins, changing value",
+      "stepSummary": "The Gemara proposes a case: lending 100 coins to be repaid 120, where the value of the coins drops so the lender gets no real profit.",
+      "whatsHappening": "The Gemara tests a scenario. It checks if it fits נֶשֶׁךְ without תַּרְבִּית.",
+      "deeperAnalysis": "The case involves lending 100 perutot and repaying 120. Initially, 100 perutot equal 1/6 dinar. Later, 120 perutot equal 1/6 dinar. There is נֶשֶׁךְ but no תַּרְבִּית.",
+      "keyTerms": [
+        {
+          "term": "דַּנְקָא",
+          "meaning": "one-sixth of a dinar"
+        },
+        {
+          "term": "רַוְוחָא",
+          "meaning": "profit"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "סוֹף סוֹף, אִי בָּתַר מֵעִיקָּרָא אָזְלַתְּ –",
+          "english": "End, end, if you follow after the beginning –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי נֶשֶׁךְ וַהֲרֵי תַּרְבִּית.",
+          "english": "Here is neshekh and here is tarbit."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי בָּתַר בְּסוֹף אָזְלַתְּ,",
+          "english": "If you follow after the end,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא נֶשֶׁךְ אִיכָּא וְלָא תַּרְבִּית אִיכָּא.",
+          "english": "There is neither neshekh nor tarbit."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי דְּאוֹזְפֵיהּ מְאָה בִּמְאָה וְעֶשְׂרִים",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:15:1",
+            "hebrew": "אי בתר מעיקרא אזלת - אי חשבת להני פרוטות השתא כדמעיקרא. הרי נשך והרי תרבית שהוא יכול ליקח בהם מעה במאה ונשכר עשרים:",
+            "english": "",
+            "takeaway": "רש״י explains that if we calculate the value of the coins at the end based on their original value, there is both נֶשֶׁךְ (more coins returned) and תַּרְבִּית (real profit, as the lender gains the equivalent of 20 perutot in value)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:15:2",
+            "hebrew": "לא נשך איכא - שהלוה יכול לקנותם במעה וזה. שוה מעה הלוהו:",
+            "english": "",
+            "takeaway": "רש״י explains that if we calculate based on the final value, there is neither נֶשֶׁךְ nor תַּרְבִּית, because the lender only lent the equivalent of one ma'ah and received back the equivalent of one ma'ah."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: the case fails depending on which value you track",
+      "stepSummary": "The Gemara rejects the proposed case: if you track initial value, there's both נֶשֶׁךְ and תַּרְבִּית; if you track final value, there's neither.",
+      "whatsHappening": "The Gemara dismantles the proposed case. It shows it doesn't isolate נֶשֶׁךְ.",
+      "deeperAnalysis": "The Gemara argues that ultimately, if you go by the initial value, there is both נֶשֶׁךְ and תַּרְבִּית. If you go by the final value, there is neither נֶשֶׁךְ nor תַּרְבִּית.",
+      "keyTerms": [
+        {
+          "term": "סוֹף סוֹף",
+          "meaning": "ultimately / in the end"
+        },
+        {
+          "term": "מֵעִקָּרָא",
+          "meaning": "from the beginning / initial value"
+        },
+        {
+          "term": "בְּסוֹף",
+          "meaning": "at the end / final value"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְתוּ, תַּרְבִּית בְּלֹא נֶשֶׁךְ הֵיכִי דָמֵי?",
+          "english": "And furthermore, how is tarbit without neshekh?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי דְּאוֹזֵיף מְאָה בִּמְאָה,",
+          "english": "If he lent a hundred for a hundred,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מֵעִיקָּרָא קָיְימִי מְאָה בְּדַנְקָא,",
+          "english": "Initially they are standing at a hundred for a denar,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּלְבַסּוֹף מְאָה בְּחוּמְשָׁא.",
+          "english": "and ultimately a hundred for a fifth."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "סוֹף סוֹף, אִי בָּתַר מֵעִקָּרָא אָזְלַתְּ",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        48
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:16:1",
+            "hebrew": "בחומשא - יכול ליקח בהן כסף חומש דינר שהוא יותר על שתות:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase בחומשא indicates the borrower can purchase silver worth a fifth of a dinar, which exceeds a sixth, thereby clarifying the monetary value involved in the transaction."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Can there be תַּרְבִּית without נֶשֶׁךְ?",
+      "stepSummary": "The Gemara asks for a case of תַּרְבִּית without נֶשֶׁךְ.",
+      "whatsHappening": "The Gemara shifts to the opposite case. It asks for תַּרְבִּית without נֶשֶׁךְ.",
+      "deeperAnalysis": "The Gemara proposes a case of lending 100 and repaying 100. Initially, 100 equals 1/6 dinar. Later, 100 equals 1/5 dinar.",
+      "keyTerms": [
+        {
+          "term": "חוּמְשָׁא",
+          "meaning": "one-fifth"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי בָּתַר מֵעִיקָּרָא אָזְלַתְּ –",
+          "english": "If you follow the beginning –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא נֶשֶׁךְ אִיכָּא וְלָא תַּרְבִּית אִיכָּא.",
+          "english": "There is no neshekh and there is no tarbit."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי בָּתַר סוֹף אָזְלַתְּ –",
+          "english": "If you follow the end –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲרֵי נֶשֶׁךְ וַהֲרֵי תַּרְבִּית!",
+          "english": "Behold neshekh and behold tarbit!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְתוּ, תַּרְבִּית בְּלֹא נֶשֶׁךְ הֵיכִי דָמֵי?",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: this case also fails depending on which value you track",
+      "stepSummary": "The Gemara rejects this case too: if you track initial value, there's neither; if you track final value, there's both.",
+      "whatsHappening": "The Gemara dismantles the second proposed case. It shows the same logical flaw.",
+      "deeperAnalysis": "The Gemara argues that if you go by initial value, there is neither נֶשֶׁךְ nor תַּרְבִּית. If you go by final value, there is both נֶשֶׁךְ and תַּרְבִּית.",
+      "keyTerms": [],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רָבָא:",
+          "english": "But Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי אַתָּה מוֹצֵא לֹא נֶשֶׁךְ בְּלֹא תַּרְבִּית,",
+          "english": "If you find, no neshekh without ribit,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלֹא תַּרְבִּית בְּלֹא נֶשֶׁךְ.",
+          "english": "and no ribit without neshekh."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֹא חִלְּקָן הַכָּתוּב אֶלָּא לַעֲבוֹר עָלָיו בִּשְׁנֵי לָאוִין.",
+          "english": "And the verse did not divide them except to transgress it with two negative commandments."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי בָּתַר מֵעִקָּרָא אָזְלַתְּ",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 60b:18:1",
+            "hebrew": "למה חלקם הכתוב לעבור עליו בשני לאוין - וא\"ת ולמה שינה בלשון לכתוב כספך לא תתן בנשך ובנשך לא תתן אכלך ויש לומר כיון שהוצרך שני לאוין אורחא דקרא לכתוב לשון משונה שהוא נאה יותר:",
+            "english": "",
+            "takeaway": "תוספות explains that the Torah uses different phrasing for נֶשֶׁךְ and תַּרְבִּית simply because it needed two separate prohibitions, and the Torah often employs varied language for stylistic elegance."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "תירוץ",
+      "title": "רָבָא: נֶשֶׁךְ and תַּרְבִּית always coincide; the distinction is only for two prohibitions",
+      "stepSummary": "רָבָא resolves the difficulty: there is never נֶשֶׁךְ without תַּרְבִּית or vice versa. The Torah distinguishes them only to impose two separate prohibitions.",
+      "whatsHappening": "רָבָא provides the final resolution. He answers the opening difficulty.",
+      "deeperAnalysis": "רָבָא states that you never find נֶשֶׁךְ without תַּרְבִּית. The Torah uses two terms so that every act of interest violates two separate לאוין.",
+      "keyTerms": [
+        {
+          "term": "לָאוִין",
+          "meaning": "prohibitions"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: ״אֶת כַּסְפְּךָ לֹא תִתֵּן לוֹ בְּנֶשֶׁךְ",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּבְמַרְבִּית לֹא תִתֵּן אׇכְלֶךָ״.",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין לִי אֶלָּא נֶשֶׁךְ בְּכֶסֶף וְרִבִּית בְּאוֹכֶל.",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "נֶשֶׁךְ בְּאוֹכֶל מִנַּיִן?",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״נֶשֶׁךְ אֹכֶל״.",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רִבִּית בְּכֶסֶף מִנַּיִן?",
+          "english": "[translation unavailable]"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״נֶשֶׁךְ כֶּסֶף״.",
+          "english": "[translation unavailable]"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אָמַר רָבָא",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:19:1",
+            "hebrew": "אין לי - שיהא עובר אלא על לאו של נשך. בכסף ועל לאו של ריבית. באוכל מנין שהוא עובר על הלוואת פירות אף משום לאו דנשך:",
+            "english": "",
+            "takeaway": "רש״י explains that the ברייתא's question 'נֶשֶׁךְ בְּאוֹכֶל מִנַּיִן' asks how we know that lending food violates the prohibition of נֶשֶׁךְ, not just רִבִּית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:19:2",
+            "hebrew": "תלמוד לומר - לא תשיך לאחיך נשך אוכל ומקרא זה בלוה נאמר מדלא כתיב לא תשוך לאחיך והראשון נאמר במלוה דכתיב לעיל מיניה אל תקח מאתו וגו' ומיהו שמעת מינה מיהא דשייך לשון נשך באוכל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the verse 'לֹא תַשִּׁיךְ לְאָחִיךָ נֶשֶׁךְ אֹכֶל' is derived from the phrase 'נֶשֶׁךְ אֹכֶל' and applies to the borrower, while the first verse applies to the lender, establishing that the term נֶשֶׁךְ applies to food."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:19:3",
+            "hebrew": "רבית בכסף מנין - שעובר אף בלאו שני של רבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the question 'רִבִּית בְּכֶסֶף מִנַּיִן' asks how we know that lending money violates the second prohibition of רִבִּית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 60b:19:4",
+            "hebrew": "ת\"ל - בלוה נשך כסף אם אינו ענין לגופו לחייבו על לאו של נשך שהרי כבר נאמר בראש המקרא לא תשיך ובסופו נאמר כל דבר אשר ישך תנהו ענין לרבית כסף והשתא דשמעינן מלא תשיך בין כסף ובין אוכל אייתרו תרוייהו נשך כסף ונשך אוכל לחייב את הלוה על לאו של רבית על שניהן:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'נֶשֶׁךְ כֶּסֶף' is derived via אִם אֵינוֹ עִנְיָן to teach that the borrower violates the prohibition of רִבִּית on money, since both 'נֶשֶׁךְ כֶּסֶף' and 'נֶשֶׁךְ אֹכֶל' become extra words once we learn that 'לֹא תַשִּׁיךְ' covers both money and food."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 60b:19:1",
+            "hebrew": "נשך באוכל מנין - ואם תאמר תחילה הוה ליה למדרש ריבית בכסף דמפיק ליה מנשך כסף הכתוב ברישא ויש לומר משום דנשך אוכל כתיב בהדיא וריבית כסף לא נפיק אלא באם אינו ענין:",
+            "english": "",
+            "takeaway": "תוספות asks why the ברייתא first derives נֶשֶׁךְ בְּאוֹכֶל rather than רִבִּית בְּכֶסֶף from 'נֶשֶׁךְ כֶּסֶף', and answers that 'נֶשֶׁךְ אֹכֶל' is explicitly written, whereas 'רִבִּית כֶּסֶף' requires an אִם אֵינוֹ עִנְיָן derivation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T08:27:32.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 95.78078750002896,
+      "structure": 1906.0374919000315,
+      "validate": 289.6151242000051,
+      "translate": 459.4355101000401,
+      "meforshim": 1570.060660900257,
+      "teaching": 855.0428926000022
+    }
+  }
+}

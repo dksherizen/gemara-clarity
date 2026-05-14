@@ -1,0 +1,1060 @@
+{
+  "ref": "Bava Metzia 26a",
+  "masechet": "Bava_Metzia",
+  "daf": 26,
+  "amud": "a",
+  "mainTopic": "(continues) מציאה בכותל ובחנות",
+  "overview": "The Mishnah discusses items found in old vs. new walls and in shops; the Gemara analyzes the division of ownership based on location, the concept of 'first come first served' in inns, and the laws of despondency and theft regarding found coins. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 14,
+      "topic": "(continues) מציאה בכותל ובחנות",
+      "gist": "The Mishnah discusses items found in old vs. new walls and in shops; the Gemara analyzes the division of ownership based on location, the concept of 'first come first served' in inns, and the laws of despondency and theft regarding found coins. — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 2,
+      "lastStepNumber": 12
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Resolution: The item is extremely rusted",
+      "stepSummary": "The Gemara resolves the challenge by specifying that the rule applies when the item is extremely rusted, indicating it has been there for a very long time.",
+      "whatsHappening": "The גמרא resolves the difficulty by specifying a condition of extreme age. This is a setup line narrowing the scope of the ruling.",
+      "deeperAnalysis": "The item is so rusted (דִּשְׁתִיךְ טְפֵי) that it must date back to the time of the אֲמוֹרִיִּים. This excludes the possibility that a recent Jewish owner placed it there, resolving the conflict.",
+      "keyTerms": [
+        {
+          "term": "לָא צְרִיכָא",
+          "meaning": "not necessary [to ask]"
+        },
+        {
+          "term": "דִּשְׁתִיךְ טְפֵי",
+          "meaning": "extremely rusted"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דִּשְׁתִיךְ טְפֵי.",
+          "english": "You drank drops."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא צְרִיכָא דִּשְׁתִיךְ טְפֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:1:1",
+            "hebrew": "דשתיך טפי - העלו חלודה רבה דכולי האי לא שביק להו:",
+            "english": "",
+            "takeaway": "רש״י explains that the extreme rust indicates the item has been there for a very long time, meaning the owner would not have left it there."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:1:1",
+            "hebrew": "דשתיך - וא\"ת וליקני ליה חצירו לבעל הגל או לבעל הכותל וי\"ל דאין חצר קונה בדבר שיכול להיות שלא ימצאנו לעולם כמו הכא שהוא מוצנע בעובי הכותל וכן מוכח לקמן (עמוד ב) דתנן מצא בחנות ובשולחנות הרי אלו שלו ואין חצירו קונה לחנוני או לשולחני לפי שהמעות הם דבר קטן ואין סופו הוה לימצא וכן לקמן (בבא מציעא דף כז.) דקאמר לא שנו אלא בלוקח מן התגר דאז הוי שלו ולא אמרי' דקנה אותם תגר כשהיה ברשותו:",
+            "english": "",
+            "takeaway": "תוספות addresses the question of why the courtyard of the wall or stone owner does not acquire the item, explaining that a courtyard does not acquire items that are hidden and may never be found, as demonstrated by the laws of finding money in a shop or on tables."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רַב אָשֵׁי's rule on knives and pouches in walls",
+      "stepSummary": "Rav Ashi introduces a new rule for determining ownership of items found in a new wall based on the orientation of the handle or laces.",
+      "whatsHappening": "The גמרא introduces רַב אָשֵׁי's specific ruling regarding items found in new walls. This is a transition to a new legal criterion.",
+      "deeperAnalysis": "רַב אָשֵׁי rules that for a knife, ownership follows the handle (קַתָּא). For a pouch, ownership follows the laces (שִׁנְצֵיהּ). This provides a physical orientation test for ownership.",
+      "keyTerms": [
+        {
+          "term": "רַב אָשֵׁי",
+          "meaning": "Rav Ashi"
+        },
+        {
+          "term": "סַכִּינָא",
+          "meaning": "knife"
+        },
+        {
+          "term": "קַתָּא",
+          "meaning": "handle"
+        },
+        {
+          "term": "כִּיסָא",
+          "meaning": "pouch"
+        },
+        {
+          "term": "שִׁנְצֵיהּ",
+          "meaning": "its laces"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב אָשֵׁי:",
+          "english": "Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סַכִּינָא בָּתַר קַתָּא,",
+          "english": "A knife follows the handle,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכִיסָא בָּתַר שִׁנְצֵיהּ.",
+          "english": "and a pouch follows its laces."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב אָשֵׁי: סַכִּינָא בָּתַר קַתָּא, וְכִיסָא בָּתַר שִׁנְצֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:3:2",
+            "hebrew": "בתר קתא - אזיל אי קתיה לגיו בני הבית נתנוהו שם אי קתא לבר בני רשות הרבים נתנוהו שם שכן דרך אחיזתו וכן כיסא בתר שנציה אשטדל\"א בלע\"ז:",
+            "english": "",
+            "takeaway": "רש״י explains that the rule of following the handle (קַתָּא) or laces (שִׁנְצֵיהּ) determines ownership based on which direction they face, as this indicates whether the item was placed by the residents of the house or by people from the public domain."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge on the applicability of the משנה's midpoint rule",
+      "stepSummary": "The Gemara challenges Rav Ashi's rule by asking what the Mishnah's midpoint rule is for if orientation determines ownership.",
+      "whatsHappening": "The גמרא questions the redundancy of the משנה's rule given רַב אָשֵׁי's ruling. This is a classic redundancy attack.",
+      "deeperAnalysis": "If we determine ownership by the handle or laces, why does the משנה discuss the midpoint? The גמרא challenges the necessity of the משנה's wording.",
+      "keyTerms": [
+        {
+          "term": "וְאֶלָּא מַתְנִיתִין",
+          "meaning": "but the Mishnah"
+        },
+        {
+          "term": "מֵחֶצְיוֹ וְלַחוּץ",
+          "meaning": "from its midpoint and outward"
+        },
+        {
+          "term": "מֵחֶצְיוֹ וְלִפְנִים",
+          "meaning": "from its midpoint and inward"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאֶלָּא מַתְנִיתִין דְּקָתָנֵי:",
+          "english": "And rather, our Mishna is precise:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מֵחֶצְיוֹ וְלַחוּץ – שֶׁלּוֹ,",
+          "english": "From its midpoint and outward — his,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מֵחֶצְיוֹ וְלִפְנִים –",
+          "english": "From its midpoint and inward —"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁל בַּעַל הַבַּיִת.",
+          "english": "The homeowner's."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְלֶחְזֵי, אִי קַתָּא לְגָאו אִי קַתָּא לְבַר!",
+          "english": "And to see, if it fell inward, if it fell outward!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי שִׁנְצֵיהּ לְגָאו אִי שִׁנְצֵיהּ לְבַר!",
+          "english": "If its straps are inward, if its straps are outward!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַתְנִיתִין בְּאוּדְרָא וּנְסָכָא.",
+          "english": "Our Mishna is in a bundle and a poured-out pile.",
+          "notes": "Refers to a case where items are found in a bundle or scattered pile, rather than a knife or pouch."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאֶלָּא מַתְנִיתִין דְּקָתָנֵי: מֵחֶצְיוֹ וְלַחוּץ – שֶׁלּוֹ, מֵחֶצְיוֹ וְלִפְנִים – שֶׁל בַּעַל הַבַּיִת. וְלֶחְזֵי, אִי קַתָּא לְגָאו אִי קַתָּא לְבַר! אִי שִׁנְצֵיהּ לְגָאו אִי שִׁנְצֵיהּ לְבַר!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        45
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:4:1",
+            "hebrew": "באודרא - מוכין:",
+            "english": "",
+            "takeaway": "רש״י explains that אודרא refers to a leather bag, which is the type of item the Mishnah's midpoint rule applies to."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:4:2",
+            "hebrew": "נסכא - פלטא של כסף:",
+            "english": "",
+            "takeaway": "רש״י explains that נסכא refers to a silver pitcher, which is the type of item the Mishnah's midpoint rule applies to."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "בריתא on dividing items filling a wall",
+      "stepSummary": "A baraita is cited stating that if a wall is filled with found items, the finder and homeowner divide them.",
+      "whatsHappening": "The גמרא introduces a בריתא about dividing items in a wall. This is a setup for a new case.",
+      "deeperAnalysis": "The בריתא states that when a wall is filled with items, they are divided. This seems obvious, but the גמרא will question its necessity.",
+      "keyTerms": [
+        {
+          "term": "תָּנָא",
+          "meaning": "it is taught"
+        },
+        {
+          "term": "מְמוּלָא",
+          "meaning": "filled"
+        },
+        {
+          "term": "חוֹלְקִין",
+          "meaning": "they divide"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנָא: אִם הָיָה כּוֹתֶל מְמוּלָּא מֵהֶן – חוֹלְקִין.",
+          "english": "It is taught: If the wall was filled with them – they divide."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "פְּשִׁיטָא! לָא צְרִיכָא,",
+          "english": "It is obvious! It is not necessary,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּמְשַׁפַּע בְּחַד גִּיסָא,",
+          "english": "that it is inclined to one side,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַהוּ דְּתֵימָא: אִשְׁתְּפוֹכֵי אִישְׁתְּפוּךְ,",
+          "english": "What is the matter that you would say: They were poured out,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קָא מַשְׁמַע לַן.",
+          "english": "He is teaching us."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנָא: אִם הָיָה כוֹתֶל מְמוּלָא מֵהֶן – חוֹלְקִין.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:5:1",
+            "hebrew": "ממולא - מן החפץ שמחזיק כל רוחב הכותל:",
+            "english": "",
+            "takeaway": "רש״י explains that מְמוּלָא means the items fill the entire width of the wall, establishing a baseline case of equal distribution."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:5:2",
+            "hebrew": "לא צריכא דמשפע - הכותל לחד גיסא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the baraita is necessary for the case where the wall slopes to one side, creating an uneven distribution of the items."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:5:3",
+            "hebrew": "מהו דתימא - בחצי הגובה היה תחילה ואשתפוכי אשתפוך לצד הנמוך קמ\"ל:",
+            "english": "",
+            "takeaway": "רש״י explains the Gemara's concern: one might think that since the items naturally slid to the lower side, they belong entirely to that side, and the baraita teaches that they are still divided."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge on why the finder keeps items in a rented house",
+      "stepSummary": "The Gemara challenges the Mishnah's rule that the finder keeps items in a rented house, asking why we don't attribute the items to the last renter.",
+      "whatsHappening": "The גמרא questions the logic of the משנה's rule for rented houses. This is a direct challenge to the assumption of despair.",
+      "deeperAnalysis": "The challenge asks why not follow the last renter (לֵיזִיל בָּתַר בָּתְרָא). This attacks the assumption that the owner despairs of recovery.",
+      "keyTerms": [
+        {
+          "term": "וְאַמַאי",
+          "meaning": "and why"
+        },
+        {
+          "term": "לֵיזִיל בָּתַר בָּתְרָא",
+          "meaning": "let us follow the last one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִם הָיָה מַשְׂכִּירוֹ לַאֲחֵרִים,",
+          "english": "If he was renting it to others,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲפִילּוּ מָצָא בְּתוֹךְ הַבַּיִת –",
+          "english": "even if he found inside the house –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ. וְאַמַּאי?",
+          "english": "these are his. And why?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֵיזִיל בָּתַר בָּתְרָא.",
+          "english": "Let him go after the last one.",
+          "notes": "Refers to the last renter of the house."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִם הָיָה מַשְׂכִּירוֹ לַאֲחֵרִים, אַפִּילוּ מָצָא בְּתוֹךְ הַבַּיִת – הֲרֵי אֵלּוּ שֶׁלּוֹ. וְאַמַאי? לֵיזִיל בָּתַר בָּתְרָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:6:1",
+            "hebrew": "בתוך הבית הרי אלו שלו - מיירי שמצא בזה הענין שנראה שהוא אבידה:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the Mishnah's ruling applies specifically when the item found within the house appears to be a lost item (אבידה) rather than a hidden deposit."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:6:2",
+            "hebrew": "וניזל בתר בתרא - דהיינו בעל הבית דמסתמא לעולם הוא דר בביתו עם השוכרים וטרם שהלכו חפשו חפציהם וכבדו הבית ולא שכחו דבר ואין לתלות המציאה שהיא שלהם אלא בבעל הבית שעדיין נשאר בביתו באחרונה כגון מעות דתלינן בתר בתרא לפי שמכבדין השווקים בכל יום ואפילו אין בו סימן דאין בעל הבית מתיאש מה שמפסיד בביתו כסבור שימצאנו היום או למחר כיון שאין נכרים עמו דרים בביתו וכי משני שעשה פונדק לשלשה בני אדם אפילו כי יש סימן מתיאש:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara's challenge to follow the last renter (לֵיזִיל בָּתַר בָּתְרָא) refers to the homeowner, who typically remains in the house with the renters and would have searched for his belongings before they left, thus not having forgotten anything; therefore, the item is attributed to the homeowner who hasn't despaired, similar to coins found in a market, unless the house was converted into an inn where strangers stay and the owner does despair even over items with identifying marks."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from משנה on money found in יְרוּשָׁלַיִם",
+      "stepSummary": "The Gemara brings a proof from a Mishnah about money found in Jerusalem, suggesting that items found in a rented house should be attributed to the last renter.",
+      "whatsHappening": "The גמרא cites a parallel case to support the challenge. This is a transition to a proof from another משנה.",
+      "deeperAnalysis": "The משנה in שְׁקָלִים discusses money found in יְרוּשָׁלַיִם. The גמרא argues that just as money there is attributed to recent sources, so too items in a rented house should be attributed to the last renter.",
+      "keyTerms": [
+        {
+          "term": "מִי לָא תַנַּן",
+          "meaning": "did we not learn"
+        },
+        {
+          "term": "מַעֲשֵׂר",
+          "meaning": "tithe"
+        },
+        {
+          "term": "חוּלִין",
+          "meaning": "non-sacred"
+        },
+        {
+          "term": "הַר הַבַּיִת",
+          "meaning": "Temple Mount"
+        },
+        {
+          "term": "שְׁעַת הָרֶגֶל",
+          "meaning": "time of the pilgrimage festival"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִי לָא תְּנַן:",
+          "english": "Did we not learn:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָעוֹת שֶׁנִּמְצְאוּ לִפְנֵי סוֹחֲרֵי בְּהֵמָה –",
+          "english": "Money that was found before animal merchants –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְעוֹלָם מַעֲשֵׂר, בְּהַר הַבַּיִת –",
+          "english": "always second tithe, on the Temple Mount –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חוּלִּין; וּבִירוּשָׁלַיִם, בִּשְׁאָר יְמוֹת הַשָּׁנָה –",
+          "english": "non-sacred; and in Jerusalem, in the rest of the days of the year –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חוּלִּין. בִּשְׁעַת הָרֶגֶל – הַכֹּל מַעֲשֵׂר.",
+          "english": "non-sacred. At the time of the Festival – all second tithe."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִי לָא תַנַּן: מַעוֹת שֶׁנִּמְצְאוּ לִפְנֵי סוֹחֲרֵי בְּהֵמָה – לְעוֹלָם מַעֲשֵׂר, בְּהַר הַבַּיִת – חוּלִין;",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:7:1",
+            "hebrew": "לפני סוחרי בהמה - בירושלים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's reference to 'before animal merchants' is specifically located in ירושלים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:7:2",
+            "hebrew": "לעולם - בין בשעת הרגל בין שלא בשעת הרגל:",
+            "english": "",
+            "takeaway": "רש״י explains that the status of מעשר applies לעולם, meaning both during שעת הרגל and outside of it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:7:3",
+            "hebrew": "מעשר - שרוב בשר הנאכל בירושלים מעשר לפי שאין אדם שוהה בירושלים עד שיאכל כל מעשרותיו ונותן מעות מעשר לעניי העיר או לאוהביו יושבי העיר ורוב הוצאות מעשר לוקחין בהן בהמות לשלמים כדגמר שם שם מעשר משלמים במסכת מנחות (דף פב.):",
+            "english": "",
+            "takeaway": "רש״י explains that money found near animal merchants is מעשר because most meat eaten in ירושלים is from מעשר, as pilgrims do not stay long enough to consume all their מעשר and instead give the money to the poor or friends, who then use it to buy animals for שלמים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:7:4",
+            "hebrew": "ובהר הבית חולין - ואפילו בשעת הרגל ואע\"פ שרוב מעות שבעיר מעשר שעולי רגלים מביאין מעות מעשרותיהן לאכלם לא שבקינן רובא דשתא ואזלינן בתר רגל אלא אמרי' מלפני הרגל נפלו כאן וחולין הן:",
+            "english": "",
+            "takeaway": "רש״י explains that money found on הר הבית is חולין even during שעת הרגל, because we do not follow the majority of the holiday period but rather assume the money fell before the holiday, maintaining the חזקה of the year."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:8:1",
+            "hebrew": "ובירושלים - בשאר שווקים שבה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'in ירושלים' refers to the other markets within the city."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:8:2",
+            "hebrew": "בשאר ימות השנה חולין - דרוב מעות שבעיר חולין:",
+            "english": "",
+            "takeaway": "רש״י explains that money found in ירושלים during שאר ימות השנה is חולין because the majority of money in the city is חולין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:8:3",
+            "hebrew": "ובשעת הרגל מעשר - שרוב מעות העיר מעשר:",
+            "english": "",
+            "takeaway": "רש״י explains that during שעת הרגל, money found in ירושלים is מעשר because the majority of money in the city at that time is מעשר."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:7:1",
+            "hebrew": "לעולם מעשר - ואין לתלות דמן המוכרין נפלו וכבר מעות חולין הן שנתחללו על הבהמה דאזלינן בתר לוקחין דהוו רובא דמוכר אחד מוכר לכמה בני אדם ועוד דמוקמינן להו אחזקה דהוי מעשר:",
+            "english": "",
+            "takeaway": "תוספות explains that we attribute the money to מעשר rather than assuming it fell from sellers and became חולין, because we follow the majority of buyers (since one seller sells to many) and we maintain the חזקה that the money is מעשר."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:7:2",
+            "hebrew": "בהר הבית לעולם חולין - וא\"ת והא אמרינן פרק הרואה (ברכות דף סב:) לא יכנס אדם בהר הבית במעות הצרורים לו בסדינו א\"כ מסתמא של הקדש הם ונפלו מן המביאין ללשכה בניסן וי\"ל דאין אסור ליכנס אלא במעות הצרורים לו בסדינו בפרהסיא דנראה שנושא אותם לסחורה וגנאי הוא וכענין זה אפילו של הקדש אסור אבל בידו אפילו הם של חולין מותר ליכנס [ועיין תוס' פסחים ז.]:",
+            "english": "",
+            "takeaway": "תוספות addresses a potential contradiction from ברכות regarding entering הר הבית with money, explaining that the prohibition only applies to money tightly wrapped in a sheet in public, which looks like merchandise, but carrying money in one's hand is permitted even if it is חולין."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge on the principle of 'first come, first served'",
+      "stepSummary": "The Gemara challenges the proof by arguing that the principle of 'first come, first served' should apply, meaning the items belong to the finder, not the last renter.",
+      "whatsHappening": "The גמרא questions the application of the proof to the case of the rented house. This is a challenge to the proof itself.",
+      "deeperAnalysis": "The גמרא argues that just as money in יְרוּשָׁלַיִם is attributed to recent sources, so too items in a rented house should be attributed to the finder. This challenges the principle of attribution.",
+      "keyTerms": [
+        {
+          "term": "קַמַּאי קַמַּאי אֲזַלוּ",
+          "meaning": "the first ones are gone"
+        },
+        {
+          "term": "הָנֵי אַחֲרִינֵי נִינְהוּ",
+          "meaning": "these are other ones"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רַב שְׁמַעְיָה בַּר זְעֵירָא: מַאי טַעְמָא?",
+          "english": "And Rav Shemaya bar Ze’eira says: What is the reason?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הוֹאִיל וְשׁוּקֵי יְרוּשָׁלַיִם עֲשׂוּיִן לְהִתְכַּבֵּד בְּכׇל יוֹם.",
+          "english": "Since the markets of Jerusalem are made to be cleaned every day."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַלְמָא אָמְרִינַן קַמָּאֵי קַמָּאֵי אֲזַלוּ, וְהָנֵי אַחֲרִינֵי נִינְהוּ.",
+          "english": "Apparently we say: first ones first ones went, and these others are they.",
+          "notes": "Refers to the assumption that earlier coins were already collected by cleaners."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכָא נָמֵי: קַמָּא קַמָּא אֲזַל, וְהָנֵי דְּבָתְרָא הוּא!",
+          "english": "Here too: first one first one went, and these of after is!",
+          "notes": "Applying the same logic to items found in a rented house."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רַב שְׁמַעְיָא בַר זְעֵירָא: מַאי טַעְמָא? הוֹאִיל וְשׁוּקֵי יְרוּשָׁלַיִם עֲשׂוּיִן לְהִתְכַּבֵּד בְּכָל יוֹם. אַלְמָא אָמְרִינַן קַמַּאי קַמַּאי אֲזַלוּ, וְהָנֵי אַחֲרִינֵי נִינְהוּ. הָכָא נָמֵי: קַמַּי קַמַּי אֲזַל, וְהָנֵי דְּבָתְרָא הוּא!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:9:1",
+            "hebrew": "ואמר רב שמעיה בר זעירא מאי טעם - בירושלים בשעת הרגל מעשר ולא אמרי' מלפני הרגל נפלו כדאמרן בהר הבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the rule of 'first come, first served' applies in ירושלים during the pilgrimage festivals because the markets are swept daily, meaning any money found must have been dropped recently, unlike the הר הבית which is not swept daily due to its cleanliness and the prohibition of entering with shoes."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:9:3",
+            "hebrew": "אלמא - בדבר שעשוי להתכבד אמרי' קמאי קמאי אזלו והני אחריני נינהו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the principle of 'first come, first served' (קמאי קמאי אזלו) is specifically applicable to places that are regularly swept (עשוי להתכבד), ensuring that items found are attributed to the most recent visitors."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:9:4",
+            "hebrew": "הכא נמי - סתם שוכר בית כשהוא יוצא מחפש כל זויותיו ונוטל את שלו ויוצא ונימא האחרונים שכחוהו שאילו הראשונים שכחוהו כבר מצאו האחרונים:",
+            "english": "",
+            "takeaway": "רש״י explains that in the case of a rented house, the outgoing tenant searches the corners and takes their belongings, so any item left behind is attributed to the most recent tenant who forgot it, as previous tenants' items would have been found by subsequent tenants."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:9:1",
+            "hebrew": "עשויין להתכבד בכל יום - וא\"ת והלא אין מתכבדות אלא בשביל שרצים שלא יטמאו הטהרות ולא בשביל המעות ובנדה (דף נו: ושם ד\"ה ש\"מ) מוכח דמבוי דאינה בחזקת בדוקה משרצים אע\"פ שכבדוהו אינו מועיל כיון שלא בדקו משרצים בשעת כיבוד וי\"ל כיון שבודקין משרצים שלא יהא אפילו עצם בכעדשה אי אפשר שלא ימצא מעות אם היו שם:",
+            "english": "",
+            "takeaway": "תוספות addresses the question of why the sweeping of the markets in ירושלים is effective for finding money when it is primarily done to remove impure creatures (שרצים), answering that the thoroughness required to remove even small bones ensures that any money present would also be discovered."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:9:2",
+            "hebrew": "הכא נמי קמא קמא אזיל ליה - וא\"ת ולוקי מתני' כגון שנמצא בגומא שלא נמצא ע\"י כיבוד כדמוכח פ\"ק דפסחים (דף ז ושם) גבי תיבה שנשתמשו בה מעות מעשר וחולין דאע\"ג שכיבד התיבה אזלינן בתר רוב מעות שנשתמשו שם ולא בתר בתרא כשנמצאו בגומא ויש לומר שיש גומא שנבדקת על ידי כיבוד כדאמר פרק דם נדה (נדה נו: ושם ד\"ה בגומא) ויש גומא שהיא עמוקה או סדק שהוא עמוק שאינו נבדק ע\"י כיבוד כי ההיא דפסחים ומתני' דקתני מצא בתוך הבית לא משמע שמצא בסדק עמוק או בגומא עמוקה כל כך שלא יוכל לו למצוא בשעת כיבוד:",
+            "english": "",
+            "takeaway": "תוספות resolves the difficulty of why the Mishnah does not assume the money was found in a deep pit or crack that would not be cleared by sweeping, by distinguishing between pits that are cleared by sweeping and those that are too deep or narrow to be cleared, noting that the Mishnah's phrasing implies a location accessible during the cleaning process."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The house is an inn for three Jews",
+      "stepSummary": "Reish Lakish resolves the challenge by stating that the Mishnah refers to a house used as an inn for three Jews, where the owner despairs due to uncertainty.",
+      "whatsHappening": "The גמרא provides a specific condition that resolves the difficulty. This is a setup line narrowing the scope of the ruling.",
+      "deeperAnalysis": "The resolution is that the house is a פּוּנְדָּק (inn) for three Jews. The owner despairs because he doesn't know which of the three took the item. This distinguishes the case from the יְרוּשָׁלַיִם money proof.",
+      "keyTerms": [
+        {
+          "term": "רֵישׁ לָקִישׁ",
+          "meaning": "Reish Lakish"
+        },
+        {
+          "term": "בַּר קַפָּרָא",
+          "meaning": "Bar Kappara"
+        },
+        {
+          "term": "פּוּנְדָּק",
+          "meaning": "inn"
+        },
+        {
+          "term": "שְׁלֹשָׁה יִשְׂרָאֵל",
+          "meaning": "three Jews"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רֵישׁ לָקִישׁ מִשּׁוּם בַּר קַפָּרָא:",
+          "english": "Reish Lakish said in the name of bar Kappara:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּגוֹן שֶׁעֲשָׂאוֹ פּוּנְדָּק לִשְׁלֹשָׁה יִשְׂרָאֵל.",
+          "english": "Such as when he made it an inn for three Jews."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רֵישׁ לָקִישׁ מִשּׁוּם בַּר קַפָּרָא: כְּגוֹן שֶׁעָשָׂאוֹ פּוּנְדָּק לִשְׁלֹשָׁה יִשְׂרָאֵל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:10:1",
+            "hebrew": "לשלשה ישראל - בבת אחת וכל שכן אם היו עובדי כוכבים ומי שנפל ממנו מיאש דלא ידע ממאן נבעי:",
+            "english": "",
+            "takeaway": "רש״י explains that the three Jews were present simultaneously, and the owner despairs because he does not know from which one the item was taken, a logic that applies even more so if the guests were עובדי כוכבים."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:10:2",
+            "hebrew": "פונדק - מקום שעוברים ושבים לנים לילה אחד ושנים:",
+            "english": "",
+            "takeaway": "רש״י defines פונדק as a place where travelers stay for one or two nights."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "ראיה",
+      "title": "Proof that הלכה follows רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר even with a Jewish majority",
+      "stepSummary": "The Gemara suggests that from Reish Lakish's ruling, we can conclude that the halacha follows Rabbi Shimon ben Elazar even in a place with a Jewish majority.",
+      "whatsHappening": "The גמרא draws a conclusion from the previous ruling. It argues that since רֵישׁ לָקִישׁ says the rule applies to three Jews, the הלכה must follow רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר even in a Jewish majority.",
+      "deeperAnalysis": "The גמרא infers that the ruling applies regardless of the majority's identity. This challenges the assumption that the rule only applies in a gentile majority. It establishes the scope of רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר's opinion.",
+      "keyTerms": [
+        {
+          "term": "שְׁמַע מִינָהּ",
+          "meaning": "learn from it"
+        },
+        {
+          "term": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר",
+          "meaning": "Rabbi Shimon ben Elazar"
+        },
+        {
+          "term": "רֹב יִשְׂרָאֵל",
+          "meaning": "majority of Jews"
+        }
+      ],
+      "whatToRemember": "The proof is on the scope of רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר's ruling.",
+      "confusionAlert": "The גמרא is testing the limits of the ruling.",
+      "whyThisMatters": "It clarifies the halachic status of the ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁמַע מִינַּהּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן",
+          "english": "Hear from it: the halakha is in accordance with Rabbi Shimon ben"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלְעָזָר אֲפִילּוּ בְּרוֹב יִשְׂרָאֵל!",
+          "english": "Elazar, even with a Jewish majority!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁמַע מִינָהּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אַפִּילוּ בְּרֹב יִשְׂרָאֵל!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:11:1",
+            "hebrew": "ואפילו ברוב ישראל - דעביד דמייאש ולא סמיך דליהדרו נהליה דלא מפלגי בין דבר שיש בו סימן לאין בו סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'even with a Jewish majority' implies that Jews are considered to have ייאוש (despair of recovery) and do not rely on the items being returned, as they do not distinguish between items with a סימן and those without."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: The house is an inn for three gentiles",
+      "stepSummary": "The Gemara rejects the proof by suggesting that the Mishnah refers to a house used as an inn for three gentiles, not Jews.",
+      "whatsHappening": "The גמרא provides an alternative explanation that undermines the proof. רַב מְנַשְּׁיָא בַר יַעֲקֹב says the house is an inn for three gentiles.",
+      "deeperAnalysis": "This means the ruling might only apply in a gentile majority, not a Jewish one. It rejects the proof from step 49. The scope of the ruling is narrowed.",
+      "keyTerms": [
+        {
+          "term": "אֶלָּא אָמַר",
+          "meaning": "rather, it is said"
+        },
+        {
+          "term": "רַב מְנַשְּׁיָא בַר יַעֲקֹב",
+          "meaning": "Rav Menashya bar Ya'akov"
+        },
+        {
+          "term": "שְׁלֹשָׁה נָכְרִים",
+          "meaning": "three gentiles"
+        }
+      ],
+      "whatToRemember": "The rejection is on the composition of the inn's guests.",
+      "confusionAlert": "This is a classic 'אֶלָּא אָמַר' rejection.",
+      "whyThisMatters": "It clarifies the scope of the ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רַב מְנַשְּׁיָא בַּר יַעֲקֹב:",
+          "english": "But Rav Menashya bar Yaakov said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּגוֹן שֶׁעֲשָׂאוֹ פּוּנְדָּק לִשְׁלֹשָׁה נָכְרִים.",
+          "english": "Like he made it an inn for three non-Jews."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אָמַר רַב מְנַשְּׁיָא בַר יַעֲקֹב: כְּגוֹן שֶׁעָשָׂאוֹ פּוּנְדָּק לִשְׁלֹשָׁה נָכְרִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        55
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:12:1",
+            "hebrew": "שלשה עובדי כוכבים - איידי דנקט שלשה גבי ישראל נקט נמי גבי עובדי כוכבים וה\"ה חד ובלבד שיהא אחרון:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara mentions three gentiles only to parallel the three Jews mentioned earlier, but the ruling would apply even with one gentile as long as he is the last one."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:12:1",
+            "hebrew": "לשלשה עובדי כוכבים - בפחות משלשה לא מקרי רוב ומיירי שעדיין ישנם בבית דאי לאו הכי הוי דבעל הבית שהוא בתרא:",
+            "english": "",
+            "takeaway": "תוספות explains that fewer than three gentiles do not constitute a רוב, and the case assumes the gentiles are still in the house, otherwise the owner would be considered the last one."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י and תוספות disagree on the significance of the number three: רש״י says it is merely a parallel to the Jewish case and one gentile suffices, while תוספות maintains that three are required to establish a רוב."
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The owner despairs because the guests didn't return the item",
+      "stepSummary": "Rav Nachman resolves the difficulty by stating that the owner despairs because the guests didn't return the item when asked, indicating their intent to steal.",
+      "whatsHappening": "The גמרא provides a new resolution that saves the ruling even for three Jews. רַב נַחְמָן says that even if it's three Jews, the owner despairs because he asked them to return the item and they didn't.",
+      "deeperAnalysis": "This indicates their intent to steal, thus justifying the finder's ownership. It distinguishes the case from the previous ruling. The guests' failure to return the item is the key factor.",
+      "keyTerms": [
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Nachman"
+        },
+        {
+          "term": "רַבָּה בַר אֲבוּהּ",
+          "meaning": "Rabba bar Avuh"
+        },
+        {
+          "term": "אֲפִילוּ תֵּימָא",
+          "meaning": "even if you say"
+        },
+        {
+          "term": "מִיָּאֵשׁ",
+          "meaning": "despairs"
+        },
+        {
+          "term": "לִיגְזְלָהּ",
+          "meaning": "to steal it"
+        }
+      ],
+      "whatToRemember": "The guests' failure to return the item is the key factor.",
+      "confusionAlert": "This is a classic 'אֲפִילוּ תֵּימָא' resolution.",
+      "whyThisMatters": "It clarifies the reason for despair.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב נַחְמָן אָמַר רַבָּה בַּר אֲבוּהּ:",
+          "english": "Rav Naḥman said that Rabba bar Avuh said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲפִילּוּ תֵּימָא לִשְׁלֹשָׁה יִשְׂרָאֵל, מַאי טַעְמָא?",
+          "english": "Even if you say for three Jews, what is the reason?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָהוּא דִּנְפַל מִינֵּיהּ מִיָּאַשׁ, מֵימָר אָמַר:",
+          "english": "That one from whom it fell despairs, says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִכְּדֵי אִינִישׁ אַחֲרִינָא לָא הֲוָה בַּהֲדַי אֶלָּא הָנֵי,",
+          "english": "Since no other person was with me except these two,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַרִי קַמַּיְיהוּ כַּמָּה זִמְנֵי לַיהְדְּרוּ לִי,",
+          "english": "I said before them many times to return it to me,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלָא [אַ]הְדַּרוּ לִי,",
+          "english": "and they did not return it to me,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְהַשְׁתָּא לַיהְדְּרוּ? !",
+          "english": "and now they will return it?!"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אִי דַּעְתַּיְיהוּ לְאַהְדּוֹרַהּ אַהְדְּרוּהָ נִיהֲלִי,",
+          "english": "If their intention was to return it, they would have returned it to me,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְהַאי דְּלָא אַהְדְּרוּהָ לִי בְּדַעְתַּיְיהוּ לְמִיגְזְלַהּ.",
+          "english": "and this that they did not return it to me, their intention is to rob…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב נַחְמָן אָמַר רַבָּה בַר אֲבוּהּ: אַפִּילוּ תֵּימָא לִשְׁלֹשָׁה יִשְׂרָאֵל, מַאי טַעְמָא? הָהוּא דִּנְפַל מִינֵיהּ מִיָּאֵשׁ, מֵימָר אָמַר: מִכְדֵי אִינִישׁ אַחֲרִינָא לָא הֲוָה בַהֲדַי אֶלָּא הָנֵי, אֲמַרִי קַמַיְיהוּ כַמָּה זִמְנֵי לַיהְדְּרוּ לִי, וְלָא [אַ]הְדַּרוּ לִי, וְהַשְׁתָּא לַיהְדְּרוּ?! אִי דַעְתַּיְיהוּ לְאַהְדוֹרַהּ אַהְדְּרוּהָ נִיהַלִי, וְהַאי דְּלָא אַהְדְּרוּהָ לִי בְּדַעְתַּיְיהוּ לְמִיגְזְלָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 26a:13:1",
+            "hebrew": "אפילו תימא לשלשה ישראל - ולא תפשוט דהלכה כרשב\"א דכי פליגי רבנן עליה היכא דנפלה במקום שהרבים מצויין דלא ידע להו לכולהו דסבר האובד ומימר אמר ההוא דאשכח לא ידע ממי נפלה ולכשיגיע הרגל יכריז עליה ואתן סימן ואטול אבל הכא דידע להו לכולהו ותבענהו ולא אודו איאושי מיאוש מימר אמר כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the owner despairs because he knew all the guests and demanded the item back, but they did not admit to having it, leading him to conclude that the one who found it did not know who it belonged to and would announce it when the owner's foot arrived, but since they didn't return it, he despairs."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 26a:13:1",
+            "hebrew": "אפילו תימא לשלשה ישראל - מלתיה דבר קפרא מפרש דאמר לשלשה בני אדם מיירי אפי' בשלשה ישראל ואפילו רבנן דאמרי ברוב ישראל חייב להכריז הכא הוי שלו כדמפ' דמתיאש וא\"ת ולמה לי שלשה בתרי ובעל הבית סגי דכל אחד יאמר חבירו לקחה כדאמר בסמוך גבי ראה סלע שנפלה משלשה וי\"ל דלא סגי בפחות משלשה דאימר דמאחד מן השוכרים אבד והם אינם חושדים את בעל הבית ולכך אין האובד מתיאש דסבור ודאי חבירו לקחה ויחזירנו לו (ועי\"ל דבעי לאוקמי אפילו אין בעל הבית עמהם):",
+            "english": "",
+            "takeaway": "תוספות explains that Rav Nachman's statement clarifies Bar Kapara's ruling that even with three Jews, the owner despairs, and answers why three are needed instead of two, because with two, the owner might think one of the guests took it and would return it, so he doesn't despair."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from רַב נַחְמָן's ruling on two people",
+      "stepSummary": "The Gemara brings a proof from Rav Nachman's ruling that if a coin falls from one of two people, the finder must return it, as the owner doesn't despair.",
+      "whatsHappening": "The גמרא cites a parallel case to support רַב נַחְמָן's reasoning. רַב נַחְמָן rules that if a coin falls from one of two people, the finder must return it because the owner doesn't despair.",
+      "deeperAnalysis": "This supports the idea that despair depends on the number of people present. It clarifies the principle of despair. The proof is on the number of people present.",
+      "keyTerms": [
+        {
+          "term": "וְאַזְדָּא",
+          "meaning": "and he follows"
+        },
+        {
+          "term": "רָאָה סֶלַע שֶׁנָּפַל מִשְּׁנַיִם",
+          "meaning": "saw a sela that fell from two"
+        },
+        {
+          "term": "חַיָּב לְהַחְזִיר",
+          "meaning": "obligated to return"
+        },
+        {
+          "term": "בִּשְׁלֹשָׁה אֵינוֹ חַיָּב לְהַחְזִיר",
+          "meaning": "with three, he is not obligated to return"
+        }
+      ],
+      "whatToRemember": "The proof is on the number of people present.",
+      "confusionAlert": "The גמרא is using a parallel case to support the ruling.",
+      "whyThisMatters": "It clarifies the principle of despair.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַזְדָּא רַב נַחְמָן לְטַעְמֵיהּ,",
+          "english": "And Rav Naḥman follows his own reasoning,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַב נַחְמָן:",
+          "english": "as Rav Naḥman says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רָאָה סֶלַע שֶׁנָּפַל מִשְּׁנַיִם חַיָּיב לְהַחְזִיר.",
+          "english": "One who saw a sela that fell from two people is obligated to return it."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מַאי טַעְמָא? הָהוּא דִּנְפַל מִינֵּיהּ לָא מִיָּאַשׁ,",
+          "english": "What is the reason? That one from whom it fell does not despair,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מֵימָר אָמַר:",
+          "english": "He says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִכְּדֵי אִינִישׁ אַחֲרִינָא לָא הֲוָה בַּהֲדַאי אֶלָּא הַאי,",
+          "english": "Since no other person was with me except these,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נָקֵיטְנָא לֵיהּ וְאָמֵינָא לֵיהּ:",
+          "english": "I will take him and say to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַנְתְּ הוּא דִּשְׁקַלְתֵּיהּ.",
+          "english": "You are the one who took it."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בִּשְׁלֹשָׁה אֵינוֹ חַיָּיב לְהַחְזִיר. מַאי טַעְמָא?",
+          "english": "With three, he is not obligated to return it. What is the reason?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הָהוּא דִּנְפַל מִינֵּיהּ וַדַּאי מִיָּאַשׁ,",
+          "english": "That one from whom it fell certainly despairs,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "מֵימָר אָמַר: מִכְּדֵי תְּרֵי הֲווֹ בַּהֲדַאי,",
+          "english": "He says: Since two were with me,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אִי נָקֵיטְנָא לְהַאי אָמַר: ״לָא שְׁקַלְתֵּיהּ״,",
+          "english": "If I take this one, he says: 'I did not take it,'"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְאִי נָקֵיטְנָא לְהַאי אָמַר: ״לָא שְׁקַלְתֵּיהּ״.",
+          "english": "And if I take this one, he says: 'I did not take it.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאַזְדָּא רַב נַחְמָן לְטַעְמֵיהּ, דְּאָמַר רַב נַחְמָן: רָאָה סֶלַע שֶׁנָּפַל מִשְּׁנַיִם חַיָּב לְהַחְזִיר. מַאי טַעְמָא? הָהוּא דִּנְפַל מִינֵיהּ לָא מִיָּאֵשׁ, מֵימָר אָמַר: מִכְדֵי אִינִישׁ אַחֲרִינָא לָא הֲוָה בַהֲדַאי אֶלָּא הַאי, נָקֵיטְנָא לֵיהּ וְאָמֵינָא לֵיהּ: אַנְתְּ הוּא דִּשְׁקַלְתֵּיהּ. בִּשְׁלֹשָׁה אֵינוֹ חַיָּב לְהַחְזִיר. מַאי טַעְמָא? הָהוּא דִּנְפַל מִינֵיהּ וַדַּאי מִיָּאֵשׁ, מֵימָר אָמַר: מִכְדֵי תְּרֵי הֲווֹ בַהֲדַאי, אִי נָקֵיטְנָא לְהַאי אָמַר: ״לָא שְׁקַלְתֵּיהּ״, וְאִי נָקֵיטְנָא לְהַאי אָמַר: ״לָא שְׁקַלְתֵּיהּ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T12:25:42.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 93.17007280001417,
+      "structure": 1906.2221333000925,
+      "translate": 451.69545699987793,
+      "meforshim": 1530.9122582998825,
+      "teaching": 997.9846996999695
+    }
+  }
+}

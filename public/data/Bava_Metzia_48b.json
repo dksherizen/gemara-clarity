@@ -1,0 +1,1000 @@
+{
+  "ref": "Bava Metzia 48b",
+  "masechet": "Bava_Metzia",
+  "daf": 48,
+  "amud": "b",
+  "mainTopic": "(continues) ערבון כנגדו או כנגד כולו · משכון בשמיטה",
+  "overview": "(1) The Gemara discusses the acquisition via deposit (eravon), debating whether it acquires the entire item or only the value of the deposit, citing Rav and Rabbi Yochanan. (2) The Gemara applies the dispute over eravon to the case of a pledge (mashkon) during the Sabbatical year, analyzing the opinions of Rabbi Shimon ben Gamliel and Rabbi Yehuda HaNasi. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 5,
+      "topic": "(continues) ערבון כנגדו או כנגד כולו",
+      "gist": "The Gemara discusses the acquisition via deposit (eravon), debating whether it acquires the entire item or only the value of the deposit, citing Rav and Rabbi Yochanan.",
+      "openingFormula": "וכן אמר רב נחמן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 5
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 6,
+      "endLine": 11,
+      "topic": "משכון בשמיטה",
+      "gist": "The Gemara applies the dispute over eravon to the case of a pledge (mashkon) during the Sabbatical year, analyzing the opinions of Rabbi Shimon ben Gamliel and Rabbi Yehuda HaNasi. — discussion continues into next amud.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 6,
+      "lastStepNumber": 10
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to רֵישׁ לָקִישׁ",
+      "stepSummary": "The Gemara notes that this ruling contradicts the position of רֵישׁ לָקִישׁ.",
+      "whatsHappening": "A difficulty is raised against רֵישׁ לָקִישׁ. The ברייתא proving מָעוֹת קוֹנוֹת דְּבַר תּוֹרָה is problematic for him.",
+      "deeperAnalysis": "The resolution is that the ברייתא follows רַבִּי שִׁמְעוֹן, who holds מָעוֹת קוֹנוֹת. This clarifies the dispute is about Torah law, not Rabbinic law.",
+      "keyTerms": [
+        {
+          "term": "רֵישׁ לָקִישׁ",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "רַבִּי שִׁמְעוֹן",
+          "meaning": "Tannaitic sage"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא קַשְׁיָא לְרֵישׁ לָקִישׁ!",
+          "english": "But it is difficult for Reish Lakish!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר לָךְ רֵישׁ לָקִישׁ:",
+          "english": "Reish Lakish says to you:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא מַנִּי רַבִּי שִׁמְעוֹן הִיא.",
+          "english": "This is Rabbi Shimon's opinion."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא קַשְׁיָא לְרֵישׁ לָקִישׁ! אָמַר לָךְ רֵישׁ לָקִישׁ: הָא מַנִּי רַבִּי שִׁמְעוֹן הִיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:1:1",
+            "hebrew": "אלא קשיא - הך מתני' דלוי לריש לקיש:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the difficulty raised against ריש לקיש stems from the משנה of לוי."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:1:2",
+            "hebrew": "ר' שמעון היא - דאמר במתני' לוקח לא מצי הדר ביה דקסבר מעות קונות:",
+            "english": "",
+            "takeaway": "רש״י explains that the ברייתא follows רבי שמעון, who holds that מעות קונות, thereby preventing the buyer from retracting."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Dispute: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ vs. מֵילָט לָיְיטִינַן לֵיהּ",
+      "stepSummary": "The Gemara introduces a dispute between אַבָּיֵי and רָבָא regarding the punishment for reneging on a transaction.",
+      "whatsHappening": "A new dispute is introduced regarding the punishment for one who reneges on a transaction. אַבָּיֵי holds we inform him, while רָבָא holds we curse him.",
+      "deeperAnalysis": "The Mishna teaches that one who reneges is punished. The Gemara introduces the dispute between אַבָּיֵי and רָבָא on the nature of this punishment.",
+      "keyTerms": [
+        {
+          "term": "אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ",
+          "meaning": "we inform him"
+        },
+        {
+          "term": "מֵילָט לָיְיטִינַן לֵיהּ",
+          "meaning": "we curse him"
+        },
+        {
+          "term": "מֵילָט",
+          "meaning": "curse/punishment of the generation of the flood"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲבָל אָמְרוּ מִי שֶׁפָּרַע וְכוּ׳.",
+          "english": "But they said: He who exacted payment, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִיתְּמַר, אַבָּיֵי אָמַר: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ.",
+          "english": "It was stated: Abaye said: We inform him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רָבָא אָמַר: מֵילָט לָיְיטִינַן לֵיהּ.",
+          "english": "Rava said: We curse him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲבָל אָמְרוּ מִי שֶׁפָּרַע וְכוּ׳. אִיתְּמַר, אַבָּיֵי אָמַר: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ. רָבָא אָמַר: מֵילָט לָיְיטִינַן לֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:2:1",
+            "hebrew": "מודעינן ליה - דע שאם תחזור סופך להפרע ממך:",
+            "english": "",
+            "takeaway": "רש״י explains that אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ means informing the reneger that if he persists in reneging, he will ultimately be forced to pay."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Sources for the dispute",
+      "stepSummary": "The Gemara provides the scriptural sources for the positions of אַבָּיֵי and רָבָא.",
+      "whatsHappening": "The גמרא elaborates on the dispute by providing the scriptural sources. Both derive from 'וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר'.",
+      "deeperAnalysis": "אַבָּיֵי prohibits cursing any Jew. רָבָא interprets 'בְעַמְּךָ' to exclude one who reneges, as he does not act like a proper member of the community.",
+      "keyTerms": [
+        {
+          "term": "וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר",
+          "meaning": "nor curse a ruler among your people"
+        },
+        {
+          "term": "בְעַמְּךָ",
+          "meaning": "among your people"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַבָּיֵי אָמַר: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ,",
+          "english": "Abaye said: We inform him,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּכְתִיב: ״וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר״.",
+          "english": "for it is written: \"Nor curse a ruler among your people.\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רָבָא אָמַר: מֵילָט לָיְיטִינַן לֵיהּ,",
+          "english": "Rava said: We curse him,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּכְתִיב: ״בְּעַמְּךָ״ –",
+          "english": "for it is written: \"Among your people\" –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּעוֹשֶׂה מַעֲשֵׂה עַמְּךָ.",
+          "english": "one who does the deed of your people.",
+          "notes": "The prohibition against cursing applies only to those who act like members of the Jewish people."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אַבָּיֵי אָמַר: אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ, דִּכְתִיב: ״וְנָשִׂיא בְעַמְּךָ לֹא תָאֹר״. רָבָא אָמַר: מֵילָט לָיְיטִינַן לֵיהּ, דִּכְתִיב: ״בְּעַמְּךָ״ – בְּעוֹשֶׂה מַעֲשֵׂה עַמְּךָ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:3:1",
+            "hebrew": "בעושה מעשה עמך - בעמך דרשינן הכי והאי לאו עושה מעשה עמך הוא דכתיב (צפניה ג׳:י״ג) שארית ישראל לא יעשו עולה ולא ידברו כזב:",
+            "english": "",
+            "takeaway": "רש״י explains that רָבָא's derivation from 'בְעַמְּךָ' relies on the principle that one who does not perform the deeds of the people (as defined by צפניה ג:יג as not committing iniquity or speaking falsely) is excluded from the prohibition of cursing."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48b:3:1",
+            "hebrew": "בעושה מעשה עמך - לא מקרי האי אינו עושה מעשה עמך לענין שיהיה מותר לקללו בחנם כי אם לקללו על המקח הזה במי שפרע:",
+            "english": "",
+            "takeaway": "תוספות clarifies that רָבָא's exclusion of the reneging buyer from 'עושה מעשה עמך' only permits cursing him specifically regarding the transaction dispute, not cursing him gratuitously."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות limits the scope of רָבָא's ruling, specifying that the exemption from the prohibition of cursing applies only to cursing related to the transaction, whereas רש״י focuses on the scriptural definition of 'מעשה עמך' based on צפניה."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "ראיה",
+      "title": "רָבָא's proof from רַבִּי חִיָּיא בַּר יוֹסֵף",
+      "stepSummary": "רָבָא provides a proof for his position from an incident involving רַבִּי חִיָּיא בַּר יוֹסֵף.",
+      "whatsHappening": "רָבָא cites an incident to support his position. רַבִּי חִיָּיא בַּר יוֹסֵף tried to renege on a salt purchase, and רַבִּי יוֹחָנָן told him to accept מִי שֶׁפָּרַע.",
+      "deeperAnalysis": "רָבָא argues that if we only inform him, רַבִּי חִיָּיא בַּר יוֹסֵף would not need to be informed as a sage. Therefore, the punishment must be cursing.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי חִיָּיא בַּר יוֹסֵף",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "מִי שֶׁפָּרַע",
+          "meaning": "He Who exacted payment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא, מְנָא אָמֵינָא לַהּ?",
+          "english": "Rava said: From where do we say it?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּרַבִּי חִיָּיא בַּר יוֹסֵף יְהַבוּ לֵיהּ זוּזֵי אַמִּלְחָא.",
+          "english": "Rabbi Ḥiyya bar Yosef they gave him coins on condition."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְסוֹף אִיַּיקַּר מִלְחָא.",
+          "english": "At the end salt was expensive."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַבִּי יוֹחָנָן,",
+          "english": "He came before Rabbi Yoḥanan,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: זִיל הַב לְהוּ,",
+          "english": "He said to him: Go give to them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְאִי לָא –",
+          "english": "And if not –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "קַבֵּיל עֲלָיךְ ״מִי שֶׁפָּרַע״.",
+          "english": "Accept upon yourself 'He Who exacted payment'."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאִי אָמְרַתְּ אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ,",
+          "english": "And if you say we inform him,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "רַבִּי חִיָּיא בַּר יוֹסֵף בַּר אוֹדוֹעֵי הוּא.",
+          "english": "Rabbi Ḥiyya bar Yosef is one who is informed."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְאֶלָּא מַאי – מֵילָט לָיְיטִינַן לֵיהּ?",
+          "english": "And rather what – we curse him?"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "רַבִּי חִיָּיא בַּר יוֹסֵף אָתֵי לְקַבּוֹלֵי",
+          "english": "Rabbi Ḥiyya bar Yosef comes to accept"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "עֲלֵיהּ לָטוּתָא דְרַבָּנַן? !",
+          "english": "Upon himself a curse of the Sages?!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא, מְנָא אָמֵינָא לַהּ? דְּרַבִּי חִיָּיא בַּר יוֹסֵף יְהַבוּ לֵיהּ זוּזֵי אַמִּלְחָא. לְסוֹף אִיַּיקַּר מִלְחָא. אֲתָא לְקַמֵּיהּ דְּרַבִּי יוֹחָנָן, אֲמַר לֵיהּ: זִיל הַב לְהוּ, וְאִי לָא – קַבֵּיל עֲלָיךְ ״מִי שֶׁפָּרַע״. וְאִי אָמְרַתְּ אוֹדוֹעֵי מוֹדְעִינַן לֵיהּ, רַבִּי חִיָּיא בַּר יוֹסֵף בַּר אוֹדוֹעֵי הוּא. וְאֶלָּא מַאי – מֵילָט לָיְיטִינַן לֵיהּ? רַבִּי חִיָּיא בַּר יוֹסֵף אָתֵי לְקַבּוֹלֵי עֲלֵיהּ לָטוּתָא דְרַבָּנַן?!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        55
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:4:1",
+            "hebrew": "אייקר מלחא - ורצה לחזור:",
+            "english": "",
+            "takeaway": "רש״י explains that when the price of salt increased, רַבִּי חִיָּיא בַּר יוֹסֵף wanted to renege on the transaction."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:4:2",
+            "hebrew": "בר אודועי הוא - בתמיה וכי היה צריך להודיעו שהוא נפרע מן השקרנים והלא תלמיד חכם היה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רָבָא's rhetorical question implies that as a תלמיד חכם, רַבִּי חִיָּיא בַּר יוֹסֵף already knew the halakha that one is punished for reneging, so he did not need to be informed."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48b:4:1",
+            "hebrew": "רבי חייא ברבי יוסף בר אודועי הוא - דהיה יודע מתניתין אלא היה רוצה לקבל לטותא קודם שיפסיד היוקרא:",
+            "english": "",
+            "takeaway": "תוספות explains that רַבִּי חִיָּיא בַּר יוֹסֵף, being a sage, knew the Mishnah prohibiting reneging, but he was willing to accept the curse of the Rabbis in order to avoid the financial loss from the price increase."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on רַבִּי חִיָּיא בַּר יוֹסֵף's knowledge of the halakha as a תלמיד חכם, תוספות adds the nuance that he was willing to accept the לטותא דרבנן specifically to avoid the financial loss of the price increase."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection of רָבָא's proof",
+      "stepSummary": "The Gemara rejects רָבָא's proof by suggesting that the money was an ערבון.",
+      "whatsHappening": "The Gemara rejects רָבָא's proof by offering an alternative explanation for the incident. This is a דחיה.",
+      "deeperAnalysis": "The money given to רַבִּי חִיָּיא בַּר יוֹסֵף was an עֵרָבוֹן, a down payment. רַבִּי חִיָּיא בַּר יוֹסֵף held that it effects acquisition only כְּנֶגְדּוֹ, while רַבִּי יוֹחָנָן held it effects acquisition כְּנֶגֶד כּוּלּוֹ. This dispute explains the incident without invoking the punishment of cursing.",
+      "keyTerms": [
+        {
+          "term": "עֵרָבוֹן",
+          "meaning": "down payment"
+        },
+        {
+          "term": "כְּנֶגְדּוֹ",
+          "meaning": "commensurate with its value"
+        },
+        {
+          "term": "כְּנֶגֶד כּוּלּוֹ",
+          "meaning": "commensurate with the entire amount"
+        }
+      ],
+      "whatToRemember": "The dispute is about whether an עֵרָבוֹן acquires the entire item or only the value of the deposit.",
+      "confusionAlert": "The term עֵרָבוֹן refers to a down payment.",
+      "whyThisMatters": "This rejection shifts the focus to the nature of acquisition via עֵרָבוֹן, which is the main topic of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא רַבִּי חִיָּיא בַּר יוֹסֵף עֵרָבוֹן",
+          "english": "Rather, Rabbi Ḥiyya bar Yosef — a down payment"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הוּא דְּיָהֲבִי לֵיהּ.",
+          "english": "He gave it to him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוּא סָבַר: כְּנֶגְדּוֹ הוּא קוֹנֶה.",
+          "english": "He thought: Opposite him he acquires.",
+          "notes": "Opposite him = proportional to the down payment's value"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וַאֲמַר לֵיהּ רַבִּי יוֹחָנָן: כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה.",
+          "english": "And Rabbi Yoḥanan said to him: Opposite all of it he acquires.",
+          "notes": "Opposite all of it = proportional to the entire transaction amount"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא רַבִּי חִיָּיא בַּר יוֹסֵף עֵרָבוֹן הוּא דְּיָהֲבִי לֵיהּ. הוּא סָבַר: כְּנֶגְדּוֹ הוּא קוֹנֶה. וַאֲמַר לֵיהּ רַבִּי יוֹחָנָן: כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_continuation",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:5:1",
+            "hebrew": "ערבון - מקצת המעות נתן לו על פיסוק מרובה:",
+            "english": "",
+            "takeaway": "רש״י defines ערבון as a partial payment given to secure a larger agreed-upon price."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:5:2",
+            "hebrew": "הוא סבר כנגדו הוא קונה - אי מכירת קרקע הוא שנקנית בכסף קונה קנין גמור ואי מכירת מטלטלין הוא קונה כנגדו להתחייב במי שפרע:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי חִיָּיא בַּר יוֹסֵף's view of כְּנֶגְדּוֹ means that if it were real estate, the money would effect full acquisition, but since it is movable property, the money only acquires the item to the extent of its value to create a monetary obligation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute over עֵרָבוֹן",
+      "stepSummary": "The Gemara introduces an amoraic dispute between Rav and רַבִּי יוֹחָנָן regarding whether a down payment acquires only the proportional value or the entire transaction.",
+      "whatsHappening": "The sugya opens with an אִתְּמַר introducing the dispute over עֵרָבוֹן. This is a setup line.",
+      "deeperAnalysis": "רַב holds כְּנֶגְדּוֹ הוּא קוֹנֶה — the down payment acquires only the proportional value. רַבִּי יוֹחָנָן holds כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה — it acquires the entire transaction. This sets up the framework for analyzing the תַּנָּאִים dispute.",
+      "keyTerms": [
+        {
+          "term": "עֵרָבוֹן",
+          "meaning": "down payment"
+        },
+        {
+          "term": "כְּנֶגְדּוֹ",
+          "meaning": "commensurate with its value"
+        },
+        {
+          "term": "כְּנֶגֶד כּוּלּוֹ",
+          "meaning": "commensurate with the entire amount"
+        }
+      ],
+      "whatToRemember": "The dispute is about the scope of acquisition via עֵרָבוֹן.",
+      "confusionAlert": "Note the precise phrasing: כְּנֶגְדּוֹ vs כְּנֶגֶד כּוּלּוֹ.",
+      "whyThisMatters": "This dispute underpins the entire sugya's analysis of pledges during שְׁמִיטָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִתְּמַר: עֵרָבוֹן, רַב אוֹמֵר:",
+          "english": "It was stated: A down payment, Rav says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּנֶגְדּוֹ הוּא קוֹנֶה,",
+          "english": "Opposite it he acquires,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר:",
+          "english": "And Rabbi Yoḥanan said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה.",
+          "english": "Opposite all of it he acquires."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִתְּמַר: עֵרָבוֹן, רַב אוֹמֵר: כְּנֶגְדּוֹ הוּא קוֹנֶה, וְרַבִּי יוֹחָנָן אָמַר: כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:6:1",
+            "hebrew": "ור' יוחנן אמר כו' - בקרקע לקנין גמור ובמטלטלין לקבל מי שפרע:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יוחנן's position of כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה applies to real estate for full acquisition, but for movable property it only serves as a receipt for the one who pays."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Objection from the baraita on עֵרָבוֹן",
+      "stepSummary": "The Gemara challenges the amoraic dispute by citing a baraita that discusses the conditions of a down payment and the opinions of רַבִּי יוֹסֵי, רַבִּי יְהוּדָה, and רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.",
+      "whatsHappening": "The Gemara raises a קשיא from a baraita that seems to complicate the amoraic dispute.",
+      "deeperAnalysis": "The baraita discusses a case where both parties agree on conditions for reneging. רַבִּי יוֹסֵי says the conditions are valid because אַסְמַכְתָּא קָנְיָא. רַבִּי יְהוּדָה says the down payment only acquires the proportional value. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל distinguishes between movable property and land, saying that for land, a down payment acquires the entire property even if only partially paid.",
+      "keyTerms": [
+        {
+          "term": "אַסְמַכְתָּא",
+          "meaning": "transaction with inconclusive consent"
+        },
+        {
+          "term": "קַרְקַע",
+          "meaning": "land"
+        },
+        {
+          "term": "מִטַּלְטְלִין",
+          "meaning": "movable property"
+        }
+      ],
+      "whatToRemember": "The baraita introduces a distinction between land and movable property.",
+      "confusionAlert": "Note that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל's statement is about land, not movable property.",
+      "whyThisMatters": "This distinction will be crucial for understanding the dispute over pledges during שְׁמִיטָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: הַנּוֹתֵן עֵרָבוֹן לַחֲבֵירוֹ, וְאָמַר לוֹ:",
+          "english": "The Gemara raises an objection: One who gives a down payment to his fellow, and…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״אִם אֲנִי חוֹזֵר בִּי –",
+          "english": "\"If I renege –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עֶרְבוֹנִי מָחוּל לָךְ״,",
+          "english": "my down payment is forfeited to you,\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהַלָּה אוֹמֵר לוֹ:",
+          "english": "and the other says to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״אִם אֲנִי אֶחְזוֹר בִּי,",
+          "english": "\"If I renege,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶכְפּוֹל לְךָ עֵרְבוֹנְךָ״ –",
+          "english": "I will double your down payment for you\" –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נִתְקַיְּימוּ הַתְּנָאִים, דִּבְרֵי רַבִּי יוֹסֵי.",
+          "english": "the conditions are in effect, the words of Rabbi Yosei."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "רַבִּי יוֹסֵי לְטַעְמֵיהּ, דְּאָמַר: אַסְמַכְתָּא קָנְיָא.",
+          "english": "Rabbi Yosei according to his reasoning, that he says: A transaction with inconclusive consent [asmakhta]…"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: דַּיּוֹ שֶׁיִּקְנֶה כְּנֶגֶד עֵרְבוֹנוֹ.",
+          "english": "Rabbi Yehuda says: It is sufficient that he acquires commensurate with his down payment."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל:",
+          "english": "Rabban Shimon ben Gamliel said:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "בַּמֶּה דְּבָרִים אֲמוּרִים –",
+          "english": "In what case are these words said –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "בִּזְמַן שֶׁאָמַר לוֹ ״עֶרְבוֹנִי יִקּוֹן״.",
+          "english": "when he said to him \"my down payment will effect acquisition.\""
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֲבָל מָכַר לוֹ בַּיִת אוֹ שָׂדֶה בְּאֶלֶף זוּז,",
+          "english": "But if he sold him a house or a field for one thousand dinars,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וּפָרַע לוֹ מֵהֶם חֲמֵשׁ מֵאוֹת זוּז – קָנָה,",
+          "english": "and paid him five hundred dinars of them – he has acquired,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "וּמַחֲזִיר לוֹ אֶת הַשְּׁאָר אֲפִילּוּ לְאַחַר כַּמָּה שָׁנִים.",
+          "english": "and he returns to him the rest even after many years."
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "מַאי לָאו הוּא הַדִּין לְמִטַּלְטְלִין,",
+          "english": "Is it not that this is the law for movable property,"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "(בְּדִסְתָמָא) [דְּבִסְתָמָא] קָנֵי לְהוּ לְכוּלְּהוּ!",
+          "english": "(in an unspecified case) [in an unspecified case] he acquires them for all of them!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי: הַנּוֹתֵן עֵרָבוֹן לַחֲבֵירוֹ...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:7:1",
+            "hebrew": "הנותן ערבון - לא דמי לההיא דלעיל דזה אינו פריעת מקצת מעות שקורין אייר\"ש אלא ערבון ומשכון לקנוס את החוזר בו פרמנינ\"ן בלע\"ז:",
+            "english": "",
+            "takeaway": "רש״י explains that the ערבון in this baraita is not a partial payment (אייר"
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:7:3",
+            "hebrew": "אסמכתא קניא - הבטחת גוזמא שאדם מבטיח את חבירו לסמוך עליו שאם לא יקיים תנאו יתן כך וכך:",
+            "english": "",
+            "takeaway": "רש״י defines אסמכתא as a binding promise of a penalty that a person makes to another to rely on, where failure to fulfill the condition results in a specified payment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:8:1",
+            "hebrew": "דין שיקנה כו' - לא זה ימחול ולא זה יכפול אלא לא זה ולא זה יכולין לחזור מלקיים מן המכירה כנגד הערבון וחוזרים על השאר:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יהודה's ruling means neither party can retract from the sale regarding the value of the ערבון, but they can retract regarding the remainder."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:8:3",
+            "hebrew": "בזמן שאמר לו ערבוני יקון - יקנה שלא נתנה לו בתורת תחילת פירעון והשאר עליו מלוה אלא בתורת שערבון זה יקנה את הכל והא לאו מלתא היא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבן שמעון בן גמליאל's phrase 'ערבוני יקון' means the money was given as a down payment to acquire the entire property, not as a partial payment with the rest as a loan."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:8:4",
+            "hebrew": "אבל מוכר לו כו' - ונותן לו מהן ה' מאות זוז לשם פירעון או סתם קנה כו' וההיא דאיפלגו בה רב ורבי יוחנן כי האי גונא הוא שזה הערבון תחילת הדמים הפירעון של פיסוק כי יהב ליה סתם:",
+            "english": "",
+            "takeaway": "רש״י connects רבן שמעון בן גמליאל's case of partial payment for land to the dispute between רב and רבי יוחנן, where giving money generally (סתם) acquires the entire item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:8:5",
+            "hebrew": "מאי לאו - כי היכי דאמר רשב\"ג בקרקע הקנוי בכסף לגמרי דמכי יהיב ליה מקצת מעות סתם קנה לגמרי והוא הדין למטלטלי הקנוים בכסף לענין מי שפרע בסתמא קני ליה ערבון לכוליה לחייבו במי שפרע:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question 'מאי לאו' asks if the rule that partial payment acquires all of land also applies to movable property, thereby obligating the seller in the law of מי שפרע."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48b:7:1",
+            "hebrew": "אכפול לך ערבונך - אינו אומר שיחזיר לו כפלים במעות דא\"כ למה יקנה המקח לר\"י כנגד ערבונו אלא אומר אכפול לך במקח שיתן לו כפלים מן המקח כנגד המעות שנתן לו ר\"י אומר דיו אם קונה המקח על כרחו של מוכר כנגד מעות שנתן אבל הלוקח אם ירצה לא יקח כי אם מעות כי יאמר איני חפץ במעט מקח:",
+            "english": "",
+            "takeaway": "תוספות explains that 'אכפול לך ערבונך' means the seller must give double the value of the purchase relative to the money given, not double the money itself, because רבי יוסי holds the buyer is forced to acquire the purchase but can choose to just take the money back if he doesn't want a small portion of the goods."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 48b:8:1",
+            "hebrew": "בזמן שא\"ל ערבוני יקון - רשב\"ג מפרש דפליגי ר\"י ורבי יוסי שלא נתן לו אותם מעות בתורת פריעה אבל אם נתן לו אותם מעות בתורת תחילת פריעה קנה ומחזיר השאר לכ\"ע היינו דלא כרב ופרש\"י ערבוני יקון שאמר שיקנה לו ערבונו כנגד כל המקח תימה דהא עדיף מנתן לו בתורת פריעה דקנה הכל כיון שפירש בהדיא שיקנה הכל ואם נפרש ערבוני יקון כנגד ערבונו לבד יקנה לו מן המקח א\"כ לר' יוסי אמאי כופל לו ערבונו לכן י\"ל שלשון ערבוני יקון משמע שערבוני יהיה קנוי לך אם אחזור בי וגם משמע יקון שיהא קונה לו במקח שויו יותר מכדי הערבון אם תחזור בך דהיינו כאילו א\"ל בהדיא תכפול לי ערבוני:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's understanding of 'ערבוני יקון' and suggests it means the ערבון itself will be acquired by the buyer if he retracts, and also implies the seller must double the value of the ערבון in the purchase if the buyer retracts, explaining why רבי יוסי rules the buyer gets double."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges רש״י's interpretation of רבן שמעון בן גמליאל's phrase 'ערבוני יקון', arguing that רש״י's view that it means acquiring the whole purchase is stronger than a simple partial payment, and thus offers an alternative explanation focusing on the acquisition of the ערבון itself and the doubling penalty."
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Movable property vs. land",
+      "stepSummary": "The Gemara resolves the difficulty by explaining that for movable property, a down payment does not acquire the entire item, unlike land.",
+      "whatsHappening": "The Gemara provides a תירוץ to the קשיא from the baraita.",
+      "deeperAnalysis": "The Gemara explains that for movable property, a down payment only acquires the proportional value, not the entire item. This is because movable property is acquired only through a curse (מִי שֶׁפָּרַע), whereas land is genuinely acquired through money. This distinction resolves the apparent contradiction between the amoraic dispute and the baraita.",
+      "keyTerms": [
+        {
+          "term": "מִי שֶׁפָּרַע",
+          "meaning": "He Who exacted payment"
+        },
+        {
+          "term": "קַנְיָן",
+          "meaning": "acquisition"
+        }
+      ],
+      "whatToRemember": "The distinction between land and movable property is key to resolving the קשיא.",
+      "confusionAlert": "Note that the resolution hinges on the nature of acquisition for movable property vs. land.",
+      "whyThisMatters": "This resolution sets the stage for applying the dispute to the case of pledges during שְׁמִיטָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, מִטַּלְטְלִין בִּסְתָמָא לָא קָנֵי.",
+          "english": "No, with regard to movable property in an unspecified case, one does not acquire."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּמַאי שְׁנָא קַרְקַע,",
+          "english": "And what is the difference of land,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּבְכַסְפָּא קָנֵי לֵיהּ מַמָּשׁ –",
+          "english": "that with money one acquires it genuinely –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "קָנֵי לֵיהּ לְכוּלַּהּ.",
+          "english": "one acquires it for all of it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִטַּלְטְלֵי דְּלָא קָנֵי אֶלָּא לְקַבּוֹלֵי ״מִי שֶׁפָּרַע״ –",
+          "english": "Movable property that one acquires only to receive 'He Who exacted payment' –",
+          "notes": "Refers to the curse 'He Who exacted payment' for reneging on a sale."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָא קָנֵי לֵיהּ כּוּלֵּיהּ.",
+          "english": "one does not acquire it for all of it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, מִטַּלְטְלִין בִּסְתָמָא לָא קָנֵי...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:9:1",
+            "hebrew": "ומאי שנא - מטלטלין לענין מי שפרע מקרקע לענין קנין גמור ומשנינן קרקע דיפה כח הכסף בקניינה לקנות לגמרי קנין גמור מלחזור יפה נמי כח מקצת פריעתו לקנות הכל אבל מטלטלין שהורע הכסף בהן דאי פרע הכל לא קני אלא לקבל מי שפרע בסתמא נמי לא קני פרעון מקצת לכולו לקבל מי שפרע על השאר אלא כנגד הערבון:",
+            "english": "",
+            "takeaway": "רש״י explains that land is acquired fully by money (קנין גמור), so a partial payment acquires the whole, whereas movable property is only acquired via a curse (מִי שֶׁפָּרַע), so a partial payment only acquires the proportional value."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:9:2",
+            "hebrew": "לא קני ליה כוליה - לקבל מי שפרע אם נתן לו כנגד ערבונו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that for movable property, the down payment does not acquire the entire item via the curse of מִי שֶׁפָּרַע, but only the value corresponding to the deposit."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Applying the dispute to pledges during שְׁמִיטָה",
+      "stepSummary": "The Gemara suggests that the amoraic dispute parallels a tannaitic dispute regarding whether a pledge prevents the cancellation of a loan during the Sabbatical year.",
+      "whatsHappening": "The Gemara raises a new קשיא by citing a baraita about pledges during שְׁמִיטָה.",
+      "deeperAnalysis": "The baraita states that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל holds that even if the pledge is worth only half the loan, the loan is not canceled. רַבִּי יְהוּדָה הַנָּשִׂיא holds that if the pledge is worth the full loan, it is not canceled, but if not, it is canceled. The Gemara suggests that this tannaitic dispute parallels the amoraic dispute over עֵרָבוֹן.",
+      "keyTerms": [
+        {
+          "term": "שְׁמִיטָה",
+          "meaning": "Sabbatical year"
+        },
+        {
+          "term": "מַשְׁכּוֹן",
+          "meaning": "pledge"
+        },
+        {
+          "term": "מְשַׁמֵּט",
+          "meaning": "cancels the loan"
+        }
+      ],
+      "whatToRemember": "The baraita introduces a dispute about the effect of a pledge on loan cancellation during שְׁמִיטָה.",
+      "confusionAlert": "Note that the dispute is about whether the pledge prevents cancellation, not about the value of the pledge.",
+      "whyThisMatters": "This application of the dispute to שְׁמִיטָה is the core of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לֵימָא כְּתַנָּאֵי: הַמַּלְוֶה אֶת חֲבֵירוֹ עַל הַמַּשְׁכּוֹן,",
+          "english": "Let us say that the Tannaim: One who lends to his friend on collateral,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְנִכְנְסָה הַשְּׁמִיטָּה,",
+          "english": "and the Sabbatical Year entered,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַף עַל פִּי שֶׁאֵינוֹ שָׁוֶה אֶלָּא פְּלָג –",
+          "english": "even though it is worth only half –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵינוֹ מְשַׁמֵּט, דִּבְרֵי רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל.",
+          "english": "it is not cancelled, words of Rabban Shimon ben Gamliel."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבִּי יְהוּדָה הַנָּשִׂיא אוֹמֵר:",
+          "english": "Rabbi Yehuda HaNasi says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִם הָיָה מַשְׁכּוֹן כְּנֶגֶד הַלְוָאָתוֹ –",
+          "english": "If the collateral was against his loan –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵינוֹ מְשַׁמֵּט, וְאִם לָאו – מְשַׁמֵּט.",
+          "english": "it is not cancelled, and if not – it is cancelled."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לֵימָא כְּתַנָּאֵי: הַמַּלְוֶה אֶת חֲבֵירוֹ עַל הַמַּשְׁכּוֹן...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:10:1",
+            "hebrew": "המלוה על המשכון אין שביעית משמטת - דלא קרינא ביה לא יגוש שהרי אינו תובעו כלום:",
+            "english": "",
+            "takeaway": "רש״י explains that a loan secured by a pledge is not canceled by שְׁמִיטָה because the lender does not actively pursue the borrower, thus the prohibition of לֹא יְגֹשֶׁה does not apply."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:10:2",
+            "hebrew": "אלא פלג - חצי החוב:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase אֵינוֹ שָׁוֶה אֶלָּא פְּלַג means the pledge is worth only half of the total debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:10:3",
+            "hebrew": "אינו משמט - לקמן מפרש לה:",
+            "english": "",
+            "takeaway": "רש״י notes that the precise meaning of אֵינוֹ מְשַׁמֵּט in this context will be explained later in the Gemara."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The meaning of 'not canceled'",
+      "stepSummary": "The Gemara resolves the difficulty by explaining that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל holds that the entire loan is not canceled, while רַבִּי יְהוּדָה הַנָּשִׂיא holds that only the uncanceled portion is not canceled.",
+      "whatsHappening": "The Gemara provides a תירוץ to the קשיא from the baraita about שְׁמִיטָה.",
+      "deeperAnalysis": "The Gemara explains that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל's statement that the loan is not canceled means that the entire loan is not canceled, even if the pledge is worth only half. רַבִּי יְהוּדָה הַנָּשִׂיא's statement that the loan is canceled refers only to the portion of the loan not covered by the pledge. This resolves the apparent contradiction between the amoraic dispute and the tannaitic dispute.",
+      "keyTerms": [
+        {
+          "term": "כּוּלּוֹ",
+          "meaning": "the entire loan"
+        },
+        {
+          "term": "פַּלְגָא",
+          "meaning": "half"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the precise meaning of 'not canceled' in the baraita.",
+      "confusionAlert": "Note that the resolution distinguishes between the entire loan and the uncanceled portion.",
+      "whyThisMatters": "This resolution clarifies the parallel between the amoraic and tannaitic disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי ״אֵינוֹ מְשַׁמֵּט״ דְּקָאָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל?",
+          "english": "What is the meaning of 'it does not abrogate' that Rabban Shimon ben Gamliel says?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִילֵּימָא כְּנֶגְדּוֹ, מִכְּלָל דְּרַבִּי יְהוּדָה הַנָּשִׂיא סָבַר:",
+          "english": "If we say it means opposite to it, from the general that Rabbi Yehuda HaNasi holds:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְהָךְ פַּלְגָא נָמֵי מְשַׁמֵּט!",
+          "english": "To that half also it abrogates!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא מַשְׁכּוֹן דְּנָקֵיט לְמָה לֵיהּ?",
+          "english": "But a pledge that he holds, what is it to him?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא לָאו, שְׁמַע מִינֵּיהּ:",
+          "english": "But rather, do we not hear from him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַאי ״אֵינוֹ מְשַׁמֵּט״ דְּקָאָמַר רַבָּן שִׁמְעוֹן",
+          "english": "What is the meaning of 'it does not abrogate' that Rabban Shimon"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בֶּן גַּמְלִיאֵל –",
+          "english": "ben Gamliel –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵינוֹ מְשַׁמֵּט בְּכוּלּוֹ,",
+          "english": "It does not abrogate in its entirety,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּמַאי ״מְשַׁמֵּט״ דְּקָאָמַר רַבִּי יְהוּדָה הַנָּשִׂיא –",
+          "english": "And what is the meaning of 'it abrogates' that Rabbi Yehuda HaNasi says –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לְהָךְ פַּלְגָא דְּלָא נָקֵיט עֲלֵיהּ מַשְׁכּוֹן.",
+          "english": "To that half that he did not hold a pledge upon it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי ״אֵינוֹ מְשַׁמֵּט״ דְּקָאָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        61
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:11:1",
+            "hebrew": "אילימא - דאינו משמט כנגד חצי החוב שהוא תופס משכון עליו אינו משמט אבל משמט הוא השאר:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's initial assumption is that רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל means the portion of the debt secured by the pledge is not canceled, while the remainder is canceled."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 48b:11:2",
+            "hebrew": "מכלל דר' יהודה הנשיא - אתא למימר דכיון דאינו משכונו כנגד הלוואתו משמט כל החוב בתמיה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara infers from רַבִּי יְהוּדָה הַנָּשִׂיא's position that he believes the entire debt is canceled when the pledge does not cover the full loan amount."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T02:59:23.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.84413090004819,
+      "structure": 2191.5508721000515,
+      "validate": 340.1751865003025,
+      "translate": 493.0403166002361,
+      "meforshim": 1169.7779034001287,
+      "teaching": 1159.4766949000768
+    }
+  }
+}

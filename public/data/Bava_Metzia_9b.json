@@ -1,0 +1,1184 @@
+{
+  "ref": "Bava Metzia 9b",
+  "masechet": "Bava_Metzia",
+  "daf": 9,
+  "amud": "b",
+  "mainTopic": "האם חצר מהלכת קונה · מציאת רוכב על בהמה וזכייה לעני",
+  "overview": "(1) The Gemara discusses whether a moving courtyard, such as a ship or a woman, can acquire objects for its owner, resolving the issue by distinguishing between the movement of the vessel and the object. (2) The Mishnah discusses a rider finding an object, and the Gemara analyzes the dispute between Rabbi Eliezer and the Chachamim regarding zechiah for the poor, focusing on the principle of miggo and the status of a worker's acquisition. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 8,
+      "topic": "האם חצר מהלכת קונה",
+      "gist": "The Gemara discusses whether a moving courtyard, such as a ship or a woman, can acquire objects for its owner, resolving the issue by distinguishing between the movement of the vessel and the object.",
+      "openingFormula": "וְאִי רְשׁוּת הָרַבִּים הוּא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 9,
+      "endLine": 15,
+      "topic": "מציאת רוכב על בהמה וזכייה לעני",
+      "gist": "The Mishnah discusses a rider finding an object, and the Gemara analyzes the dispute between Rabbi Eliezer and the Chachamim regarding zechiah for the poor, focusing on the principle of miggo and the status of a worker's acquisition. — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳ הָיָה רוֹכֵב עַל גַּבֵּי בְּהֵמָה",
+      "firstStepNumber": 9,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Opening Mishnah: Acquisition in Public Domain",
+      "stepSummary": "The Mishnah lists conditions under which riding an animal in the public domain effects acquisition.",
+      "whatsHappening": "The Mishnah establishes the baseline rules for acquisition via an animal in a public domain. It defines when riding an animal constitutes a valid act of acquisition depending on the rider's status.",
+      "deeperAnalysis": "The Mishnah sets the legal backdrop by defining when riding an animal constitutes a valid act of acquisition in a public domain. This provides the foundation for the subsequent discussion on whether a moving entity can function as a courtyard.",
+      "keyTerms": [
+        {
+          "term": "רְשׁוּת הָרַבִּים",
+          "meaning": "Public domain"
+        },
+        {
+          "term": "קָנָה",
+          "meaning": "He acquires"
+        },
+        {
+          "term": "אָדָם חָשׁוּב",
+          "meaning": "Important person"
+        },
+        {
+          "term": "אִינִישׁ זִילָא",
+          "meaning": "Detestable person"
+        }
+      ],
+      "whatToRemember": "The Mishnah establishes that acquisition via an animal in a public domain depends on social norms.",
+      "whyThisMatters": "It establishes the baseline for what constitutes a valid act of acquisition in a public domain, which the Gemara will now test with a moving courtyard.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִי רְשׁוּת הָרַבִּים הוּא – קָנֵי,",
+          "english": "And if it is a public domain – he acquires"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאִי אָדָם חָשׁוּב הוּא –",
+          "english": "And if he is an important person –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קָנֵי, וְאִי אִשָּׁה הִיא – קָנְיָא,",
+          "english": "He acquires, and if she is a woman – she acquires"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאִי אִינִישׁ זִילָא הוּא – קָנֵי.",
+          "english": "And if he is a detestable person – he acquires."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִי רְשׁוּת הָרַבִּים הוּא",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:1:1",
+            "hebrew": "ואי רשות הרבים הוא קני - בעיר דדרך לרכוב שם ולא להנהיג פן יפסקו עוברי דרכים בינו לבין בהמתו:",
+            "english": "",
+            "takeaway": "רש״י explains that in a רשות הרבים, riding constitutes קניין because it is the customary way to travel there, avoiding the obstruction of passersby that would occur if one led the animal by hand."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:1:2",
+            "hebrew": "ואי אדם חשוב הוא - אין דרכו להנהיג בהמה ברגליו ודרך כבוד לרכוב עליה אף בסמטא שאין בני אדם שם וכן אשה שאין בה כח לאחוז הבהמה פן תינתק הימנה:",
+            "english": "",
+            "takeaway": "רש״י explains that an אדם חשוב acquires by riding even in a less public area because it is customary for him to ride for honor, and similarly an אשה acquires by riding because she lacks the strength to lead the animal by hand."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:1:3",
+            "hebrew": "ואי איניש זילא הוא קני - שדרכו לרכוב לפני כל אף בלא דוחק לפי שאינו צנוע אבל אדם בינוני כגון שאינו חשוב בעושר ואינו בוש להוליך בהמה ברגליו אין דרכו לרכוב בסמטא בעיר משום צניעות:",
+            "english": "",
+            "takeaway": "רש״י explains that an איניש זילא acquires by riding because he is not צנוע and rides even without necessity, whereas an אדם בינוני does not acquire by riding in a city's alley due to צניעות."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "Rabbi Elazar's Dilemma: Pulling an Animal to Acquire Vessels",
+      "stepSummary": "Rabbi Elazar raises a dilemma about whether pulling an animal can acquire vessels placed upon it.",
+      "whatsHappening": "Rabbi Elazar poses a new question regarding the mechanics of acquisition via a moving animal. The Gemara shifts from the Mishnah's general rules to a specific technical dilemma.",
+      "deeperAnalysis": "The Gemara introduces a specific technical dilemma: if one instructs another to pull an animal to acquire vessels on it, does the act of pulling effect acquisition? This introduces the concept of a moving courtyard.",
+      "keyTerms": [
+        {
+          "term": "בָּעֵי",
+          "meaning": "Raises a dilemma"
+        },
+        {
+          "term": "מְשׁוֹךְ",
+          "meaning": "Pull (act of acquisition)"
+        },
+        {
+          "term": "כֵּלִים",
+          "meaning": "Vessels"
+        }
+      ],
+      "whatToRemember": "The core dilemma is whether a moving entity can function as a courtyard to acquire items placed on it.",
+      "whyThisMatters": "It introduces the central legal concept of the sugya: חצר מהלכת.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בָּעֵי רַבִּי אֶלְעָזָר:",
+          "english": "Rabbi Elazar raises a dilemma:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָאוֹמֵר לַחֲבֵירוֹ ״מְשׁוֹךְ בְּהֵמָה זוֹ לִקְנוֹת כֵּלִים שֶׁעָלֶיהָ״,",
+          "english": "One who says to his friend, \"Pull this animal to acquire the vessels upon it,\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַהוּ?",
+          "english": "What is the law?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בָּעֵי רַבִּי אֶלְעָזָר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:2:1",
+            "hebrew": "משוך בהמה זו על מנת לקנות כלים שעליה - במקח וממכר ומוכר לו את הכלים ולא את הבהמה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the scenario involves a sale of the vessels (מקח וממכר) where the seller is selling only the vessels and not the animal itself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תשובה",
+      "title": "Clarifying the Dilemma: Explicit Instruction to Acquire",
+      "stepSummary": "The Gemara clarifies that the dilemma assumes the seller explicitly instructed the buyer to acquire the vessels.",
+      "whatsHappening": "The Gemara refines the parameters of Rabbi Elazar's dilemma to ensure it is legally coherent. It clarifies that acquisition requires the seller's explicit instruction.",
+      "deeperAnalysis": "The Gemara notes that acquisition requires the seller's explicit instruction. Without this, the act of pulling is meaningless for acquisition. Thus, the dilemma is specifically about whether the act of pulling is sufficient given the explicit instruction.",
+      "keyTerms": [
+        {
+          "term": "קְנֵי",
+          "meaning": "Acquire (imperative)"
+        },
+        {
+          "term": "מַהוּ",
+          "meaning": "What is the law?"
+        }
+      ],
+      "whatToRemember": "The dilemma assumes the seller said 'קני', so the question is purely about the efficacy of the act of pulling.",
+      "whyThisMatters": "It ensures the legal framework is correct before proceeding to the substantive answer.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לִקְנוֹת: מִי אֲמַר לֵיהּ קְנֵי!",
+          "english": "To acquire: Did he say to him: Acquire!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא: ״מְשׁוֹךְ בְּהֵמָה זוֹ וּקְנֵי כֵּלִים שֶׁעָלֶיהָ״, מַהוּ?",
+          "english": "Rather: \"Pull this animal and acquire the vessels upon it,\" what is the law?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִי מַהְנְיָא מְשִׁיכָה דִּבְהֵמָה לְאַקְנוֹיֵי כֵּלִים, אוֹ לָא?",
+          "english": "Does pulling the animal help to acquire the vessels, or not?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לִקְנוֹת: מִי אֲמַר לֵיהּ קְנֵי!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:3:1",
+            "hebrew": "לקנות מי קאמר ליה קני - לקנות משמע אתה התכוין לקנות אני איני מקנה לך:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question 'לקנות' implies the seller explicitly stated 'קני', clarifying that the dilemma hinges on whether the buyer's intent to acquire via the animal's movement is sufficient when the seller has already granted permission to acquire."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 9b:3:1",
+            "hebrew": "משוך בהמה זו וקני כלים שעליה כו' - מבעיא ליה כיון דמשיכת הבהמה שהולכת מעצמה לא שייכא בכלים לא יקנה הכלים אבל אם אמר משוך קופה וקני כלים שבתוכה פשיטא ליה דקני ואם תאמר תפשוט מברייתא דהמוכר את הספינה (ב\"ב דף פה: ושם) דקתני משך חמרין ופועלין לתוך ביתו שניהם יכולין לחזור אלמא דלא קני פירות במשיכת הבהמה וי\"ל דהתם לא אמר ליה קני לכך לא קני [א\"נ התם כשמשך החמרין ולא משך את החמור] והא דקתני בין פסק כו' ה\"ה אפי' פסק ומדד יכולין לחזור אלא משום דסיפא מפליג בין פסק עד שלא מדד ובין מדד עד שלא פסק נקט נמי ברישא האי לישנא וכן צריך לתרץ בסיפא דקתני פרקן והכניסן לתוך ביתו פסק עד שלא מדד אין יכולין לחזור ובעי למפשט מינה התם דכלי של מוכר ברשות לוקח לא קני המוכר שהמקח קיים אלמא הכלי מתבטל אצל הרשות משמע מטעם משיכה אינה קונה לפי שהוא בכליו של מוכר וכי משני התם ומוקי לה ששפכן מכליו של מוכר או במתכלי דתומי משמע שאם היה בכליו של מוכר לא היה קונה אף על פי שהכניסן לתוך ביתו דהיינו משיכה ואמאי והא פשיטא לן במשוך קופה זו וקני כלים שבתוכה קני אלא התם י\"ל משום דלא אמר ליה קני ואינו רוצה שיקנה אלא במשיכת פירות עצמן ועוד מצינו למימר דהתם משמע ליה שלא פסק עד אחר המשיכה ולכך לא קניא במשיכה וא\"ת אמאי נקט משוך בהמה זו ולא נקיט קני אי משום דבקני פשיטא ליה דקני מטעם חצר אע\"פ שהיא מהלכת א\"כ במשוך נמי אמאי מספקא ליה כיון שהשאילה לו הרי היא כאילו היא שלו עד לאחר הקנין ויקנה מטעם חצר וי\"ל דכשא\"ל משוך לא השאיל לו הבהמה לקנות הכלים מטעם חצר אלא במשיכת הבהמה אי נמי אי הוי בעי קני בהמה וכלים והוה מהדר ליה דקני לא היה יכול לידע מזה שבמשיכת הבהמה יקנה הכלים כי שמא מטעם חצר קני ובכפותה ולכך איבעי ליה במשוך:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the dilemma specifically concerns whether pulling an animal that moves on its own acquires the vessels on it, distinguishing this from cases where the seller explicitly says 'קני' or where the vessels are in a container, and addresses potential contradictions from other sugyot by noting differences in explicit instruction or the nature of the acquisition."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Rava's Ruling: A Moving Courtyard Does Not Acquire",
+      "stepSummary": "Rava rules that a moving courtyard does not effect acquisition, so pulling an animal does not acquire vessels on it.",
+      "whatsHappening": "Rava provides a definitive answer to the dilemma, establishing a new legal principle. He rules that a moving courtyard does not effect acquisition.",
+      "deeperAnalysis": "Rava answers that even if the seller explicitly instructs the buyer to acquire both the animal and the vessels, the vessels are not acquired. The reason is that the animal functions as a moving courtyard, and a moving courtyard does not effect acquisition.",
+      "keyTerms": [
+        {
+          "term": "חָצֵר מְהַלֶּכֶת",
+          "meaning": "Moving courtyard"
+        },
+        {
+          "term": "לֹא קָנָה",
+          "meaning": "Does not acquire"
+        }
+      ],
+      "whatToRemember": "The core principle: חצר מהלכת לא קנה.",
+      "whyThisMatters": "It establishes the general rule that a moving entity cannot function as a courtyard for acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא:",
+          "english": "Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי אֲמַר לֵיהּ קְנֵי בְּהֵמָה וּקְנֵי כֵּלִים –",
+          "english": "If he said to him: Acquire the animal and acquire the vessels –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִי קָנֵי כֵּלִים?",
+          "english": "Does he acquire the vessels?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חָצֵר מְהַלֶּכֶת הִיא, וְחָצֵר מְהַלֶּכֶת לֹא קָנָה.",
+          "english": "A courtyard is a moving courtyard, and a moving courtyard does not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:4:1",
+            "hebrew": "מי קני כלים - במשיכה דבהמה עם הבהמה דמדקא מבעיא לך במוכר כלים בלא בהמה מכלל דבמוכר שניהם פשיטא לך דמקני בהמה קני כלים משום תורת חצר דקיימא לן חצרו של אדם קונה לו ובהמתו כחצרו והא חצר מהלכת היא וחצר מהלכת לא שמעינן דתקני דכי אתרבאי (גיטין דף עז.) מאם המצא תמצא בידו גגו חצרו וקרפיפו אתרבאי דלא נייד והוי משתמר:",
+            "english": "",
+            "takeaway": "רש״י explains that the question arises because if one sells vessels without an animal, acquisition is unclear, but if one sells both, it is obvious that the animal acquires the vessels through the law of חצר, yet here the animal is a חצר מהלכת, and we only learned from the verse in גיטין that a stationary חצר acquires, not a moving one."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Anticipating Objection: Standing vs. Moving",
+      "stepSummary": "The Gemara anticipates an objection that the animal might acquire when standing still, and refutes it.",
+      "whatsHappening": "The Gemara addresses a potential loophole to Rava's ruling. It refutes the idea that the animal acquires the vessels when standing still.",
+      "deeperAnalysis": "One might argue that the animal acquires the vessels when it is standing still. The Gemara refutes this by citing a general principle: anything that does not acquire while moving also does not acquire while standing or sitting.",
+      "keyTerms": [
+        {
+          "term": "כְּשֶׁעָמְדָה",
+          "meaning": "When it stood still"
+        },
+        {
+          "term": "עוֹמֵד וְיוֹשֵׁב",
+          "meaning": "Standing and sitting"
+        }
+      ],
+      "whatToRemember": "The principle: כל שאילו מהלך לא קנה – עומד ויושב לא קנה.",
+      "whyThisMatters": "It ensures that the ruling applies regardless of the animal's state of motion at the moment of acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי תֵּימָא כְּשֶׁעָמְדָה,",
+          "english": "And if you would say when it is standing,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא כֹּל שֶׁאִילּוּ מְהַלֵּךְ לֹא קָנָה –",
+          "english": "And isn't it that all that one asks to walk does not acquire –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עוֹמֵד וְיוֹשֵׁב לֹא קָנָה!",
+          "english": "Standing and sitting does not acquire!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי תֵּימָא כְּשֶׁעָמְדָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:5:1",
+            "hebrew": "וכי תימא כשעמדה - לאחר שעקרה ידה ורגלה ונקנית לו הבהמה במשיכה עמדה ולא הלכה ונקנו כלים בעמידתה דקנה לו חצרו:",
+            "english": "",
+            "takeaway": "רש״י explains that the hypothetical objection suggests the animal acquires the vessels through its courtyard (חצר) once it has been acquired via משיכה and is standing still, even if it does not walk."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:5:2",
+            "hebrew": "כל שאילו מהלך לא קנה כו' - כלומר כיון דראויה היא לילך לאו דומיא דחצר היא ואין קונה בתורת חצר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the principle 'anything that does not acquire while moving also does not acquire while standing' applies because the animal is fit to walk, so it does not function like a stationary courtyard (חצר) for acquisition purposes."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מסקנא",
+      "title": "Final Halakhic Conclusion: Acquisition via a Bound Animal",
+      "stepSummary": "The halakhah is that acquisition via an animal's back is only valid when the animal is bound.",
+      "whatsHappening": "The Gemara states the final practical halakhic conclusion. It concludes that acquisition via an animal's back is only valid if the animal is bound.",
+      "deeperAnalysis": "The Gemara concludes that the only way to acquire vessels via an animal's back is if the animal is bound. When bound, the animal is not considered a moving courtyard in the same way, and thus can function as a valid domain for acquisition.",
+      "keyTerms": [
+        {
+          "term": "וְהִלְכְתָא",
+          "meaning": "And the halakhah is"
+        },
+        {
+          "term": "בְּכַפּוּתָהּ",
+          "meaning": "When it is bound"
+        }
+      ],
+      "whatToRemember": "The halakhah: וְהִלְכְתָא בְּכַפּוּתָהּ.",
+      "whyThisMatters": "It provides the practical application of the principle, allowing for acquisition in a specific case.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהִלְכְתָא בִּכְפוּתָהּ.",
+          "english": "And the halakha is in its folded state."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהִלְכְתָא בְּכַפּוּתָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:6:1",
+            "hebrew": "והלכתא - האי דפשיטא ליה דכי אמר ליה קני בהמה וקני כלים קני:",
+            "english": "",
+            "takeaway": "רש״י explains that the final הלכה follows the ruling that when one says 'acquire the animal and acquire the vessels,' the acquisition is valid."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:6:2",
+            "hebrew": "בכפותה - היא דפשיטא ליה דדומיא דחצר הוא קני וכל היכא דאמרינן בגמרא והאמר רבא כל שאילו מהלך לא קני כו' מהכא קאמרי ליה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the acquisition via a כפוטה (bound animal) is valid because it resembles a חצר, and this is the source for רבא's rule that a moving animal does not acquire."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a Boat: Fish Falling into a Moving Boat",
+      "stepSummary": "Rav Pappa and Rav Huna challenge Rava's ruling by asking if a moving boat also fails to acquire fish that fall into it.",
+      "whatsHappening": "A new challenge is raised against Rava's principle of חצר מהלכת. Rav Pappa and Rav Huna question Rava regarding a boat moving on water.",
+      "deeperAnalysis": "Rav Pappa and Rav Huna question Rava: if a moving courtyard does not acquire, then a boat moving on water should also not acquire fish that jump into it. This challenges the universality of Rava's principle.",
+      "keyTerms": [
+        {
+          "term": "סְפִינָה",
+          "meaning": "Boat"
+        },
+        {
+          "term": "דָּגִים",
+          "meaning": "Fish"
+        },
+        {
+          "term": "הָכִי נָמֵי",
+          "meaning": "Is it not also"
+        }
+      ],
+      "whatToRemember": "The challenge: if חצר מהלכת לא קנה, why should a boat be different?",
+      "whyThisMatters": "It forces a distinction between different types of moving courtyards.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַרוּ לֵיהּ רַב פָּפָּא וְרַב הוּנָא",
+          "english": "Rav Pappa and Rav Huna"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְרָבָא:",
+          "english": "son of Rav Yehoshua, to Rava:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא מֵעַתָּה, הָיָה מְהַלֵּךְ בִּסְפִינָה,",
+          "english": "But now, if one was walking on a boat,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְקָפְצוּ דָּגִים וְנָפְלוּ לְתוֹךְ הַסְּפִינָה,",
+          "english": "and fish jumped and fell into the boat,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָכִי נָמֵי דְּחָצֵר מְהַלֶּכֶת הִיא וְלָא קָנֵי?",
+          "english": "isn't the courtyard also moving and he doesn't acquire?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "! אֲמַר לֵיהּ:",
+          "english": "He said to him:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "סְפִינָה מֵינָח נָיְיחָא,",
+          "english": "A boat sits idle,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וּמַיָּא הוּא דְּקָא מַמְטוּ לַהּ.",
+          "english": "and it is the water that moves it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַרוּ לֵיהּ רַב פַּפָּא וְרַב הוּנָא בְּרֵיהּ דְּרַב יְהוֹשֻׁעַ לְרָבָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 9b:7:1",
+            "hebrew": "ספינה מינח נייחא ומיא הוא דקא ממטו לה - אע\"ג דבפ\"ק דקדושין (דף לג:) אמרינן דתלמיד חכם רכוב כמהלך דמי הכא חצר משום יד אתרבאי והוה שפיר דומיא דיד דמינח נייח וממטו לה עם גופיה וכן בפ\"ק דשבת (דף ה: ושם ד\"ה אגוז) אגוז צף ע\"ג מים לא הוי הנחה אגוז בכלי וכלי צף על גבי מים מהו התם משום דדומיא דמלאכת המשכן בעינן ולא היו מצניעין חפצים בדבר שהיה מתנענע ומתנדנד אבל גבי קנייה כיון שהוא דומיא דידו קני:",
+            "english": "",
+            "takeaway": "תוספות explains that רבא's response relies on the derivation of חצר from יד, which is stationary and acquires by bringing items to it, unlike the case in קידושין where a תלמיד חכם riding is considered as walking, or in שבת where floating items do not constitute הנחה because the מלאכת המשכן required stability, whereas here קניין follows the model of יד."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from a Woman: A Get Thrown into a Moving Basket",
+      "stepSummary": "Ravina challenges Rav Ashi by asking if a woman walking with a basket can acquire a Get thrown into it.",
+      "whatsHappening": "A new challenge is raised against the principle of חצר מהלכת, this time involving a woman and a Get. Ravina questions Rav Ashi regarding a woman walking in the public domain.",
+      "deeperAnalysis": "Ravina questions Rav Ashi: if a moving courtyard does not acquire, then a woman walking in the public domain with a basket should not acquire a Get thrown into it. This challenges the application of the principle to a human carrier.",
+      "keyTerms": [
+        {
+          "term": "גֵּט",
+          "meaning": "Bill of divorce"
+        },
+        {
+          "term": "קַלְתָּהּ",
+          "meaning": "Her basket"
+        },
+        {
+          "term": "לָא מִגָּרְשָׁה",
+          "meaning": "She is not divorced"
+        }
+      ],
+      "whatToRemember": "The challenge: if חצר מהלכת לא קנה, why should a woman's basket be different?",
+      "whyThisMatters": "It forces a distinction between different types of moving courtyards involving humans.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי:",
+          "english": "Ravina said to Rav Ashi:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא מֵעַתָּה הָיְתָה מְהַלֶּכֶת בִּרְשׁוּת הָרַבִּים",
+          "english": "But now, was she walking in the public domain"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְזָרַק לָהּ גֵּט לְתוֹךְ חֵיקָהּ אוֹ",
+          "english": "and he threw a get into her lap or"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְתוֹךְ קַלְתָּהּ, הָכָא נָמֵי דְּלָא מִגָּרְשָׁה?",
+          "english": "into her basket, here too, is she not divorced?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "! אֲמַר לֵיהּ:",
+          "english": "He said to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "קַלְתָּהּ מֵינָח נָיְיחָא,",
+          "english": "Her basket is a resting place,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִיהִי דְּקָא מְסַגְּיָא מִתּוּתַהּ.",
+          "english": "and she is walking beneath it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רָבִינָא לְרַב אָשֵׁי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:8:1",
+            "hebrew": "קלתה - סל שעל ראשה שנותנת בה כלי מלאכתה וטווי שלה:",
+            "english": "",
+            "takeaway": "רש״י defines קלתה as a basket carried on the head used for holding tools and spinning materials."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:8:2",
+            "hebrew": "ה\"נ דלא הוי גיטא - והאנן תנן במסכת גיטין (דף עז.) זרק לה גיטה לתוך חיקה או לתוך קלתה הרי זו מגורשת:",
+            "english": "",
+            "takeaway": "רש״י explains that Ravina's challenge is based on a משנה in מסכת גיטין which states that a Get thrown into a woman's lap or basket effects a divorce, implying acquisition."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 9b:8:1",
+            "hebrew": "ה\"נ דלא מגרשה - פרש\"י הא דתנן זרק לתוך קלתה מגורשת ותימה לוקמה בכפותה ושמא נ\"ל דוחק א\"נ הכא מסברא פריך כדפריך מספינה ולא מכח משנה:",
+            "english": "",
+            "takeaway": "תוספות questions why the challenge isn't resolved by assuming the basket was held still, and suggests Ravina's challenge is based on logical reasoning similar to the ship case rather than directly from the משנה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות addresses a potential resolution to רש״י's explanation of the challenge by questioning why the basket wasn't held still, and clarifies that the challenge is based on logical reasoning rather than a direct contradiction of the משנה."
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah of the Rider and the Pedestrian",
+      "stepSummary": "The sugya opens with the Mishnah discussing a rider who sees a found object and asks a pedestrian to bring it to him; if the pedestrian takes it and claims it for himself, he acquires it, but if he claims it after handing it over, he has no claim.",
+      "whatsHappening": "The sugya opens by citing the Mishnah that establishes the baseline rules for acquiring a found object. This sets the stage for analyzing how physical possession interacts with prior visual claims.",
+      "deeperAnalysis": "The Mishnah rules that the pedestrian's physical act of lifting overrides the rider's prior visual claim, provided the pedestrian claims it immediately. This establishes the legal framework for how agency and physical acquisition interact in cases of found objects.",
+      "keyTerms": [
+        {
+          "term": "מַתְנִיָּה",
+          "meaning": "Mishnah"
+        },
+        {
+          "term": "מְצִיאָה",
+          "meaning": "Found object"
+        },
+        {
+          "term": "זָכָה",
+          "meaning": "Acquired"
+        }
+      ],
+      "whatToRemember": "The pedestrian acquires if he claims it before handing it over; otherwise, the rider keeps it.",
+      "confusionAlert": "The rider's claim is based on seeing it first, but the pedestrian's physical act of lifting overrides it if claimed immediately.",
+      "whyThisMatters": "This Mishnah is the primary source for the rules of מציאה and the interaction between visual claim and physical acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ הָיָה רוֹכֵב עַל גַּבֵּי בְּהֵמָה",
+          "english": "MISHNA: If one was riding on an animal"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְרָאָה אֶת הַמְּצִיאָה וְאָמַר לַחֲבֵירוֹ ״תְּנָהּ לִי״.",
+          "english": "and saw a found item and said to his friend: \"Give it to me.\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נְטָלָהּ וְאָמַר: ״אֲנִי זָכִיתִי בָּהּ״ – זָכָה בָּהּ.",
+          "english": "He took it and said: \"I have acquired it\" – he has acquired it."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִם מִשֶּׁנְּתָנָהּ לוֹ, אָמַר:",
+          "english": "If from the time he gave it to him, he said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״אֲנִי זָכִיתִי בָּהּ תְּחִלָּה״ –",
+          "english": "\"I acquired it at first\" –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לֹא אָמַר כְּלוּם.",
+          "english": "he has said nothing."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ הָיָה רוֹכֵב עַל גַּבֵּי בְּהֵמָה",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:9:1",
+            "hebrew": "מתני' לא אמר כלום - דאפילו אמרי' המגביה מציאה לחבירו לא קנה חבירו כיון דיהבה ליה קנייה ממה נפשך אי קנייה קמא דלא מתכוין להקנות לחבירו הא יהבה ניהליה במתנה ואי לא קנייה קמא משום דלא היה מתכוין לקנות הויא ליה הפקר עד דמטא לידיה דהאי וקנייה האי במאי דעקרה מידיה דקמא לשם קנייה:",
+            "english": "",
+            "takeaway": "רש״י explains that the pedestrian's claim is invalid because if the rider acquired the מציאה, he did not intend to transfer ownership to the pedestrian, and if he did not acquire it, the item remained הפקר until the pedestrian physically lifted it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah of Peah and the Dispute over Acquisition for the Poor",
+      "stepSummary": "The Gemara cites a Mishnah from Peah regarding a person who gleans Peah and designates it for a specific poor person, highlighting the dispute between Rabbi Eliezer and the Chachamim.",
+      "whatsHappening": "The Gemara introduces a parallel Mishnah from Peah to explore the mechanics of acquisition for another person. This sets up the analysis of agency and eligibility.",
+      "deeperAnalysis": "This Mishnah presents a dispute: Rabbi Eliezer holds that designating Peah for a specific poor person acquires it for them, while the Chachamim hold it remains available for the first poor person who arrives. This sets up the analysis of agency and eligibility.",
+      "keyTerms": [
+        {
+          "term": "פֵּאָה",
+          "meaning": "Corner of the field given to the poor"
+        },
+        {
+          "term": "רַבִּי אֱלִיעֶזֶר",
+          "meaning": "Rabbi Eliezer"
+        },
+        {
+          "term": "חֲכָמִים",
+          "meaning": "The Sages"
+        }
+      ],
+      "whatToRemember": "Rabbi Eliezer allows acquisition for a specific poor person; Chachamim do not.",
+      "confusionAlert": "The dispute is about whether one can acquire Peah for another person.",
+      "whyThisMatters": "This dispute is central to understanding the limits of agency and the concept of מִגּוֹ.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ תְּנַן הָתָם:",
+          "english": "GEMARA: We learned there:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִי שֶׁלִּיקֵּט אֶת הַפֵּאָה, וְאָמַר:",
+          "english": "One who gleans the pe'a, and said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״הֲרֵי זוֹ לִפְלוֹנִי עָנִי״,",
+          "english": "\"Behold this for so-and-so, a poor person\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַבִּי אֱלִיעֶזֶר אוֹמֵר: זָכָה לוֹ.",
+          "english": "Rabbi Eliezer says: He acquired it for him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וַחֲכָמִים אוֹמְרִים: יִתְּנֶנָּה לֶעָנִי הַנִּמְצָא רִאשׁוֹן.",
+          "english": "And the Sages say: He should give it to the poor person found first."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תְּנַן הָתָם: מִי שֶׁלִּיקֵּט אֶת הַפֵּאָה",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:10:1",
+            "hebrew": "גמ' מי שליקט את הפאה - אדם בעלמא שאינו בעל שדה דאי בבעל שדה לא אמר ר' אליעזר זכה דליכא למימר מיגו דזכי לנפשיה דאפילו הוא עני מוזהר הוא שלא ללקט פאה משדה שלו כדאמר בשחיטת חולין (דף קלא:) לא תלקט לעני להזהיר עני על שלו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah in פאה refers to a generic person (אדם בעלמא) who is not the field owner, because if it were the owner, רבי אליעזר would not rule that he acquired it for the poor person, since the owner is forbidden from harvesting his own פאה even if he is poor himself."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "Ulla's Explanation of the Dispute: Rich vs. Poor",
+      "stepSummary": "Ulla, citing Rabbi Yehoshua ben Levi, explains that the dispute between Rabbi Eliezer and the Chachamim is specifically when a rich person attempts to acquire Peah for a poor person.",
+      "whatsHappening": "The Gemara introduces Ulla's interpretation of the Mishnah's dispute. This narrows the scope of the debate.",
+      "deeperAnalysis": "Ulla narrows the scope of the dispute to a case where the gleaner is rich and the beneficiary is poor. This distinction is crucial because a rich person is not eligible for Peah, raising the question of whether they can acquire it for someone else.",
+      "keyTerms": [
+        {
+          "term": "עוּלָא",
+          "meaning": "Ulla"
+        },
+        {
+          "term": "רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי",
+          "meaning": "Rabbi Yehoshua ben Levi"
+        },
+        {
+          "term": "מַחְלוֹקֶת",
+          "meaning": "Dispute"
+        }
+      ],
+      "whatToRemember": "The dispute is about a rich person acquiring for a poor person.",
+      "confusionAlert": "The dispute is not about a poor person acquiring for another poor person.",
+      "whyThisMatters": "This distinction allows the Gemara to analyze the role of eligibility in acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר עוּלָּא אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי:",
+          "english": "Ulla said that Rabbi Yehoshua ben Levi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַחְלוֹקֶת מֵעָשִׁיר לְעָנִי,",
+          "english": "The dispute is from rich to poor,"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר עוּלָא אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן לֵוִי: מַחְלוֹקֶת מֵעָשִׁיר לְעָנִי",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:11:1",
+            "hebrew": "מעשיר לעני - שעשיר הוא שליקטה לצורך העני:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase מֵעָשִׁיר לְעָנִי means the gleaner is a rich person who gathered the produce for the sake of a poor person."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "The Logic of Miggo: Rabbi Eliezer vs. the Chachamim",
+      "stepSummary": "The Gemara explains the reasoning behind the dispute: Rabbi Eliezer holds that a rich person can acquire for a poor person based on a double מִגּוֹ, while the Chachamim reject the use of a double מִגּוֹ.",
+      "whatsHappening": "The Gemara provides the underlying logic for the positions of Rabbi Eliezer and the Chachamim. This explains the legal reasoning behind the dispute.",
+      "deeperAnalysis": "Rabbi Eliezer argues that a rich person can acquire Peah for a poor person because of two potential claims (מִגּוֹ): he could have renounced his wealth to become poor and eligible, and he could have acquired it for himself. The Chachamim reject this, holding that one cannot stack two מִגּוֹ arguments.",
+      "keyTerms": [
+        {
+          "term": "מִגּוֹ",
+          "meaning": "A legal principle based on potential alternative claims"
+        },
+        {
+          "term": "מַפְקַר נִכְסֵיהּ",
+          "meaning": "Renounce ownership of his property"
+        },
+        {
+          "term": "חַד מִגּוֹ",
+          "meaning": "One מִגּוֹ"
+        }
+      ],
+      "whatToRemember": "Rabbi Eliezer allows a double מִגּוֹ; Chachamim do not.",
+      "confusionAlert": "The first מִגּוֹ is about eligibility (becoming poor), the second is about acquisition (for himself vs. for another).",
+      "whyThisMatters": "This establishes the principle of מִגּוֹ and its limits in acquisition cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּרַבִּי אֱלִיעֶזֶר סָבַר:",
+          "english": "Rabbi Eliezer holds:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִגּוֹ דְּאִי בָּעֵי מַפְקַר נִכְסֵיהּ וְהָוֵי",
+          "english": "Since if he wants he can renounce his property and be"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "עָנִי וַחֲזֵי לֵיהּ –",
+          "english": "poor and it would be suitable for him –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשְׁתָּא נָמֵי חֲזֵי לֵיהּ.",
+          "english": "now too it is suitable for him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמִגּוֹ דְּזָכֵי לְנַפְשֵׁיהּ, זָכֵי נָמֵי לְחַבְרֵיהּ.",
+          "english": "And since he can acquire for himself, he can acquire also for his fellow."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְרַבָּנַן סָבְרִי חַד מִגּוֹ אָמְרִינַן,",
+          "english": "And the Rabbis hold: one miggo we say,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תְּרֵי מִגּוֹ לָא אָמְרִינַן.",
+          "english": "two miggo we do not say."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּרַבִּי אֱלִיעֶזֶר סָבַר: מִגּוֹ דְּאִי בָעֵי מַפְקַר נִכְסֵיהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:12:1",
+            "hebrew": "מגו דזכי לנפשיה - דאי בעי הוה זכי לנפשיה אם הגביה לעצמו:",
+            "english": "",
+            "takeaway": "רש״י explains that the second מִגּוֹ for רַבִּי אֱלִיעֶזֶר is that the rich person could have acquired the פֵּאָה for himself by lifting it (הֲגָבָה)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:12:2",
+            "hebrew": "חד מגו - מעני לעני:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the חַד מִגּוֹ the חֲכָמִים accept is the claim that the person could have renounced his wealth to become poor and thus eligible for the פֵּאָה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "Agreement on Poor Acquiring for Poor",
+      "stepSummary": "The Gemara states that in a case where a poor person acquires Peah for another poor person, everyone agrees that the acquisition is valid.",
+      "whatsHappening": "The Gemara clarifies the scope of the dispute by stating where there is agreement. This isolates the specific point of contention.",
+      "deeperAnalysis": "When the gleaner is poor, he is eligible for Peah. Therefore, he can acquire it for another poor person based on a single מִגּוֹ: he could have acquired it for himself. This is accepted by all, as it does not require a double מִגּוֹ.",
+      "keyTerms": [
+        {
+          "term": "דִּבְרֵי הַכֹּל",
+          "meaning": "Everyone agrees"
+        },
+        {
+          "term": "זָכֵי לְנַפְשֵׁיהּ",
+          "meaning": "Acquire for himself"
+        }
+      ],
+      "whatToRemember": "A poor person can acquire for another poor person based on a single מִגּוֹ.",
+      "confusionAlert": "This is not a dispute; it is a point of agreement.",
+      "whyThisMatters": "This confirms that the dispute is specifically about the rich person's eligibility and the need for a double מִגּוֹ.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲבָל מֵעָנִי לְעָנִי,",
+          "english": "But from poor to poor,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּבְרֵי הַכֹּל זָכָה לוֹ –",
+          "english": "the words of all — he acquired it for himself —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּמִגּוֹ דְּזָכֵי לְנַפְשֵׁיהּ זָכֵי נָמֵי לְחַבְרֵיהּ.",
+          "english": "since he acquired for himself, he also acquired for his fellow."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲבָל מֵעָנִי לְעָנִי, דִּבְרֵי הַכֹּל זָכָה לוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Rav Nachman's Challenge: The Mishnah of the Rider",
+      "stepSummary": "Rav Nachman challenges Ulla's explanation by citing the Mishnah of the rider, arguing that the dispute should also apply when a poor person acquires for another poor person.",
+      "whatsHappening": "Rav Nachman raises an objection to Ulla's limitation of the dispute to a rich person acquiring for a poor person. This challenges the scope of the previous analysis.",
+      "deeperAnalysis": "Rav Nachman argues that in the case of a מציאה, everyone is considered like a poor person (eligible to acquire). Therefore, the Mishnah of the rider, where the pedestrian acquires for himself, should be subject to the same dispute as the Peah Mishnah. If the dispute is only about a rich person, the rider Mishnah should not be disputed.",
+      "keyTerms": [
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Nachman"
+        },
+        {
+          "term": "מְצִיאָה",
+          "meaning": "Found object"
+        },
+        {
+          "term": "הַכֹּל עֲנִיִּים אֶצְלָהּ",
+          "meaning": "Everyone is considered poor regarding it"
+        }
+      ],
+      "whatToRemember": "Rav Nachman uses the rider Mishnah to challenge the scope of the dispute.",
+      "confusionAlert": "The challenge is based on the analogy between מציאה and Peah.",
+      "whyThisMatters": "This challenge forces a re-evaluation of the dispute's scope and the applicability of the מִגּוֹ principle.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב נַחְמָן לְעוּלָּא:",
+          "english": "Rav Naḥman said to Ulla:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלֵימָא מָר, מֵעָנִי לְעָנִי מַחְלוֹקֶת,",
+          "english": "But should the Master say, a dispute between a poor person and a poor person,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּהָא מְצִיאָה הַכֹּל עֲנִיִּים אֶצְלָהּ, וּתְנַן:",
+          "english": "For behold, with regard to a found object, everyone is poor before it, and we…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָיָה רוֹכֵב עַל גַּבֵּי בְּהֵמָה וְרָאָה",
+          "english": "One was riding on an animal and saw"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶת הַמְּצִיאָה וְאָמַר לַחֲבֵירוֹ ״תְּנָהּ לִי״,",
+          "english": "the found object and said to his friend, 'Give it to me,'"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "נְטָלָהּ וְאָמַר ״אֲנִי זָכִיתִי בָּהּ״ – זָכָה בָּהּ.",
+          "english": "He took it and said, 'I have acquired it' — he has acquired it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב נַחְמָן לְעוּלָא: וְלֵימָא מָר, מֵעָנִי לְעָנִי מַחְלוֹקֶת",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:14:1",
+            "hebrew": "ולימא מר דאפילו מעני לעני - אמרי רבנן דלא זכה לו:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Nachman's challenge is that the Sages should dispute even when a poor person acquires for another poor person, ruling that the acquirer does not acquire for the other."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:14:2",
+            "hebrew": "דהא מציאה הכל עניים אצלה - כלומר הכל כשרים לזכות בה כעניים בפאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the principle 'everyone is poor regarding a מציאה' means everyone is eligible to acquire it, just as everyone is eligible to acquire פאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:14:3",
+            "hebrew": "ותנן - המגביה מציאה לחבירו לא קנה חבירו ולא אמרינן מגו דאי הוה בעי הוה זכי לנפשיה זכי נמי לחבריה כי מגבה לה כולה לשם חבירו דתנן היה רוכב כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah teaches that one who lifts a מציאה for a friend does not acquire it for the friend, rejecting the argument that since he could have acquired it for himself, he should be able to acquire it for the friend."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:14:4",
+            "hebrew": "ואמר אני זכיתי בה - קס\"ד אני רוצה לזכות בה עכשיו קאמר ומודה הוא שמתחילה הגביה לשם חבירו וקתני זכה בה אלמא לא קנה חבירו:",
+            "english": "",
+            "takeaway": "רש״י interprets the pedestrian's statement 'I acquired it' as a declaration of intent to acquire it now, admitting he initially lifted it for his friend, yet the Mishnah rules he acquired it, proving the friend did not acquire it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 9b:14:1",
+            "hebrew": "ולימא מר מעני לעני מחלוקת - ויחלקו בתופס לב\"ח במקום שחב לאחרים ולא מטעם מגו דהא רב חסדא דקאמר כמו רב נחמן בסמוך המגביה מציאה לחבירו לא קנה חבירו אית ליה פרק קמא דגיטין (דף יא: ושם) דפליגי בתופס לבעל חוב ולא מטעם מגו עד דדחי ליה רב פפא דלמא במגו פליגי:",
+            "english": "",
+            "takeaway": "תוספות explains that Rav Nachman's challenge implies a dispute regarding acquiring for a creditor when the debtor has other assets, not based on the principle of מגו, as Rav Chisda holds there is a dispute in such cases, as seen in גיטין."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "תירוץ",
+      "title": "The Resolution: The Rider Mishnah Follows the Chachamim",
+      "stepSummary": "The Gemara resolves the challenge by stating that the Mishnah of the rider follows the opinion of the Chachamim, who hold that a poor person cannot acquire for another poor person.",
+      "whatsHappening": "The Gemara provides a resolution to Rav Nachman's challenge. This resolves the apparent contradiction.",
+      "deeperAnalysis": "The Gemara argues that if the dispute were about a poor person acquiring for another poor person, the rider Mishnah would be problematic. However, since the rider Mishnah follows the Chachamim, who hold that a poor person cannot acquire for another poor person, there is no contradiction. The pedestrian acquires for himself, not for the rider.",
+      "keyTerms": [
+        {
+          "term": "מַתְנִיתִין מַנִּי",
+          "meaning": "Whose opinion is our Mishnah?"
+        },
+        {
+          "term": "רַבָּנַן",
+          "meaning": "The Sages"
+        }
+      ],
+      "whatToRemember": "The rider Mishnah follows the Chachamim, resolving the challenge.",
+      "confusionAlert": "The resolution relies on attributing the Mishnah to a specific opinion.",
+      "whyThisMatters": "This resolution maintains the integrity of Ulla's explanation while accounting for the rider Mishnah.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא:",
+          "english": "If you say that in a case of peace:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מֵעָנִי לְעָנִי מַחְלוֹקֶת,",
+          "english": "From poor to poor there is a dispute,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַתְנִיתִין מַנִּי – רַבָּנַן הִיא.",
+          "english": "Our Mishnah — whose is it? It is the Rabbis."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ בְּעָשִׁיר וְעָנִי מַחְלוֹקֶת,",
+          "english": "But if you say that in a case of rich and poor there is a…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל מֵעָנִי לְעָנִי דִּבְרֵי הַכֹּל זָכָה לוֹ,",
+          "english": "But from poor to poor, everyone agrees that he acquires it for him,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָא מַנִּי? לָא רַבָּנַן וְלָא רַבִּי אֱלִיעֶזֶר!",
+          "english": "Then whose is it? Neither the Rabbis nor Rabbi Eliezer!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי אָמְרַתְּ בִּשְׁלָמָא: מֵעָנִי לְעָנִי מַחְלוֹקֶת",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 9b:15:1",
+            "hebrew": "אי אמרת בשלמא מעני לעני מחלוקת - דאמרי רבנן לא אמרינן מגו דזכי לנפשיה זכי נמי לחבריה אלא היכא דהגביה לדעת שניהם כגון שנים שהגביהו מציאה דאמר בה לעיל (בבא מציעא דף ח.) גבי בזמן שהם מודים חולקים בלא שבועה דטעמא משום מגו דזכי בהגבהה זו לנפשיה זכי נמי לחבריה אבל מגו דאי בעי הוה זכי לנפשיה זכי לחבריה לא אמרינן:",
+            "english": "",
+            "takeaway": "רש״י explains that the Chachamim only apply the principle of 'מגו דזכי לנפשיה זכי נמי לחבריה' when the acquisition is done with the explicit intent of both parties, such as two people jointly lifting a מציאה, but not when one person could have acquired for himself but instead acquires for another."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T04:48:15.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 85.10952220001491,
+      "structure": 1996.5942505000276,
+      "translate": 445.1253804999287,
+      "meforshim": 724.9703738000244,
+      "teaching": 1083.9219425000483
+    }
+  }
+}

@@ -1,0 +1,1044 @@
+{
+  "ref": "Bava Metzia 53b",
+  "masechet": "Bava_Metzia",
+  "daf": 53,
+  "amud": "b",
+  "mainTopic": "(continues) מעשר שני שאין בו שוה פרוטה · אין בו או אין בחומשו",
+  "overview": "(1) The Gemara discusses the laws of Ma'aser Sheni worth less than a prutah that entered and left Jerusalem, debating whether it can be redeemed on the first coins or if it is nullified. (2) The Gemara discusses the definition of 'less than a prutah' regarding Ma'aser Sheni, debating whether it refers to the principal or the fifth, and calculates the Chomesh. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 7,
+      "topic": "(continues) מעשר שני שאין בו שוה פרוטה",
+      "gist": "The Gemara discusses the laws of Ma'aser Sheni worth less than a prutah that entered and left Jerusalem, debating whether it can be redeemed on the first coins or if it is nullified.",
+      "openingFormula": "גופא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 8,
+      "endLine": 11,
+      "topic": "אין בו או אין בחומשו",
+      "gist": "The Gemara discusses the definition of 'less than a prutah' regarding Ma'aser Sheni, debating whether it refers to the principal or the fifth, and calculates the Chomesh. — discussion continues into next amud.",
+      "openingFormula": "תנו רבנן",
+      "firstStepNumber": 7,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The case is food bought with מַעֲשֵׂר money",
+      "stepSummary": "The גְּמָרָה resolves the challenge by stating the case is food bought with מַעֲשֵׂר money, which cannot be redeemed.",
+      "whatsHappening": "The גְּמָרָה provides a specific case to block redemption.",
+      "deeperAnalysis": "The גְּמָרָה answers that the case is not produce, but food bought with מַעֲשֵׂר money. Food bought with מַעֲשֵׂר money cannot be redeemed, even if impure. This blocks the challenge and preserves the need for nullification.",
+      "keyTerms": [
+        {
+          "term": "לָקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי",
+          "meaning": "bought with second-tithe money"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the type of מַעֲשֵׂר.",
+      "confusionAlert": "Note that food bought with מַעֲשֵׂר money cannot be redeemed.",
+      "whyThisMatters": "This shows the distinction between produce and food bought with מַעֲשֵׂר money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא בְּלָקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי.",
+          "english": "Rather, with food purchased with second-tithe money."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָקוּחַ בְּכֶסֶף מַעֲשֵׂר נָמֵי לִיפְרְקֵיהּ, דִּתְנַן:",
+          "english": "Food purchased with second-tithe money too, let him redeem it, for we learned:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַלָּקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי שֶׁנִּטְמָא –",
+          "english": "Food purchased with second-tithe money that became impure –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יִפָּדֶה! כְּרַבִּי יְהוּדָה דְּאָמַר יִקָּבֵר.",
+          "english": "Let it be redeemed! According to Rabbi Yehuda who says let it be buried."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא בְּלָקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:2:1",
+            "hebrew": "בלקוח - מעשר זה ולא הוא עצמו היה מעשר אלא צרכי סעודה שלקח בירושלים בכסף מעשר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the case involves food purchased with מעשר money, not the מעשר produce itself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:2:2",
+            "hebrew": "יקבר - דקא סבר לא אלים למיתפס פדיונו:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יהודה holds that redemption of food bought with מעשר money is not effective, hence it must be buried."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53b:2:1",
+            "hebrew": "כרבי יהודה דאמר יקבר - בספרי מפיק טעמא משום דכתיב הכסף כסף ראשון ולא כסף שני וא״ת דבריש פירקין (בבא מציעא דף מה.) אמרינן כסף ראשון ואפי' כסף שני וי״ל דה״מ כסף על כסף אבל לחלל ב' פעמים פירות על כסף לא וא״ת דבפרק שלישי דמעשר שני (מ״י) תנן אמרו לו לר' יהודה ומה מעשר שנטמא נפדה לקוח לא כל שכן אמר להם לא אם אמרתם במעשר שנפדה טהור ברחוק מקום תאמרו בלקוח שאינו נפדה כו' אם כן טעמא אחרינא אית ליה ולמה לי קרא בספרי וי״ל דאסמכתא בעלמא הוא אי נמי טרח וכתב לה קרא:",
+            "english": "",
+            "takeaway": "תוספות cites the ספרי that רבי יהודה derives the prohibition of redemption from the verse specifying כסף ראשון, and addresses potential contradictions by distinguishing between redeeming money with money versus redeeming food purchased with מעשר money, or suggesting the verse is merely an אסמכתא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why specify 'exited' if it's רַבִּי יְהוּדָה?",
+      "stepSummary": "The גְּמָרָה asks why the בְּרִיתָה specifies 'exited' if it's according to רַבִּי יְהוּדָה, who requires burial even if it didn't exit.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by questioning the wording of the בְּרִיתָה.",
+      "deeperAnalysis": "The גְּמָרָה asks: if the case is according to רַבִּי יְהוּדָה, why does the בְּרִיתָה specify 'exited'? According to רַבִּי יְהוּדָה, impure food must be buried even if it didn't exit Jerusalem. This challenges the resolution by showing the wording is unnecessary.",
+      "keyTerms": [
+        {
+          "term": "מַאי אִירְיָא ״יָצָא״",
+          "meaning": "why is 'exited' necessary?"
+        }
+      ],
+      "whatToRemember": "The challenge is about the redundancy of 'exited' in רַבִּי יְהוּדָה's view.",
+      "confusionAlert": "Note that רַבִּי יְהוּדָה requires burial regardless of location.",
+      "whyThisMatters": "This tests the consistency of the resolution.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי רַבִּי יְהוּדָה, מַאי אִירְיָא ״יָצָא״?",
+          "english": "If Rabbi Yehuda, why did he say 'exited'?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲפִילּוּ לֹא יָצָא נָמֵי,",
+          "english": "Even if it did not exit,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא: לְעוֹלָם בְּטָהוֹר,",
+          "english": "Rather: forever in pure,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמַאי ״יָצָא״ – דִּנְפוּל מְחִיצוֹת.",
+          "english": "And what is 'exited' — that the partitions fell."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי רַבִּי יְהוּדָה, מַאי אִירְיָא ״יָצָא״?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        41
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:3:1",
+            "hebrew": "אלא לעולם בטהור - בין מעשר בין לקוח ודקאמר נעייליה וניכליה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the case involves טהור produce, whether מעשר or purchased, which the owner intends to bring into Jerusalem and consume there."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:3:2",
+            "hebrew": "מאי יצא - נמי דקאמר דנפול מחיצות חומת ירושלים ושוב אין מעשר נאכל שם עד שיעמדו מחיצות דבעינן לפני ה' תאכלנו (שם יב) ובפדייה נמי לא דקלטוהו מחיצות מלפדותו עוד משנכנס לתוכו:",
+            "english": "",
+            "takeaway": "רש״י explains that 'exited' refers to the walls of Jerusalem falling, which invalidates the location for eating מעשר or redeeming it until the walls are rebuilt, based on the requirement to eat it 'before the Lord'."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53b:3:1",
+            "hebrew": "אפילו לא יצא נמי - מעיקרא דשני בשנטמא ה\"מ למפרך הכי אלא דעדיפא מיניה פריך:",
+            "english": "",
+            "takeaway": "תוספות notes that the גמרא could have challenged the resolution by asking why 'exited' is specified even if the produce became טמא, but it prefers a stronger objection."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Rava says walls only gather produce Rabbinically",
+      "stepSummary": "The גְּמָרָה challenges the resolution by citing רָבָא, who says walls only gather produce Rabbinically.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by citing a conflicting ruling.",
+      "deeperAnalysis": "The גְּמָרָה cites רָבָא, who says that walls gathering produce is only Rabbinic law. If so, when the walls fall, the Rabbinic decree no longer applies, and the מַעֲשֵׂר is not considered as if it exited. This challenges the resolution by showing the walls don't have the status claimed.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "an Amoraic sage"
+        },
+        {
+          "term": "מְחִיצָה לֶאֱכוֹל – דְּאוֹרַיְתָא",
+          "meaning": "a partition for eating is by Torah law"
+        },
+        {
+          "term": "מְחִיצוֹת לִקְלוֹט – דְּרַבָּנָן",
+          "meaning": "partitions for gathering are by Rabbinic law"
+        }
+      ],
+      "whatToRemember": "The challenge is about the status of walls according to רָבָא.",
+      "confusionAlert": "Note that רָבָא limits the power of walls to Rabbinic law.",
+      "whyThisMatters": "This tests the limits of Rabbinic decrees.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָאָמַר רָבָא: מְחִיצָה לֶאֱכוֹל –",
+          "english": "And Rava says: A partition for eating –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאוֹרָיְיתָא, מְחִיצוֹת לִקְלוֹט – דְּרַבָּנַן.",
+          "english": "of Torah law, partitions for gathering – of the Sages."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכִי גְּזַרוּ דְּרַבָּנַן: כִּי אִיתַנְהוּ לִמְחִיצוֹת.",
+          "english": "And when the Sages decreed: only when there are partitions."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי לֵיתַנְהוּ לִמְחִיצוֹת – לָא גְּזַרוּ רַבָּנַן!",
+          "english": "When there are no partitions – the Sages did not decree!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא פְּלוּג רַבָּנַן בֵּין אִיתַנְהוּ לִמְחִיצוֹת,",
+          "english": "The Sages did not distinguish between there are partitions,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בֵּין לֵיתַנְהוּ לִמְחִיצוֹת.",
+          "english": "between there are no partitions."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא אָמַר רָבָא: מְחִיצָה לֶאֱכוֹל – דְּאוֹרַיְתָא, מְחִיצוֹת לִקְלוֹט – דְּרַבָּנָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:4:1",
+            "hebrew": "והאמר רבא - במסכת מכות (דף כ.):",
+            "english": "",
+            "takeaway": "רש״י identifies the source of רָבָא's statement as מכות כ:."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:4:2",
+            "hebrew": "מחיצה לאכול דאורייתא מחיצה לקלוט דרבנן - מחיצה שנאמרה בתורה לא הוזכרה אלא לאכול בתוכה ושאמרו במשנה מחיצות קולטות אותם מלפדות עוד אם יצא דרבנן היא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Torah only mentions walls for eating within them, so the Mishnah's rule that walls gather produce for redemption is only Rabbinic."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:4:3",
+            "hebrew": "וכי גזור רבנן כו' - לאו רבא קאמר לה אלא המקשה קאמר מדאמר רבא קליטת מחיצות מדרבנן בעלמא היא והשתא דנפול מחיצות ליתא לההיא גזירה דכי גזור רבנן היכא דאיתנהו וזה הוציא את המעשר לחוץ אבל כי ליתנהו לא גזור הלכך ניפרקיה ואמאי בטלי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'when they decreed' is the challenger's inference from רָבָא's ruling, arguing that the Rabbinic decree only applies when walls exist, so fallen walls should allow redemption."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:4:4",
+            "hebrew": "ומשני לא פלוג רבנן - בין יוצא מתוכן לנפלו דקליטת מחיצות גזרו בסתם בין איתנהו בין ליתנהו:",
+            "english": "",
+            "takeaway": "רש״י explains the resolution that the Sages did not distinguish between produce exiting intact walls versus walls falling, as their decree applies generally regardless of the walls' state."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53b:4:1",
+            "hebrew": "לא פלוג רבנן - תימה דבסוף פרק חלק (סנהדרין ד' קיג.) משני כי גזרו רבנן כי איתנהו למחיצות ולא קאמר דלא פלוג רבנן כדקאמר הכא ולא קשה מידי דהתם קאי אמאי דקאמר אלא דעיר הנדחת ואסקוה לירושלים והיה שם בשעת גמר דין ליתאכיל דהא קלטוהו מחיצות וה\"ל שלל ירושלים בשעת גמר דין כו' ומסיק לעולם בטהור ואסקיה לירושלים ונגמר הדין דעיר הנדחת ודקא קשיא לך ליתאכיל כגון דנפול מחיצות אמר גמר דין וכדרבא דאמר מחיצה לקלוט דרבנן שלא לפדות אפילו נפול מחיצה דלא פלוג רבנן כדקאמר בשמעתין דכיון דלקלוט לא הוי אלא מדרבנן מן התורה חל עליו גמר דין אפילו לא נפול מחיצה כלל כיון שיכול לאוכלו אם ירצה ולא מיקרי נמי שלל ירושלי' כיון שיכול להוציאו ולפדותו אלא דרבנן אמור מחיצה לקלוט אפילו לקרות שלל ירושלים ולאכול דהעמידו דבריהם על דין תורה אהא מסיים כי גזרו רבנן היכא דאיתנהו למחיצות פירוש לא העמידו דבריהם על דין תורה למיקרי שלל ירושלים ולאכול אלא כי איתנהו למחיצות ולא נפול כלל אבל נפול מחיצות אחר גמר דין לא גזור רבנן להעמיד דבריהם על דין תורה לקרות שלל ירושלים ולאכול אע\"ג דבשעת גמר דין קלטוהו מחיצות כיון דנפול מחיצות אחר גמר דין אבל אי נפול מחיצות קודם גמר דין אע\"ג דלא הוי שלל ירושלים מ\"מ לא חל עליו גמר דין דה\"ל כגבולים וה\"ל שלל שמים כיון שאינו ראוי לאכול ולא לפדות כדאמר בשמעתין דלא פלוג רבנן ויעלוהו כשיעשו מחיצות א\"נ דוקא מיירי בנפול מחיצות קודם גמר דין ולא הוי כמו בגבולים דכיון שהיה ראוי לאכלו שעה אחת הוה ליה ממון הדיוט ושלל ירושלים לא הוי כיון דנפול מחיצות בשעת גמר דין אבל נפול מחיצות אחר גמר דין כיון דהוי שלל ירושלים בשעת גמר דין תו לא פקע והשתא אתי שפיר טפי בפשיטות כי איתנהו בשעת גמר דין גזור למיהוי שלל ירושלים כי ליתנהו בשעת גמר דין לא גזור ואם תאמר דמשמע דיגנזו משום דחל עלייהו גמר דין אבל היכא דלא חל עלייהו גמר דין יאכלו אם תבנה החומה והא אמרינן בפרק קדשי קדשים (זבחים דף נט.) כשהיה מזבח שלם ונפגם ונבנה אין חוזרין ונראין וי\"ל דדוקא זבחים שעושין מהם עבודות אבל מעשר או בשר זבח לאחר העבודה או שירי מנחה חוזרין ונראין:",
+            "english": "",
+            "takeaway": "תוספות reconciles this resolution with סנהדרין קיג by distinguishing between the status of produce as 'ירושלים' (which requires walls at the time of judgment) and the general Rabbinic decree of gathering (which applies even if walls fall)."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on the internal logic of the Gemara's challenge and resolution regarding the walls' status, תוספות addresses a broader halachic tension by reconciling this ruling with a seemingly contradictory resolution in סנהדרין."
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רַב הוּנָא בַר יְהוּדָה: The בְּרִיתָה teaches one halakha",
+      "stepSummary": "רַב הוּנָא בַר יְהוּדָה states that the בְּרִיתָה teaches one halakha: מַעֲשֵׂר worth less than a prutah that entered and exited Jerusalem.",
+      "whatsHappening": "The sugya shifts to a new explanation from רַב הוּנָא בַר יְהוּדָה. He proposes that the בְּרִיתָה is teaching a single, specific halakha.",
+      "deeperAnalysis": "רַב הוּנָא בַר יְהוּדָה reinterprets the בְּרִיתָה as addressing only one case: מַעֲשֵׂר worth less than a prutah that entered and exited Jerusalem. This narrows the scope of the teaching, setting up a new line of questioning about why this specific case is highlighted.",
+      "keyTerms": [
+        {
+          "term": "רַב הוּנָא בַר יְהוּדָה",
+          "meaning": "an Amoraic sage"
+        },
+        {
+          "term": "חֲדָא קָתָנֵי",
+          "meaning": "it teaches one [halakha]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב הוּנָא בַּר יְהוּדָה אָמַר רַב שֵׁשֶׁת:",
+          "english": "Rav Huna bar Yehuda said Rav Sheshet said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חֲדָא קָתָנֵי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה",
+          "english": "One tanna: Second tithe that is not worth a peruta"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא. אַמַּאי?",
+          "english": "That entered Jerusalem and exited. Why?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְנִיהְדַּר וּנְעַיְּילֵיהּ וְנֵיכְלֵיהּ! דִּנְפוּל מְחִיצוֹת.",
+          "english": "And let him bring it in and eat it! Because the partitions fell."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב הוּנָא בַר יְהוּדָה אָמַר רַב שֵׁשֶׁת: חֲדָא קָתָנֵי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה שֶׁנִּכְנַס לִירוּשָׁלַיִם וְיָצָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:5:1",
+            "hebrew": "רב הונא ברבי יהודה אמר - הא דאותבת לחזקיה מרישא דקתני באיזה מעשר אמרו שאין בו שוה פרוטה וקשיא לך ליעבד כדחזקיה לא קשיא:",
+            "english": "",
+            "takeaway": "רש״י explains that רַב הוּנָא בַר יְהוּדָה is answering the objection to חזקיה's view in the first clause of the Mishnah regarding מַעֲשֵׂר שֵׁנִי worth less than a prutah."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:5:2",
+            "hebrew": "חדא קתני אין בו שוה פרוטה שנכנס לירושלים ויצא - דקליטת מחיצות מעכבת מלחללו עוד על מעות הראשונות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the בְּרִיתָה teaches that the walls of Jerusalem prevent the invalidation of the first מעשר coins even after the less-than-prutah amount has entered and exited."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:5:3",
+            "hebrew": "וניהדר ונעייליה וניכליה - בירושלים עם תערובתו:",
+            "english": "",
+            "takeaway": "רש״י explains that the suggestion to return the מעשר to Jerusalem and redeem it there applies to the mixture of coins."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:5:4",
+            "hebrew": "דנפול מחיצות - והיינו יצא דקתני:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'דנפול מחיצות' refers to the walls falling, which corresponds to the 'יצא' (exited) mentioned in the בְּרִיתָה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53b:5:1",
+            "hebrew": "דנפול מחיצות - פי' רוב מחיצות דאי נפול מקצתם אע\"ג דאסור לטלטל בשבת מ\"מ מקרי מחיצה לענין אכילת מעשר וקדשים קלים כדאמרינן ריש פרק אלו דברים (פסחים דף סו. ושם ד\"ה תוחב ודף סז) דההיא שמעתתא דהלל צריך להעמיד אחר שנפרצו בה פרצות לכך לא היו יכולין להוליך סכיניהם בשבת לעזרה לשחוט פסחיהם דקודם שנפרצו היו מותרים לטלטל כדאמר רבי יוחנן (עירובין דף ו:) ירושלים אלמלא דלתותיה נעולות בלילה חייבין עליה משום רה\"ר ואעפ\"כ בלילה היו אוכלין פסחיהם:",
+            "english": "",
+            "takeaway": "תוספות clarifies that 'דנפול מחיצות' means the majority of the walls fell, because even if only some walls fell (making carrying forbidden on שבת), it would still be considered a valid מחיצה for eating מעשר and קדשים קלים, as seen in the case of הלל and the פסח."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not redeem it?",
+      "stepSummary": "The גְּמָרָה asks why the person cannot redeem the מַעֲשֵׂר, citing רָבָא.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by suggesting redemption. It questions why the מַעֲשֵׂר cannot simply be redeemed.",
+      "deeperAnalysis": "The גְּמָרָה cites רָבָא, who rules that walls gathering produce is only Rabbinic law. If the walls fall, the Rabbinic decree no longer applies, allowing the מַעֲשֵׂר to be redeemed. This challenges the previous resolution by showing a viable path to redemption.",
+      "keyTerms": [
+        {
+          "term": "וְנִפְרְקֵיהּ",
+          "meaning": "let him redeem it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנִפְרְקֵיהּ? הָאָמַר רָבָא:",
+          "english": "And let him redeem it? Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מְחִיצָה לֶאֱכוֹל דְּאוֹרָיְיתָא,",
+          "english": "A partition to eat is by Torah law,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מְחִיצָה לִקְלוֹט דְּרַבָּנַן,",
+          "english": "A partition to gather is by rabbinic law,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְכִי גְּזַרוּ רַבָּנַן –",
+          "english": "And when the Sages decreed –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי אִיתַנְהוּ לִמְחִיצוֹת.",
+          "english": "Only when there are partitions."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כִּי לֵיתַנְהוּ לִמְחִיצוֹת – לָא גְּזַרוּ רַבָּנַן.",
+          "english": "When there are no partitions – the Sages did not decree."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לָא פְּלוּג רַבָּנַן.",
+          "english": "The Sages did not distinguish."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנִפְרְקֵיהּ? הָא אָמַר רָבָא: מְחִיצָה לֶאֱכוֹל דְּאוֹרַיְתָא, מְחִיצָה לִקְלוֹט דְּרַבָּנָן...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        48
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why specify 'less than a prutah'?",
+      "stepSummary": "The גְּמָרָה asks why the בְּרִיתָה specifies 'less than a prutah' if the walls fell, which applies even to a full prutah.",
+      "whatsHappening": "The גְּמָרָה presses on the resolution by questioning the wording of the בְּרִיתָה. It asks why the text specifies 'less than a prutah'.",
+      "deeperAnalysis": "The גְּמָרָה argues that if the case is where the walls fell, the same rule would apply even if the מַעֲשֵׂר has the value of one prutah. This challenges the resolution by showing the specific wording is unnecessary and redundant.",
+      "keyTerms": [
+        {
+          "term": "מַאי אִירְיָא אֵין בּוֹ שָׁוֶה פְּרוּטָה",
+          "meaning": "why is 'less than a prutah' necessary?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, מַאי אִירְיָא אֵין בּוֹ שָׁוֶה פְּרוּטָה?",
+          "english": "If so, why is it necessary that it does not have the value of a peruta?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲפִילּוּ יֵשׁ בּוֹ נָמֵי!",
+          "english": "Even if it has [the value of a peruta]!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא מִיבַּעְיָא קָאָמַר.",
+          "english": "He is saying: It is not necessary."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא מִיבַּעְיָא יֵשׁ בּוֹ, דְּקָלְטָן לֵיהּ מְחִיצוֹת.",
+          "english": "It is not necessary [to state] that it has [value], that the partitions gather it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל אֵין בּוֹ, אֵימָא:",
+          "english": "But that it does not have [value], say:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָא קְלַטוּ לֵיהּ מְחִיצוֹת,",
+          "english": "The partitions do not gather it,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "קָא מַשְׁמַע לַן.",
+          "english": "He is teaching us."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, מַאי אִירְיָא אֵין בּוֹ שָׁוֶה פְּרוּטָה?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:7:1",
+            "hebrew": "אפי' יש בו שוה פרוטה - נמי לאו בר אכילה ולאו בר חילול הוא ואמאי תני באיזה מעשר אמרו בשאין בו שוה פרוטה כו':",
+            "english": "",
+            "takeaway": "רש״י explains that even if the item has the value of a פרוטה, it is not fit for eating nor for חילול, raising the question of why the ברייתא specifies 'less than a prutah'."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:7:2",
+            "hebrew": "לא מבעיא יש בו - דכיון דבר פדייה הוא חיילא עליו קליטת מחיצות דרבנן ולא מיפרוק תו אבל אין בו אימא בכה\"ג לא לגזור רבנן קליטת מחיצות לפדייה דמילתא דלא שכיח היא לחללו על מעות הראשונות וניעבד ליה כדחזקיה קמ\"ל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the ברייתא teaches that while קליטת מחיצות applies to redeemable items (שוה פרוטה), it does not apply to non-redeemable items (אין בו שוה פרוטה) because חילול on the first coins is rare, and the ברייתא teaches that we follow חזקיה's ruling in such cases."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The baraita on redeeming Ma'aser Sheni",
+      "stepSummary": "The Sages teach that one cannot redeem Ma'aser Sheni worth less than a prutah, and the Amoraim dispute whether this refers to the principal or the fifth.",
+      "whatsHappening": "The sugya opens with a baraita establishing the rule and the amoraic dispute. It derives from 'from his tithe' that one cannot redeem מַעֲשֵׂר שֵׁנִי worth less than a prutah.",
+      "deeperAnalysis": "The baraita introduces a dispute: Rav Ami and רַבִּי יוֹחָנָן hold 'אֵין בּוֹ' (the principal is less than a prutah), while Rav Asi and רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ hold 'אֵין בְּחוּמְשׁוֹ' (the fifth is less than a prutah). This sets the stage for analyzing the threshold for redemption.",
+      "keyTerms": [
+        {
+          "term": "מַעֲשֵׂר שֵׁנִי",
+          "meaning": "second tithe"
+        },
+        {
+          "term": "פְּרוּטָה",
+          "meaning": "a small coin, minimum value"
+        },
+        {
+          "term": "חֹמֶשׁ",
+          "meaning": "one-fifth additional payment"
+        },
+        {
+          "term": "אֵין בּוֹ",
+          "meaning": "it does not have [value] in it"
+        },
+        {
+          "term": "אֵין בְּחוּמְשׁוֹ",
+          "meaning": "it does not have [value] in its fifth"
+        }
+      ],
+      "whatToRemember": "The dispute is about what 'less than a prutah' refers to: the principal or the fifth.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: ״אִם גָּאֹל יִגְאַל אִישׁ מִמַּעַשְׂרוֹ״,",
+          "english": "The Sages taught: \"If a man will redeem of his tithe\""
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִמַּעַשְׂרוֹ – וְלֹא כׇּל מַעַשְׂרוֹ.",
+          "english": "Of his tithe — and not all his tithe."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "פְּרָט לְמַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה.",
+          "english": "Excluding second tithe that does not have a value of one peruta."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִיתְּמַר. רַב אַמֵּי אָמַר: אֵין בּוֹ.",
+          "english": "It was stated. Rav Ami says: It does not have [value].",
+          "notes": "Refers to the produce itself lacking the value of one peruta."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַב אַסִּי אָמַר: אֵין בְּחוּמְשׁוֹ.",
+          "english": "Rav Asi says: It does not have [value] in its fifth.",
+          "notes": "Refers to the additional fifth payment lacking the value of one peruta."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יוֹחָנָן אָמַר: אֵין בּוֹ.",
+          "english": "Rabbi Yoḥanan says: It does not have [value].",
+          "notes": "Refers to the produce itself lacking the value of one peruta."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: אֵין בְּחוּמְשׁוֹ.",
+          "english": "Rabbi Shimon ben Lakish says: It does not have [value] in its fifth.",
+          "notes": "Refers to the additional fifth payment lacking the value of one peruta."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: ״אִם גָּאֹל יִגְאַל אִישׁ מִמַּעַשְׂרוֹ״, מִמַּעַשְׂרוֹ – וְלֹא כׇּל מַעַשְׂרוֹ. פְּרָט לְמַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה. אִיתְּמַר. רַב אַמֵּי אָמַר: אֵין בּוֹ. רַב אַסִּי אָמַר: אֵין בְּחוּמְשׁוֹ. רַבִּי יוֹחָנָן אָמַר: אֵין בּוֹ. רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אָמַר: אֵין בְּחוּמְשׁוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:8:1",
+            "hebrew": "פרט לשאין בו שוה פרוטה - שאינו בכלל גאולה ולימדך שאינה תופסת פרוטה:",
+            "english": "",
+            "takeaway": "רש״י explains that the exclusion of Ma'aser Sheni worth less than a prutah means it is not subject to redemption at all, and the verse teaches that redemption does not take effect on a value of less than a prutah."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:8:2",
+            "hebrew": "רב אמי אמר אין בו שוה פרוטה - שנינו אבל אם יש בו שוה פרוטה בר גאולה הוא ותופס פדיונו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that according to רב אמי, if the Ma'aser Sheni is worth a prutah, it is eligible for redemption and the redemption takes effect."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:8:3",
+            "hebrew": "ורב אסי אמר אין בחומשו שוה פרוטה - שנינו דלאו בר גאולה הוא עד שיהא בו שוה ארבע פרוטות כדי שיהא ראוי לתוספת חומש דכתיב בהאי קרא:",
+            "english": "",
+            "takeaway": "רש״י explains that according to רב אסי, the Ma'aser Sheni is not eligible for redemption unless it is worth four prutot, so that the fifth (the penalty) will be worth a prutah, as required by the verse."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 53b:8:1",
+            "hebrew": "אין בו שוה פרוטה - אין תופס פדיון ולא בעי למדרש אין בו שוה פרוטה אין מוסיף חומש אבל פדיון תופס דסברא לאוקמא מיעוטא בגופה ולא בחומש דפחות משוה פרוטה לא חשיב ממון לתפוס פדיון אבל למ\"ד אין בחומשו קשה דטפי הוה ליה למדרש דאינו מוסיף חומש:",
+            "english": "",
+            "takeaway": "תוספות explains that the phrase 'אין בו שוה פרוטה' means the redemption does not take effect, and they reject the alternative interpretation that it only means no fifth is added, because it is more logical to apply the exclusion to the principal value itself rather than the penalty, since less than a prutah is not considered property for redemption purposes."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Objection from a baraita about redeeming with first coins",
+      "stepSummary": "A baraita states that for Ma'aser Sheni worth less than a prutah, it suffices to say it and its fifth are desacralized on first coins.",
+      "whatsHappening": "The גְּמָרָה raises an objection from a baraita that seems to contradict the 'אֵין בּוֹ' opinion. The baraita discusses redeeming with first coins.",
+      "deeperAnalysis": "The baraita uses the phrase 'דַיּוֹ שֶׁיֹּאמַר' (it suffices that he says), implying the principal HAS value. This supports 'אֵין בְּחוּמְשׁוֹ' and challenges 'אֵין בּוֹ', as the latter would render the phrase unnecessary.",
+      "keyTerms": [
+        {
+          "term": "מֵיתִיבִי",
+          "meaning": "the גְּמָרָה raises an objection"
+        },
+        {
+          "term": "דַיּוֹ",
+          "meaning": "it suffices"
+        },
+        {
+          "term": "מְחוּלָּל עַל מָעוֹת רִאשׁוֹנוֹת",
+          "meaning": "desacralized on first coins"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה –",
+          "english": "He sat: Second tithe that does not have a value of a pruta –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דַּיּוֹ שֶׁיֹּאמַר ״הוּא וְחוּמְשׁוֹ מְחוּלָּל עַל מָעוֹת רִאשׁוֹנוֹת״.",
+          "english": "It is sufficient that he say, 'It and its fifth are desacralized upon first coins.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי: מַעֲשֵׂר שֵׁנִי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה – דַיּוֹ שֶׁיֹּאמַר ״הוּא וְחוּמְשׁוֹ מְחוּלָּל עַל מָעוֹת רִאשׁוֹנוֹת״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:9:1",
+            "hebrew": "דיו שיאמר כו' - כדחזקיה ולא אמרינן ימתין עד שיעלנו לירושלים או ימתין עד שיצרפנו עם אחר דכיון דבחומשיה ליכא [פרוטה] לא קחשיב ודיו בכך:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita follows חזקיה, who holds that since the fifth lacks a פרוטה, it is not considered significant, so one need not wait to bring the principal to ירושלים or combine it with other funds, but can immediately redeem it with the first coins."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: 'דַיּוֹ' supports 'אֵין בְּחוּמְשׁוֹ'",
+      "stepSummary": "The Gemara explains that 'דַיּוֹ' fits the 'אין בחומשו' opinion, as the principal has value but the fifth does not.",
+      "whatsHappening": "The גְּמָרָה resolves the objection by showing it supports 'אֵין בְּחוּמְשׁוֹ' and challenges 'אֵין בּוֹ'. It analyzes the logic of the phrase 'דַיּוֹ'.",
+      "deeperAnalysis": "According to 'אֵין בְּחוּמְשׁוֹ', the principal has value, so 'דַיּוֹ' makes sense: even though the principal has value, since the fifth does not, it suffices to say it is desacralized on first coins. But according to 'אֵין בּוֹ', the principal has no value, making 'דַיּוֹ' problematic.",
+      "keyTerms": [
+        {
+          "term": "בִּשְׁלָמָא",
+          "meaning": "granted, consistently"
+        },
+        {
+          "term": "הַיְינוּ",
+          "meaning": "this is the reason"
+        },
+        {
+          "term": "דְּאַף עַל גַּב דִּבְדִידֵיהּ אִית בֵּיהּ",
+          "meaning": "even though in itself it has [value]"
+        },
+        {
+          "term": "כֵּיוָן דִּבְחוּמְשֵׁיהּ לֵיכָא",
+          "meaning": "since in its fifth there is not [value]"
+        },
+        {
+          "term": "שַׁפִּיר",
+          "meaning": "it works out well"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בִּשְׁלָמָא לְמַאן דְּאָמַר ״אֵין בְּחוּמְשׁוֹ״ –",
+          "english": "Granted, according to the one who says: \"There is not in its one-fifth\" –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַיְינוּ דְּקָתָנֵי ״דַּיּוֹ״,",
+          "english": "This is that the Tanna says \"It is sufficient\","
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאַף עַל גַּב דִּבְדִידֵיהּ אִית בֵּיהּ,",
+          "english": "That even though in itself it has [value],"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כֵּיוָן דִּבְחוּמְשֵׁיהּ לֵיכָּא – שַׁפִּיר.",
+          "english": "Since in its one-fifth there is not – it is fine."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא לְמַאן דְּאָמַר ״אֵין בּוֹ״, מַאי ״דַּיּוֹ״? קַשְׁיָא.",
+          "english": "But according to the one who says: \"There is not in it\", what is \"It is sufficient\"? It is difficult."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בִּשְׁלָמָא לְמַאן דְּאָמַר ״אֵין בְּחוּמְשׁוֹ״ – הַיְינוּ דְּקָתָנֵי ״דַיּוֹ״, דְּאַף עַל גַּב דִּבְדִידֵיהּ אִית בֵּיהּ, כֵּיוָן דִּבְחוּמְשֵׁיהּ לֵיכָא – שַׁפִּיר. אֶלָּא לְמַאן דְּאָמַר ״אֵין בּוֹ״, מַאי ״דַיּוֹ״? קַשְׁיָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:10:1",
+            "hebrew": "אלא למ\"ד אין בו מאי דיו - מאי רבותיה דאצטריך למתני דיו ליתני אומר הוא וחומשו כו':",
+            "english": "",
+            "takeaway": "רש״י explains that according to the opinion of 'אין בו', the Gemara's use of the word 'דַיּוֹ' is problematic because the Mishnah should have simply stated that the person says 'אומר הוא וחומשו' without needing the additional term 'דַיּוֹ'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Dilemma: Is the fifth calculated from within or from without?",
+      "stepSummary": "A dilemma is raised: is the fifth calculated from within the principal or from outside it?",
+      "whatsHappening": "The גְּמָרָה raises a new dilemma about how the fifth is calculated. It questions whether the fifth is 'מִלְגָּאו' or 'מִלְבַּר'.",
+      "deeperAnalysis": "The question is whether the fifth is calculated from within the principal (1/5 of the principal) or from outside the principal (1/5 of the total, which is 1/4 of the principal). This affects the final amount paid.",
+      "keyTerms": [
+        {
+          "term": "אִבַּעְיָא לְהוּ",
+          "meaning": "a dilemma was raised before them"
+        },
+        {
+          "term": "חוּמְשָׁא מִלְגָּאו",
+          "meaning": "the fifth from within"
+        },
+        {
+          "term": "חוּמְשָׁא מִלְבַּר",
+          "meaning": "the fifth from outside"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיבַּעְיָא לְהוּ: חוּמְשָׁא מִלְּגָיו, אוֹ חוּמְשָׁא מִלְּבַר?",
+          "english": "A dilemma was raised before them: one-fifth from within, or one-fifth from without?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רָבִינָא, תָּא שְׁמַע:",
+          "english": "Ravina said: Come and hear:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים,",
+          "english": "The owners say for twenty,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְכׇל אָדָם בְּעֶשְׂרִים –",
+          "english": "and every person for twenty –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַבְּעָלִים קוֹדְמִין מִפְּנֵי שֶׁמּוֹסִיפִין חוֹמֶשׁ.",
+          "english": "The owners take precedence because they add one-fifth."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר אֶחָד: הֲרֵי עָלַי בְּעֶשְׂרִים וְאֶחָד –",
+          "english": "One said: Behold, upon me for twenty-one –"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיבַּעְיָא לְהוּ: חוּמְשָׁא מִלְגָּאו, אוֹ חוּמְשָׁא מִלְבַּר?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:1",
+            "hebrew": "חומשא מלגיו - על שוה עשרים זוז מוסיף ארבע שהן חומשו של קרן:",
+            "english": "",
+            "takeaway": "רש״י explains that חומשא מלגיו means adding a fifth calculated from within the principal amount."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:2",
+            "hebrew": "או חומשא מלבר - על ארבעה רבעי' מוסיף החמישית מן החוץ דהוו להו לעשרים זוז חמשא זוזי:",
+            "english": "",
+            "takeaway": "רש״י explains that חומשא מלבר means adding a fifth calculated from outside the principal, which amounts to a quarter of the principal."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:3",
+            "hebrew": "הבעלים אומרים בעשרים - גבי מקדיש ופודה הקדשו תנן לה במסכת ערכין (דף כז.):",
+            "english": "",
+            "takeaway": "רש״י identifies the context of the dispute as the laws of redeeming consecrated property found in מסכת ערכין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:4",
+            "hebrew": "מפני שמוסיפין חומש - ועשרים שלהן הוו כ\"ה דאילו שאר כל אדם לא יוסיף חומש:",
+            "english": "",
+            "takeaway": "רש״י explains that the owners' claim of twenty is equivalent to twenty-five because they are entitled to add the fifth, unlike other people."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "ראיה",
+      "title": "רָבִיןָא's proof from a baraita about redeeming consecrated property",
+      "stepSummary": "Ravina cites a baraita about redeeming consecrated property to resolve the dilemma.",
+      "whatsHappening": "רָבִיןָא cites a baraita to resolve the dilemma. The baraita discusses a case where the owner offers 20 dinars and another offers 21.",
+      "deeperAnalysis": "The owner pays 26. If the fifth were calculated from within, the owner would pay 20 + 4 = 24, which is less than 21. Since the owner pays 26, the fifth must be calculated from outside: 20 + 5 = 25, plus 1 to beat the other offer = 26. This confirms the calculation is from outside.",
+      "keyTerms": [
+        {
+          "term": "רָבִיןָא",
+          "meaning": "רָבִיןָא"
+        },
+        {
+          "term": "תָּא שְׁמַע",
+          "meaning": "come and hear"
+        },
+        {
+          "term": "הַבְּעָלִים קוֹדְמִין",
+          "meaning": "the owners take precedence"
+        },
+        {
+          "term": "מִפְּנֵי שֶׁמוֹסִיפִין חוֹמֶשׁ",
+          "meaning": "because they add a fifth"
+        },
+        {
+          "term": "לְפִי שֶׁאֵין מוֹסִיפִין חוֹמֶשׁ עַל עִלּוּי שֶׁל זֶה",
+          "meaning": "because they do not add a fifth on the raise of this one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיבַּעְיָא לְהוּ: חוּמְשָׁא מִלְּגָיו, אוֹ חוּמְשָׁא מִלְּבַר?",
+          "english": "A dilemma was raised before them: Is the one-fifth from within, or is the one-fifth from without?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רָבִינָא, תָּא שְׁמַע:",
+          "english": "Ravina said: Come and hear:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים,",
+          "english": "The owners say for twenty,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְכׇל אָדָם בְּעֶשְׂרִים –",
+          "english": "and every person for twenty –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַבְּעָלִים קוֹדְמִין מִפְּנֵי שֶׁמּוֹסִיפִין חוֹמֶשׁ. אָמַר אֶחָד:",
+          "english": "The owners take precedence because they add a one-fifth. One said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הֲרֵי עָלַי בְּעֶשְׂרִים וְאֶחָד –",
+          "english": "Behold, upon me for twenty-one –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָשֵׁשׁ.",
+          "english": "The owners give twenty-six."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "עֶשְׂרִים וּשְׁנַיִם – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָשֶׁבַע.",
+          "english": "Twenty-two – the owners give twenty-seven."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בְּעֶשְׂרִים וְשָׁלֹשׁ – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וּשְׁמוֹנֶה.",
+          "english": "For twenty-three – the owners give twenty-eight."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "בְּעֶשְׂרִים וְאַרְבַּע – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָתֵשַׁע.",
+          "english": "For twenty-four – the owners give twenty-nine."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "עֶשְׂרִים וְחָמֵשׁ –",
+          "english": "Twenty-five –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "הַבְּעָלִים נוֹתְנִין שְׁלֹשִׁים,",
+          "english": "The owners give thirty,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "לְפִי שֶׁאֵין מוֹסִיפִין חוֹמֶשׁ עַל עִילּוּי שֶׁל זֶה.",
+          "english": "Because they do not add a one-fifth upon the increase of this one."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "שְׁמַע מִינַּהּ חוּמְשָׁא מִלְּבַר. שְׁמַע מִינַּהּ.",
+          "english": "Learn from it that the one-fifth is from without. Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבִיןָא, תָּא שְׁמַע: הַבְּעָלִים אוֹמְרִים בְּעֶשְׂרִים, וְכָל אָדָם בְּעֶשְׂרִים – הַבְּעָלִים קוֹדְמִין מִפְּנֵי שֶׁמוֹסִיפִין חוֹמֶשׁ. אָמַר אֶחָד: הֲרֵי עָלַי בְּעֶשְׂרִים וְאֶחָד – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָשֵׁשׁ. עֶשְׂרִים וּשְׁנַיִם – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָשֶׁבַע. בְּעֶשְׂרִים וְשָׁלוֹשׁ – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וּשְׁמוֹנֶה. בְּעֶשְׂרִים וְאַרְבַּע – הַבְּעָלִים נוֹתְנִין עֶשְׂרִים וָתֵשַׁע. עֶשְׂרִים וְחָמֵשׁ – הַבְּעָלִים נוֹתְנִין שְׁלֹשִׁים, לְפִי שֶׁאֵין מוֹסִיפִין חוֹמֶשׁ עַל עִלּוּי שֶׁל זֶה. שְׁמַע מִינָהּ חוּמְשָׁא מִלְבַּר. שְׁמַע מִינָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:1",
+            "hebrew": "חומשא מלגיו - על שוה עשרים זוז מוסיף ארבע שהן חומשו של קרן:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase חומשא מלגיו means the fifth is calculated from within the principal, so on a value of twenty dinars one adds four dinars as the fifth."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:2",
+            "hebrew": "או חומשא מלבר - על ארבעה רבעי' מוסיף החמישית מן החוץ דהוו להו לעשרים זוז חמשא זוזי:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase חומשא מלבר means the fifth is added from outside the principal, so on a value of twenty dinars one adds five dinars."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:3",
+            "hebrew": "הבעלים אומרים בעשרים - גבי מקדיש ופודה הקדשו תנן לה במסכת ערכין (דף כז.):",
+            "english": "",
+            "takeaway": "רש״י notes that the baraita's discussion of owners redeeming consecrated property is taught in מסכת ערכין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 53b:11:4",
+            "hebrew": "מפני שמוסיפין חומש - ועשרים שלהן הוו כ\"ה דאילו שאר כל אדם לא יוסיף חומש:",
+            "english": "",
+            "takeaway": "רש״י explains that the owners' offer of twenty dinars is treated as twenty-five because they must add the fifth, whereas other people do not add a fifth."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T05:26:36.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 104.95297350001056,
+      "structure": 2123.7212205000687,
+      "validate": 278.78990139992675,
+      "translate": 338.0818741998519,
+      "meforshim": 723.544612299942,
+      "teaching": 990.7569409001153
+    }
+  }
+}

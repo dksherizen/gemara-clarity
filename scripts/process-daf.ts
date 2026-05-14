@@ -188,9 +188,12 @@ async function updateIndex(dataDir: string): Promise<void> {
   const files = await readdir(dataDir);
   const entries: Array<Record<string, unknown>> = [];
   for (const f of files.sort()) {
-    if (!f.endsWith(".json") || f === "index.json") continue;
+    if (!f.endsWith(".json")) continue;
+    if (f === "index.json" || f === "progress.json") continue;
+    if (f.startsWith("_") || f.startsWith("tmp_")) continue;
     try {
       const a = JSON.parse(await readFile(join(dataDir, f), "utf8"));
+      if (!a.ref || !a.masechet) continue;
       entries.push({
         ref: a.ref,
         masechet: a.masechet,

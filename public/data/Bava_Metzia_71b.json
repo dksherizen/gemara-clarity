@@ -1,0 +1,1033 @@
+{
+  "ref": "Bava Metzia 71b",
+  "masechet": "Bava_Metzia",
+  "daf": 71,
+  "amud": "b",
+  "mainTopic": "(continues) גר תושב לענין ריבית וערב לגוי · מלוה ישראל מעותיו של נכרי ושליחות לגוי",
+  "overview": "(1) The Gemara clarifies the status of a גר תושב regarding interest and discusses the permissibility of acting as a guarantor for a non-Jew. (2) The Gemara discusses lending a non-Jew's money to a Jew and the concept of agency for non-Jews, concluding with Rav Ashi's distinction.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) גר תושב לענין ריבית וערב לגוי",
+      "gist": "The Gemara clarifies the status of a גר תושב regarding interest and discusses the permissibility of acting as a guarantor for a non-Jew.",
+      "openingFormula": "גֵּר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית מַאי הִיא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 14,
+      "topic": "מלוה ישראל מעותיו של נכרי ושליחות לגוי",
+      "gist": "The Gemara discusses lending a non-Jew's money to a Jew and the concept of agency for non-Jews, concluding with Rav Ashi's distinction.",
+      "openingFormula": "מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נָכְרִי מִדַּעַת הַנָּכְרִי כּוּ׳",
+      "firstStepNumber": 4,
+      "lastStepNumber": 12
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "For whom may one act as an ערב?",
+      "stepSummary": "The גמרא asks a neutral question: for whom may one act as an ערב according to the ברייתא?",
+      "whatsHappening": "The גמרא poses a question about the identity of the person for whom one may act as an ערב.",
+      "deeperAnalysis": "The ברייתa permits acting as an ערב, but does not specify for whom. The גמרא explores two possibilities: for a Jew or for a non-Jew. The first possibility (for a Jew) is immediately rejected based on a Mishna that prohibits acting as an ערב for a ריבית transaction.",
+      "keyTerms": [
+        {
+          "term": "עָרֵב",
+          "meaning": "guarantor"
+        },
+        {
+          "term": "יִשְׂרָאֵל",
+          "meaning": "Jew"
+        },
+        {
+          "term": "מִשְׁנָה",
+          "meaning": "Mishnaic teaching"
+        }
+      ],
+      "whatToRemember": "The Mishna prohibits acting as an ערב for a ריבית transaction between Jews.",
+      "confusionAlert": "The Mishna explicitly lists the ערב as one of the transgressors in a ריבית case.",
+      "whyThisMatters": "This eliminates the possibility that the ברייתa permits acting as an ערב for a Jew, narrowing the focus to a non-Jew.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עָרֵב לְמַאן? אִילֵימָא עָרֵב לְיִשְׂרָאֵל, וְהָא תָּנָא:",
+          "english": "Become a guarantor for whom?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵלּוּ עוֹבְרִין בְּלֹא תַּעֲשֶׂה הַמַּלְוֶה וְהַלֹּוֶה, הֶעָרֵב וְהָעֵדִים!",
+          "english": "These transgress without the prohibition of the lender and the borrower, the guarantor and the witnesses!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "עָרֵב לְמַאן? אִילֵימָא עָרֵב לְיִשְׂרָאֵל, וְהָא תָּנָא: אֵלּוּ עוֹבְרִין בְּלֹא תַּעֲשֶׂה הַמַּלְוֶה וְהַלּוֹה, הֶעָרֵב וְהָעֵדִים!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        45
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:1:1",
+            "hebrew": "ערב למאן - מי הוא המלוה שאני מותר לעשות לו ערב:",
+            "english": "",
+            "takeaway": "רש״י explains that the question ערב למאן asks who is the lender for whom one is permitted to act as an ערב."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:1:2",
+            "hebrew": "אלו עוברין - משום לא תשימון (שמות כב):",
+            "english": "",
+            "takeaway": "רש״י clarifies that the ברייתא's statement אלו עוברין refers to transgressing the prohibition of לא תשימון."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Rather, one may act as an ערב for a גוי",
+      "stepSummary": "The גמרא concludes that the ברייתa must permit acting as an ערב for a גוי, since acting for a Jew is prohibited.",
+      "whatsHappening": "The גמרא resolves the question by concluding that the ערב must be for a גוי.",
+      "deeperAnalysis": "Since acting as an ערב for a Jew is prohibited by the Mishna, the ברייתa must be referring to acting as an ערב for a גוי. However, this creates a new difficulty: under גוי law, the ערב is liable to pay, which would make him a borrower of ריבית.",
+      "keyTerms": [
+        {
+          "term": "גּוֹי",
+          "meaning": "non-Jew"
+        },
+        {
+          "term": "עָרֵב",
+          "meaning": "guarantor"
+        },
+        {
+          "term": "דִּינֵי גּוֹי",
+          "meaning": "non-Jewish law"
+        }
+      ],
+      "whatToRemember": "The ברייתa permits acting as an ערב for a גוי, but this creates a new difficulty regarding ריבית.",
+      "confusionAlert": "Under גוי law, the ערב is directly liable, which could make him a borrower of ריבית.",
+      "whyThisMatters": "This sets up the central difficulty of the sugya: how can one act as an ערב for a גוי without violating the prohibition on ריבית?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא לְגוֹי וְכֵיוָן דְּדִינֵיהּ דְּגוֹי דְּאָזֵיל בָּתַר עָרְבָא,",
+          "english": "But to a gentile, and since the law of a gentile is that he goes after the guarantor,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ רִבִּיתָא!",
+          "english": "he himself is the one who is taking interest from him!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "אֶלָּא לְגוֹי וְכֵיוָן דְּדִינֵיהּ דְּגוֹי דְּאָזֵיל בָּתַר עָרְבָּא, אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵיהּ רִבִּיתָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:2:1",
+            "hebrew": "והא כיון דנכרי בתר ערבא אזיל - אינו תובע אלא את הערב:",
+            "english": "",
+            "takeaway": "רש״י explains that when the גמרא says the גוי follows the ערב, it means the גוי only demands payment from the ערב and not from the original borrower."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:2:2",
+            "hebrew": "הוא ניהו דשקיל רבית - ערב זה הלוה מן הנכרי וחזר והלוה לישראל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the ערב is considered to be taking ריבית because he borrows from the גוי and then lends to the ישראל, effectively acting as an intermediary lender."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב שֵׁשֶׁת: The גוי accepted Jewish law for this transaction",
+      "stepSummary": "רַב שֵׁשֶׁת resolves the difficulty by stating that the גוי accepted Jewish law for this specific transaction, making the ערב not liable under גוי law.",
+      "whatsHappening": "רַב שֵׁשֶׁת resolves the difficulty by introducing the concept of a גוי accepting Jewish law for a specific transaction.",
+      "deeperAnalysis": "The difficulty was that under גוי law, the ערב is liable, making him a borrower of ריבית. רַב שֵׁשֶׁת resolves this by stating that the גוי accepted Jewish law for this transaction. Under Jewish law, the ערב is not directly liable, so he does not become a borrower of ריבית.",
+      "keyTerms": [
+        {
+          "term": "רַב שֵׁשֶׁת",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "דִּינֵי יִשְׂרָאֵל",
+          "meaning": "Jewish law"
+        },
+        {
+          "term": "קִיבֵּל עָלָיו",
+          "meaning": "accepted upon himself"
+        }
+      ],
+      "whatToRemember": "The גוי accepted Jewish law for this transaction, making the ערב not liable under גוי law.",
+      "confusionAlert": "The גוי accepted Jewish law for the ערב, but not for the ריבית itself.",
+      "whyThisMatters": "This resolution allows for the permissibility of acting as an ערב for a גוי without violating the prohibition on ריבית.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב שֵׁשֶׁת: שֶׁקִּיבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל.",
+          "english": "Rav Sheshet said: He accepted upon himself to be judged by the laws of Israel."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי קִיבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל –",
+          "english": "If he accepted upon himself to be judged by the laws of Israel –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רִבִּית נָמֵי לָא לִשְׁקוֹל!",
+          "english": "Interest too he should not take!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר רַב שֵׁשֶׁת:",
+          "english": "Rav Sheshet said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁקִּיבֵּל עָלָיו לָזוֹ,",
+          "english": "He accepted upon himself this,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלֹא קִיבֵּל עָלָיו לָזוֹ.",
+          "english": "and he did not accept upon himself that."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "אָמַר רַב שֵׁשֶׁת: שֶׁקִּבֵּל עָלָיו לָדוּן בְּדִינֵי יִשְׂרָאֵל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:3:1",
+            "hebrew": "לדון בדיני ישראל - יתבע מן הלוה תחילה וכשלא ימצא אצלו יגבה מן הערב והשתא אין הערב לוה מתחילה הלכך כי פרע לנכרי ההיא שעתא הוא דאוזפיה לחבריה ומאי דמוזיף ליה שקיל מיניה:",
+            "english": "",
+            "takeaway": "רש״י explains that accepting דִּינֵי יִשְׂרָאֵל means the creditor must first pursue the primary borrower, and only collect from the ערב if the borrower has no funds, meaning the ערב is not a borrower from the outset and thus does not incur ריבית when he pays the גוי."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Baraita on lending a non-Jew's money",
+      "stepSummary": "The baraita teaches that a Jew may lend a non-Jew's money to another Jew with the non-Jew's knowledge, but not with a Jew's knowledge, and details two scenarios of debt transfer.",
+      "whatsHappening": "The sugya opens with a baraita establishing the rules for a Jew acting as a middleman in a loan involving a non-Jew's money.",
+      "deeperAnalysis": "The baraita permits a Jew to lend a non-Jew's money to another Jew if the non-Jew knows, but forbids it if only a Jew knows. It gives two cases: 1) A Jew owes a non-Jew and wants to pay back; another Jew offers to take over the debt. If the non-Jew agrees, it's permitted. 2) A non-Jew owes a Jew and wants to pay back; another Jew offers to take over. If the Jew agrees, it's forbidden. The core issue is whether the middleman is seen as taking interest.",
+      "keyTerms": [
+        {
+          "term": "מַלְוֶה",
+          "meaning": "lending"
+        },
+        {
+          "term": "מִדַּעַת",
+          "meaning": "with the knowledge of"
+        },
+        {
+          "term": "רִבִּית",
+          "meaning": "interest"
+        },
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "Tannaitic teaching outside the Mishna"
+        }
+      ],
+      "whatToRemember": "The baraita sets up the tension: how can the first case be permitted if the middleman is effectively taking interest?",
+      "confusionAlert": "The phrase 'מִדַּעַת הַנָּכְרִי' vs 'מִדַּעַת יִשְׂרָאֵל' refers to whose knowledge validates the transaction.",
+      "whyThisMatters": "This establishes the baseline for the entire sugya's discussion on agency and interest.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי מִדַּעַת הַנׇּכְרִי כּוּ׳.",
+          "english": "A Jew lending his money of a gentile with the knowledge of the gentile etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תָּנוּ רַבָּנַן:",
+          "english": "The Sages taught:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נׇכְרִי מִדַּעַת הַנׇּכְרִי,",
+          "english": "A Jew lending his money of a gentile with the knowledge of the gentile,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל לֹא מִדַּעַת יִשְׂרָאֵל, כֵּיצַד?",
+          "english": "but not with the knowledge of a Jew, how so?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יִשְׂרָאֵל שֶׁלָּוָה מָעוֹת מִן הַגּוֹי בְּרִבִּית",
+          "english": "A Jew borrowed money from a gentile with interest"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּבִיקֵּשׁ לְהַחְזִירָם לוֹ,",
+          "english": "and sought to return them to him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ:",
+          "english": "another Jew found him and said to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "תְּנֵם לִי וַאֲנִי אַעֲלֶה לָךְ כְּדֶרֶךְ",
+          "english": "Give them to me and I will pay you the way"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "שֶׁאַתָּה מַעֲלֶה לוֹ – אָסוּר.",
+          "english": "that you pay him – forbidden."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְאִם הֶעֱמִידוּ אֵצֶל גּוֹי – מוּתָּר.",
+          "english": "And if he presented him to a gentile – permitted."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְכֵן גּוֹי שֶׁלָּוָה מָעוֹת מִיִּשְׂרָאֵל בְּרִבִּית",
+          "english": "And similarly a gentile borrowed money from a Jew with interest"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וּבִיקֵּשׁ לְהַחְזִירָם לוֹ,",
+          "english": "and sought to return them to him,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "מְצָאוֹ יִשְׂרָאֵל אַחֵר וְאָמַר לוֹ:",
+          "english": "another Jew found him and said to him:"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "תְּנֵם לִי וַאֲנִי אַעֲלֶה לְךָ כְּדֶרֶךְ",
+          "english": "Give them to me and I will pay you the way"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "שֶׁאַתָּה מַעֲלֶה לוֹ – מוּתָּר.",
+          "english": "that you pay him – permitted."
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "וְאִם הֶעֱמִידוֹ אֵצֶל יִשְׂרָאֵל – אָסוּר.",
+          "english": "And if he presented him to a Jew – forbidden."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַלְוֶה יִשְׂרָאֵל מְעוֹתָיו שֶׁל נָכְרִי מִדַּעַת הַנָּכְרִי כּוּ׳. תָּנוּ רַבָּנָן:",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:4:1",
+            "hebrew": "אסור - דהוא ניהו דקא מוזיף ליה ברבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition in the first case is because the middleman is effectively lending the money himself at interest."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:4:2",
+            "hebrew": "ואם העמידו אצל נכרי - אע\"פ שישראל נותנו לחבירו במצות הנכרי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that even though the Jew gives the money to his fellow Jew at the non-Jew's command, the permissibility depends on the non-Jew's involvement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:4:3",
+            "hebrew": "מותר - דשלוחו הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that when the money is placed with the non-Jew, the middleman is permitted because he acts merely as the non-Jew's agent."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:5:1",
+            "hebrew": "ואם העמידו אצל ישראל אסור - ואף על פי שקיבלם זה מיד נכרי משום דנכרי שליח ישראל ושלוחו של אדם כמותו:",
+            "english": "",
+            "takeaway": "רש״י explains that in the second case, placing the money with a Jew is forbidden because the non-Jew is considered the agent of the Jew, making the transaction equivalent to a Jew lending to a Jew."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71b:4:1",
+            "hebrew": "מצאו ישראל אחר אמר לו תנם לי ואני אעלה לך כו' - ואם תאמר מאי איריא ואני אעלה לך אפילו אמר אני אעלה לנכרי אסור דלא שרי אלא בהעמידו אצל נכרי כיון דמלוה מעותיו לחבירו כדי שיפרע לנכרי רבית בשבילו פשיטא דהוי רבית דאפילו לא היה המלוה חייב לנכרי רבית כיון דמשכר הלואה נותן לנכרי הרבית ע\"פ המלוה הרי הוא כנותן למלוה עצמו מדין ערב כמו תן מנה לפלוני ואקדש אני לך דמקודשת מדין ערב בפ\"ק דקדושין (דף ז.) וכן קשה בסיפא וי\"ל דנקט לך משום העמידו לאשמועינן רישא דאפילו מקבל ישראל רבית שרי כיון שמקבלו בשביל נכרי וכן בסיפא כשהעמידו אצל ישראל אסור אפילו מקבל הנכרי רבית:",
+            "english": "",
+            "takeaway": "תוספות questions why the baraita specifies 'I will pay you' rather than 'I will pay the non-Jew', and answers that the phrasing is used to teach that even if the Jew receives interest, it is permitted when acting for the non-Jew, whereas if the non-Jew receives interest in the second case, it is forbidden when placed with a Jew."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge on the first clause: How is it permitted without agency?",
+      "stepSummary": "The Gemara challenges the first clause: if a non-Jew has no agency, the middleman is effectively taking interest himself, so why is it permitted?",
+      "whatsHappening": "The Gemara challenges the first clause of the בְּרֵיתָא. It asks how the transaction is permitted if a non-Jew cannot appoint an agent.",
+      "deeperAnalysis": "The Gemara accepts the second clause as a stringency. However, the first clause is problematic because the middleman would be taking interest on his own behalf. This contradicts the prohibition of רִבִּית.",
+      "keyTerms": [
+        {
+          "term": "שְׁלִיחוּת",
+          "meaning": "agency"
+        },
+        {
+          "term": "לְחוּמְרָא",
+          "meaning": "for the sake of stringency"
+        },
+        {
+          "term": "רֵישָׁא",
+          "meaning": "the first clause"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בִּשְׁלָמָא סֵיפָא, לְחוּמְרָא. אֶלָּא רֵישָׁא:",
+          "english": "Granted, the latter clause, for a stringency. But the first clause:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּיוָן דְּאֵין שְׁלִיחוּת לְגוֹי,",
+          "english": "Since there is no agency for a gentile,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵּיהּ רִבִּיתָא?",
+          "english": "Is he the one who is taking interest from him?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בִּשְׁלָמָא סֵיפָא, לְחוּמְרָא. אֶלָּא רֵישָׁא: כֵּיוָן דְּאֵין שְׁלִיחוּת לְגוֹי, אִיהוּ נִיהוּ דְּקָא שָׁקֵיל מִינֵיהּ רִבִּיתָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:6:1",
+            "hebrew": "בשלמא סיפא - דקתני אם העמידו אצל ישראל אסור דמשמע שנכרי זה חשוב שלוחו של ישראל חומרא דרבנן הוא למיסר דהא דקי\"ל דשלוחו של אדם כמותו. בשולח ישראל ושליח ישראל נאמר דמתרומה גמרינן בפרק שני דקדושין (דף מא:) אתם גם אתם. לרבות שלוחכם מה אתם בני ברית. אף שלוחכם בני ברית:",
+            "english": "",
+            "takeaway": "רש״י explains that the second clause is a rabbinic stringency because the principle that an agent is like the principal is derived from the verse in קידושין regarding those who are part of the covenant, which excludes non-Jews."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:6:3",
+            "hebrew": "כיון דאין תורת שליחות לנכרי - וישראל מישראל קיבלם הוא ניהו דשקיל רבית:",
+            "english": "",
+            "takeaway": "רש״י clarifies the Gemara's challenge that since a non-Jew cannot have an agent, the middleman is the one receiving the interest from the first Jew."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71b:6:1",
+            "hebrew": "בשלמא סיפא לחומרא - תימה אמאי לא הוי רבית גמור כשהעמידו אצל ישראל אפילו מקבל הנכרי רבית שהרי נעשה ישראל שני שלוחו של ראשון לקבל חובו מידו של נכרי וי\"ל דאפילו שיוכל לזכות לחבירו במציאה הכא אין קבלתו מן הנכרי זוכה לישראל חבירו דנהי אם היה נכרי מפקיר מעותיו היה יכול לזכות לחבירו השתא מיהא שהנכרי אינו מפקירן אלא בא לזכות מעותיו למלוה על ידי זה הלוה אין לו כח לזכות שאם כן היה ישראל המקבל שלוחו של נכרי לזכות במעותיו של ישראל ואין שליחות לנכרי וה\"ל להיות מותר אפי' העמידו אצל ישראל אי לאו דלחומרא אמרינן דיש שליחות לנכרי אלא רישא אמאי שרי בהעמידו אצל הנכרי כיון דאין שליחות לנכרי נמצא דישראל שני לא זכה בקבלתו לנכרי ואינו חייב לנכרי כלום אלא לישראל וכשנותן רבית לנכרי הרי הוא נותן עבור ישראל המלוה ופוטרו נגד הנכרי והוי כנותן לישראל עצמו ומשני דאמר ליה הניחם ע\"ג קרקע והפטר והלוה יטלם מעל גבי קרקע בציווי הנכרי להתחייב לו קרן ורבית ואפילו שלא הפקיר ישראל המעות כשנתנם ע\"ג קרקע והוי עדיין שלו כשנטלם ישראל שני מכל מקום כשפורע לנכרי רבית אינו בשביל ישראל ראשון שהרי כבר פטרו הנכרי אבל כשלא הניחם ע\"ג קרקע אלא אמר תן לפלוני ישראל והפטר ואני אתנה עמו שיתן לי קרן ורבית היה אסור אע\"פ שעתה נמי אינו פורע לו רבית לפטור את הראשון שהרי כבר פטרו הנכרי מכל מקום כיון שקבל המעות מיד ישראל הראשון שהיה עד עתה המעות באחריותו נראה כנותן לו רבית אע\"פ שאינו מתנה עמו אלא הנכרי:",
+            "english": "",
+            "takeaway": "תוספות questions why the second clause isn't a full prohibition of interest, since the second Jew acts as an agent for the first to collect from the non-Jew, and answers that the second Jew cannot acquire the non-Jew's money for the first Jew because that would imply the non-Jew has an agent, which is forbidden."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Huna bar Manoaḥ: The non-Jew tells the middleman to leave the money",
+      "stepSummary": "Rav Huna bar Manoaḥ resolves the difficulty by suggesting the non-Jew told the middleman to place the money on the ground and leave, so the second Jew acquires it directly from the non-Jew.",
+      "whatsHappening": "רַב הוּנָא בַּר מָנוּא offers a resolution. The non-Jew instructed the middleman to deposit the money and be dismissed.",
+      "deeperAnalysis": "The middleman acts only as a messenger to place the funds on the ground. The second Jew acquires the money directly from the non-Jew via the ground. Thus, the middleman is not involved in the loan.",
+      "keyTerms": [
+        {
+          "term": "הַנִּיחֵם",
+          "meaning": "place them [the money]"
+        },
+        {
+          "term": "עַל גַּבֵּי קַרְקַע",
+          "meaning": "on the ground"
+        },
+        {
+          "term": "וְהִפָּטֵר",
+          "meaning": "and be dismissed"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב הוּנָא בַּר מָנוֹחַ מִשְּׁמֵיהּ",
+          "english": "Rav Huna bar Manoaḥ said in the name of"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּרַב אַחָא בְּרֵיהּ דְּרַב אִיקָא:",
+          "english": "Rav Aḥa, son of Rav Ika:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן –",
+          "english": "Here we are dealing with a case where"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כְּגוֹן דַּאֲמַר לֵיהּ:",
+          "english": "such as when he said to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַנִּיחֵם עַל גַּבֵּי קַרְקַע וְהִיפָּטֵר.",
+          "english": "Place it upon the ground and be dismissed."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי הָכִי, מַאי לְמֵימְרָא?",
+          "english": "If so, what is the purpose of stating it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב הוּנָא בַר מָנוֹחַ מִשּׁמֵיהּ דְּרַב אַחָא בְרֵיהּ דְּרַב אִיקָא: הָכָא בְּמַאי עָסְקִינַן – כְּגוֹן דַּאֲמַר לֵיהּ: הַנִּיחֵם עַל גַּבֵּי קַרְקַע וְהִפָּטֵר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:7:1",
+            "hebrew": "דאמר לו נכרי - לישראל ראשון:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the non-Jew's instruction to deposit the money and be dismissed was directed at the first Jew, the middleman."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:7:2",
+            "hebrew": "הניחם על גבי קרקע והפטר - וכן עשה ומשם נטלם ישראל שני:",
+            "english": "",
+            "takeaway": "רש״י explains that the middleman complied by placing the money on the ground, and the second Jew then acquired it directly from that location."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Pappa: The non-Jew took the money and gave it by hand",
+      "stepSummary": "Rav Pappa resolves the difficulty by suggesting the non-Jew took the money from the middleman and gave it directly to the second Jew by hand.",
+      "whatsHappening": "רַב פָּפָא offers a different resolution. The non-Jew physically took the money and handed it to the second Jew.",
+      "deeperAnalysis": "The non-Jew actively participated in the transfer. This avoids the redundancy problem because the baraita teaches that even with physical involvement, the middleman is not seen as taking interest.",
+      "keyTerms": [
+        {
+          "term": "נָטַל",
+          "meaning": "took"
+        },
+        {
+          "term": "נָתַן בַּיָּד",
+          "meaning": "gave by hand"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רַב פָּפָּא: כְּגוֹן שֶׁנָּטַל וְנָתַן בַּיָּד.",
+          "english": "Rather, Rav Pappa said: Such as where he took and gave by hand."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאַכַּתִּי, מַאי לְמֵימְרָא?",
+          "english": "And yet, what to say?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "! מַהוּ דְּתֵימָא:",
+          "english": "Lest you say:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גּוֹי גּוּפֵיהּ כִּי עָבֵיד –",
+          "english": "A gentile himself, when he does –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַדַּעְתָּא דְּיִשְׂרָאֵל קָא גָמֵיר וְיָהֵיב,",
+          "english": "With the knowledge of Israel he takes and gives,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "קָא מַשְׁמַע לַן.",
+          "english": "It teaches us."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אָמַר רַב פָּפָא: כְּגוֹן שֶׁנָּטַל וְנָתַן בַּיָּד.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:8:1",
+            "hebrew": "כגון שנשא ונתן הנכרי ביד - וקבלם מן הראשון ונתנם לשני:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Pappa's scenario involves the non-Jew physically receiving the money from the first Jew and handing it to the second Jew."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:8:2",
+            "hebrew": "אדעתא דידיה דישראל - שהרי הוא הביאו אצלו והוי נכרי שלוחו ונחמיר מדרבנן למיסר כדמחמרינן בסיפא:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern is that the non-Jew might be acting as the agent of the first Jew, which would require a stricter prohibition according to rabbinic law."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71b:8:1",
+            "hebrew": "כגון שנשא ונתן ביד - אומר רבינו תם דהשתא תו לא אמרינן סיפא לחומרא כדהוה אמרינן מעיקרא אלא מיירי נמי כגון שנטל ונתן ביד שקיבל ישראל המעות מן הנכרי ונתנם לחבירו וקמ\"ל דלא אמרינן אדעתא דנכרי גמר ומקני ליה וה\"נ איכא בשלמא בס\"פ ארבעה אחין (יבמות דף לד.) דלא קאי גבי בשלמא כולהו משכחת להו דשוו שליח ומתוך פ\"ה ור\"ח משמע דלעולם סיפא לחומרא כתוב בירושלמי ישראל שמנהו נכרי אפוטרופוס או סנטר מותר ללוות ממנו ברבית ונכרי שמנהו ישראל אפוטרופוס או סנטר אסור ללוות ממנו ברבית מעותיו של נכרי שמופקדין ביד ישראל אסור ללוות ממנו ברבית מעותיו של ישראל שמופקדין ביד נכרי מותר ללוות ממנו ברבית זה הכלל כל שהוא באחריות ישראל אסור באחריות נכרי מותר ובתשובה אחת כתב רבינו תם דהיתר גמור הוא כהאי גוונא שישלח ישראל הלוה משכנותיו על ידי נכרי או על ידי עבדו והמלוה יקבל משכונות מיד נכרי ויתן. המעות לנכרי או אפי' לישראל אך שיאמר המלוה אני מלוה לך בשביל הנכרי ולא יהא סומך המלוה כלל על הלוה כ\"א על המשכונות והלוה הוא מסולק מן המשכון שהרי אם אבד אין לו דין ודברים עם המלוה שהרי לא קבלו אלא מיד נכרי ומותר לישראל להיות ערב בשביל נכרי דישראל המלוה לא בתר ערבא אזיל אלא בתר לוה אזיל ואי לא יפרע הנכרי יפרע הערב הקרן והרבית דהשתא הוא דמוזיף לנכרי:",
+            "english": "",
+            "takeaway": "תוספות (רבינו תם) argues that the second clause is not stricter, but rather describes the same scenario where the Jew receives money from the non-Jew and gives it to another, teaching that the non-Jew does not acquire the money on behalf of the first Jew."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י maintains that the second clause is stricter because the non-Jew acts as the agent of the first Jew, while תוספות (רבינו תם) argues that the second clause is not stricter but rather describes the same scenario, teaching that the non-Jew does not acquire the money on behalf of the first Jew."
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Ashi: Agency for a non-Jew exists in all Torah laws except Teruma",
+      "stepSummary": "Rav Ashi offers a new approach: the principle 'no agency for a non-Jew' only applies to Teruma, but in all other Torah laws, a non-Jew can have an agent.",
+      "whatsHappening": "רַב אָשֵׁי introduces a new perspective on agency for non-Jews. He limits the principle of no agency to תְּרוּמָה.",
+      "deeperAnalysis": "In all other areas of Torah law, a non-Jew can appoint an agent. This resolves the initial difficulty because the middleman acts as the non-Jew's agent.",
+      "keyTerms": [
+        {
+          "term": "תְּרוּמָה",
+          "meaning": "the priestly portion"
+        },
+        {
+          "term": "כָּל הַתּוֹרָה כּוּלָּהּ",
+          "meaning": "all of Torah law"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב אָשֵׁי אָמַר:",
+          "english": "Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי –",
+          "english": "When we say there is no agency for a gentile –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָנֵי מִילֵּי בִּתְרוּמָה,",
+          "english": "these matters are concerning teruma,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל בְּכׇל הַתּוֹרָה כּוּלָּהּ –",
+          "english": "but concerning all the Torah in its entirety –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יֵשׁ שְׁלִיחוּת לְגוֹי.",
+          "english": "there is agency for a gentile."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב אָשֵׁי אָמַר: כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי – הָנֵי מִילֵּי בִּתְרוּמָה, אֲבָל בְּכָל הַתּוֹרָה כּוּלָּהּ – יֵשׁ שְׁלִיחוּת לְגוֹי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        57
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection of Rav Ashi: The principle is derived from Teruma",
+      "stepSummary": "The Gemara rejects Rav Ashi's view, explaining that the principle of agency is derived from Teruma, so it applies universally.",
+      "whatsHappening": "The Gemara rejects רַב אָשֵׁי's view. It shows that the principle of agency is derived from תְּרוּמָה and applies universally.",
+      "deeperAnalysis": "The verse in תְּרוּמָה teaches that agents must be members of the covenant. This derivation applies to all agency, not just תְּרוּמָה. Therefore, רַב אָשֵׁי's distinction is incorrect.",
+      "keyTerms": [
+        {
+          "term": "בְּרוּתָא",
+          "meaning": "an error"
+        },
+        {
+          "term": "בְּנֵי בְרִית",
+          "meaning": "members of the covenant"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא דְּרַב אָשֵׁי בְּרוּתָא הִיא:",
+          "english": "And this of Rav Ashi is an error:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי שְׁנָא תְּרוּמָה דְּלָא,",
+          "english": "What is different about teruma that not,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּכְתִיב ״אַתֶּם״ – ״גַּם אַתֶּם״:",
+          "english": "For it is written \"you\" – \"also you\":"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָה אַתֶּם בְּנֵי בְּרִית –",
+          "english": "What you, sons of the covenant –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף שְׁלוּחֲכֶם נָמֵי בְּנֵי בְּרִית.",
+          "english": "Also your agents, too, sons of the covenant."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁלִיחוּת דְּכׇל הַתּוֹרָה כּוּלָּהּ נָמֵי מִתְּרוּמָה גָּמְרִינַן לַהּ.",
+          "english": "Agency of all the Torah entirely, too, from teruma we learn it."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֶלָּא דְּרַב אָשֵׁי בְּרוּתָא הִיא.",
+          "english": "Rather, this of Rav Ashi is an error."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא דְּרַב אָשֵׁי בְּרוּתָא הִיא: מַאי שְׁנָא תְּרוּמָה דְּלָא, דִּכְתִיב ״אַתֶּם״ – ״גַּם אַתֶּם״: מָה אַתֶּם בְּנֵי בְרִית – אַף שְׁלוּחֲכֶם נָמֵי בְּנֵי בְרִית.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        58
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:11:1",
+            "hebrew": "שליחות דכל התורה כולה - שיהא שלוחו כמותו:",
+            "english": "",
+            "takeaway": "רש״י explains that the principle of שליחות דכל התורה כולה means that the agent is considered as the principal himself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:11:2",
+            "hebrew": "מתרומה גמרינן לה - בקדושין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the derivation of agency from תרומה is specifically applied in the context of קידושין."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "Alternative Rav Ashi: A non-Jew cannot be an agent for a Jew, but a Jew can be an agent for a non-Jew",
+      "stepSummary": "An alternative version of Rav Ashi's view: a non-Jew cannot be an agent for a Jew, but a Jew can be an agent for a non-Jew.",
+      "whatsHappening": "The Gemara presents an alternative version of רַב אָשֵׁי's view. It distinguishes between the direction of agency.",
+      "deeperAnalysis": "A non-Jew cannot be an agent for a Jew, but a Jew can be an agent for a non-Jew. This resolves the initial difficulty because the middleman acts as the non-Jew's agent.",
+      "keyTerms": [
+        {
+          "term": "אִינְהוּ לְדִידַן",
+          "meaning": "they for us"
+        },
+        {
+          "term": "אֲנַן לְדִידְהוּ",
+          "meaning": "we for them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּאָמְרִי, אָמַר רַב אָשֵׁי:",
+          "english": "There are those who say, Rav Ashi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי הָנֵי",
+          "english": "When we say there is no agency for a gentile"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִילֵּי אִינְהוּ לְדִידַן,",
+          "english": "these matters are for us,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל אֲנַן לְדִידְהוּ הָוֵינָא לְהוּ שְׁלִיחַ.",
+          "english": "but we for them we are their agent."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָא דְּרַב אָשֵׁי בְּרוּתָא הִיא,",
+          "english": "And this of Rav Ashi is an error,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַאי שְׁנָא אִינְהוּ לְדִידַן דְּלָא –",
+          "english": "What is different that they for us not –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דִּכְתִיב: ״אַתֶּם״ ״גַּם אַתֶּם״ – לְרַבּוֹת שְׁלוּחֲכֶם:",
+          "english": "For it is written: 'You' 'also you' – to include your agents:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מָה אַתֶּם בְּנֵי בְרִית –",
+          "english": "What you sons of the covenant –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אַף שְׁלוּחֲכֶם בְּנֵי בְרִית.",
+          "english": "Also your agents sons of the covenant."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָּא דְּאָמְרִי, אָמַר רַב אָשֵׁי: כִּי אָמְרִינַן אֵין שְׁלִיחוּת לְגוֹי הָנֵי מִילֵּי אִינְהוּ לְדִידַן, אֲבָל אֲנַן לְדִידְהוּ הָוֵינָא לְהוּ שְׁלִיחַ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:12:1",
+            "hebrew": "אבל אנן לדידהו - כגון רישא דברייתא הוי שליח וסיפא לחומרא כדאמרן:",
+            "english": "",
+            "takeaway": "רש״י explains that the principle that a Jew can be an agent for a non-Jew applies to the first part of the ברייתא, while the second part is a stringency as previously stated."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection of alternative Rav Ashi: The principle applies universally",
+      "stepSummary": "The Gemara rejects the alternative Rav Ashi's view, explaining that the principle of agency applies universally, so a Jew cannot be an agent for a non-Jew either.",
+      "whatsHappening": "The Gemara rejects the alternative רַב אָשֵׁי's view. It shows that the principle of agency applies universally.",
+      "deeperAnalysis": "The derivation from תְּרוּמָה applies to all agency. Therefore, a Jew cannot be an agent for a non-Jew either. The alternative רַב אָשֵׁי's view is also incorrect.",
+      "keyTerms": [
+        {
+          "term": "קָאָמַר",
+          "meaning": "it says"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲנַן לְדִידְהוּ נָמֵי, מָה אַתֶּם בְּנֵי בְרִית קָאָמַר!",
+          "english": "We for them also, what are you, children of the covenant, saying!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא הָא דְּרַב אָשֵׁי בְּרוּתָא הִיא.",
+          "english": "Rather, this is Rav Ashi of Burtah's error."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲנַן לְדִידְהוּ נָמֵי, מָה אַתֶּם בְּנֵי בְרִית קָאָמַר! אֶלָּא הָא דְּרַב אָשֵׁי בְּרוּתָא הִיא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        60
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:13:1",
+            "hebrew": "אנן לדידהו נמי - מה אתם בני ברית ואתם היינו שולחים לא נאמרה שליחות אלא בשולח ישראל ושליח ישראל מאן דגריס הכא אף שלוחכם בני ברית משתבש:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'מה אתם בני ברית' teaches that agency (שליחות) only exists between a Jew sending and a Jew receiving, thereby refuting the alternative Rav Ashi's view that a Jew can be an agent for a non-Jew."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "Ravina: A non-Jew has rabbinic acquisition power like a minor",
+      "stepSummary": "Ravina offers a new approach: a non-Jew has rabbinic acquisition power similar to a minor, even though he has no agency.",
+      "whatsHappening": "רַבִּינָא introduces a new perspective on the non-Jew's ability to acquire property. He distinguishes between agency and acquisition power.",
+      "deeperAnalysis": "Even though a non-Jew has no agency, he has rabbinic acquisition power similar to a minor. This resolves the initial difficulty because the non-Jew acquires the money through the middleman.",
+      "keyTerms": [
+        {
+          "term": "זְכִיָּה",
+          "meaning": "acquisition"
+        },
+        {
+          "term": "מִדְּרַבָּנַן",
+          "meaning": "by rabbinic law"
+        },
+        {
+          "term": "קָטָן",
+          "meaning": "a minor"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבִינָא אָמַר: נְהִי דִּשְׁלִיחוּת לְגוֹי לֵית לֵיהּ,",
+          "english": "Ravina says: Granted, agency for a gentile he does not have,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "זְכִיָּה מִדְּרַבָּנַן אִית לֵיהּ,",
+          "english": "acquisition by rabbinic law he has,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִידֵּי דְּהָוֵי אַקָּטָן.",
+          "english": "from a matter that is on a minor."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "קָטָן לָאו אַף עַל גַּב דְּלֵית לֵיהּ שְׁלִיחוּת,",
+          "english": "A minor, not even though he does not have agency,"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבִינָא אָמַר: נְהִי דִּשְׁלִיחוּת לְגוֹי לֵית לֵיהּ, זְכִיָּה מִדְּרַבָּנַן אִית לֵיהּ, מִידֵּי דְּהָוֵי אַקָּטָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        61
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:14:1",
+            "hebrew": "זכיה מדרבנן אית ליה - שיהא ישראל זוכה לצורך נכרי הלכך ההוא ישראל זוכה ליה מדרבנן בהלואה זו מישראל שני:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase זכיה מדרבנן אית ליה means a Jew can acquire property on behalf of a non-Jew through rabbinic enactment, so the middleman acquires the loan for the non-Jew from the second Jew."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71b:14:2",
+            "hebrew": "קטן לית ליה שליחות - דכי כתב שליחות בגדול כתב בראוי לתרום שיהא הקדשו הקדש ודיבורו חל דגבי הקדשות ונדרים איש כתיב וגבי תרומה מאת כל איש אשר ידבנו לבו וגו' (שמות כ״ה:ב׳):",
+            "english": "",
+            "takeaway": "רש״י explains that a minor lacks agency because the Torah's laws of agency are derived from verses specifying an adult male (איש) capable of sanctifying property and making vows."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T13:00:26.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 115.60886400000891,
+      "structure": 1671.18811810005,
+      "validate": 220.93432050023694,
+      "translate": 301.19457499985583,
+      "meforshim": 479.83622589998413,
+      "teaching": 721.2897819000646
+    }
+  }
+}

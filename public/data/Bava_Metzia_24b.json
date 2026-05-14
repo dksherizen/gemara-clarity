@@ -1,0 +1,1215 @@
+{
+  "ref": "Bava Metzia 24b",
+  "masechet": "Bava_Metzia",
+  "daf": 24,
+  "amud": "b",
+  "mainTopic": "מציאה ברוב גויים ורוב ישראל · חייב להכריז וסימנים במציאה",
+  "overview": "(1) The Gemara analyzes the status of found items in areas with a majority of non-Jews or Jews, discussing the views of רבי שמעון בן אלעזר and resolving apparent contradictions through anecdotes involving רב אסי, רב יהודה, רבא, and רבי חנינא. (2) The Mishnah lists items requiring announcement; the Gemara analyzes the definitions of 'clusters' (צבורים) and 'towers' (מגדלים) of coins, discussing the role of quantity and arrangement as identifying marks (סימנים). — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 11,
+      "topic": "מציאה ברוב גויים ורוב ישראל",
+      "gist": "The Gemara analyzes the status of found items in areas with a majority of non-Jews or Jews, discussing the views of רבי שמעון בן אלעזר and resolving apparent contradictions through anecdotes involving רב אסי, רב יהודה, רבא, and רבי חנינא.",
+      "openingFormula": "וְאִיבָּעֵית אֵימָא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 12,
+      "endLine": 12,
+      "topic": "חייב להכריז וסימנים במציאה",
+      "gist": "The Mishnah lists items requiring announcement; the Gemara analyzes the definitions of 'clusters' (צבורים) and 'towers' (מגדלים) of coins, discussing the role of quantity and arrangement as identifying marks (סימנים). — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳",
+      "firstStepNumber": 11,
+      "lastStepNumber": 11
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "Alternative reading of the Mishnah: The Sages' view on found items",
+      "stepSummary": "The Gemara proposes an alternative interpretation of the Mishnah, suggesting that the Sages hold that a finder in a majority non-Jewish area keeps the item without needing to announce it, waiting for the owner to identify it with a sign.",
+      "whatsHappening": "The גמרא introduces a new line of reasoning (וְאִיבָּעֵית אֵימָא) to explain the משנה's ruling on found items in a majority non-Jewish area. This is a setup/transition line.",
+      "deeperAnalysis": "The גמרא suggests that the חכמים hold that the phrase 'הן שלו' does not mean the finder keeps it immediately. Instead, it means he is not obligated to announce it (לְהַכְרִיז), but should wait for a sign (סִימָנָא).",
+      "keyTerms": [
+        {
+          "term": "וְאִיבָּעֵית אֵימָא",
+          "meaning": "And if you wish, say (an alternative explanation)"
+        },
+        {
+          "term": "חֲכָמִים",
+          "meaning": "The Sages (as opposed to a specific Rabbi)"
+        },
+        {
+          "term": "לְהַכְרִיז",
+          "meaning": "To announce (a found item)"
+        },
+        {
+          "term": "סִימָנָא",
+          "meaning": "A distinguishing sign (to prove ownership)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִיבָּעֵית אֵימָא: לְעוֹלָם רַבָּנַן, מִי קָתָנֵי ״הֵן שֶׁלּוֹ״?",
+          "english": "And if you wish, say: The Rabbis always, did they say 'they are his'?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״אֵינוֹ חַיָּיב לְהַכְרִיז״ קָתָנֵי.",
+          "english": "He said 'he is not obligated to announce'."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְיַנִּיחַ, וְיֵיתֵי יִשְׂרָאֵל וְיָהֵיב בֵּיהּ סִימָנָא וְשָׁקֵיל.",
+          "english": "And let him leave it, and let Israel come and give a sign in it and take."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִיבָּעֵית אֵימָא: לְעוֹלָם רַבָּנַן",
+      "macroPhase": "opening_question",
+      "branchRole": "alternative_approach",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:1:1",
+            "hebrew": "ואיבעית אימא לעולם רבנן - ובשאינה טמון ולא תפשוט מינה דמודו ליה ברוב כנענים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that this alternative reading applies only when the item is not hidden (שאינה טמון), and warns against deriving from it that the רבנן agree with רבי יהודה regarding a majority of non-Jews."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:1:2",
+            "hebrew": "מי קתני כו' אינו חייב להכריז קתני - דכיון דרובא כנענים דלמא דכנענים הוא ושלו נמי לא הויא דלא אזלי רבנן בתר רובא בממונא:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'הן שלו' is interpreted as 'אינו חייב להכריז' because, in a majority non-Jewish area, the item might belong to a non-Jew, and the רבנן do not follow the majority rule in monetary matters."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from Rav Asi's ruling on a jug of wine",
+      "stepSummary": "The Gemara challenges the previous reading with a statement from Rav Asi regarding a jug of wine found in a majority non-Jewish city, which implies the finder keeps it but it is forbidden for benefit until a sign is given.",
+      "whatsHappening": "The גמרא brings a proof (תּא שׁמַע) from רַב אַסִּי to challenge the idea that the חכמים simply wait for a sign. This is a challenge line.",
+      "deeperAnalysis": "רַב אַסִּי rules that a jug of wine found in a majority non-Jewish city is permitted as a found item (מוּתּרֶת מִשּׁוּם מְצִיאָה) but forbidden for benefit (אֲסוּרָה בַּהֲנָאָה). This implies the finder keeps it but cannot use it until the owner claims it, contradicting the simple reading that the finder just keeps it.",
+      "keyTerms": [
+        {
+          "term": "תּא שׁמַע",
+          "meaning": "Come and hear (a challenge/proof)"
+        },
+        {
+          "term": "רַב אַסִּי",
+          "meaning": "Rav Asi (a Sage)"
+        },
+        {
+          "term": "מוּתּרֶת מִשּׁוּם מְצִיאָה",
+          "meaning": "Permitted as a found item (the finder keeps it)"
+        },
+        {
+          "term": "אֲסוּרָה בַּהֲנָאָה",
+          "meaning": "Forbidden for benefit (cannot use it)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע, דְּאָמַר רַב אַסִּי:",
+          "english": "Come and hear, that Rav Asi said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָצָא חָבִית יַיִן בְּעִיר שֶׁרוּבָּהּ גּוֹיִם –",
+          "english": "Found a jar of wine in a city whose majority are gentiles –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מוּתֶּרֶת מִשּׁוּם מְצִיאָה וַאֲסוּרָה בַּהֲנָאָה.",
+          "english": "It is permitted due to finding and forbidden in benefit."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בָּא יִשְׂרָאֵל וְנָתַן בָּהּ סִימָן –",
+          "english": "An Israelite came and put a sign on it –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מוּתֶּרֶת בִּשְׁתִיָּה, לְמוֹצְאָהּ.",
+          "english": "It is permitted for drinking, to remove it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תּא שׁמַע, דּאָמַר רַב אַסִּי",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:2:1",
+            "hebrew": "מותרת משום מציאה - דאינו חייב להכריז:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase מותרת משום מציאה means the finder is not obligated to make a proclamation (להכריז) about the found item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:2:2",
+            "hebrew": "ואסורה בהנאה - ולקמיה פריך א\"כ מה היתר יש במציאתה:",
+            "english": "",
+            "takeaway": "רש״י notes that the subsequent difficulty (פריך) will question what actual permission (היתר) exists in the finding if the item is forbidden for benefit."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:2:3",
+            "hebrew": "בא ישראל ונתן סימן - יצאת מספק יין כנענים ומותרת בשתיה למוצאה דכיון דרובא כנענים נתייאשו הבעלים:",
+            "english": "",
+            "takeaway": "רש״י explains that when a Jew provides a sign, the item is permitted for drinking by the finder because the owners have despaired (נתייאשו הבעלים) due to the majority of non-Jews in the city."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Rav Asi agrees with Rabbi Shimon ben Elazar on one point and disagrees on another",
+      "stepSummary": "The Gemara resolves the challenge by suggesting that Rav Asi follows Rabbi Shimon ben Elazar's view that in a majority non-Jewish area the finder keeps it, but Rav Asi adds the restriction of 'אסורה בהנאה' which Rabbi Shimon ben Elazar did not explicitly state, or perhaps Rav Asi disagrees with him on the application to majority Jewish areas.",
+      "whatsHappening": "The גמרא offers a resolution to the apparent contradiction between the חכמים' view and רַב אַסִּי's statement. This is a resolution line.",
+      "deeperAnalysis": "The גמרא asks 'כּמַאן?' (According to whom?) and answers 'כרַבּי שׁמְעוֹן בֶּן אֶלְעָזָר'. It suggests that רַב אַסִּי agrees with רַבּי שׁמְעוֹן בֶּן אֶלְעָזָר that in a majority non-Jewish area the finder keeps it, but disagrees on whether this applies in a majority Jewish area, or adds the 'אֲסוּרָה בַּהֲנָאָה' restriction.",
+      "keyTerms": [
+        {
+          "term": "כּמַאן",
+          "meaning": "According to whom?"
+        },
+        {
+          "term": "רַבּי שׁמְעוֹן בֶּן אֶלְעָזָר",
+          "meaning": "Rabbi Shimon ben Elazar (a Sage with a specific view on מְצִיאָה)"
+        },
+        {
+          "term": "סָבַר לַהּ כּוֹתֵיהּ בַּחֲדָא",
+          "meaning": "He held like him on one point"
+        },
+        {
+          "term": "פְּלִיג עֲלֵיהּ בַּחֲדָא",
+          "meaning": "He disagreed with him on another point"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּמַאן? כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר.",
+          "english": "According to whom? According to Rabbi Shimon ben Elazar."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁמַע מִינַּהּ כִּי קָאָמַר רַבִּי שִׁמְעוֹן",
+          "english": "Hear from it that Rabbi Shimon"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בֶּן אֶלְעָזָר –",
+          "english": "ben Elazar says –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּרוֹב גּוֹיִם אֲבָל בְּרוֹב יִשְׂרָאֵל לָא.",
+          "english": "in a majority of nations, but in a majority of Israel, no."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְעוֹלָם אֵימָא לָךְ רַבִּי שִׁמְעוֹן בֶּן",
+          "english": "Let me always say to you that Rabbi Shimon ben"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלְעָזָר אֲפִילּוּ בְּרוֹב יִשְׂרָאֵל נָמֵי קָאָמַר,",
+          "english": "Elazar even in a majority of Israel also says,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְרַב אַסִּי סָבַר לַהּ כְּווֹתֵיהּ בַּחֲדָא,",
+          "english": "And Rav Assi holds it like him in one,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וּפְלִיג עֲלֵיהּ בַּחֲדָא.",
+          "english": "and disagrees with him in one."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כּמַאן? כּרַבּי שׁמְעוֹן בֶּן אֶלְעָזָר",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:3:1",
+            "hebrew": "סבר כוותיה בחדא - ולא בעי למימר דסבר כרבנן דא\"כ תפשוט דמודו רבנן ברוב כנענים ומכל מקום יש לפשוט דהלכה כמותו ברוב כנענים:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara does not attribute Rav Asi's view to the רבנן because doing so would prove that the רבנן agree that in a majority non-Jewish area the finder keeps the item, and although one could derive that the הלכה follows this view in a majority non-Jewish area, the Gemara prefers to attribute it to רבי שמעון בן אלעזר."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "שאלה",
+      "title": "Question: What is the practical difference between 'מוותרת משום מציאה' and 'אסורה בהנאה'?",
+      "stepSummary": "The Gemara asks what practical halachic difference exists between permitting an item as a found item but forbidding it for benefit.",
+      "whatsHappening": "The גמרא raises a clarifying question about the terminology used by רַב אַסִּי. This is a question line.",
+      "deeperAnalysis": "If the item is 'מוּתּרֶת מִשּׁוּם מְצִיאָה' (the finder keeps it), why is it 'אֲסוּרָה בַּהֲנָאָה' (forbidden for benefit)? The גמרא seeks to understand the practical implication of this distinction.",
+      "keyTerms": [
+        {
+          "term": "לְמַאי הִלְכְתָּא",
+          "meaning": "For what halachic purpose?"
+        },
+        {
+          "term": "רַב אָשֵׁי",
+          "meaning": "Rav Ashi (a Sage)"
+        },
+        {
+          "term": "לְקַנְקַנָּהּ",
+          "meaning": "To use the jug/container"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי מֵאַחַר דַּאֲסִירָא בַּהֲנָאָה מוּתֶּרֶת מִשּׁוּם מְצִיאָה,",
+          "english": "And if from the fact that it is forbidden in benefit, it is permitted because of finding,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְמַאי הִלְכְתָא? אָמַר רַב אָשֵׁי: לְקַנְקַנָּהּ.",
+          "english": "To what halakha? Rav Ashi said: To its container."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי מֵאַחַר דַּאֲסִירָא בַּהֲנָאָה מוּתּרֶת מִשּׁוּם מְצִיאָה",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "Anecdote: Rav Yehuda's ruling on coins found in the River Biran",
+      "stepSummary": "The Gemara relates an incident where a man found coins in the River Biran, and Rav Yehuda told him to announce it, despite it being a majority non-Jewish area, because the river was blocked and dug by Jews.",
+      "whatsHappening": "The גמרא presents a new anecdote to test the law in a majority non-Jewish area. This is a setup/transition line.",
+      "deeperAnalysis": "A man found four coins in a cloth in the נְהַר בֵּירָן. רַב יְהוּדָה told him to announce it. The גמרא notes that this is like 'זוֹטוֹ שֶׁל יָם' (the edge of the sea), where one does not announce. The resolution is that the נְהַר בֵּירָן is different because Jews blocked it and dug it, so it is assumed the coins fell from a Jew and the owner does not despair.",
+      "keyTerms": [
+        {
+          "term": "נְהַר בֵּירָן",
+          "meaning": "The River Biran (a specific location)"
+        },
+        {
+          "term": "זוֹטוֹ שֶׁל יָם",
+          "meaning": "The edge of the sea (a place where items are lost and not announced)"
+        },
+        {
+          "term": "יִשְׂרָאֵל סָכְרוּ לֵיהּ",
+          "meaning": "Jews blocked it"
+        },
+        {
+          "term": "יִשְׂרָאֵל כָּרוּ לֵיהּ",
+          "meaning": "Jews dug it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דְּאַשְׁכַּח אַרְבָּעָה זוּזֵי דְּצַיְירִי",
+          "english": "That man who found four silver coins of the Caesareans"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בִּסְדִינָא וּשְׁדוּ בִּנְהַר בֵּירָן,",
+          "english": "in a sheet and threw them into the River Beiran,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב יְהוּדָה.",
+          "english": "came before Rav Yehuda."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: זִיל אַכְרֵיז.",
+          "english": "He said to him: Go and proclaim."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָא זוֹטוֹ שֶׁל יָם הוּא!",
+          "english": "And isn't this the sea of the ocean!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שָׁאנֵי נְהַר בֵּירָן, כֵּיוָן דְּמִתְּקִיל לָא מִיָּאַשׁ.",
+          "english": "River Beiran is different, since it is deep, one does not despair."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְהָא רוּבָּא גּוֹיִם נִינְהוּ,",
+          "english": "And aren't the majority Gentiles,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "שְׁמַע מִינַּהּ אֵין הֲלָכָה כְּרַבִּי שִׁמְעוֹן",
+          "english": "Learn from it that the halakha is not in accordance with Rabbi Shimon"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בֶּן אֶלְעָזָר אֲפִילּוּ בְּרוֹב גּוֹיִם!",
+          "english": "ben Elazar even in a majority of Gentiles!"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "שָׁאנֵי נְהַר בֵּירָן,",
+          "english": "River Beiran is different,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "דְּיִשְׂרָאֵל סָכְרוּ לֵיהּ וְיִשְׂרָאֵל כָּרוּ לֵיהּ.",
+          "english": "since Israelites dammed it and Israelites dug it."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "כֵּיוָן דְּיִשְׂרָאֵל סָכְרוּ לֵיהּ –",
+          "english": "Since Israelites dammed it –"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אֵימוֹר מִיִּשְׂרָאֵל נְפַל,",
+          "english": "say it fell from an Israelite,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְכֵיוָן דְּיִשְׂרָאֵל כָּרוּ לֵיהּ – לָא מִיָּאַשׁ.",
+          "english": "and since Israelites dug it – one does not despair."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גַבְרָא דְאַשְׁכַּח אַרְבָּעָה זוּזֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:5:2",
+            "hebrew": "דמתקיל - יש בו מכשולים אבנים וסתימת גדר שעושין לדגים ולא מיאש סבר לא יוכל הנהר להוליכם חוץ למכשולים ורגילים היו לסוכרו ולנקותו ולכרותו שישטפו מימיו וסומך שימצאם כשיסכרו אותו וינקום:",
+            "english": "",
+            "takeaway": "רש״י explains that the river is filled with obstacles and fences for fishing, so the owner does not despair because he believes the river cannot carry the coins past these barriers and expects to find them when the river is cleared."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:5:4",
+            "hebrew": "אימא מישראל נפיל - לפיכך חייב להכריז ולא אמרינן יניח כדאמרינן לעיל ברוב כנענים לרבנן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that since the river is blocked by Jews, we assume the coins fell from a Jew, therefore the finder must announce and cannot simply keep them as we do in a majority non-Jewish area according to the רבנן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:5:5",
+            "hebrew": "לא מיאש - שהכורה ימצאם:",
+            "english": "",
+            "takeaway": "רש״י explains that the owner does not despair because the one who digs the river will find the coins."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Anecdote: Rav Yehuda and Mar Shmuel on a purse in the grain market",
+      "stepSummary": "The Gemara relates an incident where Rav Yehuda asked Mar Shmuel about a purse found in the grain market, and Mar Shmuel ruled that the finder keeps it but must return it if a sign is given, acting beyond the letter of the law.",
+      "whatsHappening": "The גמרא presents another anecdote to illustrate the law in a market setting. This is a setup/transition line.",
+      "deeperAnalysis": "רַב יְהוּדָה asked מַר שְׁמוּאֵל about a purse found in the grain market. מַר שְׁמוּאֵל said the finder keeps it, but if a Jew comes with a sign, he must return it. רַב יְהוּדָה questioned how both can be true. מַר שְׁמוּאֵל explained that one should act 'לִפְנִים מִשּׁוּרַת הַדִּין' (beyond the letter of the law), citing his father's example of returning donkeys after twelve months.",
+      "keyTerms": [
+        {
+          "term": "מַר שְׁמוּאֵל",
+          "meaning": "Mar Shmuel (a Sage)"
+        },
+        {
+          "term": "לִפְנִים מִשּׁוּרַת הַדִּין",
+          "meaning": "Beyond the letter of the law"
+        },
+        {
+          "term": "אַרְנָקִי",
+          "meaning": "A purse"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב יְהוּדָה הֲוָה שָׁקֵיל וְאָזֵיל בָּתְרֵיהּ",
+          "english": "Rav Yehuda was taking and going after him"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּמָר שְׁמוּאֵל בְּשׁוּקָא דְּבֵי דַיְסָא,",
+          "english": "Our Master Shmuel in the market of the dyers,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: מָצָא כָּאן אַרְנָקִי, מַהוּ?",
+          "english": "He said to him: One found here a purse, what is the law?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "He said to him: Behold these are his."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בָּא יִשְׂרָאֵל וְנָתַן בָּהּ סִימָן, מַהוּ?",
+          "english": "An Israelite came and gave it a sign, what is the law?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר לֵיהּ: חַיָּיב לְהַחְזִיר. תַּרְתֵּי!",
+          "english": "He said to him: He is obligated to return. Twice!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲמַר לֵיהּ: לִפְנִים מִשּׁוּרַת הַדִּין.",
+          "english": "He said to him: Beyond the line of the law."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "כִּי הָא דַּאֲבוּהּ דִּשְׁמוּאֵל אַשְׁכַּח הָנָךְ",
+          "english": "For behold that the father of Shmuel found those"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "חֲמָרֵי בְּמַדְבְּרָא וְאַהְדְּרִינְהוּ לְמָרַיְיהוּ לְבָתַר תְּרֵיסַר",
+          "english": "Donkeys in the desert and returned them to their masters after twelve"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "יַרְחֵי שַׁתָּא, לִפְנִים מִשּׁוּרַת הַדִּין.",
+          "english": "Months of the year, beyond the line of the law."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב יְהוּדָה הֲוָה שָׁקֵיל וְאָזֵיל בָּתְרֵיהּ דְּמַר שְׁמוּאֵל",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:6:1",
+            "hebrew": "דבי דיסא - שמוכרים שם חטים כתושין לדייסא ורבים מצויין שם:",
+            "english": "",
+            "takeaway": "רש״י explains that שוקא דבי דיסא refers to a market where wheat is sold for porridge, a place crowded with many people."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:6:2",
+            "hebrew": "בתר תריסר ירחי שתא - מצאם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בתר תריסר ירחי שתא means the donkeys were found twelve months after they were lost."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:6:1",
+            "hebrew": "לבתר תריסר ירחי שתא כו' - פי' הן עצמן החזיר אע\"ג דלא היה צריך ליתן רק דמיהם כדתנן בפרקין (דף כח:) כל דבר שעושה ואוכל מטפל בו י\"ב חדש מכאן ואילך שם דמיהן ומניחן אבל רש\"י פירש שמצאן אחר י\"ב חדש שנאבדו קשה דמנלן . שיהא בשביל כך למוצא דהאובד אינו מתיאש שסבור שהמוצא יסבור שמקרוב נאבדו ויכריז:",
+            "english": "After twelve months — This means the owner himself returned them, even though he technically only needed to pay their monetary value, as taught later in our chapter (Bava Metzia 28b): regarding anything the finder can use for work and consume its produce, he takes care of it for twelve months; after that, he sets aside their value and may use the objects themselves. However, Rashi explains that the animals were found after twelve months had passed since they were lost. But this is difficult, because how do we know that the finder acquires the animals in such a case? The owner is not necessarily giving up hope, since he might assume the finder will think they were only recently lost and therefore announce them as lost property.",
+            "takeaway": "תוספות argues that the donkeys were returned by the owner himself after twelve months, rather than being found then, because the owner would not have despaired of recovery if the finder assumed they were recently lost."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:6:2",
+            "hebrew": "לפנים משורת הדין - מאשר יעשון נפקא לן לקמן בפרקין (בבא מציעא דף ל:) תימה דלא מייתי קרא הכא כדמייתי לקמן בעובדא דר' ישמעאל ובהגוזל קמא (ב\"ק דף ק. ושם ד\"ה לפנים) בעובדא דרבי חייא במראה דינר לשולחני ונמצא רע ולקמן בסוף פרק האומנין (בבא מציעא דף פג.) מייתי קרא אחרינא למען תלך בדרך טובים שהוא מדברי קבלה ושביק קרא דאשר יעשון שהוא מדברי תורה וי\"ל דלא מייתי קרא דאשר יעשון אלא במקום שאחרים חייבין והוא פטור כמו במראה דינר דאחרים דבעו למילף חייבים ור' חייא דלא בעי למילף פטור ולפנים משורת הדין שילם כמו אחרים וכן בעובדא דרבי ישמעאל דזקן ואינו לפי כבודו הוה ועשה לפנים משורת הדין כמו אחרים והכא בשמעתין דהדרינהו בתר תריסר ירחי שתא כ\"ע פטורים לכך לא מייתי קרא הכא ומ\"מ משום לפנים משורת הדין בעי ליה לאהדורי כיון שאינו מתחסר ממונא אבל בסוף האומנין (שם) בהנהו שקולאי ששברו לו החבית ועשו לו הפסד גדול משום לפנים משורת הדין אין לו להפסיד לכך מייתי קרא למען תלך בדרך טובים:",
+            "english": "",
+            "takeaway": "תוספות explains that the verse אשר יעשון is not cited here because everyone is exempt from returning the donkeys after twelve months, whereas it is cited in other cases where others are obligated but the individual acts beyond the letter of the law."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges רש״י's interpretation that the donkeys were found after twelve months, arguing instead that they were returned by the owner, and further explains why the verse for לפנים משורת הדין is omitted in this specific case."
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Anecdote: Rava and Rav Nachman on a purse in the leather market",
+      "stepSummary": "The Gemara relates an incident where Rava asked Rav Nachman about a purse found in the leather market, and Rav Nachman ruled that the finder keeps it even if a sign is given, comparing the owner's protest to screaming at a collapsed house.",
+      "whatsHappening": "The גמרא presents another anecdote to illustrate the law in a market setting. This is a setup/transition line.",
+      "deeperAnalysis": "רָבָא asked רַב נַחְמָן about a purse found in the leather market. רַב נַחְמָן said the finder keeps it, even if a Jew comes with a sign. רָבָא questioned how the owner would not protest. רַב נַחְמָן compared it to screaming at a collapsed house or a sunken ship, implying that the owner's protest is futile.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava (a Sage)"
+        },
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Nachman (a Sage)"
+        },
+        {
+          "term": "צוֹוֵחַ עַל בֵּיתוֹ שֶׁנָּפַל",
+          "meaning": "Screaming at his collapsed house"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא הֲוָה שָׁקֵיל וְאָזֵיל בָּתְרֵיהּ דְּרַב",
+          "english": "Rava was taking and going after Rav"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נַחְמָן בְּשׁוּקָא דְגִלְדָּאֵי,",
+          "english": "Nachman in the marketplace of butchers,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמְרִי לַהּ בְּשׁוּקָא דְרַבָּנַן,",
+          "english": "and they say to him in the marketplace of scholars,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: מָצָא כָּאן אַרְנָקִי, מַהוּ?",
+          "english": "He said to him: Here an arnak found, what is the law?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲמַר לֵיהּ: הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "He said to him: Behold these are his."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בָּא יִשְׂרָאֵל וְנָתַן בָּהּ סִימָן, מַהוּ?",
+          "english": "Israel came and put a sign in it, what is the law?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲמַר לֵיהּ: הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "He said to him: Behold these are his."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וַהֲלֹא עוֹמֵד וְצוֹוֵחַ!",
+          "english": "And isn't he standing and screaming!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נַעֲשָׂה כְּצוֹוֵחַ עַל בֵּיתוֹ שֶׁנָּפַל וְעַל",
+          "english": "He becomes as one screaming about his house that fell and about"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "סְפִינָתוֹ שֶׁטָּבְעָה בַּיָּם.",
+          "english": "his ship that sank in the sea."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא הֲוָה שָׁקֵיל וְאָזֵיל בָּתְרֵיהּ דְּרַב נַחְמָן",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        7
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:7:1",
+            "hebrew": "דגלדאי - רצענים:",
+            "english": "",
+            "takeaway": "רש״י explains that שׁוּקָא דְגִלְדָּאֵי refers to a market of רצענים, indicating a place where leather goods are traded."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Anecdote: Abaye's ruling on meat taken by a kite",
+      "stepSummary": "The Gemara relates an incident where a kite took meat and dropped it, and Abaye told the finder to keep it, despite it being a majority Jewish area, because it is like 'זוטו של ים'.",
+      "whatsHappening": "The גמרא presents another anecdote to test the law in a majority Jewish area. This is a setup/transition line.",
+      "deeperAnalysis": "A kite took meat and dropped it in the palm trees. אַבָּיֵי told the finder to keep it. The גמרא notes that this is a majority Jewish area, so it seems to follow רַבּי שׁמְעוֹן בֶּן אֶלְעָזָר even in a majority Jewish area. The resolution is that a kite is like 'זוֹטוֹ שֶׁל יָם'. The גמרא then raises a challenge from רַב's ruling that meat hidden from sight is forbidden. The resolution is that this case is where the finder saw it from the moment it was taken.",
+      "keyTerms": [
+        {
+          "term": "דַּיָּא",
+          "meaning": "A kite (a bird)"
+        },
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "Abaye (a Sage)"
+        },
+        {
+          "term": "כְּזוֹטוֹ שֶׁל יָם דָּמֵי",
+          "meaning": "It is like the edge of the sea"
+        },
+        {
+          "term": "בְּעוֹמֵד וְרוֹאֶהוּ",
+          "meaning": "When one stands and sees it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא דַּיּוֹ דְּשָׁקֵיל בִּשְׂרָא בְּשׁוּקָא וְשַׁדְיֵהּ",
+          "english": "That kite which takes meat in the market and throws it"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּצִנְיָיתָא דְּבֵי בַּר מָרִיּוֹן.",
+          "english": "in the forest of the house of Bar Mariyon."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּאַבָּיֵי, אֲמַר לֵיהּ: זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+          "english": "He came before Abaye, he said to him: Go and take it for yourself."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא רוּבָּא דְּיִשְׂרָאֵל נִינְהוּ,",
+          "english": "And yet the majority of Israel are they,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שָׁמְעַתְּ מִינַּהּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן",
+          "english": "Did you learn from it that the halakha is in accordance with Rabbi Shimon ben"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלְעָזָר אֲפִילּוּ בְּרוֹב יִשְׂרָאֵל!",
+          "english": "Elazar even in a majority of Israel!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שָׁאנֵי דַּיּוֹ, דִּכְזוֹטוֹ שֶׁל יָם דָּמֵי.",
+          "english": "A kite is different, as it is like the small part of the sea."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְהָא אָמַר רַב:",
+          "english": "And yet Rav said:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בָּשָׂר שֶׁנִּתְעַלֵּם מִן הָעַיִן –",
+          "english": "Meat that was hidden from the eye –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָסוּר! בְּעוֹמֵד וְרוֹאֵהוּ.",
+          "english": "Forbidden! When standing and seeing it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא דַּיָּא דְּשָׁקֵיל בִּשְׂרָא בְּשׁוּקָא",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:8:3",
+            "hebrew": "אסור - שמא נתחלף בנבילה:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav's ruling that meat hidden from sight is forbidden is due to the concern that it might have been mixed with a נבלה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:8:4",
+            "hebrew": "ורואהו - משנטלו עד שהשליכו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the resolution 'בעומד ורואהו' means the finder observed the meat from the moment it was taken by the bird until it was dropped."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:8:1",
+            "hebrew": "אתא לקמיה דרב גרסי' כדמשמע בירושלמי פרק אין מעמידין ואפילו לספרים דגרסי אביי פריך שפיר מבשר שנתעלם מן העין דאף ע\"ג דלא קיימא לן כרב כדפרישית לעיל (בבא מציעא דף כג: ד\"ה מחרוזות) מדפריך בפרק גיד הנשה (חולין דף צה: ושם) ורב היכי אכיל בשרא מ\"מ פריך שפיר דכיון דחזי המוצא שהעוף השליכם שם אפילו מאן דפליג ארב מודה הכא דאסור דאימור נטלה מעיר שרובה כנענים ומשני בעומד ורואהו שנטלה מעיר שרובה טבחי ישראל ולרב מיירי בעומד ורואה שנטלה לפני טבחי ישראל:",
+            "english": "",
+            "takeaway": "תוספות suggests a textual emendation to 'אתא לקמיה דרב' based on the ירושלמי, and explains that even if we don't follow Rav's strict ruling, the challenge remains valid because anyone who saw the bird drop the meat would agree it is forbidden due to the possibility it came from a non-Jewish majority area, resolved by the finder witnessing it was taken from a Jewish majority area."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי חֲנִינָא's slaughtered kid and רַבָּא's resolution",
+      "stepSummary": "The Gemara relates an incident where Rabbi Chanina found a slaughtered kid and was permitted to eat it, based on the views of Rabbi Shimon ben Elazar and Rabbi Chananya ben Rabbi Yosei HaGelili.",
+      "whatsHappening": "The גמרא presents an anecdote about רַבִּי חֲנִינָא eating a found slaughtered kid to test the law in a majority Jewish area. רַבָּא resolves the apparent contradiction by distinguishing between the majority of the population and the majority of slaughterers.",
+      "deeperAnalysis": "The anecdote initially suggests leniency in a majority Jewish area based on רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר's view. רַבָּא clarifies that the area was actually a majority non-Jewish, but the majority of slaughterers were Jewish, allowing the leniency. This distinction refines the application of the rule.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי חֲנִינָא",
+          "meaning": "רַבִּי חֲנִינָא (a Sage)"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "רַבָּא (a Sage)"
+        },
+        {
+          "term": "רוֹב טַבָּחֵי יִשְׂרָאֵל",
+          "meaning": "majority of Jewish slaughterers"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי חֲנִינָא מָצָא גְּדִי שָׁחוּט בֵּין",
+          "english": "Rabbi Ḥanina found a slaughtered kid between"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "טְבֶרְיָא לְצִיפּוֹרִי וְהִתִּירוּהוּ לוֹ.",
+          "english": "Tiberias and Tzippori, and they permitted it to him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַבִּי אַמֵּי:",
+          "english": "Rabbi Ami said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הִתִּירוּהוּ לוֹ מִשּׁוּם מְצִיאָה כְּרַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר,",
+          "english": "They permitted it to him regarding finding according to Rabbi Shimon ben Elazar,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִשּׁוּם שְׁחִיטָה כְּרַבִּי חֲנַנְיָא בְּנוֹ שֶׁל",
+          "english": "regarding slaughter according to Rabbi Ḥananya, son of"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יוֹסֵי הַגְּלִילִי. דְּתַנְיָא:",
+          "english": "Rabbi Yosei HaGelili. As it is taught:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הֲרֵי שֶׁאָבְדוּ לוֹ גְּדָיָיו וְתַרְנְגוֹלָיו,",
+          "english": "If his kids and roosters were lost,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הָלַךְ וּמְצָאָן שְׁחוּטִין,",
+          "english": "he went and found them slaughtered,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "רַבִּי יְהוּדָה אוֹסֵר,",
+          "english": "Rabbi Yehuda forbids,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְרַבִּי חֲנַנְיָא בְּנוֹ שֶׁל רַבִּי יוֹסֵי הַגְּלִילִי מַתִּיר.",
+          "english": "and Rabbi Ḥananya, son of Rabbi Yosei HaGelili, permits."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אָמַר רַבִּי: נִרְאִין דִּבְרֵי רַבִּי יְהוּדָה כְּשֶׁמְּצָאָן בְּאַשְׁפָּה,",
+          "english": "Rabbi said: The words of Rabbi Yehuda appear [correct] when he finds them in a garbage dump,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְדִבְרֵי רַבִּי חֲנַנְיָא בְּנוֹ שֶׁל רַבִּי",
+          "english": "and the words of Rabbi Ḥananya, son of Rabbi"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "יוֹסֵי הַגְּלִילִי כְּשֶׁמְּצָאָן בַּבַּיִת.",
+          "english": "Yosei HaGelili, when he finds them in the house."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "מִדְּהִתִּירוּהוּ לוֹ מִשּׁוּם שְׁחִיטָה,",
+          "english": "From the fact that they permitted it to him regarding slaughter,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "רוּבָּא יִשְׂרָאֵל נִינְהוּ,",
+          "english": "the majority are Israelites,"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "שָׁמְעַתְּ מִינַּהּ הֲלָכָה כְּרַבִּי שִׁמְעוֹן בֶּן",
+          "english": "learn from it that the halakha is in accordance with Rabbi Shimon ben"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "אֶלְעָזָר אֲפִילּוּ בְּרוֹב יִשְׂרָאֵל!",
+          "english": "Elazar even in a majority of Israelites!"
+        },
+        {
+          "phraseNumber": 18,
+          "aramaic": "אָמַר רָבָא: רוֹב גּוֹיִם וְרוֹב טַבָּחֵי יִשְׂרָאֵל.",
+          "english": "Rava said: A majority of gentiles and a majority of Jewish slaughterers."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי חֲנִינָא מָצָא גְּדִי שָׁחוּט",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:10:1",
+            "hebrew": "כשמצאו באשפה - שדרך נבילה להשליכה באשפה:",
+            "english": "",
+            "takeaway": "רש״י explains that finding an animal in an אשפה (garbage dump) implies it was a נבילה (carrion) thrown away, which is why רבי יהודה forbids it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:9:1",
+            "hebrew": "הרי שאבדו כו' - ה\"ה נגנבו ואע\"ג דעבר על לא תגנוב לא עבר על לאו דנבילה ובתוספתא (פ\"ב דחולין) תניא בהדיא הרי שאבדו או נגנבו והכא נקט אבדו אורחא דמילתא:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the baraita's mention of אבדו (lost) also applies to נגנבו (stolen), as the thief did not violate the prohibition of נבילה, and the תוספתא explicitly states this."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:10:1",
+            "hebrew": "שמצאן באשפה - בפ\"ק דחולין (ד' יב:) מפרש נראין דברי רבי יהודה לרבי חנניא כשמצאן באשפה שבשוק שאף רבי חנניא לא פליג עליה אלא באשפה שבבית ובעובדא דהכא שמצאן בדרך בלא אשפה הוי כאשפה שבבית:",
+            "english": "",
+            "takeaway": "תוספות explains that רבי's compromise applies when רבי יהודה's view is for an אשפה in the market and רבי חנניא's is for an אשפה in a house, and finding an animal on the road without an אשפה is treated like finding it in a house's אשפה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "Anecdotes of רַבִּי אַמֵּי and רַבִּי יִצְחָק נַפָּחָא",
+      "stepSummary": "The Gemara relates two final anecdotes where Rabbi Ami found slaughtered fledglings and Rabbi Yitzhak Nappaḥa found a skein of thread, and both were told to keep them.",
+      "whatsHappening": "The גמרא concludes with two brief anecdotes reinforcing leniency in specific מציאה cases. These stories illustrate practical applications of the discussed principles.",
+      "deeperAnalysis": "רַבִּי אַמֵּי found slaughtered fledglings and רַבִּי יִצְחָק נַפָּחָא found a skein of thread, both permitted to keep them. These cases highlight scenarios where the owner likely despaired or the items are not typically announced, supporting the lenient rulings.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אַמֵּי",
+          "meaning": "רַבִּי אַמֵּי (a Sage)"
+        },
+        {
+          "term": "רַבִּי יִצְחָק נַפָּחָא",
+          "meaning": "רַבִּי יִצְחָק נַפָּחָא (a Sage)"
+        },
+        {
+          "term": "פַּרְגִּיּוֹת שְׁחוּטוֹת",
+          "meaning": "slaughtered fledglings"
+        },
+        {
+          "term": "קִבּוּרָא דְאִזְלֵי בֵּי אָזְלוֹיֵי",
+          "meaning": "skein of thread from which a net was woven"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי אַמֵּי אַשְׁכַּח פַּרְגִּיּוֹת שְׁחוּטוֹת בֵּין טְבֶרְיָא לְצִיפּוֹרִי,",
+          "english": "Rabbi Ami found slaughtered fledglings between Tiberias and Tzippori,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַבִּי אַסִּי,",
+          "english": "He came before Rabbi Asi,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמְרִי לַהּ לְקַמֵּיהּ דְּרַבִּי יוֹחָנָן,",
+          "english": "and some say before Rabbi Yoḥanan,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמְרִי לַהּ בֵּי מִדְרְשָׁא.",
+          "english": "and some say in the study hall."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וַאֲמַרוּ לֵיהּ: זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+          "english": "And they said to him: Go take it for yourself."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יִצְחָק נַפָּחָא אַשְׁכַּח קִיבּוּרָא דְאִזְלֵי בֵּי אָזְלוֹיֵי,",
+          "english": "Rabbi Yitzḥak Nappaḥa found a skein of thread from which a net was woven,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַבִּי יוֹחָנָן,",
+          "english": "He came before Rabbi Yoḥanan,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאָמְרִי לַהּ בְּבֵי מִדְרְשָׁא,",
+          "english": "and some say in the study hall,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וַאֲמַרוּ לֵיהּ: זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+          "english": "And they said to him: Go take it for yourself."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי אַמֵּי אַשְׁכַּח פַּרְגִּיּוֹת שְׁחוּטוֹת",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:11:1",
+            "hebrew": "פרגיות - גוזלות:",
+            "english": "",
+            "takeaway": "רש״י explains that פרגיות refers to גוזלות, young birds."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:11:2",
+            "hebrew": "אשכח קיבורי דאזלי ביה אזלויי - מצא פקעיות של טווי למכמורות ורשתות במקום שהציידין מצויין:",
+            "english": "",
+            "takeaway": "רש״י explains that קיבורא דאזלי באזלויי refers to skeins of thread used for making fishing nets, found in a place where fishermen are commonly present."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:11:3",
+            "hebrew": "אזלוי - ציידים העושים מכמורות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that אזלוי refers to fishermen who make fishing nets."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 24b:11:1",
+            "hebrew": "אתא לקמיה דרבי אסי גרסי' אע\"ג דבכל דוכתי חשיב רבי אמי ברישא כדאמר (גיטין דף נט:) רבי אמי ורבי אסי כהני חשיבי דארעא דישראל אף על גב שגדול ממנו אין תימה שבא לפניו לישאל לפי שחבירו היה אבל אי גרסינן רבי אבא קשה דרבי אבא היה תלמידו של רבי אמי כדמוכח גבי נסכא דרבי אבא (שבועות דף מז.) ואיך היה בא לפניו (לעולם):",
+            "english": "",
+            "takeaway": "תוספות notes that the text should read רבי אסי, not רבי אבא, because רבי אמי would not come before his student רבי אבא to ask a question, whereas רבי אסי was his colleague."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The מִשְׁנָה's list of items requiring announcement",
+      "stepSummary": "The Mishnah lists various found items that require the finder to announce the find, including produce in a vessel, coins in a pouch, clusters of produce or coins, three stacked coins, bundles in a private domain, loaves, wool, and jugs.",
+      "whatsHappening": "The sugya opens with the מִשְׁנָה listing items that require announcement. This establishes the baseline categories for found items retaining owner hope.",
+      "deeperAnalysis": "The מִשְׁנָה specifies items with inherent identifying marks or deliberate arrangements. This list defines the scope of the obligation to announce, central to the laws of lost and found.",
+      "keyTerms": [
+        {
+          "term": "חַיָּב לְהַכְרִיז",
+          "meaning": "obligated to announce"
+        },
+        {
+          "term": "מָצָא",
+          "meaning": "found"
+        },
+        {
+          "term": "צִבּוּרֵי",
+          "meaning": "clusters/piles of"
+        },
+        {
+          "term": "מַגְדָּלִים",
+          "meaning": "towers (stacked coins)"
+        },
+        {
+          "term": "סִימָן",
+          "meaning": "identifying mark"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ וְאֵלּוּ חַיָּיב לְהַכְרִיז:",
+          "english": "MISHNA: And these, one is obligated to proclaim:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָצָא פֵּירוֹת בִּכְלִי,",
+          "english": "Found produce in a vessel,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ כְּלִי כְּמוֹת שֶׁהוּא.",
+          "english": "or a vessel as it is."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָעוֹת בְּכִיס, אוֹ כִּיס כְּמוֹת שֶׁהוּא.",
+          "english": "Coins in a pouch, or a pouch as it is."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "צִבּוּרֵי פֵירוֹת, צִבּוּרֵי מָעוֹת,",
+          "english": "Piles of produce, piles of coins,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁלֹשָׁה מַטְבְּעוֹת זֶה עַל גַּב זֶה,",
+          "english": "Three coins one on top of the other,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כְּרִיכוֹת בִּרְשׁוּת הַיָּחִיד,",
+          "english": "Bundles in the domain of an individual,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְכִכָּרוֹת שֶׁל בַּעַל הַבַּיִת,",
+          "english": "And loaves of a homeowner,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְגִיזֵּי צֶמֶר הַלְּקוּחִין מִבֵּית הָאוּמָּן,",
+          "english": "And sheared wool taken from the craftsman's house,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן –",
+          "english": "Jars of wine and jars of oil –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הֲרֵי אֵלּוּ חַיָּיב לְהַכְרִיז.",
+          "english": "These are ones obligated to proclaim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ וְאֵלּוּ חַיָּיב לְהַכְרִיז",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:12:1",
+            "hebrew": "מתני' מצא פירות בכלי - וסתם כלי יש בו סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah's mention of a כלי implies it has a סימן, which is why it requires announcement."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:12:2",
+            "hebrew": "כמות שהוא - ריקן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase כמות שהוא refers to the כלי being empty."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:12:3",
+            "hebrew": "כיס - יש בו סימן לבעלים:",
+            "english": "",
+            "takeaway": "רש״י notes that a כיס inherently possesses a סימן belonging to its owner."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 24b:12:4",
+            "hebrew": "צבורי פירות - בגמ' מפרש סימנייהו או מנין או מקום:",
+            "english": "",
+            "takeaway": "רש״י points out that the Gemara explains the סימנים for צבורי פירות are either their count, their location, or other identifying features."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T12:25:42.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 93.17007280001417,
+      "structure": 1906.2221333000925,
+      "translate": 451.69545699987793,
+      "meforshim": 1530.9122582998825,
+      "teaching": 997.9846996999695
+    }
+  }
+}

@@ -1,0 +1,132 @@
+[2026-05-12T22:36:25Z] === batch start: Bava_Metzia ===
+[2026-05-12T22:36:26Z]   Bava_Metzia reports 237 amudim per Sefaria index.
+[2026-05-12T22:36:26Z]   Planning 237 amudim (48 windows of 5).
+[2026-05-12T22:36:26Z]   [  1/48] 2a-4a — building window…
+[2026-05-12T22:38:22Z]   [  1/48] 2a-4a — FAILED: HTTPStatusError: Client error '400 Bad Request' for url 'http://10.6.15.101:1234/v1/chat/completions'
+[2026-05-12T22:38:22Z]     elapsed 1.9m, avg 1.9m/window, est remaining 1.5h
+[2026-05-12T22:38:22Z]   [  2/48] 4b-6b — building window…
+[2026-05-12T23:29:03Z] === batch start: Bava_Metzia ===
+[2026-05-12T23:29:05Z]   Bava_Metzia reports 237 amudim per Sefaria index.
+[2026-05-12T23:29:05Z]   Planning 237 amudim (48 windows of 5).
+[2026-05-12T23:29:05Z]   [  1/48] 2a-4a — building window…
+[2026-05-12T23:31:45Z]   [  1/48] 2a-4a — FAILED: HTTPStatusError: Client error '400 Bad Request' for url 'http://10.6.15.101:1234/v1/chat/completions'
+[2026-05-12T23:31:45Z]     elapsed 2.7m, avg 2.7m/window, est remaining 2.1h
+[2026-05-12T23:31:45Z]   [  2/48] 4b-6b — building window…
+[2026-05-12T23:32:15Z] === batch start: Bava_Metzia ===
+[2026-05-12T23:32:16Z]   Bava_Metzia reports 237 amudim per Sefaria index.
+[2026-05-12T23:32:16Z]   Planning 237 amudim (48 windows of 5).
+[2026-05-12T23:32:16Z]   [  1/48] 2a-4a — building window…
+[2026-05-13T00:40:13Z]     library index: 24 entries
+[2026-05-13T00:40:13Z]     elapsed 68.0m, avg 68.0m/window, est remaining 53.2h
+[2026-05-13T00:40:13Z]   [  2/48] 4b-6b — building window…
+[2026-05-13T02:13:52Z]     library index: 29 entries
+[2026-05-13T02:13:52Z]     elapsed 161.6m, avg 80.8m/window, est remaining 61.9h
+[2026-05-13T02:13:52Z]   [  3/48] 7a-9a — building window…
+[2026-05-13T03:35:37Z]     library index: 34 entries
+[2026-05-13T03:35:37Z]     elapsed 243.3m, avg 81.1m/window, est remaining 60.8h
+[2026-05-13T03:35:37Z]   [  4/48] 9b-11b — building window…
+[2026-05-13T04:48:15Z]     library index: 39 entries
+[2026-05-13T04:48:15Z]     elapsed 316.0m, avg 79.0m/window, est remaining 57.9h
+[2026-05-13T04:48:15Z]   [  5/48] 12a-14a — building window…
+[2026-05-13T05:25:53Z]     library index: 44 entries
+[2026-05-13T05:25:53Z]     elapsed 353.6m, avg 70.7m/window, est remaining 50.7h
+[2026-05-13T05:25:53Z]   [  6/48] 14b-16b — building window…
+[2026-05-13T06:49:29Z]     library index: 49 entries
+[2026-05-13T06:49:29Z]     elapsed 437.2m, avg 72.9m/window, est remaining 51.0h
+[2026-05-13T06:49:29Z]   [  7/48] 17a-19a — building window…
+[2026-05-13T08:06:28Z]     library index: 54 entries
+[2026-05-13T08:06:28Z]     elapsed 514.2m, avg 73.5m/window, est remaining 50.2h
+[2026-05-13T08:06:28Z]   [  8/48] 19b-21b — building window…
+[2026-05-13T09:24:51Z]     library index: 59 entries
+[2026-05-13T09:24:51Z]     elapsed 592.6m, avg 74.1m/window, est remaining 49.4h
+[2026-05-13T09:24:51Z]   [  9/48] 22a-24a — building window…
+[2026-05-13T11:02:11Z]     library index: 64 entries
+[2026-05-13T11:02:11Z]     elapsed 689.9m, avg 76.7m/window, est remaining 49.8h
+[2026-05-13T11:02:11Z]   [ 10/48] 24b-26b — building window…
+[2026-05-13T12:25:42Z]     library index: 69 entries
+[2026-05-13T12:25:42Z]     elapsed 773.4m, avg 77.3m/window, est remaining 49.0h
+[2026-05-13T12:25:42Z]   [ 11/48] 27a-29a — building window…
+[2026-05-13T14:06:40Z]     library index: 74 entries
+[2026-05-13T14:06:40Z]     elapsed 874.4m, avg 79.5m/window, est remaining 49.0h
+[2026-05-13T14:06:40Z]   [ 12/48] 29b-31b — building window…
+[2026-05-13T15:02:44Z] === batch start: Bava_Metzia ===
+[2026-05-13T15:02:46Z]   Bava_Metzia reports 237 amudim per Sefaria index.
+[2026-05-13T15:02:46Z]   Planning 237 amudim (48 windows of 5).
+[2026-05-13T15:02:46Z]   [  1/48] 2a-4a — skip (all exist)
+[2026-05-13T15:02:46Z]   [  2/48] 4b-6b — skip (all exist)
+[2026-05-13T15:02:46Z]   [  3/48] 7a-9a — skip (all exist)
+[2026-05-13T15:02:46Z]   [  4/48] 9b-11b — skip (all exist)
+[2026-05-13T15:02:46Z]   [  5/48] 12a-14a — skip (all exist)
+[2026-05-13T15:02:46Z]   [  6/48] 14b-16b — skip (all exist)
+[2026-05-13T15:02:46Z]   [  7/48] 17a-19a — skip (all exist)
+[2026-05-13T15:02:47Z]   [  8/48] 19b-21b — skip (all exist)
+[2026-05-13T15:02:47Z]   [  9/48] 22a-24a — skip (all exist)
+[2026-05-13T15:02:47Z]   [ 10/48] 24b-26b — skip (all exist)
+[2026-05-13T15:02:47Z]   [ 11/48] 27a-29a — skip (all exist)
+[2026-05-13T15:02:47Z]   [ 12/48] 29b-31b — building window…
+[2026-05-13T16:07:12Z] === batch start: Bava_Metzia ===
+[2026-05-13T16:07:14Z]   Bava_Metzia reports 237 amudim per Sefaria index.
+[2026-05-13T16:07:14Z]   Planning 237 amudim (48 windows of 5).
+[2026-05-13T16:07:14Z]   [  1/48] 2a-4a — skip (all exist)
+[2026-05-13T16:07:14Z]   [  2/48] 4b-6b — skip (all exist)
+[2026-05-13T16:07:14Z]   [  3/48] 7a-9a — skip (all exist)
+[2026-05-13T16:07:14Z]   [  4/48] 9b-11b — skip (all exist)
+[2026-05-13T16:07:14Z]   [  5/48] 12a-14a — skip (all exist)
+[2026-05-13T16:07:14Z]   [  6/48] 14b-16b — skip (all exist)
+[2026-05-13T16:07:14Z]   [  7/48] 17a-19a — skip (all exist)
+[2026-05-13T16:07:14Z]   [  8/48] 19b-21b — skip (all exist)
+[2026-05-13T16:07:14Z]   [  9/48] 22a-24a — skip (all exist)
+[2026-05-13T16:07:14Z]   [ 10/48] 24b-26b — skip (all exist)
+[2026-05-13T16:07:14Z]   [ 11/48] 27a-29a — skip (all exist)
+[2026-05-13T16:07:14Z]   [ 12/48] 29b-31b — building window…
+[2026-05-13T17:16:25Z]   [ 12/48] 29b-31b — FAILED: ReadError: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2026-05-13T17:16:25Z]     elapsed 69.2m, avg 5.8m/window, est remaining 3.5h
+[2026-05-13T17:16:25Z]   [ 13/48] 32a-34a — building window…
+[2026-05-13T19:06:01Z]     library index: 79 entries
+[2026-05-13T19:06:01Z]     elapsed 178.8m, avg 13.8m/window, est remaining 8.0h
+[2026-05-13T19:06:01Z]   [ 14/48] 34b-36b — building window…
+[2026-05-13T19:36:43Z]     library index: 84 entries
+[2026-05-13T19:36:43Z]     elapsed 209.5m, avg 15.0m/window, est remaining 8.5h
+[2026-05-13T19:36:43Z]   [ 15/48] 37a-39a — building window…
+[2026-05-13T21:19:46Z]     library index: 89 entries
+[2026-05-13T21:19:46Z]     elapsed 312.5m, avg 20.8m/window, est remaining 11.5h
+[2026-05-13T21:19:46Z]   [ 16/48] 39b-41b — building window…
+[2026-05-13T22:43:32Z]     library index: 94 entries
+[2026-05-13T22:43:32Z]     elapsed 396.3m, avg 24.8m/window, est remaining 13.2h
+[2026-05-13T22:43:32Z]   [ 17/48] 42a-44a — building window…
+[2026-05-14T00:19:17Z]     library index: 99 entries
+[2026-05-14T00:19:17Z]     elapsed 492.0m, avg 28.9m/window, est remaining 15.0h
+[2026-05-14T00:19:17Z]   [ 18/48] 44b-46b — building window…
+[2026-05-14T01:27:37Z]     library index: 104 entries
+[2026-05-14T01:27:37Z]     elapsed 560.4m, avg 31.1m/window, est remaining 15.6h
+[2026-05-14T01:27:37Z]   [ 19/48] 47a-49a — building window…
+[2026-05-14T02:59:24Z]     library index: 109 entries
+[2026-05-14T02:59:24Z]     elapsed 652.2m, avg 34.3m/window, est remaining 16.6h
+[2026-05-14T02:59:24Z]   [ 20/48] 49b-51b — building window…
+[2026-05-14T04:10:15Z]     library index: 114 entries
+[2026-05-14T04:10:15Z]     elapsed 723.0m, avg 36.2m/window, est remaining 16.9h
+[2026-05-14T04:10:15Z]   [ 21/48] 52a-54a — building window…
+[2026-05-14T05:26:36Z]     library index: 119 entries
+[2026-05-14T05:26:36Z]     elapsed 799.4m, avg 38.1m/window, est remaining 17.1h
+[2026-05-14T05:26:36Z]   [ 22/48] 54b-56b — building window…
+[2026-05-14T05:39:01Z]   [ 22/48] 54b-56b — FAILED: ValueError: segmentation: model returned non-JSON despite json_schema mode:
+[2026-05-14T05:39:01Z]     elapsed 811.8m, avg 36.9m/window, est remaining 16.0h
+[2026-05-14T05:39:01Z]   [ 23/48] 57a-59a — building window…
+[2026-05-14T07:00:55Z]     library index: 124 entries
+[2026-05-14T07:00:55Z]     elapsed 893.7m, avg 38.9m/window, est remaining 16.2h
+[2026-05-14T07:00:55Z]   [ 24/48] 59b-61b — building window…
+[2026-05-14T08:27:32Z]     library index: 129 entries
+[2026-05-14T08:27:32Z]     elapsed 980.3m, avg 40.8m/window, est remaining 16.3h
+[2026-05-14T08:27:32Z]   [ 25/48] 62a-64a — building window…
+[2026-05-14T09:47:29Z]     library index: 134 entries
+[2026-05-14T09:47:29Z]     elapsed 1060.2m, avg 42.4m/window, est remaining 16.3h
+[2026-05-14T09:47:29Z]   [ 26/48] 64b-66b — building window…
+[2026-05-14T10:47:59Z]     library index: 139 entries
+[2026-05-14T10:47:59Z]     elapsed 1120.7m, avg 43.1m/window, est remaining 15.8h
+[2026-05-14T10:47:59Z]   [ 27/48] 67a-69a — building window…
+[2026-05-14T12:01:34Z]     library index: 125 entries
+[2026-05-14T12:01:34Z]     elapsed 1194.3m, avg 44.2m/window, est remaining 15.5h
+[2026-05-14T12:01:34Z]   [ 28/48] 69b-71b — building window…
+[2026-05-14T13:00:26Z]     library index: 130 entries
+[2026-05-14T13:00:26Z]     elapsed 1253.2m, avg 44.8m/window, est remaining 14.9h
+[2026-05-14T13:00:26Z]   [ 29/48] 72a-74a — building window…

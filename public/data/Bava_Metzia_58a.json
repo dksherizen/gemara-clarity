@@ -1,0 +1,1270 @@
+{
+  "ref": "Bava Metzia 58a",
+  "masechet": "Bava_Metzia",
+  "daf": 58,
+  "amud": "a",
+  "mainTopic": "(continues) שבועת גזברין · אחריות שבת · אונאה בהקדשות וספר תורה",
+  "overview": "(1) The Gemara analyzes the Mishnah regarding the oath of treasurers for lost city funds, discussing whether they are considered paid guardians and the nature of the oath. (2) A dispute regarding whether a paid worker loses his wages if he fails to guard on Shabbat, and the definition of 'liability' in this context. (3) The Gemara discusses Rabbi Shimon's view on Ona'ah for sacred items and Rabbi Yehuda's view on selling a Torah scroll or valuable animals. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 7,
+      "topic": "(continues) שבועת גזברין",
+      "gist": "The Gemara analyzes the Mishnah regarding the oath of treasurers for lost city funds, discussing whether they are considered paid guardians and the nature of the oath.",
+      "openingFormula": "שומר חנם אינו נשבע",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 8,
+      "endLine": 11,
+      "topic": "אחריות שבת",
+      "gist": "A dispute regarding whether a paid worker loses his wages if he fails to guard on Shabbat, and the definition of 'liability' in this context.",
+      "openingFormula": "נושא שכר אינו משלם",
+      "firstStepNumber": 7,
+      "lastStepNumber": 11
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 12,
+      "endLine": 14,
+      "topic": "אונאה בהקדשות וספר תורה",
+      "gist": "The Gemara discusses Rabbi Shimon's view on Ona'ah for sacred items and Rabbi Yehuda's view on selling a Torah scroll or valuable animals. — discussion continues into next amud.",
+      "openingFormula": "רבי שמעון אומר",
+      "firstStepNumber": 12,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "שְׁמוּאֵל: They are שׁוֹמְרֵי שְׂכָר",
+      "stepSummary": "Shmuel resolves the contradiction by stating the agents are paid bailees, and the oath is to collect wages.",
+      "whatsHappening": "שְׁמוּאֵל resolves the contradiction by reclassifying the agents as שׁוֹמְרֵי שְׂכָר. This is a setup line introducing a new status for the agents.",
+      "deeperAnalysis": "שְׁמוּאֵל argues the agents are שׁוֹמְרֵי שְׂכָר. The oath is not to prove they are exempt from paying for the loss, but to prove they fulfilled their duties so they can collect wages. This resolves the contradiction because שׁוֹמְרֵי שְׂכָר are permitted to swear.",
+      "keyTerms": [
+        {
+          "term": "שְׁמוּאֵל",
+          "meaning": "Shmuel"
+        },
+        {
+          "term": "שׁוֹמֵר שְׂכָר",
+          "meaning": "paid bailee"
+        },
+        {
+          "term": "לִיטּוֹל שְׂכָרָן",
+          "meaning": "to collect their wages"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר שְׁמוּאֵל: הָכָא בְּנוֹשֵׂא שָׂכָר עָסְקִינַן,",
+          "english": "Shmuel said: Here we are dealing with paid bailees,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְנִשְׁבָּעִין לִיטּוֹל שְׂכָרָן.",
+          "english": "and they take an oath to collect their wages."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי הָכִי, נִשְׁבָּעִין לַגִּזְבָּרִין?",
+          "english": "If so, do they take an oath to the treasurers?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לִבְנֵי הָעִיר מִבְּעֵי לֵיהּ! אָמַר רַבָּה:",
+          "english": "To the residents of the city he should ask! Rabba said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נִשְׁבָּעִין לִבְנֵי הָעִיר בְּמַעֲמַד גִּזְבָּרִין,",
+          "english": "They take an oath to the residents of the city in the presence of the…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כִּי הֵיכִי דְּלָא נִחְשְׁדִינְהוּ, וְאִי נָמֵי,",
+          "english": "so that we do not suspect them, and even if,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כִּי הֵיכִי דְּלָא לִקְרוֹ לְהוּ ״פּוֹשְׁעִים״.",
+          "english": "so that we do not call them \"negligent\"."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר שְׁמוּאֵל: הָכָא בְּנוֹשְׂאֵי שְׂכָר עָסְקִינַן...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:2:1",
+            "hebrew": "הכא בנושא שכר עסקינן - כלומר שבועה זו לא ליפטר מתשלומין היא דלאו שומר חנם נשבע על הפשיעה ולא נושא שכר משלם גניבה ואבידה כי מתני' ושבועה זו. כדי ליטול שכרן נשבעין שאינן ברשותן וגובין שכרן מן בני העיר ולקמיה פריך והא כיון דשומר שכר יש עליו לשומרו מגניבה ואבידה ולא שמר לא השלים עבודתו אין לו ליטול שכר:",
+            "english": "",
+            "takeaway": "רש״י explains that the oath is not to exempt them from liability as שׁוֹמְרֵי חִנָּם, but rather to enable them to collect their wages from the city residents, since as שׁוֹמְרֵי שְׂכָר they are liable for גניבה ואבידה and thus must prove they fulfilled their duty to deserve payment."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:2:2",
+            "hebrew": "נשבעים לגזברים - בתמיה והלא אין שכרן אלא על בני העיר:",
+            "english": "",
+            "takeaway": "רש״י notes the Gemara's question is a challenge: why should they swear to the גזברים when their wages are owed by the בני העיר?"
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:2:3",
+            "hebrew": "נשבעים לבני העיר - ליטול שכרן ובמעמד הגזברים מפני שההפסד על ההקדש:",
+            "english": "",
+            "takeaway": "רש״י clarifies רבה's resolution that the oath is taken before the בני העיר in the presence of the גזברים because the financial loss falls on the הקדש, requiring the גזברים' oversight."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: שׁוֹמֵר שְׂכָר is liable for גְּנֵבָה וַאֲבֵידָה",
+      "stepSummary": "The Gemara asks why the agents don't pay for the theft/loss if they are paid bailees.",
+      "whatsHappening": "The גמרא attacks שְׁמוּאֵל's resolution. This is a direct challenge to the new classification.",
+      "deeperAnalysis": "If the agents are שׁוֹמְרֵי שְׂכָר, they are liable for גְּנֵבָה וַאֲבֵידָה. Even though they don't pay for the קָדָשִׁים themselves, they should forfeit their wages. The Mishna says they swear, implying they are exempt from forfeiting wages, which contradicts the status of שׁוֹמֵר שְׂכָר.",
+      "keyTerms": [
+        {
+          "term": "חַיָּבִי מִיחַיָּב",
+          "meaning": "are liable, are they not?"
+        },
+        {
+          "term": "אַגְרַיְיהוּ",
+          "meaning": "their wages"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא נִגְנְבוּ אוֹ שֶׁאָבְדוּ קָתָנֵי,",
+          "english": "And the coins were stolen or were lost, it is taught,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְשׁוֹמֵר שָׂכָר בִּגְנֵיבָה וַאֲבֵידָה חַיּוֹבֵי מִיחַיַּיב!",
+          "english": "And a paid bailee in theft and loss is liable!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָכָא נָמֵי, נְהִי דְּשַׁלּוֹמֵי לָא מְשַׁלְּמִי,",
+          "english": "And here too, although they do not pay,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַגְרַיְיהוּ מִיהָא לַפְסֵיד.",
+          "english": "Their wages at least are forfeited."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא נִגְנְבוּ אוֹ שֶׁאָבְדוּ קָתָנֵי, וְשׁוֹמֵר שְׂכָר בִּגְנֵבָה וַאֲבֵידָה חַיָּבִי מִיחַיָּב!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:3:1",
+            "hebrew": "והכא נמי נהי דשלומי לא משלמי - דאימעיט הקדשות מתשלומי שומרים:",
+            "english": "",
+            "takeaway": "רש״י explains that the agents do not pay for the shekels because הקדש is excluded from the obligation of שומרים to pay for loss."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:3:2",
+            "hebrew": "אגרייהו מיהא לפסיד - שהרי נשתעבדו לשומרן מגניבה ואבידה ועל מנת כן היו נוטלין שכר והרי לא השלימו מלאכתן:",
+            "english": "",
+            "takeaway": "רש״י explains that the agents should forfeit their wages because they accepted the role of שומרים with the condition of being liable for גניבה ואבידה, and since they failed to complete their task, they lose their pay."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּה: Armed bandits or shipwreck",
+      "stepSummary": "Rabba explains the theft/loss refers to cases where a paid bailee is exempt.",
+      "whatsHappening": "רַבָּה resolves the liability difficulty. This is a setup line introducing a specific definition of the loss.",
+      "deeperAnalysis": "רַבָּה defines 'נִגְנְבוּ' as stolen by לִסְטִים מְזוּיָּין and 'אָבְדוּ' as lost in a shipwreck. In these cases of פִּשְׁעָא דְּעַלְמָא, even a שׁוֹמֵר שְׂכָר is exempt from liability. Therefore, they don't forfeit wages and only need to swear.",
+      "keyTerms": [
+        {
+          "term": "לִסְטִים מְזוּיָּין",
+          "meaning": "armed bandits"
+        },
+        {
+          "term": "שֶׁטָּבְעָה סְפִינָתוֹ בַיָּם",
+          "meaning": "his ship sank at sea"
+        },
+        {
+          "term": "פִּשְׁעָא דְּעַלְמָא",
+          "meaning": "general negligence/force majeure"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבָּה: נִגְנְבוּ –",
+          "english": "Rabba said: Were stolen –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּלִסְטִים מְזוּיָּין, אָבְדוּ –",
+          "english": "by armed bandits; were lost –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁטָּבְעָה סְפִינָתוֹ בַּיָּם.",
+          "english": "his ship sank in the sea."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבָּה: נִגְנְבוּ – בְּלִסְטִים מְזוּיָּין, אָבְדוּ – שֶׁטָּבְעָה סְפִינָתוֹ בַיָּם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:4:1",
+            "hebrew": "בלסטים מזוין - דאונס הוי ולשמירה זו לא קבלו עליהם:",
+            "english": "",
+            "takeaway": "רש״י explains that armed bandits constitute an אונס, meaning the guardians did not accept responsibility for such a level of risk."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן: It is רַבִּי שִׁמְעוֹן's view",
+      "stepSummary": "Rabbi Yochanan attributes the Mishna to Rabbi Shimon, who holds that one swears for קָדָשִׁים שֶׁחַיָּב בְּאַחְרָיוּתָן.",
+      "whatsHappening": "רַבִּי יוֹחָנָן offers an alternative resolution. This is a setup line introducing a new halachic principle.",
+      "deeperAnalysis": "רַבִּי יוֹחָנָן attributes the Mishna to רַבִּי שִׁמְעוֹן. רַבִּי שִׁמְעוֹן holds that for קָדָשִׁים where one is liable to replace them, one takes an oath. This avoids the need to classify the agents as שׁוֹמְרֵי שְׂכָר.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        },
+        {
+          "term": "רַבִּי שִׁמְעוֹן",
+          "meaning": "Rabbi Shimon"
+        },
+        {
+          "term": "קָדָשִׁים שֶׁחַיָּב בְּאַחְרָיוּתָן",
+          "meaning": "consecrated items for which one is liable"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי יוֹחָנָן אָמַר: הָא מַנִּי?",
+          "english": "Rabbi Yoḥanan said: This — whose is it?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַבִּי שִׁמְעוֹן הִיא, דְּאָמַר:",
+          "english": "It is Rabbi Shimon, who says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן –",
+          "english": "Consecrated items for which one is liable for their loss —"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יֵשׁ לָהֶן אוֹנָאָה, וְנִשְׁבָּעִין עֲלֵיהֶם.",
+          "english": "they have exploitation, and one swears concerning them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי יוֹחָנָן אָמַר: הָא מַנֵּי? רַבִּי שִׁמְעוֹן הִיא...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:5:1",
+            "hebrew": "הא מני ר\"ש היא - במסכת שבועות (דף מב:):",
+            "english": "",
+            "takeaway": "רש״י points to the source of רבי שִׁמְעוֹן's ruling in מסכת שבועות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:5:2",
+            "hebrew": "יש להן אונאה - בכדי גרס לה ומאן דגריס לה. לא ידע שאמר ר\"ש בהדיא לגבי שבועה והוצרך ללמדה ממשנתנו:",
+            "english": "",
+            "takeaway": "רש״י explains that the text should be read as 'בכדי' (a sixth) regarding אונאה, and notes that some manuscripts omit this because רבי שִׁמְעוֹן explicitly states the rule for שבועה elsewhere, making the derivation from our Mishna unnecessary."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:5:3",
+            "hebrew": "שחייב באחריות - שהמפקיד חייב באחריות הלכך כדידיה דמי לר\"ש והכא נמי חייבין כל בני העיר לשקול אחרים תחתיהן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'שחייב באחריות' means the depositor is liable for the item, so it is treated as his own property according to רבי שִׁמְעוֹן, and similarly here the city residents are liable to replace the stolen items."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: After collection, residents are not liable",
+      "stepSummary": "The Gemara asks why the agents swear after the chamber is collected if the residents are no longer liable.",
+      "whatsHappening": "The גמרא attacks רַבִּי יוֹחָנָן's resolution. This is a direct challenge based on a Baraita.",
+      "deeperAnalysis": "The גמרא cites a Baraita stating one collects shekels with the intention of covering lost, collected, and future shekels. This means after the chamber is collected, the residents are no longer liable for the shekels. If they are not liable, רַבִּי שִׁמְעוֹן's rule doesn't apply, so why do the agents swear?",
+      "keyTerms": [
+        {
+          "term": "תּוֹרְמִין עַל הָאָבוּד",
+          "meaning": "one collects for the lost"
+        },
+        {
+          "term": "עַל הַגָּבוּי",
+          "meaning": "for the collected"
+        },
+        {
+          "term": "עַל הֶעָתִיד לִגָּבוֹת",
+          "meaning": "for the future"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָתִינַח עַד שֶׁלֹּא נִתְרְמָה הַתְּרוּמָה. מִשֶּׁנִּתְרְמָה הַתְּרוּמָה,",
+          "english": "This works out well until the contribution has not been separated."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָדָשִׁים שֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן נִינְהוּ,",
+          "english": "They are sacred things for which one is not liable for their loss,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּתַנְיָא: תּוֹרְמִין עַל הָאָבוּד,",
+          "english": "As it is taught: One separates tithes for the lost,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְעַל הַגָּבוּי, וְעַל הֶעָתִיד לִגָּבוֹת.",
+          "english": "And for the collected, and for that which is destined to be collected."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָתִינַח עַד שֶׁלֹּא נִתְרְמָה הַתְּרוּמָה. מִשֶּׁנִּתְרְמָה הַתְּרוּמָה...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:6:1",
+            "hebrew": "תורמין על האבוד - כשהיו ממלאים שלש קופות מכסף הלשכה והיא תרומה ליקח מכסף הקופות כל קרבנות צבור ותורמין אותן ע\"מ שיהו שלש קופות ראש ותרומה לשיריים שיהו אותן שהביאו שקלים הנשארים בלשכה זוכים בתרומת הקופה להיות הקרבנות גם עליהם ותורמין אותן אע\"פ ששלח שקלו ואבד לו ואין ידוע לו:",
+            "english": "",
+            "takeaway": "רש״י explains that תורמין על האבוד means the shekels collected in the three chests serve as a תרומה for the remaining shekels in the chamber, including those that were sent but lost, ensuring the קרבנות cover them as well."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:6:2",
+            "hebrew": "ועל הגבוי - ועודנו בדרך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ועל הגבוי refers to shekels that have been collected but are still on their way to the chamber."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:6:3",
+            "hebrew": "ועל העתיד לגבות - מי שנאנס ולא שלח שקלו באדר היה משלחו כל השנה כולה ונותנין בשופר שכתוב עליו תקלין חדתין והלשכה היתה נתרמה ג' פעמים בשנה בפרוס הפסח ובפרוס עצרת ובפרוס החג וכשמגיע זמן לתרום נותנין מעות השופר בלשכה ותורמין וכשתורמין תרומה ראשונה מתנין אף על העתיד לגבות וגם בשניה ובשלישית והמביא אחר שנתרמה השלישית נותנו לשופר ששמו תיקלין עתיקין ונופל לשירי הלשכה ומהן באין חומת העיר ומגדלותיה:",
+            "english": "",
+            "takeaway": "רש״י details the procedure for ועל העתיד לגבות, explaining that shekels sent late in the year are placed in a horn labeled תקלין חדתין and included in the תרומה calculations, while those arriving after the third תרומה go into תקלין עתיקין for city repairs."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58a:6:1",
+            "hebrew": "דתנן תורמין על כו' - דתניא גרסינן דאין זו משנה בשקלים ותימה אמאי לא מוכח מגופא דאינו חייב באחריות מדקאמר נשבעין לגזברין ולא לבני העיר:",
+            "english": "",
+            "takeaway": "תוספות notes that the text should read דתניא rather than דתנן since this is a ברייתא from שקלים, and questions why the Gemara doesn't simply derive the lack of liability from the fact that the agents swear to the גזברין rather than the residents."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבִּי אֶלְעָזָר: Rabbinic ordinance",
+      "stepSummary": "Rabbi Elazar explains the oath is a rabbinic ordinance to prevent contempt for consecrated property.",
+      "whatsHappening": "רַבִּי אֶלְעָזָר offers the final resolution. This is a setup line introducing a new source for the oath.",
+      "deeperAnalysis": "רַבִּי אֶלְעָזָר states the oath is a תַּקָּנַת חֲכָמִים. It was instituted so people wouldn't treat קָדָשִׁים with contempt. This applies regardless of liability, resolving the contradiction without needing שְׁמוּאֵל's or רַבִּי יוֹחָנָן's approaches.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֶלְעָזָר",
+          "meaning": "Rabbi Elazar"
+        },
+        {
+          "term": "תַּקָּנַת חֲכָמִים",
+          "meaning": "rabbinic ordinance"
+        },
+        {
+          "term": "מְזַלְזְלִים בַּהֶקְדְּשׁוֹת",
+          "meaning": "treat consecrated property with contempt"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "Rather, Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁבוּעָה זוֹ תַּקָּנַת חֲכָמִים הִיא,",
+          "english": "This oath is a rabbinic ordinance,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁלֹּא יְהוּ בְּנֵי אָדָם מְזַלְזְלִים בַּהֶקְדֵּשׁוֹת.",
+          "english": "so that people not treat consecrated property with contempt."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אָמַר רַבִּי אֶלְעָזָר: שְׁבוּעָה זוֹ תַּקָּנַת חֲכָמִים הִיא...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:7:1",
+            "hebrew": "אלא אר\"א - לעולם שבועה זו ליפטר מן התשלומין היא ובשומר חנם ודקשיא לך מתני' דאורייתא פטור לגמרי ורבנן הוא דתקון לה שלא יזלזלו בהקדשות בשמירתן:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי אלעזר maintains the oath is only to exempt from payment, and the רבנן instituted it for a שומר חנם regarding קדשים specifically to prevent people from treating קדשים with contempt in their guarding."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The משנה's ruling: נוֹשֵׂא שְׂכָר אינו משלם",
+      "stepSummary": "The sugya opens with the Mishna's principle that a paid bailee is exempt from paying for loss or theft.",
+      "whatsHappening": "The sugya begins by citing the משנה's foundational ruling. This is a setup line establishing the baseline.",
+      "deeperAnalysis": "The משנה establishes that a נוֹשֵׂא שְׂכָר is not liable to pay for items stolen or lost while in his care. This sets the baseline for the ensuing discussion about the scope of this exemption.",
+      "keyTerms": [
+        {
+          "term": "נוֹשֵׂא שְׂכָר",
+          "meaning": "paid bailee"
+        },
+        {
+          "term": "אֵינוֹ מְשַׁלֵּם",
+          "meaning": "does not pay [for loss/theft]"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "נוֹשֵׂא שָׂכָר אֵינוֹ מְשַׁלֵּם.",
+          "english": "A paid bailee does not pay."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רָמֵי לֵיהּ רַב יוֹסֵף בַּר חָמָא לְרַבָּה:",
+          "english": "Rav Yosef bar Ḥama raises a contradiction before Rabba:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּנַן, נוֹשֵׂא שָׂכָר אֵינוֹ מְשַׁלֵּם, וּרְמִינְהוּ:",
+          "english": "We learned: A paid bailee does not pay, and we raise a contradiction:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל לִשְׁמוֹר אֶת הַפָּרָה,",
+          "english": "One who hires a laborer to guard the cow,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לִשְׁמוֹר אֶת הַתִּינוֹק,",
+          "english": "to guard the child,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לִשְׁמוֹר אֶת הַזְּרָעִים –",
+          "english": "to guard the seeds –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵין נוֹתְנִים לוֹ שְׂכַר שַׁבָּת,",
+          "english": "they do not give him Shabbat wages,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לְפִיכָךְ אֵין אַחְרָיוּת שַׁבָּת עָלָיו.",
+          "english": "therefore there is no Shabbat liability upon him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "נוֹשֵׂא שְׂכָר אֵינוֹ מְשַׁלֵּם",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:1",
+            "hebrew": "השוכר את הפועלים - גזבר של הקדש ששכר פועלים משל הקדש:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase השוכר את הפועלים refers to the גזבר of the הקדש who hires workers using funds from the Temple treasury."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:2",
+            "hebrew": "לשמור את הפרה - אדומה שלקחוה ושומרין אותה שלא תיפסל בעליית עול או במום:",
+            "english": "",
+            "takeaway": "רש״י clarifies that לשמור את הפרה refers to guarding the אדומה (Red Heifer) to prevent it from becoming disqualified due to a physical blemish or being yoked."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:3",
+            "hebrew": "לשמור את התינוקות - שלא יטמאו שהיו מגדלין אותן לפרה בחצירות הבנויות בסלעים ותחתיהן חלל כדאמרינן בסוכה בהישן תחת המטה (דף כא.) לפי שעשו מעלה בכהן השורף את הפרה שתהא פרישתו בטהרה ואין אחיו הכהנים נוגעין בו כל שבעה כדאמרינן בסדר יומא (דף ח:) והתינוקות הללו שלא נטמאו מעולם ממלאים מים למקדשין ומזין עליו כל שבעה:",
+            "english": "",
+            "takeaway": "רש״י explains that לשמור את התינוקות refers to guarding infants raised in stone courtyards with hollows beneath them to ensure they never become טמא, so they can draw water for the כהן burning the Red Heifer."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:4",
+            "hebrew": "ולשמור הזרעים - שדה המבכרת וזרועה לעומר קודם לפסח שבעים יום כדאמרינן במנחות (דף פה.) אי נמי בשביעית ספיחים לעומר ושתי הלחם:",
+            "english": "",
+            "takeaway": "רש״י interprets לשמור הזרעים as guarding the field of the מעשר ראשון or the produce of the שביעית year designated for the עומר and שתי הלחם."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:5",
+            "hebrew": "אין נותנין לו שכר שבת - אם שכיר יום הוא:",
+            "english": "",
+            "takeaway": "רש״י notes that אין נותנין לו שכר שבת applies specifically when the worker is a שכיר יום (day laborer)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:6",
+            "hebrew": "לפיכך אין אחריות שבת עליו - אם אירע בהן קלקול בשבת אין חייב לשלם:",
+            "english": "",
+            "takeaway": "רש״י explains that לפיכך אין אחריות שבת עליו means that if damage occurs on Shabbat, the worker is not liable to pay because he receives no Shabbat wages."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58a:8:1",
+            "hebrew": "לשמור הזרעים - וא\"ת והיאך מותר לעומר כיון ששומר הא כתיב (יחזקאל מה) ממשקה ישראל מן המותר לישראל ודרשינן (ת\"כ פ' בהר) ואת ענבי נזיריך לא תבצור מן המשומר אי אתה בוצר אבל אתה בוצר מן ההפקר משמע דאסור אם ליקט מן המשומר וכי תימא אינו אסור כי אם לבצור אבל אם עבר ובצר שרי לאכול הא אפילו מן ההפקר אסור לבצור דבצירה תולדה דקצירה כדאמרינן בריש מועד קטן (ד' ג.) וי\"ל שלא היה מוחה לעולם מליקח רק שהיה מודיען שיחדום לעומר ומעצמן היו נמנעין מליקח:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty of how guarding seeds for the עומר is permitted given the prohibition against harvesting from guarded produce, and resolves it by stating the guardian did not actively prevent harvesting but merely informed the owners to set them aside, and the owners voluntarily refrained from harvesting."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "רַב יוֹסֵף בַּר חָמָא's contradiction from a בְּרֵיתָא",
+      "stepSummary": "Rav Yosef bar Chama challenges the Mishna by citing a Baraita that seems to impose liability on a paid worker for Shabbat.",
+      "whatsHappening": "רַב יוֹסֵף בַּר חָמָא raises a contradiction against the משנה's ruling. This is a direct challenge based on a Baraita.",
+      "deeperAnalysis": "He cites a בְּרֵיתָא distinguishing between a day-laborer (no שְׂכַר שַׁבָּת, no אַחְרָיוּת שַׁבָּת) and a longer-term worker (has שְׂכַר שַׁבָּת, has אַחְרָיוּת שַׁבָּת). The challenge is: if a נוֹשֵׂא שְׂכָר generally does not pay, why does the בְּרֵיתָא say a longer-term worker has liability on Shabbat? The implication is that the בְּרֵיתָא is talking about paying for the loss itself.",
+      "keyTerms": [
+        {
+          "term": "רַב יוֹסֵף בַּר חָמָא",
+          "meaning": "Rav Yosef bar Chama"
+        },
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "Baraita"
+        },
+        {
+          "term": "שְׂכַר שַׁבָּת",
+          "meaning": "Shabbat wages"
+        },
+        {
+          "term": "אַחְרָיוּת שַׁבָּת",
+          "meaning": "Shabbat liability"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "נוֹשֵׂא שָׂכָר אֵינוֹ מְשַׁלֵּם.",
+          "english": "A paid bailee does not pay."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רָמֵי לֵיהּ רַב יוֹסֵף בַּר חָמָא לְרַבָּה:",
+          "english": "Rav Yosef bar Ḥama raised to Rabba:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "תְּנַן, נוֹשֵׂא שָׂכָר אֵינוֹ מְשַׁלֵּם, וּרְמִינְהוּ:",
+          "english": "We learned, a paid bailee does not pay, and we raise a contradiction:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשּׂוֹכֵר אֶת הַפּוֹעֵל לִשְׁמוֹר אֶת הַפָּרָה,",
+          "english": "One who hires a laborer to guard the cow,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לִשְׁמוֹר אֶת הַתִּינוֹק,",
+          "english": "to guard the infant,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לִשְׁמוֹר אֶת הַזְּרָעִים –",
+          "english": "to guard the seeds –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵין נוֹתְנִים לוֹ שְׂכַר שַׁבָּת,",
+          "english": "they do not give him Shabbat wages,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לְפִיכָךְ אֵין אַחְרָיוּת שַׁבָּת עָלָיו.",
+          "english": "therefore Shabbat liability is not upon him."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הָיָה שְׂכִיר שַׁבָּת,",
+          "english": "He was a Shabbat laborer,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "שְׂכִיר חֹדֶשׁ, שְׂכִיר שָׁנָה,",
+          "english": "a monthly laborer, a yearly laborer,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "שְׂכִיר שָׁבוּעַ –",
+          "english": "a weekly laborer –"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "נוֹתְנִין לוֹ שְׂכַר שַׁבָּת,",
+          "english": "they give him Shabbat wages,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "לְפִיכָךְ אַחְרָיוּת שַׁבָּת עָלָיו.",
+          "english": "therefore Shabbat liability is upon him."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "מַאי לָאו לְשַׁלֵּם?",
+          "english": "What, is it not to pay?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "רָמֵי לֵיהּ רַב יוֹסֵף בַּר חָמָא לְרַבָּה: תַּנְנָן, נוֹשֵׂא שְׂכָר אֵינוֹ מְשַׁלֵּם, וּרְמִינְהוּ: הַשּׁוֹכֵר אֶת הַפּוֹעֵל...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        40
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:1",
+            "hebrew": "השוכר את הפועלים - גזבר של הקדש ששכר פועלים משל הקדש:",
+            "english": "",
+            "takeaway": "רש״י explains that the workers mentioned in the ברייתא are hired by the גזבר of the הקדש to perform Temple-related tasks."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:2",
+            "hebrew": "לשמור את הפרה - אדומה שלקחוה ושומרין אותה שלא תיפסל בעליית עול או במום:",
+            "english": "",
+            "takeaway": "רש״י clarifies that guarding the פרה אדומה means preventing it from becoming disqualified through a blemish or by being yoked."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:3",
+            "hebrew": "לשמור את התינוקות - שלא יטמאו שהיו מגדלין אותן לפרה בחצירות הבנויות בסלעים ותחתיהן חלל כדאמרינן בסוכה בהישן תחת המטה (דף כא.) לפי שעשו מעלה בכהן השורף את הפרה שתהא פרישתו בטהרה ואין אחיו הכהנים נוגעין בו כל שבעה כדאמרינן בסדר יומא (דף ח:) והתינוקות הללו שלא נטמאו מעולם ממלאים מים למקדשין ומזין עליו כל שבעה:",
+            "english": "",
+            "takeaway": "רש״י explains that guarding the תינוקות refers to ensuring they remain טהור so they can draw water for the פרה אדומה, as they were raised in stone courtyards to avoid טומאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:4",
+            "hebrew": "ולשמור הזרעים - שדה המבכרת וזרועה לעומר קודם לפסח שבעים יום כדאמרינן במנחות (דף פה.) אי נמי בשביעית ספיחים לעומר ושתי הלחם:",
+            "english": "",
+            "takeaway": "רש״י identifies the זרעים as either the field designated for the עומר before פסח or the ספיחים of שביעית used for the עומר and שתי הלחם."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:5",
+            "hebrew": "אין נותנין לו שכר שבת - אם שכיר יום הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the rule of not receiving Shabbat wages applies specifically to a שכיר יום."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:8:6",
+            "hebrew": "לפיכך אין אחריות שבת עליו - אם אירע בהן קלקול בשבת אין חייב לשלם:",
+            "english": "",
+            "takeaway": "רש״י explains that the lack of Shabbat liability means the worker is not required to pay for damage that occurs on Shabbat."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:9:1",
+            "hebrew": "שכיר שבת - שבוע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that שכיר שבת in the text is a textual error for שכיר שבוע."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:9:2",
+            "hebrew": "שכיר שבוע - שמיטה שלימה:",
+            "english": "",
+            "takeaway": "רש״י explains that שכיר שבוע refers to a worker hired for a full שמיטה (seven-day period)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:9:3",
+            "hebrew": "נותנין לו שכר שבת - שנבלע בשכר שאר הימים ואינו מפורש לשבת:",
+            "english": "",
+            "takeaway": "רש״י explains that longer-term workers receive Shabbat wages because the Shabbat cost is absorbed into the overall payment for the other days rather than being itemized separately."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58a:8:1",
+            "hebrew": "לשמור הזרעים - וא\"ת והיאך מותר לעומר כיון ששומר הא כתיב (יחזקאל מה) ממשקה ישראל מן המותר לישראל ודרשינן (ת\"כ פ' בהר) ואת ענבי נזיריך לא תבצור מן המשומר אי אתה בוצר אבל אתה בוצר מן ההפקר משמע דאסור אם ליקט מן המשומר וכי תימא אינו אסור כי אם לבצור אבל אם עבר ובצר שרי לאכול הא אפילו מן ההפקר אסור לבצור דבצירה תולדה דקצירה כדאמרינן בריש מועד קטן (ד' ג.) וי\"ל שלא היה מוחה לעולם מליקח רק שהיה מודיען שיחדום לעומר ומעצמן היו נמנעין מליקח:",
+            "english": "",
+            "takeaway": "תוספות addresses the concern that guarding the עומר violates the prohibition of harvesting from a guarded field, resolving it by stating the owner merely informed the workers to set it aside for the עומר, and they voluntarily refrained from harvesting it themselves."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Liability means forfeiting wages",
+      "stepSummary": "The Gemara resolves the contradiction by clarifying that the Baraita's 'liability' refers to forfeiting wages, not paying for the loss.",
+      "whatsHappening": "The גמרא resolves the contradiction by redefining the Baraita's term for liability. It clarifies that the worker does not pay for the loss itself.",
+      "deeperAnalysis": "The Baraita's phrase 'Shabbat liability' refers only to losing one's wages for that day. This aligns with the משנה, which exempts a paid bailee from paying for the loss unless he was negligent. The contradiction vanishes because the two sources discuss different types of financial consequence.",
+      "keyTerms": [
+        {
+          "term": "לְהַפְסִיד שְׂכָרוֹ",
+          "meaning": "to forfeit his wages"
+        }
+      ],
+      "whatToRemember": "The Baraita's 'liability' is about forfeiting wages, not paying for the loss.",
+      "whyThisMatters": "This clarification is crucial for understanding the scope of a paid bailee's liability.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, לְהַפְסִיד שְׂכָרוֹ.",
+          "english": "No, to forfeit his wages."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי הָכִי, רֵישָׁא דְּקָתָנֵי:",
+          "english": "If so, the beginning teaches:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״אֵין אַחְרָיוּת שַׁבָּת עָלָיו״ –",
+          "english": "\"There is no Shabbat liability upon him\" –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכִי נָמֵי דִּלְהַפְסִיד שְׂכָרוֹ?",
+          "english": "Is this also to forfeit his wages?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמִי אִית לֵיהּ שְׂכַר שַׁבָּת?",
+          "english": "And does he have Shabbat wages?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהָא קָתָנֵי: ״אֵין נוֹתְנִין לוֹ שְׂכַר שַׁבָּת״! אִשְׁתִּיק.",
+          "english": "And it teaches: \"They do not give him Shabbat wages\"! He was silent."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "לָא, לְהַפְסִיד שְׂכָרוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        41
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's silence and רַב יוֹסֵף בַּר חָמָא's follow-up",
+      "stepSummary": "Rabba is silent, unable to answer, and Rav Yosef bar Chama asks if he has heard anything else on this matter.",
+      "whatsHappening": "This is a transition step where רַבָּא cannot answer the counter-challenge. רַב יוֹסֵף בַּר חָמָא prompts him to share other teachings.",
+      "deeperAnalysis": "רַבָּא's silence indicates he has no immediate resolution for the difficulty. רַב יוֹסֵף בַּר חָמָא asks if he has heard any other teaching on this matter. This prompts רַבָּא to cite the views of רַב שֵׁשֶׁת and רַבִּי יוֹחָנָן.",
+      "keyTerms": [
+        {
+          "term": "אִשְׁתִּיק",
+          "meaning": "he was silent"
+        },
+        {
+          "term": "מִידֵי שְׁמִיעַ לָךְ בְּהָא?",
+          "meaning": "Have you heard anything with regard to this?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, לְהַפְסִיד שְׂכָרוֹ.",
+          "english": "No, to forfeit his wages."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי הָכִי, רֵישָׁא דְּקָתָנֵי:",
+          "english": "If so, the beginning teaches:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״אֵין אַחְרָיוּת שַׁבָּת עָלָיו״ –",
+          "english": "\"There is no Shabbat liability upon him\" –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכִי נָמֵי דִּלְהַפְסִיד שְׂכָרוֹ?",
+          "english": "Is this also to forfeit his wages?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמִי אִית לֵיהּ שְׂכַר שַׁבָּת?",
+          "english": "And does he have Shabbat wages?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהָא קָתָנֵי: ״אֵין נוֹתְנִין לוֹ שְׂכַר שַׁבָּת״!",
+          "english": "And isn't it taught: \"They do not give him Shabbat wages\"!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִשְׁתִּיק. אֲמַר לֵיהּ: מִידֵּי שְׁמִיעַ לָךְ בְּהָא?",
+          "english": "He was silent. He said to him: Did you hear anything about this?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲמַר לֵיהּ: הָכִי אָמַר רַב שֵׁשֶׁת, בְּשֶׁקָּנוּ מִיָּדוֹ.",
+          "english": "He said to him: Thus Rav Sheshet says, when they acquired from his hand.",
+          "notes": "Refers to the laborers taking on liability through a formal act of acquisition."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְכֵן אָמַר רַבִּי יוֹחָנָן, בְּשֶׁקָּנוּ מִיָּדוֹ.",
+          "english": "And likewise Rabbi Yoḥanan says, when they acquired from his hand."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אִשְׁתִּיק. אֲמַר לֵיהּ: מִידֵי שְׁמִיעַ לָךְ בְּהָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:11:1",
+            "hebrew": "בשקנו מידו - שאם יקלקל שמירתו ישלם הא ודאי שלם שהרי הוריד עצמו לכך ושיעבד נכסיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the requirement of קניין מידו is necessary because the worker voluntarily lowers his status and encumbers his property to be liable for damages if he fails in his guarding duties."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58a:11:1",
+            "hebrew": "אמר רבי יוחנן בשקנו מידו - וא\"ת דבפ' הפועלים (לקמן בבא מציעא ד' צד. ע\"ש) תנא מתנה שומר חנם להיות כשואל להתחייב באונסין ופריך במאי מתנה בדברים ומשני אמר שמואל בשקנו מידו ור' יוחנן אמר אפילו תימא לא קנו מידו בההוא הנאה דקא מהימן ליה גמר ומשעבד נפשיה א\"כ מאי בעי קנין וי\"ל דהכא דפטור אפי' משבועה לא משעבד נפשיה בלא קנין אי נמי התם כיון שמתחייב כשואל סבורים העולם שהשאיל לו ובההיא הנאה משעבד נפשיה:",
+            "english": "",
+            "takeaway": "תוספות distinguishes this case from the discussion in פרק הפועלים, where רבי יוחנן holds that a worker becomes liable like a שואל through the benefit of trust (הנאה דקא מהימן ליה) even without קניין, by clarifying that here the worker is exempt even from a שבועה and thus requires a formal קניין to encumber himself, or alternatively, that in the other case the public perception of a loan creates the liability."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "רַב שֵׁשֶׁת and רַבִּי יוֹחָנָן's resolution: קָנוּ מִיָּדוֹ",
+      "stepSummary": "Rabba cites Rav Sheshet and Rabbi Yochanan, who resolve the difficulty by stating that the Baraita refers to a case where the worker made a formal commitment to take responsibility.",
+      "whatsHappening": "רַבָּא cites the views of רַב שֵׁשֶׁת and רַבִּי יוֹחָנָן to resolve the difficulty. They limit the Baraita's liability to cases with a formal commitment.",
+      "deeperAnalysis": "They explain that the Baraita's statement about Shabbat liability applies only when the worker has made a formal commitment (קָנוּ מִיָּדוֹ) to take responsibility. This means the worker is liable to pay for the loss only because he explicitly agreed to it. This resolves the contradiction with the משנה, which exempts a paid bailee from paying unless he has made such a commitment.",
+      "keyTerms": [
+        {
+          "term": "רַב שֵׁשֶׁת",
+          "meaning": "Rav Sheshet"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        },
+        {
+          "term": "בְּשֶׁקָנוּ מִיָּדוֹ",
+          "meaning": "when they made a formal commitment to him"
+        }
+      ],
+      "whatToRemember": "The Baraita's 'liability' applies only when the worker has made a formal commitment to take responsibility.",
+      "whyThisMatters": "This resolution clarifies the scope of a paid bailee's liability and introduces the concept of קָנוּ מִיָּדוֹ.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: מִידֵּי שְׁמִיעַ לָךְ בְּהָא?",
+          "english": "He said to him: Have you heard anything about this?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: הָכִי אָמַר רַב שֵׁשֶׁת, בְּשֶׁקָּנוּ מִיָּדוֹ.",
+          "english": "He said to him: Thus Rav Sheshet says, when they acquired from his hand."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכֵן אָמַר רַבִּי יוֹחָנָן, בְּשֶׁקָּנוּ מִיָּדוֹ.",
+          "english": "And likewise Rabbi Yoḥanan says, when they acquired from his hand."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אֲמַר לֵיהּ: הָכִי אָמַר רַב שֵׁשֶׁת, בְּשֶׁקָנוּ מִיָּדוֹ. וְכֵן אָמַר רַבִּי יוֹחָנָן, בְּשֶׁקָנוּ מִיָּדוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:11:1",
+            "hebrew": "בשקנו מידו - שאם יקלקל שמירתו ישלם הא ודאי שלם שהרי הוריד עצמו לכך ושיעבד נכסיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase בשקנו מידו means the worker explicitly agreed to take responsibility for the items, thereby obligating himself to pay for any damage he causes."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 58a:11:1",
+            "hebrew": "אמר רבי יוחנן בשקנו מידו - וא\"ת דבפ' הפועלים (לקמן בבא מציעא ד' צד. ע\"ש) תנא מתנה שומר חנם להיות כשואל להתחייב באונסין ופריך במאי מתנה בדברים ומשני אמר שמואל בשקנו מידו ור' יוחנן אמר אפילו תימא לא קנו מידו בההוא הנאה דקא מהימן ליה גמר ומשעבד נפשיה א\"כ מאי בעי קנין וי\"ל דהכא דפטור אפי' משבועה לא משעבד נפשיה בלא קנין אי נמי התם כיון שמתחייב כשואל סבורים העולם שהשאיל לו ובההיא הנאה משעבד נפשיה:",
+            "english": "",
+            "takeaway": "תוספות addresses a difficulty from a later sugya in בבא מציעא where רבי יוחנן says a worker can become liable like a borrower even without קנין מידו through the benefit of trust, and resolves it by distinguishing that here the worker is exempt even from a שבועה, so without קנין he does not obligate himself, or alternatively that in the other case people assume it is a loan and thus he obligates himself through that benefit."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי שִׁמְעוֹן: קָדָשִׁים שֶׁחַיָּב בְּאַחְרָיוּתָן – יֵשׁ לָהֶן אוֹנָאָה",
+      "stepSummary": "The Mishna states Rabbi Shimon's rule: sacred items for which one bears responsibility are subject to Ona'ah, while those for which one does not bear responsibility are not.",
+      "whatsHappening": "The sugya opens with the משנה's statement of רַבִּי שִׁמְעוֹן's ruling regarding אוֹנָאָה for sacred items. He distinguishes between items where the owner is liable to replace them and those where he is not.",
+      "deeperAnalysis": "רַבִּי שִׁמְעוֹן rules that קָדָשִׁים שֶׁחַיָּב בְּאַחְרָיוּתָן are subject to the laws of אוֹנָאָה. Those where he is not liable are exempt. This sets up the need for a scriptural source to explain this distinction.",
+      "keyTerms": [
+        {
+          "term": "קָדָשִׁים",
+          "meaning": "sacred items / consecrated property"
+        },
+        {
+          "term": "אַחְרָיוּת",
+          "meaning": "liability / responsibility to replace"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "price overcharge / exploitation"
+        }
+      ],
+      "whatToRemember": "The distinction hinges on אַחְרָיוּת (liability/responsibility).",
+      "whyThisMatters": "Establishes the baseline halachic position of רַבִּי שִׁמְעוֹן before the גמרא analyzes its source.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי שִׁמְעוֹן אוֹמֵר:",
+          "english": "Rabbi Shimon says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן –",
+          "english": "Sacred items for which one is liable for their loss –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יֵשׁ לָהֶן אוֹנָאָה.",
+          "english": "they have overcharging."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְשֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן – אֵין לָהֶן אוֹנָאָה.",
+          "english": "And those for which one is not liable for their loss – they do not have overcharging."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַבִּי יִצְחָק בַּר אַבָּא:",
+          "english": "A tanna taught before Rabbi Yitzchak bar Abba:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי שִׁמְעוֹן אוֹמֵר: קָדָשִׁים שֶׁחַיָּב בְּאַחְרָיוּתָן – יֵשׁ לָהֶן אוֹנָאָה. וְשֶׁאֵינוֹ חַיָּב בְּאַחְרָיוּתָן – אֵין לָהֶן אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:12:1",
+            "hebrew": "תני תנא - לענין שבועת הפקדון אשם גזילות:",
+            "english": "",
+            "takeaway": "רש״י explains that the תנא קמיה דרבי יצחק בר אבא cited a ברייתא to derive the law of Ona'ah for קדשים from the same source used for שבועת הפקדון and אשם גזילות."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "ראיה",
+      "title": "The תַּנָּא's derivation from Leviticus 5:21",
+      "stepSummary": "A Tanna teaches a Baraita deriving Rabbi Shimon's rule from the verse 'בַּה׳ וְכִחֵשׁ' and 'בַּעֲמִיתוֹ וְכִחֵשׁ'.",
+      "whatsHappening": "The גמרא introduces a בְּרִיתָא that provides the scriptural source for רַבִּי שִׁמְעוֹן's distinction. The תַּנָּא reads the verse to include and exclude different types of sacred items.",
+      "deeperAnalysis": "The תַּנָּא reads 'בַּה׳ וְכִחֵשׁ' to include sacred items where one is liable, since they have some human ownership. He reads 'בַּעֲמִיתוֹ וְכִחֵשׁ' to exclude sacred items where one is not liable, since they belong entirely to God. This provides the textual basis for the משנה's ruling.",
+      "keyTerms": [
+        {
+          "term": "בַּה׳ וְכִחֵשׁ",
+          "meaning": "deals falsely with the Lord"
+        },
+        {
+          "term": "בַּעֲמִיתוֹ וְכִחֵשׁ",
+          "meaning": "deals falsely with his neighbor"
+        },
+        {
+          "term": "בְּרִיתָא",
+          "meaning": "Tannaitic source outside the משנה"
+        }
+      ],
+      "whatToRemember": "The derivation uses the dual phrases in the verse to include/exclude different types of sacred items.",
+      "whyThisMatters": "Provides the textual basis for the משנה's ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן, חַיָּיב,",
+          "english": "Sacred things for which one is liable, he is liable,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁאֲנִי קוֹרֵא בָּהֶן: ״בַּה׳ וְכִחֵשׁ״.",
+          "english": "For I read in them: 'Against the Lord, and deals falsely.'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְשֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן, פָּטוּר,",
+          "english": "And those for which one is not liable, he is exempt,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁאֲנִי קוֹרֵא בָּהֶן: ״בַּעֲמִיתוֹ וְכִחֵשׁ״.",
+          "english": "For I read in them: 'With his neighbor, and deals falsely.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַבִּי יִצְחָק בַּר אַבָּא: קָדָשִׁים שֶׁחַיָּיב בְּאַחְרָיוּתָן, חַיָּיב, שֶׁאֲנִי קוֹרֵא בָּהֶן: ״בַּה׳ וְכִחֵשׁ״. וְשֶׁאֵינוֹ חַיָּיב בְּאַחְרָיוּתָן, פָּטוּר, שֶׁאֲנִי קוֹרֵא בָּהֶן: ״בַּעֲמִיתוֹ וְכִחֵשׁ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "provides_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:13:1",
+            "hebrew": "קדשים שהבעלים חייבין באחריותן - כגון דאמר הרי עלי והפרישן והפקידן לזה וכפר ונשבע והודה חייב קרבן שבועה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that קדשים where the owner is liable refers to a case where one designated a sacrifice, separated it, deposited it with another, and then denied the deposit, thereby incurring liability for a קרבן and שבועה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:13:2",
+            "hebrew": "שאני קורא בהן בה' וכחש - קס\"ד טעם דחיובא משום דהן של גבוה קרינן בהו ומעלה מעל בה' וכחש:",
+            "english": "",
+            "takeaway": "רש״י explains that the derivation from 'בַּה׳ וְכִחֵשׁ' is based on the assumption that the liability for these items stems from their status as belonging to גבוה, thus constituting מעל against God."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:13:3",
+            "hebrew": "ושאינן חייבין הבעלים באחריותן פטור - הנשבע שאני קורא בהן בעמיתו וכחש מפני שהם קרוין של עמיתו ודעמיתו פטור דבעינן בה':",
+            "english": "",
+            "takeaway": "רש״י explains that for קדשים where the owner is not liable, the oath-taker is exempt because the verse 'בַּעֲמִיתוֹ וְכִחֵשׁ' applies to them as belonging to a neighbor, but since they are not considered the neighbor's property in the relevant sense, the requirement of 'בַּה׳' excludes them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "רַבִּי יִצְחָק בַּר אַבָּא: כְּלַפֵּי לְיָיא?!",
+      "stepSummary": "Rabbi Yitzchak bar Abba objects that the derivation is backwards: items without liability should be included under 'בַּה׳' and items with liability should be excluded under 'בַּעֲמִיתוֹ'.",
+      "whatsHappening": "רַבִּי יִצְחָק בַּר אַבָּא challenges the תַּנָּא's derivation, arguing the logic is reversed. He claims items without liability belong to God, so they should be included under 'בַּה׳'.",
+      "deeperAnalysis": "He argues that items where one is NOT liable belong entirely to God, so they should be included under 'בַּה׳'. Items where one IS liable have some human ownership, so they should be excluded under 'בַּעֲמִיתוֹ'. The תַּנָּא's reading seems inverted, highlighting a logical difficulty in the scriptural derivation.",
+      "keyTerms": [
+        {
+          "term": "כְּלַפֵּי לְיָיא",
+          "meaning": "isn't it the opposite? / isn't it reversed?"
+        },
+        {
+          "term": "רַבִּי יִצְחָק בַּר אַבָּא",
+          "meaning": "the Amora challenging the derivation"
+        }
+      ],
+      "whatToRemember": "The objection is based on the degree of divine vs. human ownership.",
+      "whyThisMatters": "Highlights a logical difficulty in the תַּנָּא's scriptural derivation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: כְּלַפֵּי לְיָיא? !",
+          "english": "He said to him: Isn't it the opposite?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: כְּלַפֵּי לְיָיא?!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 58a:14:1",
+            "hebrew": "כלפי לייא - כלפי היכן הדבר נוטה. לייא היכא כגון (ברכות דף נח.): חצבי לנהרא כגני לייא:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase כְּלַפֵּי לְיָיא means 'in whose direction the matter leans,' citing the example from ברכות where a river flowing toward the sea is described as חצבי לנהרא כגני לייא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T07:00:55.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 108.45061060000444,
+      "structure": 2204.322860999964,
+      "validate": 290.2013549998519,
+      "translate": 495.9347777001094,
+      "meforshim": 799.7686734999879,
+      "teaching": 991.1941752999555
+    }
+  }
+}

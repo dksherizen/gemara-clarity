@@ -1,0 +1,1534 @@
+{
+  "ref": "Bava Metzia 71a",
+  "masechet": "Bava_Metzia",
+  "daf": 71,
+  "amud": "a",
+  "mainTopic": "(continues) צאן ברזל מן הגוים וריבית דגוי · סמיטות עיניהם של מלוים בריבית · צדיק ממנו בולע",
+  "overview": "(1) The Mishnah and Gemara discuss the laws of צאן ברזל with non-Jews, the permissibility of charging interest to non-Jews, and the priority of lending to Jews over non-Jews. (2) The Gemara cites aggadic statements about the blindness of those who charge interest and the stability of those who do not. (3) A brief aggadic interpretation of a verse regarding the wicked swallowing the righteous. (4) The Gemara discusses the status of a גר תושב and גר צדק regarding the purchase of an עבד עברי, and the ability of a woman to purchase slaves. (5) A brief statement about a widow not keeping a dog, with a discussion on the reasoning. (6) The Gemara clarifies the status of a גר תושב regarding interest and discusses the permissibility of acting as a guarantor for a non-Jew. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 4,
+      "topic": "(continues) צאן ברזל מן הגוים וריבית דגוי",
+      "gist": "The Mishnah and Gemara discuss the laws of צאן ברזל with non-Jews, the permissibility of charging interest to non-Jews, and the priority of lending to Jews over non-Jews.",
+      "openingFormula": "מַתְנִי׳ אֵין מְקַבְּלִין צֹאן בַּרְזֶל מִיִּשְׂרָאֵל",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 5,
+      "endLine": 6,
+      "topic": "סמיטות עיניהם של מלוים בריבית",
+      "gist": "The Gemara cites aggadic statements about the blindness of those who charge interest and the stability of those who do not.",
+      "openingFormula": "תַּנְיָא, אָמַר רַבִּי יוֹסֵי",
+      "firstStepNumber": 4,
+      "lastStepNumber": 5
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 7,
+      "endLine": 7,
+      "topic": "צדיק ממנו בולע",
+      "gist": "A brief aggadic interpretation of a verse regarding the wicked swallowing the righteous.",
+      "openingFormula": "״לָמָּה תַבִּיט בּוֹגְדִים תַּחֲרִישׁ כְּבַלַּע רָשָׁע צַדִּיק מִמֶּנּוּ״",
+      "firstStepNumber": 6,
+      "lastStepNumber": 6
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 8,
+      "endLine": 16,
+      "topic": "גר תושב וגר צדק ועבד עברי",
+      "gist": "The Gemara discusses the status of a גר תושב and גר צדק regarding the purchase of an עבד עברי, and the ability of a woman to purchase slaves.",
+      "openingFormula": "תַּנְיָא, רַבִּי אוֹמֵר",
+      "firstStepNumber": 7,
+      "lastStepNumber": 14
+    },
+    {
+      "sugyaNumber": 5,
+      "startLine": 17,
+      "endLine": 17,
+      "topic": "ארמלתא לא תרבוי כלבא",
+      "gist": "A brief statement about a widow not keeping a dog, with a discussion on the reasoning.",
+      "openingFormula": "אֶלָּא הָא דְּתָנֵי רַב יוֹסֵף",
+      "firstStepNumber": 15,
+      "lastStepNumber": 15
+    },
+    {
+      "sugyaNumber": 6,
+      "startLine": 18,
+      "endLine": 20,
+      "topic": "גר תושב לענין ריבית וערב לגוי",
+      "gist": "The Gemara clarifies the status of a גר תושב regarding interest and discusses the permissibility of acting as a guarantor for a non-Jew. — discussion continues into next amud.",
+      "openingFormula": "גֵּר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית מַאי הִיא",
+      "firstStepNumber": 16,
+      "lastStepNumber": 18
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹחָנָן: only for Torah scholars",
+      "stepSummary": "Ravina offers an alternative resolution: the Mishna's permission applies only to Torah scholars.",
+      "whatsHappening": "רַבִּי יוֹחָנָן introduces a new perspective on the Mishna's permission. He explains that the permission applies only to תַּלְמִידֵי חֲכָמִים.",
+      "deeperAnalysis": "The Sages decreed against lending to גוֹיִים with interest to prevent Jews from learning their ways. תַּלְמִידֵי חֲכָמִים are immune to this influence, so the decree does not apply to them. This shifts the focus from the borrower's status to the lender's status.",
+      "keyTerms": [
+        {
+          "term": "תַּלְמִידֵי חֲכָמִים",
+          "meaning": "Torah scholars"
+        },
+        {
+          "term": "גְּזֵרָה",
+          "meaning": "rabbinic decree"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבִינָא אָמַר: הָכָא בְּתַלְמִידֵי חֲכָמִים עָסְקִינַן.",
+          "english": "Ravina said: Here we are dealing with Torah scholars."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "טַעְמָא מַאי גְּזוּר רַבָּנַן –",
+          "english": "What is the reason the Sages decreed –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁמָּא יִלְמוֹד מִמַּעֲשָׂיו,",
+          "english": "Perhaps he will learn from their actions,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְכֵיוָן דְּתַלְמִיד חָכָם הוּא –",
+          "english": "And since he is a Torah scholar –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לֹא יִלְמוֹד מִמַּעֲשָׂיו.",
+          "english": "He will not learn from their actions."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבִינָא אָמַר:",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:2:1",
+            "hebrew": "רבינא אמר - מתניתין דקתני מלוין אותן ברבית בתלמיד חכם עסקינן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבינא's statement restricts the Mishna's permission to lend to a גוי with interest specifically to cases involving a תלמיד חכם."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:2:2",
+            "hebrew": "טעמא מאי אמרו רבנן - רבית נכרי אסור שמא ירגיל הנכרי אצלו וילמד ממעשיו לא גרסינן דלמא אתי למיסרך:",
+            "english": "",
+            "takeaway": "רש״י explains that the רבנן's decree against רבית נכרי is based on the concern that the גוי might become accustomed to the Jew's business practices and the Jew might learn from the גוי's actions, rather than the concern that the Jew might come to lend to other Jews with interest."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Priority of lending to Jews over גוֹיִים",
+      "stepSummary": "The Gemara cites a teaching on the priority of lending to Jews over גויים, and to the poor over the rich.",
+      "whatsHappening": "The גמרא transitions to a new topic: the hierarchy of priority in lending. It cites a teaching from רַבִּי יוֹסֵף based on a verse from Exodus.",
+      "deeperAnalysis": "The teaching establishes a clear hierarchy: Jews take precedence over גוֹיִים, the poor over the rich, one's own poor over the city's poor, and the city's poor over outsiders. This introduces an ethical dimension to the mechanics of lending.",
+      "keyTerms": [
+        {
+          "term": "עַמִּי וְגוֹי",
+          "meaning": "my people and a stranger"
+        },
+        {
+          "term": "עָנִי וְעָשִׁיר",
+          "meaning": "poor and rich"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיכָּא דְּמַתְנֵי לַהּ לְהָא דְּרַב הוּנָא",
+          "english": "There are those who teach it, that of Rav Huna"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַהָא דְּתָנֵי רַב יוֹסֵף:",
+          "english": "To that which Rav Yosef taught:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״אִם כֶּסֶף תַּלְוֶה אֶת עַמִּי אֶת הֶעָנִי עִמָּךְ״.",
+          "english": "\"If you lend money to My people, to the poor with you.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עַמִּי וְגוֹי – עַמִּי קוֹדֵם,",
+          "english": "My people and a nation – My people precedes,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עָנִי וְעָשִׁיר – עָנִי קוֹדֵם.",
+          "english": "Poor and rich – poor precedes."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״עֲנִיֶּיךָ וַעֲנִיֵּי עִירֶךָ״ – עֲנִיֶּיךָ קוֹדְמִין,",
+          "english": "\"Your poor and the poor of your city\" – your poor precede,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "עֲנִיֵּי עִירֶךָ וַעֲנִיֵּי עִיר אַחֶרֶת –",
+          "english": "The poor of your city and the poor of another city –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "עֲנִיֵּי עִירֶךָ קוֹדְמִין.",
+          "english": "The poor of your city precede."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיכָּא דְּמַתְנֵי לַהּ לְהָא דְּרַב הוּנָא אַהָא דְּתָנֵי רַב יוֹסֵף:",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:3:1",
+            "hebrew": "אם כסף תלוה את עמי - עמי ונכרי באין ללוות. עמי קודם:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'עמי' in the verse establishes the priority of lending to a Jew over a גוי when both seek a loan."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:3:2",
+            "hebrew": "ענייך ועניי עירך - עניים שהם קרובין וממשפחתך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'ענייך' refers to poor relatives or family members, distinguishing them from the general poor of the city."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:3:3",
+            "hebrew": "ענייך קודמין - דכתיב עמך. הקרובין לך:",
+            "english": "",
+            "takeaway": "רש״י derives the priority of one's own relatives from the word 'עמך' in the verse, indicating that those closer to you take precedence."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:3:4",
+            "hebrew": "עניי עירך קודמין לעניי עיר אחרת - דהנך הוו עמך טפי:",
+            "english": "",
+            "takeaway": "רש״י explains that the poor of one's own city take precedence over the poor of another city because they are considered more like 'your people'."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Isn't it obvious that Jews take precedence?",
+      "stepSummary": "The Gemara asks whether it's obvious that Jews take precedence over גויים in lending.",
+      "whatsHappening": "The גמרא raises a neutral question about the necessity of the teaching. It asks why we need a source to establish that Jews take precedence over גוֹיִים.",
+      "deeperAnalysis": "The question challenges the obviousness of the hierarchy. If Jews naturally take precedence, why is a specific teaching needed? This sets up an explanation for the teaching's purpose beyond the obvious.",
+      "keyTerms": [
+        {
+          "term": "פְּשִׁיטָא",
+          "meaning": "isn't it obvious?"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: עַמִּי וְגוֹי עַמִּי קוֹדֵם, פְּשִׁיטָא!",
+          "english": "The Master said: My people and a gentile, My people takes precedence — obvious!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב נַחְמָן אָמַר לִי הוּנָא:",
+          "english": "Rav Naḥman said that Huna said to me:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא נִצְרְכָא, דַּאֲפִילּוּ לְגוֹי בְּרִבִּית וּלְיִשְׂרָאֵל בְּחִנָּם.",
+          "english": "It is not needed, even if to a gentile with interest and to a Jew for free."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר מָר: עַמִּי וְגוֹי עַמִּי קוֹדֵם, פְּשִׁיטָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "direct_question"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹסֵי on the blindness of interest-lenders",
+      "stepSummary": "A ברייתא quotes רַבִּי יוֹסֵי describing the moral blindness of those who charge interest, who formally document their borrower's denial of God.",
+      "whatsHappening": "The גמרא introduces an aggadic teaching from רַבִּי יוֹסֵי about the spiritual blindness of מַלְוֵי בְּרִבִּית. It contrasts ordinary insult with the formalized condemnation of interest-lenders.",
+      "deeperAnalysis": "Ordinary insults lead to personal harassment, but interest-lenders bring witnesses, a scribe, and ink to formally document that the borrower has denied the God of Israel. The blindness lies in their failure to see that charging interest is itself a denial of divine law.",
+      "keyTerms": [
+        {
+          "term": "סַמְיוּת עֵינֵיהֶם",
+          "meaning": "blindness of their eyes"
+        },
+        {
+          "term": "מַלְוֵי בְּרִבִּית",
+          "meaning": "those who lend with interest"
+        },
+        {
+          "term": "לַבְלָר",
+          "meaning": "scribe"
+        },
+        {
+          "term": "קוּלְמוֹס",
+          "meaning": "pen"
+        },
+        {
+          "term": "כָּפַר בֵּאלֹהֵי יִשְׂרָאֵל",
+          "meaning": "denied the God of Israel"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא, אָמַר רַבִּי יוֹסֵי:",
+          "english": "It is taught, Rabbi Yosei says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בֹּא וּרְאֵה סַמְיוּת עֵינֵיהֶם שֶׁל מַלְוֵי בְּרִבִּית.",
+          "english": "Come and see the blindness of the eyes of those who lend with interest."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָדָם קוֹרֵא לַחֲבֵירוֹ ״רָשָׁע״ – יוֹרֵד עִמּוֹ לְחַיָּיו.",
+          "english": "A person calls his fellow 'wicked' — he descends with him to his life.",
+          "notes": "Refers to the severe social and personal consequences of public insult."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהֵם מְבִיאִין עֵדִים וְלַבְלָר וְקוּלְמוֹס וּדְיוֹ,",
+          "english": "And they bring witnesses and a scribe and a pen and ink,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְכוֹתְבִין וְחוֹתְמִין: פְּלוֹנִי זֶה כָּפַר בֵּאלֹהֵי יִשְׂרָאֵל.",
+          "english": "And they write and sign: So-and-so this denied the God of Israel."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא, אָמַר רַבִּי יוֹסֵי: בּוֹא וּרְאֵה סַמְיוּת עֵינֵיהֶם שֶׁל מַלְוֵי בְּרִבִּית.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:5:1",
+            "hebrew": "יורד עמו לחייו - רגיל להתקוטט עמו כאילו הכהו וכאילו בא להורגו ואני שמעתי רשאי לירד לתוך אומנותו של חבירו ולמעט מזונותיו של חבירו וקשה בעיני שיתירו חכמים לישראל להנקם ולגמול רעה ועוד דאמרי' בכתובות (דף נ.) עד שתים עשרה שנה מתגלגל אדם עם בנו מכאן ואילך יורד עמו לחייו ומאי יורד לתוך אומנותו איכא הא לייסרו ולכופו לתורה קאמר:",
+            "english": "",
+            "takeaway": "רש״י explains that יורד עמו לחייו means the insulted party is accustomed to fighting with the insulter as if he struck him or came to kill him, and notes that he heard a ruling permitting one to enter a fellow's trade to reduce his livelihood, though he questions how חכמים could permit vengeance and retaliation, especially given the teaching in כתובות that a father can discipline his son only until twelve years old, after which he יורד עמו לחייו, which רש״י interprets as meaning the father may punish and compel him to תורה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:5:2",
+            "hebrew": "פלוני כפר - שהלוה ישראל ברבית:",
+            "english": "",
+            "takeaway": "רש״י clarifies that פלוני כפר באלהי ישראל refers to the borrower who took a loan with ריבית, thereby denying the God of Israel by violating His commandments."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71a:5:1",
+            "hebrew": "אדם קורא לחבירו רשע יורד עמו לחייו - כתוב בתשובות הגאונים בשם רב צדוק גאון יורד עמו לחייו רשאי לשרוף שליש תבואתו ותימה גדול מנין לו זה:",
+            "english": "",
+            "takeaway": "תוספות cites a responsum of רב צדוק גאון stating that יורד עמו לחייו permits burning a third of the insulter's produce, and expresses astonishment at the source of this ruling."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר on the stability of non-interest lenders",
+      "stepSummary": "A second ברייתא quotes רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר deriving from Psalms 15:5 that those who lend without interest remain stable, implying interest-lenders collapse.",
+      "whatsHappening": "The גמרא cites a second ברייתא from רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר. He uses a פסוק to teach that non-interest lenders are stable, implying the opposite for interest-lenders.",
+      "deeperAnalysis": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר cites Psalms 15:5: 'כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ... עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם.' He infers that those who DO lend with interest will see their property collapse. This sets up an empirical challenge.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר",
+          "meaning": "Rabbi Shimon ben Elazar"
+        },
+        {
+          "term": "כַּסְפּוֹ לֹא נָתַן בְּנֶשֶׁךְ",
+          "meaning": "he has not given his money with interest"
+        },
+        {
+          "term": "לֹא יִמּוֹט לְעוֹלָם",
+          "meaning": "shall never collapse"
+        },
+        {
+          "term": "נְכָסָיו מִתְמוֹטְטִין",
+          "meaning": "his property collapses"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר:",
+          "english": "It is taught, Rabbi Shimon ben Elazar says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כָּל מִי שֶׁיֵּשׁ לוֹ מָעוֹת וּמַלְוֶה",
+          "english": "Anyone who has money and lends"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹתָם שֶׁלֹּא בְּרִבִּית,",
+          "english": "them without interest,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עָלָיו הַכָּתוּב אוֹמֵר ״כַּסְפּוֹ לֹא נָתַן",
+          "english": "about him the verse says: 'His money he did not give"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּנֶשֶׁךְ וְשֹׁחַד עַל נָקִי לֹא לָקָח",
+          "english": "for interest and a bribe against the innocent he did not take"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "עֹשֵׂה אֵלֶּה לֹא יִמּוֹט לְעוֹלָם״.",
+          "english": "He who does these shall not collapse forever.'"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הָא לָמַדְתָּ שֶׁכׇּל הַמַּלְוֶה בְּרִבִּית נְכָסָיו מִתְמוֹטְטִין.",
+          "english": "From this you learn that anyone who lends with interest his property collapses."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְהָא קָא חָזֵינַן דְּלָא מוֹזְפִי בְּרִבִּית וְקָא מִתְמוֹטְטִין!",
+          "english": "And yet we see that those who do not increase with interest and yet collapse!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "Rabbi Elazar said:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הַלָּלוּ מִתְמוֹטְטִין וְעוֹלִין,",
+          "english": "These collapse and rise,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְהַלָּלוּ מִתְמוֹטְטִין וְאֵינָן עוֹלִין.",
+          "english": "and these collapse and do not rise."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא, רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר: כָּל מִי שֶׁיֵּשׁ לוֹ מָעוֹת וּמַלְוֶה אוֹתָם שֶׁלֹּא בְּרִבִּית...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "complementary_source",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:6:1",
+            "hebrew": "מתמוטטים - דוק הכי עושה אלה לא ימוט הא אם נתן בנשך ימוט:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר derives the instability of interest-lenders directly from the negative implication of the פסוק, which states that those who do not lend with interest will not be shaken, implying that those who do will be shaken."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:6:2",
+            "hebrew": "הללו מתמוטטין ועולין והללו וכו' - והכי משמע קרא כל עושה אלה לא ימוט לעולם כלומר ואם ימוט אין מוטתו מוטת עולם אבל הנותן בנשך ימוט לעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי אֶלְעָזָר resolves the empirical challenge by interpreting the פסוק's phrase 'לְעוֹלָם' to mean that while non-interest lenders may experience temporary setbacks, they will recover, whereas interest-lenders will face permanent collapse."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71a:6:1",
+            "hebrew": "הא חזינן דלא עבדי הכי ומתמוטטים - וא\"ת דלמא משום שאר עבירות הכתובים באותו פסוק ושוחד על נקי לא לקח וי\"ל דפריך דחזינן צדיקים גמורים נמי מתמוטטין א\"נ לר\"ע פריך דדריש בסוף מכות (דף כד. ע\"ש) עושה אלה עושה אחת מכל אלה לא ימוט:",
+            "english": "",
+            "takeaway": "תוספות addresses the potential objection that the observed instability might be due to other sins mentioned in the same פסוק, such as taking bribes, by clarifying that the challenge applies even to completely righteous individuals, or alternatively, that רַבִּי אֶלְעָזָר's derivation in מסכת מכות allows the פסוק to apply to someone who performs just one of the listed righteous acts."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "רַב הוּנָא: צַדִּיק מִמֶּנּוּ בּוֹלֵעַ, צַדִּיק גָּמוּר אֵינוֹ בּוֹלֵעַ",
+      "stepSummary": "רַב הוּנָא interprets the verse from חֲבַקּוּק to mean that the wicked can temporarily overwhelm a relatively righteous person, but never a completely righteous one.",
+      "whatsHappening": "The גמרא opens with a verse from חֲבַקּוּק and immediately provides רַב הוּנָא's aggadic interpretation. It distinguishes two levels of righteousness.",
+      "deeperAnalysis": "The verse asks why God remains silent while the wicked swallows the righteous. רַב הוּנָא resolves this by distinguishing a צַדִּיק מִמֶּנּוּ (one more righteous than the oppressor) who can be temporarily swallowed, from a צַדִּיק גָּמוּר (completely righteous) who is never swallowed. This is a freestanding teaching.",
+      "keyTerms": [
+        {
+          "term": "צַדִּיק מִמֶּנּוּ",
+          "meaning": "one who is more righteous than the wicked oppressor"
+        },
+        {
+          "term": "צַדִּיק גָּמוּר",
+          "meaning": "a completely righteous person"
+        },
+        {
+          "term": "בּוֹלֵעַ",
+          "meaning": "swallows / overwhelms"
+        },
+        {
+          "term": "חֲבַקּוּק",
+          "meaning": "the biblical prophet whose verse is cited"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "״לָמָּה תַבִּיט בּוֹגְדִים תַּחֲרִישׁ כְּבַלַּע רָשָׁע צַדִּיק מִמֶּנּוּ״.",
+          "english": "Why do You look at treacherous ones, remain silent as a wicked one swallows a righteous one from him?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב הוּנָא:",
+          "english": "Rav Huna said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "צַדִּיק מִמֶּנּוּ – בּוֹלֵעַ,",
+          "english": "A righteous one from him – he swallows,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "צַדִּיק גָּמוּר – אֵינוֹ בּוֹלֵעַ.",
+          "english": "A completely righteous one – he does not swallow."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָמָּה תַבִּיט בּוֹגְדִים תַּחֲרִישׁ כְּבַלַּע רָשָׁע צַדִּיק מִמֶּנּוּ. אָמַר רַב הוּנָא: צַדִּיק מִמֶּנּוּ – בּוֹלֵעַ, צַדִּיק גָּמוּר – אֵינוֹ בּוֹלֵעַ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:7:1",
+            "hebrew": "צדיק גמור אינו בולע - ואע\"פ שמתמוטט. עולה ואינו נבלע לעולם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that even though a צַדִּיק גָּמוּר may experience temporary collapse or distress, he ultimately rises and is never permanently swallowed."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "שאלה",
+      "title": "רַבִּי's confusion about גֵּר צֶדֶק and גֵּר תּוֹשָׁב",
+      "stepSummary": "רַבִּי expresses uncertainty about the exact meaning of the terms גֵּר צֶדֶק and גֵּר תּוֹשָׁב as they appear in the contexts of slave sale and interest.",
+      "whatsHappening": "The sugya opens with a ברייתא quoting רַבִּי's statement of confusion regarding the terminology used in the Torah. This is a setup line establishing the need for clarification.",
+      "deeperAnalysis": "רַבִּי notes that the Torah mentions גֵּר צֶדֶק in the context of selling a Hebrew slave and גֵּר תּוֹשָׁב in the context of interest. He admits he does not know the precise distinction or meaning of these terms in these specific contexts.",
+      "keyTerms": [
+        {
+          "term": "גֵּר צֶדֶק",
+          "meaning": "righteous convert, full convert"
+        },
+        {
+          "term": "גֵּר תּוֹשָׁב",
+          "meaning": "resident alien, Noahide observer"
+        },
+        {
+          "term": "מְכִירָה",
+          "meaning": "sale, specifically of a Hebrew slave"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא, רַבִּי אוֹמֵר:",
+          "english": "It is taught, Rabbi says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "גֵּר צֶדֶק הָאָמוּר לְעִנְיַן מְכִירָה,",
+          "english": "A righteous convert mentioned concerning sale,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְגֵר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית,",
+          "english": "and a resident alien mentioned concerning interest,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵינִי יוֹדֵעַ מַה הוּא.",
+          "english": "I do not know what it is."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "תַּנְיָא, רַבִּי אוֹמֵר: גֵּר צֶדֶק הָאָמוּר לְעִנְיַן מְכִירָה, וְגֵר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית, אֵינִי יוֹדֵעַ מַה הוּא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Clarification of גֵּר צֶדֶק and גֵּר תּוֹשָׁב in the context of slave sale",
+      "stepSummary": "The Gemara clarifies that גֵּר צֶדֶק refers to a convert who can purchase a Hebrew slave, and גֵּר תּוֹשָׁב refers to a resident alien who can also purchase a Hebrew slave.",
+      "whatsHappening": "The Gemara provides the explanation for רַבִּי's confusion, clarifying the meaning of the terms in the context of slave sale. This is a direct resolution to the setup.",
+      "deeperAnalysis": "The Gemara explains that גֵּר צֶדֶק mentioned in the context of sale refers to a convert who can purchase a Hebrew slave, as derived from the verse 'וְנִמְכַּר לָךְ' and 'לְגֵר'. It further clarifies that this includes גֵּר תּוֹשָׁב, as derived from 'לְגֵר תּוֹשָׁב'.",
+      "keyTerms": [
+        {
+          "term": "וְנִמְכַּר לָךְ",
+          "meaning": "and is sold to you"
+        },
+        {
+          "term": "לְגֵר",
+          "meaning": "to a convert"
+        },
+        {
+          "term": "לְגֵר תּוֹשָׁב",
+          "meaning": "to a resident alien"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גֵּר צֶדֶק הָאָמוּר לְעִנְיַן מְכִירָה, דִּכְתִיב:",
+          "english": "The righteous convert mentioned concerning sale, as it is written:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״וְכִי יָמוּךְ אָחִיךָ עִמָּךְ וְנִמְכַּר לָךְ״.",
+          "english": "\"And if your brother becomes poor with you and is sold to you.\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלֹא לְךָ, אֶלָּא לְגֵר, שֶׁנֶּאֱמַר: ״לְגֵר״.",
+          "english": "And not to you, but to a convert, as it is said: \"to a convert.\""
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֹא לְגֵר צֶדֶק אֶלָּא לְגֵר תּוֹשָׁב,",
+          "english": "And not to a righteous convert but to a resident convert,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁנֶּאֱמַר: ״לְגֵר תּוֹשָׁב״.",
+          "english": "as it is said: \"to a resident convert.\""
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״מִשְׁפַּחַת גֵּר״ – זֶה הַגּוֹי.",
+          "english": "\"Of the family of a convert\" – this is the gentile."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כְּשֶׁהוּא אוֹמֵר ״אוֹ לְעֵקֶר״ –",
+          "english": "When it says \"or to an offshoot\" –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "זֶה הַנִּמְכָּר לַעֲבוֹדָה זָרָה עַצְמָהּ.",
+          "english": "this is the one sold for idol worship itself."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "גֵּר צֶדֶק הָאָמוּר לְעִנְיַן מְכִירָה, דִּכְתִיב: ״וְכִי יָמוּךְ אָחִיךָ עִמָּךְ וְנִמְכַּר לָךְ״. וְלֹא לְךָ, אֶלָּא לְגֵר, שֶׁנֶּאֱמַר: ״לְגֵר״.",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:9:1",
+            "hebrew": "ולא לך אלא לגר - לעיל קאי ורישא דברייתא במסכת ערכין (דף ל:) בא וראה כמה קשה אבקה של שביעית אדם נושא ונותן בפירות שביעית סוף מוכר מטלטליו כו' עד לא באת לידו עד שמוכר עצמו שנאמר ונמכר לך ולא לך אלא לגר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'ולא לך אלא לגר' is a continuation from a ברייתא in מסכת ערכין, which discusses the severity of שביעית restrictions leading a person to sell themselves, derived from the verse 'ונמכר לך'."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:10:1",
+            "hebrew": "נמכר לעבודת כוכבים - לחטוב עצים ולשאוב מים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'נמכר לעבודת כוכבים' refers to being sold to perform mundane tasks like chopping wood and drawing water for idolatrous purposes."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71a:10:1",
+            "hebrew": "או לעקר זה הנמכר לעבודת כוכבים עצמה - וא\"ת למ\"ל למכתב בתר עקר משפחת גר דהיינו נכרי כיון דנמכר לעבודת כוכבים א\"כ נמכר לנכרי וי\"ל דה\"א לעבודת כוכבים של ישראל כגון פסלו של מיכה א\"נ אי לאו דכתיב משפחת גר ה\"א דעקר היינו נכרי אבל אין לתרץ דאצטריך משום גאולת קרובים דמגר תושב נפיק כ\"ש נכרי:",
+            "english": "",
+            "takeaway": "תוספות questions why the Torah needs to specify 'משפחת גר' (gentile) after mentioning 'לעקר' (idolatry), since idolatry implies a gentile owner, and answers that without 'משפחת גר', one might have thought 'לעקר' refers to idolatry owned by a Jew, such as מיכה's idol."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to the ability of a גֵּר to purchase a Hebrew slave",
+      "stepSummary": "The Gemara challenges the previous clarification by citing a ברייתא that states a גֵּר cannot purchase a Hebrew slave.",
+      "whatsHappening": "The Gemara raises a contradiction to the previous clarification, questioning whether a גֵּר can indeed purchase a Hebrew slave. This is a classic קושיא.",
+      "deeperAnalysis": "The Gemara cites a ברייתא that states 'אֵין הַגֵּר נִקְנֶה בְּעֶבֶד עִבְרִי, וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי'. This directly contradicts the previous clarification that a גֵּר can purchase a Hebrew slave.",
+      "keyTerms": [
+        {
+          "term": "אֵין הַגֵּר נִקְנֶה בְּעֶבֶד עִבְרִי",
+          "meaning": "a convert cannot be acquired as a Hebrew slave"
+        },
+        {
+          "term": "אֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי",
+          "meaning": "a woman and a convert cannot acquire a Hebrew slave"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: וְלֹא לְךָ אֶלָּא לְגֵר,",
+          "english": "The Master said: And not to you, but to a convert,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁנֶּאֱמַר: ״לְגֵר״, לְמֵימְרָא דְּגֵר קָנֵי עֶבֶד עִבְרִי?",
+          "english": "As it is said: 'to a convert', to say that a convert acquires a Hebrew slave?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "ורְמִינְהִי: אֵין הַגֵּר נִקְנֶה בְּעֶבֶד עִבְרִי,",
+          "english": "And we raise a contradiction: A convert is not acquired as a Hebrew slave,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי.",
+          "english": "And a woman and a convert do not acquire a Hebrew slave."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אָמַר מָר: וְלֹא לְךָ אֶלָּא לְגֵר, שֶׁנֶּאֱמַר: ״לְגֵר״, לְמֵימְרָא דְּגֵר קָנֵי עֶבֶד עִבְרִי? ורְמִינְהִי: אֵין הַגֵּר נִקְנֶה בְּעֶבֶד עִבְרִי, וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:11:1",
+            "hebrew": "אמר מר - השתא מפרש מאי קשיא ליה דקאמר איני יודע מהו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge arises from the previous clarification that a גֵּר can purchase a Hebrew slave, which the Gemara now questions by citing a contradictory ברייתא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution of the challenge regarding a גֵּר purchasing a Hebrew slave",
+      "stepSummary": "The Gemara resolves the challenge by explaining that a גֵּר cannot be acquired as a Hebrew slave because he has no family to return to, and a woman cannot purchase a Hebrew slave due to impropriety.",
+      "whatsHappening": "The Gemara provides a resolution to the challenge, explaining why a גֵּר cannot purchase a Hebrew slave. This is a תירוץ.",
+      "deeperAnalysis": "The Gemara explains that a גֵּר cannot be acquired as a Hebrew slave because the verse requires 'וְשָׁב אֶל מִשְׁפַּחְתּוֹ', and a גֵּר has no family to return to. A woman cannot purchase a Hebrew slave because it is not proper conduct.",
+      "keyTerms": [
+        {
+          "term": "וְשָׁב אֶל מִשְׁפַּחְתּוֹ",
+          "meaning": "and he shall return to his family"
+        },
+        {
+          "term": "לָאו אוֹרַח אַרְעָא",
+          "meaning": "not proper conduct"
+        },
+        {
+          "term": "דְּמִקְנֵי – קָנֵי, דְּלָא מִקְנֵי – לָא קָנֵי",
+          "meaning": "one who can be acquired can acquire, one who cannot be acquired cannot acquire"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גֵּר לֹא נִקְנֶה בְּעֶבֶד עִבְרִי:",
+          "english": "A convert is not acquired as a Hebrew slave:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״וְשָׁב אֶל מִשְׁפַּחְתּוֹ״ בָּעֵינַן, וְהָא לֵיכָּא.",
+          "english": "\"And he shall return to his family\" we require, and this is not so."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי:",
+          "english": "And a woman and a convert do not acquire a Hebrew slave:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִשָּׁה – לָאו אוֹרַח אַרְעָא.",
+          "english": "A woman — it is not the way of the land.",
+          "notes": "Refers to the impropriety of a woman owning a male slave."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גֵּר נָמֵי גְּמִירִי:",
+          "english": "A convert too, it is learned:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּמִקְּנֵי – קָנֵי,",
+          "english": "One who is acquired — acquires,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּלָא מִקְּנֵי – לָא קָנֵי.",
+          "english": "One who is not acquired — does not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "גֵּר לֹא נִקְנֶה בְּעֶבֶד עִבְרִי: ״וְשָׁב אֶל מִשְׁפַּחְתּוֹ״ בָּעֵינַן, וְהָא לֵיכָא. וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי: אִשָּׁה – לָאו אוֹרַח אַרְעָא. גֵּר נָמֵי גְּמִירִי: דְּמִקְנֵי – קָנֵי, דְּלָא מִקְנֵי – לָא קָנֵי.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:12:1",
+            "hebrew": "לאו אורח ארעא - שהוא מתייחד עמה:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition of a woman purchasing a Hebrew slave is due to לאו אורח ארעא, meaning it is improper because she would be secluded with him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:12:2",
+            "hebrew": "גמירי דמיקני קני - הנקנה בעבד עברי. קונה בעבד עברי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the rule גמירי דמיקני קני means that only one who is subject to being acquired as a Hebrew slave can acquire a Hebrew slave."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "רַב נַחְמָן בַּר יִצְחָק's distinction regarding a גֵּר purchasing a Hebrew slave",
+      "stepSummary": "רַב נַחְמָן בַּר יִצְחָק distinguishes between a גֵּר purchasing a Hebrew slave with the halachic status of a Jew versus with the halachic status of a gentile.",
+      "whatsHappening": "רַב נַחְמָן בַּר יִצְחָק provides a distinction regarding the halachic status of a גֵּר who purchases a Hebrew slave. This is a new teaching.",
+      "deeperAnalysis": "רַב נַחְמָן בַּר יִצְחָק states that a גֵּר cannot purchase a Hebrew slave with the halachic status of a Jew, but he can purchase a Hebrew slave with the halachic status of a gentile. This distinction clarifies the legal status of a גֵּר regarding the purchase of a Hebrew slave.",
+      "keyTerms": [
+        {
+          "term": "אֵינוֹ קוֹנֶה וְדִינוֹ כְּיִשְׂרָאֵל",
+          "meaning": "he does not acquire and his law is like that of a Jew"
+        },
+        {
+          "term": "אֲבָל קוֹנֶה וְדִינוֹ כְּגוֹי",
+          "meaning": "but he acquires and his law is like that of a gentile"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב נַחְמָן בַּר יִצְחָק:",
+          "english": "Rav Naḥman bar Yitzḥak said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵינוֹ קוֹנֶה וְדִינוֹ כְּיִשְׂרָאֵל,",
+          "english": "He does not acquire and his law is like a Jew,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל קוֹנֶה וְדִינוֹ כְּגוֹי.",
+          "english": "but he acquires and his law is like a gentile."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אָמַר רַב נַחְמָן בַּר יִצְחָק: אֵינוֹ קוֹנֶה וְדִינוֹ כְּיִשְׂרָאֵל, אֲבָל קוֹנֶה וְדִינוֹ כְּגוֹי.",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous_step"
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "ראיה",
+      "title": "Proof from a ברייתא regarding a Hebrew slave sold to a gentile",
+      "stepSummary": "The Gemara cites a ברייתa that supports רַב נַחְמָן בַּר יִצְחָק's distinction regarding a גֵּר purchasing a Hebrew slave.",
+      "whatsHappening": "The Gemara provides a proof from a ברייתא to support רַב נַחְמָן בַּר יִצְחָק's distinction. This is a ראיה.",
+      "deeperAnalysis": "The Gemara cites a ברייתא that states a Hebrew slave who had his ear pierced or was sold to a gentile does not serve his master's son or daughter after his master's death. This supports רַב נַחְמָן בַּר יִצְחָק's distinction that a גֵּר can purchase a Hebrew slave with the halachic status of a gentile.",
+      "keyTerms": [
+        {
+          "term": "הַנִּרְצָע",
+          "meaning": "the one whose ear was pierced"
+        },
+        {
+          "term": "וְהַנִּמְכָּר לְגוֹי",
+          "meaning": "and the one sold to a gentile"
+        },
+        {
+          "term": "אֵינוֹ עוֹבֵד לֹא אֶת הַבֵּן וְלֹא אֶת הַבַּת",
+          "meaning": "does not serve the son and does not serve the daughter"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּתַנְיָא: הַנִּרְצָע וְהַנִּמְכָּר לְגוֹי אֵינוֹ עוֹבֵד לֹא",
+          "english": "As it is taught: The one whose ear was pierced and the one sold to a gentile…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶת הַבֵּן וְלֹא אֶת הַבַּת.",
+          "english": "not the son and not the daughter."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "דְּתַנְיָא: הַנִּרְצָע וְהַנִּמְכָּר לְגוֹי אֵינוֹ עוֹבֵד לֹא אֶת הַבֵּן וְלֹא אֶת הַבַּת.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        36
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "supports_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:14:1",
+            "hebrew": "דתניא - דיש חילוק בין הנמכר לנכרי לנמכר לישראל:",
+            "english": "",
+            "takeaway": "רש״י explains that the ברייתא establishes a distinction between a slave sold to a gentile and one sold to a Jew."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:14:2",
+            "hebrew": "הנרצע - בעבד עברי [הנמכר] לישראל ומת האדון קודם היובל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that הנרצע refers to an עבד עברי sold to a Jew whose master died before the יובל."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:14:3",
+            "hebrew": "אינו עובד לא את הבן ולא את הבת - שנאמר (שמות כ״א:ו׳) ועבדו לעולם ולא לבן:",
+            "english": "",
+            "takeaway": "רש״י derives from the verse ועבדו לעולם that the slave serves only the original master, not his son."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:14:4",
+            "hebrew": "והנמכר לנכרי - ילפינן בקדושין (דף יז:) וחשב עם קונהו ולא עם יורשי קונהו:",
+            "english": "",
+            "takeaway": "רש״י cites קידושין 17b to explain that a slave sold to a gentile serves only the purchaser, not the purchaser's heirs."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71a:14:1",
+            "hebrew": "אינו עובד לא את הבן ולא את הבת - אגב בן נקט בת דאפילו נמכר לישראל אינו עובד את הבת:",
+            "english": "",
+            "takeaway": "תוספות explains that the ברייתא mentions the daughter only incidentally with the son, since a slave sold even to a Jew does not serve the daughter."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge regarding a woman purchasing a Hebrew slave",
+      "stepSummary": "The Gemara challenges the previous clarification by citing a ברייתא that states a woman cannot purchase a Hebrew slave.",
+      "whatsHappening": "The Gemara raises a contradiction to the previous clarification, questioning whether a woman can indeed purchase a Hebrew slave. This is a classic קושיא.",
+      "deeperAnalysis": "The Gemara cites a ברייתא that states 'אֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי'. This directly contradicts the previous clarification that a woman can purchase a Hebrew slave.",
+      "keyTerms": [
+        {
+          "term": "אֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי",
+          "meaning": "a woman and a convert cannot acquire a Hebrew slave"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי.",
+          "english": "The Master said: And a woman and a convert do not acquire a Hebrew slave."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נֵימָא דְּלָא כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל?",
+          "english": "Let us say that it is not according to Rabban Shimon ben Gamliel?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּתַנְיָא: אִשָּׁה קוֹנָה אֶת הַשְּׁפָחוֹת,",
+          "english": "For it is taught: A woman acquires maidservants,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵינָהּ קוֹנָה אֶת הָעֲבָדִים.",
+          "english": "and she does not acquire male slaves."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר:",
+          "english": "Rabban Shimon ben Gamliel says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַף קוֹנָה אֶת הָעֲבָדִים!",
+          "english": "She also acquires male slaves!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ תֵּימָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל,",
+          "english": "Even if you say Rabban Shimon ben Gamliel,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְלָא קַשְׁיָא: כָּאן –",
+          "english": "and it is not difficult: Here –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בְּעֶבֶד עִבְרִי, כָּאן – בְּעֶבֶד כְּנַעֲנִי.",
+          "english": "in a Hebrew slave, here – in a Canaanite slave."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אָמַר מָר: וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי. נֵימָא דְלָא כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל? דְּתַנְיָא: אִשָּׁה קוֹנָה אֶת הַשְּׁפָחוֹת, וְאֵינָהּ קוֹנָה אֶת הָעֲבָדִים. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר: אַף קוֹנָה אֶת הָעֲבָדִים!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution of the challenge regarding a woman purchasing a Hebrew slave",
+      "stepSummary": "The Gemara resolves the challenge by distinguishing between a Hebrew slave and a Canaanite slave.",
+      "whatsHappening": "The Gemara provides a resolution to the challenge, explaining why a woman cannot purchase a Hebrew slave. This is a תירוץ.",
+      "deeperAnalysis": "The Gemara resolves the challenge by distinguishing between a Hebrew slave and a Canaanite slave. A woman cannot purchase a Hebrew slave because it is not proper conduct, but she can purchase a Canaanite slave.",
+      "keyTerms": [
+        {
+          "term": "כָּאן – בְּעֶבֶד עִבְרִי",
+          "meaning": "here – in a Hebrew slave"
+        },
+        {
+          "term": "כָּאן – בְּעֶבֶד כְּנַעֲנִי",
+          "meaning": "here – in a Canaanite slave"
+        },
+        {
+          "term": "עֶבֶד עִבְרִי צְנִיעַ לַהּ",
+          "meaning": "a Hebrew slave is discreet for her"
+        },
+        {
+          "term": "עֶבֶד כְּנַעֲנִי פְּרִיץ לַהּ",
+          "meaning": "a Canaanite slave is indiscreet for her"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: וְאֵין אִשָּׁה וְגֵר קוֹנִין עֶבֶד עִבְרִי.",
+          "english": "The Master said: And a woman and a convert do not acquire a Hebrew slave."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נֵימָא דְּלָא כְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל?",
+          "english": "Let us say that it is not according to Rabban Shimon ben Gamliel?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּתַנְיָא: אִשָּׁה קוֹנָה אֶת הַשְּׁפָחוֹת,",
+          "english": "For it is taught: A woman acquires maidservants,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵינָהּ קוֹנָה אֶת הָעֲבָדִים.",
+          "english": "and she does not acquire male slaves."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר:",
+          "english": "Rabban Shimon ben Gamliel says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַף קוֹנָה אֶת הָעֲבָדִים!",
+          "english": "She also acquires male slaves!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ תֵּימָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל,",
+          "english": "Even if you say Rabban Shimon ben Gamliel,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְלָא קַשְׁיָא: כָּאן –",
+          "english": "and it is not difficult: Here –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בְּעֶבֶד עִבְרִי, כָּאן – בְּעֶבֶד כְּנַעֲנִי.",
+          "english": "in a Hebrew slave, here – in a Canaanite slave."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "עֶבֶד עִבְרִי צְנִיעַ לַהּ, עֶבֶד כְּנַעֲנִי פְּרִיץ לַהּ.",
+          "english": "A Hebrew slave is discreet for her, a Canaanite slave is indiscreet for her."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אֲפִילּוּ תֵּימָא רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל, וְלָא קַשְׁיָא: כָּאן – בְּעֶבֶד עִבְרִי, כָּאן – בְּעֶבֶד כְּנַעֲנִי.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:16:1",
+            "hebrew": "צניע לה - מוחזק צנוע הוא בעיניה שאם יקלקלו יחד לא יתפאר לגלות הדבר הלכך אסור לקנותו:",
+            "english": "",
+            "takeaway": "רש״י explains that עבד עברי is צניע לה because he is perceived as modest, so if they were to sin together, he would not publicize it, making the purchase forbidden due to the risk of hidden transgression."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:16:2",
+            "hebrew": "פריץ לה - ויראה היא להפקיר לו את עצמה:",
+            "english": "",
+            "takeaway": "רש״י explains that עבד כנעני is פריץ לה because she would be inclined to give herself to him, implying a lack of modesty and a direct risk of immorality."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "רַב יוֹסֵף: אַרְמַלְתָּא לָא תְּרַבֵּי כֶּלֶב",
+      "stepSummary": "The גמרא introduces a ברייתא from רַב יוֹסֵף prohibiting a widow from raising a dog or hosting a תלמיד חכם.",
+      "whatsHappening": "The גמרא cites a ברייתא establishing two prohibitions for a widow: raising a dog and lodging a תלמיד חכם.",
+      "deeperAnalysis": "The source is a ברייתא attributed to רַב יוֹסֵף. It sets up two parallel prohibitions: 'אַרְמַלְתָּא לָא תְּרַבֵּי כֶּלֶב' and 'לָא תַּשְׁרֵי בַּר בֵּי רַב בְּאוּשְׁפִּיזָא'. This is the foundational teaching that the rest of the sugya will analyze.",
+      "keyTerms": [
+        {
+          "term": "אַרְמַלְתָּא",
+          "meaning": "a widow"
+        },
+        {
+          "term": "כֶּלֶב",
+          "meaning": "dog"
+        },
+        {
+          "term": "בַּר בֵּי רַב",
+          "meaning": "a תלמיד חכם, student of Torah"
+        },
+        {
+          "term": "אוּשְׁפִּיזָא",
+          "meaning": "lodging, guest"
+        }
+      ],
+      "whatToRemember": "The two prohibitions are parallel: dog and תלמיד חכם.",
+      "confusionAlert": "The term 'בַּר בֵּי רַב' refers to a תלמיד חכם, not literally a 'son of the Rav'.",
+      "whyThisMatters": "This is the starting point for the entire discussion on the rationale behind these prohibitions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא הָא דְּתָנֵי רַב יוֹסֵף:",
+          "english": "But this is what Rav Yosef teaches:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַרְמַלְתָּא לָא תְּרַבֵּי כַּלְבָּא,",
+          "english": "A widow may not raise a dog,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלָא תַּשְׁרֵי בַּר בֵּי רַב בְּאוּשְׁפִּיזָא.",
+          "english": "and she may not allow a student of Torah to dwell as a lodger in…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בִּשְׁלָמָא בַּר בֵּי רַב צְנִיעַ לַהּ,",
+          "english": "Granted, a student of Torah is discreet in her eyes,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא כַּלְבָּא, כֵּיוָן דִּמְסָרֵיךְ בַּהּ מִירַתְּתָא! אָמְרִי:",
+          "english": "but a dog, since it would follow her afterward if she engaged in bestiality with it!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כֵּיוָן דְּכִי שָׁדְיָא לֵיהּ אוּמְצָא מְסָרֵיךְ בָּתְרַהּ,",
+          "english": "Since it will follow her afterward if she throws it a piece of meat [umtza],"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמְרִי אִינָשֵׁי: מִשּׁוּם אוּמְצָא דְּשָׁדְיָא לֵיהּ הוּא דִּמְסָרֵיךְ.",
+          "english": "people say: It is following her because of the meat she threw to it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא הָא דְּתָנֵי רַב יוֹסֵף: אַרְמַלְתָּא לָא תְּרַבֵּי כֶּלֶב, וְלָא תַּשְׁרֵי בַּר בֵּי רַב בְּאוּשְׁפִּיזָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:17:1",
+            "hebrew": "לא תרבי כלבא - לא תגדל כלב שמא תקלקל עמו:",
+            "english": "",
+            "takeaway": "רש״י explains that the prohibition against a widow raising a dog is due to the concern that she might become corrupted by it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:17:2",
+            "hebrew": "צניע לה - ובטוחה שלא יודע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the תלמיד חכם is 'צניע לה' meaning he is discreet and trustworthy, ensuring he will not expose her situation."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:17:3",
+            "hebrew": "כיון דמסריך סריך מירתתא - להיות נרבעת לו:",
+            "english": "",
+            "takeaway": "רש״י interprets the dog chasing her as a concern that she might be sexually assaulted by it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 71a:17:1",
+            "hebrew": "לא תרבי כלבא - משום לזות שפתים בעלמא לפי שהולך אחריה שלא נחשדו ישראל על הזכור ועל הבהמה וגם אין אסור להתייחד:",
+            "english": "",
+            "takeaway": "תוספות explains that the prohibition is merely due to 'לזות שפתים' (gossip), as Jews are not suspected of bestiality and there is no prohibition of יחוד with an animal."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י interprets the concern regarding the dog as a severe physical danger (sexual assault/corruption), whereas תוספות limits the concern to mere gossip (לזות שפתים), noting that actual bestiality is not suspected."
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "What is the גר תושב mentioned regarding ריבית?",
+      "stepSummary": "The גמרא opens with a neutral question about the identity of the גר תושב mentioned in the context of ריבית.",
+      "whatsHappening": "The גמרא introduces a question about the status of a גר תושב regarding ריבית, citing the relevant פסוק and a contradictory ברייתא.",
+      "deeperAnalysis": "The פסוק in ויקרא seems to prohibit taking ריבית from a גר תושב ('אל תקח מאיתו נשך'). However, a ברייתא explicitly permits lending to a גר תושב with ריבית. The גמרא is setting up the difficulty to be resolved.",
+      "keyTerms": [
+        {
+          "term": "גֵּר תּוֹשָׁב",
+          "meaning": "resident alien"
+        },
+        {
+          "term": "רִבִּית",
+          "meaning": "interest"
+        },
+        {
+          "term": "פָּסוּק",
+          "meaning": "biblical verse"
+        },
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "Tannaitic source outside the Mishna"
+        }
+      ],
+      "whatToRemember": "The פסוק uses the singular 'מאיתו' while the ברייתa permits ריבית with גר תושב.",
+      "confusionAlert": "The פסוק seems to include גר תושב in the prohibition, but the ברייתa permits it. The resolution hinges on the singular vs. plural wording.",
+      "whyThisMatters": "This establishes the baseline status of a גר תושב regarding ריבית, which is crucial for understanding the subsequent discussion on ערב.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גֵּר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית מַאי הִיא,",
+          "english": "The resident convert mentioned concerning interest, what is it?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דִּכְתִיב: ״וְכִי יָמוּךְ אָחִיךָ וּמָטָה יָדוֹ עִמָּךְ",
+          "english": "As it is written: 'And if your brother becomes poor and his hand fails with you'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהֶחֱזַקְתָּ בּוֹ גֵּר וְתוֹשָׁב וָחַי עִמָּךְ.",
+          "english": "and you shall strengthen him, a convert and a resident, and he shall live with…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית וְיָרֵאתָ",
+          "english": "Do not take from him interest and increase, and you shall fear"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מֵאֱלֹהֶיךָ וְחֵי אָחִיךָ עִמָּךְ״. וּרְמִינְהִי:",
+          "english": "your God, and your brother shall live with you.' And we raise a contradiction:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לֹוִין מֵהֶן וּמַלְוִין אוֹתָן בְּרִבִּית,",
+          "english": "One borrows from them and lends to them with interest,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְכֵן בְּגֵר תּוֹשָׁב!",
+          "english": "and similarly with a resident convert!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "גֵּר תּוֹשָׁב הָאָמוּר לְעִנְיַן רִבִּית מַאי הִיא",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:18:1",
+            "hebrew": "גר תושב - שקיבל עליו לא לעבוד עבודת כוכבים ואוכל נבילות:",
+            "english": "",
+            "takeaway": "רש״י defines a גר תושב as a non-Jew who has accepted the prohibition of עבודת כוכבים but is still permitted to eat נבילות."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:18:2",
+            "hebrew": "אל תקח מאתו כתיב - אאחיך קאי וכי כתיב גר תושב לענין וחי עמך כתיב שאתה מצווה להחיותו:",
+            "english": "",
+            "takeaway": "רש״י resolves the apparent contradiction by explaining that the prohibition 'אל תקח מאיתו נשך' applies only to 'אחיך' (a fellow Jew), while the mention of 'גר ותושב' in the verse is solely regarding the commandment to sustain him ('והחזקת בו... וחי עמך')."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב נַחְמָן בַּר יִצְחָק: 'מֵאִתּוֹ' refers to a Jew",
+      "stepSummary": "רַב נַחְמָן בַּר יִצְחָק resolves the contradiction by noting the פסוק uses the singular 'מֵאִתּוֹ', referring to a Jew, not the גר תושב.",
+      "whatsHappening": "רַב נַחְמָן בַּר יִצְחָק resolves the difficulty by focusing on the singular wording of the פסוק.",
+      "deeperAnalysis": "The פסוק says 'מֵאִתּוֹ' (from him) in the singular, not 'מֵאִתּוֹם' (from them). This indicates the prohibition applies to a Jew ('אָחִיךָ'), not to the גר תושב. Thus, the ברייתa permitting ריבית with a גר תושב is consistent with the פסוק.",
+      "keyTerms": [
+        {
+          "term": "רַב נַחְמָן בַּר יִצְחָק",
+          "meaning": "Amoraic sage"
+        },
+        {
+          "term": "מֵאִתּוֹ",
+          "meaning": "from him (singular)"
+        },
+        {
+          "term": "יִשְׂרָאֵל",
+          "meaning": "Jew"
+        }
+      ],
+      "whatToRemember": "The singular 'מֵאִתּוֹ' limits the prohibition to Jews.",
+      "confusionAlert": "The פסוק mentions 'גֵּר וְתוֹשָׁב' in the same verse, but the prohibition is grammatically linked to 'אָחִיךָ'.",
+      "whyThisMatters": "This resolution clarifies the status of a גר תושב regarding ריבית and sets the stage for the next question about ערב.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב נַחְמָן בַּר יִצְחָק:",
+          "english": "Rav Naḥman bar Yitzḥak says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִי כְּתִיב ״אַל תִּקַּח מֵאִתָּם״?",
+          "english": "Is it written: 'Do not take from them'?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״מֵאִתּוֹ״ כְּתִיב, מִיִּשְׂרָאֵל.",
+          "english": "'From him' is written, from a Jew."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "אָמַר רַב נַחְמָן בַּר יִצְחָק: מִי כְתִיב ״אַל תִּקַּח מֵאִתָּם״? ״מֵאִתּוֹ״ כְּתִיב, מִיִּשְׂרָאֵל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous"
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "מימרא",
+      "title": "ברייתא: You may not take ריבית, but you may act as ערב",
+      "stepSummary": "A ברייתא is cited stating that while taking ריבית is prohibited, acting as an ערב is permitted.",
+      "whatsHappening": "The גמרא cites a ברייתא that introduces a new topic: the permissibility of acting as an ערב.",
+      "deeperAnalysis": "The ברייתa contrasts the prohibition of taking ריבית with the permission to act as an ערב. This introduces a new legal question: for whom may one act as an ערב?",
+      "keyTerms": [
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "Tannaitic source"
+        },
+        {
+          "term": "עָרֵב",
+          "meaning": "guarantor"
+        },
+        {
+          "term": "נֶשֶׁךְ וְתַרְבִּית",
+          "meaning": "interest (two types)"
+        }
+      ],
+      "whatToRemember": "The ברייתa permits acting as an ערב despite the prohibition on ריבית.",
+      "confusionAlert": "The ברייתa does not specify for whom one may act as an ערב, leading to the next question.",
+      "whyThisMatters": "This sets up the central question of the sugya: the status of an ערב in the context of ריבית.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: ״אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית״ –",
+          "english": "The Sages taught: \"Do not take from him interest and increase\""
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲבָל אַתָּה נַעֲשֶׂה לוֹ עָרֵב.",
+          "english": "But you may become a guarantor for him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "ראיה",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: ״אַל תִּקַּח מֵאִתּוֹ נֶשֶׁךְ וְתַרְבִּית״ – אֲבָל אַתָּה נַעֲשֶׂה לוֹ עָרֵב.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 71a:20:1",
+            "hebrew": "אבל אתה נעשה לו ערב - ערבו של לוה כנגד המלוה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the ברייתא's permission to act as an ערב refers specifically to guaranteeing the borrower's obligation to the lender."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T13:00:26.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 115.60886400000891,
+      "structure": 1671.18811810005,
+      "validate": 220.93432050023694,
+      "translate": 301.19457499985583,
+      "meforshim": 479.83622589998413,
+      "teaching": 721.2897819000646
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "active": false,
+  "ref": "Bava_Metzia 2a",
+  "startedAt": "2026-05-12T02:10:53.782Z",
+  "elapsedSec": 1260,
+  "lastUpdateAt": "2026-05-12T02:31:53.846Z",
+  "log": [
+    {
+      "ts": 0.01,
+      "msg": "Fetching Bava_Metzia 2a from Sefaria…"
+    },
+    {
+      "ts": 0.162,
+      "msg": "Pass 1/6: segmenting 12 lines into sugyot…"
+    },
+    {
+      "ts": 23.671,
+      "msg": "  → 2 sugyot identified."
+    },
+    {
+      "ts": 23.671,
+      "msg": "Pass 2/6: building structural skeleton for each sugya…"
+    },
+    {
+      "ts": 23.671,
+      "msg": "  · sugya 1 (Mishnah: two holders of a tallit and division/oaths)"
+    },
+    {
+      "ts": 67.141,
+      "msg": "  · sugya 2 (Gemara: meaning of 'מצאתי' vs 'כּוּלָּהּ שֶׁלִּי' and acquisition by sight)"
+    },
+    {
+      "ts": 180.093,
+      "msg": "  → 12 total steps across daf."
+    },
+    {
+      "ts": 180.094,
+      "msg": "Pass 3/6: phrase-by-phrase mapping for each step…"
+    },
+    {
+      "ts": 737.374,
+      "msg": "Pass 4/6: meforshim grounding (Rashi / Tosafot / Rishonim)…"
+    },
+    {
+      "ts": 1084.364,
+      "msg": "Pass 5/6: teaching-layer polish (length, nikud, dedupe terms)…"
+    },
+    {
+      "ts": 1221.261,
+      "msg": "Pass 6/6: validation re-read (cross-model audit)…"
+    },
+    {
+      "ts": 1260.016,
+      "msg": "  → overall: good | 5 issues | 0 auto-patched | 5 reported"
+    },
+    {
+      "ts": 1260.064,
+      "msg": "Done — 12 steps, 2 sugyot."
+    }
+  ]
+}

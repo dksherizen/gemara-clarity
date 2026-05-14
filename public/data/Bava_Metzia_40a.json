@@ -1,0 +1,1568 @@
+{
+  "ref": "Bava Metzia 40a",
+  "masechet": "Bava_Metzia",
+  "daf": 40,
+  "amud": "a",
+  "mainTopic": "(continues) האח מבי חוזאיי · הפקדת פירות וחסרונות · שתיית יין ושמן מזוקק",
+  "overview": "(1) A story about a man claiming to be a brother and demanding inheritance, leading to a dispute over improvements made to the property. (2) The Mishnah lists the standard deductions for loss in deposited grains, and the Gemara analyzes the reasons for these deductions. (3) The Mishnah discusses deductions for wine and oil, and the Gemara analyzes the dispute between Rabbi Yehuda and the Sages regarding mixing dregs. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 4,
+      "topic": "(continues) האח מבי חוזאיי",
+      "gist": "A story about a man claiming to be a brother and demanding inheritance, leading to a dispute over improvements made to the property.",
+      "openingFormula": "מרי בר איסק אתא ליה אחא מבי חוזאיי",
+      "firstStepNumber": 1,
+      "lastStepNumber": 4
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 5,
+      "endLine": 16,
+      "topic": "הפקדת פירות וחסרונות",
+      "gist": "The Mishnah lists the standard deductions for loss in deposited grains, and the Gemara analyzes the reasons for these deductions.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 5,
+      "lastStepNumber": 16
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 17,
+      "endLine": 19,
+      "topic": "שתיית יין ושמן מזוקק",
+      "gist": "The Mishnah discusses deductions for wine and oil, and the Gemara analyzes the dispute between Rabbi Yehuda and the Sages regarding mixing dregs. — discussion continues into next amud.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 17,
+      "lastStepNumber": 19
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "אַבָּיֵי's challenge to רַב חִסְדָּא's ruling",
+      "stepSummary": "אַבָּיֵי challenges רַב חִסְדָּא's application of the Mishna, arguing that the Mishna applies only when the adult sons know the minors exist and forgo payment, which is not the case here.",
+      "whatsHappening": "אַבָּיֵי raises a difficulty against רַב חִסְדָּא's ruling. He argues that the Mishna's rule of sharing improvements is based on the adults knowing the minors exist and choosing to forgo payment.",
+      "deeperAnalysis": "אַבָּיֵי identifies a crucial distinction. The Mishna assumes the adult sons are aware of the minors' existence. Their sharing of improvements is an act of familial generosity.",
+      "keyTerms": [
+        {
+          "term": "יָדְעִי וְקָא מָחֲלִי",
+          "meaning": "they know and they forgo [payment]"
+        },
+        {
+          "term": "מִי יָדַע דְּלֵיחִיל",
+          "meaning": "did he know to forgo?"
+        }
+      ],
+      "whatToRemember": "The key distinction is knowledge: did the improver know the other heir existed?",
+      "whyThisMatters": "This challenge forces רַב חִסְדָּא to refine his ruling or find a different basis for it.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכֵן אָמַר רַבָּה: הִשְׁבִּיחוּ לָאֶמְצַע.",
+          "english": "And likewise Rabba said: They enhanced the middle."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר לֵיהּ אַבָּיֵי: מִי דָּמֵי? הָתָם,",
+          "english": "Abaye said to him: Are they similar? There,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "גְּדוֹלִים גַּבֵּי קְטַנִּים יָדְעִי וְקָא מָחֲלִי,",
+          "english": "adults with minors know and are waiving,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכָא מִי יָדַע דְּלֵיחִיל?",
+          "english": "here who knows that he is afraid?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "וְכֵן אָמַר רַבָּה: הִשְׁבִּיחוּ לָאֶמְצַע. אָמַר לֵיהּ אַבָּיֵי: מִי דָּמֵי? הָתָם, גְּדוֹלִים גַּבֵּי קְטַנִּים יָדְעִי וְקָא מָחֲלִי, הָכָא מִי יָדַע דְּלֵיחִיל?",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:1:1",
+            "hebrew": "וכן אמר רבה השביחו לאמצע - לא גרסינן שאין זה לשון גמרא להביא דברי האמוראים סיוע למשנה ועוד רבה תלמידיה דרב חסדא הוה והיכי אמר רב חסדא שמעתא משמיה ואי גרס ליה וכן אמר רב גרסינן שהיה רבו של רב חסדא משום דאיכא למ\"ד בבבא בתרא (דף קמג:) לא שנו אלא ששבחו נכסים מחמת נכסים אבל שבחו מחמת עצמן של אחים השביחו לעצמן אמרה רב חסדא להא דרב הכא למימר דלית לן ההיא שמעתא אלא אפילו השביחו מחמת טורחן של משביחין כי הכא דשתל פרדס השביחו לאמצע:",
+            "english": "",
+            "takeaway": "רש״י explains that the text should read רב, not רבה, because רבה was a student of רב חסדא and would not be cited as a source for רב חסדא's ruling, and רב's opinion is needed to counter the view in בבא בתרא that improvements from one's own labor belong to the improver."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:1:2",
+            "hebrew": "ידעו - אלו שיטלו חלקם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ידעו refers to the adult sons knowing that the minors would take their share of the inheritance."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:1:3",
+            "hebrew": "מי ידע - שיש לו אחים:",
+            "english": "",
+            "takeaway": "רש״י explains that מי ידע means מרי בר איסק did not know that he had a brother."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:1:1",
+            "hebrew": "וכן אמר רבה גרס - רש\"י גרס וכן אמר רב ופליג אמ\"ד בפ' מי שמת (ב\"ב דף קמג: ושם ד\"ה לא) נכסים ששבחו מחמת עצמן של אחין השבח לעצמן וקאמר דאפי' שבחו מחמת טרחם של משביחין כי הכא דשתל פרדיסא השביחו לאמצע וזהו תימה שחולק רבא על רב דהתם רבא קאמר ולא מייתי התם מילתיה דרב ונראה דגרס רבה וכן בספר ר\"ת ולא מדברי רב חסדא הוא שהגמ' מביא שמעשה כיוצא בזה בא לפני רבה ופסק דהשביחו לאמצע כמו רב חסדא והביאו הגמרא משום קושית אביי דא\"ל אביי לרבה מי דמי כו' ולא חשש רבה מקושיותיו ודן דהשביחו לאמצע:",
+            "english": "",
+            "takeaway": "תוספות argues that the text should read רבה, not רב, because רבה was a student of רב חסדא and the Gemara cites a case that came before רבה where he ruled like רב חסדא, and רבה did not retract despite אַבָּיֵי's challenge."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י and תוספות disagree on the correct text: רש״י reads רב to align with a ruling in בבא בתרא, while תוספות reads רבה to match the context of רב חסדא's student and the case cited."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "רַבִּי אַמֵּי's challenge to רַב חִסְדָּא's ruling",
+      "stepSummary": "רַבִּי אַמֵּי challenges רַב חִסְדָּא's ruling by citing a stronger precedent: relatives who tend to a captive's property are paid as sharecroppers, so מרי בר איסק should at least be reimbursed for his labor.",
+      "whatsHappening": "The case is brought to רַבִּי אַמֵּי. He challenges רַב חִסְדָּא's ruling by citing a precedent where relatives who tend to a captive's property are paid as sharecroppers.",
+      "deeperAnalysis": "רַבִּי אַמֵּי uses a kal v'chomer. If relatives who tend to a captive's property are paid as sharecroppers, then מרי בר איסק should definitely be compensated. רַב חִסְדָּא's ruling seems too harsh.",
+      "keyTerms": [
+        {
+          "term": "שׁוֹמִין לָהֶם כְּאָרִיס",
+          "meaning": "they are appraised as a sharecropper [and paid accordingly]"
+        },
+        {
+          "term": "גְּדוֹלָה מִזּוֹ",
+          "meaning": "a greater/more far-reaching ruling"
+        }
+      ],
+      "whatToRemember": "The precedent is about relatives tending to a captive's property.",
+      "whyThisMatters": "This challenge forces רַב חִסְדָּא to justify why מרי בר איסק gets nothing for his labor.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִגַּלְגַּל מִלְּתָא וּמְטָא לְקַמֵּיהּ דְּרַבִּי אַמֵּי.",
+          "english": "The matter rolled and came before Rabbi Ami."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לְהוּ: גְּדוֹלָה מִזּוֹ אָמְרוּ:",
+          "english": "He said to them: Greater than this they said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׁמִין לָהֶם כְּאָרִיס,",
+          "english": "They appraise for them as a sharecropper,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַשְׁתָּא דִּידֵיהּ לָא יָהֲבִינַן לֵיהּ?",
+          "english": "Now that his own we do not give to him?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אִגַּלְגַּל מִלְתָּא וּמְטָא לְקַמֵּיהּ דְּרַבִּי אַמֵּי. אֲמַר לְהוּ: גְּדוֹלָה מִזּוֹ אָמְרוּ...",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:2:1",
+            "hebrew": "גדולה מזו - קרוב היורד לנכסי שבוי שאם יבאו הבעלים יטלו שלהם:",
+            "english": "",
+            "takeaway": "רש״י explains that the precedent of relatives tending a captive's property involves a case where the owner might return and reclaim everything, making the relatives' compensation as sharecroppers a significant leniency."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:2:2",
+            "hebrew": "אמרו שמין להם כאריס הכא דידיה לא יהבינן ליה - בתמיה זה שעשה והשביחן לדעת עצמו לא יהבי' ליה כאריס בחלק השני:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רַבִּי אַמֵּי's rhetorical question emphasizes that if strangers are compensated for improving property that isn't theirs, then מרי בר איסק, who improved property partly his own, should certainly be compensated as a sharecropper for his half."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:2:1",
+            "hebrew": "אגלגל מלתא - פסק של רב חסדא ומטא לקמיה דרבי אמי:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the phrase אִגַּלְגַּל מִלְּתָא refers to the specific ruling of רַב חִסְדָּא being brought before רַבִּי אַמֵּי for review."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב חִסְדָּא's defense of his ruling",
+      "stepSummary": "רַב חִסְדָּא defends his ruling by distinguishing the captive case: there, the relatives acted with court authorization; here, מרי בר איסק acted without authorization. Additionally, the brother was a minor, and courts don't authorize relatives to manage a minor's property.",
+      "whatsHappening": "רַב חִסְדָּא responds to רַבִּי אַמֵּי's challenge. He distinguishes the captive case: those relatives acted with court authorization.",
+      "deeperAnalysis": "רַב חִסְדָּא provides two distinctions. First, the captive case involved court authorization, which creates an obligation to pay. Second, the brother was a minor, and courts don't authorize relatives to manage a minor's property.",
+      "keyTerms": [
+        {
+          "term": "בִּרְשׁוּת נָחֵית",
+          "meaning": "descended [to manage] with authorization"
+        },
+        {
+          "term": "קָטָן",
+          "meaning": "minor"
+        },
+        {
+          "term": "אֵין מוֹרִידִין קָרוֹב לְנִכְסֵי קָטָן",
+          "meaning": "one does not authorize a relative to manage a minor's property"
+        }
+      ],
+      "whatToRemember": "The key distinctions are authorization and the minor's status.",
+      "whyThisMatters": "This resolves the challenge from רַבִּי אַמֵּי and justifies רַב חִסְדָּא's ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַהְדְּרוּהָ (הָא) לְקַמֵּיהּ דְּרַב חִסְדָּא.",
+          "english": "They returned it before Rav Ḥisda."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לְהוּ: מִי דָּמֵי?",
+          "english": "He said to them: Are they similar?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָתָם בִּרְשׁוּת נָחֵית, הָכָא לָאו בִּרְשׁוּת נָחֵית.",
+          "english": "There, with authorization it descended; here, not with authorization it descended."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְעוֹד: קָטָן הוּא, וְאֵין מוֹרִידִין קָרוֹב לְנִכְסֵי קָטָן.",
+          "english": "And furthermore: He is a minor, and they do not cause a relative to descend to a minor's property."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אַהְדְּרוּהָ לְקַמֵּיהּ דְּרַב חִסְדָּא. אֲמַר לְהוּ: מִי דָּמֵי? הָתָם בִּרְשׁוּת נָחֵית, הָכָא לָאו בִּרְשׁוּת נָחֵית...",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:3:1",
+            "hebrew": "ברשות ב\"ד נחתי - דמורידין קרוב לנכסי שבוי:",
+            "english": "",
+            "takeaway": "רש״י explains that in the case of the captive, the relatives acted with the authorization of the בית דין, as they are permitted to manage the property of a captive."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:3:2",
+            "hebrew": "הכא לא ברשות נחית - כשירד זה לתוכו לא נמלך בב\"ד:",
+            "english": "",
+            "takeaway": "רש״י clarifies that in the current case, מרי בר איסק did not consult the בית דין before acting."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:3:3",
+            "hebrew": "ועוד - אם בא לימלך לא היו מורידין אותו דהא אחיו קטן הוה ואין מורידין קרוב לנכסי קטן:",
+            "english": "",
+            "takeaway": "רש״י adds that even if מרי בר איסק had consulted the בית דין, they would not have authorized him because the brother was a minor, and relatives are not permitted to manage a minor's property."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תשובה",
+      "title": "רַבִּי אַמֵּי's concession",
+      "stepSummary": "רַבִּי אַמֵּי concedes that רַב חִסְדָּא is correct, noting that he was unaware the brother was a minor when he issued his challenge.",
+      "whatsHappening": "רַבִּי אַמֵּי accepts רַב חִסְדָּא's distinction. He notes that he wasn't told the brother was a minor when he issued his challenge.",
+      "deeperAnalysis": "רַבִּי אַמֵּי concedes. His challenge was based on incomplete information. Once he learns the brother was a minor, the distinction holds: no authorization was given, so מרי בר איסק gets no payment.",
+      "keyTerms": [
+        {
+          "term": "לָא סַיְּימוּהָ קַמַּי",
+          "meaning": "they did not complete [the details] before me"
+        }
+      ],
+      "whatToRemember": "רַבִּי אַמֵּי's challenge was based on incomplete information.",
+      "whyThisMatters": "This concludes the sugya, affirming רַב חִסְדָּא's ruling.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַהְדְּרוּהָ לְקַמֵּיהּ דְּרַבִּי אַמֵּי, אֲמַר לְהוּ:",
+          "english": "They returned it before Rabbi Ami, he said to them:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא סַיְּימוּהָ קַמַּי דְּקָטָן הוּא.",
+          "english": "They did not complete it before me, for a minor he was."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אַהְדְּרוּהָ לְקַמֵּיהּ דְּרַבִּי אַמֵּי, אֲמַר לְהוּ: לָא סַיְּימוּהָ קַמַּי דְּקָטָן הוּא.",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "continues_narrative"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's standard deductions for deposited produce",
+      "stepSummary": "The Mishna establishes the standard rates of deduction for loss in deposited grains, varying by type of produce, and notes that deductions depend on both the quantity and the time elapsed.",
+      "whatsHappening": "The Mishna introduces the topic of הפקדת פירות and lists the standard deductions for loss.",
+      "deeperAnalysis": "The Mishna sets the baseline halacha: a bailee may deduct standard losses from deposited produce. The rates vary by grain type. The final clause emphasizes that deductions scale with both the volume deposited and the duration of the deposit.",
+      "keyTerms": [
+        {
+          "term": "הַמַּפְקִיד פֵּירוֹת",
+          "meaning": "one who deposits produce"
+        },
+        {
+          "term": "חֶסְרוֹנוֹת",
+          "meaning": "standard deductions for loss"
+        },
+        {
+          "term": "לְפִי הַמִּדָּה",
+          "meaning": "according to the measure/volume"
+        },
+        {
+          "term": "לְפִי הַזְּמַן",
+          "meaning": "according to the time elapsed"
+        }
+      ],
+      "whatToRemember": "The Mishna's rates are per kor per year.",
+      "confusionAlert": "Note that the Mishna's rates seem high for some grains, which the Gemara will challenge.",
+      "whyThisMatters": "This establishes the baseline for the entire sugya's analysis of loss deductions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ הַמַּפְקִיד פֵּירוֹת אֵצֶל חֲבֵירוֹ,",
+          "english": "MISHNA: One who deposits produce with his fellow,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי זֶה יוֹצִיא לוֹ חֶסְרוֹנוֹת:",
+          "english": "this one deducts for him its deficiencies:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְחִטִּים וּלְאוֹרֶז –",
+          "english": "For wheat and for rice –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "תִּשְׁעָה חֲצָאֵי קַבִּין לְכוֹר,",
+          "english": "nine half-kavim per kor,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לִשְׂעוֹרִין וּלְדוֹחַן –",
+          "english": "For barley and for millet –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תִּשְׁעָה קַבִּין לְכוֹר,",
+          "english": "nine kavim per kor,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְכוּסְּמִין וּלְזֶרַע פִּשְׁתָּן –",
+          "english": "For spelt and for flaxseed –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "שָׁלֹשׁ סְאִין לְכוֹר,",
+          "english": "three se'ah per kor,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הַכֹּל לְפִי הַמִּדָּה וְהַכֹּל לְפִי הַזְּמַן.",
+          "english": "All according to the measure and all according to the time."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ הַמַּפְקִיד פֵּירוֹת אֵצֶל חֲבֵירוֹ, הֲרֵי זֶה יוֹצִיא לוֹ חֶסְרוֹנוֹת: לְחִטִּים וּלְאוֹרֶז – תִּשְׁעָה חֲצָאֵי קַבִּין לְכוֹר, לִשְׂעוֹרִין וּלְדוֹחַן – תִּשְׁעָה קַבִּין לְכוֹר, לְכוּסְּמִין וְלְזֶרַע פִּשְׁתָּן – שָׁלֹשׁ סְאִין לְכוֹר, הַכֹּל לְפִי הַמִּדָּה וְהַכֹּל לְפִי הַזְּמַן.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:5:1",
+            "hebrew": "מתני' הרי זה יוציא לו חסרונות - כשיחזירם לו יפחות כמה הם רגילים לחסור ובגמ' מוקי לה בשעירבן עם פירותיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's phrase יוציא לו חסרונות means the bailee deducts the standard expected loss when returning the produce, and notes that the Gemara later clarifies this applies when the bailee mixed the deposited produce with his own."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:5:4",
+            "hebrew": "הכל לפי המדה - וכן לכל כור וכור:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the clause הכל לפי המדה means the deduction rate applies proportionally to every כור deposited."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:5:5",
+            "hebrew": "הכל לפי הזמן - שהניחן בידו לכל שנה ושנה יניח לו כך:",
+            "english": "",
+            "takeaway": "רש״י explains that הכל לפי הזמן means the deduction is calculated annually based on how many years the produce remained in the bailee's possession."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Rabbi Yochanan ben Nuri and Rabbi Yehuda's dissenting views",
+      "stepSummary": "Rabbi Yochanan ben Nuri argues that deductions should be fixed per kor regardless of total volume, while Rabbi Yehuda argues that large deposits incur no deductions because the produce increases.",
+      "whatsHappening": "The Mishna presents two dissenting opinions on the deduction rules.",
+      "deeperAnalysis": "רַבִּי יוֹחָנָן בֶּן נוּרִי challenges the scaling rule: mice eat a fixed amount regardless of volume, so the deduction should be fixed. רַבִּי יְהוּדָה challenges the deduction itself for large volumes, arguing that the produce increases which offsets the loss.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן בֶּן נוּרִי",
+          "meaning": "Rabbi Yochanan ben Nuri"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yehuda"
+        },
+        {
+          "term": "מִדָּה מְרוּבָּה",
+          "meaning": "a large measure/volume"
+        },
+        {
+          "term": "מוֹתִירוֹת",
+          "meaning": "it increases"
+        }
+      ],
+      "whatToRemember": "רַבִּי יוֹחָנָן בֶּן נוּרִי focuses on the fixed nature of mouse damage. רַבִּי יְהוּדָה focuses on the increase in large volumes.",
+      "confusionAlert": "רַבִּי יוֹחָנָן בֶּן נוּרִי is a Tanna here, not the Amora רַבִּי יוֹחָנָן.",
+      "whyThisMatters": "These dissenting views set up the Gemara's later analysis of the reasons for deductions and the conditions under which they apply.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי:",
+          "english": "Rabbi Yoḥanan ben Nuri said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְכִי מָה אִכְפַּת לָהֶן לָעַכְבָּרִין?",
+          "english": "And what do the mice care?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲלֹא אוֹכְלוֹת בֵּין מֵהַרְבֵּה וּבֵין מִקִּמְעָה!",
+          "english": "And don't they eat whether from much and whether from little!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אֵינוֹ יוֹצִיא לוֹ חֶסְרוֹנוֹת אֶלָּא",
+          "english": "Rather, he does not deduct for him his decreases except"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לְכוֹר אֶחָד בִּלְבַד.",
+          "english": "for one kor alone."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם הָיְתָה מִדָּה מְרוּבָּה,",
+          "english": "If the measure was large,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵינוֹ מוֹצִיא לוֹ חֶסְרוֹנוֹת, מִפְּנֵי שֶׁמּוֹתִירוֹת.",
+          "english": "he does not deduct for him his decreases, because of that they remain.",
+          "notes": "The reference to 'they remain' alludes to the increase in produce that offsets the decrease."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי: וְכִי מָה אִכְפַּת לָהֶן לָעַכְבָּרִין? וַהֲלֹא אוֹכְלוֹת בֵּין מֵהַרְבֵּה וּבֵין מִקִּמְעָה! אֶלָּא אֵינוֹ יוֹצִיא לוֹ חֶסְרוֹנוֹת אֶלָּא לְכוֹר אֶחָד בִּלְבַד. רַבִּי יְהוּדָה אוֹמֵר: אִם הָיְתָה מִדָּה מְרוּבָּה, אֵינוֹ מוֹצִיא לוֹ חֶסְרוֹנוֹת, מִפְּנֵי שֶׁמּוֹתִירוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:6:1",
+            "hebrew": "ר' יוחנן בן נורי אמר - אהכל לפי המדה פליג:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יוחנן בן נורי is challenging the general principle of deducting losses proportionally to the volume of produce stored."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:6:2",
+            "hebrew": "אם היתה מדה מרובה - שהפקיד אצלו הרבה ובגמרא מפרש י' כורים לא יוציא לו חסרונות מפני שהם מותירות שבימות הגורן כשמפקיד החיטין יבשין ובימות הגשמים כשמחזיר נופחות ובאכילת עכברים אינן נחסרים כל כך לכל כור וכור דכולי האי לא אכלי עכברים מי' כורין הלכך נפיחתו משלמת חסרון המגיע לשני כורים או שלשה שהעכברים אוכלין:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יהודה holds that for large volumes (like ten כורים), the natural expansion of the grain during rainy seasons compensates for the fixed amount eaten by mice, so no deduction is made."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:6:1",
+            "hebrew": "וכי מה אכפת להו לעכברים - וטעמייהו דרבנן מפרש בירושלמי הני עכברי רשיעי נינהו כד חמיין עיבור לא מסתייהו דאכלי אלא קריין לחבריהון דאכלי עמהון והא דאמרינן בגמרא אמרו לו הרבה אובדות מהם הרבה מתפזרות מהם י\"ל דלדבריו דרבי יוחנן קאמר אפילו לית לך טעמא דמפרש בירושלמי מ\"מ הרבה אובדות מהם:",
+            "english": "",
+            "takeaway": "תוספות cites the ירושלמי to explain the Chachamim's view that mice are 'wicked' and eat more when the volume is larger, and notes that even without this reason, the Chachamim argue that larger volumes inherently suffer greater losses from scattering."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:6:2",
+            "hebrew": "אלא לכור בלבד - וא\"ת אם כן בפחות מכור נמי יוציא כמו לכור וי\"ל דאין להם ריוח להטמן בתוכה ומ\"מ לפי חשבון הראוי להתחסר יוציא דאי אפשר שלא יתחסרו:",
+            "english": "",
+            "takeaway": "תוספות addresses a difficulty regarding smaller volumes by explaining that while the deduction is fixed per כור, smaller amounts still require a deduction based on the proportional calculation of expected loss, as they lack the 'extra' space to absorb the loss."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Rice loses more than the stated rate",
+      "stepSummary": "The Gemara challenges the Mishna's rate for rice, noting that rice actually loses a greater amount than the Mishna states.",
+      "whatsHappening": "The Gemara opens with a challenge to the Mishna's stated rate for rice.",
+      "deeperAnalysis": "The Gemara notes that rice is known to lose a significant amount of weight/volume, more than the nine half-kav per kor stated in the Mishna. This implies the Mishna's rate is too low for unshelled rice.",
+      "keyTerms": [
+        {
+          "term": "אוֹרֶז",
+          "meaning": "rice"
+        },
+        {
+          "term": "טוּבָא חָסֵר",
+          "meaning": "loses a great amount"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the known high loss rate of rice.",
+      "confusionAlert": "This is a challenge to the Mishna's rate, not a challenge to the principle of deduction.",
+      "whyThisMatters": "This sets up the need to specify the type of rice the Mishna is discussing.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ אוֹרֶז טוּבָא חָסֵר!",
+          "english": "GEMARA: Rice, much is lacking!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabba bar bar Ḥana says that Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּאוֹרֶז קָלוּף שָׁנוּ.",
+          "english": "With shelled rice they taught."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְכוּסְּמִין וּלְזֶרַע פִּשְׁתָּן שְׁלֹשָׁה סְאִין לְכוֹר וְכוּ׳.",
+          "english": "For spelt and for flaxseed, three se’a per kor, etc."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן אָמַר רַבִּי חִיָּיא:",
+          "english": "Rabbi Yoḥanan says that Rabbi Ḥiyya says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "זֶרַע פִּשְׁתָּן בְּגִבְעוֹלִין שָׁנוּ.",
+          "english": "Flaxseed on its stalks they taught."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תַּנְיָא נָמֵי הָכִי:",
+          "english": "It is also taught in a baraita thus:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לְכוּסְּמִין וּלְזֶרַע פִּשְׁתָּן בַּגִּבְעוֹלִין,",
+          "english": "For spelt and for flaxseed on its stalks,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּלְאוֹרֶז שֶׁאֵינוֹ קָלוּף –",
+          "english": "and for rice that is not shelled –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "שְׁלֹשָׁה סְאִין לְכוֹר.",
+          "english": "three se’a per kor."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ אוֹרֶז טוּבָא חָסֵר!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:7:1",
+            "hebrew": "גמ' זרע פשתן בגבעולין - חסר כל כך לפי שהגבעולין מתייבשין ונופלים והרוח מנשבתן אבל זרע פשתן נקי אינו חסר כ\"כ:",
+            "english": "",
+            "takeaway": "רש״י explains that זרע פשתן בגבעולין loses significant weight because the stalks dry out and fall off, carried away by the wind, whereas clean flaxseed does not lose as much."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:7:1",
+            "hebrew": "ולאורז שאינו קלוף ג' סאין לכור - וא\"ת ואמאי לא חשיב במתניתין אורז שאינו קלוף עם זרע פשתן כיון דאית להו חד שיעורא וי\"ל דפשוט לו דבאורז תתחסר כל כך וברישא גבי אורז קלוף לא חשיב זרע פשתן קלוף דשמא דינם חלוק:",
+            "english": "",
+            "takeaway": "תוספות asks why the Mishna does not group unshelled rice with flaxseed since they share the same loss rate, and answers that the Mishna assumes rice loses so much weight that it is obvious, while it omits shelled flaxseed in the first clause because its law might differ."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Baraita clarifying the Mishna's scaling rule",
+      "stepSummary": "A baraita clarifies that the Mishna's rates apply per kor and per year.",
+      "whatsHappening": "The גמרא cites a ברייתא that clarifies the משנה's scaling rule. This is a setup line establishing the text's parameters.",
+      "deeperAnalysis": "The ברייתא explicitly states the rates apply per כור and per year. This confirms the deductions scale with both volume and duration.",
+      "keyTerms": [
+        {
+          "term": "כֵן לְכׇל כּוֹר וָכוֹר",
+          "meaning": "thus for every kor"
+        },
+        {
+          "term": "כֵן לְכׇל שָנָה וְשָנָה",
+          "meaning": "thus for every year"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַכֹּל לְפִי הַמִּדָּה וְכוּ׳. תָּנָא:",
+          "english": "All according to the measure, etc. A Tanna taught:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כֵּן לְכׇל כּוֹר וָכוֹר,",
+          "english": "So for each and every kor,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכֵן לְכׇל שָׁנָה וְשָׁנָה.",
+          "english": "And so for each and every year."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַכֹּל לְפִי הַמִּדָּה וְכוּ׳. תָּנָא: כֵּן לְכׇל כּוֹר וָכוֹר, וְכֵן לְכׇל שָׁנָה וְשָׁנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        22
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:8:1",
+            "hebrew": "לכל כור וכור - פירוש דמתניתין הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita's phrase 'לכל כור וכור' is merely clarifying the Mishna's own wording, not introducing a new concept."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Baraita refuting רַבִּי יוֹחָנָן בֶּן נוּרִי's view",
+      "stepSummary": "A baraita refutes Rabbi Yochanan ben Nuri's view by stating that produce is lost and scattered, not just eaten by mice.",
+      "whatsHappening": "The גמרא cites a ברייתא refuting רַבִּי יוֹחָנָן בֶּן נוּרִי's view. This is a challenge to his dissenting opinion.",
+      "deeperAnalysis": "The ברייתא refutes the claim that mice eat a fixed amount. It adds that produce is lost and scattered, and these losses scale with volume.",
+      "keyTerms": [
+        {
+          "term": "הַרְבֵּה אוֹבְדוֹת מֵהֶן",
+          "meaning": "much is lost from them"
+        },
+        {
+          "term": "הַרְבֵּה מִתְפַּזְּרוֹת מֵהֶן",
+          "meaning": "much is scattered from them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי וְכוּ׳.",
+          "english": "Rabbi Yoḥanan ben Nuri said, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תַּנְיָא, אָמְרוּ לוֹ לְרַבִּי יוֹחָנָן:",
+          "english": "It is taught, they said to Rabbi Yoḥanan:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַרְבֵּה אוֹבְדוֹת מֵהֶן,",
+          "english": "Many losses from them,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַרְבֵּה מִתְפַּזְּרוֹת מֵהֶן.",
+          "english": "Many scatterings from them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי וְכוּ׳. תַּנְיָא, אָמְרוּ לוֹ לְרַבִּי יוֹחָנָן: הַרְבֵּה אוֹבְדוֹת מֵהֶן, הַרְבֵּה מִתְפַּזְּרוֹת מֵהֶן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "Baraita specifying the conditions for deduction",
+      "stepSummary": "A baraita specifies that deductions apply only when the bailee mixes the deposited produce with his own.",
+      "whatsHappening": "The גמרא cites a ברייתא specifying when deductions apply. This is a setup line limiting the rule's scope.",
+      "deeperAnalysis": "The ברייתא limits deductions to cases where the bailee mixed the produce with his own. If kept separate, no deductions apply because the owner can see the produce.",
+      "keyTerms": [
+        {
+          "term": "שֶעֵירְבָן עִם פֵּירוֹתָיו",
+          "meaning": "that he mixed them with his produce"
+        },
+        {
+          "term": "יִחֵד לוֹ קֶרֶן זָוִית",
+          "meaning": "he designated a corner for it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנָא: בַּמֶּה דְּבָרִים אֲמוּרִים?",
+          "english": "It is taught: In what matters are these words said?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁעֵירְבָן עִם פֵּירוֹתָיו.",
+          "english": "That he mixed them with his fruits."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל יִחֵד לוֹ קֶרֶן זָוִית,",
+          "english": "But he designated for him a corner of a corner,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אוֹמֵר לוֹ: הֲרֵי שֶׁלְּךָ לְפָנֶיךָ.",
+          "english": "He says to him: Behold yours is before you."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנָא: בַּמֶּה דְּבָרִים אֲמוּרִים? שֶׁעֵירְבָן עִם פֵּירוֹתָיו. אֲבָל יִחֵד לוֹ קֶרֶן זָוִית, אוֹמֵר לוֹ: הֲרֵי שֶׁלְּךָ לְפָנֶיךָ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why can't the bailee calculate the loss proportionately?",
+      "stepSummary": "The Gemara challenges the baraita: if the produce is mixed, why can't the bailee calculate the loss proportionately based on his own produce?",
+      "whatsHappening": "The גמרא challenges the ברייתא's limitation on deductions. This is a direct challenge to the logic of the previous step.",
+      "deeperAnalysis": "The גמרא questions why the bailee cannot calculate loss proportionately. He can observe loss in his own produce and apply that rate to the deposit.",
+      "keyTerms": [
+        {
+          "term": "לִיחְזֵי לְדִידֵיהּ כַּמָּה הָוְיָין",
+          "meaning": "let him see how much his own [produce] was"
+        },
+        {
+          "term": "בְמִסְתַּפֵּק מֵהֶם",
+          "meaning": "when he took supplies from them"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי עֵירְבָן עִם פֵּירוֹתָיו מַאי הָוֵי?",
+          "english": "And when he mixed them with his produce, what is the law?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לִיחְזֵי לְדִידֵיהּ כַּמָּה הָוְיָין! בְּמִסְתַּפֵּק מֵהֶם.",
+          "english": "Let him see for himself how much there was! From what suffices from them.",
+          "notes": "The bailee should calculate the initial amount and the remaining amount to determine the loss."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי עֵירְבָן עִם פֵּירוֹתָיו מַאי הָוֵי? לִיחְזֵי לְדִידֵיהּ כַּמָּה הָוְיָין! בְמִסְתַּפֵּק מֵהֶם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:11:1",
+            "hebrew": "ליחזי דידיה כמה הוו כו' - ויראה כמה חסרו ויטול על של חברו כפי חשבון:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge suggests the bailee should observe the loss in his own produce and deduct a proportional amount from the deposited produce based on that calculation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why can't the bailee account for the supplies he took?",
+      "stepSummary": "The Gemara challenges the resolution: why can't the bailee account for the supplies he took and include them in the calculation?",
+      "whatsHappening": "The גמרא challenges the resolution by questioning accounting for supplies. This is a follow-up challenge to the previous logic.",
+      "deeperAnalysis": "The גמרא questions why the bailee cannot account for supplies taken. This would allow accurate deduction, contradicting the need for a standard rate.",
+      "keyTerms": [
+        {
+          "term": "וְלִיחְזֵי כַּמָּה אִסְתַּפַּק",
+          "meaning": "and let him see how much he took as supplies"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְלִיחְזֵי כַּמָּה אִסְתַּפַּק!",
+          "english": "And let him see how much he took!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּלָא יָדְעִי כַּמָּה אִסְתַּפַּק.",
+          "english": "Because I do not know how much he took."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלִיחְזֵי כַּמָּה אִסְתַּפַּק!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "שאלה",
+      "title": "Question: How large is a large measure?",
+      "stepSummary": "The Gemara asks how large a measure is considered large for Rabbi Yehuda's opinion.",
+      "whatsHappening": "The גמרא asks a neutral question about the definition of a large measure. This is a setup line for a new definition.",
+      "deeperAnalysis": "The גמרא asks what threshold defines a large measure according to רַבִּי יְהוּדָה. This sets up the need to define the term used in the משנה.",
+      "keyTerms": [
+        {
+          "term": "כַּמָּה מִדָּה מְרוּבָּה",
+          "meaning": "how large is a large measure"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: אִם הָיְתָה וְכוּ׳.",
+          "english": "Rabbi Yehuda says: If it was a large measure, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כַּמָּה מִדָּה מְרוּבָּה?",
+          "english": "How much is a large measure?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabba bar bar Ḥana says that Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עֲשָׂרָה כּוֹרִין. תַּנְיָא נָמֵי הָכִי: כַּמָּה מִדָּה מְרוּבָּה?",
+          "english": "Ten kor. A baraita also teaches so: How much is a large measure?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עֲשָׂרָה כּוֹרִין.",
+          "english": "Ten kor."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי יְהוּדָה אוֹמֵר: אִם הָיְתָה וְכוּ׳. כַּמָּה מִדָּה מְרוּבָּה?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 40a:13:1",
+            "hebrew": "מדה מרובה י' כורין - וא\"ת אפי' ב' כורין או ג' מתנפחין לפי חשבון החסרונות העולה להם וי\"ל דבי' כורין עולה להם הנפוח חסרון של כור אחד ולא יוציא להם חסרונות היינו כל החסרון דחסרון של כור אחד לא יוציא ולהכי נקט י' כורים לאפוקי פחות:",
+            "english": "",
+            "takeaway": "תוספות explains that the threshold of עשרה כורים is necessary because only at that volume does the inflation (נפוח) equal the missing measure of one כור, thereby preventing the seller from claiming the missing amount is merely due to inflation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "Tanna's statement on the conditions for deduction",
+      "stepSummary": "A Tanna states that deductions apply only when the produce is measured from the threshing floor and returned from the threshing floor.",
+      "whatsHappening": "The גמרא cites a תנא's statement specifying when deductions apply. This is a setup line limiting the rule's scope.",
+      "deeperAnalysis": "The תנא limits deductions to cases measured and returned from the threshing floor. If returned from the bailee's house, no deductions apply due to settling or moisture.",
+      "keyTerms": [
+        {
+          "term": "מָדַד לוֹ מִתּוֹךְ גּוֹרְנוֹ",
+          "meaning": "he measured for him from his threshing floor"
+        },
+        {
+          "term": "הֶחְזִיר לוֹ מִתּוֹךְ גּוֹרְנוֹ",
+          "meaning": "he returned to him from his threshing floor"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן: בַּמֶּה דְּבָרִים אֲמוּרִים?",
+          "english": "A tanna taught before Rav Naḥman: In what case is this said?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שֶׁמָּדַד לוֹ מִתּוֹךְ גּוֹרְנוֹ וְהֶחְזִיר לוֹ מִתּוֹךְ גּוֹרְנוֹ.",
+          "english": "He measured for him from his threshing floor and returned to him from his threshing floor."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל מָדַד לוֹ מִתּוֹךְ גּוֹרְנוֹ וְהֶחְזִיר",
+          "english": "But he measured for him from his threshing floor and returned"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לוֹ מִתּוֹךְ בֵּיתוֹ –",
+          "english": "to him from his house –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֵינוֹ יוֹצִיא לוֹ חֶסְרוֹנוֹת, מִפְּנֵי שֶׁמּוֹתִירוֹת.",
+          "english": "he does not deduct his decrease, because of the surpluses."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן: בַּמֶּה דְּבָרִים אֲמוּרִים? שֶׁמָּדַד לוֹ מִתּוֹךְ גּוֹרְנוֹ וְהֶחְזִיר לוֹ מִתּוֹךְ גּוֹרְנוֹ. אֲבָל מָדַד לוֹ מִתּוֹךְ גּוֹרְנוֹ וְהֶחְזִיר לוֹ מִתּוֹךְ בֵּיתוֹ – אֵינוֹ יוֹצִיא לוֹ חֶסְרוֹנוֹת, מִפְּנֵי שֶׁמּוֹתִירוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:14:1",
+            "hebrew": "מדת הגורן - היתה יתירה על של בתים:",
+            "english": "",
+            "takeaway": "רש״י explains that the measure used at the threshing floor (גורן) is larger than the measure used in houses, which is why deductions are permitted when both measuring and returning occur at the גורן."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "קשיא",
+      "title": "רַב נַחְמָן's challenge: Are we dealing with fools?",
+      "stepSummary": "Rav Nachman challenges the Tanna's statement: are we dealing with fools who give with a large measure and take with a small one?",
+      "whatsHappening": "רַב נַחְמָן challenges the תנא's statement by questioning the assumption of different measures. This is a direct challenge to the previous step.",
+      "deeperAnalysis": "רַב נַחְמָן challenges the logic that the owner used a large measure and the bailee a small one. This implies the same measure was used, contradicting the תנא's assumption.",
+      "keyTerms": [
+        {
+          "term": "בְשׁוּפְטָנֵי עָסְקִינַן",
+          "meaning": "are we dealing with fools"
+        },
+        {
+          "term": "יָהֲבִי בִּכְיָילָא רַבָּא וְשָׁקְלִי בִּכְיָילָא זוּטָא",
+          "meaning": "give with a large measure and take with a small one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: וְכִי בְּשׁוּפְטָנֵי עָסְקִינַן דְּיָהֲבִי בִּכְיָילָא רַבָּא",
+          "english": "He said to him: And are we dealing with fools, who give with a large measure"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְשָׁקְלִי בִּכְיָילָא זוּטָא?",
+          "english": "and take with a small measure?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּלְמָא בִּימוֹת הַגּוֹרֶן קָאָמְרַתְּ.",
+          "english": "Perhaps you are saying about the days of the threshing floor."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בַּמֶּה דְּבָרִים אֲמוּרִים –",
+          "english": "In what matter are these words said –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁמָּדַד לוֹ בִּימוֹת הַגּוֹרֶן וְהֶחְזִיר לוֹ בִּימוֹת הַגּוֹרֶן.",
+          "english": "He measured for him in the days of the threshing floor and returned to him in the days of the…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲבָל מָדַד לוֹ בִּימוֹת הַגּוֹרֶן וְהֶחְזִיר",
+          "english": "But he measured for him in the days of the threshing floor and returned"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לוֹ בִּימוֹת הַגְּשָׁמִים –",
+          "english": "to him in the days of the rains –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵינוֹ יוֹצִיא לוֹ חֶסְרוֹן מִפְּנֵי שֶׁמּוֹתִירוֹת.",
+          "english": "he does not deduct for him the loss because of the remainders.",
+          "notes": "Refers to the produce absorbing moisture and expanding during the rainy season."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: וְכִי בְשׁוּפְטָנֵי עָסְקִינַן דְיָהֲבִי בִכְיָילָא רַבָּא וְשָקְלִי בִכְיָילָא זוּטָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:15:1",
+            "hebrew": "בשופטני - שוטים:",
+            "english": "",
+            "takeaway": "רש״י explains that the term שופטני refers to fools, highlighting Rav Nachman's rhetorical question about whether the scenario involves irrational behavior."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:15:2",
+            "hebrew": "בכיילא - במדה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that כיילא means a measure, specifying the object of discussion in the dispute."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:15:3",
+            "hebrew": "בימות הגורן - סמוך ליובשן שנתיבשו בחמה:",
+            "english": "",
+            "takeaway": "רש״י defines ימות הגורן as the time when produce is dry and has shrunk due to sun exposure, explaining the context of the larger measure."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:15:4",
+            "hebrew": "והחזיר לו בימות הגשמים - חזרו ונתפחו מלחלוחית הגשם והקור:",
+            "english": "",
+            "takeaway": "רש״י explains that during ימות הגשמים, the produce swells due to moisture and cold, accounting for the smaller measure when returned."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: The jug should burst",
+      "stepSummary": "Rav Pappa challenges the resolution: if the produce expands during the rainy season, the jug should burst.",
+      "whatsHappening": "The גמרא raises a physical objection to the previous resolution. Rav Pappa argues that if produce truly expands, the container holding it would rupture.",
+      "deeperAnalysis": "This objection targets the assumption that expansion occurs without physical consequence. If the volume increases significantly, the rigid container cannot accommodate it, implying the expansion theory is flawed.",
+      "keyTerms": [
+        {
+          "term": "לִפְקַע כַדָּא",
+          "meaning": "the jug should burst"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי:",
+          "english": "Rav Pappa said to Abaye:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם כֵּן, לִפְקַע כַּדָּא!",
+          "english": "If so, let the jug burst!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲוָה עוֹבָדָא וּפְקַע כַּדָּא.",
+          "english": "There was an incident and the jug burst."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִיבָּעֵית אֵימָא, מִשּׁוּם אִיצְצָא.",
+          "english": "If you wish, say, on account of compression."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב פָּפָּא לְאַבָּיֵי: אִם כֵן, לִפְקַע כַדָּא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:16:1",
+            "hebrew": "א\"כ - שדרכו לתפוח:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase אִם כֵּן implies that the produce is of a type that normally expands."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:16:2",
+            "hebrew": "לפקע כדא - כשממלאין כד חיטין או שעורין בימות הגורן וגפין את הכד יפקע בימות הגשמים מחמת תפיחת התבואה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that לפקע כדא means the jug would burst during the rainy season due to the expansion of the grain stored in it during the harvest season."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:16:3",
+            "hebrew": "איצצא - דוחק מתוך שהם במקום צר נדחקו יחד ואין תפוחין:",
+            "english": "",
+            "takeaway": "רש״י explains that איצצא refers to the produce being compressed in a tight space, preventing it from expanding."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "מימרא",
+      "title": "Mishna: Deductions for wine and oil",
+      "stepSummary": "The Mishna establishes the standard deductions for wine (one-sixth or one-fifth) and oil (three log per hundred, split between sediment and absorption), and notes exceptions for refined oil and old casks.",
+      "whatsHappening": "The sugya introduces the Mishnaic baseline for commercial deductions on liquids. It establishes standard rates for wine and oil, then lists specific exceptions.",
+      "deeperAnalysis": "The Mishna sets a one-sixth deduction for wine and a three-log rate for oil, split between sediment and absorption. It then exempts refined oil from sediment deductions and old casks from absorption deductions, with Rabbi Yehuda adding a final ruling on refined oil.",
+      "keyTerms": [
+        {
+          "term": "שְׁתוּת",
+          "meaning": "one-sixth deduction"
+        },
+        {
+          "term": "שְׁמָרִים",
+          "meaning": "sediment"
+        },
+        {
+          "term": "בָּלַע",
+          "meaning": "absorption into the cask"
+        },
+        {
+          "term": "שֶׁמֶן מְזוּקָק",
+          "meaning": "refined/filtered oil"
+        },
+        {
+          "term": "קַנְקַנִים יְשָׁנִים",
+          "meaning": "old casks (already saturated)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ יוֹצִיא לוֹ שְׁתוּת לְיַיִן.",
+          "english": "MISHNA: He deducts for him one-sixth for wine."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: חוֹמֶשׁ.",
+          "english": "Rabbi Yehuda says: One-fifth."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יוֹצִיא לוֹ שְׁלֹשָׁה לוּגִּין שֶׁמֶן לְמֵאָה:",
+          "english": "He deducts for him three log of oil for one hundred:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לוֹג וּמֶחֱצָה שְׁמָרִים,",
+          "english": "A log and a half for sediment,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לוֹג וּמֶחֱצָה בָּלַע.",
+          "english": "A log and a half for absorption."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִם הָיָה שֶׁמֶן מְזוּקָּק –",
+          "english": "If it was refined oil –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֵינוֹ יוֹצִיא לוֹ שְׁמָרִים.",
+          "english": "He does not deduct for him sediment."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אִם הָיוּ קַנְקַנִּים יְשָׁנִים –",
+          "english": "If they were old casks –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֵינוֹ יוֹצִיא לוֹ בֶּלַע.",
+          "english": "He does not deduct for him absorption."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אַף הַמּוֹכֵר שֶׁמֶן מְזוּקָּק לַחֲבֵירוֹ כׇּל",
+          "english": "Even the one who sells refined oil to his fellow all"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "יְמוֹת הַשָּׁנָה –",
+          "english": "The days of the year –"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "הֲרֵי זֶה מְקַבֵּל עָלָיו לוֹג וּמֶחֱצָה שְׁמָרִים לְמֵאָה.",
+          "english": "This one accepts upon himself a log and a half of sediment for one hundred."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ יוֹצִיא לוֹ שְׁתוּת לְיַיִן...",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:17:1",
+            "hebrew": "מתני' ליין - אם הפקיד אצלו יין ועירבו עם יינו הקנקנים בולעין שתות:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's deduction of one-sixth for wine applies when someone deposits wine with another and the casks absorb it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:17:2",
+            "hebrew": "אף המוכר כו' - כשם שאמרו במפקיד כן אמרו במוכר שהמוכר שמן לחבירו ונותן לו מתוך חביותיו כשהוא מסתפק תמיד והוא מזוקק הרי הלוקח מקבל עליו לפחות לו לוג ומחצה מחמת שמרים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rabbi Yehuda's ruling about refined oil sold year-round applies to a seller who continuously supplies oil from his casks, where the buyer accepts a deduction for sediment."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Local customs and cask materials",
+      "stepSummary": "The Gemara resolves the dispute between the first Tanna and Rabbi Yehuda by attributing it to differing local customs regarding cask coatings and soil quality.",
+      "whatsHappening": "The גמרא resolves the apparent contradiction between the first Tanna and Rabbi Yehuda. It attributes the difference to varying local materials rather than a halachic dispute.",
+      "deeperAnalysis": "The resolution posits that different regions use different cask coatings or soil qualities. Wax coatings absorb less, while pitch absorbs more, explaining the differing deduction rates without contradicting the underlying principle.",
+      "keyTerms": [
+        {
+          "term": "קִירָא",
+          "meaning": "wax coating"
+        },
+        {
+          "term": "כוּפְרָא",
+          "meaning": "pitch coating"
+        },
+        {
+          "term": "גַּרְגִּישְׁתָּא",
+          "meaning": "quality of the earth/soil for casks"
+        },
+        {
+          "term": "מָיֵיץ טְפֵי",
+          "meaning": "absorbs more"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ וְלָא פְּלִיגִי:",
+          "english": "And they do not disagree:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָר כִּי אַתְרֵיהּ וּמָר כִּי אַתְרֵיהּ.",
+          "english": "This Sage according to his place, and this Sage according to his place."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּאַתְרֵיהּ דְּמָר חָפוּ בְּקִירָא וְלָא מָיֵיץ טְפֵי,",
+          "english": "In the place of this Sage, they coat with wax and it does not absorb much,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּאַתְרֵיהּ דְּמָר חָפוּ בְּכוּפְרָא וּמָיֵיץ טְפֵי.",
+          "english": "In the place of this Sage, they coat with pitch and it absorbs much."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיבָּעֵית אֵימָא מִשּׁוּם גַּרְגִּישְׁתָּא,",
+          "english": "If you wish, say instead due to the quality of earth,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָא מָיְיצָא טְפֵי וְהָא לָא מָיְיצָא טְפֵי.",
+          "english": "This one absorbs much and this one does not absorb much."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְלָא פְּלִיגִי: מָר כִּי אַתְרֵיהּ...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_dispute",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:18:1",
+            "hebrew": "גמ' חפו בקירא - טחו החביות מבפנים בשעוה כדרך שעושין אנו בזפת:",
+            "english": "",
+            "takeaway": "רש״י explains that חָפוּ בְקִירָא means the casks were coated internally with wax, similar to how we use pitch today."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:18:2",
+            "hebrew": "כופרא - זפת:",
+            "english": "",
+            "takeaway": "רש״י identifies כוּפְרָא as pitch."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:18:3",
+            "hebrew": "גרגישתא - קרקע שעושין ממנה החביות ארדלי\"א בלע\"ז:",
+            "english": "",
+            "takeaway": "רש״י defines גַּרְגִּישְׁתָּא as the earth/clay from which the casks are made."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:18:4",
+            "hebrew": "הא - באתריה דר\"י מייץ טפי מההיא דאתריה דתנא קמא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that הָא מָיְיצָא טְפֵי refers to רבי יהודה's location having greater absorption than the תנא קמא's location."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Yehuda's calculation of wine deductions",
+      "stepSummary": "The Gemara presents a detailed calculation from Rav Yehuda's locale showing how the one-sixth deduction is applied in practice.",
+      "whatsHappening": "The גמרא illustrates the deduction rules with a specific numerical example from Rav Yehuda's locale. It breaks down the costs, sales, and deductions for a standard barrel.",
+      "deeperAnalysis": "Rav Yehuda sells 36 of 48 pitchers to cover the barrel cost. From the remaining 12, he deducts 8 pitchers for absorption (one-sixth of the total). The remaining 4 pitchers constitute his profit.",
+      "keyTerms": [
+        {
+          "term": "דַּנָּא",
+          "meaning": "barrel"
+        },
+        {
+          "term": "כוּזֵי",
+          "meaning": "pitchers"
+        },
+        {
+          "term": "זוּזֵי",
+          "meaning": "dinars (currency)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּאַתְרֵיהּ דְּרַב יְהוּדָה רָמוּ אַרְבָּעִים וְתַמְנֵי כּוּזֵי בְּדַנָּא.",
+          "english": "In Rav Yehuda's place, they put forty-eight pitchers in a barrel."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָזֵיל דַּנָּא בְּשִׁיתָּא זוּזֵי,",
+          "english": "The barrel goes for six dinars,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "פָּרֵיס רַב יְהוּדָה שִׁיתָּא שִׁיתָּא בְּזוּזָא,",
+          "english": "Rav Yehuda divided six six for a dinar,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דַּל תְּלָתִין וְשִׁיתָּא בְּשִׁיתָּא,",
+          "english": "for thirty-six for six,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "פָּשׁוּ לֵיהּ תְּרֵיסַר.",
+          "english": "twelve remained for him."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דַּל תְּמָנְיָא שְׁתוּתֵי, פָּשׁוּ לְהוּ אַרְבְּעָה.",
+          "english": "for eight sixths, four remained for them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּאַתְרֵיהּ דְּרַב יְהוּדָה רָמוּ אַרְבָּעִים וְתַמְנֵי כּוּזֵי...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        39
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "illustrates_principle",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:19:1",
+            "hebrew": "באתריה דרב יהודה - מילתא באפי נפשיה היא ולאו אמתניתין קאי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that this calculation is an independent statement (מילתא באפי נפשיה) and does not directly address the Mishnah's ruling."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:19:2",
+            "hebrew": "רמו ארבעין ותמניא כוזי בדנא - מדה קטנה היתה במקומו שארבעים ושמונה ממלאין את החבית:",
+            "english": "",
+            "takeaway": "רש״י explains that the local measure was small, such that 48 pitchers filled a single barrel."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:19:3",
+            "hebrew": "אזיל דנא בשיתא - בששה זוזים היתה נמכרת ביחד בימות הבציר:",
+            "english": "",
+            "takeaway": "רש״י notes that the barrel was sold for six dinars during the harvest season."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 40a:19:4",
+            "hebrew": "פריס ליה רב יהודה שיתא שיתא בזוזא - נעשה רב יהודה חנווני והיה מוכרן שש כוזי בזוז:",
+            "english": "",
+            "takeaway": "רש״י describes Rav Yehuda acting as a merchant who sold the wine at a rate of six pitchers per dinar."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T22:43:31.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 86.40836129995296,
+      "structure": 2376.6227681999444,
+      "validate": 338.4900861001224,
+      "translate": 416.884399600327,
+      "meforshim": 867.1156058996567,
+      "teaching": 915.1740322000114
+    }
+  }
+}

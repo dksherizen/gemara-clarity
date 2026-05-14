@@ -1,0 +1,919 @@
+{
+  "ref": "Bava Metzia 50b",
+  "masechet": "Bava_Metzia",
+  "daf": 50,
+  "amud": "b",
+  "mainTopic": "(continues) דיני אונאה ושעוריה · הבדל בין לוקח למוכר",
+  "overview": "(1) The Mishnah defines the threshold of Ona'ah and the time limit for return; the Gemara analyzes the dispute between Rav and Shmuel regarding the calculation of the threshold and the status of Batul Mekacha. (2) Rav Nachman rules that a seller may return a sale indefinitely, unlike a buyer, based on the logic that the seller does not know the true value until he attempts to resell. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 9,
+      "topic": "(continues) דיני אונאה ושעוריה",
+      "gist": "The Mishnah defines the threshold of Ona'ah and the time limit for return; the Gemara analyzes the dispute between Rav and Shmuel regarding the calculation of the threshold and the status of Batul Mekacha.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 1,
+      "lastStepNumber": 7
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 10,
+      "endLine": 10,
+      "topic": "הבדל בין לוקח למוכר",
+      "gist": "Rav Nachman rules that a seller may return a sale indefinitely, unlike a buyer, based on the logic that the seller does not know the true value until he attempts to resell. — discussion continues into next amud.",
+      "openingFormula": "עד מתי מותר להחזיר",
+      "firstStepNumber": 8,
+      "lastStepNumber": 9
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection: The merchants' reaction is not a proof",
+      "stepSummary": "The Gemara rejects the proof, stating that the merchants' reaction is not a proof because the timing of waiver is not the only factor.",
+      "whatsHappening": "The Gemara rejects the proof. This is a setup line introducing a rejection.",
+      "deeperAnalysis": "The Gemara answers: Do you maintain that less than one-third for Rabbi Tarfon is like less than one-sixth for the Rabbis? No, the status of one-sixth to one-third for Rabbi Tarfon is like one-sixth itself for the Rabbis. If so, why did the merchants rejoice initially?",
+      "keyTerms": [
+        {
+          "term": "מִי סָבְרַתְּ",
+          "meaning": "do you maintain?"
+        },
+        {
+          "term": "לָא",
+          "meaning": "no"
+        },
+        {
+          "term": "מִשְׁתוּת וְעַד שְׁלִישׁ לְרַבִּי טַרְפוֹן כִּשְׁתוּת עַצְמָהּ לְרַבָּנַן דָּמֵי",
+          "meaning": "one-sixth to one-third for Rabbi Tarfon is like one-sixth itself for the Rabbis"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִי סָבְרַתְּ פָּחוֹת מִשְּׁלִישׁ לְרַבִּי טַרְפוֹן",
+          "english": "Do you think less than a third for Rabbi Tarfon"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּפָחוֹת מִשְּׁתוּת לְרַבָּנַן דָּמֵי? לָא,",
+          "english": "Like less than a sixth for the Rabbis? No,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִשְּׁתוּת וְעַד שְׁלִישׁ לְרַבִּי טַרְפוֹן כִּשְׁתוּת",
+          "english": "From a sixth until a third for Rabbi Tarfon like a sixth"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עַצְמָהּ לְרַבָּנַן דָּמֵי.",
+          "english": "Itself for the Rabbis."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי הָכִי, בְּמַאי שָׂמְחוּ מֵעִיקָּרָא?",
+          "english": "If so, in what did they rejoice originally?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִי סָבְרַתְּ פָּחוֹת מִשְּׁלִישׁ לְרַבִּי טַרְפוֹן כְּפָחוֹת מִשְׁתוּת לְרַבָּנַן דָּמֵי? לָא, מִשְׁתוּת וְעַד שְׁלִישׁ לְרַבִּי טַרְפוֹן כִּשְׁתוּת עַצְמָהּ לְרַבָּנַן דָּמֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        22
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects_proof",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:2:1",
+            "hebrew": "משתות ועד שליש לרבי טרפון - הויא אונאה כשתות עצמה לרבנן ואינו חולק על חכמים אלא דבטול מקח דידהו משוי להו אונאה וידו על העליונה ואליבא דרבנן שניהם חוזרין:",
+            "english": "",
+            "takeaway": "רש״י explains that for רבי טרפון, the range of one-sixth to one-third constitutes אונאה equivalent to one-sixth according to רבנן, and he only disputes them regarding בטול מקח, maintaining ידו על העליונה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:2:2",
+            "hebrew": "אי הכי - דר' טרפון אבטול מקח לחודיה פליג:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבי טרפון's disagreement is solely about בטול מקח, not the monetary penalty itself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:2:3",
+            "hebrew": "במאי שמחו - מעיקרא:",
+            "english": "",
+            "takeaway": "רש״י notes that the Gemara's question 'במאי שמחו' refers to their initial joy before the legal status was clarified."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The merchants rejoiced over nullification",
+      "stepSummary": "The Gemara resolves the difficulty by stating that the merchants rejoiced over the possibility of nullification.",
+      "whatsHappening": "The Gemara offers a resolution to the difficulty. This is a setup line introducing a resolution.",
+      "deeperAnalysis": "The Gemara answers: Resolve that nullification for the Rabbis is always permitted. When Rabbi Tarfon said it's Ona'ah, they rejoiced because they thought nullification was no longer possible. When he said the entire day, they reverted because they realized nullification was still possible.",
+      "keyTerms": [
+        {
+          "term": "תִּפְשׁוֹט",
+          "meaning": "resolve"
+        },
+        {
+          "term": "בִּטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר",
+          "meaning": "nullification for the Rabbis is always permitted"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תִּפְשׁוֹט דְּבִטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר,",
+          "english": "Resolve, based on this difficulty, the dilemma raised below, and conclude that in cases of…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּכֵיוָן דַּאֲמַר לְהוּ רַבִּי טַרְפוֹן הָוְיָא אוֹנָאָה –",
+          "english": "Therefore, the reaction of the merchants of Lod is understandable, as, since Rabbi Tarfon said to them that a disparity…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׂמְחוּ, כִּי אֲמַר לְהוּ כׇּל הַיּוֹם –",
+          "english": "they rejoiced, as this would mean that the buyer has only the time it takes to show…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חָזְרוּ. דְּאִי סָלְקָא דַעְתָּךְ דְּבִטּוּל מִקָּח לְרַבָּנַן",
+          "english": "When he said to them that the exploited person can renege on the transaction for the entire…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ, בְּמַאי שָׂמְחוּ?",
+          "english": "The Gemara explains why the dilemma is resolved: As, if it enters your mind to say that…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שָׂמְחוּ בְּשֶׁתּוּת עַצְמָהּ, דִּלְרַבִּי טַרְפוֹן מְחִילָה, וּלְרַבָּנַן אוֹנָאָה.",
+          "english": "His ruling did not enable them to sell the merchandise at a higher price than the ruling of the Rabbis…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תִּפְשׁוֹט דְּבִטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:3:1",
+            "hebrew": "תפשוט - דמדשמחו:",
+            "english": "",
+            "takeaway": "רש״י explains that the merchants' rejoicing is the key evidence from which we derive the halakhic conclusion."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:3:2",
+            "hebrew": "ביטול מקח לרבנן - דמיבעיא לן לקמן אי לעולם חוזר או בכדי שיראה. תפשוט דמדשמחו דלרבנן לעולם חוזר וכי אמר להו ר' טרפון אונאה והם היו סבורין דבכדי שיראה ס\"ל באונאה שמחו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the merchants rejoiced because they mistakenly believed רבי טרפון was ruling like the רבנן that ביטול מקח is only permitted within בכדי שיראה, meaning they had lost their right to nullify the sale."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:3:3",
+            "hebrew": "כי אמר להו כל היום חזרו - חדא דבין לעולם חוזר ובין שהות כל היום הנאה פורתא היא לדידהו דשהות הרבה יש לימלך כל היום ועוד אונאה יתר על שתות לא שכיחא וקמפסיד להו בשתות עצמה לרבנן בכדי שיראה ולדידיה כל היום:",
+            "english": "",
+            "takeaway": "רש״י explains that the merchants reverted to their original stance when רבי טרפון said כל היום because the practical difference between לעולם חוזר and כל היום is minimal, and רבי טרפון's ruling actually caused them a greater loss regarding the threshold for אונאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:4:1",
+            "hebrew": "דאי ס\"ד בטול מקח לרבנן - כאונאה בכדי שיראה ואין בין אונאה לבטול מקח אלא דבאונאה ידו על העליונה ובבטול מקח שניהם חוזרין כי משוי רבי טרפון לבטול מקח אונאה אין זו טובה להם:",
+            "english": "",
+            "takeaway": "רש״י argues that if the רבנן held ביטול מקח is only within בכדי שיראה, then רבי טרפון equating it to אונאה would not be a cause for rejoicing, as the practical outcome for the merchants would be largely the same."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:4:2",
+            "hebrew": "שמחו בשתות עצמה כו' - דהא דאמרן משתות ועד שליש לר\"ט כשתות לרבנן משתות ומעלה אמרו ולא שתות עצמה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the merchants rejoiced over the specific threshold of אונאה, as רבי טרפון includes שתות עצמה in אונאה while the רבנן only include משתות ומעלה, meaning רבי טרפון's ruling was actually more lenient for them in that specific regard."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Dilemma: When is nullification permitted?",
+      "stepSummary": "A dilemma is raised: Is nullification always permitted or only within the time to show a merchant?",
+      "whatsHappening": "The Gemara raises a dilemma about the timing of nullification. This is a setup line introducing a dilemma.",
+      "deeperAnalysis": "The Gemara asks: Is nullification always permitted or only within the time to show a merchant? If it's only within the time to show a merchant, what is the difference between one-sixth and more than one-sixth?",
+      "keyTerms": [
+        {
+          "term": "אִבַּעְיָא לְהוּ",
+          "meaning": "a dilemma was raised before them"
+        },
+        {
+          "term": "לְעוֹלָם חוֹזֵר",
+          "meaning": "always returns"
+        },
+        {
+          "term": "בִּכְדֵי שֶׁיֵּרְאֶה לַתַּגָּר",
+          "meaning": "in the time to show a merchant"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיבַּעְיָא לְהוּ: בִּטּוּל מִקָּח לְרַבָּנַן, לְעוֹלָם חוֹזֵר,",
+          "english": "A dilemma was raised before them: Nullification of a transaction according to the Rabbis, forever returns,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אוֹ דִלְמָא בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ?",
+          "english": "Or perhaps within the time that he sees to the merchant or to his relative?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאִם תִּמְצָא לוֹמַר בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ,",
+          "english": "And if you say within the time that he sees to the merchant or to his relative,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָה אִיכָּא בֵּין שְׁתוּת לְיָתֵר עַל שְׁתוּת?",
+          "english": "What is there between one-sixth and more than one-sixth?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיכָּא: דְּאִילּוּ שְׁתוּת –",
+          "english": "There is: For if one-sixth –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִי שֶׁנִּתְאַנָּה חוֹזֵר,",
+          "english": "The one who was delayed returns,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְאִילּוּ יָתֵר עַל שְׁתוּת – שְׁנֵיהֶם חוֹזְרִים.",
+          "english": "And if more than one-sixth – both return."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִיבַּעְיָא לְהוּ: בִּטּוּל מִקָּח לְרַבָּנַן, לְעוֹלָם חוֹזֵר, אוֹ דִלְמָא בִּכְדֵי שֶׁיֵּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_dilemma",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:5:1",
+            "hebrew": "אם תמצא לומר כו' - כלומר אם באת לומר פשיטא דלעולם חוזר דאי בכדי שיראה מאי איכא כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's follow-up question assumes the answer to the first dilemma is that nullification is permitted forever, because otherwise there would be no distinction between one-sixth and more than one-sixth."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:5:2",
+            "hebrew": "איכא דאילו שתות כו' - כי נמי אמרינן תרוייהו בכדי שיראה עדיין יש חילוק זה ביניהם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that even if nullification is limited to the time to show a merchant, there is still a difference between one-sixth and more than one-sixth: with one-sixth only the defrauded party can retract, while with more than one-sixth both parties can retract."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 50b:5:1",
+            "hebrew": "ואילו יתר על שתות שניהם חוזרי' - וא\"ת דבפרק הספינה (ב\"ב דף פג: ושם פד. ד\"ה אי לא) אמר רב חסדא מכר לו שוה ה' בו' והוקר ועמד על ח' לוקח יכול לחזור בו ולא מוכר דאמר ליה לוקח אי לאו דאוניתני לא מצית הדר בך כו' וה\"נ אמאי מאנה יכול לחזור נימא ליה נמי המתאנה אי לאו דאוניתני כו' וי\"ל דהכא כיון שהוא יותר משתות ה\"ל רחוק מן המקח יותר מדאי וכאילו לא מכר כלל דה\"ל כיין ונמצא חומץ חומץ ונמצא יין דשניהם חוזרין (שם דף פג:) וה\"ר יצחק בר' מרדכי תירץ דהתם כשאין הלוקח תובע אונאתו לכך אין המוכר יכול לחזור בו אבל הכא מיירי כשמתאנה תובע אונאתו ולכך המאנה יכול לבטל המקח:",
+            "english": "",
+            "takeaway": "תוספות raises a difficulty from רב חסדא in בבא בתרא, where the buyer can retract but the seller cannot, and answers that here, with more than one-sixth, the transaction is so flawed it is as if no sale occurred, allowing both to retract, or alternatively, that the seller can retract here because the buyer is actively claiming the fraud."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Proof from the Mishnah for the timing of nullification",
+      "stepSummary": "The Gemara attempts to prove the timing of nullification from the Mishnah's narrative of the merchants of Lod.",
+      "whatsHappening": "The Gemara attempts to derive the timing of nullification from the Mishnah. This is a setup line introducing a proof.",
+      "deeperAnalysis": "The Gemara asks: Come and hear from the Mishnah: The merchants of Lod reverted to the Rabbis' view. This implies that the timing of nullification is a significant factor.",
+      "keyTerms": [
+        {
+          "term": "תָּא שְׁמַע",
+          "meaning": "come and hear"
+        },
+        {
+          "term": "חָזְרוּ לְדִבְרֵי חֲכָמִים",
+          "meaning": "reverted to the Rabbis' view"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי? תָּא שְׁמַע, חָזְרוּ לְדִבְרֵי חֲכָמִים.",
+          "english": "What? Come and hear, they reverted to the words of the Sages."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא בִּטּוּל מִקָּח לְרַבָּנַן",
+          "english": "If you say that nullification of the transaction for the Sages"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ,",
+          "english": "within the time that he sees to the merchant or to his relative,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּלְרַבִּי טַרְפוֹן כׇּל הַיּוֹם –",
+          "english": "and for Rabbi Tarfon all the day –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִשּׁוּם הָכִי חָזְרוּ.",
+          "english": "because of this they reverted."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ בִּטּוּל מִקָּח לְרַבָּנַן לְעוֹלָם חוֹזֵר,",
+          "english": "But if you say nullification of the transaction for the Sages forever reverts,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַמַּאי חָזְרוּ? בִּדְרַבִּי טַרְפוֹן נִיחָא לְהוּ טְפֵי,",
+          "english": "why did they revert? In Rabbi Tarfon it is preferable for them,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דְּקָא מְשַׁוֵּי לְהוּ אוֹנָאָה כׇּל הַיּוֹם וְתוּ לָא!",
+          "english": "that he equates for them overcharging all the day and no more!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי? תָּא שְׁמַע, חָזְרוּ לְדִבְרֵי חֲכָמִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "proof_attempt",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:6:1",
+            "hebrew": "משום הכי חזרו - מעיקרא כי שוי להו ר' טרפון יתר על שתות אונאה דלרבנן בטול מקח ולא הרחיב זמן החזרה שמחו בשתות עצמה דמחילה לאלתר כדאמרן וכי הדר אמר להו כל היום חזרו דהחמיר להם ביתר על שתות ופגם להם יותר ממה שהשביחם בשתות עצמה כדפרישית:",
+            "english": "",
+            "takeaway": "רש״י explains that the merchants initially rejoiced when רבי טרפון ruled that only over a sixth constitutes אונאה, because according to the רבנן, the sale could be nullified immediately, but they reverted to the רבנן's view when he extended the time for nullification to the entire day, as this stricter ruling caused them more damage than the benefit they gained from his leniency on the sixth."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:6:2",
+            "hebrew": "אלא אי אמרת לעולם חוזר - נהי נמי דשתות עצמה משוי להו אונאה כרבנן דהאי דאמר לעיל שמחו בשתות עצמה שינויא דחיקא הוה משום שמחה דמעיקרא דקשיא לן במאי שמחו והשתא אמרת לי דשמחה מעיקרא משום בטול מקח היא דהואי דלרבנן לעולם ולר' טרפון היו סבורין בכדי שיראה כדין אונאה דרבנן כי הדר אמר להו כל היום אכתי שמחה איכא דלרבנן לעולם ולר' טרפון כל היום ותו לא ואי משום שתות עצמה דלרבנן בכדי שיראה ולדידיה כל היום הרבה הוא שבח שמשביח רבי טרפון ביתר על השתות מפגם שפוגם בשתות עצמה שהרי יכולין ליזהר בשתות עצמה יפחתו לו מעט ותהא מחילה נמצאו משתכרין בשל רבי טרפון כל אונאה שיתר על שתות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if the רבנן's view were that a sale is always subject to nullification, the merchants would still have rejoiced at רבי טרפון's initial leniency regarding the sixth, but when he extended the nullification period to the entire day, they reverted to the רבנן because the benefit of his leniency on the sixth was outweighed by the detriment of the extended nullification period, as they could have simply avoided the sixth by slightly reducing the price."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Nullification is uncommon",
+      "stepSummary": "The Gemara resolves the difficulty by stating that nullification is uncommon.",
+      "whatsHappening": "The Gemara offers a resolution to the difficulty. This is a setup line introducing a resolution.",
+      "deeperAnalysis": "The Gemara answers: Nullification is uncommon, so the merchants did not take it into consideration when calculating which ruling was most advantageous.",
+      "keyTerms": [
+        {
+          "term": "בִּטּוּל מִקָּח לָא שְׁכִיחַ",
+          "meaning": "nullification is uncommon"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בִּטּוּל מִקָּח לָא שְׁכִיחַ.",
+          "english": "Nullification of the transaction is not found."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בִּטּוּל מִקָּח לָא שְׁכִיחַ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_difficulty",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:7:1",
+            "hebrew": "בטול מקח לא שכיח - ואין שבח זה חשוב להם במידי דלא שכיח וכי מיקרי והוי נמי הרי נתן לו שהות כל היום לחזור ורוב הנמלכים נמלכים בו ביום הלכך פגם דשתות עצמה עדיף להו:",
+            "english": "",
+            "takeaway": "רש״י explains that because nullification is rare, the merchants did not consider the potential increase in value (שבח) as significant, and since most people who reconsider do so on the same day, the merchants preferred the immediate loss of two-thirds (פגם דשתות) over waiting for a possible nullification."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "Rava's halachic resolution",
+      "stepSummary": "Rava provides the halachic resolution: less than one-sixth is acquired, more than one-sixth is nullified, and one-sixth is acquired with return of the sum.",
+      "whatsHappening": "Rava provides the halachic resolution. This is a setup line introducing a halachic resolution.",
+      "deeperAnalysis": "Rava states: Less than one-sixth is acquired. More than one-sixth is nullified. One-sixth is acquired with return of the sum. And both nullification and return of the sum are only within the time to show a merchant.",
+      "keyTerms": [
+        {
+          "term": "אָמַר רָבָא, הִלְכְתָא",
+          "meaning": "Rava said, the halacha is"
+        },
+        {
+          "term": "פָּחוֹת מִשְׁתוּת – נִקְנֶה מִקָּח",
+          "meaning": "less than one-sixth – the purchase is acquired"
+        },
+        {
+          "term": "יוֹתֵר עַל שְׁתוּת – בִּטּוּל מִקָּח",
+          "meaning": "more than one-sixth – nullification of the purchase"
+        },
+        {
+          "term": "שְׁתוּת – קָנָה וּמַחְזִיר אוֹנָאָה",
+          "meaning": "one-sixth – he acquired and returns the exploitation"
+        }
+      ],
+      "whatToRemember": "Rava's halachic resolution.",
+      "whyThisMatters": "This is the final halachic resolution of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא, הִלְכְתָא:",
+          "english": "Rava said: The halakha is:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח,",
+          "english": "Less than a sixth – acquired by purchase,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יוֹתֵר עַל שְׁתוּת –",
+          "english": "More than a sixth –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בִּיטּוּל מִקָּח, שְׁתוּת –",
+          "english": "nullification of purchase, a sixth –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "קָנָה וּמַחְזִיר אוֹנָאָה,",
+          "english": "acquired and returns overcharge,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְזֶה וָזֶה –",
+          "english": "And this and that –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ.",
+          "english": "within the time to show to a merchant or to his relative."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא, הִלְכְתָא: פָּחוֹת מִשְׁתוּת – נִקְנֶה מִקָּח, יוֹתֵר עַל שְׁתוּת – בִּטּוּל מִקָּח, שְׁתוּת – קָנָה וּמַחְזִיר אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "final_resolution",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 50b:8:1",
+            "hebrew": "אמר רבא הלכתא שתות קנה ומחזיר אונאה - פ\"ה קנה בע\"כ כר' נתן דבסמוך לפי זה פחות משתות לאלתר הויא מחילה וזה יש בין שתות לפחות משתות וכן משמע לקמן (בבא מציעא דף נא.) גבי ההוא גברא דנקט ורשכי לזבוני אמר אי יהיבנא ליה חמשא ופלגא הויא מחילה משמע דלאלתר הוי מחילה ודקאמר זה וזה בכדי שיראה איתר משתות ושתות קאי ולא אפחות משתות ורבא אית ליה שפיר דרב חסדא דקאמר בפ' הספינה (ב\"ב דף פג:) מכר לו שוה ה' בו' לוקח יכול. לחזור בו ולא מוכר כיון שהוקר בכדי שיראה שזהו זמן שלוקח יכול לתבוע אונאתו והוקר על בטול מקח לכך לוקח יכול לחזור בו ולכך קאמר ועמדו על ח' ולא קאמר ועמדו על ז' שאין זה בטול מקח וק' לר\"ת וכי חולק רבא על סתם מתניתין (לקמן בבא מציעא נא.) דקתני מי שהוטל עליו ידו על העליונה ועוד דהלכה כרבי מחבירו ועוד דרבא גופיה מוקי מתני' כר' יהודה הנשיא ולא כר' נתן א\"כ משמע דסבר ליה כוותיה ועוד מה שייך למימר תניא כוותיה בדבר שיש מחלוקת תנאים כתוב באותה ברייתא ומפ' ר\"ת דרבא דאמר שתות קנה היינו אם רצה כר' יהודה ולא חש לפרש בהדיא רצה משום דקאי אמתני' ותניא כוותיה מייתי משום דקתני בברייתא זה וזה בכדי שיראה כדרבא אבל מרבי יהודה הנשיא לא מייתי דאמר רצה אמר לו כו' דאדרבה ה\"ל לאתויי מתניתין ולקמן (בבא מציעא דף נא.) פריך שפיר אי ר' נתן מתניתין קתני רצה ברייתא לא קתני רצה משום דר' נתן לא קאי אמתניתין וה\"ל לפרושי אבל רבא דקאי אמתני' לא חש לפרש ואע\"ג דרבא נקיט לישנא דמילתא דרבי נתן אין פי' קנה דהכא כקנה דרבי נתן:",
+            "english": "",
+            "takeaway": "תוספות explains that רבא's ruling that at exactly one-sixth the buyer acquires the item and returns the overcharge implies acquisition against the seller's will, following רבי נתן, and clarifies that the time limit of 'כדי שיראה' applies only to cases of more than one-sixth and exactly one-sixth, not to less than one-sixth where forgiveness is immediate."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "ראיה",
+      "title": "Baraita supporting רַבָּא's view",
+      "stepSummary": "A baraita is cited that supports Rava's view.",
+      "whatsHappening": "The Gemara cites a baraita that aligns with רַבָּא's ruling on price error thresholds. This is a setup line introducing external textual support.",
+      "deeperAnalysis": "The baraita delineates three tiers: less than one-sixth is a valid sale, more than one-sixth voids the sale, and exactly one-sixth allows acquisition with restitution. It attributes this framework to רַבִּי נָתָן, while רַבִּי יְהוּדָה הַנָּשִׂיא argues the seller holds the advantage. Both opinions restrict these remedies to the window needed to show a merchant.",
+      "keyTerms": [
+        {
+          "term": "תַּנְיָא כְּווֹתֵיהּ דְּרָבָא",
+          "meaning": "it is taught in accordance with רַבָּא"
+        },
+        {
+          "term": "רַבִּי נָתָן",
+          "meaning": "Rabbi Natan"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה הַנָּשִׂיא",
+          "meaning": "Rabbi Yehuda HaNasi"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנְיָא כְּווֹתֵיהּ דְּרָבָא:",
+          "english": "It is taught in a baraita in accordance with the opinion of Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אוֹנָאָה פָּחוֹת מִשְּׁתוּת – נִקְנֶה מִקָּח.",
+          "english": "Exploitation less than one-sixth – the purchase is acquired."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יָתֵר עַל שְׁתוּת – בָּטֵל מִקָּח.",
+          "english": "More than one-sixth – the purchase is nullified."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שְׁתוּת – קָנָה וּמַחְזִיר אוֹנָאָה, דִּבְרֵי רַבִּי נָתָן.",
+          "english": "One-sixth – he acquired and returns the exploitation, the words of Rabbi Natan."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "רַבִּי יְהוּדָה הַנָּשִׂיא אוֹמֵר:",
+          "english": "Rabbi Yehuda HaNasi says:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "יָד מוֹכֵר עַל הָעֶלְיוֹנָה,",
+          "english": "The hand of the seller is on the upper hand,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רוֹצֶה – אוֹמֵר לוֹ:",
+          "english": "If he wishes – he says to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״תֵּן לִי מִקָּחִי״,",
+          "english": "\"Give me my merchandise\","
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אוֹ ״תֵּן לִי מַה שֶּׁאֹנֵיתַנִי״.",
+          "english": "or \"Give me what you exploited me\"."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְזֶה וָזֶה בִּכְדֵי שֶׁיַּרְאֶה לַתַּגָּר אוֹ לִקְרוֹבוֹ.",
+          "english": "And this and that within the time to see a merchant or his relative."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנְיָא כְּווֹתֵיהּ דְּרָבָא: אוֹנָאָה פָּחוֹת מִשְׁתוּת – נִקְנֶה מִקָּח.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        30
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "proof",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:1",
+            "hebrew": "הלכתא פחות משתות נקנה מקח - לאלתר:",
+            "english": "",
+            "takeaway": "רש״י explains that when the overcharge is less than one-sixth, the sale is immediately valid and binding."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:2",
+            "hebrew": "יתר על שתות בטל מקח - ושניהם חוזרין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that when the overcharge exceeds one-sixth, the sale is nullified and both parties return what they received."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:3",
+            "hebrew": "שתות קנה - ואין אחד מהן יכול לחזור:",
+            "english": "",
+            "takeaway": "רש״י states that when the overcharge is exactly one-sixth, the sale is acquired and neither party can retract."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:4",
+            "hebrew": "ומחזיר אונאה - ולית ליה לרבא ידו על העליונה דמתניתין דס\"ל כר' נתן דברייתא דקיימא לן ר' נתן דיינא הוא ונחית לעומקא דדינא בפרק הבית והעלייה (לעיל בבא מציעא דף קיז: ובב\"ק נג.):",
+            "english": "",
+            "takeaway": "רש״י explains that רבא does not hold that the seller has the advantage, because רבא follows רבי נתן, who is known as a strict judge who delves into the depths of the law."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:5",
+            "hebrew": "זה וזה - אונאה ובטול מקח:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'this and this' refers to the options of returning the overcharge amount or nullifying the sale."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:6",
+            "hebrew": "יד מוכר על העליונה - אם נתאנה מוכר והוא הדין אם נתאנה לוקח יד לוקח על העליונה והכי מוקמינן לה לקמן (בבא מציעא דף נא) מאי דשייר במתניתין תני בברייתא:",
+            "english": "",
+            "takeaway": "רש״י explains that 'the seller has the advantage' means the seller chooses whether to return the overcharge or nullify the sale, and the same applies if the buyer was overcharged."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:9:7",
+            "hebrew": "זה וזה - אונאה ובטול מקח:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'this and this' refers to the options of returning the overcharge amount or nullifying the sale."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "רַב נַחְמָן: מוֹכֵר לְעוֹלָם חוֹזֵר",
+      "stepSummary": "רַב נַחְמָן rules that while a buyer has a limited time to return a sale, a seller may return it indefinitely.",
+      "whatsHappening": "The sugya opens with רַב נַחְמָן's ruling distinguishing between the buyer and the seller regarding the right to retract a sale due to price error. This is a setup line establishing the core halachic position.",
+      "deeperAnalysis": "The Mishna discusses the time limit for a buyer to return an item. רַב נַחְמָן limits this ruling to the buyer alone, asserting that a seller retains the right to retract the sale forever. This establishes the fundamental asymmetry in halacha between buyer and seller regarding price error.",
+      "keyTerms": [
+        {
+          "term": "לֹא שָׁנוּ אֶלָּא",
+          "meaning": "they only taught [this rule] regarding"
+        },
+        {
+          "term": "לְעוֹלָם חוֹזֵר",
+          "meaning": "may retract forever"
+        },
+        {
+          "term": "מוֹכֵר",
+          "meaning": "seller"
+        },
+        {
+          "term": "לוֹקֵחַ",
+          "meaning": "buyer"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עַד מָתַי מוּתָּר לְהַחֲזִיר כּוּ׳.",
+          "english": "Until when is it permitted to return, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב נַחְמָן:",
+          "english": "Rav Naḥman says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא לוֹקֵחַ,",
+          "english": "They did not teach except for a buyer,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר.",
+          "english": "but a seller — forever returns."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נֵימָא מְסַיַּיע לֵיהּ: חָזְרוּ לְדִבְרֵי חֲכָמִים.",
+          "english": "Let us say it supports him: They returned to the words of the Sages."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא מוֹכֵר לְעוֹלָם חוֹזֵר,",
+          "english": "If you say that a seller forever returns,"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "עַד מָתַי מוּתָּר לְהַחֲזִיר כּוּ׳. אָמַר רַב נַחְמָן: לֹא שָׁנוּ אֶלָּא לוֹקֵחַ, אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר.",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:10:1",
+            "hebrew": "לא שנו - בכדי שיראה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's time limit for retracting a sale applies only to the buyer, who possesses the item and can show it to an expert."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:10:2",
+            "hebrew": "אלא לוקח - שמקחו בידו ויכול להראות':",
+            "english": "",
+            "takeaway": "רש״י clarifies that the buyer can demonstrate the item to an expert to determine if he was overcharged."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:10:3",
+            "hebrew": "מוכר - שאין בידו מה להראות ולימלך אינו מכיר באונאתו עד שיראה טלית אחרת כדמותה נמכרת בדמים יקרים הלכך לעולם חוזר אם לא נתייקרו טליתות בינתים:",
+            "english": "",
+            "takeaway": "רש״י explains that the seller retains the right to retract forever because he no longer possesses the item and cannot verify the price error until he sees a similar item sold at a higher price, unless market prices have risen in the interim."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 50b:10:1",
+            "hebrew": "אי אמרת בשלמא מוכר לעולם חוזר משום הכי חזרו - אע\"פ שגם תגרי לוד היו לוקחים ולא היה להם לחזור מ\"מ חזרו משום דתגרי לוד היו מוכרים תמיד במעט מעט והיו לוקחים בבת אחת:",
+            "english": "",
+            "takeaway": "תוספות explains that the merchants of Lod retracted their sales despite being buyers because they were also sellers who sold in small increments and bought in bulk, thus falling under the seller's rule of retracting forever."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Does the Mishna about the merchants of Lod support רַב נַחְמָן?",
+      "stepSummary": "The Gemara tests whether the Mishna's statement that the merchants of Lod reverted to the Rabbis' opinion supports רַב נַחְמָן's distinction between buyer and seller.",
+      "whatsHappening": "The Gemara attempts to find support for רַב נַחְמָן in a previous Mishna about the merchants of Lod, then analyzes the logic of their decision. This is a setup line introducing a potential textual proof.",
+      "deeperAnalysis": "The Gemara asks if the Mishna supports רַב נַחְמָן. It reasons: if a seller can always retract, the merchants of Lod (who are sellers) would benefit from the Rabbis' lenient view for buyers, while still retaining their own indefinite right to retract. If, however, a seller is like a buyer, the merchants gain nothing from the Rabbis' view, as both parties would have the same limited time. The difficulty is that the Mishna says they reverted to the Rabbis, which implies a benefit, supporting רַב נַחְמָן's view.",
+      "keyTerms": [
+        {
+          "term": "נֵימָא מְסַיְּע לֵיהּ",
+          "meaning": "let us say it supports him"
+        },
+        {
+          "term": "חָזְרוּ לְדִבְרֵי חֲכָמִים",
+          "meaning": "they reverted to the words of the Sages"
+        },
+        {
+          "term": "מַאי נָפְקָא לְהוּ מִינַהּ",
+          "meaning": "what benefit do they derive from it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עַד מָתַי מוּתָּר לְהַחֲזִיר כּוּ׳.",
+          "english": "Until when is it permitted to return, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רַב נַחְמָן:",
+          "english": "Rav Naḥman says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא לוֹקֵחַ,",
+          "english": "They only taught regarding a buyer,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל מוֹכֵר – לְעוֹלָם חוֹזֵר.",
+          "english": "but a seller — forever returns."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נֵימָא מְסַיַּיע לֵיהּ: חָזְרוּ לְדִבְרֵי חֲכָמִים.",
+          "english": "Let us say it supports him: They reverted to the words of the Sages."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא מוֹכֵר לְעוֹלָם חוֹזֵר,",
+          "english": "If you say that since a seller forever returns,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מִשּׁוּם הָכִי חָזְרוּ.",
+          "english": "because of this they reverted."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ מוֹכֵר נָמֵי כְּלוֹקֵחַ דָּמֵי,",
+          "english": "But if you say a seller also is like a buyer,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מַאי נָפְקָא לְהוּ מִינַּהּ?",
+          "english": "What difference is there to them from it?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "כִּי הֵיכִי דְּעָבְדִי לַיהּ רַבָּנַן תַּקַּנְתָּא לְלוֹקֵחַ,",
+          "english": "Just as the Sages made an ordinance for a buyer,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הָכִי נָמֵי עָבְדִי לַיהּ רַבָּנַן תַּקַּנְתָּא לְמוֹכֵר!",
+          "english": "so too the Sages made an ordinance for a seller!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "נֵימָא מְסַיְּע לֵיהּ: חָזְרוּ לְדִבְרֵי חֲכָמִים. אִי אָמְרַתּוּ בְּשַׁלְמָא מוֹכֵר לְעוֹלָם חוֹזֵר, מִשּׁוּם הָכִי חָזְרוּ. אֶלָּא אִי אָמְרַתּוּ מוֹכֵר נָמֵי כְּלוֹקֵחַ דָּמֵי, מַאי נָפְקָא לְהוּ מִינַהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:10:1",
+            "hebrew": "לא שנו - בכדי שיראה:",
+            "english": "",
+            "takeaway": "רש״י explains that רַב נַחְמָן's distinction between buyer and seller is based on the practical ability to demonstrate the item's value: a buyer holds the item and can show it, whereas a seller does not."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 50b:10:3",
+            "hebrew": "מוכר - שאין בידו מה להראות ולימלך אינו מכיר באונאתו עד שיראה טלית אחרת כדמותה נמכרת בדמים יקרים הלכך לעולם חוזר אם לא נתייקרו טליתות בינתים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a seller can retract indefinitely because he cannot recognize אונאה until he sees a similar item sold for a higher price, unless prices have generally risen in the interim."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 50b:10:1",
+            "hebrew": "אי אמרת בשלמא מוכר לעולם חוזר משום הכי חזרו - אע\"פ שגם תגרי לוד היו לוקחים ולא היה להם לחזור מ\"מ חזרו משום דתגרי לוד היו מוכרים תמיד במעט מעט והיו לוקחים בבת אחת:",
+            "english": "",
+            "takeaway": "תוספות resolves the difficulty by explaining that the merchants of Lod reverted to the Rabbis' view primarily because they were sellers who sold in small quantities, even though they also bought in bulk and thus had no right to retract as buyers."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י focuses on the practical mechanism of recognizing אונאה to explain רַב נַחְמָן's distinction, while תוספות addresses the Gemara's logical difficulty regarding the merchants of Lod by distinguishing between their roles as bulk buyers and small-quantity sellers."
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T04:10:15.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 98.76449319999665,
+      "structure": 1900.0462517999695,
+      "validate": 277.00128730008146,
+      "translate": 409.66834620025475,
+      "meforshim": 675.1044970999355,
+      "teaching": 870.4126458000392
+    }
+  }
+}

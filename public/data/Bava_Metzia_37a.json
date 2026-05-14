@@ -1,0 +1,1224 @@
+{
+  "ref": "Bava Metzia 37a",
+  "masechet": "Bava_Metzia",
+  "daf": 37,
+  "amud": "a",
+  "mainTopic": "חלוקת רבי יוסי בראשונה · גזלתי לאחד מכם · הוצאת ממון מספק",
+  "overview": "(1) The Gemara clarifies whether Rabbi Yose disagreed in the first case and defines what constitutes payment according to Rabbi Yochanan. (2) The Mishnah discusses the laws of a thief or depositary who does not know which of two claimants is the owner, and Rabbi Yose's objection regarding the loss of the swindler. (3) The Gemara analyzes the Mishnah's ruling to determine if money is removed from its owner in cases of doubt, distinguishing between theft and deposit. (4) A dispute between Rav Yehuda and Rav Matna regarding the reaction of the non-claimant in the case of a thief. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "חלוקת רבי יוסי בראשונה",
+      "gist": "The Gemara clarifies whether Rabbi Yose disagreed in the first case and defines what constitutes payment according to Rabbi Yochanan.",
+      "openingFormula": "אַף בָּרִאשׁוֹנָה",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 7,
+      "topic": "גזלתי לאחד מכם",
+      "gist": "The Mishnah discusses the laws of a thief or depositary who does not know which of two claimants is the owner, and Rabbi Yose's objection regarding the loss of the swindler.",
+      "openingFormula": "מַתְנִי׳ אָמַר לִשְׁנַיִם",
+      "firstStepNumber": 4,
+      "lastStepNumber": 7
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 8,
+      "endLine": 16,
+      "topic": "הוצאת ממון מספק",
+      "gist": "The Gemara analyzes the Mishnah's ruling to determine if money is removed from its owner in cases of doubt, distinguishing between theft and deposit.",
+      "openingFormula": "גְּמָ׳ אַלְמָא מִסְּפֵיקָא מַפְּקִינַן מָמוֹנָא",
+      "firstStepNumber": 8,
+      "lastStepNumber": 14
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 17,
+      "endLine": 17,
+      "topic": "הלה שותק או צווח",
+      "gist": "A dispute between Rav Yehuda and Rav Matna regarding the reaction of the non-claimant in the case of a thief. — discussion continues into next amud.",
+      "openingFormula": "אָמַר מָר: הָתָם דְּקָא תָבְעִי לֵיהּ",
+      "firstStepNumber": 15,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי יוֹסֵי חָלוּק אַף בָּרִאשׁוֹנָה",
+      "stepSummary": "The Gemara records a ruling that רַבִּי יוֹסֵי disagreed in the first case of the chapter and the הלכה follows him there as well.",
+      "whatsHappening": "The sugya opens with a freestanding ruling (מימרא) establishing that רַבִּי יוֹסֵי's disagreement extends to the first case of the chapter, and the הלכה follows him.",
+      "deeperAnalysis": "The opening line poses a question about whether the הלכה follows רַבִּי יוֹסֵי in the first case, and immediately answers it affirmatively. This sets the baseline position: רַבִּי יוֹסֵי holds a distinct view in the first case, and it is the accepted הלכה.",
+      "keyTerms": [
+        {
+          "term": "חָלוּק",
+          "meaning": "disagreed / held a distinct view"
+        },
+        {
+          "term": "הֲלָכָה",
+          "meaning": "the accepted legal ruling"
+        },
+        {
+          "term": "רִאשׁוֹנָה",
+          "meaning": "the first case [of the chapter]"
+        }
+      ],
+      "whatToRemember": "The baseline is that רַבִּי יוֹסֵי חָלוּק in the first case and הֲלָכָה כְּמוֹתוֹ.",
+      "whyThisMatters": "This establishes the starting point for the subsequent discussion about the nature of רַבִּי יוֹסֵי's position and what constitutes payment.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַף בָּרִאשׁוֹנָה, הֲלָכָה כְּמוֹתוֹ אוֹ אֵין הֲלָכָה כְּמוֹתוֹ?",
+          "english": "Also in the first, is the law like him or is the law not like him?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: חָלוּק הָיָה רַבִּי יוֹסֵי אַף בָּרִאשׁוֹנָה,",
+          "english": "He said to him: Rabbi Yose was divided also in the first,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲלָכָה כְּמוֹתוֹ אַף בָּרִאשׁוֹנָה.",
+          "english": "And the law is like him also in the first."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אַף בָּרִאשׁוֹנָה, הֲלָכָה כְּמוֹתוֹ אוֹ אֵין הֲלָכָה כְּמוֹתוֹ? אֲמַר לֵיהּ: חָלוּק הָיָה רַבִּי יוֹסֵי אַף בָּרִאשׁוֹנָה, וַהֲלָכָה כְּמוֹתוֹ אַף בָּרִאשׁוֹנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "first_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:1:1",
+            "hebrew": "אף בראשונה - בשילם ולא רצה לישבע כיצד זה נותן לתוך כיסו כפילו של זה אלא יחזיר הכפל לבעלים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the first case in question involves a scenario where the defendant paid the double payment but refused to take an oath, and according to רַבִּי יוֹסֵי, the money should be returned to the original owner."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "רַבִּי אֶלְעָזָר וְרַבִּי יוֹחָנָן",
+      "stepSummary": "The Gemara presents two opposing views: רַבִּי אֶלְעָזָר says רַבִּי יוֹסֵי disagreed in the first case, while רַבִּי יוֹחָנָן says רַבִּי יוֹסֵי conceded in the first case because payment was made.",
+      "whatsHappening": "The Gemara introduces a second set of opinions (אימא נמי) that directly contradict each other regarding רַבִּי יוֹסֵי's stance in the first case.",
+      "deeperAnalysis": "רַבִּי אֶלְעָזָר aligns with the opening ruling (step 1), asserting רַבִּי יוֹסֵי חָלוּק. רַבִּי יוֹחָנָן, however, claims רַבִּי יוֹסֵי מוֹדֶה (conceded) in the first case, with the reason being שֶׁכְּבָר שִׁילֵּם (payment was already made). This creates a tension: if רַבִּי יוֹסֵי conceded, why did the opening ruling say he disagreed?",
+      "keyTerms": [
+        {
+          "term": "מוֹדֶה",
+          "meaning": "conceded / agreed"
+        },
+        {
+          "term": "שִׁילֵּם",
+          "meaning": "paid"
+        }
+      ],
+      "whatToRemember": "רַבִּי יוֹחָנָן's view introduces the concept of payment (שִׁילֵּם) as the reason for רַבִּי יוֹסֵי's concession.",
+      "whyThisMatters": "This sets up the central question of the sugya: what does רַבִּי יוֹחָנָן mean by 'payment'?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִתְּמַר נָמֵי. אָמַר רַבִּי אֶלְעָזָר:",
+          "english": "It was also stated. Said Rabbi Elazar:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "חָלוּק הָיָה רַבִּי יוֹסֵי אַף בָּרִאשׁוֹנָה,",
+          "english": "Rabbi Yose was in disagreement also in the first [case],"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲלָכָה כְּמוֹתוֹ אַף בָּרִאשׁוֹנָה.",
+          "english": "and the law is like him also in the first [case]."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר:",
+          "english": "And Rabbi Yochanan said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מוֹדֶה הָיָה רַבִּי יוֹסֵי בָּרִאשׁוֹנָה שֶׁכְּבָר שִׁילֵּם.",
+          "english": "Rabbi Yose conceded in the first [case] that he had already paid."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אִתְּמַר נָמֵי. אָמַר רַבִּי אֶלְעָזָר: חָלוּק הָיָה רַבִּי יוֹסֵי אַף בָּרִאשׁוֹנָה, וַהֲלָכָה כְּמוֹתוֹ אַף בָּרִאשׁוֹנָה. וְרַבִּי יוֹחָנָן אָמַר: מוֹדֶה הָיָה רַבִּי יוֹסֵי בָּרִאשׁוֹנָה שֶׁכְּבָר שִׁילֵּם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:2:1",
+            "hebrew": "שכבר שילם - קודם שנמצא הגנב וקנה כפל כדאמר מעיקרא אדעתא דהכי אתאי לידיה:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבִּי יוֹחָנָן's statement that רַבִּי יוֹסֵי מוֹדֶה is based on the fact that the thief had already paid the double penalty before being found, meaning the owner acquired the double payment from the outset."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "שִׁילֵּם – אִין, לֹא שִׁילֵּם – לָא?",
+      "stepSummary": "The Gemara challenges רַבִּי יוֹחָנָן's statement by asking if his concession depends strictly on actual payment.",
+      "whatsHappening": "The Gemara presses on רַבִּי יוֹחָנָן's wording, asking if the concession is conditional on actual payment.",
+      "deeperAnalysis": "The Gemara interprets רַבִּי יוֹחָנָן's statement literally: if payment was made, רַבִּי יוֹסֵי concedes; if not, he does not. This sets up a difficulty because the next line will show that רַבִּי יוֹחָנָן actually holds that a promise to pay suffices.",
+      "keyTerms": [
+        {
+          "term": "שִׁילֵּם",
+          "meaning": "paid"
+        }
+      ],
+      "whatToRemember": "The Gemara is testing the literal meaning of שִׁילֵּם.",
+      "whyThisMatters": "This question forces the Gemara to clarify what רַבִּי יוֹחָנָן means by 'payment'.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שִׁילֵּם – אִין, לֹא שִׁילֵּם – לָא?",
+          "english": "Paid – yes, not paid – no?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָאָמַר רַבִּי חִיָּיא בַּר אַבָּא אָמַר רַבִּי יוֹחָנָן:",
+          "english": "And Rabbi Chiya bar Abba said that Rabbi Yochanan said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא ״שִׁילֵּם״ שִׁילֵּם מַמָּשׁ,",
+          "english": "Not 'paid' actually paid,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא כֵּיוָן שֶׁאָמַר ״הֲרֵינִי מְשַׁלֵּם״ אַף",
+          "english": "but rather since he said 'Behold, I will pay' even"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "עַל פִּי שֶׁלֹּא שִׁילֵּם. אֵימָא:",
+          "english": "although he did not pay. Let us say:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מוֹדֶה הָיָה רַבִּי יוֹסֵי בָּרִאשׁוֹנָה שֶׁכְּבָר",
+          "english": "Rabbi Yose conceded at first that the one who"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמַר ״הֲרֵינִי מְשַׁלֵּם״.",
+          "english": "said 'Behold, I will pay'."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "שִׁילֵּם – אִין, לֹא שִׁילֵּם – לָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's ruling on a thief or depositary who does not know which of two claimants is the owner",
+      "stepSummary": "The Mishna teaches that a thief or depositary who admits to taking money from one of two claimants but does not know which one must pay both, because he admitted with his own mouth.",
+      "whatsHappening": "The Mishna introduces the case of a thief or depositary who does not know which of two claimants is the owner.",
+      "deeperAnalysis": "The Mishna establishes the principle that when a person admits to taking money from one of two claimants but does not know which one, he must pay both. This is because he admitted with his own mouth that he took money from one of them, and since he cannot specify which one, he must pay both to ensure that the rightful owner is compensated.",
+      "keyTerms": [
+        {
+          "term": "גָּזַלְתִּי",
+          "meaning": "I robbed"
+        },
+        {
+          "term": "הִפְקִיד",
+          "meaning": "deposited"
+        },
+        {
+          "term": "הוֹדָה מִפִּי עַצְמוֹ",
+          "meaning": "admitted with his own mouth"
+        }
+      ],
+      "whatToRemember": "The principle of הודאה מפי עצמו applies when the defendant admits to taking money from one of two claimants but does not know which one.",
+      "confusionAlert": "The Mishna's ruling seems to penalize the defendant for his uncertainty, but this is necessary to ensure that the rightful owner is compensated.",
+      "whyThisMatters": "This principle is foundational for understanding how the Mishna handles cases of uncertainty in financial disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אָמַר לִשְׁנַיִם:",
+          "english": "The Mishnah states for two:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם.",
+          "english": "I robbed from one of you a maneh and I do not know which of you."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ: אָבִיו שֶׁל אֶחָד מִכֶּם הִפְקִיד לִי",
+          "english": "Or: The father of one of you deposited for me"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה הוּא –",
+          "english": "a maneh and I do not know which one he is –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה,",
+          "english": "He gives to this one a maneh and to this one a maneh,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שֶׁהוֹדָה מִפִּי עַצְמוֹ.",
+          "english": "because he admitted from his own mouth."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אָמַר לִשְׁנַיִם: גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "first_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:4:1",
+            "hebrew": "מתני' שהודה מפי עצמו - הואיל והודה מפי עצמו ובגמ' מפרש טעמא מה הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's ruling is based on the principle of הודאה מפי עצמו, and the Gemara will explain the underlying reason for this law."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's ruling on two depositors who both claim the larger deposit",
+      "stepSummary": "The Mishna teaches that when two people deposit money with one person, and both claim the larger deposit, the depositary must give each a maneh and the remainder is set aside until Eliyahu comes.",
+      "whatsHappening": "The Mishna introduces a second case involving two depositors who both claim the larger deposit.",
+      "deeperAnalysis": "The Mishna establishes that when two people deposit money with one person, and both claim the larger deposit, the depositary must give each a maneh and the remainder is set aside until Eliyahu comes. This ruling ensures that neither claimant is unfairly disadvantaged, and the uncertainty is resolved by setting aside the remainder until a definitive resolution can be made.",
+      "keyTerms": [
+        {
+          "term": "הִפְקִידוּ",
+          "meaning": "deposited"
+        },
+        {
+          "term": "מָנֶה",
+          "meaning": "a maneh"
+        },
+        {
+          "term": "מָאתַיִם",
+          "meaning": "two hundred zuz"
+        },
+        {
+          "term": "הַשְּׁאָר יְהֵא מוּנָח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "the remainder shall be set aside until Eliyahu comes"
+        }
+      ],
+      "whatToRemember": "The principle of setting aside the remainder until Eliyahu comes applies when there is uncertainty about which claimant is the rightful owner.",
+      "confusionAlert": "The Mishna's ruling seems to leave the matter unresolved, but this is necessary to ensure fairness in cases of uncertainty.",
+      "whyThisMatters": "This principle is foundational for understanding how the Mishna handles cases of uncertainty in financial disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "שְׁנַיִם שֶׁהִפְקִידוּ אֵצֶל אֶחָד, זֶה מָנֶה וְזֶה מָאתַיִם.",
+          "english": "Two who deposited with one, this one a maneh and this one two hundred."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "זֶה אוֹמֵר: שֶׁלִּי מָאתַיִם, וְזֶה אוֹמֵר: שֶׁלִּי מָאתַיִם.",
+          "english": "This one says: Mine is two hundred, and this one says: Mine is two hundred."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה,",
+          "english": "He gives to this one a maneh and to this one a maneh,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "And the remainder shall be left until Eliyahu comes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "שְׁנַיִם שֶׁהִפְקִידוּ אֵצֶל אֶחָד, זֶה מָנֶה וְזֶה מָאתַיִם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:5:1",
+            "hebrew": "זה אומר מאתים שלי - לאחר זמן כשבאו ליטול פקדונן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the dispute arises when the depositors come to collect their deposits after some time has passed."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Rabbi Yose's objection regarding the loss of the swindler",
+      "stepSummary": "Rabbi Yose objects to the Mishna's ruling, arguing that if the depositary pays both claimants, the swindler does not lose anything, and therefore everything should be set aside until Eliyahu comes.",
+      "whatsHappening": "Rabbi Yose objects to the Mishna's ruling, arguing that the swindler does not lose anything if the depositary pays both claimants.",
+      "deeperAnalysis": "Rabbi Yose challenges the Mishna's ruling by pointing out that if the depositary pays both claimants, the swindler does not lose anything. This is because the swindler can claim the larger deposit, and if the depositary pays both claimants, the swindler still gets the larger deposit. Therefore, Rabbi Yose argues that everything should be set aside until Eliyahu comes to ensure that the swindler does not benefit from his deception.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹסֵי",
+          "meaning": "Rabbi Yose"
+        },
+        {
+          "term": "הִפְסִיד",
+          "meaning": "lost"
+        },
+        {
+          "term": "הָרַמַאי",
+          "meaning": "the swindler"
+        },
+        {
+          "term": "הַכֹּל יְהֵא מוּנָח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "everything shall be set aside until Eliyahu comes"
+        }
+      ],
+      "whatToRemember": "Rabbi Yose's objection highlights the concern that the swindler should not benefit from his deception.",
+      "confusionAlert": "Rabbi Yose's objection seems to contradict the Mishna's ruling, but it is based on the principle that the swindler should not benefit from his deception.",
+      "whyThisMatters": "This objection is foundational for understanding how the Mishna handles cases of deception and uncertainty in financial disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבִּי יוֹסֵי: אִם כֵּן, מָה הִפְסִיד הָרַמַּאי?",
+          "english": "Said Rabbi Yose: If so, what did the deceiver lose?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא הַכֹּל יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "Rather, everything shall be put aside until Eliyahu comes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבִּי יוֹסֵי: אִם כֵּן, מָה הִפְסִיד הָרַמַאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        7
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:6:1",
+            "hebrew": "מה הפסיד הרמאי - אם כן לא יודה לעולם על האמת:",
+            "english": "",
+            "takeaway": "רש״י explains that the swindler loses the opportunity to admit the truth and thereby avoid the oath, since the depositary's payment to both claimants removes the incentive for confession."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's ruling on two vessels of different values",
+      "stepSummary": "The Mishna teaches that when two people claim two vessels of different values, the depositary must give the smaller vessel to one and the value of the smaller vessel from the larger one to the other, and the remainder is set aside until Eliyahu comes.",
+      "whatsHappening": "The Mishna introduces a third case involving two vessels of different values.",
+      "deeperAnalysis": "The Mishna establishes that when two people claim two vessels of different values, the depositary must give the smaller vessel to one and the value of the smaller vessel from the larger one to the other, and the remainder is set aside until Eliyahu comes. This ruling ensures that neither claimant is unfairly disadvantaged, and the uncertainty is resolved by setting aside the remainder until a definitive resolution can be made.",
+      "keyTerms": [
+        {
+          "term": "כֵּלִים",
+          "meaning": "vessels"
+        },
+        {
+          "term": "יָפֶה",
+          "meaning": "valued at"
+        },
+        {
+          "term": "הַקָּטָן",
+          "meaning": "the smaller one"
+        },
+        {
+          "term": "הַגָּדוֹל",
+          "meaning": "the larger one"
+        }
+      ],
+      "whatToRemember": "The principle of setting aside the remainder until Eliyahu comes applies when there is uncertainty about which claimant is the rightful owner.",
+      "confusionAlert": "The Mishna's ruling seems to leave the matter unresolved, but this is necessary to ensure fairness in cases of uncertainty.",
+      "whyThisMatters": "This principle is foundational for understanding how the Mishna handles cases of uncertainty in financial disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכֵן שְׁנֵי כֵלִים,",
+          "english": "And also two vessels,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶחָד יָפֶה מָנֶה,",
+          "english": "one worth a maneh,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאֶחָד יָפֶה אֶלֶף זוּז,",
+          "english": "and one worth a thousand zuz,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זֶה אוֹמֵר: יָפֶה שֶׁלִּי,",
+          "english": "this one says: mine is worth [more],"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְזֶה אוֹמֵר: יָפֶה שֶׁלִּי –",
+          "english": "and this one says: mine is worth [more] –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "נוֹתֵן אֶת הַקָּטָן לְאֶחָד מֵהֶן,",
+          "english": "he gives the small one to one of them,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמִתּוֹךְ הַגָּדוֹל נוֹתֵן דְּמֵי קָטָן לַשֵּׁנִי,",
+          "english": "and from the large one he gives the value of the small one to the…"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְהַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "and the remainder shall be set aside until Eliyahu comes."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אָמַר רַבִּי יוֹסֵי: אִם כֵּן מָה הִפְסִיד הָרַמַּאי?",
+          "english": "Rabbi Yose said: If so, what did the deceiver lose?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֶלָּא, הַכֹּל יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "Rather, everything shall be set aside until Eliyahu comes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכֵן שְׁנֵי כֵלִים, אֶחָד יָפֶה מָנֶה, וְאֶחָד יָפֶה אֶלֶף זוּז.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:7:1",
+            "hebrew": "מתוך הגדול - ישברנו:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase מתוך הגדול means the larger vessel is broken to extract the value of the smaller one."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "הוצאת ממון מספק",
+      "stepSummary": "The גמרא concludes from the previous sugya that money is extracted in cases of doubt, rejecting the principle that money remains with its current owner.",
+      "whatsHappening": "The גמרא states a conclusion derived from the previous discussion.",
+      "deeperAnalysis": "The גמרא asserts that the previous ruling implies we extract money even in cases of doubt (מִסְּפֵיקָא מַפְּקִינַן מָמוֹנָא). This directly challenges the general principle that money should remain in the possession of its current owner (אוֹקֵי מָמוֹנָא בְּחֶזְקַת מָרֵיהּ).",
+      "keyTerms": [
+        {
+          "term": "מִסְּפֵיקָא",
+          "meaning": "from a doubt"
+        },
+        {
+          "term": "מַפְּקִינַן מָמוֹנָא",
+          "meaning": "we extract money"
+        },
+        {
+          "term": "אוֹקֵי מָמוֹנָא בְּחֶזְקַת מָרֵיהּ",
+          "meaning": "let the money stand in the possession of its owner"
+        }
+      ],
+      "whatToRemember": "This is the central claim of the sugya: does doubt trigger extraction or retention?",
+      "whyThisMatters": "This sets up the entire sugya's investigation into the limits of extracting money in cases of doubt.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ אַלְמָא מִסְּפֵיקָא מַפְּקִינַן מָמוֹנָא,",
+          "english": "Apparently, then, we extract money from a doubt,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָא אָמְרִינַן: אוֹקֵי מָמוֹנָא בְּחֶזְקַת מָרֵיהּ.",
+          "english": "and we do not say: let the money stand in the possession of its owner."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ אַלְמָא מִסְּפֵיקָא מַפְּקִינַן מָמוֹנָא, וְלָא אָמְרִינַן: אוֹקֵי מָמוֹנָא בְּחֶזְקַת מָרֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_from_previous_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:8:1",
+            "hebrew": "גמ' מספיקא מפקי' ממונא - דקתני נותן לזה מנה ולזה מנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the principle of extracting money from doubt (מִסְּפֵיקָא מַפְּקִינַן מָמוֹנָא) is derived from the Mishna's ruling that the defendant pays both claimants."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:8:2",
+            "hebrew": "ולא אמרינן - כשזה תובע וזה אומר איני יודע אם לך אם לחברך אוקי ממונא בחזקת נתבע זה שלא נפסידנו ממונו ויהא מונח עד שיבא אליהו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the counter-argument of leaving money in the defendant's possession (אוֹקֵי מָמוֹנָא בְּחֶזְקַת מָרֵיהּ) applies when the defendant claims ignorance about which claimant is rightful, but here the defendant admits to owing money, so the doubt is not about ownership but about distribution."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah on deposits",
+      "stepSummary": "The גמרא challenges the previous conclusion by citing a Mishnah where money is not extracted in a case of doubt regarding a deposit.",
+      "whatsHappening": "The גמרא raises a קושיא from a Mishnah about disputed deposits. This is a setup line introducing a contradictory source.",
+      "deeperAnalysis": "The Mishnah rules that when two people claim a deposit, the certain amount is split and the rest is left until אֵלִיָּהוּ comes. This implies that in cases of doubt, money is not extracted, directly contradicting the previous conclusion that money is extracted in theft cases.",
+      "keyTerms": [
+        {
+          "term": "פִּקָּדוֹן",
+          "meaning": "deposit"
+        },
+        {
+          "term": "יְהֵא מוּנָח עַד שֶׁיָּבֹא אֵלִיָּהוּ",
+          "meaning": "shall be put aside until Eliyahu comes"
+        }
+      ],
+      "whatToRemember": "The Mishnah teaches that in a deposit dispute with doubt, the money is not extracted.",
+      "whyThisMatters": "This forces the גמרא to distinguish between different types of doubt or cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּרְמִינְהִי: שְׁנַיִם שֶׁהִפְקִידוּ אֵצֶל אֶחָד,",
+          "english": "And we raise an objection: Two who deposited with one,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "זֶה מָנֶה וְזֶה מָאתַיִם,",
+          "english": "this one a maneh and this one two hundred,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "זֶה אוֹמֵר ״שֶׁלִּי מָאתַיִם״ וְזֶה אוֹמֵר",
+          "english": "this one says 'mine is two hundred' and this one says"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״שֶׁלִּי מָאתַיִם״ –",
+          "english": "'mine is two hundred' –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה,",
+          "english": "he gives to this one a maneh and to this one a maneh,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְהַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+          "english": "and the remainder shall be placed until Eliyahu comes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִינְהִי: שְׁנַיִם שֶׁהִפְקִידוּ אֵצֶל אֶחָד, זֶה מָנֶה וְזֶה מָאתַיִם, זֶה אוֹמֵר ״שֶׁלִּי מָאתַיִם״ וְזֶה אוֹמֵר ״שֶׁלִּי מָאתַיִם״ – נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה, וְהַשְּׁאָר יְהֵא מוּנָּח עַד שֶׁיָּבֹא אֵלִיָּהוּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step"
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "Distinction between theft and deposit",
+      "stepSummary": "The גמרא resolves the challenge by distinguishing between theft, where a prohibition was violated, and deposit, where no prohibition was violated.",
+      "whatsHappening": "The גמרא offers a תירוץ to resolve the objection. This is a resolution step.",
+      "deeperAnalysis": "The resolution distinguishes between theft (גָּזֵל), where a prohibition was violated, and a deposit (פִּקָּדוֹן), where no prohibition was violated. In theft cases, the rabbis imposed a penalty (קַנְסוּהּ רַבָּנַן), explaining why money is extracted there but not in deposit cases.",
+      "keyTerms": [
+        {
+          "term": "גָּזֵל",
+          "meaning": "theft"
+        },
+        {
+          "term": "קַנְסוּהּ רַבָּנַן",
+          "meaning": "the rabbis penalized him"
+        }
+      ],
+      "whatToRemember": "The key distinction is whether a prohibition was violated.",
+      "whyThisMatters": "This introduces the concept of קנס as a reason for extracting money in cases of doubt.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: פִּקָּדוֹן אַגָּזֵל קָא רָמֵית,",
+          "english": "He said to him: A deposit you are objecting from theft,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "גָּזֵל דַּעֲבַד אִיסּוּרָא – קַנְסוּהּ רַבָּנַן,",
+          "english": "A theft that did a prohibition – the rabbis penalized it,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "פִּקָּדוֹן דְּלָא עֲבַד אִיסּוּרָא –",
+          "english": "A deposit that did not do a prohibition –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא קַנְסוּהּ רַבָּנַן.",
+          "english": "The rabbis did not penalize it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: פִּקָּדוֹן אַגָּזֵל קָא רָמֵית, גָּזֵל דַּעֲבַד אִיסּוּרָא – קַנְסוּהּ רַבָּנַן, פִּקָּדוֹן דְּלָא עֲבַד אִיסּוּרָא – לָא קַנְסוּהּ רַבָּנַן.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step"
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from deposit to deposit and theft to theft",
+      "stepSummary": "The גמרא challenges the previous resolution by citing Mishnayot that contradict it within the same categories.",
+      "whatsHappening": "The גמרא raises a new קושיא. This is a setup line introducing a deeper contradiction.",
+      "deeperAnalysis": "The גמרא argues that the previous resolution is insufficient. It cites a Mishnah about a deposit where the guardian doesn't know which of two people deposited money, and the ruling is to pay both. This contradicts the idea that deposits are never penalized. It also sets up a challenge from theft to theft.",
+      "keyTerms": [
+        {
+          "term": "רֵישָׁא",
+          "meaning": "the beginning [of the Mishnah]"
+        },
+        {
+          "term": "סֵיפָא",
+          "meaning": "the end [of the Mishnah]"
+        }
+      ],
+      "whatToRemember": "The גמרא is pressing for a more nuanced distinction.",
+      "whyThisMatters": "This forces the גמרא to refine the distinction between cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּרְמִי פִּקָּדוֹן אַפִּקָּדוֹן, וּרְמִי גָּזֵל אַגָּזֵל.",
+          "english": "And raise a deposit against a deposit, and raise a theft against a theft."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "פִּקָּדוֹן אַפִּקְדוֹן, דְּקָתָנֵי רֵישָׁא:",
+          "english": "Deposit against deposit, as it is taught in the beginning:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ אָבִיו שֶׁל אֶחָד מִכֶּם הִפְקִיד אֶצְלִי מָנֶה,",
+          "english": "Or the father of one of you deposited with me a maneh,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵינִי יוֹדֵעַ אֵיזֶה הוּא נוֹתֵן לָזֶה",
+          "english": "and I do not know which one gives to this"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָנֶה וְלָזֶה מָנֶה.",
+          "english": "a maneh and to this a maneh."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּרְמִינְהִי: שְׁנַיִם שֶׁהִפְקִידוּ וְכוּ׳!",
+          "english": "And they raise it: Two who deposited etc.!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִי פִּקָּדוֹן אַפִּקָּדוֹן, וּרְמִי גָּזֵל אַגָּזֵל. פִּקָּדוֹן אַפִּקְדוֹן, דְּקָתָנֵי רֵישָׁא: אוֹ אָבִיו שֶׁל אֶחָד מִכֶּם הִפְקִיד אֶצְלִי מָנֶה, וְאֵינִי יוֹדֵעַ אֵיזֶה הוּא נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה. וּרְמִינְהִי: שְׁנַיִם שֶׁהִפְקִידוּ וְכוּ׳!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:11:1",
+            "hebrew": "רישא - דחד גברא הפקיד אצלו והוה ליה כשנים שהפקידו אצלו בשני כריכות כלומר זה שלא בפני זה דה\"ל למידק מי הפקיד אצלו מנה ומי מאתים:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah in the רישא refers to a single person who deposited money, which is analogous to two people depositing in separate bundles, meaning the guardian should have investigated to determine who deposited what amount."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "Rava's distinction between two bundles and one bundle",
+      "stepSummary": "Rava resolves the challenge by distinguishing between cases where the guardian should have checked and cases where he did not need to check.",
+      "whatsHappening": "Rava offers a תירוץ to resolve the objection. This is a resolution step.",
+      "deeperAnalysis": "Rava explains that the first case (רֵישָׁא) involves two separate bundles (בִּשְׁנֵי כְרִיכוֹת), where the guardian should have checked which deposit belonged to whom. The second case (סֵיפָא) involves one bundle (בְּכֶרֶךְ אֶחָד), where the guardian did not need to check, especially if both deposited together. This explains why the rulings differ.",
+      "keyTerms": [
+        {
+          "term": "כְרִיכוֹת",
+          "meaning": "bundles"
+        },
+        {
+          "term": "לְמֵידַק",
+          "meaning": "to check/investigate"
+        }
+      ],
+      "whatToRemember": "The key distinction is whether the guardian had the opportunity to check.",
+      "whyThisMatters": "This introduces the concept of negligence as a factor in extracting money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא:",
+          "english": "Said Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רֵישָׁא נַעֲשָׂה כְּמִי שֶׁהִפְקִידוּ לוֹ בִּשְׁנֵי כְרִיכוֹת,",
+          "english": "The beginning [is] as one who deposited for him in two bundles,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּהֲוָה לֵיהּ לְמֵידַק.",
+          "english": "that he had to check."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "סֵיפָא נַעֲשָׂה כְּמִי שֶׁהִפְקִידוּ לוֹ בְּכֶרֶךְ אֶחָד,",
+          "english": "The end [is] as one who deposited for him in one bundle,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּלָא הֲוָה לֵיהּ לְמֵידַק,",
+          "english": "that he did not have to check,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כְּגוֹן דְּאַפְקִידוּ תַּרְוַיְיהוּ בַּהֲדֵי הֲדָדֵי בְּחַד זִימְנָא,",
+          "english": "such as that they deposited both together at one time,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּאָמַר לְהוּ: אַנְתְּ גּוּפַיְיכוּ לָא קָפְדִיתוּ אַהֲדָדֵי,",
+          "english": "that he said to them: You yourselves were not particular with each other,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲנָא קָפֵידְנָא?",
+          "english": "I am particular?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: רֵישָׁא נַעֲשָׂה כְּמִי שֶׁהִפְקִידוּ לוֹ בִּשְׁנֵי כְרִיכוֹת, דַּהֲוָה לֵיהּ לְמֵידַק. סֵיפָא נַעֲשָׂה כְּמִי שֶׁהִפְקִידוּ לוֹ בְּכֶרֶךְ אֶחָד, דְּלָא הֲוָה לֵיהּ לְמֵידַק, כְּגוֹן דְּאַפְקִידוּ תַּרְוַיְיהוּ בַּהֲדֵי הֲדָדֵי בְּחַד זִימְנָא, דְּאָמַר לְהוּ: אַנְתְּ גּוּפַיְיכוּ לָא קָפְדִיתוּ אַהֲדָדֵי, אֲנָא קָפֵידְנָא?",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:12:1",
+            "hebrew": "סיפא - שהפקידו לו שניהם זה בפני זה ה\"ל כמי שנאמנים זה על זה להפקיד שני פקדונותם בצרור אחד דלית ליה למידק מה יש לזה בתוכו ומה יש לחבירו ואע\"ג דלא כרך אחד הוה מיהו כיון שהפקידו זה בפני זה גילו דעתן שלא חשדו זה את זה לומר שמא חבירו יתבע המאתים:",
+            "english": "",
+            "takeaway": "רש״י explains that in the second case (סֵיפָא), the two depositors placed their items together in front of each other, thereby demonstrating mutual trust and indicating that neither suspected the other of falsely claiming the deposit, so the guardian was not required to investigate the contents of each person's portion."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from theft to theft",
+      "stepSummary": "The גמרא challenges the previous resolution by citing a Mishnah about theft that contradicts it.",
+      "whatsHappening": "The גמרא raises a new קושיא. This is a setup line introducing a contradiction within theft cases.",
+      "deeperAnalysis": "The גמרא cites a Mishnah where a thief stole from one of five people but doesn't know which one. The ruling is to leave the stolen object among them and withdraw. This implies that in cases of theft, money is NOT extracted, contradicting the previous conclusion that theft cases are penalized.",
+      "keyTerms": [
+        {
+          "term": "גָּזַל אֶחָד מֵחֲמִשָּׁה",
+          "meaning": "one stole from one of five"
+        },
+        {
+          "term": "מַנִּיחַ גְּזֵלָה בֵּינֵיהֶם וּמִסְתַּלֵּק",
+          "meaning": "he places the stolen object among them and withdraws"
+        }
+      ],
+      "whatToRemember": "The Mishnah teaches that in a theft dispute with doubt, the money is not extracted.",
+      "whyThisMatters": "This forces the גמרא to refine the distinction between theft cases.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּרְמִי גָּזֵל אַגָּזֵל, קָתָנֵי הָכָא:",
+          "english": "And raise an objection from a theft to a theft, we learned here:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לִשְׁנַיִם גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה",
+          "english": "He said to two: I robbed one of you a maneh"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם,",
+          "english": "and I do not know which of you,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אוֹ אָבִיו שֶׁל אֶחָד מִכֶּם הִפְקִיד",
+          "english": "or the father of one of you deposited"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לִי מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה הוּא",
+          "english": "with me a maneh and I do not know which one it is"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "– נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה.",
+          "english": "– he gives to this one a maneh and to this one a maneh."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּרְמִינְהִי: גָּזַל אֶחָד מֵחֲמִשָּׁה,",
+          "english": "And they raise an objection: He robbed one of five,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאֵינוֹ יוֹדֵעַ אֵיזֶה מֵהֶן גָּזַל,",
+          "english": "and he does not know which of them he robbed,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "זֶה אוֹמֵר: אוֹתִי גָּזַל,",
+          "english": "this one says: Me he robbed,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְזֶה אוֹמֵר: אוֹתִי גָּזַל,",
+          "english": "and this one says: Me he robbed,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "מַנִּיחַ גְּזֵילָה בֵּינֵיהֶם וּמִסְתַּלֵּק,",
+          "english": "he places the stolen money among them and withdraws,"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "דִּבְרֵי רַבִּי טַרְפוֹן.",
+          "english": "words of Rabbi Tarfon."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אַלְמָא מִסְּפֵקָא לָא מַפְּקִינַן מָמוֹנָא,",
+          "english": "Apparently, from a doubt we do not extract money,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְאָמְרִינַן: אוֹקֵים מָמוֹנָא בְּחֶזְקַת מָרֵיהּ.",
+          "english": "and we say: Let money stand in the possession of its master."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִי גָּזֵל אַגָּזֵל, קָתָנֵי הָכָא: אֲמַר לִשְׁנַיִם גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם, אוֹ אָבִיו שֶׁל אֶחָד מִכֶּם הִפְקִיד לִי מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה הוּא – נוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה. וּרְמִינְהִי: גָּזַל אֶחָד מֵחֲמִשָּׁה, וְאֵינוֹ יוֹדֵעַ אֵיזֶה מֵהֶן גָּזַל, זֶה אוֹמֵר: אוֹתִי גָּזַל, וְזֶה אוֹמֵר: אוֹתִי גָּזַל, מַנִּיחַ גְּזֵילָה בֵּינֵיהֶם וּמִסְתַּלֵּק, דִּבְרֵי רַבִּי טַרְפוֹן. אַלְמָא מִסְּפֵיקָא לָא מַפְּקִינַן מָמוֹנָא, וְאָמְרִינַן: אוֹקֵים מָמוֹנָא בְּחֶזְקַת מָרֵיהּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 37a:14:1",
+            "hebrew": "גזל מחמשה - לא שייך הך פלוגתא לפלוגתא דרבי יוחנן ורב הונא דפ' השואל (לקמן בבא מציעא דף צז:) בברי ושמא דאפי' לר\"ט דאמר מניח גזילה ביניהם היינו משום דיודע בודאי שלא גזל לכולם רק לאחד אבל ברי ושמא יודה דברי עדיף ואפי' לר\"ע דאמר ישלם לכל אחד ואחד היינו משום שיודע בודאי שהוא חייב לאחד מהם אבל גבי ברי ושמא יודה דפטור שאינו יודע שהוא חייב כלל:",
+            "english": "",
+            "takeaway": "תוספות explains that the dispute between רבי יוחנן and רב הונא regarding ברי ושמא does not apply here, because even רבי טרפון admits that in a case of ברי ושמא, the one who admits is exempt, whereas in this case the thief knows for certain he stole from one of them."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Distinction between being sued and coming to fulfill an obligation to Heaven",
+      "stepSummary": "The גמרא resolves the challenge by distinguishing between cases where the thief is being sued and cases where he is voluntarily fulfilling an obligation.",
+      "whatsHappening": "The גמרא offers a תירוץ to resolve the objection. This is a resolution step.",
+      "deeperAnalysis": "The resolution distinguishes between a case where the thief is being sued (דְּקָא תָבְעִי לֵיהּ) and a case where he is voluntarily fulfilling an obligation to Heaven (בָּא לָצֵאת יְדֵי שָׁמַיִם). The latter Mishnah states that he admitted it with his own mouth (שֶׁהוֹדָה מִפִּי עַצְמוֹ), indicating a voluntary act.",
+      "keyTerms": [
+        {
+          "term": "תָבְעִי לֵיהּ",
+          "meaning": "they sued him"
+        },
+        {
+          "term": "בָּא לָצֵאת יְדֵי שָׁמַיִם",
+          "meaning": "he came to fulfill [his obligation] to the Heavens"
+        },
+        {
+          "term": "הוֹדָה מִפִּי עַצְמוֹ",
+          "meaning": "he admitted [it] with his own mouth"
+        }
+      ],
+      "whatToRemember": "The key distinction is whether the thief is being sued or acting voluntarily.",
+      "whyThisMatters": "This introduces the concept of voluntary fulfillment as a factor in extracting money.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִמַּאי דְּמַתְנִיתִין דְּהָכָא רַבִּי טַרְפוֹן הִיא?",
+          "english": "And from what [do you know] that the mishnah of here is [also the position…"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּקָתָנֵי עֲלַהּ דְּהַהִיא מוֹדֶה רַבִּי טַרְפוֹן",
+          "english": "Since it was taught about [that mishnah], 'Rabbi Tarfon concedes when someone said to two…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּאוֹמֵר לִשְׁנַיִם גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה",
+          "english": "In that case, they sued him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם שֶׁנּוֹתֵן לָזֶה",
+          "english": "Here, he has come to fulfill [his obligation] to the Heavens."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָנֶה וְלָזֶה מָנֶה.",
+          "english": "[This answer] is also precise, as [in our mishnah, the reason for the verdict that]…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "הָתָם דְּקָא תָבְעִי לֵיהּ,",
+          "english": "It is inferred from this [that this is a case wherein he was willing to…"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הָכָא בְּבָא לָצֵאת יְדֵי שָׁמַיִם.",
+          "english": "answer] is also precise, as [in our mishnah, the reason for the verdict that] is taught [is], \"as"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דַּיְקָא נָמֵי דְּקָתָנֵי: שֶׁהוֹדָה מִפִּי עַצְמוֹ. שְׁמַע מִינַּהּ.",
+          "english": "he admitted [it] with his own mouth.\" It is inferred from this [that this is a case wherein he was willing to do more than just his obligation]."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִמַּאי דְּמַתְנִיתִין דְּהָכָא רַבִּי טַרְפוֹן הִיא? דְּקָתָנֵי עֲלַהּ דְּהַהִיא מוֹדֶה רַבִּי טַרְפוֹן בְּאוֹמֵר לִשְׁנַיִם גָּזַלְתִּי לְאֶחָד מִכֶּם מָנֶה וְאֵינִי יוֹדֵעַ אֵיזֶה מִכֶּם שֶׁנוֹתֵן לָזֶה מָנֶה וְלָזֶה מָנֶה. הָתָם דְּקָא תָבְעִי לֵיהּ, הָכָא בְּבָא לָצֵאת יְדֵי שָׁמַיִם. דַּיְקָא נָמֵי דְּקָתָנֵי: שֶׁהוֹדָה מִפִּי עַצְמוֹ. שְׁמַע מִינַהּ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:15:1",
+            "hebrew": "ומתני' דהכא ממאי דר\"ט היא - דתקשי לך דלמא ר\"ע היא דפליג נמי בההיא ואומר לא זו הדרך מוציאתו מידי עבירה עד שישלם גזילה לכל אחד ואחד:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara asks 'ממאי דר"
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 37a:15:1",
+            "hebrew": "דקתני עלה ומודה ר\"ט - ה\"ה דה\"מ למפרך מברייתא אמאי מודה אלא ניחא ליה למפרך ממתניתין דיבמות אמתניתין:",
+            "english": "",
+            "takeaway": "תוספות notes that the Gemara could have objected from the ברייתא, but prefers to object from one Mishnah to another."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 37a:16:1",
+            "hebrew": "התם דקא תבעי ליה הכא בבא לצאת ידי שמים - לכאורה נראה דהשתא לא צריך לשינויי קמאי דאין חילוק בין כרך אחד לב' כריכות ורישא דנותן מנה לזה ומנה לזה בבא לצאת ידי שמים וסיפא דקתבעי ליה יהא מונח אך מדלא קאמר אלא התם דקא תבעי ליה משמע דלא הדר משנוייא קמא וכן לקמן (בבא מציעא לז ע\"ב) דפריך נמי ומי אמר רבא בב' כריכות ה\"ל למידק משמע דלא הדר ביה לכך נראה דכולה מתני' איירי בבא לצאת ידי שמים ולכך ברישא דהוה ליה למידק נותן לזה מנה ולזה מנה בבא לצאת ידי שמים וסיפא דבכרך אחד כיון דלא ה\"ל למידק אפילו בבא לצאת ידי שמים אינו חייב ולרבי טרפון נקט ברישא אביו של אחד מכם ולא נקט אחד מכם לרבותא דאפילו שמא ושמא נותן לכל אחד ואחד בבא לצאת ידי שמים ולר\"ע נקט אביו דמשמע שמא ושמא לכך אינו חייב אלא לצאת ידי שמים כדאמר לקמן (שם) דבשמא ושמא אינו חייב לכל אחד ואחד לר\"ע מדינא ונקט אביו דאי הם עצמן הפקידו אם כן מסתמא תבעי ליה וה\"ל ברי ושמא ואפילו מדינא חייבין לר\"ע דמתניתין אתיא כר\"ע נמי דקאמר לקמן (שם) ממאי דמתני' דהכא ר\"ע היא ועוד דהלכה כר\"ע מחבירו ובסיפא דלא נקט שני אבותיכם הפקידו לרבותא לא תני הכי דאע\"ג דטענו ברי פטור אפילו לצאת ידי שמים ואפי' לר\"ע כיון דלא פשע דלא הוה ליה למידק ולא מחייב ר\"ע מדינא אלא בברי ושמא והיכא דהוה ליה למידק אבל בשמא ושמא אפי' בשני כריכות אינו חייב אלא לצאת ידי שמים והיכא דלא הוי ליה למידק פטור אפי' לצאת ידי שמים ואפילו בברי ושמא וא\"ת דבפרק הגוזל קמא (ב\"ק דף קג: ושם קד. ד\"ה שכבר) קאמר מעשה בחסיד אחד שבא לפני ר\"ט ואמר ליה הנח דמי מקחך ביניהם וכי לא בעי חסיד לצאת ידי שמים וי\"ל דר\"ט אמר ליה שכך הדין וא\"ת התם דפריך אמתניתין דקתני הגוזל מחבירו שוה פרוטה ונשבע לו יוליכנו אחריו אפילו למדי ומוקי כר\"ט כו' ומאי איריא נשבע אפי' הודה נמי דתניא מודה ר\"ט כו' ומאי פריך והא אוקמי' ברייתא דמודה ר\"ט בבא לצאת ידי שמים ומתני' דהתם מיירי מדינא וי\"ל דמתני' דהתם מיירי לצאת ידי שמים להביא קרבן וקא אמר אם רוצה להביא קרבן צריך להביא גזלו למדי דתנן הביא אשמו עד שלא הביא גזלו לא יצא לכך פריך דבלא שבועה ולא קרבן צריך להביא גזלו למדי אם רוצה לצאת ידי שמים:",
+            "english": "",
+            "takeaway": "תוספות argues that the entire Mishnah refers to a case of בָּא לָצֵאת יְדֵי שָׁמַיִם, and the distinction between the first and second clauses depends on whether the thief was obligated to investigate (לִמְדַק) the identity of the owner, which determines liability even for fulfilling an obligation to Heaven."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י maintains the Gemara's distinction that the first clause is a case of being sued (דְּקָא תָבְעִי לֵיהּ) while the second is voluntary (בָּא לָצֵאת יְדֵי שָׁמַיִם), whereas תוספות contends that the entire Mishnah deals with בָּא לָצֵאת יְדֵי שָׁמַיִם, differentiating the clauses based on the obligation to investigate."
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute of Rav Yehuda and Rav Matna on the thief's reaction",
+      "stepSummary": "The Gemara introduces a dispute between Rav Yehuda and Rav Matna regarding Rav's ruling on whether the thief in the case was silent or shouted.",
+      "whatsHappening": "The גמרא quotes a teaching from Rav regarding the thief's reaction in the case, presenting two conflicting versions. This is a setup line introducing the core dispute.",
+      "deeperAnalysis": "The גמרא cites Rav Yehuda and Rav Matna, each transmitting Rav's ruling differently. Rav Yehuda says the thief was silent (הַלָּה שׁוֹתֵק), while Rav Matna says the thief shouted (הַלָּה צוֹוֵחַ). This sets up the core dispute of the sugya.",
+      "keyTerms": [
+        {
+          "term": "הַלָּה",
+          "meaning": "the other [the thief]"
+        },
+        {
+          "term": "שׁוֹתֵק",
+          "meaning": "is silent"
+        },
+        {
+          "term": "צוֹוֵחַ",
+          "meaning": "shouts/yells"
+        },
+        {
+          "term": "רַב יְהוּדָה",
+          "meaning": "Rav Yehuda"
+        },
+        {
+          "term": "רַב מַתְנָה",
+          "meaning": "Rav Matna"
+        }
+      ],
+      "whatToRemember": "The dispute is about the thief's reaction: silence vs. shouting.",
+      "confusionAlert": "The dispute is about the thief's reaction: silence vs. shouting.",
+      "whyThisMatters": "The thief's reaction determines whether his silence is considered an admission or not, which impacts the halachic outcome.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: הָתָם דְּקָא תָבְעִי לֵיהּ.",
+          "english": "Said the Master: There he was suing him."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהַלָּה מָה טוֹעֵן?",
+          "english": "And the other, what does he claim?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַב יְהוּדָה אָמַר רַב: הַלָּה שׁוֹתֵק.",
+          "english": "Rav Yehuda said Rav: The other is silent."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "רַב מַתְנָה אָמַר רַב: הַלָּה",
+          "english": "Rav Matena said Rav: The other"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר מָר: הָתָם דְּקָא תָבְעִי לֵיהּ. וְהַלָּה מָה טוֹעֵן? רַב יְהוּדָה אָמַר רַב: הַלָּה שׁוֹתֵק. רַב מַתְנָה אָמַר רַב: הַלָּה",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 37a:17:1",
+            "hebrew": "והלה מה טוען - לכל אחד דקתני מניח גזילה ביניהם ומסתלק:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'וְהַלָּה מָה טוֹעֵן' refers to the scenario where the thief leaves the stolen item between the parties and departs, prompting the question of what claim the thief makes."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T21:19:46.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.8241696000332,
+      "structure": 2500.7851663000183,
+      "validate": 341.53876510006376,
+      "translate": 467.97660319990246,
+      "meforshim": 1608.2876229001558,
+      "teaching": 1088.4483936000615
+    }
+  }
+}

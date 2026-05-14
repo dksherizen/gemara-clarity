@@ -1,0 +1,1355 @@
+{
+  "ref": "Bava Metzia 23b",
+  "masechet": "Bava_Metzia",
+  "daf": 23,
+  "amud": "b",
+  "mainTopic": "מחרוזות של דגים · חביות של יין · ההוא גברא דאשכח כופרא",
+  "overview": "(1) The Gemara discusses whether fish hooks and meat cuts have valid simanim, concluding that number and weight are simanim, and analyzing the case of fish with a specific cut. (2) The Gemara reconciles a contradiction regarding jugs of wine and oil, discussing whether they are sealed or open, and whether location is considered a siman. (3) A case of a man who found a jug in a fence, and Rav's ruling based on the owner's despair due to the jug being damaged. (4) The Gemara explains the term 'new vessels that the eye has not been satiated with,' discussing whether they have simanim and the concept of טביעת עינא. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 4,
+      "topic": "מחרוזות של דגים",
+      "gist": "The Gemara discusses whether fish hooks and meat cuts have valid simanim, concluding that number and weight are simanim, and analyzing the case of fish with a specific cut.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 4
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 5,
+      "endLine": 8,
+      "topic": "חביות של יין",
+      "gist": "The Gemara reconciles a contradiction regarding jugs of wine and oil, discussing whether they are sealed or open, and whether location is considered a siman.",
+      "openingFormula": "null",
+      "firstStepNumber": 5,
+      "lastStepNumber": 8
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 9,
+      "endLine": 9,
+      "topic": "ההוא גברא דאשכח כופרא",
+      "gist": "A case of a man who found a jug in a fence, and Rav's ruling based on the owner's despair due to the jug being damaged.",
+      "openingFormula": "null",
+      "firstStepNumber": 9,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 10,
+      "endLine": 11,
+      "topic": "כלים חדשים שלא שבעתן העין",
+      "gist": "The Gemara explains the term 'new vessels that the eye has not been satiated with,' discussing whether they have simanim and the concept of טביעת עינא. — discussion continues into next amud.",
+      "openingFormula": "null",
+      "firstStepNumber": 10,
+      "lastStepNumber": 12
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not use the knot or number as a siman for fish hooks?",
+      "stepSummary": "The Gemara challenges the Mishnah's ruling on fish hooks by asking why the knot or the number of hooks cannot serve as valid simanim.",
+      "whatsHappening": "The גמרא opens with a direct challenge (קשיא) to the משנה's assumption that fish hooks lack valid simanim, questioning why the knot or the number of hooks isn't sufficient. This is a setup line for the broader question of whether number and weight are generally valid simanim.",
+      "deeperAnalysis": "The גמרא identifies two potential simanim: the knot (קֶשֶׁר) and the number (מִנְיָן). It anticipates the משנה's implicit answer: the knot is standard among all fishermen (בְּקִטְרָא דְּצַיָּידֵא), and the number is equal among all (בְּמִנְיָנָא דְּשָׁוִין). This sets up the broader question of whether number and weight are generally valid simanim.",
+      "keyTerms": [
+        {
+          "term": "מַחְרוֹזוֹת שֶׁל דָּגִים",
+          "meaning": "Fish hooks"
+        },
+        {
+          "term": "קֶשֶׁר",
+          "meaning": "Knot"
+        },
+        {
+          "term": "קִטְרָא",
+          "meaning": "Standard feature / common practice"
+        },
+        {
+          "term": "מִנְיָנָא דְּשָׁוִין",
+          "meaning": "Equal number"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמַחְרוֹזוֹת שֶׁל דָּגִים. אַמַּאי?",
+          "english": "And fish hooks. Why?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֶהֱוֵי קֶשֶׁר סִימָן!",
+          "english": "To be a knot as a sign!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּקִטְרָא דְּצַיָּידֵא, דְּכוּלֵּי עָלְמָא הָכִי מְקַטְּרִי.",
+          "english": "In the smoke of fishermen, all the world smokes like this."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֶהֱוֵי מִנְיָן סִימָן! בְּמִנְיָנָא דְּשָׁוִין.",
+          "english": "And to be a number as a sign! In a number that are equal."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמַחְרוֹזוֹת שֶׁל דָּגִים. אַמַּאי? לֶהֱוֵי קֶשֶׁר סִימָן!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:1:1",
+            "hebrew": "במנינא דשוין - כבר נהגו הציידין לחרוז כמנין הזה בחרוז אחד:",
+            "english": "",
+            "takeaway": "רש״י explains that the reason number is not a valid siman for fish hooks is that fishermen have a custom (נהגו) to string a specific number of hooks on a single line, making the count standard and non-unique."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:1:1",
+            "hebrew": "מחרוזות של דגים הרי אלו שלו - וה\"ה מחרוזות של בשר כדאמר בתוספתא (פ\"ב) וא\"ת והא אמר בפ' גיד הנשה (חולין דף צה: ושם ד\"ה בחרוזים) אל תהא שוטה בשר בחרוזים הוי סימן וי\"ל גבי בשר שנתעלם מן העין הקילו טפי. דאין הלכה כרב מדפריך (שם) ורב היכי אכל בשרא משמע דאנן שפיר אכלינן:",
+            "english": "",
+            "takeaway": "תוספות notes that the rule applies equally to strings of meat, but resolves a contradiction with חולין צה: by explaining that the leniency regarding meat strings is only when the meat was lost from sight (נתעלם מן העין), and clarifies that the הלכה follows the view that strings are not a valid siman, as indicated by the Gemara's criticism of רב."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "Question to Rav Sheshet: Is number a valid siman?",
+      "stepSummary": "The Gemara poses a direct question to Rav Sheshet regarding whether the number of items constitutes a valid siman.",
+      "whatsHappening": "The גמרא transitions from the specific case of fish hooks to a general halachic question directed at Rav Sheshet: does number (מִנְיָן) count as a valid siman? This is a setup line for the general rule regarding number as a siman.",
+      "deeperAnalysis": "This is a clarifying question (שאלה) rather than an objection. The גמרא seeks to establish the general rule regarding number as a siman, which will then be applied to other cases. Rav Sheshet responds by citing a משנה that discusses silver and copper vessels, a third of a limb, and all middle-sized vessels, stating that one must return them only after giving a sign or matching their weights.",
+      "keyTerms": [
+        {
+          "term": "רַב שֵׁשֶׁת",
+          "meaning": "Rav Sheshet, the Amora"
+        },
+        {
+          "term": "מִנְיָן",
+          "meaning": "Number"
+        },
+        {
+          "term": "מִשְׁקָל",
+          "meaning": "Weight"
+        },
+        {
+          "term": "מִדָּה",
+          "meaning": "Measure"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּעוֹ מִינֵּיהּ מֵרַב שֵׁשֶׁת:",
+          "english": "They asked from Rav Sheshet:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "[מִנְיָן] הָוֵי סִימָן אוֹ לָא הָוֵי סִימָן?",
+          "english": "[Is number] a sign or is it not a sign?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לְהוּ רַב שֵׁשֶׁת: תְּנֵיתוּהָ,",
+          "english": "Rav Sheshet said to them: You learned it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מָצָא כְּלֵי כֶסֶף וּכְלֵי נְחוֹשֶׁת,",
+          "english": "Found silver vessels and copper vessels,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גִּסְטְרוֹן שֶׁל אֲבָר,",
+          "english": "A gasteron of a limb,",
+          "notes": "A gasteron is a type of container; 'of a limb' likely refers to a specific shape or type."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְכׇל כְּלֵי מַתָּכוֹת –",
+          "english": "And all middle vessels –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הֲרֵי זֶה לֹא יַחֲזִיר עַד שֶׁיִּתֵּן אוֹת,",
+          "english": "Behold, this one does not return until he gives a sign,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אוֹ עַד שֶׁיְּכַוֵּין מִשְׁקְלוֹתָיו.",
+          "english": "Or until his weights are matched."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וּמִדְּמִשְׁקָל הָוֵי סִימָן, מִדָּה וּמִנְיָן נָמֵי הָוֵי סִימָן.",
+          "english": "And from weight being a sign, measure and number also are a sign."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּעוֹ מִינֵיהּ מֵרַב שֵׁשֶׁת: [מִנְיָן] הָוֵי סִימָן אוֹ לָא הָוֵי סִימָן?",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:2:1",
+            "hebrew": "וגסטרון של אבר - שברי חתיכות של אבר:",
+            "english": "",
+            "takeaway": "רש״י explains that גסטרון של אבר refers to broken pieces of a limb, which are considered middle-sized vessels requiring a siman."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:2:2",
+            "hebrew": "שיכוין משקלותיו - שיאמר משקלו ויכוין האמת:",
+            "english": "",
+            "takeaway": "רש״י explains that שיכוין משקלותיו means the claimant must state the weight of the item and it must match the actual weight."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:2:1",
+            "hebrew": "מדמשקל הוי סימן מדה ומנין נמי הוי סימן - משמע דמדה עדיפא וא\"ת והא אמרי' (לקמן בבא מציעא דף כח.) ינתן לאומר משקלותיו ולא לאומר מדת ארכו ורחבו משמע דמשקל הוי סימן טפי וי\"ל דה\"מ בבגד דאין דרך לשקול התם ודאי משקל עדיף:",
+            "english": "From the fact that weight is considered a distinguishing mark (siman), measure and number are also considered distinguishing marks—this implies that measure (i.e., size or dimensions) is preferable. And if you ask: But don’t we say (later, in Bava Metzia 28a) that a lost item should be returned to one who provides its weight rather than one who provides its length and width? This implies that weight is a superior distinguishing mark. The answer is that this applies specifically to a garment, where it is not the usual practice to weigh it. In that case, weight is indeed the better distinguishing mark.",
+            "takeaway": "תוספות notes that the Gemara's derivation implies מדה is a superior siman to משקל, but resolves the apparent contradiction with a later sugya by explaining that for garments, where weighing is uncommon, משקל is actually the better siman."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why not use weight or the cut itself as a siman for meat?",
+      "stepSummary": "The Gemara challenges the Mishnah's ruling on cuts of meat by asking why weight or the shape of the cut cannot serve as valid simanim.",
+      "whatsHappening": "The גמרא moves to the next משנה case: cuts of meat (חֲתִיכוֹת שֶׁל בָּשָׂר). It raises two objections: why isn't weight a siman, and why isn't the cut itself (e.g., a specific shape like a triangle or square) a siman? This is a setup line for the resolution of the apparent contradiction.",
+      "deeperAnalysis": "The גמרא anticipates the answer for weight: it is equal among all (בְּמַשְׁקְלָא דְּשָׁוִין). For the cut itself, it suggests specific shapes (דְּדַפְקָא אוֹ דְּאַטְמָא) could be unique. It then cites a Beraita that seems to contradict this: a bitten fish or cut fish requires announcement, implying the cut is not a valid siman.",
+      "keyTerms": [
+        {
+          "term": "חֲתִיכוֹת שֶׁל בָּשָׂר",
+          "meaning": "Cuts of meat"
+        },
+        {
+          "term": "מַשְׁקְלָא דְּשָׁוִין",
+          "meaning": "Equal weight"
+        },
+        {
+          "term": "דְּדַפְקָא",
+          "meaning": "Square shape"
+        },
+        {
+          "term": "דְּאַטְמָא",
+          "meaning": "Triangular shape"
+        },
+        {
+          "term": "דָּג נָשׁוּךְ",
+          "meaning": "Bitten fish"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַחֲתִיכוֹת שֶׁל בָּשָׂר וְכוּ׳.",
+          "english": "And pieces of meat, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַמַּאי? לֶהֱוֵי מַשְׁקְלָא סִימָן! בְּמַשְׁקְלָא דְּשָׁוִין.",
+          "english": "Why? Let the weight be the identifying mark! In a weight that is equal."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְתֶהֱוֵי חֲתִיכָה גּוּפַהּ סִימָן, אוֹ דְּדָפְקָא אוֹ דְּאַטְמָא!",
+          "english": "And let the piece itself be the identifying mark, whether it is pierced or whether it is sealed!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִי לָא תַּנְיָא:",
+          "english": "Is it not taught:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָצָא חֲתִיכוֹת דָּגִים וְדָג נָשׁוּךְ – חַיָּיב לְהַכְרִיז.",
+          "english": "One who found pieces of fish and a bitten fish — he is obligated to announce."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חָבִיּוֹת שֶׁל יַיִן וְשֶׁל שֶׁמֶן וְשֶׁל",
+          "english": "Jugs of wine and of oil and of"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "תְּבוּאָה וְשֶׁל גְּרוֹגְרוֹת וְשֶׁל זֵיתִים –",
+          "english": "grain and of raisins and of olives —"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "these are his."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַחֲתִיכוֹת שֶׁל בָּשָׂר וְכוּ׳. אַמַּאי? לֶהֱוֵי מַשְׁקְלָא סִימָן!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:3:1",
+            "hebrew": "במתקלא דשוין - שנהגו הטבחים לעשות החתיכות במשקל הזה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's answer 'בְּמַשְׁקְלָא דְּשָׁוִין' means butchers customarily cut meat into equal weights, so weight cannot serve as a unique siman."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:3:2",
+            "hebrew": "חתיכה גופה סימן - יאמר מאבר פלוני היה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's suggestion 'חתיכה גופה סימן' means the owner could identify the meat by specifying which limb it came from."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:3:3",
+            "hebrew": "או דדפקא - צואר שמעתי ומשום רבי יצחק בר' מנחם שמעתי דדפקא פלנק\"ן מקום שדופק כשהוא יגע:",
+            "english": "",
+            "takeaway": "רש״י explains that 'דְּדַפְקָא' refers to the neck area, citing רבי יצחק בר' מנחם who defines it as the place where the heart beats when touched."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:3:4",
+            "hebrew": "חתיכות דג חייב להכריז - קא ס\"ד כשאין בהן סימן והחתיכה גופה סימן או מאצל הראש או מן הזנב:",
+            "english": "",
+            "takeaway": "רש״י explains that the Beraita's ruling that one must announce cut fish assumes the cut itself is not a valid siman, even if it is from the head or tail, because the Gemara initially assumes the cut is not unique."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:3:5",
+            "hebrew": "ודג נשוך - זהו סימן שלו:",
+            "english": "",
+            "takeaway": "רש״י explains that a 'דג נשוך' (bitten fish) is considered a valid siman because the bite mark is unique to that specific fish."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:3:1",
+            "hebrew": "חביות של יין ושל גרוגרות הרי אלו שלו - אע\"ג דתנן (לקמן בבא מציעא דף כד:) מצא פירות בכלי חייב להכריז משום סימן של הכלי הכא רגילות הוא דכל החביות שוין וא\"ת מדת היין להוי סימן וי\"ל שהחבית מלאה וכל החביות שוין אבל אם אין החבית מלאה יהא סימן לומר כמה יין יש בו:",
+            "english": "Barrels of wine or dried figs, they are his - (Even though we learned later Bava Metziah 24a) that if someone finds fruit in a vessel, he is obligated to announce it because of the identifying mark of the vessel, here (regarding barrels), it is customary that all barrels are identical (and therefore the vessel itself does not serve as a distinguishing mark). And if you ask, shouldn’t the amount of wine (in the barrel) serve as an identifying mark? It can be answered that the barrel is full, and all full barrels are identical (so the amount is not a distinguishing factor). However, if the barrel is not full, then the amount of wine inside would indeed serve as an identifying mark, allowing the owner to reclaim it by specifying the quantity.",
+            "takeaway": "תוספות explains that barrels of wine or dried figs are considered the finder's because all barrels are typically identical, unlike other vessels which have unique marks, and clarifies that the amount of wine only serves as a siman if the barrel is not full."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The cut itself is a siman when it is unique, like Rav Huna's son's triangular cut",
+      "stepSummary": "The Gemara resolves the difficulty by distinguishing between a standard cut and a unique cut, citing the example of Rav Huna's son who cut meat in a triangular shape.",
+      "whatsHappening": "The גמרא resolves the apparent contradiction between the משנה and the Beraita. The משנה deals with a case where there is a siman in the cut itself (בְּמַאי עָסְקִינַן? בְּדִיכָא סִימָנָא בִּפְסָקָא), such as the triangular cut used by Rav Huna's son. This is a setup line for the final resolution.",
+      "deeperAnalysis": "The גמרא explains that the משנה's requirement to announce applies to standard cuts. However, if the cut itself is unique (like a triangle), it serves as a siman. The Beraita's mention of a bitten fish (דָּג נָשׁוּךְ) supports this: a bite is a unique mark, just like a specific cut. The phrase דּוּמְיָא דְּדָג נָשׁוּךְ indicates that the cut in the משנה is analogous to a bite mark, i.e., unique.",
+      "keyTerms": [
+        {
+          "term": "רַבָּה בַּר רַב הוּנָא",
+          "meaning": "Rav Huna's son"
+        },
+        {
+          "term": "אַתְלָת קַרְנָתָא",
+          "meaning": "Three corners (triangular)"
+        },
+        {
+          "term": "דּוּמְיָא",
+          "meaning": "Similarity / analogy"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן?",
+          "english": "Here, with what are we dealing?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בִּדְאִיכָּא סִימָנָא בִּפְסָקָא,",
+          "english": "In a case where there is a distinguishing mark on the seal,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי הָא דְּרַבָּה בַּר רַב הוּנָא",
+          "english": "For this matter of Rav Ya'akov bar Abba"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מְחַתֵּיךְ לֵיהּ אַתְּלָת קַרְנָתָא.",
+          "english": "He struck him with a three-pronged pitchfork."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דַּיְקָא נָמֵי דְּקָתָנֵי דּוּמְיָא דְּדָג נָשׁוּךְ, שְׁמַע מִינַּהּ.",
+          "english": "Precisely also, that it resembles a fish bitten, learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא בְּמַאי עָסְקִינַן? בְּדִיכָא סִימָנָא בִּפְסָקָא",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_up",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:4:1",
+            "hebrew": "הכא במאי עסקינן - דקתני חתיכות דג חייב להכריז:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's discussion of חתיכות דג requiring announcement applies specifically to standard cuts, not unique ones."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:4:2",
+            "hebrew": "בדאיכא סימנא בפסקא - שלא נחתכה כדרך החותכין:",
+            "english": "",
+            "takeaway": "רש״י explains that בדאיכא סימנא בפסקא means the cut was not made in the usual manner, thus serving as a unique identifier."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:4:3",
+            "hebrew": "כי הא דרבה - כשהיה שולח בשר לאשתו ביד נכרי:",
+            "english": "",
+            "takeaway": "רש״י notes that the case of רבה refers to when he sent meat to his wife via a non-Jew, necessitating a unique mark for identification."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:4:4",
+            "hebrew": "מחתך לה אתלת קרנתא - עושה החתיכה בת ג' קרנות כזה: ▽",
+            "english": "",
+            "takeaway": "רש״י describes מחתך לה אתלת קרנתא as cutting the piece into a triangular shape to serve as a distinctive siman."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:4:5",
+            "hebrew": "דומיא דדג נשוך - דיש בו סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that דומיא דדג נשוך means the cut is analogous to a bitten fish because it contains a unique siman."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:4:1",
+            "hebrew": "אתלתא קרנתא - וא\"ת דרב אמר בפ' אין מעמידין (ע\"ז דף לט: ושם) חבי\"ת אסור בחותם אחד ושמואל נמי לא פליג עליה אלא בחלב אבל בשר יין ותכלת מודה ומפרש ר\"ת דהתם מיירי בישראל חשוד וכן משמע דמיירי התם לעיל בחבר ועם הארץ וישראל חשוד לא מרתת כמו נכרי:",
+            "english": "",
+            "takeaway": "תוספות addresses a potential contradiction with רב's ruling in עבודה זרה regarding seals, explaining that ר"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Contradiction between Baraita and Mishnah on jugs of wine",
+      "stepSummary": "The Gemara notes a contradiction between a baraita stating that jugs of wine, oil, grain, dried figs, and olives belong to the finder, and a Mishnah requiring proclamation for jugs of wine and oil.",
+      "whatsHappening": "The גמרא opens with a direct קושיא between a ברייתא and the משנה regarding found jugs of wine and oil. The ברייתא rules the finder keeps them, while the משנה requires proclamation.",
+      "deeperAnalysis": "The ברייתא states these items belong to the finder, implying no proclamation is needed. The משנה explicitly requires proclamation. The גמרא sets up the need for a resolution to this apparent contradiction.",
+      "keyTerms": [
+        {
+          "term": "חָבִיּוֹת",
+          "meaning": "jugs/barrels"
+        },
+        {
+          "term": "הֲרֵי אֵלּוּ שֶׁלּוֹ",
+          "meaning": "these belong to him (the finder)"
+        },
+        {
+          "term": "חַיָּב לְהַכְרִיז",
+          "meaning": "obligated to proclaim"
+        }
+      ],
+      "whatToRemember": "The core tension is whether these items require proclamation or not.",
+      "confusionAlert": "Note that the ברייתא lists five items, while the משנה only mentions wine and oil. The resolution will need to account for this.",
+      "whyThisMatters": "This sets the stage for the entire sugya's discussion on what constitutes a valid סימן for lost items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: חָבִיּוֹת שֶׁל יַיִן וְשֶׁל שֶׁמֶן וְשֶׁל",
+          "english": "The Master said: Barrels of wine and of oil and of"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תְּבוּאָה וְשֶׁל גְּרוֹגְרוֹת וְשֶׁל זֵיתִים –",
+          "english": "grain and of dried figs and of olives –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "these are his."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא תְּנַן: כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן חַיָּיב לְהַכְרִיז!",
+          "english": "And yet we learned: Jugs of wine and jugs of oil one is obligated to proclaim!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָמַר רַבִּי זֵירָא אָמַר רַב: מַתְנִיתִין בְּרָשׁוּם.",
+          "english": "Rabbi Zeira said, Rav said: Our Mishna is in sealed ones."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִכְּלָל דְּבָרַיְיתָא בְּפָתוּחַ,",
+          "english": "From the inference that the Baraita is in open ones,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִי בְּפָתוּחַ –",
+          "english": "If in open ones –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲבֵידָה מִדַּעַת הִיא.",
+          "english": "it is a loss with awareness."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אָמַר רַב הוֹשַׁעְיָא: בְּמֵצִיף.",
+          "english": "Rav Hoshaya said: In one that is overflowing."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר מָר: חָבִיּוֹת שֶׁל יַיִן וְשֶׁל שֶׁמֶן וְשֶׁל תְּבוּאָה וְשֶׁל גְּרוֹגְרוֹת וְשֶׁל זֵיתִים – הֲרֵי אֵלּוּ שֶׁלּוֹ. וְהָא תַּנְנָן: כַּדֵּי יַיִן וְכַדֵּי שֶׁמֶן חַיָּב לְהַכְרִיז!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "first_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:5:2",
+            "hebrew": "ברשום - חביותיהם של חרס היו וגפין אותם במגופת חרס ושורקין טיט סביב לדבק המגופה שלא יצא ריח היין ובימי שבט או ניסן שמוכרין בעלי בתים חביות לחנווני כעשר או כט\"ו יחד נוטלין מגופותיהם וטועמין את היין וחוזר וסותמו וטח בו טיט סביב המגופה והוא קרוי רושם ונושאן החנווני לביתו ומתניתין בחבית רשומה והיינו סימן שיש רושמין ויש שנושאין אותה פתוחה למוכרה מיד:",
+            "english": "Sealed - Their barrels were made of clay, and they would seal them with a clay stopper and coat them with mud around the seal to prevent the wine's aroma from escaping. In the months of Shevat or Nisan, when homeowners would sell barrels to shopkeepers—about ten or fifteen at a time—they would remove the seals, taste the wine, and then reseal them, applying mud around the stopper again. This process is called \"rosham\" (marking/sealing). The shopkeeper would then transport them to his home. Our Mishnah refers to a \"marked barrel,\" which serves as a distinguishing sign, since some barrels are resealed (marked), while others are carried open to be sold immediately.",
+            "takeaway": "רש״י explains that רשום refers to a clay jug sealed with a clay stopper and mud, which serves as a distinguishing sign (סימן) because the owner took care to reseal it after tasting, unlike jugs carried open for immediate sale."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:5:3",
+            "hebrew": "ופרכינן מכלל דברייתא - דקתני הרי אלו שלו בפתוחה קתני בתמיה פשיטא דהא אבידה מדעת היא שהניחה פתוחה וכל שקצים ורמשים ונחשים שותים הימנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the baraita must refer to an open jug (פתוחה), which constitutes an אבידה מדעת because the owner abandoned hope of recovery due to the risk of insects and snakes drinking the wine."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:5:4",
+            "hebrew": "במציף - שהניח מגופה עליה ולא שרקה בטיט סימן ליכא ואבידה מדעת נמי ליכא:",
+            "english": "",
+            "takeaway": "רש״י explains that רב הושעיא's resolution of מציף refers to a jug with the stopper in place but without the mud seal, lacking a distinguishing sign but not considered an אבידה מדעת since the owner did not fully abandon it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:5:1",
+            "hebrew": "ברשום - שכל בעל הבית עושה רשימתו משונה משל חבירו והוי סימן ברייתא בלא רשימה:",
+            "english": "",
+            "takeaway": "תוספות explains that רשום means each homeowner creates a unique mark or seal on their jugs, serving as a distinguishing sign, whereas the baraita refers to jugs without such unique markings."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י defines רשום as a physical sealing process with mud that creates a sign, תוספות defines it as a unique mark made by each owner, though both agree it functions as a סימן distinguishing the Mishnah's case from the baraita's unmarked jugs."
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Abaye's resolution: Before vs. After storehouses open",
+      "stepSummary": "Abaye resolves the contradiction by distinguishing between finding jugs before the storehouses open (seal is a siman) and after they open (seal is not a siman).",
+      "whatsHappening": "אָבָא offers a תירוץ based on timing relative to the opening of wine storehouses. He distinguishes between before and after the storehouses open.",
+      "deeperAnalysis": "אָבָא says both sources refer to sealed jugs. Before the storehouses open, the seal is a unique סימן, so the finder keeps it. After the storehouses open, the seal is no longer unique because many people have sealed jugs, so proclamation is required.",
+      "keyTerms": [
+        {
+          "term": "קוֹדֶם שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת",
+          "meaning": "before the storehouses opened"
+        },
+        {
+          "term": "לְאַחַר שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת",
+          "meaning": "after the storehouses opened"
+        },
+        {
+          "term": "זִיל שְׁקוֹל לְנַפְשָׁךְ",
+          "meaning": "go and take it for yourself"
+        }
+      ],
+      "whatToRemember": "Before storehouses open = seal is unique סימן = proclaim. After storehouses open = seal is not unique = finder keeps.",
+      "confusionAlert": "The case of Rav Ya'akov bar Abba is used to support אָבָא's distinction. The timing is crucial.",
+      "whyThisMatters": "This introduces the concept that a סימן's validity can change based on context (commonality).",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַבָּיֵי אָמַר: אֲפִילּוּ תֵּימָא אִידֵּי וְאִידֵּי בְּרָשׁוּם,",
+          "english": "Abaye said: Even if you say both times in their seals,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָא קַשְׁיָא: כָּאן –",
+          "english": "and it is not difficult: Here –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "קוֹדֶם שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת, כָּאן –",
+          "english": "before the storehouses were opened, here –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְאַחַר שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת.",
+          "english": "after the storehouses were opened."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי הָא דְּרַב יַעֲקֹב בַּר אַבָּא",
+          "english": "For behold that of Rav Yaakov bar Abba"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַשְׁכַּח חָבִיתָא דְחַמְרָא לְאַחַר שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת,",
+          "english": "who found a barrel of wine after the storehouses were opened,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּאַבָּיֵי, אֲמַר לֵיהּ:",
+          "english": "he came before Abaye, he said to him:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+          "english": "Go take for yourself."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אַבָּיֵי אָמַר: אֲפִילּוּ תֵּימָא אִידֵּי וְאִידֵּי בְּרָשׁוּם, וְלָא קַשְׁיָא: כָּאן – קוֹדֶם שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת, כָּאן – לְאַחַר שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת. כִּי הָא דְּרַב יַעֲקֹב בַּר אַבָּא אַשְׁכַּח חָבִיתָא דְּחַמְרָא לְאַחַר שֶׁנִּפְתְּחוּ הָאוֹצָרוֹת, אֲתָא לְקַמֵּיהּ דְּאַבָּיֵי, אֲמַר לֵיהּ: זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:6:1",
+            "hebrew": "קודם שנפתחו האוצרות - שעדיין לא הגיע זמן מוכרי החביות ויחיד בעלמא הוא דעביד הוי רושם סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that before the storehouses open, only an individual would seal a jug, making the seal a unique siman."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:6:1",
+            "hebrew": "אביי אמר - אפילו רשום לא הוי סימן אחר שנפתחו האוצרות שבעל הבית אחד מוכר להרבה חנוונים וכולם רשומים בענין אחד ופרש\"י אינו נראה:",
+            "english": "",
+            "takeaway": "תוספות argues that after the storehouses open, a single owner sells to many shopkeepers who all use the same seal, so it is not a unique siman, and rejects רש״י's explanation."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות explicitly rejects רש״י's explanation regarding the uniqueness of the seal after the storehouses open, offering an alternative reason why the seal is not a siman."
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "שאלה",
+      "title": "Rav Beivai's question: Is location a siman?",
+      "stepSummary": "Rav Beivai asks Rav Naḥman whether the location where an item is found serves as a valid identifying mark (siman).",
+      "whatsHappening": "The גמרא shifts to a new שאלה about the validity of location as a סימן. רַב בֵּיבַי asks רַב נַחְמָן whether location serves as a סימן.",
+      "deeperAnalysis": "רַב בֵּיבַי asks: מָקוֹם הָוֵי סִימָן, אוֹ לָא הָוֵי סִימָן? This is a direct question about halachic principle, not an objection to a prior statement.",
+      "keyTerms": [
+        {
+          "term": "מָקוֹם הָוֵי סִימָן",
+          "meaning": "location serves as a סימן"
+        },
+        {
+          "term": "לָא הָוֵי סִימָן",
+          "meaning": "does not serve as a סימן"
+        }
+      ],
+      "whatToRemember": "The question is whether location can be used to identify a lost item.",
+      "confusionAlert": "This is a new topic, not a continuation of the previous resolution.",
+      "whyThisMatters": "This question is central to the laws of returning lost items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּעָא מִינֵּיהּ רַב בִּיבִי מֵרַב נַחְמָן:",
+          "english": "Rav Bibi asked Rav Naḥman:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָקוֹם הָוֵי סִימָן,",
+          "english": "Is location a distinguishing mark,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ לָא הָוֵי סִימָן?",
+          "english": "or is it not a distinguishing mark?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: תְּנֵיתוּהָ,",
+          "english": "He said to him: You learned it,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָצָא חָבִיּוֹת שֶׁל יַיִן וְשֶׁל שֶׁמֶן",
+          "english": "One found barrels of wine and of oil"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְשֶׁל תְּבוּאָה וְשֶׁל גְּרוֹגְרוֹת וְשֶׁל זֵיתִים",
+          "english": "and of grain and of dried figs and of olives"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "– הֲרֵי אֵלּוּ שֶׁלּוֹ.",
+          "english": "— these are his."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְאִי סָלְקָא דַעְתָּךְ דְּמָקוֹם הָוֵי סִימָן, לִכְרוֹז מָקוֹם!",
+          "english": "And if it enters your mind that location is a distinguishing mark, let him proclaim location!"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אָמַר רַב זְבִיד, הָכָא בְּמַאי עָסְקִינַן? בְּרַקְּתָא דְנַהֲרָא.",
+          "english": "Rav Zevid said: Here, with what are we dealing? With a barrel of the river.",
+          "notes": "A barrel found on the riverbank, where many merchants load and unload goods."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּעָא מִינֵיהּ רַב בִּיבִי מֵרַב נַחְמָן: מָקוֹם הָוֵי סִימָן, אוֹ לָא הָוֵי סִימָן?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_topic",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:7:1",
+            "hebrew": "ברקתא דנהרא - והיין בא לעיר בספינה והלוקחין מפנין הספינה ומניחו על שפת הנהר ונושאין אחת אחת ופעמים ששוכח:",
+            "english": "",
+            "takeaway": "רש״י explains that רַקְּתָא דְנַהֲרָא refers to a location where wine is unloaded from ships onto the riverbank, making it a busy place where items are frequently forgotten."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Mari's explanation: Why riverbank location is not a siman",
+      "stepSummary": "Rav Mari explains that the riverbank location is not a siman because it is equally likely that someone else lost an item there.",
+      "whatsHappening": "רַב מַרִי provides the reasoning behind the rule that riverbank location is not a סימן. He explains why the רַבָּנַן rule that riverbank location is not a סימן.",
+      "deeperAnalysis": "רַב מַרִי asks: מַאי טַעְמָא אָמְרִי רַבָּנַן רַקְתָּא דְּנַהֲרָא לָא הָוֵי סִימָן? He answers: דְּאָמְרִינַן לֵיהּ: כִּי הֵיכִי דְּאִתְרְמִי לְדִידָךְ אִתְרְמִי נָמֵי לְחַבְרָךְ. The logic is that since many people lose items on the riverbank, claiming a specific location does not uniquely identify the owner.",
+      "keyTerms": [
+        {
+          "term": "כִּי הֵיכִי דְּאִתְרְמִי לְדִידָךְ אִתְרְמִי נָמֵי לְחַבְרָךְ",
+          "meaning": "just as it happened to you, it also happened to your friend"
+        }
+      ],
+      "whatToRemember": "The riverbank is a common place for lost items, so location is not a unique סימן.",
+      "confusionAlert": "This is the reasoning behind Rav Zevid's clarification.",
+      "whyThisMatters": "It establishes the principle that a סימן must be unique to the owner.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב מָרִי:",
+          "english": "Rav Mari said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי טַעְמָא אֲמַרוּ רַבָּנַן רַקְּתָא דְנַהֲרָא",
+          "english": "What is the reason that the Sages said: the bank of the river"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לָא הָוֵי סִימָן? דְּאָמְרִינַן לֵיהּ:",
+          "english": "is not a distinguishing mark? That we say to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי הֵיכִי דְּאִתְרְמִי לְדִידָךְ אִתְרְמִי נָמֵי לְחַבְרָךְ.",
+          "english": "Just as it happened for you, it also happened for your fellow."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִיכָּא דְּאָמְרִי, אָמַר רַב מָרִי:",
+          "english": "There are those who say, Rav Mari said:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מַאי טַעְמָא אֲמַרוּ רַבָּנַן מָקוֹם לָא הָוֵי סִימָן?",
+          "english": "What is the reason that the Sages said: place is not a distinguishing mark?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּאָמְרִינַן לֵיהּ: כִּי הֵיכִי דְּאִתְרְמִי לְדִידָךְ הַאי מְקוֹם,",
+          "english": "That we say to him: Just as it happened for you this place,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אִתְרְמִי נָמֵי לְחַבְרָךְ הַאי מָקוֹם.",
+          "english": "it also happened for your fellow this place."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב מָרִי: מַאי טַעְמָא אָמְרִי רַבָּנַן רַקְתָּא דְּנַהֲרָא לָא הָוֵי סִימָן? דְּאָמְרִינַן לֵיהּ: כִּי הֵיכִי דְּאִתְרְמִי לְדִידָךְ אִתְרְמִי נָמֵי לְחַבְרָךְ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        59
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:8:1",
+            "hebrew": "איכא דאמרי כו' - נפקא מינה דאפי' כוון ואמר מקום מושבה מסוים לא הוי סימן:",
+            "english": "",
+            "takeaway": "רש״י explains that the alternative version of Rav Mari's statement teaches that even if one specifies a precise location, it still does not constitute a valid סימן."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "Rav's ruling on a found jug in a fence",
+      "stepSummary": "The Gemara relates a case where Rav permits a finder to keep a jug found in a fence, and when the finder hesitates, Rav tells him to split it with his son.",
+      "whatsHappening": "The גמרא introduces a narrative case involving רַב and a finder of a jug in a fence. רַב initially tells the finder to keep it.",
+      "deeperAnalysis": "רַב initially tells the finder to keep it. When the finder hesitates, רַב tells him to split it with his son. This narrative sets up the legal question: why did רַב permit him to keep it? The mention of the son is a rhetorical device to show רַב's certainty that the item is ownerless.",
+      "keyTerms": [
+        {
+          "term": "כּוּפְרָא",
+          "meaning": "a jug or jar"
+        },
+        {
+          "term": "מַעֲצַרְתָּא",
+          "meaning": "a fence or enclosure"
+        },
+        {
+          "term": "מְחַסֵּם",
+          "meaning": "hesitating, holding back"
+        },
+        {
+          "term": "פְּלוֹג",
+          "meaning": "to divide, split"
+        }
+      ],
+      "whatToRemember": "The case involves a jug found in a fence. רַב permits the finder to keep it.",
+      "confusionAlert": "The phrase 'זיל פלוג ליה לחיyya ברי מניה' is not a legal ruling to split the item, but a rhetorical reassurance that רַב is certain the item is ownerless.",
+      "whyThisMatters": "This case is the basis for the discussion on whether location serves as a sign for lost items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דְּאַשְׁכַּח כּוּפְרָא בֵּי מַעֲצַרְתָּא,",
+          "english": "That man who found pitch in the winepress,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב, אֲמַר לֵיהּ:",
+          "english": "came before Rav, he said to him:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "זִיל שְׁקוֹל לְנַפְשָׁךְ.",
+          "english": "Go take for yourself."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "חַזְיֵיהּ דַּהֲוָה קָא מְחַסֵּם, אֲמַר לֵיהּ:",
+          "english": "He saw that he was hesitating, he said to him:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "זִיל פְּלוֹג לֵיהּ לְחִיָּיא בְּרִי מִינֵּיהּ.",
+          "english": "Go divide it with Ḥiyya my son from him."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לֵימָא קָא סָבַר רַב מָקוֹם לָא הָוֵי סִימָן?",
+          "english": "Let us say Rav holds that place is not a sign?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אָמַר רַבִּי אַבָּא:",
+          "english": "Rabbi Abba said:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִשּׁוּם יֵאוּשׁ בְּעָלִים נָגְעוּ בָּהּ,",
+          "english": "Because of despair of owners the Sages touched upon it,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דַּחֲזָא דְּקָדְחִי בֵּיהּ חִלְפֵי.",
+          "english": "for he saw that grass grew in it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גַבְרָא דְאַשְׁכַּח כּוּפְרָא בֵי מַעֲצַרְתָּא",
+      "macroPhase": "narrative_aggadah",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:9:1",
+            "hebrew": "כופרא - זפת דבר שאין בו סימן הוה:",
+            "english": "",
+            "takeaway": "רש״י explains that כופרא refers to a jug of pitch, which is an item without a סימן, making it subject to the laws of מציאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:9:2",
+            "hebrew": "מחסם - לשון לא תחסום (דברים כה) מגמגם בדבר ולבו נוקפו:",
+            "english": "",
+            "takeaway": "רש״י defines מחסם as hesitating or being morally conflicted, derived from the verse לא תחסום."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:9:3",
+            "hebrew": "דקדחו ביה חלפי - אורטי\"א בלעז גדלו עליה ש\"מ מימים רבים היה שם וכבר נואשו הבעלים:",
+            "english": "",
+            "takeaway": "רש״י explains that דקדחו ביה חלפי means weeds had grown over the jug, indicating it had been there for a long time and the owners had already יאוש."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "Definition of אַנְפּוּרְיָא as new vessels",
+      "stepSummary": "The Gemara defines the Mishnaic term אַנְפּוּרְיָא as new vessels that the eye has not been satiated with.",
+      "whatsHappening": "The גמרא introduces the definition of the משנה term אַנְפּוּרְיָא via רַב יְהוּדָה and שְׁמוּאֵל. They define it as new vessels.",
+      "deeperAnalysis": "The גמרא seeks to clarify the משנה's obscure term אַנְפּוּרְיָא. רַב יְהוּדָה, citing שְׁמוּאֵל, defines it as new vessels that the eye has not yet been satiated with, meaning the owner has not seen them enough to recognize them later.",
+      "keyTerms": [
+        {
+          "term": "אַנְפּוּרְיָא",
+          "meaning": "A type of vessel mentioned in the משנה, defined here as new vessels."
+        },
+        {
+          "term": "כֵּלִים חֲדָשִׁים",
+          "meaning": "New vessels, the definition of אַנְפּוּרְיָא."
+        },
+        {
+          "term": "שֶׁלֹּא שָׂבְעָתָן הָעַיִן",
+          "meaning": "That the eye has not been satiated with, meaning not seen enough to recognize."
+        }
+      ],
+      "whatToRemember": "The term אַנְפּוּרְיָא refers to new vessels lacking sufficient familiarity for recognition.",
+      "whyThisMatters": "This definition sets the stage for the entire sugya, which explores the mechanics of recognition and the limits of visual identification.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר וְכוּ׳.",
+          "english": "Rabbi Shimon ben Elazar says, etc."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי אַנְפּוּרְיָא? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:",
+          "english": "What is anpurya? Rav Yehuda says that Shmuel says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כֵּלִים חֲדָשִׁים שֶׁלֹּא שְׂבָעָתַן הָעַיִן. הֵיכִי דָמֵי?",
+          "english": "New vessels that the eye has not yet been satisfied with them. How is it similar?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי אִית בְּהוּ סִימָן –",
+          "english": "If there is in them a distinguishing mark –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי לֹא שְׂבָעָתַן הָעַיִן מַאי הָוֵי?",
+          "english": "But that the eye has not yet been satisfied with them, what is it?"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אִי דְּלֵית בְּהוּ סִימָן –",
+          "english": "If there is not in them a distinguishing mark –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כִּי שְׂבָעָתַן הָעַיִן מַאי הָוֵי?",
+          "english": "But that the eye has been satisfied with them, what is it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר וְכוּ׳. מַאי אַנְפּוּרְיָא? אָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: כֵּלִים חֲדָשִׁים שֶׁלֹּא שָׂבְעָתָן הָעַיִן.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:10:1",
+            "hebrew": "שלא שבעתן - עדיין לא הורגל בראייתן ותשמישן שיהא מכירן יפה ולשון אנפוריא נוטריקון אין פה ראיה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase שלא שבעתן means the owner is not yet accustomed to seeing and using the vessels to recognize them well, and he notes that the term אנפוריא is an acronym for אין פה ראיה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The case is without simanim, and the difference is טְבִיעוּת עֵינָא",
+      "stepSummary": "The Gemara resolves the challenge by specifying that the case is one without simanim, and the distinction lies in whether a Torah scholar can recognize the item through טְבִיעוּת עֵינָא.",
+      "whatsHappening": "The גמרא provides a תירוץ to the previous challenge. It clarifies that the משנה refers to vessels without סימנים.",
+      "deeperAnalysis": "The גמרא clarifies that the משנה refers to vessels without סימנים. The phrase שֶׁלֹּא שָׂבְעָתָן הָעַיִן distinguishes between cases where a Torah scholar has seen the item enough to recognize it and cases where he has not. If he has seen it enough, we return it to him; if not, we do not.",
+      "keyTerms": [
+        {
+          "term": "טְבִיעוּת עֵינָא",
+          "meaning": "Visual recognition, the ability to identify an item by sight."
+        },
+        {
+          "term": "קִים לֵיהּ בְּגַוַּיְיהוּ",
+          "meaning": "He is certain about them."
+        }
+      ],
+      "whatToRemember": "The resolution introduces טְבִיעוּת עֵינָא as the mechanism for returning lost items without סימנים.",
+      "whyThisMatters": "This establishes the legal principle of טְבִיעוּת עֵינָא for returning lost items.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְעוֹלָם דְּלֵית בְּהוּ סִימָן –",
+          "english": "Forever that there is no sign in them –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נָפְקָא מִינַּהּ לְאַהְדּוֹרֵי לְצוּרְבָּא מֵרַבָּנַן בִּטְבִיעוּת עֵינָא.",
+          "english": "It emerges from it to return to a Torah scholar by visual recognition."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׂבָעָתַן הָעַיִן – קִים לֵיהּ בְּגַוַּיְיהוּ וּמַהְדְּרִינַן לֵיהּ.",
+          "english": "The eye has sufficiently seen them – he is certain about them and we return to him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי לֹא שְׂבָעָתַן הָעַיִן –",
+          "english": "For not the eye has sufficiently seen them –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא קִים לֵיהּ בְּגַוַּיְיהוּ,",
+          "english": "He is not certain about them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלָא מַהְדְּרִינַן לֵיהּ,",
+          "english": "And we do not return to him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:",
+          "english": "For Rav Yehuda says that Shmuel says:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּהָנֵי תְּלָת מִילֵּי עֲבִידִי רַבָּנַן דִּמְשַׁנּוּ בְּמִלַּיְיהוּ –",
+          "english": "In these three matters Sages act that they amend in their words –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בְּמַסֶּכֶת, וּבְפוּרְיָא",
+          "english": "In a tractate, and in a bed"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לְעוֹלָם דְלֵית בְּהוּ סִימָן – נָפְקָא מִינַּהּ לְאַהְדוֹרֵי לְצוּרְבָּא מֵרַבָּנַן בִּטְבִיעוּת עֵינָא. שָׂבְעָתָן הָעַיִן – קִים לֵיהּ בְּגַוַּיְיהוּ וּמַהְדְרִינַן לֵיהּ. כִּי לֹא שָׂבְעָתָן הָעַיִן – לָא קִים לֵיהּ בְּגַוַּיְיהוּ, וְלָא מַהְדְרִינַן לֵיהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:1",
+            "hebrew": "נפקא מינה כו' - וכגון דזה התובען צורבא מרבנן הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the practical difference (נפקא מינה) regarding טְבִיעוּת עֵינָא applies specifically when the claimant is a צורבא מרבנן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:2",
+            "hebrew": "במסכת - יש בידך מסכת פלוני סדורה בגירסא או לאו ואע\"ג שסדורה היא לו יאמר לו לאו ומדת ענוה היא:",
+            "english": "",
+            "takeaway": "רש״י explains that when asked about a מסכת, a scholar may deny knowing it even if he does, as an act of humility (ענוה)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:3",
+            "hebrew": "בפוריא - שימשת מטתך יאמר לאו מדת צניעות הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that when asked about פוריא (his marital relations), a scholar may deny it as an act of modesty (צניעות)."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:11:1",
+            "hebrew": "במסכת - וא\"ת והאמר (קדושין דף ל.) ושננתם שיהו דברי תורה מחודדין בפיך שאם ישאלך אדם אל תגמגם ותאמר לו אלא אמור לו מיד וי\"ל דהיינו דוקא באדם הבא לשאול דין או הוראה או להתלמד אבל הכא שבא לנסותו אם יודע מותר לשנות ולומר לא למדתי זה:",
+            "english": "",
+            "takeaway": "תוספות reconciles the permission to deny knowledge of a מסכת with the obligation in קידושין to answer halachic questions immediately by distinguishing between someone seeking halachic guidance (who must be answered) and someone testing the scholar's knowledge (where denial is permitted)."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:11:2",
+            "hebrew": "בפוריא - אין רגילות שישאלוהו כפירוש רש\"י אם שימש מטתו אלא אם בעל קרי היה ולא בא לבית המדרש ושאלוהו למה לא בא ישנה ויאמר שחולה היה או שאר אונס אירע לו אי נמי שאלוהו שכבת על מטה זו לא יאמר לו כן פן יראה בה קרי ויתגנה:",
+            "english": "",
+            "takeaway": "תוספות offers an alternative explanation for פוריא, suggesting the question might be about why he missed the בית המדרש (due to being a בעל קרי), or about sleeping on a specific bed, where denial prevents embarrassment or suspicion of a nocturnal emission."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות expands on רש״י's explanations by addressing a potential contradiction in the case of מסכת and offering alternative scenarios for פוריא that align with the principle of modesty."
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "The three matters where Sages may deviate from the truth",
+      "stepSummary": "The Gemara cites a teaching that Sages may lie about three specific matters: tractates, beds, and hospitality.",
+      "whatsHappening": "The גמרא introduces a teaching about the three matters where Sages may not tell the truth. This supports the concept of טְבִיעוּת עֵינָא.",
+      "deeperAnalysis": "To support the concept of טְבִיעוּת עֵינָא, the גמרא cites רַב יְהוּדָה and שְׁמוּאֵל, who state that Sages may deviate from the truth in three areas: whether they studied a tractate, whether they slept in a bed, and matters of hospitality. This implies that in other matters, Sages are truthful, and thus their visual recognition can be trusted.",
+      "keyTerms": [
+        {
+          "term": "מַסֶּכֶת",
+          "meaning": "A tractate of Talmud."
+        },
+        {
+          "term": "פוּרְיָא",
+          "meaning": "A bed."
+        },
+        {
+          "term": "אוּשְׁפִּיזָא",
+          "meaning": "Hospitality."
+        }
+      ],
+      "whatToRemember": "Sages are generally truthful, except in three specific areas.",
+      "whyThisMatters": "This teaching underpins the reliability of טְבִיעוּת עֵינָא for Sages.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְעוֹלָם דְּלֵית בְּהוּ סִימָן –",
+          "english": "Forever that there is no sign in them –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נָפְקָא מִינַּהּ לְאַהְדּוֹרֵי לְצוּרְבָּא מֵרַבָּנַן בִּטְבִיעוּת עֵינָא.",
+          "english": "It emerges from it to return to a Torah scholar by visual recognition."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׂבָעָתַן הָעַיִן – קִים לֵיהּ בְּגַוַּיְיהוּ וּמַהְדְּרִינַן לֵיהּ.",
+          "english": "The eye has sufficiently seen them – he is certain about them and we return to him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כִּי לֹא שְׂבָעָתַן הָעַיִן –",
+          "english": "For not the eye has sufficiently seen them –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא קִים לֵיהּ בְּגַוַּיְיהוּ,",
+          "english": "He is not certain about them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלָא מַהְדְּרִינַן לֵיהּ,",
+          "english": "And we do not return to him,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל:",
+          "english": "For Rav Yehuda says that Shmuel says:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּהָנֵי תְּלָת מִילֵּי עֲבִידִי רַבָּנַן דִּמְשַׁנּוּ בְּמִלַּיְיהוּ –",
+          "english": "In these three matters the Sages do that they change in their words –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "בְּמַסֶּכֶת, וּבְפוּרְיָא וּבְאוּשְׁפִּיזָא.",
+          "english": "In a tractate, and in a bed and in a guesthouse."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מַאי נָפְקָא מִינַּהּ?",
+          "english": "What emerges from it?"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אָמַר מָר זוּטְרָא: לְאַהְדּוֹרֵי לֵיהּ אֲבֵידְתָּא בִּטְבִיעוּת עֵינָא.",
+          "english": "Says Mar Zutra: To return to him a lost item by visual recognition."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אִי יָדְעִינַן בֵּיהּ דְּלָא מְשַׁנֵּי אֶלָּא",
+          "english": "If we know about him that he does not change except"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "בְּהָנֵי תְּלָת – מַהְדְּרִינַן לֵיהּ,",
+          "english": "In these three – we return to him,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְאִי מְשַׁנֵּי בְּמִילֵּי אַחֲרִינֵי –",
+          "english": "And if he changes in other matters –"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "לָא מַהְדְּרִינַן לֵיהּ.",
+          "english": "We do not return to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּאָמַר רַב יְהוּדָה אָמַר שְׁמוּאֵל: בְּהָנֵי תְלָת מִלֵּי עֲבִידִי רַבָּנַן דִּמְשַׁנּוּ בְּמִלַּיְיהוּ – בְּמַסֶּכֶת, וּבְפוּרְיָא וּבְאוּשְׁפִּיזָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        67
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:1",
+            "hebrew": "נפקא מינה כו' - וכגון דזה התובען צורבא מרבנן הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the practical application of טְבִיעוּת עֵינָא applies specifically when the claimant is a צורבא מרבנן."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:2",
+            "hebrew": "במסכת - יש בידך מסכת פלוני סדורה בגירסא או לאו ואע\"ג שסדורה היא לו יאמר לו לאו ומדת ענוה היא:",
+            "english": "",
+            "takeaway": "רש״י explains that regarding a מסכת, a Sage may deny having studied it even if he has, as an expression of ענוה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 23b:11:3",
+            "hebrew": "בפוריא - שימשת מטתך יאמר לאו מדת צניעות הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that regarding פוריא, a Sage may deny having slept in a bed as an expression of צניעות."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:11:1",
+            "hebrew": "במסכת - וא\"ת והאמר (קדושין דף ל.) ושננתם שיהו דברי תורה מחודדין בפיך שאם ישאלך אדם אל תגמגם ותאמר לו אלא אמור לו מיד וי\"ל דהיינו דוקא באדם הבא לשאול דין או הוראה או להתלמד אבל הכא שבא לנסותו אם יודע מותר לשנות ולומר לא למדתי זה:",
+            "english": "",
+            "takeaway": "תוספות reconciles the permission to deny studying a מסכת with the obligation in קידושין to answer halachic questions immediately by distinguishing between someone asking for halacha or learning versus someone testing the Sage's knowledge."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 23b:11:2",
+            "hebrew": "בפוריא - אין רגילות שישאלוהו כפירוש רש\"י אם שימש מטתו אלא אם בעל קרי היה ולא בא לבית המדרש ושאלוהו למה לא בא ישנה ויאמר שחולה היה או שאר אונס אירע לו אי נמי שאלוהו שכבת על מטה זו לא יאמר לו כן פן יראה בה קרי ויתגנה:",
+            "english": "",
+            "takeaway": "תוספות offers two alternative explanations for פוריא: either a Sage may deny being a בעל קרי to avoid embarrassment when asked why he missed בית המדרש, or he may deny sleeping on a specific bed to prevent others from seeing a קרי stain and being disgraced."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות expands on רש״י's explanation of פוריא by providing specific scenarios (avoiding embarrassment regarding בית המדרש attendance or preventing disgrace from a קרי stain) that justify the deviation from the truth, whereas רש״י simply cites the general virtue of צניעות."
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T11:02:10.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 157.32176440005424,
+      "structure": 3340.4982288000174,
+      "translate": 505.92106640012935,
+      "meforshim": 787.3317491001217,
+      "teaching": 1029.5517388999579
+    }
+  }
+}

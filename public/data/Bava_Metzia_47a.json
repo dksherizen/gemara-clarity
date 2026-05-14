@@ -1,0 +1,1629 @@
+{
+  "ref": "Bava Metzia 47a",
+  "masechet": "Bava_Metzia",
+  "daf": 47,
+  "amud": "a",
+  "mainTopic": "קניין בחליפין והקפדה על דמים · מטבע נעשה חליפין וקנין בכלי · קנין בכלי ופירות",
+  "overview": "(1) The Gemara analyzes Rav Huna's ruling on acquisition via money without meshikah, distinguishing between cases where the buyer is concerned about the value (onaa) and cases of exchange (chalifin) where the buyer is concerned about the items. (2) The Gemara clarifies Rav Huna's view on whether money acts as chalifin and discusses Rav and Levi's dispute on whether kinyan agav is effected by the buyer's or seller's vessel. (3) The Gemara discusses the biblical source for kinyan agav from Ruth and debates whether acquisition can be effected with fruit or only with a defined vessel, analyzing the phrase 'be-manah de-kashar le-kanya bih'. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 7,
+      "topic": "קניין בחליפין והקפדה על דמים",
+      "gist": "The Gemara analyzes Rav Huna's ruling on acquisition via money without meshikah, distinguishing between cases where the buyer is concerned about the value (onaa) and cases of exchange (chalifin) where the buyer is concerned about the items.",
+      "openingFormula": "null",
+      "firstStepNumber": 1,
+      "lastStepNumber": 4
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 8,
+      "endLine": 13,
+      "topic": "מטבע נעשה חליפין וקנין בכלי",
+      "gist": "The Gemara clarifies Rav Huna's view on whether money acts as chalifin and discusses Rav and Levi's dispute on whether kinyan agav is effected by the buyer's or seller's vessel.",
+      "openingFormula": "אמר מר",
+      "firstStepNumber": 5,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 14,
+      "endLine": 18,
+      "topic": "קנין בכלי ופירות",
+      "gist": "The Gemara discusses the biblical source for kinyan agav from Ruth and debates whether acquisition can be effected with fruit or only with a defined vessel, analyzing the phrase 'be-manah de-kashar le-kanya bih'. — discussion continues into next amud.",
+      "openingFormula": "כתנאי",
+      "firstStepNumber": 11,
+      "lastStepNumber": 15
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "רַב הוּנָא's ruling on acquisition via money without משיכה",
+      "stepSummary": "The Gemara introduces רַב הוּנָא's ruling that a buyer acquires an item via money even without משיכה, but the seller retains a claim of אוֹנָאָה.",
+      "whatsHappening": "The Gemara introduces רַב הוּנָא's ruling that money effects acquisition even without משיכה. This is a setup line establishing the baseline halachic position.",
+      "deeperAnalysis": "רַב הוּנָא rules that a buyer acquires the item via דָּמִים alone, without needing to pull it. However, the seller retains a claim of אוֹנָאָה because the buyer is concerned about the item's value, not the money itself. This mirrors the logic of חֲלִיפִין, where the focus is on the physical goods.",
+      "keyTerms": [
+        {
+          "term": "קָנָה",
+          "meaning": "acquired"
+        },
+        {
+          "term": "מָשַׁךְ",
+          "meaning": "pulled"
+        },
+        {
+          "term": "אוֹנָאָה",
+          "meaning": "exploitation"
+        },
+        {
+          "term": "חֲלִיפִין",
+          "meaning": "exchange"
+        },
+        {
+          "term": "דָּמִים",
+          "meaning": "money"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְיֵשׁ לוֹ עָלָיו אוֹנָאָה. קָנָה –",
+          "english": "And he has against him overreaching. He acquired –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל גַּב דְּלָא מָשַׁךְ,",
+          "english": "Even though he did not pull,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּכֵיוָן דְּלָא קָפֵיד –",
+          "english": "Since he is not particular –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "קָנָה, דְּכִי חֲלִיפִין דָּמֵי.",
+          "english": "He acquired, as it is an exchange of money."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְיֵשׁ לוֹ עָלָיו אוֹנָאָה –",
+          "english": "And he has against him overreaching –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דִּ״מְכוֹר לִי בְּאֵלּוּ״ קָאָמַר לֵיהּ.",
+          "english": "Because he said to him: 'Sell me for these.'"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "רַב אַבָּא אָמַר רַב הוּנָא:",
+          "english": "Rav Abba says Rav Huna:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״מְכוֹר לִי בְּאֵלּוּ״ – קָנָה,",
+          "english": "'Sell me for these' – he acquired,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְאֵין לוֹ עָלָיו אוֹנָאָה.",
+          "english": "And he does not have against him overreaching."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "קָנָה – אַף עַל גַּב דְּלָא מָשַׁךְ, דְּכֵיוָן דְּלָא קָפֵיד – קָנָה, דְּכִי חֲלִיפִין דָּמֵי. וְיֵשׁ לוֹ עָלָיו אוֹנָאָה – דִּ״מְכוֹר לִי בְּאֵלּוּ״ קָאָמַר לֵיהּ. רַב אַבָּא אָמַר רַב הוּנָא: ״מְכוֹר לִי בְּאֵלּוּ״ – קָנָה, וְאֵין לוֹ עָלָיו אוֹנָאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:1:1",
+            "hebrew": "ויש לו לחבירו עליו דין אונאה - אם אין במעות כדי דמי החפץ שפחתו שתות:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'וְיֵשׁ לוֹ עָלָיו אוֹנָאָה' means the seller can claim אוֹנָאָה if the money given is less than the item's value by a sixth."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:2:1",
+            "hebrew": "כחליפין דמי - ולקמיה פריך והא אין מטבע נעשה חליפין:",
+            "english": "",
+            "takeaway": "רש״י explains that 'כחליפין דמי' means the transaction is treated like חליפין, but notes that the Gemara will later challenge this by stating that currency cannot be used for חליפין."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:2:2",
+            "hebrew": "דמכור לי קאמר - לשון ממכר ולא לשון חליפין:",
+            "english": "",
+            "takeaway": "רש״י explains that 'דמכור לי קאמר' indicates the buyer used the language of sale (ממכר) rather than the language of exchange (חליפין)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:2:3",
+            "hebrew": "הא אמר - דקני בלא משיכה:",
+            "english": "",
+            "takeaway": "רש״י explains that 'הא אמר' refers to רַב הוּנָא's statement that acquisition occurs without משיכה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:2:4",
+            "hebrew": "דמכור לי קאמר - לשון ממכר ולא לשון חליפין:",
+            "english": "",
+            "takeaway": "רש״י explains that 'דמכור לי קאמר' indicates the buyer used the language of sale (ממכר) rather than the language of exchange (חליפין)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "שאלה",
+      "title": "What is the halakha in a case of חליפין where the parties are particular about the value?",
+      "stepSummary": "The Gemara asks what the halakha is in a case of חליפין where the parties are particular about the value of the items.",
+      "whatsHappening": "The Gemara asks a follow-up question about חֲלִיפִין where the parties are particular about the value. This is a transition line probing the limits of the previous ruling.",
+      "deeperAnalysis": "The Gemara challenges the scope of רַב הוּנָא's ruling by asking what happens when parties are מַקְפִּיד about the דָּמִים. This question tests whether the logic of חֲלִיפִין holds when value parity is the primary concern.",
+      "keyTerms": [
+        {
+          "term": "מַקְפִּיד",
+          "meaning": "particular"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "פְּשִׁיטָא: דָּמִים וְאֵין מַקְפִּיד עֲלֵיהֶן –",
+          "english": "It is obvious: money and one is not particular about them –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא קָאָמְרִינַן דְּקָנֵי, דְּכַחֲלִיפִין דָּמוּ.",
+          "english": "Here we say that beards, that they are like exchange."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חֲלִיפִין וּמַקְפִּיד עֲלֵיהֶן, מַאי?",
+          "english": "Exchange and one is particular about them, what?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "פְּשִׁיטָא: דָּמִים וְאֵין מַקְפִּיד עֲלֵיהֶן – הָא קָאָמְרִינַן דְּקָנֵי, דְּכַחֲלִיפִין דָּמוּ. חֲלִיפִין וּמַקְפִּיד עֲלֵיהֶן, מַאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_from",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:3:1",
+            "hebrew": "פשיטא לן דמים ואין מקפיד עליהן - נתן לו מעות או חפץ בשביל חפץ אחר בתורת דמים ולא הקפיד עליהן לראות אם ישנן כדי שויין:",
+            "english": "",
+            "takeaway": "רש״י explains that the case of דמים ואין מקפיד עליהן refers to a transaction conducted as a sale (דמים) where the parties do not scrutinize the exact market value of the items."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:3:2",
+            "hebrew": "חליפין ומקפיד עליהן - נתן לו חפץ בחפץ בתורת חליפין לקנות כדין קנין שקונין בסודר וזה מקפיד לראות שיהא הסודר שוה כל כך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that חליפין ומקפיד עליהן describes an exchange (חליפין) where the parties are particular about the specific value of the items, akin to the precision required in a קנין with a סודר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:3:3",
+            "hebrew": "מהו - מי קנו תרוייהו במשיכה דחד מינייהו או דלמא הואיל והקפיד עליהם הרי הן כדמים והוי להו מעות ואין קונות עד שימשוך גם השני:",
+            "english": "",
+            "takeaway": "רש״י formulates the Gemara's question as whether the exchange is valid through the acquisition of just one item, or if the strict valuation requirement renders it like a monetary sale (מעות) requiring the acquisition of both items."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תשובה",
+      "title": "רַב אַדָּא בַּר אַהֲבָה cites a ברייתא to resolve the question",
+      "stepSummary": "רַב אַדָּא בַּר אַהֲבָה cites a ברייתא to resolve the question of what the halakha is in a case of חליפין where the parties are particular about the value of the items.",
+      "whatsHappening": "רַב אַדָּא בַּר אַהֲבָה cites a ברייתא to answer the question. This is a setup line introducing a new source.",
+      "deeperAnalysis": "The ברייתא describes a case where one party תּוֹפֵשׂ a פָּרָה but the other fails to מָשַׁךְ a חֲמוֹר before it dies. The conclusion is that the owner of the donkey לֹא קָנָה the cow. This teaches that when parties are particular about value, acquisition does not occur immediately upon one party's act.",
+      "keyTerms": [
+        {
+          "term": "תּוֹפֵשׂ",
+          "meaning": "grasping"
+        },
+        {
+          "term": "פָּרָה",
+          "meaning": "cow"
+        },
+        {
+          "term": "חֲמוֹר",
+          "meaning": "donkey"
+        },
+        {
+          "term": "לֹא קָנָה",
+          "meaning": "did not acquire"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב אַדָּא בַּר אַהֲבָה, תָּא שְׁמַע:",
+          "english": "Rav Adda bar Ahava says: Come and hear:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲרֵי שֶׁהָיָה תּוֹפֵשׂ פָּרָתוֹ וְעוֹמֵד,",
+          "english": "If one was grasping his cow and standing,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּבָא חֲבֵירוֹ וְאָמַר לוֹ:",
+          "english": "and his friend came and said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "פָּרָתְךָ לָמָּה? לַחֲמוֹר אֲנִי צָרִיךְ.",
+          "english": "Your cow, why? I need a donkey."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יֵשׁ לִי חֲמוֹר שֶׁאֲנִי נוֹתֵן לְךָ.",
+          "english": "I have a donkey that I give to you."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "פָּרָתְךָ בְּכַמָּה? בְּכָךְ וְכָךְ.",
+          "english": "Your cow, for how much? For so much and so much."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "חֲמוֹרְךָ בְּכַמָּה? בְּכָךְ וְכָךְ.",
+          "english": "Your donkey, for how much? For so much and so much."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מָשַׁךְ בַּעַל הַחֲמוֹר אֶת הַפָּרָה,",
+          "english": "The owner of the donkey pulled the cow,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְלֹא הִסְפִּיק בַּעַל הַפָּרָה לִמְשׁוֹךְ אֶת",
+          "english": "and the owner of the cow did not manage to pull the"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "הַחֲמוֹר עַד שֶׁמֵּת הַחֲמוֹר –",
+          "english": "donkey until the donkey died –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "לֹא קָנָה בַּעַל הַחֲמוֹר אֶת הַפָּרָה.",
+          "english": "the owner of the donkey did not acquire the cow."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "שְׁמַע מִינַּהּ: חֲלִיפִין וּמַקְפִּיד עֲלֵיהֶן – לֹא קָנָה.",
+          "english": "Learn from it: Exchange and one is particular about them – he did not acquire."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב אַדָּא בַּר אַהֲבָה, תָּא שְׁמַע: הֲרֵי שֶׁהָיָה תּוֹפֵשׂ פָּרָתוֹ וְעוֹמֵד, וּבָא חֲבֵירוֹ וְאָמַר לוֹ: פָּרָתְךָ לָמָּה? לַחֲמוֹר אֲנִי צָרִיךְ. יֵשׁ לִי חֲמוֹר שֶׁאֲנִי נוֹתֵן לְךָ. פָּרָתְךָ בְּכַמָּה? בְּכָךְ וְכָךְ. חֲמוֹרְךָ בְּכַמָּה? בְּכָךְ וְכָךְ. מָשַׁךְ בַּעַל הַחֲמוֹר אֶת הַפָּרָה, וְלֹא הִסְפִּיק בַּעַל הַפָּרָה לִמְשׁוֹךְ אֶת הַחֲמוֹר עַד שֶׁמֵּת הַחֲמוֹר – לֹא קָנָה בַּעַל הַחֲמוֹר אֶת הַפָּרָה. שְׁמַע מִינַּהּ: חֲלִיפִין וּמַקְפִּיד עֲלֵיהֶן – לֹא קָנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_from",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:4:1",
+            "hebrew": "פרתך למה - הבאת בשוק:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase פרתך למה means the cow was brought to the market."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: the case is one of improper משיכה",
+      "stepSummary": "רַבָּא resolves the difficulty by explaining that the case in the ברייתא is one where the parties are not particular about the value of the items, but rather about the items themselves.",
+      "whatsHappening": "רַבָּא resolves the difficulty by reinterpreting the ברייתא. This is a transition line offering a new perspective.",
+      "deeperAnalysis": "רַבָּא argues that the case in the ברייתא involves parties who are not מַקְפִּיד about value, but about the items themselves. He explains that the buyer failed to perform a מְשִׁיכָה מַעַלְיָא because he did not pull all the items involved in the exchange. Thus, the lack of acquisition is due to improper משיכה, not value concerns.",
+      "keyTerms": [
+        {
+          "term": "מְשִׁיכָה מַעַלְיָא",
+          "meaning": "proper act of pulling"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: אַטּוּ חֲלִיפִין בְּשׁוּפְטָנֵי עָסְקִינַן, דְּלָא קָפְדִי?",
+          "english": "Rava said: Are we dealing with fools in exchanges, who are not particular?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֶלָּא כׇּל חֲלִיפִין מִיקְפָּד קָפְדִי וְקָנָה.",
+          "english": "Rather, all exchanges are particular and acquires."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָכָא בְּמַאי עָסְקִינַן –",
+          "english": "And here, with what are we dealing?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דַּאֲמַר לֵיהּ: חֲמוֹר בְּפָרָה וְטָלֶה,",
+          "english": "That he said to him: A donkey for a cow and a lamb,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמָשַׁךְ אֶת הַפָּרָה וַעֲדַיִין לֹא מָשַׁךְ אֶת הַטָּלֶה,",
+          "english": "And he pulled the cow and still has not pulled the lamb,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּלָא הָוֵה לֵיהּ מְשִׁיכָה מַעַלְיָא.",
+          "english": "That he did not have a proper pulling."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: אַטּוּ חֲלִיפִין בְּשׁוּפְטָנֵי עָסְקִינַן, דְּלָא קָפְדִי? אֶלָּא כׇּל חֲלִיפִין מִיקְפָּד קָפְדִי וְקָנָה. וְהָכָא בְּמַאי עָסְקִינַן – דַּאֲמַר לֵיהּ: חֲמוֹר בְּפָרָה וְטָלֶה, וּמָשַׁךְ אֶת הַפָּרָה וַעֲדַיִין לֹא מָשַׁךְ אֶת הַטָּלֶה, דְּלָא הָוֵה לֵיהּ מְשִׁיכָה מַעַלְיָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows_from",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:7:1",
+            "hebrew": "אמר רבא אטו חליפין - דקרא:",
+            "english": "",
+            "takeaway": "רש״י explains that רַבָּא's phrase 'חליפין' refers to the biblical verse (דקרא) regarding exchange."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:7:2",
+            "hebrew": "בשופטני עסקינן - דלא קפדי לדעת שיהו שוות קצת דמים שייטב בעיניו לתת לו את שלו כנגדו ואפי' הכי קאמר קרא דקנה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'בשופטני עסקינן' means the parties are not particular about the items being of equal monetary value, as the giver is satisfied to receive the other item in exchange even if the values differ slightly."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:7:1",
+            "hebrew": "כל חליפין מיקפד קפדי - שיהו שוין קצת ולפעמים שיהו שוין כמו החפץ גופיה ואפילו כשאינו שוה כחפץ שכנגדו קנה:",
+            "english": "",
+            "takeaway": "תוספות explains that 'כל חליפין מיקפד קפדי' means the parties are particular that the items be somewhat equal in value, and sometimes even equal to the item itself, yet acquisition occurs even if the exchanged item is not worth as much as the one given."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "רש״י and תוספות offer differing interpretations of the phrase 'מיקפד קפדי' in רַבָּא's resolution: רש״י understands it as the parties NOT being particular about equal value, while תוספות understands it as them BEING particular about some equality, yet acquisition still occurs despite value discrepancies."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Does Rav Huna hold that money effects chalifin?",
+      "stepSummary": "The Gemara infers from Rav Huna's ruling that he holds money can effect chalifin, since the buyer acquired the item and the seller retains an onaa claim.",
+      "whatsHappening": "The Gemara presses on רַב הוּנָא's ruling to extract his underlying view. This is a setup line for a deeper analysis.",
+      "deeperAnalysis": "The Gemara infers that רַב הוּנָא must hold that מַטְבֵּעַ can effect חֲלִיפִין. If money alone acquired by Torah law, there would be no אוֹנָאָה. The presence of אוֹנָאָה implies the acquisition was via חֲלִיפִין, where money is treated as a physical object.",
+      "keyTerms": [
+        {
+          "term": "מַטְבֵּעַ",
+          "meaning": "coin / money"
+        }
+      ],
+      "whatToRemember": "The inference relies on the link between אוֹנָאָה and חֲלִיפִין: אוֹנָאָה exists only when the money is treated as a physical object (חֲלִיפִין), not when it acquires by Torah law.",
+      "confusionAlert": "Do not confuse this with the later dispute about whose vessel effects קניין אגב. This step is purely about רַב הוּנָא's view on money as חֲלִיפִין.",
+      "whyThisMatters": "Determining whether money effects חֲלִיפִין impacts the entire structure of acquisition law and the applicability of אוֹנָאָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר מָר: ״מְכוֹר לִי בְּאֵלּוּ״ –",
+          "english": "The Master said: 'Sell me for these'"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קָנָה, וְיֵשׁ לוֹ עָלָיו אוֹנָאָה.",
+          "english": "He acquired, and there is against him overreaching"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֵימָא סָבַר רַב הוּנָא מַטְבֵּעַ נַעֲשֶׂה חֲלִיפִין?",
+          "english": "Let us say Rav Huna holds that a coin becomes exchange?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "אָמַר מָר: ״מְכוֹר לִי בְּאֵלּוּ״ – קָנָה, וְיֵשׁ לוֹ עָלָיו אוֹנָאָה. לֵימָא סָבַר רַב הוּנָא מַטְבֵּעַ נַעֲשֶׂה חֲלִיפִין?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya_start",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:8:1",
+            "hebrew": "לימא קסבר רב הונא כו' - דהא יהב טעמא למלתיה משום דכחליפין דמו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara infers Rav Huna holds money effects chalifin because Rav Huna's ruling that onaa applies is based on the premise that the transaction resembles chalifin."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Huna follows Rabbi Yochanan: money acquires by Torah law",
+      "stepSummary": "The Gemara rejects the inference: Rav Huna holds like Rabbi Yochanan that money acquires by Torah law, and the Sages only decreed meshicha for common cases.",
+      "whatsHappening": "The Gemara resolves the difficulty by attributing רַב הוּנָא's view to רַבִּי יוֹחָנָן's principle. This is a transition line offering a resolution.",
+      "deeperAnalysis": "The Gemara explains that רַב הוּנָא holds like רַבִּי יוֹחָנָן: by דְּבַר תּוֹרָה, money acquires. The Sages decreed that מְשִׁיכָה is required only for common transactions to prevent the seller from claiming the goods were destroyed. Since this case is uncommon, no גְּזֵרָה applies, and Torah law governs. This explains why אוֹנָאָה applies: the acquisition was by Torah law, not חֲלִיפִין.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan, the Amora whose view is cited"
+        },
+        {
+          "term": "דְּבַר תּוֹרָה",
+          "meaning": "by Torah law"
+        },
+        {
+          "term": "גְּזֵרָה",
+          "meaning": "rabbinic decree"
+        }
+      ],
+      "whatToRemember": "The distinction between common and uncommon cases determines whether the Sages' decree of מְשִׁיכָה applies.",
+      "confusionAlert": "Do not confuse רַבִּי יוֹחָנָן's view with the later dispute about whose vessel effects קניין אגב. This step is purely about רַב הוּנָא's view on money as חֲלִיפִין.",
+      "whyThisMatters": "This establishes that רַב הוּנָא does not hold that money effects חֲלִיפִין, but rather follows רַבִּי יוֹחָנָן's Torah-law view.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, רַב הוּנָא סָבַר לַהּ כְּרַבִּי יוֹחָנָן דְּאָמַר:",
+          "english": "No, Rav Huna holds it according to Rabbi Yoḥanan who says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּבַר תּוֹרָה מָעוֹת קוֹנוֹת.",
+          "english": "By Torah law money acquires."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמִפְּנֵי מָה אָמְרוּ מְשִׁיכָה קוֹנָה –",
+          "english": "And for what reason did they say drawing acquires –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גְּזֵירָה שֶׁמָּא יֹאמַר לוֹ נִשְׂרְפוּ חִטֶּיךָ בַּעֲלִיָּיה.",
+          "english": "A decree lest he say to him: Your wheat burned in the upper story."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִלְּתָא דִּשְׁכִיחָא –",
+          "english": "A matter that is common –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "גְּזַרוּ בַּהּ רַבָּנַן,",
+          "english": "The Sages decreed in it,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמִלְּתָא דְּלָא שְׁכִיחָא –",
+          "english": "And a matter that is not common –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָא גְּזַרוּ בַּהּ רַבָּנַן.",
+          "english": "The Sages did not decree in it."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֲמַר לֵיהּ מָר הוּנָא בְּרֵיהּ דְּרַב",
+          "english": "Mar Huna, son of Rav Naḥman, said to Rav Ashi: You,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "נַחְמָן לְרַב אָשֵׁי: אַתּוּן,",
+          "english": "Thus you teach it,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הָכִי מַתְנִיתוּ לַהּ,",
+          "english": "We teach it thus:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֲנַן הָכִי מַתְנֵינַן לַהּ:",
+          "english": "And likewise Rav Huna said:"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "וְכֵן אָמַר רַב הוּנָא,",
+          "english": "Money does not become exchange."
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "אֵין מַטְבֵּעַ נַעֲשֶׂה חֲלִיפִין.",
+          "english": "item used to effect a transaction by means of exchange."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "לָא, רַב הוּנָא סָבַר לַהּ כְּרַבִּי יוֹחָנָן דְּאָמַר: דְּבַר תּוֹרָה מָעוֹת קוֹנוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:9:1",
+            "hebrew": "סבר לה כרבי יוחנן - כלומר אין מטבע נעשה חליפין והני לאו חליפין נינהו אלא דמים דהא מכור לי קאמר ודמים כי האי גוונא קנו בלא משיכה כחליפין דקנין סודר משום דזביני דלא שכיח נינהו וכרבי יוחנן כו':",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Huna follows רבי יוחנן's view that money acquires by Torah law, and since this transaction is uncommon, the Sages did not decree that משיכה is required, so the money functions like a קנין סודר."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:9:2",
+            "hebrew": "אתון הכי מתניתו לה - לדרב הונא דמספקא לכו אי סבר ליה מטבע נעשה חליפין ואם לאו ודחיתו דחוי בעלמא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Ashi's students learned Rav Huna's statement as a doubt (ספק) about whether money can be used for חליפין, which led them to offer a weak resolution."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:9:3",
+            "hebrew": "אנן - בהדיא מתנינן רב הונא בהדי הנך רבנן דלעיל (בבא מציעא דף מו.) וכן אמר רב הונא כו' ולא מספקא לן הכא מידי דודאי טעמיה משום דס\"ל כרבי יוחנן הוא:",
+            "english": "",
+            "takeaway": "רש״י notes that Rav Ashi's students learned Rav Huna's statement explicitly alongside the other Sages on the previous page, leaving no doubt that his reasoning is based on following רבי יוחנן."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:9:1",
+            "hebrew": "רב הונא סבר כר' יוחנן - ומיירי בתורת דמים ולעיל ה\"פ והני דמים כיון דלא שכיחי כחליפין דמו:",
+            "english": "",
+            "takeaway": "תוספות explains that Rav Huna follows רבי יוחנן regarding תורת דמים, and the earlier discussion refers to money that, because it is uncommon, is treated like חליפין."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "שאלה",
+      "title": "With whose vessel does one effect kinyan agav?",
+      "stepSummary": "The Gemara shifts to a new question: whose vessel is used to effect kinyan agav?",
+      "whatsHappening": "The Gemara transitions to a new topic: the mechanics of קניין אגב. This is a setup line for a new discussion.",
+      "deeperAnalysis": "The Gemara asks a neutral question: with whose כֵּלִי does one קוֹנִין? This is a new topic, not a continuation of the previous discussion about רַב הוּנָא's view on money as חֲלִיפִין. The question is neutral and does not attack any earlier statement.",
+      "keyTerms": [
+        {
+          "term": "קוֹנִין",
+          "meaning": "one acquires"
+        },
+        {
+          "term": "כֵּלִי",
+          "meaning": "vessel / container"
+        }
+      ],
+      "whatToRemember": "This is a new topic, not a continuation of the previous discussion. The question is neutral and does not attack any earlier statement.",
+      "confusionAlert": "Do not confuse this with the earlier discussion about רַב הוּנָא's view on money as חֲלִיפִין. This is a new topic.",
+      "whyThisMatters": "This question sets up the dispute between רַב and לֵוִי about whose vessel effects קניין אגב.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בַּמֶּה קוֹנִין?",
+          "english": "With what does one acquire?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "בַּמֶּה קוֹנִין?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya_start",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:10:1",
+            "hebrew": "במה קונין - קנין חליפין דכתיב בקרא שלף איש נעלו מי שלף ונתן:",
+            "english": "",
+            "takeaway": "רש״י explains that the question 'במה קונין' refers to the mechanics of קנין חליפין, which is derived from the verse 'שלף איש נעלו' indicating that the one who removes and gives the shoe effects the acquisition."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תשובה",
+      "title": "Rav and Levi's dispute: buyer's vs seller's vessel",
+      "stepSummary": "Rav holds the buyer's vessel effects kinyan agav, while Levi holds the seller's vessel does.",
+      "whatsHappening": "The Gemara answers the question by presenting the dispute between רַב and לֵוִי. This is a setup line introducing the opposing views.",
+      "deeperAnalysis": "רַב holds that the קוֹנֶה's vessel effects קניין אגב, because the buyer is amenable to the מַקְנֶה acquiring his vessel so that the buyer can then acquire the item. לֵוִי holds that the מַקְנֶה's vessel effects קניין אגב, as will be explained later. This is a direct answer to the neutral question posed in the previous step.",
+      "keyTerms": [
+        {
+          "term": "רַב",
+          "meaning": "Rav, the Amora"
+        },
+        {
+          "term": "לֵוִי",
+          "meaning": "Levi, the Amora"
+        },
+        {
+          "term": "קוֹנֶה",
+          "meaning": "the buyer / acquirer"
+        },
+        {
+          "term": "מַקְנֶה",
+          "meaning": "the seller / transferor"
+        }
+      ],
+      "whatToRemember": "רַב's reasoning is that the buyer is amenable to the seller acquiring his vessel, which facilitates the buyer's acquisition of the item.",
+      "confusionAlert": "Do not confuse this with the earlier discussion about רַב הוּנָא's view on money as חֲלִיפִין. This is a new topic.",
+      "whyThisMatters": "This dispute sets up the later challenge from רַב הוּנָא of Diskarta to לֵוִי's view.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב אָמַר: בְּכִלְיוֹ שֶׁל קוֹנֶה.",
+          "english": "Rav says: In the vessel of the acquirer."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּנִיחָא לֵיהּ לְקוֹנֶה דְּלֶהֱוֵי מַקְנֶה קוֹנֶה,",
+          "english": "It is agreeable to the acquirer that the transferor acquire [it],"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי הֵיכִי דְּלִגְמַר וְלַקְנֵי לֵיהּ.",
+          "english": "so that he will resolve to transfer ownership to him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלֵוִי אָמַר: בְּכִלְיוֹ שֶׁל מַקְנֶה, כִּדְבָעֵינַן לְמֵימַר לְקַמַּן.",
+          "english": "And Levi says: In the vessel of the transferor, as we will say below."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "מימרא",
+      "triggerLanguage": "רַב אָמַר: בְּכִלְיוֹ שֶׁל קוֹנֶה. דְּנִיחָא לֵיהּ לְקוֹנֶה דְּלֶהֱוֵי מַקְנֶה קוֹנֶה, כִּי הֵיכִי דְּלִגְמַר וְלַקְנֵי לֵיהּ. וְלֵוִי אָמַר: בְּכִלְיוֹ שֶׁל מַקְנֶה, כִּדְבָעֵינַן לְמֵימַר לְקַמַּן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:11:1",
+            "hebrew": "דליהוי מקנה קונה - את הכלי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase דליהוי מקנה קונה means the seller acquires the buyer's vessel, which is the prerequisite for the buyer to then acquire the item through קניין אגב."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to לֵוִי: acquiring land with a cloak",
+      "stepSummary": "Rav Huna of Diskarta challenges Levi's view: if the seller's vessel effects kinyan agav, then acquiring land with a cloak would mean acquiring guaranteed property with non-guaranteed property, contradicting the Mishna.",
+      "whatsHappening": "רַב הוּנָא מִדִּסְקַרְתָּא challenges לֵוִי's view by showing it contradicts the מִשְׁנָה. This is a setup line introducing a קוֹשְׁיָא.",
+      "deeperAnalysis": "If לֵוִי is correct, acquiring land with a cloak means non-guaranteed property acquires guaranteed property. This inverts the מִשְׁנָה's rule that guaranteed property acquires non-guaranteed property. The challenge forces a reevaluation of לֵוִי's position.",
+      "keyTerms": [
+        {
+          "term": "רַב הוּנָא מִדִּסְקַרְתָּא",
+          "meaning": "Rav Huna of Diskarta"
+        },
+        {
+          "term": "אֶרֶץ",
+          "meaning": "land"
+        },
+        {
+          "term": "גְּלִימָא",
+          "meaning": "cloak / garment"
+        },
+        {
+          "term": "נְכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת",
+          "meaning": "guaranteed property"
+        },
+        {
+          "term": "נְכָסִים שֶׁאֵין לָהֶן אַחְרָיוּת",
+          "meaning": "non-guaranteed property"
+        }
+      ],
+      "whatToRemember": "The challenge relies on the מִשְׁנָה's rule that non-guaranteed property is acquired with guaranteed property, not vice versa.",
+      "confusionAlert": "Do not confuse this with the earlier discussion about רַב הוּנָא's view on money as חֲלִיפִין. This is a new topic.",
+      "whyThisMatters": "This challenge forces a reevaluation of לֵוִי's view and sets up רַבָּא's resolution.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב הוּנָא מִדִּסְקַרְתָּא לְרָבָא:",
+          "english": "Rav Huna from Diskarta said to Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּלְלֵוִי, דְּאָמַר בְּכִלְיוֹ שֶׁל מַקְנֶה,",
+          "english": "And to Levi, who says in the vessels of the one transferring ownership,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא קָא קָנֵי אַרְעָא אַגַּב גְּלִימָא. אִם כֵּן,",
+          "english": "Here he is acquiring land by means of a cloak. If so,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָווּ לֵיהּ נְכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת",
+          "english": "They would be property that has guarantee"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְנִקְנִין עִם נְכָסִים שֶׁאֵין לָהֶן אַחְרָיוּת.",
+          "english": "And are acquired with property that has no guarantee."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וַאֲנַן אִיפְּכָא תְּנַן:",
+          "english": "And we learned the opposite:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נְכָסִים שֶׁאֵין לָהֶן אַחְרָיוּת נִקְנִין עִם",
+          "english": "Property that has no guarantee is acquired with"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "נְכָסִים שֶׁיֵּשׁ לָהֶן אַחְרָיוּת!",
+          "english": "Property that has guarantee!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב הוּנָא מִדִּסְקַרְתָּא לְרָבָא: וּלְלֵוִי, דְּאָמַר בְּכִלְיוֹ שֶׁל מַקְנֶה, הָא קָא קָנֵי אַרְעָא אַגַּב גְּלִימָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "attacks_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:12:1",
+            "hebrew": "קא קני ארעא אגב גלימא - הנותן קרקע לחבירו בקנין סודר והמקבל מתנה מושך הסודר מיד הנותן ונקנה לו הקרקע עם הסודר במשיכת הסודר שנקנה במשיכה:",
+            "english": "",
+            "takeaway": "רש״י explains that according to Levi, when land is acquired via a cloak, the land is acquired together with the cloak through the physical act of drawing the cloak, which is a valid acquisition method for movable property but not for land."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:12:2",
+            "hebrew": "א\"כ הוו להו קרקעות נקנין עם מטלטלין במשיכה בדבר שהוא קנין למטלטלין ואינו קנין לקרקע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that this scenario results in guaranteed property (land) being acquired through a method valid only for non-guaranteed property (movables), which inverts the standard rule."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:12:3",
+            "hebrew": "נכסים שאין להן אחריות נקנין עם נכסים שיש להן אחריות - בדבר שהוא קנין לקרקע ואינו קנין למטלטלין כדקתני בכסף ובשטר ובחזקה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna's rule requires non-guaranteed property to be acquired through a method valid for guaranteed property (such as money, document, or חזקה), which is the opposite of what Levi's view entails."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:12:1",
+            "hebrew": "בכליו של מקנה - דוקא בכליו של מקנה ולא בכליו של קונה דהא מקרא יליף לקמן ואי לוי סבר אין מטבע נעשה חליפין וכן פירי היינו טעמא דבעי הנאת קבלת דבר חשוב דומיא דנעל ולא מטבע ופירי:",
+            "english": "",
+            "takeaway": "תוספות clarifies that Levi's principle of acquiring with the seller's vessel applies specifically to the seller's vessel, not the buyer's, and connects this to Levi's view on whether currency constitutes חליפין and the requirement for the benefit of receiving a significant item."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: the cloak's benefit effects the land's acquisition",
+      "stepSummary": "Rava resolves the difficulty: Levi does not hold that the cloak itself acquires the land, but rather the benefit of the cloak's transfer effects the land's acquisition.",
+      "whatsHappening": "רַבָּא resolves the difficulty by reinterpreting לֵוִי's view. This is a תֵּרוּץ line.",
+      "deeperAnalysis": "רַבָּא explains that לֵוִי does not hold that the cloak itself acquires the land. Rather, the benefit that the seller receives from the buyer accepting the cloak effects the land's acquisition. This avoids the contradiction with the מִשְׁנָה, because the land is not being acquired with the cloak (non-guaranteed property), but with the benefit of the cloak's transfer (which is not a physical object).",
+      "keyTerms": [
+        {
+          "term": "הֲנָאָה",
+          "meaning": "benefit / pleasure"
+        },
+        {
+          "term": "גָּמַר וּמַקְנֵי",
+          "meaning": "resolves to transfer ownership"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the distinction between the physical cloak and the benefit of its transfer.",
+      "confusionAlert": "Do not confuse this with the earlier discussion about רַב הוּנָא's view on money as חֲלִיפִין. This is a new topic.",
+      "whyThisMatters": "This resolution preserves לֵוִי's view while avoiding the contradiction with the מִשְׁנָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: אִי הֲוָה לֵוִי הָכָא,",
+          "english": "He said to him: If a Levite were here,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֲוָה מַפֵּיק לְאַפָּךְ פּוּלְסֵי דְנוּרָא!",
+          "english": "he would bring out before you rods of fire!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִי סָבְרַתְּ גְּלִימָא מַקְנֵה לֵיהּ?",
+          "english": "Do you think that the cloak acquires it for him?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּהָהִיא הֲנָאָה דְּקָא מְקַבֵּל מִינֵּיהּ –",
+          "english": "In that benefit that he is receiving from him –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "גָּמַר וּמַקְנֵי לֵיהּ.",
+          "english": "he resolved and acquires it for him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אֲמַר לֵיהּ: אִי הֲוָה לֵוִי הָכָא, הֲוָה מַפֵּיק לְאַפָּךְ פּוּלְסֵי דְנוּרָא! מִי סָבְרַתְּ גְּלִימָא מַקְנֵה לֵיהּ? בְּהָהִיא הֲנָאָה דְּקָא מְקַבֵּל מִינֵּיהּ – גָּמַר וּמַקְנֵי לֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        10
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:13:1",
+            "hebrew": "מפיק לאפך פולסא דנורא - ניצוצות של אור אשטנצל\"ש שהן עגולות כפולסא דאמרי' לקמן אסימון פולסא ולשון שמתא קאמר ליה שחשדתו בזו:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'הוה מפיק לאפך פולסא דנורא' is an idiom meaning 'you would have spat in my face,' indicating that Levi would have been insulted by the suggestion that he holds the cloak itself acquires the land."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:13:2",
+            "hebrew": "מי סברת - דאמר ליה אגב שעל ידי משיכת הכלי שנקנה לו במשיכה יקנה לו הקרקע עם הכלי אין אלו אלא כחליפין כאילו זה מוסר לו חפץ אחר תחת קרקע ומהו מסירתו הנאת קבלתו ממנו מתנת הכלי שחשבו לקבל ממנו מתנה נוח לו כאילו נותן לו זה הקונה מתנה רבה וגמר נותן ומקנה לו הקרקע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Levi does not hold that the cloak itself effects acquisition via אגב, but rather that the benefit (הנאה) the seller receives from the buyer accepting the cloak as a gift is what effects the land's acquisition."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The תַּנָּאִים dispute on Ruth 4:7",
+      "stepSummary": "A baraita explains the verse in Ruth about redemption and substitution, identifying redemption as sale and substitution as exchange, and disputes who gave the shoe to whom.",
+      "whatsHappening": "The סוּגְיָא opens with a תַּנָּאִים dispute explaining the biblical source for קְנִיַּן אֲגָב from Ruth 4:7. This is a setup line introducing a new source.",
+      "deeperAnalysis": "The בְּרֵאשִׁית interprets 'גְּאֻלָּה' as sale and 'תְּמוּרָה' as exchange. It then asks who gave the shoe to whom: Boaz to the redeemer, or the redeemer to Boaz. This sets up the biblical basis for acquisition via a vessel.",
+      "keyTerms": [
+        {
+          "term": "גְּאֻלָּה",
+          "meaning": "redemption, here meaning sale"
+        },
+        {
+          "term": "תְּמוּרָה",
+          "meaning": "substitution, here meaning exchange"
+        },
+        {
+          "term": "נַעַל",
+          "meaning": "shoe, the symbolic object of transfer"
+        }
+      ],
+      "whatToRemember": "The dispute is about the direction of the shoe transfer, mirroring the רַב/לֵוִי dispute about whose vessel effects acquisition.",
+      "confusionAlert": "The verse is from Ruth, but the legal concepts are drawn from Leviticus.",
+      "whyThisMatters": "Establishes קְנִיַּן אֲגָב as biblically rooted, not just rabbinic.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּתַנָּאֵי: ״וְזֹאת לְפָנִים בְּיִשְׂרָאֵל עַל הַגְּאוּלָּה וְעַל",
+          "english": "The Tannaim: 'And this was the custom in former time in Israel concerning redemption and concerning"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַתְּמוּרָה לְקַיֵּם כׇּל דָּבָר שָׁלַף אִישׁ",
+          "english": "substitution, to confirm every matter that a man drew off his shoe and gave to…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נַעֲלוֹ וְנָתַן לְרֵעֵהוּ״.",
+          "english": "'Redemption' — this is a sale,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״גְּאוּלָּה״ – זוֹ מְכִירָה,",
+          "english": "and likewise it says:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְכֵן הוּא אוֹמֵר:",
+          "english": "'Neither shall be sold nor shall be redeemed.' 'Substitution' —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״לֹא יִגָּאֵל״. ״תְּמוּרָה״ –",
+          "english": "this is exchange, and likewise it says:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "זוֹ חֲלִיפִין, וְכֵן הוּא אוֹמֵר:",
+          "english": "'He may neither exchange it nor substitute it.'"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״לֹא יַחֲלִיפֶנּוּ וְלֹא יָמִיר אוֹתוֹ״.",
+          "english": "'To confirm every matter that a man drew off his shoe and gave to his…"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "״לְקַיֵּם כׇּל דָּבָר שָׁלַף אִישׁ נַעֲלוֹ וְנָתַן לְרֵעֵהוּ״.",
+          "english": "Who gave to whom?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִי נָתַן לְמִי?",
+          "english": "Boaz gave to the redeemer."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "בּוֹעַז נָתַן לַגּוֹאֵל.",
+          "english": "Rabbi Yehuda says: The redeemer gave to Boaz."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: גּוֹאֵל נָתַן לְבוֹעַז.",
+          "english": "shoe to Boaz. The dispute between Rav and Levi is parallel to the dispute between the first tanna and Rabbi Yehuda."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כְּתַנָּאֵי: ״וְזֹאת לְפָנִים בְּיִשְׂרָאֵל עַל הַגְּאֻלָּה וְעַל הַתְּמוּרָה לְקַיֵּם כָּל דָּבָר שָׁלַף אִישׁ נַעֲלוֹ וְנָתַן לְרֵעֵהוּ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:14:1",
+            "hebrew": "גאולה זו מכירה - שמכר לו מכירה גמורה בדמים ולא קיבל מעות ובאין לקיים דברי מכירתן על ידי קנין:",
+            "english": "",
+            "takeaway": "רש״י explains that the term גאולה in the verse refers to a sale (מכירה) where the transaction is finalized through a קנין rather than the actual receipt of money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:14:2",
+            "hebrew": "זו חליפין - שמחליף כלי זה בחפץ שכנגדו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that תמורה refers to חליפין, which is the exchange of one vessel for another object."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:14:1",
+            "hebrew": "גאולה זו מכירה וכן הוא אומר אם לא יגאל ונמכר - וקשה לר\"ת דאדרבה פסוק זה מוכיח דגאולה אינה מכירה אלא גרס לא יגאל דכתיב במעשר בהמה ואמרינן בפ' כל פסולי המוקדשין (בכורות דף לב.) דהאי לא יגאל לא ימכר הוא דאינו נמכר לא חי ולא שחוט ומפרש ר\"ת גאולה זו מכירה ולרבי יוחנן גאולה בכסף ולר\"ל במשיכה תמורה זו חליפין של שוה בשוה דמהני לכ\"ע אפי' בפירי לקיים כל דבר לרבות אינו שוה בשוה למר אף במטבע ופירי ולמר דוקא בכלי:",
+            "english": "",
+            "takeaway": "תוספות addresses ר"
+          }
+        ],
+        "rishonim": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:14:1",
+            "hebrew": "גאולה זו מכירה וכן הוא אומר אם לא יגאל ונמכר - וקשה לר\"ת דאדרבה פסוק זה מוכיח דגאולה אינה מכירה אלא גרס לא יגאל דכתיב במעשר בהמה ואמרינן בפ' כל פסולי המוקדשין (בכורות דף לב.) דהאי לא יגאל לא ימכר הוא דאינו נמכר לא חי ולא שחוט ומפרש ר\"ת גאולה זו מכירה ולרבי יוחנן גאולה בכסף ולר\"ל במשיכה תמורה זו חליפין של שוה בשוה דמהני לכ\"ע אפי' בפירי לקיים כל דבר לרבות אינו שוה בשוה למר אף במטבע ופירי ולמר דוקא בכלי:",
+            "english": "",
+            "takeaway": "תוספות notes that ר"
+          }
+        ],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "רַב נַחְמָן vs רַב שֵׁשֶׁת on קְנִיַּן בְּפֵרוֹת",
+      "stepSummary": "Rav Naḥman rules that acquisition via a vessel works even without a peruta's worth, but not with produce; Rav Sheshet permits even produce.",
+      "whatsHappening": "The גְּמָרָא introduces a new dispute about whether קְנִיַּן אֲגָב can be effected with produce or only with a defined vessel. This is a setup line introducing a new dispute.",
+      "deeperAnalysis": "רַב נַחְמָן limits קְנִיַּן to vessels, even worthless ones. רַב שֵׁשֶׁת extends it to produce. The גְּמָרָא then asks for רַב נַחְמָן's reason, citing 'נַעֲלוֹ' to exclude other items.",
+      "keyTerms": [
+        {
+          "term": "קוֹנִין בְּכֵלִי",
+          "meaning": "one acquires via a vessel"
+        },
+        {
+          "term": "פֵּרוֹת",
+          "meaning": "produce, undefined items"
+        },
+        {
+          "term": "שָׁוֶה פְּרוּטָה",
+          "meaning": "worth a peruta"
+        }
+      ],
+      "whatToRemember": "רַב נַחְמָן's proof is from 'נַעֲלוֹ' — a specific vessel type.",
+      "confusionAlert": "רַב נַחְמָן allows a worthless vessel, but not produce. The distinction is about defined vs. undefined items.",
+      "whyThisMatters": "Defines the scope of קְנִיַּן אֲגָב: is it limited to vessels or extended to all items?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנָא: קוֹנִין בִּכְלִי אַף עַל פִּי שֶׁאֵין",
+          "english": "It was taught: One acquires through a vessel, even though it does not"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בּוֹ שָׁוֶה פְּרוּטָה.",
+          "english": "have a value of a peruta."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַב נַחְמָן:",
+          "english": "Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא בִּכְלִי,",
+          "english": "They only taught regarding a vessel,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל בְּפֵירֵי – לָא.",
+          "english": "but regarding produce – no."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַב שֵׁשֶׁת אָמַר: אֲפִילּוּ בְּפֵירוֹת.",
+          "english": "Rav Sheshet said: Even regarding produce."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַאי טַעְמָא דְּרַב נַחְמָן?",
+          "english": "What is the reason of Rav Naḥman?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָמַר קְרָא ״נַעֲלוֹ״,",
+          "english": "The verse says 'his shoe',"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נַעַל – אִין,",
+          "english": "shoe – yes,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִידֵּי אַחֲרִינָא – לָא.",
+          "english": "any other thing – no."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנָא: קוֹנִין בְּכֵלִי אַף עַל פִּי שֶׁאֵין בּוֹ שָׁוֶה פְּרוּטָה. אָמַר רַב נַחְמָן: לֹא שָׁנוּ אֶלָּא בְּכֵלִי, אֲבָל בְּפֵרוֹת – לָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        12
+      ],
+      "scopeOfStep": "legal_rule",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:1",
+            "hebrew": "לא שנו - דקונין קנין אלא בכלי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's statement about acquiring with a vessel applies specifically to קנין אגב, which is the subject of the dispute."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:2",
+            "hebrew": "אבל בפירי - כל דבר שאינו כלי:",
+            "english": "",
+            "takeaway": "רש״י defines 'פירות' in this context as any item that is not a defined vessel (כלי)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:3",
+            "hebrew": "לא - ואפילו שוה הרבה:",
+            "english": "",
+            "takeaway": "רש״י emphasizes that Rav Naḥman's restriction applies even if the produce is worth a significant amount of money."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:16:1",
+            "hebrew": "קונים בכלי אף על פי שאין בו שוה פרוטה - וא\"ת בפ' כל שעה (פסחים דף לב: ושם ד\"ה ואין) אמרינן גבי ונתן לכהן את הקדש דאין נתינה פחות משוה פרוטה וה\"נ כתיב ונתן לרעהו וי\"ל דהתם הוי תשלומין שגזל ההקדש הלכך ליתנהו פחות משוה פרוטה כמו גבי מעילה דהוי תשלומין אבל נתינת מנעל הוא לרעהו ולא נתינת ממון וכן ונתן בידה דגט הוי נתינת גט ולא נתינת ממון כדאמר פ' שני דגיטין (דף כ. ושם ד\"ה דלמא) כתבו על איסורי הנאה כשר וכן (חולין דף קלז:) נתינת תרומה דחטה אחת פוטרת את הכרי וגבי סיכה דכתיב ואשר יתן ואיכא למ\"ד (כריתות דף ו:) דהוי בכל שהוא אע\"ג דמעילה היא היינו משום דכתיב סיכה דמשמע בכל שהוא ומ\"ד בכזית סבר כרבנן דאבא שאול דאמרי נתינה בכזית כזר שאכל תרומה וגבי לבונה דבעינן כזית בפרק כל המנחות (מנחות דף נט: ושם ס. ד\"ה מי) משום דשני מלשון שימה דאתחיל ביה:",
+            "english": "",
+            "takeaway": "תוספות addresses the apparent contradiction with the requirement of שוה פרוטה in other contexts (like קדש or גט) by distinguishing between transfers of monetary value (תשלומין) and symbolic acts of giving (like נעל or גט), which do not require a minimum value."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Why not 'כָּל דָּבָר' for רַב נַחְמָן?",
+      "stepSummary": "The Gemara challenges Rav Naḥman: the verse also says 'לקיים כל דבר', which should include produce.",
+      "whatsHappening": "The גְּמָרָא presses רַב נַחְמָן on his own verse: 'כָּל דָּבָר' seems to include all items, not just vessels. This is a קוֹשְׁיָא line.",
+      "deeperAnalysis": "רַב נַחְמָן uses 'נַעֲלוֹ' to exclude produce. But the verse also says 'לְקַיֵּם כָּל דָּבָר'. The גְּמָרָא resolves this by saying 'כָּל דָּבָר' refers to all items that can be acquired via a shoe-like vessel.",
+      "keyTerms": [
+        {
+          "term": "לְקַיֵּם כָּל דָּבָר",
+          "meaning": "to confirm all matters"
+        },
+        {
+          "term": "נַעֲלוֹ",
+          "meaning": "his shoe"
+        }
+      ],
+      "whatToRemember": "רַב נַחְמָן reads 'כָּל דָּבָר' as limited to vessel-like items.",
+      "confusionAlert": "The resolution is that 'כָּל דָּבָר' is not universal, but limited to the category of vessels.",
+      "whyThisMatters": "Shows how the גְּמָרָא limits a broad phrase to a specific category.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנָא: קוֹנִין בִּכְלִי אַף עַל פִּי שֶׁאֵין",
+          "english": "It was taught: One acquires with a vessel, even though it does not have"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בּוֹ שָׁוֶה פְּרוּטָה.",
+          "english": "in it a value of a peruta."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַב נַחְמָן:",
+          "english": "Rav Naḥman said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא בִּכְלִי,",
+          "english": "They did not teach except with a vessel,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל בְּפֵירֵי – לָא.",
+          "english": "but with produce – no."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "רַב שֵׁשֶׁת אָמַר: אֲפִילּוּ בְּפֵירוֹת.",
+          "english": "Rav Sheshet said: Even with produce."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַאי טַעְמָא דְּרַב נַחְמָן?",
+          "english": "What is the reason of Rav Naḥman?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אָמַר קְרָא ״נַעֲלוֹ״,",
+          "english": "The verse says: 'His shoe',"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נַעַל – אִין,",
+          "english": "Shoe – yes,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִידֵּי אַחֲרִינָא – לָא.",
+          "english": "Any other thing – no."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "מַאי טַעְמֵיהּ דְּרַב שֵׁשֶׁת,",
+          "english": "What is the reason of Rav Sheshet?"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אָמַר קְרָא: ״לְקַיֵּם כׇּל דָּבָר״.",
+          "english": "The verse says: 'To confirm all matters'."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "לְרַב נַחְמָן נָמֵי, הָכְתִיב: ״לְקַיֵּם כׇּל דָּבָר״!",
+          "english": "According to Rav Naḥman as well, isn't it written: 'To confirm all matters'!"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "הַהוּא לְקַיֵּם כׇּל דָּבָר, דְּנִיקְנִין בְּמִנְעָל.",
+          "english": "That 'to confirm all matters' is that they are acquired with a shoe."
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "וְרַב שֵׁשֶׁת נָמֵי, הָכְתִיב: ״נַעֲלוֹ״!",
+          "english": "And according to Rav Sheshet as well, isn't it written: 'His shoe'!"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "אָמַר לְךָ רַב שֵׁשֶׁת:",
+          "english": "Rav Sheshet said to you:"
+        },
+        {
+          "phraseNumber": 17,
+          "aramaic": "מָה נַעֲלוֹ דָּבָר הַמְסוּיָּים –",
+          "english": "What is his shoe, a specific thing –"
+        },
+        {
+          "phraseNumber": 18,
+          "aramaic": "אַף כׇּל דָּבָר הַמְסוּיָּים,",
+          "english": "so too every specific thing,"
+        },
+        {
+          "phraseNumber": 19,
+          "aramaic": "לְאַפּוֹקֵי חֲצִי רִמּוֹן וַחֲצִי אֱגוֹז, דְּלָא.",
+          "english": "to exclude half a pomegranate and half a nut, which no."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי טַעְמֵיהּ דְּרַב שֵׁשֶׁת, אָמַר קְרָא: ״לְקַיֵּם כָּל דָּבָר״. לְרַב נַחְמָן נָמֵי, הָכְתִיב: ״לְקַיֵּם כָּל דָּבָר״!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:1",
+            "hebrew": "לא שנו - דקונין קנין אלא בכלי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishna's rule of acquiring via a vessel applies only to actual vessels, not to produce."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:2",
+            "hebrew": "אבל בפירי - כל דבר שאינו כלי:",
+            "english": "",
+            "takeaway": "רש״י defines 'פירות' as any item that is not a vessel, which Rav Naḥman excludes from acquisition via a vessel."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:16:3",
+            "hebrew": "לא - ואפילו שוה הרבה:",
+            "english": "",
+            "takeaway": "רש״י emphasizes that Rav Naḥman's exclusion of produce applies even if the produce is worth a significant amount."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:1",
+            "hebrew": "לקיים כל דבר - לקיים בכל דבר:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'לקיים כל דבר' means that one can fulfill the requirement of acquisition with any item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:2",
+            "hebrew": "ההוא לקיים כל דבר - גאולה ותמורה במנעל:",
+            "english": "",
+            "takeaway": "רש״י resolves the contradiction by stating that 'לקיים כל דבר' refers to redemption and substitution of consecrated items, which can be done with a shoe."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:3",
+            "hebrew": "המסויים - שלם:",
+            "english": "",
+            "takeaway": "רש״י defines 'דבר המסויים' as a complete, whole item, excluding partial items like half a pomegranate."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:16:1",
+            "hebrew": "קונים בכלי אף על פי שאין בו שוה פרוטה - וא\"ת בפ' כל שעה (פסחים דף לב: ושם ד\"ה ואין) אמרינן גבי ונתן לכהן את הקדש דאין נתינה פחות משוה פרוטה וה\"נ כתיב ונתן לרעהו וי\"ל דהתם הוי תשלומין שגזל ההקדש הלכך ליתנהו פחות משוה פרוטה כמו גבי מעילה דהוי תשלומין אבל נתינת מנעל הוא לרעהו ולא נתינת ממון וכן ונתן בידה דגט הוי נתינת גט ולא נתינת ממון כדאמר פ' שני דגיטין (דף כ. ושם ד\"ה דלמא) כתבו על איסורי הנאה כשר וכן (חולין דף קלז:) נתינת תרומה דחטה אחת פוטרת את הכרי וגבי סיכה דכתיב ואשר יתן ואיכא למ\"ד (כריתות דף ו:) דהוי בכל שהוא אע\"ג דמעילה היא היינו משום דכתיב סיכה דמשמע בכל שהוא ומ\"ד בכזית סבר כרבנן דאבא שאול דאמרי נתינה בכזית כזר שאכל תרומה וגבי לבונה דבעינן כזית בפרק כל המנחות (מנחות דף נט: ושם ס. ד\"ה מי) משום דשני מלשון שימה דאתחיל ביה:",
+            "english": "",
+            "takeaway": "תוספות addresses why a shoe, worth less than a פרוטה, is valid for acquisition despite other laws requiring a minimum value, explaining that this is a symbolic act of giving rather than a monetary transaction."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:17:1",
+            "hebrew": "לאפוקי חצי רמון וחצי אגוז דלא - וסודר דג' על ג' דאמר לעיל פ\"ק (בבא מציעא דף ז.) דכמאן דפסיק דמי חשיב דבר מסוים:",
+            "english": "",
+            "takeaway": "תוספות expands Rav Sheshet's definition of 'דבר המסויים' to include a small cloth (סודר) of three by three handbreadths, which is considered a defined item despite its small size."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב שֵׁשֶׁת's reading of 'נַעֲלוֹ'",
+      "stepSummary": "Rav Sheshet reads 'נעלו' as teaching that only complete items work, excluding half a pomegranate or half a nut.",
+      "whatsHappening": "The גְּמָרָא resolves the difficulty for רַב שֵׁשֶׁת: 'נַעֲלוֹ' teaches that only complete items effect acquisition. This is a תֵּרוּץ line.",
+      "deeperAnalysis": "רַב שֵׁשֶׁת uses 'כָּל דָּבָר' to include produce. But the verse also says 'נַעֲלוֹ'. He resolves this by saying 'נַעֲלוֹ' teaches that only complete items work, excluding half items. This limits the scope of 'כָּל דָּבָר' to complete items, not all items.",
+      "keyTerms": [
+        {
+          "term": "דָּבָר הַמְסוּיָּם",
+          "meaning": "a defined/complete item"
+        },
+        {
+          "term": "חֲצִי רִמּוֹן",
+          "meaning": "half a pomegranate"
+        },
+        {
+          "term": "חֲצִי אֱגוֹז",
+          "meaning": "half a nut"
+        }
+      ],
+      "whatToRemember": "רַב שֵׁשֶׁת's limitation is about completeness, not vesselhood.",
+      "confusionAlert": "The resolution is that 'נַעֲלוֹ' is not about vessels, but about completeness.",
+      "whyThisMatters": "Shows how the גְּמָרָא limits a specific phrase to a specific category.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי טַעְמֵיהּ דְּרַב שֵׁשֶׁת,",
+          "english": "What is the reason of Rav Sheshet?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר קְרָא: ״לְקַיֵּם כׇּל דָּבָר״.",
+          "english": "The verse says: 'To confirm all matters.'"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְרַב נַחְמָן נָמֵי, הָכְתִיב: ״לְקַיֵּם כׇּל דָּבָר״!",
+          "english": "For Rav Naḥman too, it is written: 'To confirm all matters'!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַהוּא לְקַיֵּם כׇּל דָּבָר, דְּנִיקְנִין בְּמִנְעָל.",
+          "english": "That 'to confirm all matters' is that they are acquired with a shoe."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרַב שֵׁשֶׁת נָמֵי, הָכְתִיב: ״נַעֲלוֹ״!",
+          "english": "And Rav Sheshet too, it is written: 'His shoe'!"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר לְךָ רַב שֵׁשֶׁת:",
+          "english": "Rav Sheshet says to you:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מָה נַעֲלוֹ דָּבָר הַמְסוּיָּים –",
+          "english": "What is his shoe, a specific matter –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אַף כׇּל דָּבָר הַמְסוּיָּים,",
+          "english": "So too every specific matter,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "לְאַפּוֹקֵי חֲצִי רִמּוֹן וַחֲצִי אֱגוֹז, דְּלָא.",
+          "english": "To exclude half a pomegranate and half a nut, which do not."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְרַב שֵׁשֶׁת נָמֵי, הָכְתִיב: ״נַעֲלוֹ״! אָמַר לְךָ רַב שֵׁשֶׁת: מָה נַעֲלוֹ דָּבָר הַמְסוּיָּם – אַף כָּל דָּבָר הַמְסוּיָּם, לְאַפּוֹקֵי חֲצִי רִמּוֹן וַחֲצִי אֱגוֹז, דְּלָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:1",
+            "hebrew": "לקיים כל דבר - לקיים בכל דבר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase לקיים כל דבר means to effect acquisition with any item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:2",
+            "hebrew": "ההוא לקיים כל דבר - גאולה ותמורה במנעל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Nachman's derivation from לקיים כל דבר applies specifically to גאולה and תמורה using a sandal."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 47a:17:3",
+            "hebrew": "המסויים - שלם:",
+            "english": "",
+            "takeaway": "רש״י defines המסויים as meaning a complete or whole item."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 47a:17:1",
+            "hebrew": "לאפוקי חצי רמון וחצי אגוז דלא - וסודר דג' על ג' דאמר לעיל פ\"ק (בבא מציעא דף ז.) דכמאן דפסיק דמי חשיב דבר מסוים:",
+            "english": "",
+            "takeaway": "תוספות notes that the exclusion of חצי רמון and חצי אגוז implies that a סודר of three by three handbreadths, which was previously established as considered a complete item, is included in the category of דבר מסוים."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "רַב שֵׁשֶׁת's son on the formula 'בְּמָנָא דְּכָשַׁר לְמִקְנְיָא בֵּיהּ'",
+      "stepSummary": "Rav Sheshet's son explains the standard formula for קנין אגב, breaking down each word to exclude various opinions.",
+      "whatsHappening": "The גְּמָרָא introduces a new teaching from רַב שֵׁשֶׁת's son, explaining the standard formula for קְנִיַּן אֲגָב. This is a setup line introducing a new teaching.",
+      "deeperAnalysis": "The formula 'בְּמָנָא דְּכָשַׁר לְמִקְנְיָא בֵּיהּ' is broken down: 'בְּמָנָא' excludes רַב שֵׁשֶׁת (who allows produce), 'דְּכָשַׁר' excludes שְׁמוּאֵל (who allows date pits), 'לְמִקְנְיָא' excludes לֵוִי (who says the seller's vessel works), and 'בֵּיהּ' excludes coins or prohibited items.",
+      "keyTerms": [
+        {
+          "term": "בְּמָנָא",
+          "meaning": "with a vessel"
+        },
+        {
+          "term": "דְּכָשַׁר",
+          "meaning": "that is fit"
+        },
+        {
+          "term": "לְמִקְנְיָא",
+          "meaning": "to acquire"
+        },
+        {
+          "term": "בֵּיהּ",
+          "meaning": "with it"
+        }
+      ],
+      "whatToRemember": "Each word in the formula excludes a specific opinion.",
+      "confusionAlert": "The formula is a standard legal phrase, and each word is analyzed to exclude a specific opinion.",
+      "whyThisMatters": "Shows how the גְּמָרָא uses precise language to exclude various opinions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב שֵׁשֶׁת בְּרֵיהּ דְּרַב אִידִי:",
+          "english": "Rav Sheshet, son of Rav Idi, said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּמַאן כָּתְבִינַן הָאִידָּנָא ״בְּמָנָא דְּכָשַׁר לְמִקְנְיָא בֵּיהּ״.",
+          "english": "In accordance with whom do we write today: 'With a vessel that is fit to acquire with…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״בְּמָנָא״ – לְאַפּוֹקֵי מִדְּרַב שֵׁשֶׁת, דְּאָמַר קוֹנִין בְּפֵירוֹת.",
+          "english": "'With a vessel' — to exclude Rav Sheshet, who says: One acquires with produce."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״דְּכָשַׁר״ – לְאַפּוֹקֵי מִדִּשְׁמוּאֵל, דְּאָמַר קוֹנִין בְּמָרוֹקָא.",
+          "english": "'That is fit' — to exclude Shmuel, who says: One acquires with date pits."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״לְמִקְנְיָא״ – לְאַפּוֹקֵי מִדְּלֵוִי,",
+          "english": "'To acquire' — to exclude Levi,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּאָמַר בְּכִלְיוֹ שֶׁל מַקְנֶה,",
+          "english": "who says: In the vessel of the one transferring ownership,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "קָא מַשְׁמַע לַן ״לְמִקְנְיָא״ וְלָא ״לְ[אַ]קְנוֹיֵי״.",
+          "english": "it teaches us 'to acquire' and not 'to transfer ownership'."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "״בֵּיהּ״ – רַב פָּפָּא אָמַר: לְמַעוֹטֵי מַטְבֵּעַ.",
+          "english": "'With it' — Rav Pappa said: To exclude a coin."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְרַב זְבִיד, וְאִיתֵּימָא רַב אָשֵׁי אָמַר:",
+          "english": "And Rav Zevid, and some say Rav Ashi, said:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "לְמַעוֹטֵי אִיסּוּרֵי הֲנָאָה.",
+          "english": "To exclude items from which deriving benefit is prohibited."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב שֵׁשֶׁת בְּרֵיהּ דְּרַב אִידִי: כְּמַאן כָּתְבִינַן הָאִידָּנָא ״בְּמָנָא דְּכָשַׁר לְמִקְנְיָא בֵּיהּ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "legal_rule",
+      "relationToPreviousStep": "continues"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T02:59:23.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.84413090004819,
+      "structure": 2191.5508721000515,
+      "validate": 340.1751865003025,
+      "translate": 493.0403166002361,
+      "meforshim": 1169.7779034001287,
+      "teaching": 1159.4766949000768
+    }
+  }
+}

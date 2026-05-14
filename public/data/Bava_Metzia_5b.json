@@ -1,0 +1,1322 @@
+{
+  "ref": "Bava Metzia 5b",
+  "masechet": "Bava_Metzia",
+  "daf": 5,
+  "amud": "b",
+  "mainTopic": "(continues) שבועת היסטר ופסולת רועה · שבועת טלית ותקנת חכמים · מיגו דחשוד אממונא חשוד נמי אשבועתא",
+  "overview": "(1) The Gemara discusses the liability of a shepherd who denies receiving animals, debating whether he is liable for שבועת היסטר or exempt due to his status as a suspected thief. (2) The Gemara analyzes the oath required when two parties hold a garment, debating the wording of the oath and the rationale behind the enactment to prevent seizure. (3) The Gemara explores the principle that one suspected of theft is also suspected of lying under oath, analyzing various cases where this principle might apply or be limited. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) שבועת היסטר ופסולת רועה",
+      "gist": "The Gemara discusses the liability of a shepherd who denies receiving animals, debating whether he is liable for שבועת היסטר or exempt due to his status as a suspected thief.",
+      "openingFormula": "ההוא רעיא דהוו מסרי ליה כל יומא חיוותא בסהדי",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 10,
+      "topic": "שבועת טלית ותקנת חכמים",
+      "gist": "The Gemara analyzes the oath required when two parties hold a garment, debating the wording of the oath and the rationale behind the enactment to prevent seizure.",
+      "openingFormula": "זה ישבע שאין לו בה פחות מחציה",
+      "firstStepNumber": 3,
+      "lastStepNumber": 9
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 11,
+      "endLine": 20,
+      "topic": "מיגו דחשוד אממונא חשוד נמי אשבועתא",
+      "gist": "The Gemara explores the principle that one suspected of theft is also suspected of lying under oath, analyzing various cases where this principle might apply or be limited. — discussion continues into next amud.",
+      "openingFormula": "התם אשתמוטי קא משתמטי ליה",
+      "firstStepNumber": 10,
+      "lastStepNumber": 18
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "שאלה",
+      "title": "Why not disqualify the רועה?",
+      "stepSummary": "The Gemara asks why not disqualify the shepherd as a shepherd, since Rav Yehuda says an ordinary shepherd is disqualified.",
+      "whatsHappening": "The גמרא asks why we do not disqualify the רועה based on רַב יְהוּדָה's ruling. This is a setup line introducing a new potential objection.",
+      "deeperAnalysis": "The גמרא shifts focus to the status of the רועה. It questions why the general rule of disqualification does not apply here.",
+      "keyTerms": [
+        {
+          "term": "רַב יְהוּדָה",
+          "meaning": "Rav Yehuda"
+        },
+        {
+          "term": "פָּסוּל",
+          "meaning": "disqualified"
+        },
+        {
+          "term": "רוֹעֶה",
+          "meaning": "shepherd"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְתִיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ רוֹעֶה!",
+          "english": "And let it be sufficient for him that he was a shepherd!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאָמַר רַב יְהוּדָה: סְתָם רוֹעֶה פָּסוּל.",
+          "english": "And Rav Yehuda says: An unspecified shepherd is disqualified."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְתִיפּוֹק לֵיהּ דְּהָוֵה לֵיהּ רוֹעֶה! וְאָמַר רַב יְהוּדָה: סְתָם רוֹעֶה פָּסוּל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "new_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:2:1",
+            "hebrew": "ותיפוק ליה דהוה ליה רועה - אדאביי קא מתמה דקשיא ליה והא גזלן הוא ותיפוק ליה דבלאו הך גזילה פסול לשבועה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question is directed at אביי, who is puzzled by the shepherd's disqualification due to גזלן status, and asks why not simply disqualify him as a רועה regardless of this specific גזילה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:2:2",
+            "hebrew": "דאמר רב יהודה סתם רועה - אפילו לא הועד עליו שגזל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Yehuda's statement that a סתם רועה is פסול applies even if he was not formally warned (הועד) about committing גזל."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:2:3",
+            "hebrew": "פסול - לעדות דסתמיה גזלן הוא שמרעה בהמותיו בשדות של אחרים:",
+            "english": "",
+            "takeaway": "רש״י explains that a סתם רועה is considered פסול for עדות because his profession inherently involves גזלן behavior, as he typically grazes his animals in others' fields."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תשובה",
+      "title": "Distinguishing between one's own and others' animals",
+      "stepSummary": "The Gemara answers that the disqualification applies to one who herds his own animals, not one who herds others' animals.",
+      "whatsHappening": "The גמרא answers that the disqualification applies only to one who herds his own animals. This is a direct response resolving the previous objection.",
+      "deeperAnalysis": "The ruling distinguishes between herding one's own חֵיוָתָא versus others'. The former is disqualified, but the latter is not, saving the case.",
+      "keyTerms": [
+        {
+          "term": "חֵיוָתָא",
+          "meaning": "animals"
+        },
+        {
+          "term": "רוֹעָה",
+          "meaning": "shepherd"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא קַשְׁיָא: הָא דִידֵיהּ, הָא דְּעָלְמָא.",
+          "english": "It is not difficult: This is his, this is the world's."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי לָא תֵּימָא הָכִי,",
+          "english": "For if you do not say so,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲנַן חֵיוָתָא לְרוֹעָה הֵיכִי מָסְרִינַן?",
+          "english": "We, living creatures, to pasture, how do we entrust?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהָא כְּתִיב: ״לִפְנֵי עִוֵּר לֹא תִתֵּן מִכְשֹׁל״!",
+          "english": "And behold it is written: 'Before a blind person you shall not place a stumbling block'!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא חֲזָקָה: אֵין אָדָם חוֹטֵא וְלֹא לוֹ.",
+          "english": "Rather, a presumption: A person does not sin and not for himself."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא קַשְׁיָא: הָא דִידֵיהּ, הָא דְּעָלְמָא. דְּאִי לָא תֵּימָא הָכִי, אֲנַן חֵיוָתָא לְרוֹעָה הֵיכִי מָסְרִינַן? וְהָא כְּתִיב: ״לִפְנֵי עִוֵּר לֹא תִתֵּן מִכְשֹׁל״! אֶלָּא חְזָקָה: אֵין אָדָם חוֹטֵא וְלֹא לוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "direct_answer",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:3:1",
+            "hebrew": "דידיה - רועה בהמות שלו פסול דבשביל הנאתו רועה אותן בשדות אחרות אבל רועה בהמות העיר בשכר בשביל הנאת אחרים אינו חוטא להרעות עד שיגיע למרעה המופקר לכל:",
+            "english": "",
+            "takeaway": "רש״י explains that a shepherd of his own animals is disqualified because he herds them in others' fields for his own benefit, whereas a shepherd of others' animals for wages is not considered a thief until he reaches ownerless pasture."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:3:2",
+            "hebrew": "דאי לא תימא הכי - דלא אמרינן על רועה בהמות דעלמא שהוא גזלן אנן חיותא לרועה היכי מסרינן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that if we did not distinguish between a shepherd of others' animals and a thief, we would have no way to entrust our animals to shepherds without violating the prohibition of placing a stumbling block before the blind."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "שאלה",
+      "title": "On which part does the שְׁבוּעָה apply?",
+      "stepSummary": "The Gemara asks whether the oath applies to the part the litigant holds or to the part he does not hold.",
+      "whatsHappening": "The גמרא opens with a clarifying שאלה about the scope of the שְׁבוּעָה in the מִשְׁנָה. It asks whether the oath validates the held half or denies the unheld half.",
+      "deeperAnalysis": "The מִשְׁנָה states the oath formula. The גמרא questions if this שְׁבוּעָה is meant to validate his claim to the half he is holding, or if it is an oath regarding the half he is not holding.",
+      "keyTerms": [
+        {
+          "term": "שָׁאוּלָה",
+          "meaning": "A clarifying question"
+        },
+        {
+          "term": "שְׁבוּעָה",
+          "meaning": "Oath"
+        },
+        {
+          "term": "מִשְׁתָּבַע",
+          "meaning": "He takes an oath"
+        },
+        {
+          "term": "דְּאִית לֵיהּ",
+          "meaning": "That which he has"
+        },
+        {
+          "term": "דְּלֵית לֵיהּ",
+          "meaning": "That which he does not have"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "זֶה יִשָּׁבַע שֶׁאֵין לוֹ בָּהּ פָּחוֹת מֵחֶצְיָהּ [וְכוּ׳].",
+          "english": "This one will swear that he does not have in it less than half of it [etc.]."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עַל דְּאִית לֵיהּ מִשְׁתְּבַע,",
+          "english": "Regarding that which he has in his possession,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אוֹ עַל דְּלֵית לֵיהּ מִשְׁתְּבַע!",
+          "english": "Or regarding that which he does not have in his possession!"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר רַב הוּנָא, דְּאָמַר:",
+          "english": "Rav Huna said, who said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שְׁבוּעָה שֶׁיֵּשׁ לִי בָּהּ וְאֵין לִי",
+          "english": "An oath that I have in it and I do not have"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בָּהּ פָּחוֹת מֵחֶצְיָהּ.",
+          "english": "in it less than half of it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "עַל דְּאִית לֵיהּ מִשְׁתָּבַע, אוֹ עַל דְּלֵית לֵיהּ מִשְׁתָּבַע!",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:4:1",
+            "hebrew": "על דאית ליה משתבע או על דלית ליה משתבע - הבא לישבע וליטול חציה צריך הוא לישבע שיש לו בה חציה או לישבע שאין לו בה פחות מחציה שמא אין לו בה כלום וכי משתבע שאין לו בה פחות מחציה באמת הוא נשבע שהרי אין לו כלום דבשלמא אם היה לו בה שליש או רביע והוא נשבע שאין לו בה פחות מחציה נשבע בשקר שהרי יש לו בה שליש שהוא פחות מחציה ואין לו בה חציה אבל כשאין לו בה כלום נשבע הוא באמת:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's question is whether the oath validates the claimant's right to the half he holds (by swearing he has a share) or denies any claim to the half he doesn't hold (by swearing he has less than half), noting that if he has nothing, swearing 'less than half' is technically true, whereas if he has a third, it would be a false oath."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:4:2",
+            "hebrew": "שבועה שיש לי בה - ואם תאמרו שמא שליש או רביע שבועה שאין לי חלק בה פחות מחציה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רב הונא resolves the ambiguity by ruling the oath is formulated to affirmatively claim a share ('יש לי בה'), thereby preventing the scenario where someone with a smaller share (like a third) would falsely swear they have 'less than half' when they actually have a share."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:4:1",
+            "hebrew": "על דאית ליה משתבע כו' - ואע\"ג דעל דעת ב\"ד משביעין אותו מ\"מ לא הו\"ל לתקן שבועה בלשון דלא משתמע שחציה שלו:",
+            "english": "",
+            "takeaway": "תוספות notes that even though the court imposes the oath, the Mishnah should have formulated the oath's language to clearly indicate that half belongs to the claimant, rather than using ambiguous phrasing."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Why not swear to the whole garment?",
+      "stepSummary": "The Gemara challenges Rav Huna's formulation, asking why the litigant cannot simply swear that the entire garment is his.",
+      "whatsHappening": "The גמרא attacks the wording of רַב הוּנָא's שְׁבוּעָה with a קשיא. It suggests a simpler alternative: swearing to the whole garment.",
+      "deeperAnalysis": "The גמרא asks why not let him swear 'שְׁבוּעָה שֶׁכֻּלָּהּ שֶׁלִּי'. If he claims the whole thing, why not swear to that? The follow-up implies that if he swears to the whole, we would give it to him, which is absurd.",
+      "keyTerms": [
+        {
+          "term": "קַשְׁיָא",
+          "meaning": "Challenge"
+        },
+        {
+          "term": "שְׁבוּעָה שֶׁכֻּלָּהּ שֶׁלִּי",
+          "meaning": "Oath that it is all mine"
+        },
+        {
+          "term": "יָהֲבִינַן לֵיהּ",
+          "meaning": "We give him"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנֵימָא שְׁבוּעָה שֶׁכּוּלָּהּ שֶׁלִּי.",
+          "english": "And let him say: An oath that all of it is mine."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּמִי יָהֲבִינַן לֵיהּ כּוּלַּהּ?",
+          "english": "And do we give him all of it?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנֵימָא שְׁבוּעָה שֶׁכֻּלָּהּ שֶׁלִּי. וּמִי יָהֲבִינַן לֵיהּ כֻּלָּהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:5:1",
+            "hebrew": "מי יהבינן ליה כולה - הרי חבירו תופס בה ואם ישביעוהו על כולה הרי לעז לב\"ד מאחר שכולה שלו והם אמרו יחלוקו:",
+            "english": "",
+            "takeaway": "רש״י explains that if the claimant were allowed to swear to the entire garment, it would be an embarrassment to the בית דין because the other party is already holding the item, and the court had already ruled they should split it."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:5:1",
+            "hebrew": "ונימא שבועה שכולה שלי - לרבנן דבן ננס פריך דלא חיישי לשבועת שוא:",
+            "english": "",
+            "takeaway": "תוספות clarifies that this question is directed at the רבנן of בן ננס, who do not worry about שבועת שוא, making the oath to the whole garment a viable option for them."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Why not swear to half?",
+      "stepSummary": "The Gemara challenges Rav Huna's formulation again, asking why the litigant cannot simply swear that half is his.",
+      "whatsHappening": "The גמרא attacks the wording of רַב הוּנָא's שְׁבוּעָה from a different angle with a קשיא. It suggests swearing only to the half he will receive.",
+      "deeperAnalysis": "The גמרא asks why not swear 'שְׁבוּעָה שֶׁחֶצְיָהּ שֶׁלִּי'. This is a redundancy attack on the complex formulation. The answer explains that swearing to only half contradicts his initial claim of full ownership.",
+      "keyTerms": [
+        {
+          "term": "קַשְׁיָא",
+          "meaning": "Challenge"
+        },
+        {
+          "term": "שְׁבוּעָה שֶׁחֶצְיָהּ שֶׁלִּי",
+          "meaning": "Oath that half is mine"
+        },
+        {
+          "term": "מַרַע לֵיהּ לְדִבּוּרֵיהּ",
+          "meaning": "He compromises his statement"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנֵימָא שְׁבוּעָה שֶׁחֶצְיָהּ שֶׁלִּי – מַרַע לֵיהּ לְדִיבּוּרֵיהּ.",
+          "english": "And let him say: An oath in which half of it is mine — he would ruin his speech."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנֵימָא שְׁבוּעָה שֶׁחֶצְיָהּ שֶׁלִּי – מַרַע לֵיהּ לְדִבּוּרֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        40
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:6:1",
+            "hebrew": "מרע ליה לדיבוריה - דאמר ברישא כולה שלי והשתא אמר בהדיא חציה שלי:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase מרע ליה לדיבוריה means the defendant contradicts his initial claim of full ownership by now explicitly admitting that only half belongs to him."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Doesn't רַב הוּנָא's formulation also compromise the claim?",
+      "stepSummary": "The Gemara challenges Rav Huna's formulation, arguing that it also compromises the litigant's initial claim of full ownership.",
+      "whatsHappening": "The גמרא attacks רַב הוּנָא's formulation with a קשיא. It argues that it suffers from the same flaw as the previous suggestion.",
+      "deeperAnalysis": "The גמרא asks if רַב הוּנָא's formulation also compromises the claim. If swearing to half compromises the claim, why doesn't רַב הוּנָא's ruling suffer from the same flaw?",
+      "keyTerms": [
+        {
+          "term": "קַשְׁיָא",
+          "meaning": "Challenge"
+        },
+        {
+          "term": "הַשְׁתָּא נָמֵי",
+          "meaning": "Now too"
+        },
+        {
+          "term": "מַרַע לֵיהּ לְדִבּוּרֵיהּ",
+          "meaning": "He compromises his statement"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַשְׁתָּא נָמֵי מַרַע לֵיהּ לְדִיבּוּרֵיהּ.",
+          "english": "Now too he compromises his statement."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר: כּוּלָּהּ שֶׁלִּי, וּלְדִבְרֵיכֶם –",
+          "english": "That he said: All of it is mine, and according to your words —"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שְׁבוּעָה שֶׁיֵּשׁ לִי בָּהּ וְאֵין לִי",
+          "english": "An oath that I have in it and I do not have"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בָּהּ פָּחוֹת מֵחֶצְיָהּ.",
+          "english": "In it less than half of it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַשְׁתָּא נָמֵי מַרַע לֵיהּ לְדִבּוּרֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:7:1",
+            "hebrew": "דאמר כולה שלי - תירוצא הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase כולה שלי serves as a תירוצא, a defensive justification for the claimant's position."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:7:2",
+            "hebrew": "ולדבריכם - שאין אתם מאמינים לי בכולה שבועה שיש לי בה ואין לי בה פחות מחציה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that according to the opposing view, the claimant is only believed enough to take a שבועה that he has at least half of the disputed amount."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:7:1",
+            "hebrew": "כולה שלי ולדבריכם כו' - אף על גב דקאמר כולה שלי לא משתבע שחציה שלו שמרע לדיבוריה:",
+            "english": "",
+            "takeaway": "תוספות explains that even though the claimant asserts כולה שלי, he cannot swear that half is his because doing so would marע לדיבוריה, compromising his initial claim."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "שאלה",
+      "title": "Why is an שְׁבוּעָה necessary at all?",
+      "stepSummary": "The Gemara questions the necessity of the oath, given that each party already holds half the garment.",
+      "whatsHappening": "The גמרא opens a new line of questioning with a שאלה about the rationale for the שְׁבוּעָה. It asks why an oath is needed if the status quo is already a split.",
+      "deeperAnalysis": "The גמרא asks why this שְׁבוּעָה is needed. Since each party is already holding half, and the outcome is that they split it, the oath seems unnecessary.",
+      "keyTerms": [
+        {
+          "term": "שָׁאוּלָה",
+          "meaning": "A clarifying question"
+        },
+        {
+          "term": "תָּפוּס וְעוֹמֵד",
+          "meaning": "Holding and standing"
+        },
+        {
+          "term": "שְׁבוּעָה זוֹ לָמָה",
+          "meaning": "Why is this oath needed"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכִי מֵאַחַר שֶׁזֶּה תָּפוּס וְעוֹמֵד וְזֶה תָּפוּס וְעוֹמֵד,",
+          "english": "And since this one is holding and standing, and that one is holding and standing,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁבוּעָה זוֹ לָמָּה?",
+          "english": "Why is this oath?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַבִּי יוֹחָנָן:",
+          "english": "Rabbi Yochanan said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שְׁבוּעָה זוֹ תַּקָּנַת חֲכָמִים הִיא,",
+          "english": "This oath is an ordinance of the Sages,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁלֹּא יְהֵא כׇּל אֶחָד וְאֶחָד הוֹלֵךְ",
+          "english": "so that not each and every one will go"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְתוֹקֵף בְּטַלִּיתוֹ שֶׁל חֲבֵירוֹ וְאוֹמֵר: ״שֶׁלִּי הוּא״.",
+          "english": "and seize the tallit of his friend and say: \"It is mine.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכִי מֵאַחַר שֶׁזֶּה תָּפוּס וְעוֹמֵד וְזֶה תָּפוּס וְעוֹמֵד, שְׁבוּעָה זוֹ לָמָה?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Is a suspect in money also suspect in שְׁבוּעָה?",
+      "stepSummary": "The Gemara challenges the enactment, arguing that a person who seizes property is suspect in money and thus also suspect in oaths.",
+      "whatsHappening": "The גמרא attacks the efficacy of the enactment with a קשיא. It questions whether a thief would actually be deterred by an oath.",
+      "deeperAnalysis": "The גמרא asks if a person suspect in money is also suspect in oaths. The principle suggests that such a person would also be willing to take a false oath, making the oath ineffective.",
+      "keyTerms": [
+        {
+          "term": "קַשְׁיָא",
+          "meaning": "Challenge"
+        },
+        {
+          "term": "מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא",
+          "meaning": "Since he is suspect in money"
+        },
+        {
+          "term": "חֲשִׁיד נָמֵי אַשּׁוּעָתָא",
+          "meaning": "He is also suspect in oaths"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְנֵימָא מִיגּוֹ דַּחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד נָמֵי אַשְּׁבוּעָתָא?",
+          "english": "And let us say: since he is suspect regarding his fellow, he is also suspect regarding the…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְנֵימָא מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד נָמֵי אַשּׁוּעָתָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        46
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:9:1",
+            "hebrew": "ונימא מגו דחשיד אממונא חשיד כו' - אדרבי יוחנן פריך דאמר חשדוהו רבנן שמא ילך ותוקף בטליתו של חבירו ואומר שלי הוא אם חשוד הוא בכך חשוד הוא נמי לישבע:",
+            "english": "",
+            "takeaway": "רש״י explains that this question is directed against רבי יוחנן, who taught that the Sages suspected a person who seizes property might also falsely claim ownership, and therefore such a person would also be suspect in taking a false oath."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "תירוץ",
+      "title": "Financial suspicion does not imply oath suspicion",
+      "stepSummary": "The Gemara resolves the challenge by rejecting the principle that a suspect in money is also suspect in oaths.",
+      "whatsHappening": "The גמרא resolves the קשיא by rejecting the assumption that financial dishonesty implies oath dishonesty. It explains why the oath remains effective despite the suspect's status.",
+      "deeperAnalysis": "The גמרא states: 'לָא אָמְרִינַן מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשּׁוּעָתָא'. It argues that even a thief considers a false oath more severe than financial theft. The proof is from the Torah's law of 'מוֹדֶה מִקְצָת הַטַּעֲנָה יִשָּׁבַע'. If a partial admission triggers an oath, we assume the person will take it, proving financial suspicion does not invalidate oath-taking.",
+      "keyTerms": [
+        {
+          "term": "תִּרְצָא",
+          "meaning": "Resolution"
+        },
+        {
+          "term": "לָא אָמְרִינַן",
+          "meaning": "We do not say"
+        },
+        {
+          "term": "מוֹדֶה מִקְצָת הַטַּעֲנָה",
+          "meaning": "One who admits to part of the claim"
+        },
+        {
+          "term": "יִשָּׁבַע",
+          "meaning": "He shall take an oath"
+        }
+      ],
+      "whatToRemember": "The principle 'מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד נָמֵי אַשּׁוּעָתָא' is rejected.",
+      "confusionAlert": "This is a תירוץ resolving the קשיא by rejecting the underlying assumption.",
+      "whyThisMatters": "It establishes that financial dishonesty does not automatically imply oath-taking dishonesty.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא אָמְרִינַן מִיגּוֹ דַּחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשְּׁבוּעָתָא.",
+          "english": "We do not say: since he is suspect regarding money, he is suspect regarding the oath."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי לָא תֵּימָא הָכִי,",
+          "english": "For if you do not say so,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַאי דְּאָמַר רַחֲמָנָא מוֹדֶה מִקְצָת הַטַּעֲנָה יִשָּׁבַע,",
+          "english": "that which the Merciful One said: one who admits to part of the claim shall take an…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "נֵימָא מִיגּוֹ דַּחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשְּׁבוּעָתָא.",
+          "english": "let us say: since he is suspect regarding money, he is suspect regarding the oath."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא אָמְרִינַן מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשּׁוּעָתָא. דְּאִי לָא תֵּימָא הָכִי, הַאי דְּאָמַר רַחְמָנָא מוֹדֶה מִקְצָת הַטַּעֲנָה יִשָּׁבַע, נֵימָא מִגּוֹ דַחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד נָמֵי אַשּׁוּעָתָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:10:1",
+            "hebrew": "לא אמרינן כו' - דחמיר הוא לאינשי איסור שבועה מאיסור גזילה:",
+            "english": "",
+            "takeaway": "רש״י explains that the principle is rejected because people consider the prohibition of a false שבועה more severe than the prohibition of גזילה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:10:1",
+            "hebrew": "דחשיד אממונא לא חשיד אשבועתא - נראה דהיינו טעמא משום דשבועה חמורה כדאיתא ביומא (דף פו.) ובשבועות (דף לט.) שהעולם נזדעזע על לא תשא וא\"ת א\"כ אמאי גזלן פסול לשבועה דאמר שכנגדו נשבע ונוטל וי\"ל דגזלן לא פסול לשבועה אלא מדרבנן ולעדות הוא דפסול מדאורייתא משום אל תשת רשע עד וי\"מ בשם ה\"ר יהודה חסיד הא דחשיד אממונא כשר לשבועה משום דשמא ע\"י שבועה יפרוש מגזל אבל גזלן ודאי כמו שמממון אינו פורש ה\"ה משבועה ולא קשה מההוא רעיא דאסהידו ביה דאכל מינייהו אמאי פסול דבהנך תרי דאכל צריך לשלם ומהשאר יפרוש על ידי שבועה דמה שהוא משלם על ידי עדים אין זה השבה מעליא דעל כרחו משלם והיינו טעמא דכופר בפקדון פסול לעדות:",
+            "english": "",
+            "takeaway": "תוספות explains that a suspect in money is not suspect in oaths because שבועה is more severe, as seen in the world trembling at לא תשא, and addresses the contradiction of a גזלן being invalid for oaths by distinguishing between מדרבנן and מדאורייתא, or by citing ה"
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "רַב אִידִי בַּר אָבִין citing רַב הוּנָא on witness disqualification",
+      "stepSummary": "The Gemara establishes a distinction between a loan denier (fit for testimony) and a deposit denier (disqualified) to prove that financial dishonesty does not automatically imply oath dishonesty.",
+      "whatsHappening": "The גמרא concludes the previous sugya by citing a teaching that distinguishes between a loan denier and a deposit denier regarding witness fitness. This serves as a proof for the separation of financial and oath suspicion.",
+      "deeperAnalysis": "This מימרא proves that one suspected of financial dishonesty (like a deposit denier) is not automatically suspected of oath dishonesty. The distinction implies that a loan denier is merely evading (אשתמוטי), while a deposit denier is a thief. The גמרא will soon challenge whether this distinction holds for oaths.",
+      "keyTerms": [
+        {
+          "term": "הַכּוֹפֵר בְּמִלְוֶה",
+          "meaning": "One who denies a loan"
+        },
+        {
+          "term": "כָּשֵׁר לְעֵדוּת",
+          "meaning": "Fit to bear witness"
+        },
+        {
+          "term": "בְּפִקָּדוֹן",
+          "meaning": "Regarding a deposit"
+        },
+        {
+          "term": "פָּסוּל לְעֵדוּת",
+          "meaning": "Disqualified from bearing witness"
+        }
+      ],
+      "whatToRemember": "The distinction between מלוה and פיקדון regarding עדות is the foundation for the principle that חשוד אממונא does not automatically mean חשוד אשבועתא.",
+      "confusionAlert": "Note that the גמרא uses this distinction to PROVE that חשוד אממונא is not חשוד אשבועתא, but the next steps will challenge this very proof.",
+      "whyThisMatters": "This establishes the baseline assumption that financial and oath dishonesty are separate categories, which the גמרא will test against various cases of bailees.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָתָם אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט לֵיהּ, כִּדְרַבָּה.",
+          "english": "There, he is evading him, like Rabba."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תִּדַּע דְּאָמַר רַב אִידִי בַּר אָבִין",
+          "english": "Know that Rav Idi bar Avin said"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אָמַר רַב חִסְדָּא:",
+          "english": "Rav Ḥisda said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הַכּוֹפֵר בְּמִלְוֶה – כָּשֵׁר לְעֵדוּת.",
+          "english": "One who denies a loan – is fit for testimony."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּפִיקָּדוֹן – פָּסוּל לְעֵדוּת.",
+          "english": "In a deposit – is disqualified for testimony."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָתָם אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט לֵיהּ, כִּדְרַבָּה. תִּדַּע דְּאָמַר רַב אִידִי בַּר אָבִין אָמַר רַב חִסְדָּא:",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "conclusion",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:11:1",
+            "hebrew": "אשתמוטי משתמיט ליה - ולא חשיד אממונא:",
+            "english": "",
+            "takeaway": "רש״י explains that אשתמוטי משתמיט ליה means the defendant is merely evading payment, and therefore is not suspected of financial dishonesty (חשוד על הממון)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:11:2",
+            "hebrew": "כדרבה - דאמר לעיל מפני מה אמרה תורה כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that כדרבה refers to רבה's earlier teaching regarding the rationale for the Torah's laws on loans and deposits."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:12:1",
+            "hebrew": "תדע - דלאו בגזלן חשדינן ליה אלא באשתמוטי בעלמא:",
+            "english": "",
+            "takeaway": "רש״י explains that תדע introduces a proof that the defendant is not suspected of being a thief, but is merely an evader (אשתמוטי)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:12:2",
+            "hebrew": "דאמר רב אידי בר אבין הכופר במלוה - שבאו עדים והחזיקוהו בכפרן שהעידוהו שהוא חייב לו:",
+            "english": "",
+            "takeaway": "רש״י defines הכופר במלוה as a case where witnesses have already established the defendant's liability, yet he still denies the debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:12:3",
+            "hebrew": "כשר לעדות - אלמא לאו דעתיה למגזליה דנימא אל תשת עד חמס אלא לאשתמוטי עביד:",
+            "english": "",
+            "takeaway": "רש״י explains that כשר לעדות proves the defendant's intent is not to steal, as otherwise he would be disqualified by the prohibition אל תשת עד חמס, but rather he is merely evading."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:12:4",
+            "hebrew": "בפקדון פסול לעדות - דמאי אשתמוטי איכא הרי לא ניתן להוצאה ובעין הוא ואם אבד יטעון שאבד ויפטר:",
+            "english": "",
+            "takeaway": "רש״י explains that בפקדון פסול לעדות because there is no room for evasion, as the deposit is in his possession and he could simply claim it was lost if it were actually lost."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the four bailees requiring partial admission",
+      "stepSummary": "The Gemara challenges the principle that a suspect of theft is not a suspect of oaths by citing a baraita that all four bailees require partial admission and denial to be liable for an oath.",
+      "whatsHappening": "The גמרא raises a difficulty from a baraita about the four types of bailees. It questions why the Torah requires an oath from a bailee suspected of theft.",
+      "deeperAnalysis": "If a bailee is suspected of theft (since he denies the deposit), why does the Torah require him to take an oath? Shouldn't we say that since he is suspected of financial dishonesty, he is also suspected of oath dishonesty, and thus an oath is useless? This attacks the assumption that חשוד אממונא is not חשוד אשבועתא.",
+      "keyTerms": [
+        {
+          "term": "אַרְבָּעָה שׁוֹמְרִין",
+          "meaning": "The four types of bailees"
+        },
+        {
+          "term": "כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת",
+          "meaning": "Denial of part and admission of part"
+        },
+        {
+          "term": "מִיגוֹ דַּחֲשִׁיד אַמּוֹנָא חֲשִׁיד אַשְּׁבוּעָתָא",
+          "meaning": "Since he is suspected of financial dishonesty, he is suspected of oath dishonesty"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the fact that bailees are required to take oaths despite being suspected of theft.",
+      "confusionAlert": "The challenge assumes that a bailee who denies is a thief, and thus should be disqualified from oaths.",
+      "whyThisMatters": "This sets up the core debate of the sugya: whether financial suspicion invalidates oath-taking.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא הָא דְּתָנֵי רָמֵי בַּר חָמָא:",
+          "english": "But this that Rami bar Ḥama teaches:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַרְבָּעָה שׁוֹמְרִין צְרִיכִין כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת –",
+          "english": "Four bailees require denial of part and admission of part –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שׁוֹמֵר חִנָּם וְהַשּׁוֹאֵל,",
+          "english": "An unpaid bailee and a borrower,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "נוֹשֵׂא שָׂכָר וְהַשּׂוֹכֵר,",
+          "english": "A paid bailee and a renter,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "נֵימָא מִיגּוֹ דַּחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשְּׁבוּעָתָא!",
+          "english": "Let us say: Since he is suspect regarding financial dishonesty, he is suspect regarding the…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא הָא דְּתָנֵי רָמֵי בַּר חָמָא:",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:13:1",
+            "hebrew": "ולימא מיגו דחשיד אממונא - דההוא דאמר לא היו דברים מעולם כופר בפקדון הוא וליכא למימר משתמיט:",
+            "english": "",
+            "takeaway": "רש״י explains that the challenge assumes the bailee is a כופר בפקדון who claims 'לא היו דברים מעולם', meaning he cannot use the defense of משתמיט (that the item was stolen)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:13:2",
+            "hebrew": "חשיד נמי אשבועה דידה - דבשלמא אשבועת שומרין דההוא דקטעין נאנסה דחייביה רחמנא שבועה איכא למימר דלא חשיד אממונא אלא שמא פשע בשמירתה וחייב לשלם אונסיה וסבר עד דהוי לי זוזי ופרענא ליה אלא ההיא דכפירה הא ודאי כופר בפקדון הוא ומשקר והיכי משבעינן ליה עלה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that while a bailee who claims נאנסה is not considered חשוד אממונא because he might have merely פשע and intends to pay later, a bailee who outright denies the deposit is clearly חשוד אממונא and therefore should also be חשוד אשבועתא, making the oath ineffective."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The bailee is merely evading to find the thief or lost item",
+      "stepSummary": "The Gemara resolves the challenge by suggesting the bailee is not a thief but is evading the owner temporarily to find the stolen or lost item.",
+      "whatsHappening": "The גמרא provides a resolution to the challenge by reinterpreting the bailee's denial. It argues the bailee is not a thief but an evader.",
+      "deeperAnalysis": "The bailee is not suspected of theft but of evasion (אשתמוטי). He thinks he can find the thief or the lost item in the marsh. Therefore, he is not a thief and can take an oath. This preserves the principle that חשוד אממונא is not חשוד אשבועתא.",
+      "keyTerms": [
+        {
+          "term": "אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט",
+          "meaning": "He is evading"
+        },
+        {
+          "term": "מַשְׁכַּחְנָא לְגַנָּב וְתָפֵיסְנָא לֵיהּ",
+          "meaning": "I will find the thief and seize him"
+        },
+        {
+          "term": "בַּאֲגָם",
+          "meaning": "In the marsh"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the bailee's intent to find the item, not to keep it.",
+      "confusionAlert": "This resolution applies to the bailee case, but the גמרא will soon challenge it with the deposit denier case.",
+      "whyThisMatters": "This resolution attempts to save the principle by redefining the bailee's status from thief to evader.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָתָם נָמֵי אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט.",
+          "english": "There too, he is concealing himself."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סָבַר: מַשְׁכַּחְנָא לְגַנָּב וְתָפֵיסְנָא לֵיהּ.",
+          "english": "He thought: We will find the thief and seize it from him."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי נָמֵי מַשְׁכַּחְנָא לֵיהּ בַּאֲגַם וּמַיְיתֵינָא לֵיהּ.",
+          "english": "If we find it in the marsh, we will bring it to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָתָם נָמֵי אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט.",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        50
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:14:1",
+            "hebrew": "התם נמי אשתמוטי משתמיט - שאבדה ממנו וסבר משכחנא לגנב כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the bailee is merely evading (אשתמוטי) because he believes he can still find the thief and recover the item."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why is a deposit denier disqualified from testimony?",
+      "stepSummary": "The Gemara challenges the resolution by asking why a deposit denier is disqualified from testimony if he is merely evading to find the item.",
+      "whatsHappening": "The גמרא raises a difficulty against the resolution by citing the case of a deposit denier. It questions why he is disqualified if he is merely evading.",
+      "deeperAnalysis": "If the bailee is merely evading to find the item, why is a deposit denier disqualified from testimony? Shouldn't he also be considered an evader and thus fit for testimony? This attacks the resolution that the bailee is merely evading.",
+      "keyTerms": [
+        {
+          "term": "הַכּוֹפֵר בְּפִקָּדוֹן",
+          "meaning": "One who denies a deposit"
+        },
+        {
+          "term": "פָּסוּל לְעֵדוּת",
+          "meaning": "Disqualified from bearing witness"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the fact that a deposit denier is disqualified from testimony, which contradicts the idea that he is merely evading.",
+      "confusionAlert": "This challenge assumes that if the bailee is an evader, he should be fit for testimony, but the גמרא knows he is disqualified.",
+      "whyThisMatters": "This challenge forces the גמרא to refine the definition of when a deposit denier is disqualified.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, הַכּוֹפֵר בְּפִקָּדוֹן אַמַּאי פָּסוּל לְעֵדוּת?",
+          "english": "If so, why is one who denies a deposit disqualified from testimony?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נֵימָא: אִשְׁתְּמוֹטֵי קָא מִשְׁתְּמִיט,",
+          "english": "Let us say: He is evading,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סָבַר עַד דְּבָחֵשְׁנָא וּמְשַׁכַּחְנָא לֵיהּ!",
+          "english": "He thought: Until I search and find it!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, הַכּוֹפֵר בְּפִקָּדוֹן אַמַּאי פָּסוּל לְעֵדוּת?",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        51
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:15:1",
+            "hebrew": "אי הכי - בפקדון הוא ומשקר והיכי משבעינן ליה עלה התם נמי אשתמוטי משתמיט שאבדה ממנו וסבר משכחנא לגנב כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge assumes the deposit denier is also merely evading (אשתמוטי משתמיט), claiming the item was lost and he intends to find the thief, which would make him fit for testimony."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:15:2",
+            "hebrew": "אי הכי - בפקדון איכא למימר משתמיט:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's difficulty arises because one could argue that even in the case of a deposit (פקדון), the bailee is simply evading responsibility."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:15:3",
+            "hebrew": "דבחשנא - אחפש:",
+            "english": "",
+            "takeaway": "רש״י defines the Aramaic term דבחשנא as meaning 'I will search' (אחפש)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Disqualification only when witnesses prove he had the item",
+      "stepSummary": "The Gemara resolves the challenge by limiting disqualification to cases where witnesses prove the denier had the item at the time of denial.",
+      "whatsHappening": "The גמרא provides a resolution by specifying the conditions for disqualification. It limits disqualification to cases where witnesses prove possession.",
+      "deeperAnalysis": "A deposit denier is only disqualified if witnesses testify that he had the item in his house or hand at the time of denial. In such cases, he cannot claim he is evading to find the item, so he is a thief. This preserves the distinction between loan and deposit deniers.",
+      "keyTerms": [
+        {
+          "term": "כְּגוֹן דְּאָתוּ סָהֲדֵי וְאַסְהִידוּ בֵּיהּ",
+          "meaning": "Such as when witnesses came and testified against him"
+        },
+        {
+          "term": "הָהִיא שַׁעְתָּא אִיתֵיהּ לְפִקָּדוֹן בְּבֵיתֵיהּ",
+          "meaning": "At that time the deposit was in his house"
+        },
+        {
+          "term": "נָקֵיט לֵיהּ בִּידֵיהּ",
+          "meaning": "He was holding it in his hand"
+        }
+      ],
+      "whatToRemember": "Disqualification requires proof that the denier had the item, eliminating the evasion defense.",
+      "confusionAlert": "This resolution limits the scope of disqualification, which will be tested against other cases.",
+      "whyThisMatters": "This resolution clarifies when a deposit denier is considered a thief versus an evader.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כִּי אָמְרִינַן הַכּוֹפֵר בְּפִקָּדוֹן פָּסוּל לְעֵדוּת,",
+          "english": "When we say that one who denies a deposit is disqualified for testimony,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּגוֹן דְּאָתוּ סָהֲדֵי וְאַסְהִידוּ בֵּיהּ דְּהָהִיא",
+          "english": "such as that witnesses came and testified against him that at that time"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שַׁעְתָּא אִיתֵיהּ לְפִקָּדוֹן בְּבֵיתֵיהּ וַהֲוָה יָדַע,",
+          "english": "the deposit was in his house and he knew,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי נָמֵי דַּהֲוָה נָקֵיט לֵיהּ בִּידֵיהּ.",
+          "english": "or even that he was holding it in his hand."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כִּי אָמְרִינַן הַכּוֹפֵר בְּפִקָּדוֹן פָּסוּל לְעֵדוּת,",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:16:1",
+            "hebrew": "ה\"ג דההיא שעתא הוה גביה - ולא גרס ההיא שעתא דאשתבע:",
+            "english": "",
+            "takeaway": "רש״י explains that the text should read דההיא שעתא הוה גביה, meaning the witnesses testify he had the item in his possession at that time, rather than reading דאשתבע."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:16:1",
+            "hebrew": "ההיא שעתא דאיתיה בביתיה - ל\"ג דאשתבע דאי איכא סהדי דנשבע לשקר במלוה נמי פסול וכן משמע בהגוזל קמא (ב\"ק דף קז:) דמיירי בלא שבועה:",
+            "english": "",
+            "takeaway": "תוספות explains that the text should not read דאשתבע, because if witnesses testify he swore falsely regarding a loan, he would also be disqualified, and the case in הגוזל קמא implies the disqualification applies even without a שבועה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַב הוּנָא's oath of possession",
+      "stepSummary": "The Gemara challenges the principle by citing Rav Huna's ruling that a bailee is made to take an oath that the item is not in his possession.",
+      "whatsHappening": "The גמרא raises a difficulty from רַב הוּנָא's ruling about an oath of possession. It questions why an oath is required from a suspected thief.",
+      "deeperAnalysis": "If a bailee is suspected of theft, why does רַב הוּנָא require him to take an oath that the item is not in his possession? Shouldn't we say that since he is suspected of financial dishonesty, he is also suspected of oath dishonesty, and thus an oath is useless? This attacks the principle that חשוד אממונא is not חשוד אשבועתא.",
+      "keyTerms": [
+        {
+          "term": "רַב הוּנָא",
+          "meaning": "Rav Huna"
+        },
+        {
+          "term": "שְׁבוּעָה שֶׁאֵינָהּ בִּרְשׁוּתוֹ",
+          "meaning": "An oath that it is not in his possession"
+        }
+      ],
+      "whatToRemember": "The challenge is based on the fact that רַב הוּנָא requires an oath from a bailee who is suspected of theft.",
+      "confusionAlert": "This challenge assumes that a bailee who denies is a thief, and thus should be disqualified from oaths.",
+      "whyThisMatters": "This challenge tests the principle against a specific case of oath administration.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא הָא דְּאָמַר רַב הוּנָא,",
+          "english": "But this that Rav Huna said,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַשְׁבִּיעִין אוֹתוֹ שְׁבוּעָה שֶׁאֵינָהּ בִּרְשׁוּתוֹ,",
+          "english": "they make him take an oath that is not in his control,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נֵימָא מִיגּוֹ דַּחֲשִׁיד אַמָּמוֹנָא חֲשִׁיד אַשְּׁבוּעָתָא!",
+          "english": "Let us say that since he is suspected of his money, he is suspected of…"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא הָא דְּאָמַר רַב הוּנָא,",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:17:1",
+            "hebrew": "דאמר רב הונא - לקמן בהמפקיד גבי שילם ולא רצה לישבע אמר רב הונא אם בא לשלם משביעין אותו שבועה שאינה ברשותו חיישינן שמא עיניו נתן בה:",
+            "english": "",
+            "takeaway": "רש״י explains that רב הונא's ruling about the oath of possession is found later in the chapter of הַמְפַקֵּד, where a bailee who pays but refuses to swear is made to swear that the item is not in his possession because we worry he has his eyes set on it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The bailee rationalizes by claiming he paid for the item",
+      "stepSummary": "The Gemara resolves the challenge by suggesting the bailee rationalizes his actions by claiming he paid for the item.",
+      "whatsHappening": "The גמרא provides a resolution by reinterpreting the bailee's denial. It argues the bailee is not a thief but a rationalizer.",
+      "deeperAnalysis": "The bailee is not suspected of theft but of rationalization. He thinks he paid for the item, so he is not a thief. Therefore, he can take an oath. This preserves the principle that חשוד אממונא is not חשוד אשבועתא.",
+      "keyTerms": [
+        {
+          "term": "מוֹרֶה וְאָמַר",
+          "meaning": "He rationalizes and says"
+        },
+        {
+          "term": "דְּמֵי קָא יָהֵבְנָא לֵיהּ",
+          "meaning": "I am paying him for it"
+        }
+      ],
+      "whatToRemember": "The resolution hinges on the bailee's rationalization that he paid for the item.",
+      "confusionAlert": "This resolution applies to the bailee case, but the גמרא will soon challenge it with the prohibition of לא תחמוד.",
+      "whyThisMatters": "This resolution attempts to save the principle by redefining the bailee's status from thief to rationalizer.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָתָם נָמֵי, מוֹרֶה וְאָמַר: דְּמֵי קָא יָהֵבְנָא לֵיהּ.",
+          "english": "There too, he teaches and says: I am giving him money."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָתָם נָמֵי, מוֹרֶה וְאָמַר:",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:18:1",
+            "hebrew": "התם - לא חשיד אממונא דמורי היתירא למימר דמי בעינא למיתב:",
+            "english": "",
+            "takeaway": "רש״י explains that the bailee is not considered חשוד אממונא because he is merely rationalizing by claiming he paid for the item, rather than admitting to theft."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "שאלה",
+      "title": "Question: Does paying for the item violate לֹא תַחְמֹד?",
+      "stepSummary": "Rav Acha of Difti asks Ravina whether paying for the item violates the prohibition of לא תחמוד.",
+      "whatsHappening": "רַב אַחָא מִדִּיפְתִּי raises a question about the prohibition of לֹא תַחְמֹד. He asks if the bailee violates this prohibition even when he pays for the item.",
+      "deeperAnalysis": "The question challenges the previous resolution that the bailee is not a thief. If paying still constitutes taking without permission, the bailee remains a thief and his oath is invalid.",
+      "keyTerms": [
+        {
+          "term": "רַב אַחָא מִדִּיפְתִּי",
+          "meaning": "Rav Acha of Difti"
+        },
+        {
+          "term": "לֹא תַחְמֹד",
+          "meaning": "You shall not covet"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב אַחָא מִדִּיפְתִּי לְרָבִינָא:",
+          "english": "Rav Aḥa of Difti said to Ravina:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא קָא עָבַר עַל לָאו דְּ״לֹא תַּחְמֹד״?",
+          "english": "And isn't he transgressing the negative commandment of 'You shall not covet'?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב אַחָא מִדִּיפְתִּי לְרָבִינָא:",
+      "macroPhase": "opening_question",
+      "branchRole": "returns_to_previous_branch",
+      "dependsOnStepNumbers": [
+        55
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5b:19:1",
+            "hebrew": "הא קא עבר בלא תחמוד - מה לי חשוד על לא תחמוד מה לי חשוד על לא תגזול נימא מיגו דחשיד עליה חשיד אשבועתא:",
+            "english": "",
+            "takeaway": "רש״י explains that the concern about לא תחמוד is functionally equivalent to the concern about לא תגזול, as both prohibitions render the bailee חשוד and thus liable for שבועתא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "תשובה",
+      "title": "Answer: People understand לֹא תַחְמֹד as referring to taking without payment",
+      "stepSummary": "The Gemara answers that people understand לא תחמוד as referring to taking without payment, so the bailee is not considered a thief.",
+      "whatsHappening": "The Gemara answers that the common understanding of לֹא תַחְמֹד refers only to taking without payment. Therefore, the bailee who pays is not considered a thief.",
+      "deeperAnalysis": "This answer limits the scope of the prohibition. It preserves the principle that חֲשִׁיד אַמּוֹנָא is not חֲשִׁיד אַשְּׁבוּעָתָא by distinguishing between paying and not paying.",
+      "keyTerms": [
+        {
+          "term": "לְאִינָשֵׁי בְּלָא דְּמֵי מַשְׁמַע לְהוּ",
+          "meaning": "For people, it implies without payment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "״לֹא תַּחְמֹד״ לְאִינָשֵׁי בְּלָא דְּמֵי מַשְׁמַע לְהוּ.",
+          "english": "\"You shall not covet\" to people without money teaches them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "״לֹא תַחְמֹד״ לְאִינָשֵׁי בְּלָא דְּמֵי מַשְׁמַע לְהוּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        56
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answer",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5b:20:1",
+            "hebrew": "בלא דמי משמע להו - וא\"ת תיפוק ליה מלא תגזול וי\"ל לעבור עליו בשני לאוין וא\"ת והא כי יהיב דמי נמי חמסן הוה כדמוכח שלהי הכונס (בבא קמא דף סב. ושוחמסן פסול לעדות כדכתיב אל תשת ידך עם רשע להיות עד חמס והפסול לעדות פסול לשבועה דכל הנהו דחשיב בפסולי עדות בפרק זה בורר (סנהדרין דף כה: ושם) פוסל להו לשבועה בפרק כל הנשבעין (שבועות דף מה.) וי\"ל דחמסן לא פסול לעדות אלא מדרבנן מדתני בפרק זה בורר הוסיפו עליהם החמסנין ולא פריך חמסן דאורייתא הוא כדפריך אגזלן וחמסן דקרא דלא יהיב דמי ושלהי הגוזל (ב\"ק דף קיט.) דמייתי קרא דמחמס בני יהודה אפי' אי יהיב דמי אסמכתא בעלמא הוא ואע\"ג דהוסיפו עליהם החמסנין לפסול לעדות וה\"ה שפסול לשבועה היינו חמסן שחצוף לחטוף מיד ליד בידיעת הבעלים אבל הכא לא חציף אלא מעלים חמסנותו ואמר שנאבדה לו לא פסיל:",
+            "english": "",
+            "takeaway": "תוספות addresses why לא תגזול doesn't suffice, answering that the bailee violates two prohibitions, and resolves the concern that paying makes him a חמסן (who is disqualified from testimony and oaths) by distinguishing between a brazen חמסן who seizes openly (disqualified) and one who conceals his theft by claiming loss (not disqualified)."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T02:13:52.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 99.79117869999027,
+      "structure": 2304.9531506999047,
+      "translate": 440.23013280000305,
+      "meforshim": 1645.9012703003827,
+      "teaching": 1114.9670098000788
+    }
+  }
+}

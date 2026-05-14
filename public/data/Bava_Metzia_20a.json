@@ -1,0 +1,560 @@
+{
+  "ref": "Bava Metzia 20a",
+  "masechet": "Bava_Metzia",
+  "daf": 20,
+  "amud": "a",
+  "mainTopic": "(continues) מציאת שובר · מציאת שטרות וסימפון",
+  "overview": "(1) The Gemara discusses the law of finding a receipt (שובר) for a debt, analyzing whether it should be returned to the husband if the wife admits to the debt, and deriving the law that a creditor can forgive a debt even if the document is in the hands of a third party. (2) The Mishnah lists various documents found in a bundle or container that must be returned, and the Gemara discusses the definition of a bundle (אגודה), the validity of a receipt written by the lender (סימפון), and the conditions under which a receipt is valid. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) מציאת שובר",
+      "gist": "The Gemara discusses the law of finding a receipt (שובר) for a debt, analyzing whether it should be returned to the husband if the wife admits to the debt, and deriving the law that a creditor can forgive a debt even if the document is in the hands of a third party.",
+      "openingFormula": "תנו רבנן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 8,
+      "topic": "מציאת שטרות וסימפון",
+      "gist": "The Mishnah lists various documents found in a bundle or container that must be returned, and the Gemara discusses the definition of a bundle (אגודה), the validity of a receipt written by the lender (סימפון), and the conditions under which a receipt is valid. — discussion continues into next amud.",
+      "openingFormula": "מתני׳",
+      "firstStepNumber": 3,
+      "lastStepNumber": 5
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "אַבָּיֵי's alternative resolution: The כְּתוּבָּה emerged from her possession",
+      "stepSummary": "Abaye offers an alternative resolution, suggesting the case is one where the ketubah emerged from the wife's possession, indicating she didn't sell it.",
+      "whatsHappening": "אַבָּיֵי challenges רַבָּא's conclusion by offering a different explanation. This is a תירוץ that avoids relying on שְׁמוּאֵל's law.",
+      "deeperAnalysis": "אַבָּיֵי argues that even if שְׁמוּאֵל's law is not accepted, the case can be understood differently. The כְּתוּבָּה document emerged from the wife's possession, implying she did not sell it. This resolves the challenge without needing שְׁמוּאֵל's law.",
+      "keyTerms": [
+        {
+          "term": "אַפִּילוּ תֵּימָא",
+          "meaning": "Even if you say"
+        },
+        {
+          "term": "יוֹצֵא מִתַּחַת יָדָהּ",
+          "meaning": "Emerges from her possession"
+        },
+        {
+          "term": "בְּמָה עֲסָקִין",
+          "meaning": "With what are we dealing"
+        }
+      ],
+      "whatToRemember": "אַבָּיֵי's resolution hinges on the physical possession of the כְּתוּבָּה.",
+      "confusionAlert": "The term יוֹצֵא מִתַּחַת יָדָהּ refers to the document coming from her control.",
+      "whyThisMatters": "This introduces a new factor (possession) into the analysis of the ברייתא.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אַבָּיֵי אָמַר: אֲפִילּוּ תֵּימָא לֵיתַיהּ לְדִשְׁמוּאֵל,",
+          "english": "Abaye said: Even if you say that Shmuel's halakha is not accepted,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן –",
+          "english": "Here with what are we dealing?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּשֶׁשְּׁטַר כְּתוּבָּה יוֹצֵא מִתַּחַת יָדָהּ.",
+          "english": "With a marriage contract that emerges from her hand."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְרָבָא אָמַר: אִי מִשּׁוּם שְׁטַר כְּתוּבָּה,",
+          "english": "And Rava said: If because of a marriage contract,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חָיְישִׁינַן לִשְׁתֵּי כְתוּבּוֹת.",
+          "english": "We are concerned about two marriage contracts."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אבאיי אמר: אפילו תימא ליתיה לדשמואל, הכא במאי עסקינן – בששטר כתובה יוצא מתחת ידה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:2:1",
+            "hebrew": "בששטר כתובה יוצא מתחת ידה - שמביאה לפנינו דליכא למיחש לשמא מכרה בטובת הנאה שאילו מכרתה היתה מוסרת הכתובה ביד הלוקח:",
+            "english": "",
+            "takeaway": "רש״י explains that when the שטר כתובה emerges from the wife's possession, it proves she did not sell the טובת הנאה, because if she had sold it, she would have handed the document to the buyer."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:2:2",
+            "hebrew": "לשתי כתובות - שמא שני שטרי כתובה היו לה [ויש] לחוש שמא מסרה אחד ללוקח ובאה לחזור בה ולמחול אצל בעלה ומוסרת לו שובר המוקדם לשטרו של לוקח אלא ודאי איתא לדשמואל ומתוך שבידה למחול שטר כתובה לבעלה עכשיו לא חיישינן לשמא כתבה ליתן בניסן כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבא's concern about שתי כתובות is that the wife might have sold one document to a buyer and then canceled the sale by giving a שובר to her husband, which is why the baraita must rely on שמואל's law to avoid this suspicion."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "אַבָּיֵי's final resolution: No concern for two כְּתוּבּוֹת and the receipt's validity",
+      "stepSummary": "Abaye responds that we are not concerned about two ketubot, and even if there is one, the receipt is valid from the time it was written.",
+      "whatsHappening": "אַבָּיֵי provides a final resolution to רַבָּא's challenge. This is a תירוץ that addresses the remote possibility of two documents.",
+      "deeperAnalysis": "אַבָּיֵי argues that we are not concerned about the remote possibility of two כְּתוּבּוֹת. Even if there is only one, the receipt is valid from the time it was written. This aligns with אַבָּיֵי's principle that witnesses' signatures acquire the document on behalf of the recipient.",
+      "keyTerms": [
+        {
+          "term": "לָא חַיְשִׁין",
+          "meaning": "We are not concerned"
+        },
+        {
+          "term": "שׁוּבָר בְּזִמְנֵיהּ טָרַף",
+          "meaning": "The receipt repossesses from its time"
+        },
+        {
+          "term": "עֵדִים בְּחֲתוּמֵיהוֹן זָכִין לוֹ",
+          "meaning": "Witnesses acquire through their signatures"
+        }
+      ],
+      "whatToRemember": "אַבָּיֵי's resolution relies on the principle that the receipt is valid from its writing date.",
+      "confusionAlert": "The term עֵדִים בְּחֲתוּמֵיהוֹן זָכִין לוֹ refers to witnesses acquiring the document through their signatures.",
+      "whyThisMatters": "This establishes אַבָּיֵי's view on the validity of receipts and the acquisition of documents.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַבָּיֵי אָמַר, חֲדָא: לִשְׁתֵּי כְתוּבּוֹת לָא חָיְישִׁינַן.",
+          "english": "And Abaye said, one thing: We are not concerned about two marriage contracts."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְעוֹד, שׁוֹבָר בִּזְמַנּוֹ טָרֵיף.",
+          "english": "And furthermore, it breaks at its time, a receipt."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אַבָּיֵי לְטַעְמֵיהּ, דְּאָמַר: עֵדָיו בַּחֲתוּמָיו זָכִין לוֹ.",
+          "english": "Abaye according to his reasoning, that he says: His witnesses in his signatures acquire for him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "ואבאיי אמר, חדא: לשתי כתובות לא חיישינן. ועוד, שובר בזמנו טרף. אבאיי לטעמיה, דאמר: עדים בחתומיו זכין לו.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        19
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:3:1",
+            "hebrew": "ואביי אמר - מהכא לא תסייע לשמואל:",
+            "english": "",
+            "takeaway": "רש״י explains that Abaye's statement here is not intended to support Shmuel's view."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:3:2",
+            "hebrew": "חדא דלשתי כתובות לא חיישינן - הלכך ליכא למיחש לדלמא זבנתה בטובת הנאה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that since we do not worry about the possibility of two ketubot, there is no concern that the wife sold the טובת הנאה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:3:3",
+            "hebrew": "ועוד - אי נמי זבנתה בטובת הנאה לית לן למיחש לשמא כתבה לשובר בניסן ולא קבלה עד תשרי דאי נמי הכי הוה כי מטא שובר לידיה בתשרי זוכה למפרע בו מזמן חתימתו ולא הוה ממכרה שבנתיים כלום ושובר בזמן הכתוב בו טורף ואביי לטעמיה כו':",
+            "english": "",
+            "takeaway": "רש״י explains that even if the wife sold the טובת הנאה, the receipt (שובר) is valid retroactively from the time of its signing, so the husband acquires the property back and the interim sale is void, consistent with Abaye's principle that עידי חתימה זכין לו."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 20a:3:1",
+            "hebrew": "שובר בזמנו טורף - אע\"פ ששטר מכירה נמסר ללקוחות תחילה אינו מועיל וטורף הבעל כדין וכן אמר לעיל גבי שחרורי עבדים ונראה שתקנת חכמים היא שזוכה משעת חתימה אע\"פ שלא נמסר לו עד ימים רבים אחרי כן שאם לא כן לעולם לא יוכלו העדים לחתום אלא אם יראו המסירה משום חששא דכתב בניסן ולא נתן עד תשרי ומזבין ביני וביני ולענין איסור נראה דאם עבד בא על בת ישראל קודם שבא לידו גט שחרור שפסלה ושמא גם גבי איסור זכין לו משעת חתימה אע\"פ דלא שייך טעמא דפרישית מ\"מ לא פלוג רבנן ויש כח ביד חכמים לעקור דבר מן התורה וא\"ת והא אביי סבר כר\"א דאמר עידי מסירה כרתי גבי מתנתא דחתימי עלה תרי גיסי ור\"א סבר בפרק מי שהיה נשוי (כתובות דף צד:) כתב לזה ולא מסר לו לזה ומסר לו לזה שמסר לו תחילה קנה וי\"ל דהיינו בשני שטרות שזמנן כתוב בשוה ביום אחד שאין ניכר מתוכו איזהו מהם קודם לכך אזלינן בתר מסירה אבל אין זמנן שוה החתום קודם זכה אע\"פ שהמאוחר נמסר תחילה ובעובדא דהתם דכתבתינהו לרמי בר חמא בצפרא ולרב עוקבא בפניא ואוקמיה רב ששת בידיה דרמי בר חמא משום דקדים ורב נחמן אוקמיה לרב עוקבא בנכסיה משום שודא התם מיירי דלא ידעינן למי נמסר תחילה ורב ששת סבר כמו שנכתב תחילה לרמי מסתמא גם לו נמסר קודם ורב נחמן סבר כיון דאינו מוכיח מכח השטר שקדם אין לומר שנמסר לו תחילה אע\"ג שנכתב קודם ולכך הוה דינא שודא אבל אם הוה ידעינן למי נמסר קודם היה זוכה כיון ששניהם כתובים ביום אחד וא\"ת וניחוש דלמא זבנה כתובה ביום שנכתב השובר דהשתא ליכא למימר עדיו בחתומיו זכין לו וכשיוציאו הבעל והלקוחות שטרם יהא זמנם שוה ואין ידוע דמי קדם ויאמר הבעל ללקוחות תביאו ראיה שקדמתם לפי שהוא מוחזק שהנכסים שלו והלקוחות רוצין לטרוף בשביל האשה וי\"ל דהא ליכא למיחש שתמכור ביום כתיבת השובר:",
+            "english": "",
+            "takeaway": "תוספות explains that the rule that a שובר is effective retroactively from its date is a rabbinic enactment to allow witnesses to sign without seeing the delivery, and addresses potential conflicts with רבי אליעזר's view on עידי מסירה by distinguishing cases where dates are identical versus different, and dismisses the concern that the wife might have sold the ketubah on the exact day the receipt was written."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The מִשְׁנָה's list of documents to return",
+      "stepSummary": "The Mishnah lists various types of documents that must be returned to their presumed owner, including appraisal documents, food documents, chalitzah documents, refusal documents, beirurin documents, and any court enactment, as well as documents found in containers or bundles.",
+      "whatsHappening": "The מִשְׁנָה is presented, listing various documents that must be returned. This is a setup for the Gemara's discussion.",
+      "deeperAnalysis": "The מִשְׁנָה establishes the basic rule that certain types of documents must be returned to their presumed owner. It introduces the concept of a bundle and a roll of documents. It also mentions the rule of רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל regarding loans.",
+      "keyTerms": [
+        {
+          "term": "שְׁטָרוֹת בִּירוּרִין",
+          "meaning": "Documents of clarification or selection"
+        },
+        {
+          "term": "מַעֲשֵׂה בֵּית דִּין",
+          "meaning": "Court enactment or document"
+        },
+        {
+          "term": "אֲגוּדָּה",
+          "meaning": "Bundle"
+        },
+        {
+          "term": "תְּכִרִּיךְ",
+          "meaning": "Roll"
+        },
+        {
+          "term": "סִימְפּוֹן",
+          "meaning": "Receipt or cancellation"
+        }
+      ],
+      "whatToRemember": "The מִשְׁנָה lists specific documents that must be returned, including שְׁטָרוֹת בִּירוּרִין and מַעֲשֵׂה בֵּית דִּין.",
+      "confusionAlert": "The term שְׁטָרוֹת בִּירוּרִין is ambiguous and will be explained in the גמרא.",
+      "whyThisMatters": "This מִשְׁנָה sets the stage for the גמרא's discussion on the definition of these documents and the rules for returning them.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ מָצָא אִיגְּרוֹת שׁוּם וְאִיגְּרוֹת מָזוֹן,",
+          "english": "MISHNA: If one found documents of appraisal and documents of sustenance,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שְׁטָרֵי חֲלִיצָה וּמֵיאוּנִין, וּשְׁטָרֵי בֵירוּרִין,",
+          "english": "documents of ḥalitza and of refusal, and documents of beirurin,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכׇל מַעֲשֵׂה בֵּית דִּין –",
+          "english": "and any court enactment –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲרֵי זֶה יַחְזִיר.",
+          "english": "this one must return."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מָצָא בַּחֲפִיסָה אוֹ בִדְלוֹסְקָמָא,",
+          "english": "If one found in a ḥafisa or in a deluskema,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "תַּכְרִיךְ שֶׁל שְׁטָרוֹת אוֹ אֲגוּדָּה שֶׁל שְׁטָרוֹת –",
+          "english": "a roll of documents or a bundle of documents –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הֲרֵי זֶה יַחְזִיר.",
+          "english": "this one must return."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְכַמָּה אֲגוּדָּה שֶׁל שְׁטָרוֹת –",
+          "english": "And how many [documents are] a bundle of documents –"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "שְׁלֹשָׁה קְשׁוּרִין זֶה בָּזֶה.",
+          "english": "three tied together."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר:",
+          "english": "Rabban Shimon ben Gamliel says:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אֶחָד הַלֹּוֶה מִשְּׁלֹשָׁה – יַחְזִיר לַלֹּוֶה.",
+          "english": "One who borrows from three – he returns to the borrower."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "שְׁלֹשָׁה הַלֹּוִין מִן הָאֶחָד – יַחְזִיר לַמַּלְוֶה.",
+          "english": "Three who borrow from one – he returns to the lender."
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "מָצָא שְׁטָר בֵּין שְׁטָרוֹתָיו וְאֵינוֹ יוֹדֵעַ",
+          "english": "If one found a document among his documents and he does not know"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "מָה טִיבוֹ –",
+          "english": "its nature –"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "יְהֵא מוּנָּח עַד שֶׁיָּבוֹא אֵלִיָּהוּ.",
+          "english": "let it be placed aside until Elijah comes."
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "אִם יֵשׁ עִמָּהֶן סִמְפּוֹנוֹת, יַעֲשֶׂה מָה שֶׁבַּסִּמְפּוֹנוֹת.",
+          "english": "If there are cancellations among them, he should do what is in the cancellations."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ מָצָא אִיגְּרוֹת שׁוּם וְאִיגְּרוֹת מָזוֹן, שְׁטָרֵי חֲלִיצָה וּמֵיאוּנִין, וּשְׁטָרֵי בֵירוּרִין, וְכׇל מַעֲשֵׂה בֵּית דִּין – הֲרֵי זֶה יַחְזִיר.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:4:1",
+            "hebrew": "מתני' איגרות שום - ששמו ב\"ד נכסי לוה למלוה בחובו:",
+            "english": "",
+            "takeaway": "רש״י explains that איגרות שום are documents where the בית דין appraised a borrower's property to be given to the lender for the debt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:4:2",
+            "hebrew": "ואיגרות מזון - שקיבל עליו לזון את בת אשתו:",
+            "english": "",
+            "takeaway": "רש״י explains that איגרות מזון are documents where a man accepted the obligation to provide sustenance for his stepdaughter."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:4:3",
+            "hebrew": "מיאונין - קטנה יתומה שהשיאוה אמה ואחיה לדעתה יוצאה ממנו במיאון ואינה צריכה גט אלא אומרת בפני שלשה אי אפשי בפלוני בעלי וכותבין לה ב\"ד שטר שמיאנה בפניהם להיות לה עדות שמותרת לינשא:",
+            "english": "",
+            "takeaway": "רש״י explains that מיאונין are documents written by the בית דין for a minor orphan girl who repudiates her marriage, serving as evidence that she is permitted to marry others."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:4:4",
+            "hebrew": "הרי זה יחזיר - דליכא למיחש לשמא נמלך דהא ב\"ד לא כתבום אלא בדבר מקויים ולפרעון נמי ליכא למיחש דבהני שטרות לא שייך בהו פרעון כדאמרינן לעיל (בבא מציעא ד' טז:) ואפילו למ\"ד שומא הדר איהו דאפסיד אנפשיה:",
+            "english": "",
+            "takeaway": "רש״י explains that these documents must be returned because there is no concern that the owner changed his mind (since the בית דין only writes them for confirmed matters) and no concern about repayment (since repayment does not apply to these types of documents)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:5:3",
+            "hebrew": "הרי זה יחזיר - דדבר שיש בו סימן הוא כדמפרש בגמ' שהכלי סימן כשיאמרו הבעלים בכלי כך וכך מצאת אותם וכן תכריך ואגודה הרי זה יחזיר דדבר שיש בו סימן הוא כדמפרש בגמרא:",
+            "english": "",
+            "takeaway": "רש״י explains that documents found in a container (חפיסה or דלוסקמא) or in a bundle (תכריך or אגודה) must be returned because the container or bundle itself serves as a סימן for identification."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:5:6",
+            "hebrew": "ללוה - דודאי פרעם והחזירם לו ומידו נפלו שאם מידם נפלו מי קבצם למקום אחד:",
+            "english": "",
+            "takeaway": "רש״י explains that if three loan documents from one borrower to three different lenders are found together, they should be returned to the borrower because it is certain he repaid them and they fell from his hand, as no one else would have gathered them in one place."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:5:9",
+            "hebrew": "למלוה - שהדבר ידוע שממנו נפלו:",
+            "english": "",
+            "takeaway": "רש״י explains that if three loan documents from three different borrowers to one lender are found together, they should be returned to the lender because it is known they fell from his possession."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:6:1",
+            "hebrew": "מצא שטר בין שטרותיו ואין יודע מה טיבו - אצלו אם הלוה הפקידו אצלו או המלוה או שמא מקצתו פרוע ומסרוהו לו להיות שליש ביניהם ושכח:",
+            "english": "",
+            "takeaway": "רש״י explains that finding a document among one's own documents without knowing its nature creates uncertainty about whether it was deposited by the borrower, the lender, or if it was partially paid and held as a third party."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:6:2",
+            "hebrew": "יהא מונח - בידו ולא יחזיר לא לזה ולא לזה:",
+            "english": "",
+            "takeaway": "רש״י explains that in such a case of uncertainty, the document should remain in the finder's possession and not be returned to either party."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:6:3",
+            "hebrew": "ואם יש עמהן סמפון - מילי מילי קתני המוצא בין שטרותיו שובר שנכתב על אחד משטרותיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah's mention of סמפון is a separate case where the finder discovers a receipt (שובר) written on one of his own documents."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:6:4",
+            "hebrew": "יעשה מה שבסמפון - והשטר בחזקת פרוע ואע\"פ שהיה לשובר הזה להיות מונח ביד הלוה אמרינן האמינו הלוה ואומר מחר תנה לי ושכח:",
+            "english": "",
+            "takeaway": "רש״י explains that if a receipt is found, the document is presumed paid, and we assume the borrower trusted the finder to hold the receipt, forgetting to retrieve it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "שאלה",
+      "title": "What are שְׁטָרוֹת בִּירוּרִין?",
+      "stepSummary": "The Gemara asks what is meant by שטרות בירורין.",
+      "whatsHappening": "The גמרא asks a clarifying question about the term שְׁטָרוֹת בִּירוּרִין. This is a שאלה to define an ambiguous term.",
+      "deeperAnalysis": "The גמרא seeks to understand the meaning of this ambiguous term from the מִשְׁנָה. It provides two possible explanations: one from Babylonia and one from רַבִּי יִרְמְיָה in Eretz Yisrael. These reflect different regional practices.",
+      "keyTerms": [
+        {
+          "term": "שְׁטָרוֹת טַעֲנָתָא",
+          "meaning": "Documents of claims"
+        },
+        {
+          "term": "בּוֹרֵר לוֹ אֶחָד",
+          "meaning": "Selects one judge"
+        }
+      ],
+      "whatToRemember": "The גמרא provides two explanations for שְׁטָרוֹת בִּירוּרִין.",
+      "confusionAlert": "The two explanations reflect different regional practices.",
+      "whyThisMatters": "Understanding the meaning of שְׁטָרוֹת בִּירוּרִין is essential for applying the מִשְׁנָה's rule.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ מַאי ״שְׁטָרֵי בֵירוּרִין״?",
+          "english": "GEMARA: What is \"documents of beirurin\"?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָכָא תַּרְגִּמוּ שְׁטָרֵי טַעֲנָתָא.",
+          "english": "Here, they interpret \"documents of claims.\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי יִרְמְיָה אָמַר:",
+          "english": "Rabbi Yirmeya said:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זֶה בּוֹרֵר לוֹ אֶחָד וְזֶה בּוֹרֵר לוֹ אֶחָד.",
+          "english": "This one chooses for himself one, and this one chooses for himself one."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי ״שְׁטָרֵי בֵירוּרִין״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        21
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:7:1",
+            "hebrew": "גמ' זה בורר לו אחד - כשבוררין להן דיינין כותבין להן זה בירר לו את פלוני וזה בירר לו את פלוני שלא יוכלו לחזור בהן:",
+            "english": "",
+            "takeaway": "רש״י explains that שטרות בירורין are documents written when parties select judges, specifying that one party chose פלוני and the other chose פלוני, to prevent them from retracting their choice."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "The case of the גֵּט found in רַב הוּנָא's court",
+      "stepSummary": "The Gemara relates a story about a גט found in Rav Huna's court, which had the name of a city written in it.",
+      "whatsHappening": "The גמרא introduces a story to illustrate the rule of מַעֲשֵׂה בֵּית דִּין. This is a setup for the discussion.",
+      "deeperAnalysis": "The גמרא relates that a גֵּט was found in רַב הוּנָא's court, with the name of a city written in it. רַב הוּנָא was concerned that there might be two cities with the same name. This illustrates the concern about returning a document without proper identification.",
+      "keyTerms": [
+        {
+          "term": "גֵּט",
+          "meaning": "Bill of divorce"
+        },
+        {
+          "term": "שְׁנֵי שׁוּוִירִי",
+          "meaning": "Two cities named Sheviri"
+        }
+      ],
+      "whatToRemember": "The story illustrates the concern about returning a document without proper identification.",
+      "confusionAlert": "The story is used to illustrate the rule of מַעֲשֵׂה בֵּית דִּין.",
+      "whyThisMatters": "The story sets up the discussion about the rule of מַעֲשֵׂה בֵּית דִּין.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכׇל מַעֲשֵׂה בֵּית דִּין הֲרֵי זֶה יַחְזִיר.",
+          "english": "And any enactment of the court, behold this one returns it."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָהוּא גִּיטָּא דְּאִשְׁתְּכַח בֵּי דִינָא דְּרַב הוּנָא,",
+          "english": "That bill of divorce that was found in the court of Rav Huna,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּהֲוָה כְּתִיב בֵּיהּ ״בִּשְׁוִירֵי מָתָא דְּעַל רָכִיס נַהֲרָא״.",
+          "english": "that it was written in it: 'In Sheviri City, which is on the Rakhis River.'"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר רַב הוּנָא:",
+          "english": "Rav Huna said:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גִּטָּא דְּאִשְׁתְּכַח בֵּי דִינָא דְּרַב הוּנָא, דַּהֲוָה כְּתִיב בֵּיהּ ״בִּשְׁוִירֵי מָתָא דְּעַל רָכִיס נַהֲרָא״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 20a:8:1",
+            "hebrew": "דאשתכח בי דינא - מקויים בהנפק והשליח המביאו אומר ממנו נפל:",
+            "english": "",
+            "takeaway": "רש״י explains that the גט was found in the בית דין because the שליח who brought it testified that it fell from the husband's hand, thereby establishing its provenance."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T09:24:51.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 86.43356570001924,
+      "structure": 2369.779802699981,
+      "translate": 465.63970599963795,
+      "meforshim": 713.1112553001731,
+      "teaching": 1048.0664347999264
+    }
+  }
+}

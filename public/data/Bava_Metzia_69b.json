@@ -1,0 +1,565 @@
+{
+  "ref": "Bava Metzia 69b",
+  "masechet": "Bava_Metzia",
+  "daf": 69,
+  "amud": "b",
+  "mainTopic": "השאלת מעות ודין שכר אמירה",
+  "overview": "The Gemara discusses the permissibility of lending money with a fee for the service of lending, establishing that שכר אמירה is permitted as it is not direct interest.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 6,
+      "topic": "השאלת מעות ודין שכר אמירה",
+      "gist": "The Gemara discusses the permissibility of lending money with a fee for the service of lending, establishing that שכר אמירה is permitted as it is not direct interest.",
+      "openingFormula": "כְּהַאי גַּוְנָא וַדַּאי צְרִיךְ לְאוֹדוֹעֵיהּ",
+      "firstStepNumber": 1,
+      "lastStepNumber": 6
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The principle of informing litigants in suspicious cases",
+      "stepSummary": "The Gemara establishes that in cases where there is room for suspicion, a judge must inform the litigant of the reasons for the decision.",
+      "whatsHappening": "The Gemara opens with a general principle about judicial transparency in cases involving potential suspicion. This is a setup line establishing the framework for the specific case that follows.",
+      "deeperAnalysis": "Judges are not always required to explain their rulings. However, in cases where there is room for suspicion, they must inform the litigant to prevent misunderstanding.",
+      "keyTerms": [
+        {
+          "term": "כְּהַאי גּוּנָא",
+          "meaning": "in a case like this"
+        },
+        {
+          "term": "וַדַּאי צְרִיךְ לְאוֹדוֹעֵיהּ",
+          "meaning": "it is certainly necessary to inform him"
+        },
+        {
+          "term": "זוּזֵי",
+          "meaning": "coins/money"
+        },
+        {
+          "term": "טָבֵי",
+          "meaning": "good coins"
+        },
+        {
+          "term": "חַסִּרֵי",
+          "meaning": "deficient coins"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כְּהַאי גַּוְנָא וַדַּאי צְרִיךְ לְאוֹדוֹעֵיהּ: זוּזֵי,",
+          "english": "In a case like this, certainly he must inform him: coins,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִי שָׁקֵיל טָבֵי וְשָׁבֵיק חַסִּרֵי?",
+          "english": "Does one take the good ones and leave the deficient ones?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כְּהַאי גַּוְנָא וַדַּאי צְרִיךְ לְאוֹדוֹעֵיהּ: זוּזֵי, מִי שָׁקֵיל טָבֵי וְשָׁבֵיק חַסִּרֵי?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "general_logic",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 69b:1:1",
+            "hebrew": "כי האי גוונא ודאי צריך לאודועיה - משמע דוקא הכא לפי שהיה לו פתחון פה לחשדו קאמר דצריך לאודועיה משום והייתם נקיים מה' ומישראל (במדבר ל״ב:כ״ב) אבל בעלמא לא והא דאמר בסוף זה בורר (סנהדרין דף לא: ושם ד\"ה ואם) שנים שנתעצמו לדין שכופין אותו ודן בעירו ואם אמר כתבוני מאיזה טעם דנתוני כותבין ונותנין : לו אר\"ת מכח ההיא דהכא דוקא התם דלא רצה לדון אלא על ידי כפייה אבל אם מדעתו דנו אותו אין כותבין ונותנין לו וי\"מ דהכא כל כה\"ג צריך לאודועיה דלא איירי הודעה מאיזה טעם חייבו אלא היה משיבו כל כה\"ג היה לך להודיעו כשחלקת ולא היה לך לחלוק שלא מדעתו:",
+            "english": "",
+            "takeaway": "תוספות explains that the requirement to inform the litigant (לאודועיה) applies specifically in cases like this where there is room for suspicion (פתחון פה לחשדו), derived from the verse והייתם נקיים מה' ומישראל, but not in ordinary cases."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "The Samaritan's response and the distinction between coins and wine",
+      "stepSummary": "The Samaritan responds that the coins were divided without any particular consideration, and Rav Pappa explains that wine is different because everyone knows there is sweet and unsweet wine.",
+      "whatsHappening": "The Samaritan responds to the judge's question, and Rav Pappa explains the distinction between coins and wine. This is a transition line applying the general principle to a specific scenario.",
+      "deeperAnalysis": "The Samaritan claims dividing coins without consideration is acceptable because all coins are equal. Rav Pappa clarifies that wine differs because quality variations are known, making simple division inequitable.",
+      "keyTerms": [
+        {
+          "term": "חַמְרָא",
+          "meaning": "wine"
+        },
+        {
+          "term": "כּוּלֵּי עָלְמָא יָדְעִי",
+          "meaning": "everyone knows"
+        },
+        {
+          "term": "דִּבְסִים",
+          "meaning": "sweet"
+        },
+        {
+          "term": "לָא בְּסִים",
+          "meaning": "not sweet"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ: לָא.",
+          "english": "He said to him: No."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲמַר לֵיהּ: חַמְרָא,",
+          "english": "He said to him: Wine,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כּוּלֵּי עָלְמָא יָדְעִי דְּאִיכָּא דִּבְסִים וְאִיכָּא דְּלָא בְּסִים.",
+          "english": "All the world knows that there are those that are sweet and there are those that are not sweet."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ: לָא. אֲמַר לֵיהּ: חַמְרָא, כּוּלֵּי עָלְמָא יָדְעִי דְּאִיכָּא דִּבְסִים וְאִיכָּא דְּלָא בְּסִים.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "answers_question"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Naḥman's ruling on dividing money",
+      "stepSummary": "Rav Naḥman rules that money is considered as if it were already divided, but only when the coins are of the same quality.",
+      "whatsHappening": "The Gemara returns to the main topic and cites Rav Naḥman's ruling on dividing money. This is a setup line introducing a specific halachic ruling.",
+      "deeperAnalysis": "Rav Naḥman rules that money is considered as if already divided only when coins are of identical quality. This ruling clarifies that the principle of informing litigants applies specifically when quality differences exist.",
+      "keyTerms": [
+        {
+          "term": "גּוּפָא",
+          "meaning": "the matter itself"
+        },
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Naḥman"
+        },
+        {
+          "term": "כְּמַאן דִּפְלִיגִי דָּמוּ",
+          "meaning": "as if it were already divided"
+        },
+        {
+          "term": "טָבֵי וְטָבֵי",
+          "meaning": "good and good"
+        },
+        {
+          "term": "תְּקוּלֵי וּתְקוּלֵי",
+          "meaning": "heavy and heavy"
+        },
+        {
+          "term": "טָבֵי וּתְקוּלֵי",
+          "meaning": "good and heavy"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גּוּפָא, אָמַר רַב נַחְמָן: זוּזֵי, כְּמַאן דִּפְלִיגִי דָּמוּ.",
+          "english": "The matter itself, Rav Naḥman said: Coins, like those who divided them, they are considered."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָנֵי מִילֵּי טָבֵי וְטָבֵי, תְּקוּלֵי וּתְקוּלֵי.",
+          "english": "These matters, good and good, heavy and heavy."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל טָבֵי וּתְקוּלֵי – לָא.",
+          "english": "But good and heavy – no."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גּוּפָא, אָמַר רַב נַחְמָן: זוּזֵי, כְּמַאן דִּפְלִיגִי דָּמוּ. הָנֵי מִילֵּי טָבֵי וְטָבֵי, תְּקוּלֵי וּתְקוּלֵי. אֲבָל טָבֵי וּתְקוּלֵי – לָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        2
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:3:1",
+            "hebrew": "טבי ותקולי - יש זוזי שמשקלם קל וצורתם יוצאת בהוצאה והורגלו בה וטובים בהוצאה יותר מצורה אחרת של זוזי שמשקלן יתר ואותן שמשקלן יתר חביבין למי ששוקל כסף מנה או פרס במאזנים הלכך טבי וטבי אי נמי תקולי ותקולי כמאן דפליגי דמי דאלו שהניח טובים כאלו שנטל:",
+            "english": "",
+            "takeaway": "רש״י explains that טבי refers to coins that are lighter in weight but widely accepted in circulation, while תקולי refers to heavier coins preferred by those weighing silver by the ounce, and Rav Naḥman's ruling that money is considered divided applies only when both parties receive coins of the same category (either both טבי or both תקולי)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:3:2",
+            "hebrew": "אבל שקל טבי ושבק תקולי - אי נמי שקל תקולי ושבק טבי לא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that Rav Naḥman's ruling does not apply if one party takes the טבי coins and leaves the תקולי coins, or vice versa, because the values are not equivalent."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Ḥama's practice of renting out dinars",
+      "stepSummary": "Rav Ḥama would rent out dinars at a rate of one peshita per day, but his money was ultimately lost as divine punishment for violating the prohibition of interest.",
+      "whatsHappening": "The Gemara relates a story about Rav Ḥama's practice of renting out dinars. This is a setup line introducing a narrative case study.",
+      "deeperAnalysis": "Rav Ḥama rented dinars at a daily rate, but lost his money as divine punishment for violating interest prohibitions. The Gemara explains that renting money differs from renting a hoe because money's depreciation is unknown and it does not return identically.",
+      "keyTerms": [
+        {
+          "term": "רַב חָמָא",
+          "meaning": "Rav Ḥama"
+        },
+        {
+          "term": "מוֹגַר זוּזֵי",
+          "meaning": "renting out dinars"
+        },
+        {
+          "term": "בִּפְשִׁיטָא",
+          "meaning": "at a rate of one peshita"
+        },
+        {
+          "term": "מַאי שְׁנָא מִמָּרָא",
+          "meaning": "in what way is it different from the hoe"
+        },
+        {
+          "term": "הָדְרָא בָּעֵינָא",
+          "meaning": "returns to its owner"
+        },
+        {
+          "term": "פְּחָתֵיהּ",
+          "meaning": "depreciation"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב חָמָא הֲוָה מוֹגַר זוּזֵי בִּפְשִׁיטָא בְּיוֹמָא.",
+          "english": "Rav Hama was renting dinars at a peshita per day."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּלוֹ זוּזֵי דְּרַב חָמָא.",
+          "english": "All of Rav Hama's dinars."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הוּא סָבַר: מַאי שְׁנָא מִמָּרָא?",
+          "english": "He thought: What is the difference from a hoe?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְלָא הִיא מָרָא הָדְרָא בָּעֵינָא וִידִיעַ פְּחָתֵיהּ,",
+          "english": "And is not the hoe returns to its owner and its depreciation is known,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "זוּזֵי לָא הָדְרִי בְּעֵינַיְיהוּ וְלָא יְדִיעַ פְּחָתֵיהּ.",
+          "english": "Dinars do not return to their owner and their depreciation is not known."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב חָמָא הֲוָה מוֹגַר זוּזֵי בִּפְשִׁיטָא בְּיוֹמָא. כְּלוֹ זוּזֵי דְּרַב חָמָא. הוּא סָבַר: מַאי שְׁנָא מִמָּרָא? וְלָא הִיא מָרָא הָדְרָא בָּעֵינָא וִידִיעַ פְּחָתֵיהּ, זוּזֵי לָא הָדְרִי בְּעֵינַיְיהוּ וְלָא יְדִיעַ פְּחָתֵיהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        3
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:1",
+            "hebrew": "מוגר זוזי בפשיטא ליומא - בלשון שכירות ולא בלשון הלואה הנני משכיר לך זוז היום בפשוט דהיינו זוז מדינה דהיינו שמינית שבצורי:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חמא used the language of שכירות rather than הלואה, renting out a זוז at a rate of one פשיטא per day."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:2",
+            "hebrew": "כלו זוזי דרב חמא - ירדו לטימיון כדאמרינן לקמן (בבא מציעא דף עא:) שהמלוין ברבית נכסיהן מתמוטטין:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חמא's money was lost as a divine punishment for taking רבית, as his assets collapsed."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:3",
+            "hebrew": "מ\"ש ממרא - פושויי\"ר בלעז הלא רשאי אני להשכיר את כלי:",
+            "english": "",
+            "takeaway": "רש״י explains that רב חמא reasoned that just as he is permitted to rent out a tool like a hoe, he should be permitted to rent out money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:4",
+            "hebrew": "הדרא בעינא - אותו כלי חוזר בעצמו בעין ואינו הלואה אצלו בדמים ואין אחריותו עליו אם נאנס או נשבר מחמת מלאכה הלכך אין שכרו רבית:",
+            "english": "",
+            "takeaway": "רש״י explains that a hoe returns in its original form, meaning the borrower is not liable for אונסין, so the payment is not considered רבית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:5",
+            "hebrew": "וידיע פחתיה - ועוד שניכר פגמו שהוא נפגם ומתקלקל מחמת מלאכה:",
+            "english": "",
+            "takeaway": "רש״י explains that a hoe visibly depreciates from use, which justifies the rental fee."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:4:6",
+            "hebrew": "זוזי לא הדרי בעינייהו - שהרי מוציאם ולפיכך אחריותו עליו ושכרו רבית אע\"ג דאמר בלשון שכירות ועוד אי נמי אהדר ליה בעיניה לא ידיע פחתיה נמצא שכרו חנם ברבית:",
+            "english": "",
+            "takeaway": "רש״י explains that money is meant to be spent, so the borrower is liable for אונסין, making the fee רבית, and even if returned in kind, money does not visibly depreciate, rendering the fee baseless רבית."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 69b:4:1",
+            "hebrew": "אוגר זוזא בפשיטי - מקבל היה עליו אחריות אונסין להכי ס\"ד דשרי:",
+            "english": "",
+            "takeaway": "תוספות explains that רב חמא accepted אחריות אונסין on the money, which is why he initially thought the arrangement was permitted."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 69b:4:2",
+            "hebrew": "מרא הדרא בעיניה וידיע פחתיה - ועוד שניכר פגמו שהוא נפגם אם יתקלקל מחמת מלאכה זוזי לא הדרי בעינייהו שהרי מוציאן ולפיכך אחריותן עליו ושכרן רבית אע\"פ שאמר בלשון שכירות ועוד אי נמי מהדר להו בעינייהו לא ידיע פחתייהו נמצא שכרן בחנם והוי רבית כך פי' בקונטרס וקשה לפירושו דא\"כ היה אסור להשכיר לחבירו קטלא וכוס של זהב וטבעת דלא ידיע פחתייהו כדתנן בפרק הנהנה (מעילה דף יח.) ושאין בו פגם כיון שנהנה מעל כיצד קטלא בצוארה וטבעת בידה ושתתה בכוס של זהב כיון שנהנה מעל ועוד דבהדיא תניא בתוספתא (פ\"ד) משכיר אדם מעותיו אצל שולחני להתראות בהן ולהתלמד בהן וריב\"ן לא גרס וידיע פחתיה ונראה דגרס ליה וה\"פ מרא אינה מלוה כי לא ניתנה להוצאה ולהחזיר אחרת אלא צריך להחזיר בעינה והשכר אינו שכר מלוה אי נמי היה נותן המרא להוציא ולעשות הימנו כל חפצו ולשלם אחרת אעפ\"כ מותר ליטול שכר ואין ללמוד היתר משם לאוגורי זוזי דבמרא השכירות אינה בעבור הלואה שיש לו רשות להוציאה אלא נותן השכירות עבור הפחת שתפחת על ידי מלאכה אם יחזיר השוכר בעינה אבל זוזי דרב חמא היה מלוה ולצורך הוצאה השכירם לו ולא בשביל קבלת שום פחת:",
+            "english": "",
+            "takeaway": "תוספות challenges רש״י's explanation that money lacks visible depreciation, noting that items like a golden cup or ring also lack visible depreciation yet can be rented, and instead suggests that a hoe is rented for its potential depreciation from work, whereas רב חמא's money was effectively a הלואה for spending purposes."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges רש״י's reasoning that money lacks visible depreciation (פחת) by pointing out that other items like golden cups also lack visible depreciation but can be rented, and instead argues that רב חמא's arrangement was fundamentally a הלואה for spending purposes rather than a true rental for depreciation."
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "Rava's ruling on שכר אמירה",
+      "stepSummary": "Rava rules that it is permitted to pay someone to lend money to a third party, as this is not direct interest.",
+      "whatsHappening": "The Gemara cites Rava's ruling on שכר אמירה. This is a setup line introducing a new halachic concept.",
+      "deeperAnalysis": "Rava permits paying someone to lend money to a third party, as this is not direct interest. The Torah only prohibits interest flowing directly from borrower to lender, not via a third party.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "שְׁרֵי לֵיהּ לְאִינִישׁ",
+          "meaning": "it is permitted for a person"
+        },
+        {
+          "term": "לְמֵימַר לֵיהּ לְחַבְרֵיהּ",
+          "meaning": "to say to his friend"
+        },
+        {
+          "term": "הֵילָךְ אַרְבְּעָה זוּזֵי",
+          "meaning": "here are four dinars"
+        },
+        {
+          "term": "וְאוֹזְפֵיהּ לִפְלָנְיָא זוּזֵי",
+          "meaning": "and lend money to so-and-so"
+        },
+        {
+          "term": "לֹא אָסְרָה תּוֹרָה אֶלָּא רִבִּית הַבָּאָה מִלֹּוֶה לְמַלְוֶה",
+          "meaning": "the Torah only prohibited interest that comes directly from the borrower to the lender"
+        },
+        {
+          "term": "שְׂכַר אֲמִירָה",
+          "meaning": "payment for talking"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: שְׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ:",
+          "english": "Rava said: It is permitted for a person to say to his friend:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֵילָךְ אַרְבְּעָה זוּזֵי וְאוֹזְפֵיהּ לִפְלָנְיָא זוּזֵי,",
+          "english": "Here are four dinars and lend them to so-and-so,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא אָסְרָה תּוֹרָה אֶלָּא רִבִּית הַבָּאָה מִלֹּוֶה לְמַלְוֶה.",
+          "english": "The Torah did not prohibit except interest that comes from the borrower to the lender."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמַר רָבָא: שְׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ",
+          "english": "And Rava said: It is permitted for a person to say to his friend"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "״שְׁקֹל לָךְ אַרְבְּעָה זוּזֵי וֶאֱמוֹר לֵיהּ",
+          "english": "\"Take for yourself four dinars and say to him"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לִפְלוֹנִי לְאוֹזֹפַן זוּזֵי״.",
+          "english": "to so-and-so to lend them to me.\""
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "מַאי טַעְמָא – שְׂכַר אֲמִירָה קָא שָׁקֵיל.",
+          "english": "What is the reason? He is taking payment for speaking."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: שְׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ: הֵילָךְ אַרְבְּעָה זוּזֵי וְאוֹזְפֵיהּ לִפְלָנְיָא זוּזֵי, לֹא אָסְרָה תּוֹרָה אֶלָּא רִבִּית הַבָּאָה מִלֹּוֶה לְמַלְוֶה. וְאָמַר רָבָא: שְׁרֵי לֵיהּ לְאִינִישׁ לְמֵימַר לֵיהּ לְחַבְרֵיהּ ״שְׁקֹל לָךְ אַרְבְּעָה זוּזֵי וֶאֱמוֹר לֵיהּ לִפְלוֹנִי לְאוֹזֹפַן זוּזֵי״. מַאי טַעְמָא – שְׂכַר אֲמִירָה קָא שָׁקֵיל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "continues_current_line"
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "The case of Abba Mar, son of Rav Pappa",
+      "stepSummary": "The Gemara cites the case of Abba Mar, son of Rav Pappa, who would take pans of wax from wax manufacturers and tell his father to lend them money.",
+      "whatsHappening": "The Gemara cites a case that supports Rava's ruling on שכר אמירה. This is a setup line introducing a practical application.",
+      "deeperAnalysis": "Abba Mar took wax pans from manufacturers and told his father to lend them money. The Sages accused him of consuming interest, but Rav Pappa defended him, stating this is merely payment for talking, not direct interest.",
+      "keyTerms": [
+        {
+          "term": "אַבָּא מָר בְּרֵיהּ דְּרַב פָּפָּא",
+          "meaning": "Abba Mar, son of Rav Pappa"
+        },
+        {
+          "term": "אוּגְנָא דְקִירָא",
+          "meaning": "pans of wax"
+        },
+        {
+          "term": "מִקִּירָאֵי",
+          "meaning": "from wax manufacturers"
+        },
+        {
+          "term": "אָכֵיל בְּרֵיהּ דְּמָר רִבִּיתָא",
+          "meaning": "the Master's son consumes interest"
+        },
+        {
+          "term": "כֹּל כִּי הַאי רִבִּיתָא נֵיכוֹל",
+          "meaning": "we may consume any interest of this kind"
+        },
+        {
+          "term": "שְׂכַר אֲמִירָה קָא שָׁקֵיל",
+          "meaning": "he takes payment for talking"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כִּי הָא דְּאַבָּא מָר בְּרֵיהּ דְּרַב",
+          "english": "For this: Abba Mar, son of Rav"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "פָּפָּא הֲוָה שָׁקֵיל אוּגְנָא דְקִירָא מִקִּירָאֵי,",
+          "english": "Pappa was taking pans of wax from wax-makers,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַאֲמַר לֵיהּ לַאֲבוּהּ: אוֹזְפִינְהוּ זוּזֵי.",
+          "english": "and he said to his father: Lend them money."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַרוּ לֵיהּ רַבָּנַן לְרַב פָּפָּא:",
+          "english": "The Sages said to Rav Pappa:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אָכֵיל בְּרֵיהּ דְּמָר רִבִּיתָא! אֲמַר לְהוּ:",
+          "english": "The Master's son eats interest! He said to them:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כֹּל כִּי הַאי רִבִּיתָא נֵיכוֹל,",
+          "english": "All such interest we may eat,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לֹא אָסְרָה תּוֹרָה אֶלָּא רִבִּית הַבָּאָה מִלֹּוֶה לְמַלְוֶה.",
+          "english": "The Torah did not prohibit except interest that comes from borrower to lender."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הָכָא – שְׂכַר אֲמִירָה קָא שָׁקֵיל, וּשְׁרֵי.",
+          "english": "Here – he is taking payment for speaking, and it is permitted."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כִּי הָא דְּאַבָּא מָר בְּרֵיהּ דְּרַב פָּפָּא הֲוָה שָׁקֵיל אוּגְנָא דְקִירָא מִקִּירָאֵי, וַאֲמַר לֵיהּ לַאֲבוּהּ: אוֹזְפִינְהוּ זוּזֵי. אֲמַרוּ לֵיהּ רַבָּנַן לְרַב פָּפָּא: אָכֵיל בְּרֵיהּ דְּמָר רִבִּיתָא! אֲמַר לְהוּ: כֹּל כִּי הַאי רִבִּיתָא נֵיכוֹל, לֹא אָסְרָה תּוֹרָה אֶלָּא רִבִּית הַבָּאָה מִלֹּוֶה לְמַלְוֶה. הָכָא – שְׂכַר אֲמִירָה קָא שָׁקֵיל, וּשְׁרֵי.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "general_logic",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:6:1",
+            "hebrew": "אוגנא דקירא - חלות הנתכות בכלים קטנים עגולים כאגנות:",
+            "english": "",
+            "takeaway": "רש״י explains that אוגנא דקירא refers to loaves of wax melted in small round vessels like basins."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 69b:6:2",
+            "hebrew": "מקיראי - תגרי שעוה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that מקיראי means merchants who deal in wax."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T13:00:26.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 115.60886400000891,
+      "structure": 1671.18811810005,
+      "validate": 220.93432050023694,
+      "translate": 301.19457499985583,
+      "meforshim": 479.83622589998413,
+      "teaching": 721.2897819000646
+    }
+  }
+}

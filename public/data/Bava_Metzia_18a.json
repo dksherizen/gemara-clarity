@@ -1,0 +1,790 @@
+{
+  "ref": "Bava Metzia 18a",
+  "masechet": "Bava_Metzia",
+  "daf": 18,
+  "amud": "a",
+  "mainTopic": "(continues) הטוען לאחר מעשה בית דין · מצא גיטי נשים ושחרורי עבדים",
+  "overview": "(1) Rabbi Yochanan rules that one cannot claim against a court's decision, likening it to holding a document; Abaye challenges this regarding a woman collecting her ketubah without a document, leading to a discussion on the validity of the get as a ketubah in places where ketubot are not written. (2) The Mishnah states that found divorce and emancipation documents are not returned if the owner says 'give them'; the Gemara discusses Rav's ruling on returning documents found in court versus in the market, and the role of forgers (שטראי) and identical names. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 7,
+      "topic": "(continues) הטוען לאחר מעשה בית דין",
+      "gist": "Rabbi Yochanan rules that one cannot claim against a court's decision, likening it to holding a document; Abaye challenges this regarding a woman collecting her ketubah without a document, leading to a discussion on the validity of the get as a ketubah in places where ketubot are not written.",
+      "openingFormula": "אמר רבי חייא בר אבא אמר רבי יוחנן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 8,
+      "endLine": 13,
+      "topic": "מצא גיטי נשים ושחרורי עבדים",
+      "gist": "The Mishnah states that found divorce and emancipation documents are not returned if the owner says 'give them'; the Gemara discusses Rav's ruling on returning documents found in court versus in the market, and the role of forgers (שטראי) and identical names. — discussion continues into next amud.",
+      "openingFormula": "מתניתין",
+      "firstStepNumber": 3,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from Rav Chiya bar Ami's teaching",
+      "stepSummary": "The Gemara considers another source, Rav Chiya bar Ami's teaching, but finds it also ambiguous.",
+      "whatsHappening": "The Gemara explores another potential source for the widow from betrothal's rights. It cites Rav Chiya bar Ami, who teaches that if a betrothed woman dies, the man doesn't inherit her, but if he dies, she collects her כתובה.",
+      "deeperAnalysis": "This seems to prove she collects. However, the Gemara doubts this too. Perhaps this also assumes he wrote her a כתובה. The clause about him not inheriting her might be necessary to teach that even though he doesn't inherit, she still collects if he wrote a כתובה. This doesn't prove she collects without one.",
+      "keyTerms": [
+        {
+          "term": "אִשְׁתּוֹ אֲרוּסָה",
+          "meaning": "His betrothed wife"
+        },
+        {
+          "term": "לֹא אוֹנֵן וְלֹא מִטַּמֵּא לָהּ",
+          "meaning": "He does not enter acute mourning nor become impure for her"
+        },
+        {
+          "term": "מֵתָה – אֵינוֹ יוֹרְשָׁהּ",
+          "meaning": "If she dies, he does not inherit her"
+        },
+        {
+          "term": "מֵת הוּא – גּוֹבָה כְּתוּבָתָהּ",
+          "meaning": "If he dies, she collects her marriage contract"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאֶלָּא, מִדְּתָנֵי רַב חִיָּיא בַּר אַמֵּי:",
+          "english": "And rather, from the teaching of Rav Ḥiyya bar Ami:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִשְׁתּוֹ אֲרוּסָה, לֹא אוֹנֵן וְלֹא מִטַּמֵּא לָהּ,",
+          "english": "His betrothed wife, he does not mourn and does not become impure for her,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכֵן הִיא לֹא אוֹנֶנֶת וְלֹא מִטַּמְּאָה לוֹ.",
+          "english": "and similarly she does not mourn and does not become impure for him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מֵתָה – אֵינוֹ יוֹרְשָׁהּ,",
+          "english": "If she dies – he does not inherit her,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מֵת הוּא – גּוֹבָה כְּתוּבָּתָהּ.",
+          "english": "if he dies – she collects her marriage contract."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דִּלְמָא דִּכְתַב לַהּ,",
+          "english": "Perhaps he wrote it to her,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וְכִי תֵּימָא: דִּכְתַב לַהּ, מַאי לְמֵימְרָא?",
+          "english": "And if you would say: he wrote it to her, what is to be said?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מֵתָה אֵינוֹ יוֹרְשָׁהּ אִיצְטְרִיכָא לֵיהּ.",
+          "english": "That if she dies he does not inherit her – it is necessary for him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאֶלָּא, מִדְּתָנֵי רַב חִיָּיא בַּר אַמֵּי: אִשְׁתּוֹ אֲרוּסָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:2:1",
+            "hebrew": "לא אונן - אין אנינות חל עליו לאיסור אכילת קדשים:",
+            "english": "",
+            "takeaway": "רש״י explains that the term אונן here refers to the prohibition of eating קדשים during the mourning period, which does not apply to a betrothed man."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:2:2",
+            "hebrew": "ולא מטמא לה - אם כהן הוא דכתיב (ויקרא כא) כי אם לשארו והיינו אשתו והאי לאו שארו הוא דלא באו עדיין לידי קירוב בשר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a betrothed man does not become טמא for his betrothed woman because she is not yet considered his שאר, as they have not yet engaged in marital relations."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:2:3",
+            "hebrew": "ולא מטמאה לו - לאו משום כהונה קאמר דאין כהנות מוזהרות על הטומאה דכתיב (שם) בני אהרן אלא אינה זקוקה לטמא לו לא כהנת ולא ישראלית שמצוה להתעסק בשבעה מתי מצוה האמורים בפרשה דכתיב לה יטמא ותניא לה יטמא מצוה ואם לא רצה מטמאין אותו על כרחו ומעשה ביוסף הכהן כו' בתורת כהנים:",
+            "english": "",
+            "takeaway": "רש״י explains that the betrothed woman is not obligated to become טמא for her betrothed man, as the commandment to become טמא applies only to a married wife, and this applies to both כהנת and ישראלית."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:2:4",
+            "hebrew": "מתה אינו יורשה - דירושת הבעל נפקא לן משארו הקרוב אליו ממשפחתו וירש אותה וגו' בב\"ב (דף קיא:) והא לאו שארו הוא:",
+            "english": "",
+            "takeaway": "רש״י derives the husband's inheritance rights from the verse regarding שארו, and since a betrothed woman is not yet his שאר, he does not inherit from her."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Abaye's final retraction: the Get itself doesn't mention the Ketubah amount",
+      "stepSummary": "Abaye retracts his challenge to Rabbi Yochanan, realizing that even in a place where they don't write a Ketubah, the Get doesn't explicitly state the Ketubah amount.",
+      "whatsHappening": "אַבָּיֵי provides a final reason for retracting his challenge to רבי יוחנן. He retracts based on the Mishnah itself, not the widow from betrothal.",
+      "deeperAnalysis": "Even if we assume the Mishnah is in a place where they don't write a כתובה, the גט doesn't explicitly state the כתubah amount. If the גט is considered like a כתובה only by enactment, the husband could still claim he paid. If we say he should have torn up the גט, he could say the woman refused because she needed it to remarry. If we say he should have torn it and written a note, not all collections happen in court where such notes are possible. Therefore, the only way the Mishnah works is if the מעשה בית דין itself acts like a document, preventing the claim of payment. This supports רבי יוחנן's principle.",
+      "keyTerms": [
+        {
+          "term": "אַבָּיֵי מִגּוּפַהּ דְּמַתְנִיתִין קָא הָדַר בֵּיהּ",
+          "meaning": "Abaye retracted from the Mishnah itself"
+        },
+        {
+          "term": "אַטּוּ גֵּט מָנֶה מָאתַיִם כְּתִיב בֵּיהּ?",
+          "meaning": "Is it written in the bill of divorce that it is two hundred dinars?"
+        },
+        {
+          "term": "לִטְעוֹן וְלֵימָא פָּרַעְתִּי",
+          "meaning": "Let him claim and say: I paid"
+        },
+        {
+          "term": "אִי פְּרַעְתָּהּ אִיבְּעִי לָךְ לְמִיקְרְעֵיהּ",
+          "meaning": "If you paid it, you should have torn it up"
+        },
+        {
+          "term": "לָא שְׁבַקְתַּן",
+          "meaning": "She did not allow me"
+        },
+        {
+          "term": "בְּבֵי דִינָא מַגְבֵּי?",
+          "meaning": "Does everyone collect in court?"
+        }
+      ],
+      "whatToRemember": "The inability to use the Get as a document without the enactment proves רבי יוחנן's point.",
+      "whyThisMatters": "It firmly establishes the principle that מעשה בית דין has the force of a שטר.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אַבָּיֵי מִגּוּפַהּ דְּמַתְנִיתִין קָא הָדַר בֵּיהּ,",
+          "english": "But Abaye retracts from the Mishnah itself,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי סָלְקָא דַּעְתָּךְ בִּמְקוֹם שֶׁאֵין כּוֹתְבִין כְּתוּבָה עָסְקִינַן,",
+          "english": "For if your mind enters that we are dealing in a place where they do not write a marriage contract,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּגֵט הַיְינוּ כְּתוּבְּתַהּ,",
+          "english": "For a bill of divorce is her marriage contract,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַטּוּ גֵּט מָנֶה מָאתַיִם כְּתִיב בֵּיהּ? וְכִי תֵּימָא:",
+          "english": "Is it not that in a bill of divorce one hundred or two hundred is written?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כֵּיוָן דְּתַקִּינוּ רַבָּנַן לְמִגְבֵּא (לַהּ) [בֵּיהּ]",
+          "english": "Since the Sages instituted to collect (for her) in it"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "כְּמַאן דִּכְתִיב בֵּיהּ דָּמֵי,",
+          "english": "As one in whom the value is written,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לִטְעוֹן וְלֵימָא פָּרַעְתִּי.",
+          "english": "To claim and say: I paid."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְכִי תֵּימָא דְּאָמְרִינַן לֵיהּ:",
+          "english": "And if you would say that we say to him:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אִי פְּרַעְתַּהּ אִיבְּעִי לָךְ לְמִיקְרְעֵיהּ,",
+          "english": "If you paid it, it is necessary for you to tear it,"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אָמַר לַן: לָא שְׁבַקְתַּן,",
+          "english": "He said to us: He did not leave them,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "אָמְרָה: בָּעֵינָא לְאִנְּסוֹבֵי בֵּיהּ.",
+          "english": "She said: I need to remarry with it."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְכִי תֵּימָא אָמְרִינַן לֵיהּ:",
+          "english": "And if you would say we say to him:"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "אִיבְּעִי לָךְ לְמִיקְרְעֵיהּ וּמִכְתַּב אַגַּבֵּיהּ,",
+          "english": "It is necessary for you to tear it and write alongside it,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "גִּיטָּא דְּנַן דִּקְרַעְנוּהּו לָא מִשּׁוּם דְּגִיטָּא פְּסוּלָה הוּא,",
+          "english": "A bill of divorce that we tore it is not because the bill of divorce is invalid,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "אֶלָּא כִּי הֵיכִי דְּלָא תִּגְבֵּי בֵּיהּ זִמְנָא אַחֲרִיתִי.",
+          "english": "But so that she not collect in it another time."
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "אַטּוּ כֹּל דְּמַגְבֵּי, בְּבֵי דִינָא מַגְבֵּי?",
+          "english": "Is it not that all who collect, in court they collect?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אַבָּיֵי מִגּוּפַהּ דְּמַתְנִיתִין קָא הָדַר בֵּיהּ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:4:1",
+            "hebrew": "אלא אביי - דאמר לעיל לאו מילתא היא דאמרי מגופא דמתני' דהוציאה גט משום דהיא גופא קשיא ליה הדר ביה:",
+            "english": "",
+            "takeaway": "רש״י explains that אביי retracts his earlier objection because the Mishnah itself presents a difficulty, as the גט does not explicitly state the debt amount."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:4:2",
+            "hebrew": "דאי ס\"ד - דטעמא לאו משום דאין טוענין אחר מעשה ב\"ד הוא אלא משום דגט היינו כתובה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the assumption being challenged is that the reason for collection is not the principle of מעשה בית דין, but rather that the גט itself functions as a כתובה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:4:3",
+            "hebrew": "אטו גט מנה מאתים כתיב ביה - דנימא הוא מוכיח על החוב:",
+            "english": "",
+            "takeaway": "רש״י points out that the גט does not contain the text 'מנה מאתים', so it cannot serve as proof of the debt on its own."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:5:1",
+            "hebrew": "כמו דכתיב ביה דמי - דהא פסיקא לן מילתא דכתובה מנה מאתים:",
+            "english": "",
+            "takeaway": "רש״י explains that the enactment treats the גט as if it explicitly states the monetary value, because the amount of the כתובה is a fixed, known fact."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:7:1",
+            "hebrew": "אטו כל דמגבי בבי דינא מגבי לה - וכי כל הפורע חוב בא לב\"ד במקום שפרע לה לא היו ב\"ד שיכתבו לו כן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that not all payments are made in front of a בית דין, so the husband could not always obtain a written receipt (שובר) from the court."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 18a:4:1",
+            "hebrew": "אטו גט מנה ומאתים כתיב ביה - תימה היכי מוכח דאפילו במקום שכותבין כתובה דגביא אפי' כי לא נקיטא כתובה דלמא הכא במקום שאין כותבין וגביא בשטר גט וכותבין בגט שטרא דנן כו' כדסבר (רבא) [רב] בפ' הכותב (כתובות דף פט:) ואביי נמי לוקמא הכי אי נמי נוקי במקום שאין כותבין כתובה וגביא בעדי הגט אבל גט לא קרעינן משום דבעיא לאנסובי ביה והוי כמו היכא דלא אפשר דכותבין שובר אבל במקום שכותבין כתובה לא יפרע עד שתוציא שטר כתובה מידה או משום שיהא נאמן לומר פרעתי דלא כרבי יוחנן או משום דאין כותבין שובר ועוד כיון דמן אלמנה מן הנשואין במקום שאין כותבין לא בעי לאוכוחי כמו שפי' לעיל (בבא מציעא דף יז: ד\"ה אלמנה) איך מוכח מגרושה מן הנישואין במקום שאין כותבין כיון דגט לאו היינו כתובה ומשום דבעינא לאנסובי ביה פשיטא דאין נאמן לומר פרעתי כיון דלא ניתקנה כתובה באותו מקום וי\"ל דלאביי מתניתין קשיתיה דתנן כתובה ואין עמה גט אלמא במקום שכותבין כתובה עסקינן דאין סברא להעמיד שכן אירע שכתב לה בעבור אהבתה לכך פריך כיון שיש לה כתובה ואין מוציאה רק גט לימא פרעתי אלא ודאי לא אמר כלום וכותבין שובר:",
+            "english": "",
+            "takeaway": "תוספות questions how the Gemara proves that even in a place where they write a כתובה, the woman can collect without the document, and suggests that אביי's difficulty arises because the Mishnah implies a place where they do write a כתובה, making the lack of a receipt problematic unless the מעשה בית דין principle applies."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "While רש״י focuses on explaining the literal difficulty of the גט lacking the text 'מנה מאתים', תוספות raises a deeper conceptual question about how the Gemara proves the rule for places where כתubahs are written, suggesting that אביי's retraction is driven by the implication that the Mishnah discusses a place with written כתubahs."
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishnah's ruling on found documents",
+      "stepSummary": "The Mishnah rules that found divorce, emancipation, will, gift, or receipt documents are not returned if the owner claims them, due to the possibility that the writer reconsidered and decided not to deliver them.",
+      "whatsHappening": "The sugya opens with the Mishnah's text. The Mishnah establishes the baseline halacha regarding found documents.",
+      "deeperAnalysis": "Documents that obligate or release are not returned to the claimant because the writer might have changed his mind and decided not to give them. This sets the stage for the Gemara's inquiry into the conditions under which they might be returned.",
+      "keyTerms": [
+        {
+          "term": "גִּטֵּי נָשִׁים",
+          "meaning": "bills of divorce"
+        },
+        {
+          "term": "שִׁחְרוּרֵי עֲבָדִים",
+          "meaning": "bills of emancipation"
+        },
+        {
+          "term": "נִמְלַךְ",
+          "meaning": "reconsidered"
+        }
+      ],
+      "whatToRemember": "The core concern is נימלך — the writer's change of heart.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ מָצָא גִּיטֵּי נָשִׁים וְשִׁחְרוּרֵי עֲבָדִים,",
+          "english": "MISHNA: One found bills of divorce of women and bills of manumission of slaves,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּיָיתֵיקֵי, מַתָּנָה, וְשׁוֹבָרִין –",
+          "english": "wills, gifts, and receipts –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲרֵי זֶה לֹא יַחֲזִיר.",
+          "english": "these he shall not return."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁאֲנִי אוֹמֵר: כְּתוּבִין הָיוּ, וְנִמְלַךְ עֲלֵיהֶן שֶׁלֹּא לִתְּנָן.",
+          "english": "For I say: They were written, and he reconsidered about them not to give them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ מָצָא גִּיטֵּי נָשִׁים וְשִׁחְרוּרֵי עֲבָדִים, דְּיָיתֵיקֵי, מַתָּנָה, וְשׁוֹבָרִין – הֲרֵי זֶה לֹא יַחֲזִיר. שֶׁאֲנִי אוֹמֵר: כְּתוּבִין הָיוּ, וְנִמְלַךְ עֲלֵיהֶן שֶׁלֹּא לִתְּנָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Inference: If the writer says 'give', it is returned even after a long time",
+      "stepSummary": "The Gemara infers from the Mishnah that if the writer explicitly says 'give it', the document is returned, and this applies even if a long time has passed.",
+      "whatsHappening": "The Gemara draws an inference from the Mishnah's reasoning. Since the Mishnah's reason for not returning is the possibility of נימלך, the Gemara infers that if the writer explicitly says 'תנו', the concern of נימלך is removed.",
+      "deeperAnalysis": "Furthermore, since the Mishnah doesn't limit this to 'immediately', the Gemara infers it applies even after a long time. This sets up a challenge from a Mishnah in Gittin.",
+      "keyTerms": [
+        {
+          "term": "לִזְמַן מְרוּבֶּה",
+          "meaning": "after a long time"
+        },
+        {
+          "term": "תְּנוּ",
+          "meaning": "give (it)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ טַעְמָא דְּנִמְלַךְ שֶׁלֹּא לִתְּנָן,",
+          "english": "The Gemara: The reason that they are not returned,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא אָמַר: ״תְּנוּ״ –",
+          "english": "But he said: \"Give\" –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נוֹתְנִין, וַאֲפִילּוּ לִזְמַן מְרוּבֶּה.",
+          "english": "They give, even for a long time."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "טַעְמָא דְּנִמְלַךְ שֶׁלֹּא לִתְּנָן, הָא אָמַר: ״תְּנוּ״ – נוֹתְנִין, וַאֲפִילּוּ לִזְמַן מְרוּבֶּה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "inference",
+      "relationToPreviousStep": "derives_from",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:9:1",
+            "hebrew": "הא אמר תנו - עכשיו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's phrase 'הא אמר תנו' implies the husband explicitly commanded the witnesses to deliver the גט immediately."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:9:2",
+            "hebrew": "נותנין - ואפילו נמצא לזמן מרובה משנפל ולא חיישינן שמא גט אחר הוא ששמותיהן שוין ומאדם אחר נפל:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'נותנין' means the גט is returned to the woman even if found after a long time, because we do not suspect it fell from another man with the same name."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 18a:9:1",
+            "hebrew": "הא אמר תנו נותנין - וא\"ת מנלן דלמא אפילו אמר תנו אין נותנין והא דקתני נמלך ה\"ק ונמלך שלא ליתנן ומחמת כן לא חשש לשמור ונאבד ועכשיו רוצה לחזור ולגרשה דסבר שזהו הגט שאבד ממנו ואמר תנו ואפילו הכי אין נותנין דשמא אין זה גיטו אלא נפל מאחר ששמו כשמו אבל לא נמלך לכתחילה מלגרשה וגרשה מחזירין לה הגט לראיה אפי' אינו שלה וי\"ל דדייק מדלא קתני כתובים היו ולא נתנן ומדקתני ונמלך משמע שחושש שמא אינו רוצה עתה לגרשה אבל אם אמר תנו לה נותנים ואין לחוש שמא מאחר נפל וא\"ת ומנלן ואפי' לזמן מרובה דלמא לאלתר דוקא כדפריך ר' זירא לקמן ור' זירא גופיה מנלן דיחזיר לאשה אפילו לזמן מרובה וממה פשוט לו דברייתא קאמר לזמן מרובה יותר ממתני' וי\"ל דמברייתא משמע דבזמן שהבעל מודה יחזיר לאשה אפי' לזמן מרובה דאי לאלתר דוקא פשיטא אבל במתני' מצי למימר לאלתר דוקא דאם אמר תנו נותנין אינו מפורש במתני' והיא גופה אתא לאשמועינן דלא יחזיר דחיישינן לשמא נמלך אבל רבה דייק מדקתני ונמלך ולא קתני כתובין היו ולא נתן א\"כ אתא לאשמועינן אם אמר תנו נותנין והיינו אפי' לזמן מרובה דאי לאלתר פשיטא וא\"ת והלא אפילו אי הוי לאלתר הוי חידוש דלא חיישינן דלמא כתב בניסן ולא נתן עד תשרי כדפריך לקמן (בבא מציעא דף יט.) וכן לקמן (עמוד ב) דפריך על רבי ירמיה דמוקי כגון דקאמרי עדים כו' מאי למימרא לימא דקא משמע לן דלא חיישינן דלמא כתב בניסן כו' וי\"ל דס\"ל כמאן דאמר אין לבעל פירות משעת חתימה ואז ליכא חידוש דכתב בניסן ולא נתן עד תשרי דאפילו הכי שפיר טרפה ועוד י\"ל דרבי זירא דייק אפי' לזמן מרובה מדקתני בזמן שהבעל מודה יחזיר לאשה משמע שמודה שממנה נפל וכבר גירשה בו ואי לאלתר דוקא א\"כ צ\"ל שראינו הגט בידה דאי לא ראינו א\"כ במה אנו יודעין שהוא לאלתר ואחרי שראינו הגט בידה הרי כבר מגורשת פשיטא דיחזיר ומאי קא משמע לן. והלא אפילו לא גיטה הוא זה ניתן לה לראייה ואין הבעל מודה נמי אמאי לא יחזיר אלא ודאי מיירי שלא ראינו הגט בידה וקמשמע לן דאע\"פ דחיישינן שמא מבעל נפל ועדיין לא גירשה תתגרש עתה בהחזרת הגט ולא חיישינן שמא מאחר נפל א\"כ הוי אפי' לזמן מרובה כיון דלא ידעינן ממי נפל מן הבעל או מן האשה ורבה דייק דמתני' נמי אפי' לזמן מרובה דומיא דשטרי חליצה ומיאונין דיחזיר אפי' לזמן מרובה דלאלתר היינו שראינו בידה פשיטא כיון דחלצה נחזיר לה לראיה אפילו אינו שלה אלא מיירי שלא ראינו בידה ואף לא ידעינן שחלצה והיינו לזמן מרובה ודומיא דהכי משמע ליה דמיירי ברישא ורבי זירא לא מוקי לה דומיא דסיפא:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara derives the rule that 'אמר תנו' leads to return even after a long time from the fact that the Mishnah specifically mentions 'ונמלך' rather than 'כתובים היו ולא נתנן', indicating the concern is only about the husband's change of heart, not about the גט belonging to another man."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah in גִּטִּין about a lost גֵּט",
+      "stepSummary": "The Gemara challenges the inference with a Mishnah in Gittin that says a lost Get found after a delay is invalid.",
+      "whatsHappening": "The גמרא brings a contradictory source from the משנה in גִּטִּין. This is a setup line introducing a direct challenge to the previous inference.",
+      "deeperAnalysis": "The משנה states that a lost גֵּט is valid only if found immediately (לְאַלְתָּר); otherwise, it is פָּסוּל. This contradicts the inference that תְּנוּ allows returning a document even after a long time. The concern in גִּטִּין is that the found גֵּט might belong to a different couple with identical names.",
+      "keyTerms": [
+        {
+          "term": "לְאַלְתָּר",
+          "meaning": "immediately"
+        },
+        {
+          "term": "פָּסוּל",
+          "meaning": "invalid"
+        },
+        {
+          "term": "גִּטִּין",
+          "meaning": "Masechet Gittin"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּרְמִינְהוּ: הַמֵּבִיא גֵּט,",
+          "english": "And we raise them: The one who brings a get,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאָבַד הֵימֶנּוּ –",
+          "english": "and it was lost from him –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מְצָאוֹ לְאַלְתַּר כָּשֵׁר,",
+          "english": "he found it immediately, it is valid,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִם לָאו – פָּסוּל.",
+          "english": "if not – it is invalid."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִינְהוּ: הַמֵּבִיא גֵּט, וְאָבַד הֵימֶנּוּ – מְצָאוֹ לְאַלְתַּר כָּשֵׁר, אִם לָאו – פָּסוּל.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        35
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:10:1",
+            "hebrew": "מצאו לאלתר - התם (גיטין כז:) מפרש כדי שתעבור שיירא ותשרה ובתוך כך ליכא למימר משיירא שעברה שם נפל שהרי לא שהה שיעור שתחנה:",
+            "english": "",
+            "takeaway": "רש״י explains that 'מצאו לאלתר' in the Mishnah in גיטין means finding the גט within the time it takes for a caravan to travel and rest, a period too short for another גט with the same names to have been lost there."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 18a:10:1",
+            "hebrew": "לאלתר כשר - אפילו אביי דחייש לתרי יצחק אפילו היכא דלא הוחזק (יבמות דף קטו:) בגט שמצאו לאלתר לא חייש דהתם הוי כמו לזמן מרובה דלא שייך התם לאלתר:",
+            "english": "",
+            "takeaway": "תוספות clarifies that even אביי, who generally worries about two people named יצחק, does not apply this concern when a גט is found immediately, because the immediate timeframe is treated like a long duration where the concern of identical names is irrelevant."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: Distinguishing between places with and without caravans",
+      "stepSummary": "Rabba resolves the contradiction by distinguishing between a place where caravans are common (Gittin) and where they are not (our Mishnah).",
+      "whatsHappening": "רַבָּא provides the standard resolution to the contradiction. This is a direct answer to the previous challenge.",
+      "deeperAnalysis": "רַבָּא explains that the משנה in גִּטִּין refers to a place where שְׁיָירוֹת (caravans/travelers) are מְצוּיוֹת (common), meaning there's a high chance of identical names. Our משנה refers to a place where caravans are not common, so the concern of identical names is lower. This allows תְּנוּ to be effective even after a long time in a non-caravan area.",
+      "keyTerms": [
+        {
+          "term": "שְׁיָירוֹת",
+          "meaning": "caravans/travelers"
+        },
+        {
+          "term": "מְצוּיוֹת",
+          "meaning": "common/frequent"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "Rabba"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַבָּה, לָא קַשְׁיָא:",
+          "english": "Rabba says: It is not difficult:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כָּאן – בִּמְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת,",
+          "english": "Here – in a place where caravans are common,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כָּאן – בִּמְקוֹם שֶׁאֵין הַשַּׁיָּירוֹת מְצוּיוֹת.",
+          "english": "Here – in a place where caravans are not common."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַבָּה, לָא קַשְׁיָא: כָּאן – בִּמְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת, כָּאן – בִּמְקוֹם שֶׁאֵין הַשַּׁיָּירוֹת מְצוּיוֹת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        36
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "resolves"
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Refinement: Even in a caravan place, only if two identical names are established",
+      "stepSummary": "The Gemara adds that even in a place with caravans, the concern only applies if it is established that two people with the same name exist in that city.",
+      "whatsHappening": "The גמרא refines רַבָּא's distinction. This is a logical narrowing of the previous rule.",
+      "deeperAnalysis": "The גמרא narrows the scope of the concern. Even in a place where caravans are common, we only worry about identical names if it is הוּחְזְקוּ (established) that two people with that specific name (e.g., שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן) live there. If not, we return the document.",
+      "keyTerms": [
+        {
+          "term": "הוּחְזְקוּ",
+          "meaning": "it is established"
+        },
+        {
+          "term": "שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן",
+          "meaning": "two Yosef ben Shimons"
+        },
+        {
+          "term": "גְּמָרָא",
+          "meaning": "Gemara"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַאֲפִילּוּ בִּמְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת –",
+          "english": "And even in a place where caravans are common –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהוּא שֶׁהוּחְזְקוּ שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן בְּעִיר אַחַת.",
+          "english": "And it is that two Yosef ben Shimon were established in one city."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַאֲפִילּוּ בִּמְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת – וְהוּא שֶׁהוּחְזְקוּ שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן בְּעִיר אַחַת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "refines",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:12:1",
+            "hebrew": "ואפילו במקום כו' - לאו רבה קא מסיק אלא גמרא הוא דקאמר לן דכי אמר רבה במקום שהשיירות מצויות לא אמר אלא כשהוחזקו בעיר אחת שנכתב בה הגט שנים ששמותיהן שוין ושמות נשותיהן שוות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that this refinement is not Rabba's own statement but the Gemara's own clarification that Rabba's rule about caravan places only applies when two people with identical names and wives' names are established in that city."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 18a:12:1",
+            "hebrew": "והוא שהוחזקו - תימה אמאי לא מוקי אידי ואידי שהשיירות מצויות ומתני' בלא הוחזקו דהשתא הוי דומיא דסיפא דכל מעשה ב\"ד דמיירי בהכי וי\"ל דעובדא דבסמוך דהוי בבי דינא דרב הונא הוי ברישא ואשמועינן דבלא הוחזקו יחזיר אפי' שיירות מצויות והכא אשמועינן דאם הוחזקו נמי יחזיר אם אין שיירות מצויות וא\"ת ומאי טעמא יחזיר לאשה כיון שיש שני יוסף בן שמעון בעיר וי\"ל כיון שאנו יודעים שזה אבד גט כאן אין לחוש שגם האחר איבד כיון שאין שיירות מצויות ושמעתין אתיא כר\"א דלרבי מאיר כיון שהוחזקו שני יוסף בן שמעון אין הגט כשר עד שיהא מוכיח מתוכו שהוא של זה כדמוכח פרק כל הגט (גיטין דף כד:) דתנן כתב לגרש את הגדולה לא יגרש בו את הקטנה ודייק הא גדולה מצי לגרש מני ר\"א היא ובעדי מסירה משמע דלר\"מ אפילו גדולה לא מצי מגרש וההוא דהמגרש (שם דף פו:) דשני גיטין שוין שנתערבו ומוקי כר\"מ מיירי במשולשים דמוכיח מתוכו [וע\"ע תוס' גיטין כד: ד\"ה בעדי]:",
+            "english": "",
+            "takeaway": "תוספות questions why the Gemara doesn't simply distinguish between cases with and without established identical names across both the Mishnah and the Braita, and answers that the subsequent case in Rav Huna's court teaches that without established identical names, the document is returned even in caravan places, while this step teaches that even with established identical names, it is returned if there are no caravans."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: רַבָּא's own statement about רַב הוּנָא's court",
+      "stepSummary": "The Gemara challenges the refinement with a case from Rav Huna's court where a Get was found and returned despite being from a caravan city.",
+      "whatsHappening": "The גמרא brings a case that seems to contradict the refinement. This is a setup line introducing a self-contradiction challenge.",
+      "deeperAnalysis": "The גמרא cites a case where a גֵּט was found in רַב הוּנָא's בֵּית דִּין. רַב הוּנָא was concerned about two cities named שְׁוִירֵי. רַב הוּנָא's court is like a caravan place (many people pass through), yet רַבָּא ruled to return it. This implies that even in a caravan place, if הוּחְזְקוּ is not established, we return it. This supports the refinement but seems to contradict the initial broad concern.",
+      "keyTerms": [
+        {
+          "term": "בֵּית דִּין",
+          "meaning": "court"
+        },
+        {
+          "term": "שְׁוִירֵי",
+          "meaning": "Sheviri (city name)"
+        },
+        {
+          "term": "רַב הוּנָא",
+          "meaning": "Rav Huna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּאִי לָא תֵּימָא הָכִי, קַשְׁיָא דְּרַבָּה אַדְּרַבָּה.",
+          "english": "If you do not say so, Rabba's statement is difficult against Rabba's statement."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּהָהוּא גִּיטָּא דְּאִשְׁתְּכַח בֵּי דִינָא דְּרַב הוּנָא,",
+          "english": "That certain bill of divorce that was found in the court of Rav Huna,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּהֲוָה כְּתִוב בֵּיהּ בִּשְׁוִירֵי מָתָא דְּעַל רָכִיס נַהֲרָא.",
+          "english": "that it was written in it in Sheviri city, on the Rakhis river."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אָמַר רַב הוּנָא:",
+          "english": "Rav Huna said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חָיְישִׁינַן לִשְׁנֵי שְׁוִירֵי,",
+          "english": "We are concerned for two Sheviris,",
+          "notes": "Sheviri is a place name; Rav Huna worries there are two places with this name."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וַאֲמַר לֵיהּ רַב חִסְדָּא לְרַבָּה:",
+          "english": "and Rav Hisda said to Rabba:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "פּוֹק עַיֵּין בָּהּ,",
+          "english": "Go and look at it,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "דִּלְאוּרְתָּא בָּעֵי מִינָּךְ רַב הוּנָא.",
+          "english": "for Rav Huna does not want from you the upper hand."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "נְפַק, דַּק וְאַשְׁכַּח. דִּתְנַן:",
+          "english": "He went, examined, and found. As we learned:"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "כׇּל מַעֲשֵׂה בֵּית דִּין –",
+          "english": "All work of the court –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "הֲרֵי זֶה יַחֲזִיר.",
+          "english": "this one returns."
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "וְהָא בֵּי דִינָא דְּרַב הוּנָא,",
+          "english": "And this court of Rav Huna,"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "דְּכִי מְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת דָּמֵי,",
+          "english": "that when a place where caravans are common is like,"
+        },
+        {
+          "phraseNumber": 14,
+          "aramaic": "וְקָא פָּשֵׁיט רַבָּה דְּיַחְזִיר,",
+          "english": "and yet Rabba derives that he returns,"
+        },
+        {
+          "phraseNumber": 15,
+          "aramaic": "אַלְמָא אִי הוּחְזְקוּ שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן –",
+          "english": "if so, if two Yosef ben Shimon were established –"
+        },
+        {
+          "phraseNumber": 16,
+          "aramaic": "אִין, אִי לָא – לָא.",
+          "english": "yes, if not – no."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּאִי לָא תֵּימָא הָכִי, קַשְׁיָא דְּרַבָּה אַדְּרַבָּה. דְּהָהוּא גִּיטָּא דְּאִשְׁתְּכַח בֵּי דִינָא דְּרַב הוּנָא, דַּהֲוָה כְּתִוב בֵּיהּ בִּשְׁוִירֵי מָתָא דְּעַל רָכִיס נַהֲרָא. אָמַר רַב הוּנָא: חָיְישִׁינַן לִשְׁנֵי שְׁוִירֵי, וַאֲמַר לֵיהּ רַב חִסְדָּא לְרַבָּה: פּוֹק עַיֵּין בָּהּ, דִּלְאוּרְתָּא בָּעֵי מִינָּךְ רַב הוּנָא. נְפַק, דַק וְאַשְׁכַּח. דִּתְנַן: כׇּל מַעֲשֵׂה בֵּית דִּין – הֲרֵי זֶה יַחְזִיר. וְהָא בֵּי דִינָא דְּרַב הוּנָא, דְּכִי מְקוֹם שֶׁהַשְּׁיָירוֹת מְצוּיוֹת דָּמֵי, וְקָא פָּשֵׁיט רַבָּה דְּיַחְזִיר, אַלְמָא אִי הוּחְזְקוּ שְׁנֵי יוֹסֵף בֶּן שִׁמְעוֹן – אִין, אִי לָא – לָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        38
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:13:1",
+            "hebrew": "דאי לא תימא הכי - דרבה תרתי בעי קשיא דרבה אדרבה:",
+            "english": "",
+            "takeaway": "רש״י explains that the contradiction of רבה against himself only arises if we do not accept the refinement that רבה requires two conditions (הוחזקו and מקום שהשיירות מצויות) for the concern to apply."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 18a:13:2",
+            "hebrew": "בי דינא דרב הונא - במקום שהוא יושב ודן ומתוך שהכל רגילין אצלו לדון הוי ליה מקום שהשיירות מצויות שם:",
+            "english": "",
+            "takeaway": "רש״י clarifies that בית דין דרב הונא is considered a מקום שהשיירות מצויות because people are accustomed to coming there to judge, making it a place where caravans gather."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T08:06:28.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 120.70251470000949,
+      "structure": 2195.572969900095,
+      "translate": 482.3463826000807,
+      "meforshim": 565.3275725001004,
+      "teaching": 1238.4140727000777
+    }
+  }
+}

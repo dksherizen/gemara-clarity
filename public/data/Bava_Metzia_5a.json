@@ -1,0 +1,2222 @@
+{
+  "ref": "Bava Metzia 5a",
+  "masechet": "Bava_Metzia",
+  "daf": 5,
+  "amud": "a",
+  "mainTopic": "(continues) הוצאת קרקעות משבועה · שבועת ארבעה שומרים והעדאת עדים · שבועת היסטר ופסולת רועה",
+  "overview": "(1) The Gemara discusses the exclusion of קרקעות from oaths, analyzing whether a partial admission regarding movable property triggers an oath for land, and the necessity of a verse to exclude land. (2) The Gemara examines the requirement of partial admission for the four guardians and debates whether testimony of witnesses can substitute for a partial admission to trigger an oath. (3) The Gemara discusses the liability of a shepherd who denies receiving animals, debating whether he is liable for שבועת היסטר or exempt due to his status as a suspected thief. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) הוצאת קרקעות משבועה",
+      "gist": "The Gemara discusses the exclusion of קרקעות from oaths, analyzing whether a partial admission regarding movable property triggers an oath for land, and the necessity of a verse to exclude land.",
+      "openingFormula": "מיתיב מר זוטרא בריה דרב נחמן",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 13,
+      "topic": "שבועת ארבעה שומרים והעדאת עדים",
+      "gist": "The Gemara examines the requirement of partial admission for the four guardians and debates whether testimony of witnesses can substitute for a partial admission to trigger an oath.",
+      "openingFormula": "תא שמע, דתני רמי בר חמא",
+      "firstStepNumber": 4,
+      "lastStepNumber": 12
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 14,
+      "endLine": 18,
+      "topic": "שבועת היסטר ופסולת רועה",
+      "gist": "The Gemara discusses the liability of a shepherd who denies receiving animals, debating whether he is liable for שבועת היסטר or exempt due to his status as a suspected thief. — discussion continues into next amud.",
+      "openingFormula": "ההוא רעיא דהוו מסרי ליה כל יומא חיוותא בסהדי",
+      "firstStepNumber": 13,
+      "lastStepNumber": 17
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Why is a verse needed to exclude land if all land cases are הילך?",
+      "stepSummary": "The Gemara challenges Rav Sheshet's opinion that הילך is exempt, asking why a verse is needed to exclude land from oaths if all cases of land are effectively הילך.",
+      "whatsHappening": "The גמרא raises a new challenge (קשיא) against Rav Sheshet's opinion, questioning the necessity of a scriptural exclusion for land. It argues: If Rav Sheshet holds that הילך is פטור, and all cases of land are הילך, then why do we need a verse to exclude land from oaths?",
+      "deeperAnalysis": "The גמרא argues: If Rav Sheshet holds that הילך is פטור, and all cases of land are הילך (since land stays in place), then why do we need a verse to exclude land from oaths? The verse seems redundant if the exemption is already derived from the הילך principle. This forces Rav Sheshet to explain the scope of the verse's exclusion.",
+      "keyTerms": [
+        {
+          "term": "וּלְמַאן דְּאָמַר",
+          "meaning": "and according to the one who says"
+        },
+        {
+          "term": "אַמַּאי",
+          "meaning": "why"
+        },
+        {
+          "term": "אִצְטְרִיךְ קְרָא",
+          "meaning": "is a verse needed"
+        },
+        {
+          "term": "לְמַעוֹטֵי",
+          "meaning": "to exclude"
+        },
+        {
+          "term": "הָא כָּל",
+          "meaning": "but all"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר הֵילָךְ פָּטוּר,",
+          "english": "And according to the one who says: 'Here you are' is exempt,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַמַּאי אִיצְטְרִיךְ קְרָא לְמַעוֹטֵי קַרְקַע מִשְּׁבוּעָה?",
+          "english": "Why is a verse needed to exclude land from an oath?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא כׇּל קַרְקַע הֵילָךְ הוּא.",
+          "english": "But all land is 'Here you are'.",
+          "notes": "Land is considered always present in its location, so the defendant's admission is equivalent to saying 'Here you are'."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּאָמַר הֵילָךְ פּוֹטוֹר,",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_opinion",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:1:1",
+            "hebrew": "למאי איצטריך קרא למעוטי קרקע משבועה - דילפינן לה מכלל ופרט בשבועות (דף מב:) ולקמן בפרק הזהב (בבא מציעא דף נז:):",
+            "english": "",
+            "takeaway": "רש״י explains that the verse is needed to exclude land from the oath because the exemption is derived from a כלל ופרט in שבועות and later in פרק הזהב.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "למאי איצטריך קרא למעוטי קרקע משבועה -",
+                "english": "For what is the verse necessary, to exclude land from an oath?"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "דילפינן לה מכלל ופרט בשבועות (דף מב:",
+                "english": "That we derive it from a general and specific statement in Shevuot (page 62b)"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": ") ולקמן בפרק הזהב (בבא מציעא דף נז:",
+                "english": ") and below in the chapter HaZehav (Bava Metzia page 57b)"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "):",
+                "english": "):"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:1:1",
+            "hebrew": "למ\"ד הילך פטור קרא אמאי איצטריך כו' - תימה גם למ\"ד הילך חייב אמאי איצטריך קרא למעוטי הא בקרקע לא שייך משתמיט וכן [פר\"י] לקמן דכי כופר במקצת קרקע פטור הוא דנאמן הוא מטעם דאין אדם מעיז כיון דלא שייך הכא אשתמוטי קא משתמיט ושמא גם בקרקע שייך קצת אשתמוטי קא משתמיט כי שמא משכנה וסבר עד דהוה לי זוזי ופרענא ליה:",
+            "english": "But according to [Rav Sheshet], the one who says that [where the debtor says]: Here you are, [he is] exempt; why was [it] necessary [for the] verse [to exclude]. The Gemara earlier on 4a assumed that whenever a defendant admits that he owes the plaintiff land, it is by definition a case of ‘הילך - Here, it is yours!’, since the land is available to be returned to the plaintiff. Based on this assumption, the Gemara now asks: If when a defendant says ‘הילך - Here, it is yours!’ he is exempt from swearing, why must the Torah teach us that land cannot generate an oath obligation, when a defendant admits owing land, he would be exempt from swearing because it is a case of ‘הילך - Here, it is yours!’? It seems from the Gemara’s question that we have this difficulty understanding the need for an exclusion of land from an oath obligation only if we hold that when the defendant says, ‘Here, it is yours!, he is exempt. However, if we hold that in cases of ‘Here, it is yours!’, the defendant is obligated to swear, there is no difficulty. Tosfos will demonstrate that even if we hold that one is liable in cases of ‘Here, it is yours!, there would still be a difficulty with the need for an exclusion for land from an oath obligation. Earlier on 3b we learned in Tosfos ד'ה בכוליה בעי דלודי ליה, that the reason one who admits partially to the plaintiff’s claim is obligated to swear and we do not exempt him from the oath because he would not have the audacity to deny his debt in the face of his creditor, is because we do not view his partial denial as audacity, rather, he is merely evading his creditor and stalling for time. We may summarize this as follows: A) A counterclaim is not a demonstration of audacity if it can be explained as a means of ‘evading the creditor’. It also follows that the reverse is also true: B) If a counterclaim cannot be dismissed as a means of ‘evading the creditor’, it is viewed as a demonstration of audacity and we rule that a person does not have the audacity to deny a creditor’s claim in his face. He must therefore be believed that he is telling the truth. Tosfos earlier on 3b: Therefore, it can be said that the words “and he wants to admit to the entire claim” are in response to this underlying question: Since we have just said that one does not have the audacity to lie in the face of his opponent who knows the truth, then when he says he only owes fifty zuz, we should assume that it is true that he does not owe him more. Why must he swear to defend his claim? He should be believed with a migo that he could have denied the entire claim of the plaintiff? Tosfos is assuming at this point that even a partial denial is essentially audacious. We should therefore rule that since he does have the audacity to deny part of the claim, we should believe him because he has a migo that he could have denied the entire claim. We cannot say that he does not have the audacity to do so, because he is presently exhibiting audacity in his denial of half the claim. [The Gemara] answers: That this partial denial is not a demonstration of his inherent ability to make an audacious counter-claim, because the partial admission is his way of ‘evading the creditor’ till he will have sufficient funds to pay. It is not at all a demonstration of audacity. When a defendant denies that he owes the plaintiff land, the idea that he might be ‘evading the creditor’ to stall for time is inapplicable, because the land is always here and available. We should therefore rule that when one denied a claim against himself, we believe him because he would not have the audacity to deny his debt in the face of his creditor. This is bewildering! For even according to the one who says: In a case of ‘Here, it is yours!’ the defendant is obligated to swear, why is a verse needed to exclude land from generating an oath obligation, for when dealing with land the possibility of ‘evading the creditor’ is inapplicable? The portion of the land that he is denying is always here and available and can be returned immediately. The Gemara on 6a is discussing שבועת היסת - the ‘oath of incitement’ instituted by Rav Nachman. The Gemara is attempting to prove that even when ‘evading the creditor’ is inapplicable, there is an obligation to swear. Tosfos asks: But even in the case of one who denies the claim entirely, there is a possibility that he is attempting to evade the creditor? Tosfos concludes that Rav Nachman requires an oath even when ‘evading the creditor’ is totally inapplicable. For example: When the plaintiff claims that the item the defendant has in his hands is mine and the defendant denies it, Rav Nachman also requires an oath by the defendant. Certainly, there is no possibility of ‘evading the creditor’ when the disputed item is available in our presence. Tosfos there ד'ה אלא הא argues that Rav Hai Gaon also holds that Rav Nachman’s oath is required even when ‘evading the creditor’ is not a factor. His example is that one is required to swear even when the issue is about land. We see that in regard to land ‘evading the creditor’ is inapplicable because the land is always here. So too, Rav Hai Gaon explains that we do swear שבועת היסת - the ‘oath of incitement’ when the claim is about land, even though ‘evading the creditor’ is inapplicable. So does [the Gemara]1See מהרש\"א who offers the following amendment of the text, which is what we followed in our explanation of Tosfos: וכן פריך לקמן וכי כופר. ask later according to Rav Hai as explained by Tosfos (See 6a תוס' ד'ה אלא): That the Gemara on 6a is referring to a ruling that one must swear according to Rav Nachman even when the dispute is about land. We therefore see from Rav Nachman that even when there is no possibility of ‘evading the creditor’ an oath of incitement is required by Rabbinic law. Based on this conclusion Tosfos now continues his question: When [a defendant] denies owing some of the land that the plaintiff is claiming, he should be exempt from paying and swearing, for we should believe him, since one does not have the audacity to lie in the face of his creditor. As explained, evading the creditor cannot be used as an explanation for his ability to lie in this instance, since the land he denies is always here. Perhaps, even in regard to land ‘evading the creditor’ is somewhat applicable, for perhaps [the defendant] pledged [the land] to a third party as security for a debt and he cannot presently return it to its true owner. He thinks that he will deny the plaintiff’s claim until he will accumulate cash and will pay the debt to the third party and then return the land to the plaintiff.",
+            "takeaway": "תוספות challenges the Gemara's assumption that the verse is only needed if הילך is פטור, arguing that even if הילך is חייב, the verse is still necessary because land cases might involve a form of evasion (אשתמוטי) where the debtor claims he will pay later.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "למ\"ד הילך פטור קרא אמאי איצטריך כו' -",
+                "english": "According to the one who says: 'Here you are' is exempt, why was the verse necessary?"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "תימה גם למ\"ד הילך חייב אמאי",
+                "english": "A difficulty: Even according to the one who says: 'Here you are' is liable, why"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "איצטריך קרא למעוטי הא בקרקע לא",
+                "english": "was the verse necessary to exclude this? Regarding land, no."
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "שייך משתמיט וכן [פר\"י] לקמן דכי",
+                "english": "It applies to evading, and so [Rabbi Yitzchak] below, when"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "כופר במקצת קרקע פטור הוא דנאמן",
+                "english": "one denies part of the land, he is exempt, for he is believed."
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "הוא מטעם דאין אדם מעיז כיון",
+                "english": "He is, because a person does not have the audacity, since"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "דלא שייך הכא אשתמוטי קא משתמיט",
+                "english": "since evading does not apply here, he is evading."
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "ושמא גם בקרקע שייך קצת אשתמוטי",
+                "english": "And perhaps even regarding land, evading applies somewhat."
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "קא משתמיט כי שמא משכנה וסבר",
+                "english": "He is evading, perhaps he mortgaged it and thinks"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": "עד דהוה לי זוזי ופרענא ליה:",
+                "english": "until I have money and I will pay him."
+              }
+            ]
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:1:2",
+            "hebrew": "אמאי איצטריך קרא למעוטי - תימה הא ליכא קרא מיותר למעוטי קרקעות אלא מכלל ופרט וכלל ממעטינן להו וכלל ופרט וכלל אצטריך למעוטי שטרות וי\"ל דקשיא ליה אמאי איצטריך תנא למילף קרקעות מכלל ופרט כיון דהילך פטור וא\"ת לימא דאיצטריך למעוטי משבועה דעד אחד מיהו י\"ל משום דמתני' דאין נשבעין על הקרקעות מיירי בשבועה דמודה במקצת:",
+            "english": "Why is it necessary to have a [special] verse to exclude land [from an oath obligation]? As explained in the introduction to the previous Tosfos, the Gemara holds that if the rule in cases of ‘הילך - Here, it is yours!’ is that one is exempt from swearing, cases involving land should always be exempt from an oath obligation, because one’s admission that he owes land is tantamount to ‘הילך - Here, it is yours!’ since the land is always here and available. If so, why is a special verse needed to exclude cases of ‘הילך - Here, it is yours!’ from an oath obligation? The assumption of this Gemara’s question is that there is in fact a superfluous verse to exclude land from an oath obligation. Tosfos re-examines this assumption! This is bewildering! But there is no superfluous verse to exclude land from an oath obligation? Rather, it is excluded from a generalization, specific and generalization. Perhaps the Gemara’s question is that this system is not needed? Tosfos explains that this is not so. The generalization, specific and generalization, is needed to exclude documents from an oath obligation. The same generalization etc. can be used to exclude land if needed, but it is certainly not superfluous? Tosfos is convinced of the strength of his challenge and must resort to a different explanation of the Gemara’s question. We can answer: That the Gemara’s question is not about a superfluous verse, rather, [the Gemara’s] question is why did the Tanna need to derive that land is exempt from an oath from the generalization and specific etc. system, since disputes involving land are inherently cases of ‘הילך - Here, it is yours!’, which are automatically exempt from an oath obligation. A short review of the Gemara on 3a about the exemption of ‘הילך - Here, it is yours!’: Rav Sheishes says: A defendant who says: ‘הילך - Here, it is yours!’ is exempt from an oath obligation. What is the reason? Since the defendant says: ‘הילך - Here, it is yours!’, the money that he admitted owing, are as if the lender is holding them. In regard to the other fifty, the borrower denies owing them entirely. Therefore, this is not a case of one who admits part of the claim against him. It is obvious that the rationale for exempting one from an oath in a situation of ‘הילך - Here, it is yours!’, is not one that is applicable to all oath obligations. Its logic is exclusively relevant to the oath of one who partially admits the claim against him. If you ask: Let us say that [the Tanna] who discusses an exemption for land needed to exclude land from the oath generated by a single witness? Why is the Gemara convinced that he spoke of this exclusion for the oath of one who partially admits the claim against him? However, we can answer: Because the Mishna’s discussion of not swearing about land is speaking about the oath of one who partially admits the claim against him. It is therefore reasonable to assume that the exclusion he discusses is for this oath. Thus proving that even in case of ‘הילך - Here, it is yours!’ one is obligated to take an oath.",
+            "takeaway": "תוספות questions why a verse is needed to exclude land when it is derived from a כלל ופרט, and answers that the Gemara's difficulty is why the Tanna needed to use כלל ופרט at all if land is inherently הילך, noting that the כלל ופרט is actually needed to exclude שטרות.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אמאי איצטריך קרא למעוטי -",
+                "english": "Why is a verse necessary to exclude?"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "תימה הא ליכא קרא מיותר למעוטי",
+                "english": "Strange, for there is no superfluous verse to exclude"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "קרקעות אלא מכלל ופרט וכלל ממעטינן",
+                "english": "land, rather from a generalization, specific, and generalization we exclude"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "להו וכלל ופרט וכלל אצטריך למעוטי",
+                "english": "them, and a generalization, specific, and generalization is necessary to exclude"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "שטרות וי\"ל דקשיא ליה אמאי איצטריך",
+                "english": "documents, and one can say that it is difficult for him: why is it necessary"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "תנא למילף קרקעות מכלל ופרט כיון",
+                "english": "the Tanna to derive land from a generalization and specific, since"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "דהילך פטור וא\"ת לימא דאיצטריך למעוטי",
+                "english": "it is here, it is yours, exempt, and you might say: let us say that…"
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "משבועה דעד אחד מיהו י\"ל משום",
+                "english": "from an oath of a single witness, however one can say: because"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "דמתני' דאין נשבעין על הקרקעות מיירי",
+                "english": "the Mishna that one does not swear about land speaks"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": "בשבועה דמודה במקצת:",
+                "english": "of an oath of one who admits in part:"
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות challenges the Gemara's premise that the verse is redundant if הילך is פטור, arguing that land cases still require exclusion due to potential evasion, and further questions the derivation method itself, noting that the כלל ופרט is primarily for שטרות."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The verse is needed for cases where the land is damaged",
+      "stepSummary": "The Gemara resolves the challenge by stating that the verse is necessary for cases where the defendant has damaged the land (e.g., dug pits), so it is no longer a simple הילך case.",
+      "whatsHappening": "The גמרא provides a תירוץ by identifying a specific case where the verse is necessary. It explains that the verse is needed for cases where the defendant has altered the land.",
+      "deeperAnalysis": "The גמרא explains that the verse is needed for cases where the defendant has altered the land (חפר בה בורות שיחין ומערות). In such cases, the defendant cannot simply say הילך, as the land is no longer in its original state. Thus, the verse is necessary to exclude land from oaths even when it is not a simple הילך case.",
+      "keyTerms": [
+        {
+          "term": "חָפַר בָּהּ",
+          "meaning": "dug in it"
+        },
+        {
+          "term": "בּוֹרוֹת שִׁיחִין וּמְעָרוֹת",
+          "meaning": "pits, ditches, and caves"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר לָךְ:",
+          "english": "He said to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִיצְטְרִיךְ קְרָא הֵיכָא דְּחָפַר בָּהּ בּוֹרוֹת שִׁיחִין וּמְעָרוֹת.",
+          "english": "The verse is necessary where he dug in it pits, ditches, and caves."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר לָךְ: אִצְטְרִיךְ קְרָא הֵיכָא דְּחָפַר בָּהּ בּוֹרוֹת שִׁיחִין וּמְעָרוֹת.",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:2:1",
+            "hebrew": "וחפר בה בורות שיחין ומערות - דלאו הילך הוא שהרי קלקלה:",
+            "english": "",
+            "takeaway": "רש״י explains that when the defendant has damaged the land by digging pits, ditches, or caves, the case is no longer a simple הילך scenario because the land has been altered.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "וחפר בה בורות שיחין ומערות -",
+                "english": "And he dug in it pits, cisterns, and caves"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "דלאו הילך הוא שהרי קלקלה:",
+                "english": "Because it is not yours, for he damaged it"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Alternative resolution: The verse is needed for mixed claims where land is denied",
+      "stepSummary": "The Gemara offers an alternative resolution: the verse is necessary for cases where the defendant admits to vessels but denies land, as this is not a הילך case.",
+      "whatsHappening": "The גמרא provides an alternative תירוץ by identifying another case where the verse is necessary. It suggests that the verse is also needed for cases where the defendant admits to vessels but denies land.",
+      "deeperAnalysis": "The גמרא suggests that the verse is also needed for cases where the defendant admits to vessels but denies land. In such cases, the defendant is not saying הילך regarding the land, as he denies it. Thus, the verse is necessary to exclude land from oaths even in mixed claims where the land is denied.",
+      "keyTerms": [
+        {
+          "term": "טְעָנוֹ",
+          "meaning": "claimed against him"
+        },
+        {
+          "term": "הוֹדָה בַּכֵּלִים",
+          "meaning": "admitted to the vessels"
+        },
+        {
+          "term": "כָּפַר בַּקַּרְקָעוֹת",
+          "meaning": "denied the land"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי נָמֵי, הֵיכָא דִּטְעָנוֹ כֵּלִים וְקַרְקָעוֹת,",
+          "english": "Even if, where he claimed vessels and lands,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהוֹדָה בַּכֵּלִים וְכָפַר בַּקַּרְקָעוֹת.",
+          "english": "and he admitted to the vessels and denied the lands."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי נָמֵי, הֵיכָא דִּטְעָנוֹ כֵּלִים וְקַרְקָעוֹת,",
+      "macroPhase": "source_derivation",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "exception_case",
+      "relationToPreviousStep": "offers_alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:3:1",
+            "hebrew": "אי נמי - להיכן דהודה בכלים דלאו הילך הוא ואשמועינן דאינו נשבע אכפירת (שעבוד) קרקעות:",
+            "english": "",
+            "takeaway": "רש״י explains that in a mixed claim of כליים and קרקעות where the defendant admits to the כליים, the admission is not considered הילך, and the verse teaches that the defendant is exempt from a שבועה regarding the denial of the קרקעות.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אי נמי -",
+                "english": "Or alternatively"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "להיכן דהודה בכלים דלאו הילך הוא",
+                "english": "To where the admission is in utensils that are not yours"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "ואשמועינן דאינו נשבע אכפירת (שעבוד) קרקעות:",
+                "english": "And it teaches us that he does not swear on denial of land obligations"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:3:1",
+            "hebrew": "א\"נ דטענו כלים וקרקעות - מהכא משמע דטענו חטין ושעורים והודה באחד מהן דחייב דדוקא כלים וקרקעות פטור הא חטין ושעורים חייב וכן סברי שמואל ורבי יוחנן לחד לישנא פרק שבועת הדיינין (שבועות דף מ.):",
+            "english": "Alternatively, [the Baraisa is speaking of when the plaintiff] claimed utensils and land. The defendant’s admission that he owes utensils is not a situation of ‘הילך - Here, it is yours!’. Even so, since the denial is about land, there is no oath obligation. There is an assumption that if a plaintiff claimed two types of movable objects such as wheat and barley and the defendant admitted owing barley, he would be liable for an oath. We do not look at each item as an independent claim. Rather, we view them as one aggregate claim and a denial or admission of one of the items is a partial admission or denial of the claim against him. From this [Gemara] it appears that when [the plaintiff] claims wheat and barley and [the defendant] admits owing one of them, he is obligated to take an oath. We consider both species as one claim and the admission of one as partial admission of that one claim. We can see from our Gemara that only when the combined claim was land and utensils, [the defendant] who admits owing utensils is exempt because his denial of land does not generate an oath obligation, but if the combined claim was wheat and barley and he admitted owing one of these species, [the defendant] would be obligated to take an oath. The Gemara in Shavuos 40a: Rav Nachman said in the name of Shmuel: if [the plaintiff] claimed wheat and barley and [the defendant] admitted owing one of them, he is obligated to take an oath. R’ Yitzchak said to [Rav Nachman]: … and so too did R’ Yochanan say. On 40b the Gemara says: R’ Chiya bar Abba said in the name of R’ Yochanan: If [the plaintiff] claimed wheat and barley and [the defendant] admitted owing one of them, he is exempt from swearing. Since these are two separate species, each one is viewed as an independent claim. This is not a case of partial admission of the claim by the defendant. We see that Shmuel definitely holds that we view the combined claim of wheat and barley as one. According to R’ Yitzchak, R’ Yochanan agrees with Shmuel. According to R’ Chiya bar Avin, R’ Yochanan disagrees with Shmuel. So too, do Shmuel and R’ Yochanan , according to one version, the opinion of R’ Yitzchak, hold in Perek Shavuos Hadayanim (Shavuos 40a).",
+            "takeaway": "תוספות derive from this Gemara that a mixed claim of wheat and barley where the defendant admits to one is subject to a שבועה, treating them as a single claim, which aligns with the opinion of שמואל and רבי יוחנן in שבועות 40a.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "א\"נ דטענו כלים וקרקעות -",
+                "english": "Alternatively, [the plaintiff] claimed utensils and land."
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "מהכא משמע דטענו חטין ושעורים והודה",
+                "english": "From here it is implied that [if he] claimed wheat and barley and admitted"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "באחד מהן דחייב דדוקא כלים וקרקעות",
+                "english": "to one of them, [he is] liable, specifically utensils and land"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "פטור הא חטין ושעורים חייב וכן",
+                "english": "[he is] exempt, but wheat and barley [he is] liable, and so"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "סברי שמואל ורבי יוחנן לחד לישנא",
+                "english": "Shmuel and Rabbi Yochanan hold, according to one version,"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "פרק שבועת הדיינין (שבועות דף מ. ):",
+                "english": "Chapter of the Oath of Judges (Shavuos page 40):"
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רַמִּי בַּר חָמָה's teaching on the four guardians",
+      "stepSummary": "Rami bar Chama teaches that all four types of guardians require partial denial and partial admission to be obligated in an oath.",
+      "whatsHappening": "The גמרא introduces a ברייתא from רַמִּי בַּר חָמָה establishing the requirement of כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת for all four guardians. This sets the baseline halachic principle that the obligation of an oath for guardians depends on a specific structure of admission and denial.",
+      "deeperAnalysis": "This sets the baseline halachic principle that the obligation of an oath for guardians depends on a specific structure of admission and denial. It applies to שׁוֹמֵר חִנָּם, הַשּׁוֹאֵל, נוֹשֵׂא שָׂכָר, and הַסּוֹכֵר. The ברייתא explicitly lists all four guardians, implying a unified rule for all of them.",
+      "keyTerms": [
+        {
+          "term": "כְּפִירָה בְּמִקְצָת",
+          "meaning": "Denial of part of the claim"
+        },
+        {
+          "term": "הוֹדָאָה בְּמִקְצָת",
+          "meaning": "Admission of part of the claim"
+        },
+        {
+          "term": "שׁוֹמֵר חִנָּם",
+          "meaning": "Unpaid bailee"
+        },
+        {
+          "term": "הַשּׁוֹאֵל",
+          "meaning": "Borrower"
+        },
+        {
+          "term": "נוֹשֵׂא שָׂכָר",
+          "meaning": "Paid bailee"
+        },
+        {
+          "term": "הַסּוֹכֵר",
+          "meaning": "Renter"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע, דְּתָנֵי רָמֵי בַּר חָמָא:",
+          "english": "Come and hear, as Rami bar Hama teaches:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַרְבָּעָה שׁוֹמְרִין צְרִיכִין כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת.",
+          "english": "Four bailees require partial denial and partial admission."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שׁוֹמֵר חִנָּם, וְהַשּׁוֹאֵל, נוֹשֵׂא שָׂכָר, וְהַשּׂוֹכֵר.",
+          "english": "An unpaid bailee, and a borrower, a paid bailee, and a renter."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע, דְּתָנֵי רָמֵי בַּר חָמָא: אַרְבָּעָה שׁוֹמְרִין צְרִיכִין כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת. שׁוֹמֵר חִנָּם, וְהַשּׁוֹאֵל, נוֹשֵׂא שָׂכָר, וְהַשּׂוֹכֵר.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:4:1",
+            "hebrew": "ד' שומרין - שבועה האמורה בהן בשומר חנם שנגנבה הימנו ושומר שכר שנאנסה ובשואל שמתה מחמת מלאכה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the oath mentioned for the four guardians refers to the specific biblical oaths for each: the oath of שׁוֹמֵר חִנָּם when an item is stolen, the oath of נוֹשֵׂא שָׂכָר when an item is lost, and the oath of הַשּׁוֹאֵל when an animal dies from work.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "ד' שומרין -",
+                "english": "Four types of guardians"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "שבועה האמורה בהן בשומר חנם שנגנבה",
+                "english": "The oath mentioned in them, in a gratuitous guardian whose [item] was stolen"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "הימנו ושומר שכר שנאנסה ובשואל שמתה מחמת מלאכה:",
+                "english": "From him, and a paid guardian whose [item] was damaged, and a borrower whose [item] died from work:"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:4:2",
+            "hebrew": "צריכין כפירה במקצת והודאה במקצת - כפירה לא הויא אלא בכופר ממש או לא היו דברים מעולם או החזרתי לך הודאה לא הויא אא\"כ הודה ממש שיש לו בידו שחייב להחזיר לו נמצא שאין חיוב שבועת השומרים באה אלא אם כן טען שלש פרות באחת כפר לו ובאחת הודה לו שישנה בידו והשלישית אומר לו נאנסה או אם שומר חנם הוא אומר לו בשלישית נגנבה דחייב עליה שבועה האמורה בפרשה (שמות כ״ב:ז׳) שלא שלח ידו במלאכת רעהו דאילו שבועה דכפירה אין זו שבועה האמורה בשומרים ובלאו כפירה נמי לא תחייביה שבועת שומרים דכתיב בשומר חנם כי הוא זה דמינה נפקא לן (שבועות לט:) שמודה במקצת וכפר במקצת ולאפוקי ממ\"ד בבבא קמא בהגוזל [קמא] (דף קז.) עירוב פרשיות כתוב כאן וכי כתיב כי הוא זה לאו אשומר חנם דכתיב גביה קאי אלא אאם כסף תלוה ואשמועינן האי תנא דבשומרים נמי בעינן כפירה והודאה והשבועה האמורה בפרשה על פרה שלישית:",
+            "english": "",
+            "takeaway": "רש״י explains that כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת requires a literal denial (כופר ממש) and a literal admission (הודה ממש) regarding possession, meaning the guardian must admit to holding some items while denying holding others, and the oath for guardians only applies when this specific structure of partial admission and denial is present, derived from the verse כי הוא זה which is interpreted as requiring מודה במקצת וכפר במקצת, contrary to the opinion in בבא קמא that derives this requirement from עירוב פרשיות.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "צריכין כפירה במקצת והודאה במקצת -",
+                "english": "Require denial in part and admission in part"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "כפירה לא הויא אלא בכופר ממש",
+                "english": "Denial is not unless in actual denial"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "או לא היו דברים מעולם או",
+                "english": "Or the matter never was, or"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "החזרתי לך הודאה לא הויא אא\"כ",
+                "english": "I returned to you, admission is not unless"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "הודה ממש שיש לו בידו שחייב",
+                "english": "He actually admitted that he has in his hand that he owes"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "להחזיר לו נמצא שאין חיוב שבועת",
+                "english": "To return to him, it turns out that there is no obligation of oath"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "השומרים באה אלא אם כן טען",
+                "english": "Of the guardians comes only if he claimed"
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "שלש פרות באחת כפר לו ובאחת",
+                "english": "Three cows, in one he denied to him and in one"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "הודה לו שישנה בידו והשלישית אומר",
+                "english": "He admitted to him that it is in his hand and the third he says"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": "לו נאנסה או אם שומר חנם",
+                "english": "To him it was lost, or if a gratuitous guardian"
+              },
+              {
+                "phraseNumber": 11,
+                "aramaic": "הוא אומר לו בשלישית נגנבה דחייב",
+                "english": "He says to him in the third it was stolen, he is liable"
+              },
+              {
+                "phraseNumber": 12,
+                "aramaic": "עליה שבועה האמורה בפרשה (שמות כ״ב:",
+                "english": "For it the oath mentioned in the passage (Exodus 22:"
+              },
+              {
+                "phraseNumber": 13,
+                "aramaic": "ז׳) שלא שלח ידו במלאכת רעהו",
+                "english": "7) that he did not extend his hand to his fellow's property"
+              },
+              {
+                "phraseNumber": 14,
+                "aramaic": "דאילו שבועה דכפירה אין זו שבועה",
+                "english": "For if the oath of denial, this is not the oath"
+              },
+              {
+                "phraseNumber": 15,
+                "aramaic": "האמורה בשומרים ובלאו כפירה נמי לא",
+                "english": "Mentioned in guardians and without denial also not"
+              },
+              {
+                "phraseNumber": 16,
+                "aramaic": "תחייביה שבועת שומרים דכתיב בשומר חנם",
+                "english": "Will obligate him the oath of guardians, for it is written in gratuitous guardian"
+              },
+              {
+                "phraseNumber": 17,
+                "aramaic": "כי הוא זה דמינה נפקא לן (שבועות לט:",
+                "english": "For he is this, from which we derive (Shevuot 39:"
+              },
+              {
+                "phraseNumber": 18,
+                "aramaic": ") שמודה במקצת וכפר במקצת ולאפוקי",
+                "english": ") that he admits in part and denies in part, and to exclude"
+              },
+              {
+                "phraseNumber": 19,
+                "aramaic": "ממ\"ד בבבא קמא בהגוזל [קמא] (דף קז.",
+                "english": "From the one who says in Bava Kamma in the thief [first] (page 107."
+              },
+              {
+                "phraseNumber": 20,
+                "aramaic": ") עירוב פרשיות כתוב כאן וכי",
+                "english": ") Combination of passages, it is written here and if"
+              },
+              {
+                "phraseNumber": 21,
+                "aramaic": "כתיב כי הוא זה לאו אשומר",
+                "english": "It is written 'for he is this', it does not stand on gratuitous"
+              },
+              {
+                "phraseNumber": 22,
+                "aramaic": "חנם דכתיב גביה קאי אלא אאם",
+                "english": "Guardian that is written concerning him, but on 'if"
+              },
+              {
+                "phraseNumber": 23,
+                "aramaic": "כסף תלוה ואשמועינן האי תנא דבשומרים",
+                "english": "Silver you lend', and this Tanna teaches us that in guardians"
+              },
+              {
+                "phraseNumber": 24,
+                "aramaic": "נמי בעינן כפירה והודאה והשבועה האמורה",
+                "english": "Also we require denial and admission, and the oath mentioned"
+              },
+              {
+                "phraseNumber": 25,
+                "aramaic": "בפרשה על פרה שלישית:",
+                "english": "In the passage concerning the third cow:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:4:1",
+            "hebrew": "שומר חנם - פטור מכל חוץ מפשיעה ושואל חייב בכל חוץ ממתה מחמת מלאכה ונושא שכר והשוכר במקצת חייב ובמקצת פטור ולכך תנא להו כסדר זה ולא שנאם כסדר כתיבתם וא\"ת ואמאי לא מקשה מכמה משניות דזה אומר עד הזיז וזה אומר עד החלון ועשרה גפנים דשבועות (דף מב:) ומתניתין דהשואל (לקמן בבא מציעא דף צז: ושם) דזה אומר שאולה וזה אומר שכורה דמיירי בפקדון הא הילך הוא וי\"ל דניחא ליה לאקשויי מכל ד' שומרין:",
+            "english": "An unpaid custodian. The Gemara now introduces a Baraisa as proof that in a case of ‘הילך - Here, it is yours!’, one is obligated to swear. The Baraisa discusses the conditions of oath liability and a superficial reading of the Baraisa seems to indicate that even in cases of ‘הילך - Here, it is yours!’ one is obligated to swear. Tosfos first turns his attention to the structure of the Baraisa, which follows a different order than the way the custodians appear in the Torah. In Parshas Mishpatim (Shemos 22, 6) we have the passage dealing with a) an unpaid custodian. This is followed by the rules governing b) a paid custodian, c) a borrower and d) a renter. Our Baraisa follows a different order when listing the four custodians: 1) an unpaid custodian, 2) a borrower, 3) a paid custodian and 4) a renter. Tosfos explains why: An unpaid custodian is exempt from all liability. This includes unavoidable accidents, theft and loss, except for negligence. A borrower is liable for everything, except when an animal dies as a result of its regular work. This applies to any object that breaks as a result of normal usage. A paid custodian and a renter are liable for some losses such as negligence, loss or theft and exempt for some losses such as unavoidable accidents. The rules governing an unpaid custodian and a renter are the same. That is why [the Tanna] taught them in this order, and did not teach them in the order in which they are written in the Torah, where the borrower appears between the unpaid custodian and the renter. The Gemara’s initial assumption when asking its question is that in the case of the four custodians when an item is deposited in their possession, the partial admission will always be one of ‘הילך - Here, it is yours!’, because unlike one who borrows money, the item was never meant to leave their domain. When they admit that they owe the item it is always immediately available. If so, there are many other Mishnayos where we see that there is liability for the custodians and presumably those too are speaking of when the items are intact and immediately available. If you ask: Why doesn’t [the Gemara] ask from many Mishnayos, where it is also evident that in cases of ‘הילך - Here, it is yours!’ that one is liable? For example: The Mishna about [the plaintiff] who says that the produce he entrusted with the custodian filled the storage room till the projecting ceiling beam and [the defendant] responds: the produce reached only till the window. In the very same Mishna: The plaintiff says I gave you ten vines to guard and the defendant claims there were only five vines. These cases are found in Shavuos (42b). Presumably, in both of these cases the defendant is ready to give the plaintiff the portion that he admits owing, which is of course a case of הילך. So too, in the Mishna in HaShoel (Below 97b) where the Mishna is discussing a case where both agree that two cows were deposited with the custodian. One was borrowed and the other rented. One of the two cows died as a result of an unavoidable accident. [The plaintiff] says: The borrowed one died and you are liable for unavoidable accidents. [The defendant] says: The rented one died and I am exempt for unavoidable accidents. In all these cases the Mishnayos are speaking of deposited items, which are cases of ‘הילך - Here, it is yours!’. These too could be presented as proof that even in cases of ‘הילך - Here, it is yours!’, one is liable. We can answer: [The Gemara] is more comfortable with asking a question from a Baraisa that speaks about all of the custodians, as opposed to the quoted Mishnayos that all speak of only one of the custodians.",
+            "takeaway": "תוספות explains that the baraita lists the guardians in the order of שׁוֹמֵר חִנָּם, הַשּׁוֹאֵל, נוֹשֵׂא שָׂכָר, and הַסּוֹכֵר to group those with similar liability levels (exempt from most, liable for most, and partially liable) rather than following the biblical order, and addresses why the Gemara doesn't derive the requirement of כְּפִירָה בְּמִקְצָת וְהוֹדָאָה בְּמִקְצָת from other mishnayot involving disputes over boundaries or vineyards, suggesting the Gemara prefers to derive it from the four guardians.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "שומר חנם -",
+                "english": "An unpaid custodian"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "פטור מכל חוץ מפשיעה ושואל חייב",
+                "english": "is exempt from all except negligence, and a borrower is liable"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "בכל חוץ ממתה מחמת מלאכה ונושא",
+                "english": "for all except death due to labor, and a paid custodian"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "שכר והשוכר במקצת חייב ובמקצת פטור",
+                "english": "and the renter, in part liable and in part exempt"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "ולכך תנא להו כסדר זה ולא",
+                "english": "And therefore the Tanna taught them in this order and not"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "שנאם כסדר כתיבתם וא\"ת ואמאי לא",
+                "english": "as they are written in order, and you might say: and why does he not"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "מקשה מכמה משניות דזה אומר עד",
+                "english": "ask from many Mishnayos where this says until"
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "הזיז וזה אומר עד החלון ועשרה",
+                "english": "the beam and this says until the window, and ten"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "גפנים דשבועות (דף מב:",
+                "english": "vines of Shevuot (page 42b"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": ") ומתניתין דהשואל (לקמן בבא מציעא דף צז:",
+                "english": ") and the Mishnah of HaShoel (below Bava Metzia page 97b"
+              },
+              {
+                "phraseNumber": 11,
+                "aramaic": "ושם) דזה אומר שאולה וזה אומר",
+                "english": "and there) where this says borrowed and this says"
+              },
+              {
+                "phraseNumber": 12,
+                "aramaic": "שכורה דמיירי בפקדון הא הילך הוא",
+                "english": "rented, which deals with a deposit, here it is yours, it is"
+              },
+              {
+                "phraseNumber": 13,
+                "aramaic": "וי\"ל דניחא ליה לאקשויי מכל ד' שומרין:",
+                "english": "And one can say that it is preferable for him to ask from all four custodians:"
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "שאלה",
+      "title": "What is the scenario of partial admission?",
+      "stepSummary": "The Gemara asks what specific scenario constitutes the required partial admission and denial.",
+      "whatsHappening": "The גמרא poses a clarifying question about the practical application of the ברייתא's rule. The question seeks to define the mechanics of הוֹדָאָה בְּמִקְצָת.",
+      "deeperAnalysis": "The question seeks to define the mechanics of הוֹדָאָה בְּמִקְצָת. It suggests a scenario where the bailee returns the item (הֵילָךְ) but denies liability for the rest. This question sets up the debate about whether returning the item itself constitutes the necessary admission.",
+      "keyTerms": [
+        {
+          "term": "הֵילָךְ",
+          "meaning": "Here it is (returning the item)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הֵיכִי דָּמֵי? לָאו דַּאֲמַר לֵיהּ: הֵילָךְ!",
+          "english": "How is it similar? Is it not that he said to him: Here you are!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הֵיכִי דָּמֵי? לָאו דַּאֲמַר לֵיהּ: הֵילָךְ!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        19
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:5:1",
+            "hebrew": "היכי דמי - פרה של הודאה:",
+            "english": "",
+            "takeaway": "רש״י explains that the scenario of partial admission involves a cow that was partially admitted to.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "היכי דמי - פרה של הודאה:",
+                "english": "How is it? A thanksgiving offering cow:"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:5:2",
+            "hebrew": "לאו - דקיימא קמן ואמר ליה קחנה בכל מקום שהיא דהיינו הילך:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase הֵילָךְ means the bailee is standing before the owner with the item and tells him to take it wherever it is.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "לאו - דקיימא קמן ואמר ליה קחנה בכל",
+                "english": "Not - that it stands before us and he said to him take it in all"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "מקום שהיא דהיינו הילך:",
+                "english": "place that it is, that is here:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "The scenario of three cows",
+      "stepSummary": "The Gemara answers that the scenario involves a claim of three cows dying due to negligence, with the bailee admitting to one, denying one, and claiming exemption for one.",
+      "whatsHappening": "The גמרא provides a detailed scenario that fits the requirement of partial admission and denial without involving the return of the item. The scenario involves a claim of three cows dying due to פְּשִׁיעָה.",
+      "deeperAnalysis": "The scenario involves a claim of three cows dying due to פְּשִׁיעָה. The bailee denies one (לָא הָיוּ דְבָרִים מֵעוֹלָם), admits one died due to פְּשִׁיעָה (and is liable), and claims one died due to אוֹנֶס (and is exempt). This creates a partial admission and denial without returning the item (לָאו ״הֵילָךְ״ הוּא).",
+      "keyTerms": [
+        {
+          "term": "פְּשִׁיעָה",
+          "meaning": "Negligence"
+        },
+        {
+          "term": "אוֹנֶס",
+          "meaning": "Unavoidable accident"
+        },
+        {
+          "term": "לָא הָיוּ דְבָרִים מֵעוֹלָם",
+          "meaning": "This never happened (denial)"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לָא, דַּאֲמַר לֵיהּ:",
+          "english": "No, that he said to him:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "שָׁלֹשׁ פָּרוֹת מָסַרְתִּי לָךְ וּמֵתוּ כּוּלְּהוּ בִּפְשִׁיעָה.",
+          "english": "Three cows I gave you and they all died through negligence."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמַר לֵיהּ אִיהוּ: חֲדָא –",
+          "english": "And he said to him: One –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לָא הָיוּ דְבָרִים מֵעוֹלָם,",
+          "english": "There were never such things,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וַחֲדָא – מֵתָה בְּאוֹנֶס, וַחֲדָא –",
+          "english": "and one – died through accident, and one –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מֵתָה בִּפְשִׁיעָה דִּבְעֵינָא שַׁלּוֹמֵי לָךְ.",
+          "english": "died through negligence that I need to pay you."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּלָאו ״הֵילָךְ״ הוּא.",
+          "english": "That it is not 'Here you are'."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, דַּאֲמַר לֵיהּ: שָׁלֹשׁ פָּרוֹת מָסַרְתִּי לָךְ וּמֵתוּ כּוּלְּהוּ בִּפְשִׁיעָה. וְאָמַר לֵיהּ אִיהוּ: חֲדָא – לָא הָיוּ דְבָרִים מֵעוֹלָם, וַחֲדָא – מֵתָה בְּאוֹנֶס, וַחֲדָא – מֵתָה בִּפְשִׁיעָה דִּבְעֵינָא שַׁלּוֹמֵי לָךְ. דְּלָאו ״הֵילָךְ״ הוּא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:6:1",
+            "hebrew": "וחדא מתה לה בפשיעה - היא של הודאה ולאו הילך הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the cow the bailee admits died due to פְּשִׁיעָה constitutes the הֲדָיָה, while the entire scenario is not a case of ״הֵילָךְ״ (returning the item).",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "וחדא מתה לה בפשיעה -",
+                "english": "And one died to her through negligence"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "היא של הודאה ולאו הילך הוא:",
+                "english": "It is a case of admission, and this is not your case"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:6:2",
+            "hebrew": "אידך מתה לה באונס - ועליה הוא נשבע שבועת שומרין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the cow the bailee claims died due to אוֹנֶס is the one upon which he must take the שבועת שומרין.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אידך מתה לה באונס -",
+                "english": "The other one died to her by force"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "ועליה הוא נשבע שבועת שומרין:",
+                "english": "And upon her he swears the oath of guardians"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the father of רַבִּי אַפְטוֹרִיקִי",
+      "stepSummary": "The Gemara brings a baraita from the father of Rabbi Aptoriki that seems to contradict Rabbi Chiya's view that witnesses' testimony can trigger an oath.",
+      "whatsHappening": "The גמרא introduces a ברייתא that teaches that an oath is only triggered by the defendant's own admission, not by the testimony of witnesses. This challenges רַבִּי חִיָּה's view that witnesses' testimony can substitute for partial admission.",
+      "deeperAnalysis": "The ברייתא discusses a case where witnesses testify that the defendant has fifty dinars, but the defendant denies everything. The ברייתא concludes that the defendant is not obligated to take an oath based on the witnesses' testimony (וְאִי אַתָּה מְחַיְּיבוֹ עַל הַעֲדָאַת עֵדִים). This challenges רַבִּי חִיָּה's view that witnesses' testimony can substitute for partial admission.",
+      "keyTerms": [
+        {
+          "term": "הַעֲדָאַת עֵדִים",
+          "meaning": "Testimony of witnesses"
+        },
+        {
+          "term": "הוֹדָאַת פִּיו",
+          "meaning": "Admission by his mouth"
+        },
+        {
+          "term": "רַבִּי אַפְטוֹרִיקִי",
+          "meaning": "Rabbi Aptoriki"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּא שְׁמַע,",
+          "english": "Come and hear"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּתָנֵי אֲבוּהּ דְּרַבִּי אַפְטוֹרִיקִי לִדְרַבִּי חִיָּיא קַמַּיְיתָא:",
+          "english": "As his father taught to Rabbi Hiyya first:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מָנֶה לִי בְּיָדְךָ, וְהַלָּה אוֹמֵר:",
+          "english": "A maneh is in your hand, and the other says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵין לְךָ בְּיָדִי כְּלוּם,",
+          "english": "You have nothing in my hand"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְהָעֵדִים מְעִידִים אוֹתוֹ שֶׁיֵּשׁ בְּיָדוֹ חֲמִשִּׁים זוּז,",
+          "english": "And the witnesses testify that he has fifty zuz in his hand"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "יָכוֹל יִשָּׁבַע עַל הַשְּׁאָר – תַּלְמוּד לוֹמַר:",
+          "english": "One might say he should swear on the remainder — Scripture teaches:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "״עַל כׇּל אֲבֵידָה אֲשֶׁר יֹאמַר כִּי הוּא זֶה״.",
+          "english": "\"For any lost item about which one shall say: This is it.\""
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "עַל הוֹדָאַת פִּיו אַתָּה מְחַיְּיבוֹ,",
+          "english": "On the admission of his mouth you obligate him"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְאִי אַתָּה מְחַיְּיבוֹ עַל הַעֲדָאַת עֵדִים!",
+          "english": "And you do not obligate him on the testimony of witnesses!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּא שְׁמַע, דְּתָנֵי אֲבוּהּ דְּרַבִּי אַפְטוֹרִיקִי לִדְרַבִּי חִיָּיא קַמַּיְיתָא: מָנֶה לִי בְּיָדְךָ, וְהַלָּה אוֹמֵר: אֵין לְךָ בְּיָדִי כְּלוּם, וְהָעֵדִים מְעִידִים אוֹתוֹ שֶׁיֵּשׁ בְּיָדוֹ חֲמִשִּׁים זוּז, יָכוֹל יִשָּׁבַע עַל הַשְּׁאָר – תַּלְמוּד לוֹמַר: ״עַל כׇּל אֲבֵידָה אֲשֶׁר יֹאמַר כִּי הוּא זֶה״. עַל הוֹדָאַת פִּיו אַתָּה מְחַיְּיבוֹ, וְאִי אַתָּה מְחַיְּיבוֹ עַל הַעֲדָאַת עֵדִים!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        21
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:7:1",
+            "hebrew": "תא שמע דתני אבוה דרבי אפטוריקי - ת\"ש מינה תיובתא:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase תא שמע indicates a refutation (תיובתא) against the previous view.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "תא שמע דתני אבוה דרבי אפטוריקי -",
+                "english": "Come and hear, as the father of Rabbi Afturika taught:"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "ת\"ש מינה תיובתא:",
+                "english": "From it, a refutation is derived:"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:7:2",
+            "hebrew": "לרבי חייא קמייתא - כלומר ת\"ש לדר' חייא קמייתא דאמר לעיל שלא תהא הודאת פיו גדולה מהעדאת עדים כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that this baraita is brought specifically to refute רבי חייא's first opinion, which held that the testimony of witnesses should not be considered less significant than a partial admission.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "לרבי חייא קמייתא -",
+                "english": "For Rabbi Chiya, the first one"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "כלומר ת\"ש לדר' חייא קמייתא דאמר",
+                "english": "That is to say, learn from here for Rabbi Chiya's first one, who said"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "לעיל שלא תהא הודאת פיו גדולה",
+                "english": "Above, that the confession of his mouth should not be greater"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "מהעדאת עדים כו':",
+                "english": "Than the testimony of witnesses, etc.:"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:8:1",
+            "hebrew": "אשר יאמר וגו' - מודה לו במקצת מכלל דכופר במקצת וכתב בההוא לעיל מיניה ונקרב בעל הבית אל האלהים ודרשינן לקמן (בבא מציעא דף מא:) ונקרב לשבועה:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'על כל אבידה אשר יאמר' implies a case of partial admission (מודה במקצת) where the defendant denies the rest, and this is the basis for the obligation to take an oath, as derived from the phrase 'ונקרב בעל הבית אל האלהים'.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אשר יאמר וגו' -",
+                "english": "Which will say, etc."
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "מודה לו במקצת מכלל דכופר במקצת",
+                "english": "He admits to part, from which we infer he denies part"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "וכתב בההוא לעיל מיניה ונקרב בעל",
+                "english": "And it is written in that one above it, and the owner is brought"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "הבית אל האלהים ודרשינן לקמן (בבא",
+                "english": "The house to God, and we interpret below (Bava"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "מציעא דף מא:",
+                "english": "Metzia page 51:"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": ") ונקרב לשבועה:",
+                "english": ") And he is brought to an oath:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבִּי חִיָּה is a תַּנָּא and can disagree",
+      "stepSummary": "The Gemara resolves the challenge by noting that Rabbi Chiya is a Tanna and has the authority to disagree with a baraita.",
+      "whatsHappening": "The גמרא dismisses the challenge by pointing out that רַבִּי חִיָּה is a תַּנָּא and can disagree with a ברייתא. This resolves the apparent contradiction between the ברייתא and רַבִּי חִיָּה's view.",
+      "deeperAnalysis": "The גמרא notes that רַבִּי חִיָּה is a תַּנָּא (רַבִּי חִיָּה תַּנָּא הוּא) and therefore has the authority to disagree with a ברייתא (וּפָלֵיג). This resolves the apparent contradiction between the ברייתא and רַבִּי חִיָּה's view. A תַּנָּא can disagree with a ברייתא, so the ברייתא does not necessarily reflect רַבִּי חִיָּה's view.",
+      "keyTerms": [
+        {
+          "term": "תַּנָּא",
+          "meaning": "Tanna (Sage of the Mishnah)"
+        },
+        {
+          "term": "פָּלֵיג",
+          "meaning": "Disagrees"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִיתָא קָא רָמֵית עֲלֵיהּ דְּרַבִּי חִיָּיא?",
+          "english": "A Mishnah raises an objection against Rabbi Ḥiyya?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "! רַבִּי חִיָּיא תַּנָּא הוּא וּפָלֵיג.",
+          "english": "Rabbi Ḥiyya is a Tanna and disputes."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִיתָא קָא רָמֵית עֲלֵיהּ דְּרַבִּי חִיָּיא?! רַבִּי חִיָּיא תַּנָּא הוּא וּפָלֵיג.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        22
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:9:1",
+            "hebrew": "רבי חייא תנא הוא ופליג - אי גרס לעיל (בבא מציעא ג.) א\"ר חייא א\"ש ואפילו אי גרסינן תני ר' חייא י\"ל דהכי קאמר דאפילו לא הוה ברייתא תנא הוא ופליג:",
+            "english": "R’ Chiya is a Tanna and argues [with the Baraisa presented by the father of Rav Aftoriki]. There seems to be two versions of the text in the Gemara earlier on 3a, where R’ Chiya presents his opinion that the testimony of witnesses of partial liability generates an oath obligation. A) It is a personal statement of R’ Chiya. B) R’ Chiya is quoting a Baraisa. If the second text is correct, there is no need for our Gemara to defend R’ Chiya by saying that he is a Tanna and can argue with a Baraisa. He was also quoting a Baraisa that can certainly disagree with the Baraisa of R’ Aftoriki’s father. If our text earlier is “R’ Chiya said”, which implies that the ruling was R’ Chiya’s personal ruling and not of a Baraisa, our Gemara which defends R’ Chiya’s ruling by saying that R’ Chiya has the right to argue with the Baraisa comes out well. Initially, the Gemara did not know that R’ Chiya ranks as a Tanna and presented this Baraisa as a contradiction to R’ Chiya. The Gemara defends R’ Chiya by saying that he does rank as a Tanna and can disagree with the ruling of the Baraisa. But if R’ Chiya was quoting a Baraisa, there should be no need to say that R’ Chiya has the right to argue with a Baraisa? And even if our original text was “R’ Chiya taught a Baraisa” there should be no need to defend R’ Chiya by saying that he was a Tanna, since he was teaching a Baraisa? We can answer: That the Gemara means as follows: Even if this ruling of R’ Chiya would not be a Baraisa there would be no problem, because [R’ Chiya] is a Tanna and has the right to argue with any Baraisa.",
+            "takeaway": "תוספות addresses a textual variant in בבא מציעא ג. regarding whether רבי חייא's statement is personal or a ברייתא, explaining that the Gemara's defense (רבי חייא תנא הוא ופליג) applies even if it is a ברייתא, meaning he has the authority to disagree regardless.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "רבי חייא תנא הוא ופליג -",
+                "english": "Rabbi Chiya is a Tanna and argues"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "אי גרס לעיל (בבא מציעא ג.",
+                "english": "If we read above (Bava Metzia 3a)"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": ") א\"ר חייא א\"ש ואפילו אי",
+                "english": ") Rabbi Chiya said, in accordance with the Sages, and even if"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "גרסינן תני ר' חייא י\"ל דהכי",
+                "english": "we read: Rabbi Chiya taught, we can say that this is"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "קאמר דאפילו לא הוה ברייתא תנא הוא ופליג:",
+                "english": "what he says: Even if it were not a Baraita, he is a Tanna and argues."
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "But the verse is cited",
+      "stepSummary": "The Gemara challenges the resolution by noting that the baraita cites a verse, which should be binding.",
+      "whatsHappening": "The גמרא raises a new challenge: the ברייתא cites a verse, which should be binding even on a תַּנָּא. This challenges the previous resolution that רַבִּי חִיָּה can simply disagree with the ברייתא.",
+      "deeperAnalysis": "The גמרא asks: וְהָא קְרָא קָאָמַר! The ברייתא derives its ruling from a verse (Exodus 22:8), which should be binding even on a תַּנָּא. This challenges the previous resolution that רַבִּי חִיָּה can simply disagree with the ברייתא. The verse is used to support the ברייתא's ruling, not רַבִּי חִיָּה's view.",
+      "keyTerms": [
+        {
+          "term": "קְרָא",
+          "meaning": "Verse"
+        },
+        {
+          "term": "תַּלְמוּד לוֹמַר",
+          "meaning": "The Torah teaches to say"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא קְרָא קָאָמַר!",
+          "english": "But the verse says!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָהוּא לְמוֹדֶה מִקְצָת הַטַּעֲנָה.",
+          "english": "That is an admission to part of the claim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא קְרָא קָאָמַר! הָהוּא לְמוֹדֶה מִקְצָת הַטַּעֲנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:10:1",
+            "hebrew": "ההוא - מיבעי ליה להודאת מקצת דמחייבא עליה שבועה ואתיא העדאת עדים מינה בקל וחומר כדלעיל דליכא קרא יתירא דתדרוש מינה מיעוטא:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse is needed for the case of הודאת מקצת, which obligates a שבועה, and from which the requirement of witnesses is derived via a קל וחומר, since there is no extra verse to derive the minority opinion from.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "ההוא - מיבעי ליה להודאת מקצת דמחייבא עליה",
+                "english": "That one — it is necessary for him for a partial admission that obligates him"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "שבועה ואתיא העדאת עדים מינה בקל",
+                "english": "An oath, and the testimony of witnesses comes from it easily"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "וחומר כדלעיל דליכא קרא יתירא דתדרוש מינה מיעוטא:",
+                "english": "And a stringency like above, where there is no extra verse from which to derive a minority"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "תירוץ",
+      "title": "The father of רַבִּי אַפְטוֹרִיקִי's verse interpretation",
+      "stepSummary": "The Gemara explains that the father of Rabbi Aptoriki interprets the verse as teaching that witnesses' testimony does not trigger an oath.",
+      "whatsHappening": "The גמרא explains how the father of רַבִּי אַפְטוֹרִיקִי interprets the verse to support his view that witnesses' testimony does not trigger an oath. This is a setup for the next challenge.",
+      "deeperAnalysis": "He uses the double expression הוּא and זֶה to derive two rulings. One ruling covers partial admission, and the other covers witnesses' testimony, which he rules exempts the defendant from an oath.",
+      "keyTerms": [
+        {
+          "term": "הוּא",
+          "meaning": "He"
+        },
+        {
+          "term": "זֶה",
+          "meaning": "This"
+        },
+        {
+          "term": "הַעֲדָאַת עֵדִים",
+          "meaning": "Testimony of witnesses"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וַאֲבוּהּ דְּרַבִּי אַפְטוֹרִיקִי אָמַר לָךְ,",
+          "english": "And Rabbi Aptoriki's father says to you:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּתִיב ״הוּא״ וּכְתִיב ״זֶה״,",
+          "english": "It is written 'hu' and it is written 'zeh',"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חַד לְמוֹדֶה מִקְצָת הַטַּעֲנָה,",
+          "english": "One for admission of part of the claim,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְחַד לְהַעֲדָאַת עֵדִים דְּפָטוּר.",
+          "english": "And one for testimony of witnesses that exempts."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וַאֲבוּהּ דְּרַבִּי אַפְטוֹרִיקִי אָמַר לָךְ, כְּתִיב ״הוּא״ וּכְתִיב ״זֶה״, חַד לְמוֹדֶה מִקְצָת הַטַּעֲנָה, וְחַד לְהַעֲדָאַת עֵדִים דְּפָטוּר.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:11:1",
+            "hebrew": "וחד להעדאת עדים - למעוטה:",
+            "english": "",
+            "takeaway": "רש״י explains that the second term ״זֶה״ in the verse serves to exclude (למעוטה) the case of witnesses' testimony from the obligation of an oath.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "וחד להעדאת עדים - למעוטה:",
+                "english": "And one for the testimony of witnesses — to exclude:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "How רַבִּי חִיָּיא interprets the verse",
+      "stepSummary": "The Gemara asks how Rabbi Chiya interprets the double expression in the verse.",
+      "whatsHappening": "The גמרא asks how רַבִּי חִיָּיא interprets the same double expression in the verse. This is a transition to the opposing view.",
+      "deeperAnalysis": "רַבִּי חִיָּיא uses the double expression to teach about partial admission and about admitting to the same type of item as the claim. This shifts the focus from witnesses to the nature of the admission.",
+      "keyTerms": [
+        {
+          "term": "מוֹדֶה מִמִּין הַטַּעֲנָה",
+          "meaning": "One who admits to the same type of item as the claim"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִידָּךְ: חַד לְמוֹדֶה מִקְצָת הַטַּעֲנָה,",
+          "english": "And the other: one for admitting part of the claim,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְחַד לְמוֹדֶה מִמִּין הַטַּעֲנָה.",
+          "english": "and one for admitting from the type of the claim."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִידָּךְ: חַד לְמוֹדֶה מִקְצָת הַטַּעֲנָה, וְחַד לְמוֹדֶה מִמִּין הַטַּעֲנָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:12:1",
+            "hebrew": "וחד להודאה ממין הטענה - דבעינן שתהא הודאה ממין טענת כפירה שאם טענו סאה של חטים והודה לו בשעורים פטור:",
+            "english": "",
+            "takeaway": "רש״י explains that the second expression in the verse teaches that the admission must be of the same species as the claim, so if one claims a seah of wheat and the defendant admits to barley, he is exempt from the שבועה.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "וחד להודאה ממין הטענה -",
+                "english": "And one admission of the species of the claim"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "דבעינן שתהא הודאה ממין טענת כפירה",
+                "english": "For we require that the admission be of the species of the claim of denial"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "שאם טענו סאה של חטים והודה",
+                "english": "If they claimed a seah of wheat and he admitted"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "לו בשעורים פטור:",
+                "english": "to him in barley, he is exempt:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "The father of רַבִּי אַפְטוֹרִיקִי disagrees with רַבָּן גַּמְלִיאֵל",
+      "stepSummary": "The Gemara explains that the father of Rabbi Aptoriki disagrees with Rabbi Gamliel's view that one is obligated to take an oath if they admit to a different type of item.",
+      "whatsHappening": "The גמרא explains that the father of רַבִּי אַפְטוֹרִיקִי disagrees with רַבָּן גַּמְלִיאֵל's view on oaths for different types of items. This clarifies the underlying halachic principle.",
+      "deeperAnalysis": "He rejects the principle that an oath is only required for the same type of item. Instead, he holds like רַבָּן גַּמְלִיאֵל, who deems one liable to take an oath even for a different type of item.",
+      "keyTerms": [
+        {
+          "term": "רַבָּן גַּמְלִיאֵל",
+          "meaning": "Rabban Gamliel"
+        },
+        {
+          "term": "חִטִּין",
+          "meaning": "Wheat"
+        },
+        {
+          "term": "שְׂעוֹרִין",
+          "meaning": "Barley"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִידַּךְ מוֹדֶה מִמִּין הַטַּעֲנָה לֵית לֵיהּ,",
+          "english": "And the other one admits to a different species of the claim, he has nothing"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְסָבַר לֵיהּ כְּרַבָּן גַּמְלִיאֵל,",
+          "english": "And he holds like Rabban Gamliel"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּתְנַן: טְעָנוֹ חִטִּין,",
+          "english": "As we learned: He claimed wheat"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְהוֹדָה לוֹ בִּשְׂעוֹרִין, פָּטוּר.",
+          "english": "And he admitted to him in barley, he is exempt"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְרַבָּן גַּמְלִיאֵל מְחַיֵּיב.",
+          "english": "And Rabban Gamliel obligates"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִידַּךְ מוֹדֶה מִמִּין הַטַּעֲנָה לֵית לֵיהּ, וְסָבַר לֵיהּ כְּרַבָּן גַּמְלִיאֵל, דִּתְנַן: טְעָנוֹ חִטִּין, וְהוֹדָה לוֹ בִּשְׂעוֹרִין, פָּטוּר. וְרַבָּן גַּמְלִיאֵל מְחַיֵּיב.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        27
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:13:1",
+            "hebrew": "והודה בשעורים פטור - אף מן השעורים כדמוכח שלהי המניח (ב\"ק דף לה: ושם ד\"ה לימא):",
+            "english": "[If the plaintiff claimed wheat] and [the defendant] admitted [owing] barley, he is exempt. The Gemara can easily be understood as exempting the defendant from swearing. We might believe that he is liable to return the barley that he admits owing. Tosfos tells us that this is not so. When we say that if the plaintiff claimed the defendant owes him wheat and he admits that he owes barley, he is exempt -this means that he is exempt not only from the wheat but also from the barley that he admitted owing, because we construe the plaintiff’s claim of wheat as an admission that the defendant does not owe him any barley, as is evident from the end of HaManee’ach (Bava Kama 35b, and Tosfos ד'ה לימא there.)1The Gemara there clearly says that the defendant is exempt from barley as well. If [the plaintiff] claimed that the subject owes him wheat and [the defendant] admitted that he owes [the plaintiff] barley, he is exempt. What is Rabah bar Nassan teaching us? We have learned this in a Baraisa: If [the plaintiff] claimed wheat and [the defendant] admitted that he owes barley - [the defendant] is exempt. The Gemara explains: If our source was only the Baraisa I would say - what is meant by that Baraisa - that [the defendant] is exempt from the value of wheat and liable for the value of barley. Rabah bar Nassan teaches us that he is entirely exempt, even from the equivalent amount of wheat.",
+            "takeaway": "תוספות clarifies that when the Mishnah states the defendant is פטור for admitting to a different item (שעורים) than claimed (חטין), this exemption applies to both the claimed item and the admitted item, as the plaintiff's claim of wheat is construed as an admission that no barley is owed, based on the discussion in ב'ava קמא 35b.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "והודה בשעורים פטור -",
+                "english": "And he admitted regarding barley, he is exempt"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "אף מן השעורים כדמוכח שלהי המניח",
+                "english": "Also from the barley, as is proven at the end of HaManeech"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "(ב\"ק דף לה:",
+                "english": "(Bava Kama page 35b"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "ושם ד\"ה לימא):",
+                "english": "and there, the gloss 'Let us say'):"
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "The case of the רָעֲיָא who denied receiving animals",
+      "stepSummary": "The Gemara presents a case of a shepherd who denied receiving animals without witnesses, but witnesses testified he ate two, and Rabbi Zeira rules he must take an oath on the remainder according to Rabbi Ḥiyya's first opinion.",
+      "whatsHappening": "The גמרא introduces a complex case involving a shepherd, partial denial, and partial admission via witnesses. This sets up the central difficulty of the defendant's credibility.",
+      "deeperAnalysis": "The case pits the shepherd's denial against witnesses' testimony. רַבִּי זֵירָא applies the rule that partial admission triggers an oath, but this assumes the shepherd is trustworthy enough to swear.",
+      "keyTerms": [
+        {
+          "term": "רָעֲיָא",
+          "meaning": "shepherd"
+        },
+        {
+          "term": "חֵיוָתָא",
+          "meaning": "animals"
+        },
+        {
+          "term": "שְׁבוּעַת הֶיסֵּת",
+          "meaning": "oath of inducement"
+        },
+        {
+          "term": "רַבִּי חִיָּיא",
+          "meaning": "Rabbi Ḥiyya"
+        },
+        {
+          "term": "רַבִּי זֵירָא",
+          "meaning": "Rabbi Zeira"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא רָעֲיָא דְּהָווּ מָסְרִי לֵיהּ כׇּל",
+          "english": "That shepherd to whom they would give all"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יוֹמָא חֵיוָתָא בְּסָהֲדֵי.",
+          "english": "day animals with witnesses."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יוֹמָא חַד מְסַרוּ לֵיהּ בְּלָא סָהֲדֵי.",
+          "english": "One day they gave him without witnesses."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְסוֹף אָמַר לְהוּ: לֹא הָיוּ דְבָרִים מֵעוֹלָם.",
+          "english": "At the end he said to them: There were never things from ever.",
+          "notes": "He denied receiving the animals entirely."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲתוֹ סָהֲדֵי אַסְהִידוּ בֵּיהּ דַּאֲכַל תַּרְתֵּי מִינַּיְיהוּ.",
+          "english": "Came witnesses testified against him that he ate two of them."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲמַר רַבִּי זֵירָא:",
+          "english": "Said Rabbi Zeira:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִם אִיתָא לִדְרַבִּי חִיָּיא קַמַּיְיתָא, מִשְׁתְּבַע אַשְּׁאָרָא.",
+          "english": "If there is to Rabbi Ḥiyya's first, he is obligated on the remainder.",
+          "notes": "Refers to Rabbi Ḥiyya's first opinion regarding partial admission."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא רָעֲיָא דְּהָווּ מָסְרִי לֵיהּ כׇּל יוֹמָא חֵיוָתָא בְּסָהֲדֵי. יוֹמָא חַד מְסַרוּ לֵיהּ בְּלָא סָהֲדֵי. לְסוֹף אָמַר לְהוּ: לֹא הָיוּ דְבָרִים מֵעוֹלָם. אֲתוֹ סָהֲדֵי אַסְהִידוּ בֵּיהּ דַּאֲכַל תַּרְתֵּי מִינַּיְיהוּ. אֲמַר רַבִּי זֵירָא: אִם אִיתָא לִדְרַבִּי חִיָּיא קַמַּיְיתָא, מִשְׁתְּבַע אַשְּׁאָרָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:14:1",
+            "hebrew": "אם איתא לדר' חייא - אם הלכה כמותו:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase אם איתא לדרבי חייא means 'if the הלכה follows him'.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אם איתא לדר' חייא - אם הלכה כמותו:",
+                "english": "If there is a ruling according to Rabbi Chiyya — if the halakha is in accordance with him:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:14:1",
+            "hebrew": "מסרי ליה בסהדי - ומיירי דאמרי ליה אל תחזיר אלא בעדים דאל\"כ הא קי\"ל (כתובות יח.) המלוה את חבירו בעדים א\"צ לפרעו בעדים:",
+            "english": "They gave [the sheep] to [the shepherd in the presence of] witnesses. As is evident from the Gemara, their intention was to be able to verify that he had indeed received the sheep from them. Otherwise, the shepherd could deny ever receiving the sheep, as he eventually did. Tosfos points out that merely having witnesses is insufficient to avoid a legally valid denial. It is speaking of when they also told him “do not return the sheep without witnesses” to verify that you did indeed return them. For if they did not do so, we have established (Kesubos 18a): Concerning one who lends his neighbor in the presence of witnesses, the borrower does not need to pay him in the presence of witnesses in order to prove that he has already paid the debt. The borrower may claim that he has paid the debt and the burden of proof is on the lender, even though the lender lent the money in the presence of witnesses. It is only when the lender says at the time of the loan that it must be paid only in the presence of witnesses, that the borrower cannot later claim, I have already paid.",
+            "takeaway": "תוספות clarifies that the witnesses were present because the owners explicitly instructed the shepherd not to return the animals without witnesses, otherwise the shepherd could validly claim he already returned them based on the rule in כתובות that repayment does not require witnesses.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "מסרי ליה בסהדי -",
+                "english": "They handed it over to him with witnesses"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "ומיירי דאמרי ליה אל תחזיר אלא",
+                "english": "And it is speaking of when they say to him: do not return except"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "בעדים דאל\"כ הא קי\"ל (כתובות יח.",
+                "english": "with witnesses, for otherwise we rule"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": ") המלוה את חבירו בעדים א\"צ לפרעו בעדים:",
+                "english": "One who lends his fellow with witnesses does not need to be repaid with witnesses"
+              }
+            ]
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:14:2",
+            "hebrew": "אי איתא לדרבי חייא - נראה דהלכה כרבי חייא דהא לעיל מוקי לה כרבנן דר\"ג דהלכה כוותייהו כדפריך שלהי המניח (ב\"ק שם) מאי קמ\"ל תנינא וכן בפ' השואל (לקמן בבא מציעא ק. ושם) פריך אמאי טענו חטין והודה לו בשעורים הוא וכן סברי רב ושמואל בפ' שבועת הדיינין (שבועות דף מ. ושם) אע\"ג דקאמר הכא אם איתא הכי נמי אשכחנא פ' (אע\"פ) (כתובות דף נט) דקאמר אם איתא לדרב הונא דאמר יכולה אשה שתאמר לבעלה איני ניזונת וכו' ובפרק שני דייני גזירות (כתובות דף קז:) פסיק כרב הונא תימה אפי' אי איתא לדרבי חייא לא משתבע הכא דאסהידו עליה דאכל תרי מינייהו דמה להצד השוה שבהן שכן לא הוחזק כפרן תאמר הכא דהוחזק כפרן כדפריך לעיל (בבא מציעא ד.) והכא לא שייך משתמיט ושמא י\"ל אחרי שלמד שיש שבועה בהעדאת עדים במלוה מעתה אין לחלק בין מלוה לפקדון:",
+            "english": "If R’ Chiya’s [first law] is [accepted as halacha]. The Gemara’s use of the word “if” seems to suggest that R’ Chiya’s first law may not necessarily be accepted as halacha. Tosfos will prove that it is indeed accepted as halacha and demonstrates that the word “if” is also used elsewhere where the ruling is halacha. Earlier the Gemara introduced a Baraisa that contradicts R’ Chiya’s first ruling. The Gemara countered: R’ Chiya has the rank of a Tanna and can disagree with the author of that Baraisa. The Gemara asks: But that Tanna of the contradictory Baraisa quoted a verse? The words אשר יאמר כי הוא זה which are the source for the oath of partial admission teach us that it is in effect only for one’s own admission but not when partial guilt is established by witnesses. R’ Chiya will answer: That verse comes to teach us that we are dealing with a partial admission. The defendant is saying that my liability is only this amount and not your entire claim. The father of R’ Aftoriki will answer you: There are two exclusions in the verse. The word “this” is written and the word “it” is written in the verse. Both are exclusions, one comes to teach us that the defendant must swear only for partial admission and one comes to teach that when partial liability is known by the testimony of witnesses, the defendant is exempt from swearing. The other disputant (R’ Chiya) will tell you: one exclusion teaches us that liability is only for partial admission and one exclusion teaches us that the admission must be about the same species as the claim. The Gemara will soon give us an example of this case. The other disputant (R’ Aftoriki’s father) will answer: He does not hold that the admission must be of the same species as the claim. He holds like Raban Gamliel, as we learned in a Mishna: If [the plaintiff] claimed that [the defendant] owes him wheat and [the defendant] admits that he owes barley, he is exempt. Raban Gamliel holds that he is liable. We see that R’ Chiya’s ruling is dependent on his position that the second exclusion comes to exclude an admission of barley to a claim of wheat, which is the position of the Rabanan. If so, there is no verse to exclude when the partial liability is known from witnesses. The kal v’chomer of R’ Chiya tells us that in this case we are to obligate the defendant to swear. It appears that the halacha is in accordance with R’ Chiya. For earlier [the Gemara] explains that [this first ruling] of R’ Chiya follows the Rabanan who disagree with Raban Gamliel and the halacha is in accordance with them.1See שיטה מקובצת and מהר\"ם who deflect Tosfos’ proof from the ruling that the denial must be of the same species. It is possible to agree with that ruling and still disagree with R’ Chiya. R’ Chiya’s ruling is dependent on deriving the case of witnesses’ testimony of partial liability from a combination of one’s own admission and the single witness. The Gemara protested that they both share a common characteristic, that they are not subject to paying if they are nullified by the hazamah process. The Gemara answered that R’ Chiya does not consider this a challenge to his combined source. See Tosfos 4a –ד'ה עד אחד . This is an adequate defense of R’ Chiya’s position, but it is certainly not so convincing that all others must agree with him. It is possible that others hold that even though we hold like the Rabanan of Raban Gamliel insofar as the denial being from the same species as the claim, we may still disagree with R’ Chiya because of the challenge to his combined source. It follows that since R’ Chiya’s way of expounding the verse is the same as the Rabanan, just as the halacha follows the Rabanan, it is also follows R’ Chiya. Tosfos now presents three Gemaros where it is evident that we rule in favor of the Rabanan who disagree with Raban Gamliel and that it is required that the admission be of the same species as the claim. As the [Gemara] asks in the end of HaMeinee’ach (Bava Kama 35b) when the Gemara discusses Rabah bar Rav Nassan’s ruling that if one claimed wheat and the other admitted barley, he is exempt, what is he teaching us, we have already learned this in a Baraisa? The Gemara then quotes our Baraisa as proof of this ruling. It is obvious that despite Raban Gamliel’s dissenting opinion, we follow the Rabanan. The Mishna in HaShoel rules that if the purchaser claimed that he bought a large slave and the seller insists that he sold him a small slave, the seller must swear that he sold him a small slave. The Gemara asks: Why should he swear? What [the plaintiff] claimed, i.e. a large slave, [the defendant] did not admit. What [the defendant] admitted, i.e. a small slave, [the plaintiff] did not claim. Tosfos understands that the Gemara means that this claim and admission do not satisfy the requirement of the admission being the same type as the claim. (See Rashi there ד'ה ועוד.) So too, in Perek HaShoel (Below 100a) [the Gemara] asks: Why should the seller swear? This is a case of [the plaintiff]claiming wheat and [the defendant] admitting barley.2These exact words do not appear in the Gemara there. This is Tosfos’ interpretation of the Gemara that says מה שטענו לא הודה לו, what the plaintiff claimed (a large slave) which the defendant did not admit. He admitted owing a small slave, which is not the same species as the claim. The Gemara in Shavuos 40a: Rav And Shmuel are disputing whether the amount of the claim for the oath of partial admission must be two silver ma’ah and the denial and admission are from within that amount or whether the denial must be two silver ma’ah and the original claim was more. Their discussion eventually turns to the verse כי הוא זה, which we already know is the source for the oath obligation. How does Rav deal with the two exclusions? One teaches us that there must be a partial admission. One teaches us that he admission must be of the same species as the claim. How does Shmuel explain the verse? Granted that Rav’s interpretation is correct but we still must understand from the verse that since the original claim was two silver ma’ah, after admitting some of the original claim the denial must perforce be less than two silver ma’ah. It is evident that both Rav and Shmuel agree that the admission must be of the same species as the claim. So too, do Rav and Shmuel hold in Perek Shavuos HaDayanim (Shavuos 40a). Tosfos quoted three sources to prove that the halacha follows the Rabanan who disagree with Raban Gamliel who hold that the admission must be of the same species as the claim. Since R’ Chiya’s first ruling is aligned with this understanding of the verse, the halacha follows R’ Chiya as well. But our Gemara seems to indicate otherwise, by using the phrase “if” R’ Chiya’s ruling is halacha, it seems that it is not at all certain that the halacha is in accordance with R’ Chiya. Tosfos will now show us that we find other places in Shas where “if” is used even though the halacha definitely is in accordance with that position. Even though [the Gemara] here says “if R’ Chiya’s first ruling is halacha”, which implies that in reality it is not, so too, we find in Perek Hamadir (Kesubos 70a)3This Gemara is actually in Perek HaMadir Kesbos 70a. [the Gemara] says: If it is so, that Rav Huna’s ruling that a wife can say to her husband “I do not want your sustenance etc. and I will not work for you” is halacha, which is the same phrase employed by our Gemara, and even so in Perek Shenai Dayanei Gezeiros (Kesubos 107b) [the Gemara] rules like Rav Huna. We see that despite the Gemara’ use of the introductory phrase “if it is so” the halacha does follow that opinion. In the case of R’ Chiya’s ruling as well, even though the Gemara uses the introductory phrase “if it is so” the halacha can be in accordance with R’ Chiya. Tosfos has shown that the halacha does in fact follow R’ Chiya and witnesses’ testimony can generate an oath obligation. Tosfos will now discuss an entirely different aspect of the particular case under discussion. In the previous cases we learned that the oath is required because we are not concerned that the defendant is an outright liar. Even when we know that he lied when he said “I owe nothing”, we say that he is a basically honest individual who would truly like to pay his debts, but has no funds available at this time. In the case of the shepherd who ate two of the sheep that were deposited with him, this is simply not true. Eating the sheep is an outright theft that cannot be excused by saying that he is ‘evading the creditor’. Tosfos will now return us to the source of R’ Chiya’s ruling, which is the combination of one’s own admission and the testimony of a single witness, each of which generate an oath obligation. So too, the testimony of witnesses must also generate an oath obligation. Earlier on 4a the Gemara asked: but upon one’s own admission and the testimony of a single witness, the defendant is not an established denier, whereas in R’ Chiya’s case when one denies owing anything and witnesses testify that he owes half, he is an established denier. The Gemara answered that in R’ Chiya’s case as well, the defendant is not an established denier, because he is ‘evading the creditor’. We must conclude that when one’s denial cannot be attributed to ‘evading the creditor’, he would not swear. This is bewildering! Even if R’ Chiya’s fist ruling is halacha, there cannot be an oath obligation here in the case of the shepherd who denied receiving the sheep, for the witnesses testified that he ate two of the sheep. They are thus contradicting his claim that he never received the sheep from their owners. He is now an ‘established denier’ and we have no source from which to establish that an established denier takes an oath. For the cases of one’s own admission and a single witness share a common characteristic that [the defendant] is not an established denier. Can you say the same here where the shepherd is an established denier by denying that he received the sheep?4There are those who ask that Tosfos’ question seems to be the same as the Gemara, which asks: But he is a thief? We have followed מהר\"ם who stresses that Tosfos’ question is about the shepherd’s initial denial of receiving any sheep. We now know that when the shepherd denied receiving the sheep, he was lying. He is therefore an established denier. Tosfos is focusing not on the fact that the shepherd stole the sheep by eating them, but on his denial of receiving them. The Gemara will ask: “But he is a thief?”. This question assumes that there is inherently an oath obligation, but how can we allow the thief to swear? Tosfos’ question is that there should not even be an oath obligation at all, since we have no source for a derivation when the situation is one of an established denier. There is no rationalization for his behavior.5Some argue that this too is a case where there is no established denier. We do not have any testimony that the shepherd in fact received the sheep from his regular clients. All we have is testimony that he ate two sheep. The shepherd had the option of saying that he purchased those sheep. When he does not say so, he is admitting that they belonged to his regular clients. His guilt is known to us only by this admission and he is therefore not to be considered an established denier. Perhaps we can answer: Once we learn that there is an oath obligation generated by the testimony of witnesses for denial of a loan, then we should not differentiate between a loan and a deposit.6See מהר\"ם שי\"ף who explains Tosfos’ thinking as follows: R’ Chiya derives that witnesses’ testimony generates an oath obligation from one’s admission and a single witness. If we should limit the derivation to when there is a possibility of ‘evading the creditor’, we will be faced with a grave difficulty. One’s own admission and a single witness obligate an oath for a deposited item even when there is no possibility of ‘evading the creditor’. If the testimony of witnesses is limited only to such cases where there is a possibility of ‘evading the creditor’, we can challenge the derivation by arguing that even if witnesses testimony is effective in establishing an oath obligation, it will remain inherently weaker than one’s admission and a single witness, because they can obligate an oath even when there is no possibility of ‘evading the creditor’ and the testimony of witnesses would only be effective when there is a possibility of ‘evading the creditor’. It must therefore be that once we derive that the testimony of witnesses can generate an oath obligation, it must be effective even when the subject is no possibility of ‘evading the creditor’. מהר\"ם שי\"ף’s explanation proves that in fact it must be that the testimony of witnesses is acceptable even in cases where there is an established denier. It does not inform us of how we arrive at this. See משנת הלוי אות נ\"ב by הרב הגאון רפאל שארד שליט\"א son of ,מו\"ר הרב גדלי' שארד זצ\"ל who explains that if there was no possibility that witnesses could actually cause a defendant to swear we would necessarily conclude that the testimony of witnesses does not generate an oath obligation, because the defendant would never be able to swear since he is an established denier. However, once we find a situation where the defendant can swear because he is ‘evading the creditor’ and not an established denier, we see that inherently witnesses can generate an oath obligation. In those instances where the defendant is an established denier, he will not be allowed to swear even though there is an oath obligation and his opponent will have the right to swear and collect. Since a deposit is usually a case where the defendant cannot be assumed to be ‘evading the creditor’ we conclude that in all cases there is inherently an oath obligation. As the Gemara will soon illustrate, we cannot always enact the oath obligation, i.e. when the defendant is a thief or an established denier. We then reverse the oath to the plaintiff, who swears and collects.",
+            "takeaway": "תוספות notes that despite the conditional phrasing, the הלכה actually follows רבי חייא, and addresses the difficulty that the shepherd should be exempt from swearing since witnesses testified he ate two animals, suggesting that once an oath is established for loans, we do not distinguish between loans and deposits.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אי איתא לדרבי חייא -",
+                "english": "If there is to the words of Rabbi Chiya"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "נראה דהלכה כרבי חייא דהא לעיל",
+                "english": "It appears that the halakha is in accordance with Rabbi Chiya, for above"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "מוקי לה כרבנן דר\"ג דהלכה כוותייהו",
+                "english": "It establishes it in accordance with the Sages of Rabbi Gamliel, whose halakha is followed"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "כדפריך שלהי המניח (ב\"ק שם) מאי",
+                "english": "As it objects at the end of HaMeinich (Bava Kama there): What"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "קמ\"ל תנינא וכן בפ' השואל (לקמן",
+                "english": "Is it teaching us? We have learned it. And similarly in the chapter HaShoel (below"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "בבא מציעא ק.",
+                "english": "Bava Metzia 100"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "ושם) פריך אמאי טענו חטין והודה",
+                "english": "And there) it objects: Why did they claim wheat and he admitted"
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "לו בשעורים הוא וכן סברי רב",
+                "english": "To him barley?"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "ושמואל בפ' שבועת הדיינין (שבועות דף מ.",
+                "english": "And there). Even though it says here: If there is"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": "ושם) אע\"ג דקאמר הכא אם איתא",
+                "english": "So too, we have found in the chapter (Even though) (Kesubot"
+              },
+              {
+                "phraseNumber": 11,
+                "aramaic": "הכי נמי אשכחנא פ' (אע\"פ) (כתובות",
+                "english": "Page 70) that it says: If there is to the words of Rav"
+              },
+              {
+                "phraseNumber": 12,
+                "aramaic": "דף נט) דקאמר אם איתא לדרב",
+                "english": "Huna, who said that a woman can say to her husband"
+              },
+              {
+                "phraseNumber": 13,
+                "aramaic": "הונא דאמר יכולה אשה שתאמר לבעלה",
+                "english": "I am not fed, etc. And in the second chapter of Dayanei"
+              },
+              {
+                "phraseNumber": 14,
+                "aramaic": "איני ניזונת וכו' ובפרק שני דייני",
+                "english": "Gezeirot (Kesubot page 107"
+              },
+              {
+                "phraseNumber": 15,
+                "aramaic": "גזירות (כתובות דף קז:",
+                "english": ") It rules in accordance with Rav Huna. It is strange: Even if"
+              },
+              {
+                "phraseNumber": 16,
+                "aramaic": ") פסיק כרב הונא תימה אפי'",
+                "english": "There is to the words of Rabbi Chiya, he does not take an oath"
+              },
+              {
+                "phraseNumber": 17,
+                "aramaic": "אי איתא לדרבי חייא לא משתבע",
+                "english": "Here, for they testified against him that he ate two of them."
+              },
+              {
+                "phraseNumber": 18,
+                "aramaic": "הכא דאסהידו עליה דאכל תרי מינייהו",
+                "english": "What is the common denominator in them? That they were not"
+              },
+              {
+                "phraseNumber": 19,
+                "aramaic": "דמה להצד השוה שבהן שכן לא",
+                "english": "Established as deniers. Can you say here that he was established as a denier?"
+              },
+              {
+                "phraseNumber": 20,
+                "aramaic": "הוחזק כפרן תאמר הכא דהוחזק כפרן",
+                "english": "As it objects above (Bava Metzia page 4"
+              },
+              {
+                "phraseNumber": 21,
+                "aramaic": "כדפריך לעיל (בבא מציעא ד.",
+                "english": ") And here it is not applicable to say he is evading, and perhaps"
+              },
+              {
+                "phraseNumber": 22,
+                "aramaic": ") והכא לא שייך משתמיט ושמא",
+                "english": "One can say: After we learned that there is an oath in the testimony of"
+              },
+              {
+                "phraseNumber": 23,
+                "aramaic": "י\"ל אחרי שלמד שיש שבועה בהעדאת",
+                "english": "Witnesses in a loan, now there is no distinction between a loan and a deposit."
+              },
+              {
+                "phraseNumber": 24,
+                "aramaic": "עדים במלוה מעתה אין לחלק בין מלוה לפקדון:",
+                "english": "to swear since he is an established denier. However, once we find a situation where the defendant can swear because he is ‘evading the creditor’ and not an established denier, we see that inherently witnesses can generate an oath obligation. In those instances where the defendant is an established denier, he will not be allowed to swear even though there is an oath obligation and his opponent will have the right to swear and collect. Since a deposit is usually a case where the defendant cannot be assumed to be ‘evading the creditor’ we conclude that in all cases there is inherently an oath obligation. As the Gemara will soon illustrate, we cannot always enact the oath obligation, i.e. when the defendant is a thief or an established denier. We then reverse the oath to the plaintiff, who swears and collects."
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "אַבָּיֵי's challenge: the shepherd is a גַּזְלָן",
+      "stepSummary": "Abaye challenges Rabbi Zeira's ruling by pointing out that the shepherd is a robber, and therefore his oath is not credible.",
+      "whatsHappening": "אַבָּיֵי objects to רַבִּי זֵירָא's ruling, arguing that the shepherd is a robber and thus cannot take a valid oath. This is a direct challenge to the defendant's credibility.",
+      "deeperAnalysis": "The witnesses testified he ate two animals, implying he is a robber. If he is a robber, his oath is not credible, and he cannot be made to swear. This attacks the assumption that the shepherd can take an oath.",
+      "keyTerms": [
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "Abaye"
+        },
+        {
+          "term": "גַּזְלָן",
+          "meaning": "robber"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי: אִם אִיתָא מִשְׁתְּבַע?",
+          "english": "Abaye said to him: If it is so, he takes an oath?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "! וְהָא גַּזְלָן הוּא!",
+          "english": "And isn't he a robber!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: שֶׁכְּנֶגְדּוֹ קָאָמֵינָא.",
+          "english": "He said to him: I am saying the opposing party takes an oath."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ אַבָּיֵי: אִם אִיתָא מִשְׁתְּבַע?! וְהָא גַּזְלָן הוּא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "direct_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:15:1",
+            "hebrew": "אמר ליה אביי ואם איתא לדר' חייא משתבע האי - בתמיה:",
+            "english": "",
+            "takeaway": "רש״י explains that אביי's objection is a rhetorical question challenging the assumption that the shepherd can take an oath according to ר' חייא's ruling.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אמר ליה אביי ואם איתא לדר'",
+                "english": "Abaye said to him: And if so, according to the words of Rabbi"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "חייא משתבע האי - בתמיה:",
+                "english": "Chaya, he would swear — this is a question."
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:15:2",
+            "hebrew": "והא גזלן הוא - וכי אמר ר' חייא במלוה אי נמי בפקדון שלא שלח בו יד ואבד ממנו דאיכא למימר אשתמוטי משתמיט:",
+            "english": "",
+            "takeaway": "רש״י clarifies that ר' חייא's rule applies only to a מלוה or פקדון where the defendant did not misuse the funds, allowing him to swear, but here the shepherd is a גזלן who cannot swear.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "והא גזלן הוא -",
+                "english": "And he is a robber"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "וכי אמר ר' חייא במלוה אי",
+                "english": "And when Rabbi Chiya said, in a loan, if"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "נמי בפקדון שלא שלח בו יד",
+                "english": "Also in a deposit where he did not extend his hand"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "ואבד ממנו דאיכא למימר אשתמוטי משתמיט:",
+                "english": "And it was lost from him, for one can say he escapes"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:15:3",
+            "hebrew": "לשכנגדו קאמינא - אם שבועה מוטלת עליו נשבע שכנגדו ונוטל כדאמרינן בשבועות (דף מד:) שהחשוד על השבועה תקנו חכמים שכנגדו נשבע:",
+            "english": "",
+            "takeaway": "רש״י explains that the resolution is that the opposing party (שכנגדו) takes the oath, as חכמים decreed that when a defendant is suspected on the oath, the plaintiff swears to collect.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "לשכנגדו קאמינא -",
+                "english": "I am standing against him"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "אם שבועה מוטלת עליו נשבע שכנגדו",
+                "english": "If an oath is incumbent upon him, the opposing party swears"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "ונוטל כדאמרינן בשבועות (דף מד:",
+                "english": "And he collects, as we say in Shevuot (page 44:"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": ") שהחשוד על השבועה תקנו חכמים שכנגדו נשבע:",
+                "english": ") that regarding one suspected of an oath, the Sages instituted that the opposing party swears:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:15:1",
+            "hebrew": "שכנגדו קאמינא - וא\"ת מאי שנא דבחשוד על השבועה שכנגדו נשבע ונוטל אמאי לא אמרינן מתוך שא\"י לישבע משלם כדאמר גבי חמשין ידענא וחמשין לא ידענא (לקמן בבא מציעא דף צח.) ובנסכא דר' אבא (שבועות דף.) וי\"ל הכא אי אמרי' משלם לא שבקת ליה חיי דכל העולם יביאוהו לידי שבועה ויטלו כל אשר לו ועוד דהתם אמר ליה שבועה דאורייתא אית לי עליך או תשבע או תשלם אבל הכא הוא ברצון ישבע אם נניחנו ולכך לא ישלם:",
+            "english": "I was saying[ that the party] opposing him [takes an oath]. See Tosfos 3Ba ד'ה בכוליה where we discussed R’ Abba’s ruling that when one has an oath obligation and cannot swear, he is obligated to pay. Tosfos wonders why the same does not apply when the defendant cannot swear because he is suspected of swearing falsely. If you ask: Why is there a difference? For one who is suspected of swearing falsely, we rule that his opponent must swear in order to collect. Why don’t we say that since he cannot swear, because we suspect that he might swear falsely, he must pay, as [the Gemara] says in regard to a defendant who responds to a plaintiff’s claim of one hundred zuz, by saying fifty I know that I owe you, so we have a partial admission, and the other fifty that you claim, I do not know if I am liable or not (Below 98a). The Gemara rules that since the defendant cannot swear that he does not owe the “second” fifty zuz, he must pay. We do not say that his opponent must swear that the defendant owes him the fifty zuz in order to collect. Also in the case of the ingot of R’ Abba (Shavuos 32b), where the plaintiff accused the defendant of seizing an ingot of silver from him. The defendant answered: it is true that I seized the ingot from you, but the ingot was truly mine. There was a single witness who testified in favor of the plaintiff. The Gemara rules that the defendant needs to swear to contradict the witness. Since he cannot take such an oath because he has already admitted that he did seize the ingot, he is in the position of one who needs to swear and cannot do so and must therefore pay. In both these cases we rule that when there in an oath obligation on the defendant, which he cannot fulfill, he must pay. Why do we not say that the plaintiff must swear in order to collect? Superficially, it seems that the case of our Gemara is very similar to the cases Tosfos quoted from Bava Metzia 98a and Shavuos 32b. We must search for a distinction between these cases in order to answer Tosfos question. If we examine these cases correctly, we will see that the cases of Bava Metzia 98a and Shavuos 32b are isolated happenings. It is not every day where we have a defendant saying “I know that I owe fifty zuz, but I do not know about the other fifty”. So too, the ingot of R’ Abba where we have a person saying “It is true that I seized the ingot, but it is mine”, is an uncommon story. If we rule in these uncommon cases that the defendant must pay, we are not endangering his financial future. The particular story may never happen again. However, if we rule that any person suspected of swearing falsely must pay because he cannot swear, we are endangering his financial future, because any dishonest person can take advantage of his inability to swear. We can answer: Here, in the case of one who is suspected of swearing falsely, if we say that he must always pay, we are not allowing him to live, because all people will bring him to an oath obligation and they will collect all his assets. For example: If he borrows one hundred zuz from Ruvain, Ruvain will claim that he owes him two hundred zuz, when he admits that he owes one hundred zuz, he will be obligated to swear the oath of partial admission. Since he cannot swear because he is suspected of swearing falsely, he will have to pay. This situation can repeat itself forever and ever. Even though he is suspected of swearing falsely, we cannot allow him to be in a position where he is so susceptible to financial ruin by unscrupulous people. We therefore require that his opponent swears before he is allowed to collect. As explained earlier, in the two cases of Bava Metzia 98a and Shavuos 32b, a one time ruling that the defendant who cannot swear must pay, will not ruin him financially, because these situations are rather uncommon. Upon further analysis we can see that there is another major difference between one who is suspected of swearing falsely and Bava Metzia 98a and Shavuos 32b. In Bava Metzia 98a, where the plaintiff claims one hundred zuz and the defendant responds with “fifty I owe and the other fifty I am uncertain”, there is an oath obligation because the defendant admitted partial liability. Because of the nature of his counterclaim he cannot take the oath required of him, which is to swear that he does not owe the second fifty zuz. He has admitted that he might owe the fifty zuz and he obviously cannot now swear that he does not owe them. He has backed himself into a corner, from which he cannot extricate himself. So too, in Shavuos 32b, in the case of the ingot of R’ Abba, where the defendant admits that he did in fact seize the ingot from the plaintiff and the plaintiff has a single witness who testifies in his behalf. The oath required of the defendant is to contradict the witness. This he cannot do, because he has admitted that he did seize the ingot from the plaintiff. Here too, he has backed himself in to a corner. He must swear but he cannot do so, because his own counterclaim precludes him from taking the necessary oath. The case of one who is suspected of swearing falsely is entirely different. He is perfectly agreeable to taking the needed oath. It is the court who cannot allow him to do so, because they suspect that he might swear falsely. Furthermore, there is the following distinction between these cases, for there, in Bava Metzia 98a and Shavuos 32b, [the plaintiff] says to [the defendant]: I have the right to demand a Torah oath from you. Either you swear or pay. You cannot swear because of your counterclaim, therefore you must pay. However, here in the case of the defendant suspected of swearing falsely, he would willingly swear, if we would allow him to. Therefore, he need not pay unless the plaintiff first swears that his claim is honestly true.",
+            "takeaway": "תוספות asks why we don't rule that the shepherd must pay since he cannot swear, as in cases of partial admission or ר' אבא's ingot, and answers that making him pay would deter all defendants from swearing, and here the shepherd is willing to swear if allowed, unlike those cases where the oath is biblical.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "שכנגדו קאמינא -",
+                "english": "I am saying [that the party] opposing him"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "וא\"ת מאי שנא דבחשוד על השבועה",
+                "english": "And you ask: What is the difference? For one who is suspected regarding the oath"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "שכנגדו נשבע ונוטל אמאי לא אמרינן",
+                "english": "His opponent swears and collects — why don't we say"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "מתוך שא\"י לישבע משלם כדאמר גבי",
+                "english": "Since he cannot swear, he pays, as it is said regarding"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "חמשין ידענא וחמשין לא ידענא (לקמן",
+                "english": "Fifty I know, and fifty I do not know (below"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "בבא מציעא דף צח.",
+                "english": "Bava Metzia page 98."
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": ") ובנסכא דר' אבא (שבועות דף.",
+                "english": ") And in the ingot of R' Abba (Shavuos page."
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": ") וי\"ל הכא אי אמרי' משלם",
+                "english": ") And one can say: Here, if we say he pays"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "לא שבקת ליה חיי דכל העולם",
+                "english": "We do not leave him alive, for all the world"
+              },
+              {
+                "phraseNumber": 10,
+                "aramaic": "יביאוהו לידי שבועה ויטלו כל אשר",
+                "english": "Will bring him to an oath and take all that is"
+              },
+              {
+                "phraseNumber": 11,
+                "aramaic": "לו ועוד דהתם אמר ליה שבועה",
+                "english": "His. And furthermore, there he says to him: An oath"
+              },
+              {
+                "phraseNumber": 12,
+                "aramaic": "דאורייתא אית לי עליך או תשבע",
+                "english": "Of Torah law is upon you — either swear"
+              },
+              {
+                "phraseNumber": 13,
+                "aramaic": "או תשלם אבל הכא הוא ברצון",
+                "english": "Or pay. But here, he is willing"
+              },
+              {
+                "phraseNumber": 14,
+                "aramaic": "ישבע אם נניחנו ולכך לא ישלם:",
+                "english": "To swear. If we let him, therefore he does not pay."
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "מימרא",
+      "title": "The גמרא's suggestion: רַב נַחְמָן's ordinance",
+      "stepSummary": "The Gemara suggests that even if Rabbi Ḥiyya's opinion is not followed, the shepherd should still be obligated to take an oath due to Rav Naḥman's ordinance.",
+      "whatsHappening": "The גמרא introduces a new line of reasoning, suggesting that even if רַבִּי חִיָּיא's opinion is not followed, the shepherd should still be obligated to take an oath due to רַב נַחְמָן's ordinance. This is a transition to an alternative basis.",
+      "deeperAnalysis": "This shifts the argument from רַבִּי חִיָּיא's opinion to רַב נַחְמָן's ordinance. The גמרא is exploring alternative bases for obligating the shepherd to take an oath.",
+      "keyTerms": [
+        {
+          "term": "רַב נַחְמָן",
+          "meaning": "Rav Naḥman"
+        },
+        {
+          "term": "תַּקָּנָה",
+          "meaning": "ordinance"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַשְׁתָּא נָמֵי דְּלֵיתָא לִדְרַבִּי חִיָּיא, נְחַיְּיבֵיהּ מִדְּרַב נַחְמָן.",
+          "english": "Now too, even though it is not according to Rabbi Ḥiyya, we obligate him from Rav Naḥman."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַשְׁתָּא נָמֵי דְּלֵיתָא לִדְרַבִּי חִיָּיא, נְחַיְּיבֵיהּ מִדְּרַב נַחְמָן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        31
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "new_argument",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:16:1",
+            "hebrew": "השתא נמי - כי ליתא לדר' חייא ואין כאן הודאה במקצת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's phrase 'השתא נמי' means even when Rabbi Ḥiyya's opinion is not followed and there is no partial admission (הודאה במקצת) to trigger an oath.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "השתא נמי -",
+                "english": "Now also"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "כי ליתא לדר' חייא ואין כאן הודאה במקצת:",
+                "english": "When there is no opinion of Rabbi Hiyya and there is no admission in part:"
+              }
+            ]
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:16:2",
+            "hebrew": "נחייביה - שבועת היסת מדרב נחמן וישבע שכנגדו ויטול:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Naḥman's ordinance obligates the shepherd to take a שבועת היסת, after which the claimant may take the money.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "נחייביה -",
+                "english": "He obligated him"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "שבועת היסת מדרב נחמן וישבע שכנגדו ויטול:",
+                "english": "An oath of estimation from Rabbi Nachman, and the opposing party swears and takes"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "ראיה",
+      "title": "The מִשְׁנָה and רַב נַחְמָן's ruling",
+      "stepSummary": "The Gemara cites a Mishna and Rav Naḥman's ruling to support the suggestion that the shepherd should be obligated to take an oath.",
+      "whatsHappening": "The גמרא cites a מִשְׁנָה and רַב נַחְמָן's ruling to support the suggestion that the shepherd should be obligated to take an oath. This provides textual backing for the new argument.",
+      "deeperAnalysis": "The מִשְׁנָה states that if one claims money is in another's possession and the other denies it, the defendant is exempt from taking an oath. רַב נַחְמָן rules that the defendant should still take an oath of inducement, supporting the suggestion.",
+      "keyTerms": [
+        {
+          "term": "מִשְׁנָה",
+          "meaning": "Mishna"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דִּתְנַן: מָנֶה לִי בְּיָדְךָ,",
+          "english": "We learned: A maneh is in your hand,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵין לְךָ בְּיָדִי – פָּטוּר.",
+          "english": "You have nothing of mine in my hand – he is exempt."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאָמַר רַב נַחְמָן: מַשְׁבִּיעִין אוֹתוֹ שְׁבוּעַת הֶיסֵּת.",
+          "english": "And Rav Naḥman says: We make him take an oath of inducement."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דִּתְנַן: מָנֶה לִי בְּיָדְךָ, אֵין לְךָ בְּיָדִי – פָּטוּר. וְאָמַר רַב נַחְמָן: מַשְׁבִּיעִין אוֹתוֹ שְׁבוּעַת הֶיסֵּת.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        32
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "supporting_proof",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:17:1",
+            "hebrew": "היסת - שבועה שהסיתו חכמים לכך להסיתו להודות וטעמא מפרש בשבועות (דף מ:): חזקה אין אדם טוען אא\"כ יש לו בידו:",
+            "english": "",
+            "takeaway": "רש״י explains that שבועת היסת is an oath instituted by חכמים to induce the defendant to admit the truth, based on the חזקה that a person does not make a claim unless he has some basis for it.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "היסת - שבועה שהסיתו חכמים לכך להסיתו להודות",
+                "english": "Heset - an oath that the Sages incited him to, to incite him to admit"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "וטעמא מפרש בשבועות (דף מ: ):",
+                "english": "And the reason is explained in Shevuot (page 40):"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "חזקה אין אדם טוען אא\"כ יש לו בידו:",
+                "english": "A presumption that a person does not claim unless he has in his hand:"
+              }
+            ]
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 5a:17:1",
+            "hebrew": "אין לך בידי פטור וא\"ר נחמן - מהכא משמע דהלכה כלישנא קמא דפ' שבועת הדיינים (שבועות דף מא. ושם ד\"ה מאן) דלא בעי דררא דממונא אלא אפי' כופר הכל חייב שבועת היסת מדלא מייתי הכא סיפא דנתתיו לך פטור וכן פירש בשערים דרב האי ואי טעין איני יודע בכל ישבע שאינו יודע :",
+            "english": "[If the defendant says]: Nothing of yours is in my possession he is exempt; Rav Nachman says [he must swear an oath of incitement]. In order to understand this Tosfos properly, we need to review a Gemara in Shavuos 41a, where the Gemara first quotes a Mishna of 38b: The plaintiff claimed: A maneh of mine is in your possession, i.e. you owe me a maneh. The defendant responds: You have nothing in my possession. The ruling is: [the defendant] is exempt. He need not pay or swear by Torah law. Rav Nachman says: We require him to swear an oath of incitement, by Rabbinic law. The Gemara explains that this first version of Rav Nachman holds that even when there is nothing other than the claim of the plaintiff indicating that the defendant may be liable, an oath of incitement is required. Rav Chaviva taught this ruling of [Rav Nachman] in regard to the latter portion of the Mishna: If the plaintiff claimed: A maneh of mine is in in your possession. [The defendant] responded: Yes! The next day [the plaintiff] said: Give me [the maneh] that you admitted. The defendant responds: I gave it to you. The ruling is: he is exempt, i.e. the defendant need not pay or swear. It is in regard to this latter ruling that Rav Nachman says: We require him to swear an oath of incitement. The Gemara explains the difference between the earlier and latter versions of Rav Nachman. The one who taught [Rav Nachman’s ruling] in regard to the earlier part of the Mishna when there is no indication of guilt other than the plaintiff’s claim, will certainly hold that Rav Nachman’s ruling applies to the latter part of the Mishna, where there is some indication that the defendant may owe money, since he admitted receiving a maneh from the plaintiff. However, the one who taught [Rav Nachman’s] ruling in regard to the end of the Mishna, holds that here in the latter part of the Mishna there is a suggestion of monetary liability, but [in the earlier part of the Mishna] where there is no suggestion of monetary liability, no oath of incitement is needed. We now know that there are two opinions about Rav Nachman’s requirement of a Rabbinic oath of incitement: a) Even when there is no suggestion of liability, it is required. b) Only when there is a suggestion of liability, such as when the defendant admitted that there once was a liability, is an oath of incitement required. Our Gemara quotes the earlier part of the Mishna in Shavuos 38b and then immediately introduces Rav Nachman’s ruling. It seems that our Gemara holds that Rav Nachman’s oath of incitement is relevant even for the earlier part of the Mishna. From [this Gemara] it seems that the halacha follows the first version in Perek Shavuos HaDayanim (Shavuos 41a), which does not require a suggestion of monetary liability for Rav Nachman’s oath of incitement, rather, even one who totally denies a claim against him is obligated to take an oath of incitement. This is evident from the fact that [the Gemara] does not cite the end of the Mishna in Shavuos where the Mishna says: after the defendant admitted owing a maneh, the next day he claims: I gave it to you, he is exempt. According to the second version in Shavuos, Rav Nachman’s ruling was said only in reference to this second statement of the Mishna where there is a suggestion of liability. Since our Gemara does not quote this second ruling of the Mishna 38b, but only the earl;ier part of the Mishna, where there is no suggestion of liability, it seems that our Gemara holds like the first version in Shavuos that Rav Nachman’s ruling is relevant even when there is no suggestion of liability. We also find this explanation in the Shearim of Rav Hai. And if the defendant] claims: I do not know whether I am liable or not, he must swear that he does not know.",
+            "takeaway": "תוספות deduces from the Gemara's citation of only the first part of the Mishna that the הלכה follows the first version of רב נחמן in שבועות, which requires שבועת היסת even without any דררא דממונא, as also explained by רב האי גאון.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "אין לך בידי פטור וא\"ר נחמן -",
+                "english": "There is nothing of yours in my possession, and Rav Nachman says"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "מהכא משמע דהלכה כלישנא קמא דפ'",
+                "english": "From here it implies that the halakha follows the first statement of Perek Shavuos HaDayanim"
+              },
+              {
+                "phraseNumber": 3,
+                "aramaic": "שבועת הדיינים (שבועות דף מא.",
+                "english": "Oath of the judges (Shavuos 41a"
+              },
+              {
+                "phraseNumber": 4,
+                "aramaic": "ושם ד\"ה מאן) דלא בעי דררא",
+                "english": "and there, gloss 'Who') that does not require a suggestion"
+              },
+              {
+                "phraseNumber": 5,
+                "aramaic": "דממונא אלא אפי' כופר הכל חייב",
+                "english": "of monetary liability, but even one who denies everything is obligated"
+              },
+              {
+                "phraseNumber": 6,
+                "aramaic": "שבועת היסת מדלא מייתי הכא סיפא",
+                "english": "Oath of incitement, since it does not bring here the latter part"
+              },
+              {
+                "phraseNumber": 7,
+                "aramaic": "דנתתיו לך פטור וכן פירש בשערים",
+                "english": "that I gave it to you, he is exempt, and so he explained in the…"
+              },
+              {
+                "phraseNumber": 8,
+                "aramaic": "דרב האי ואי טעין איני יודע",
+                "english": "of Rav Hai, and if he claims: I do not know"
+              },
+              {
+                "phraseNumber": 9,
+                "aramaic": "בכל ישבע שאינו יודע :",
+                "english": "in all cases he must swear that he does not know"
+              }
+            ]
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "דחיה",
+      "title": "The rejection: we do not institute one ordinance upon another",
+      "stepSummary": "The Gemara rejects the suggestion by pointing out that Rav Naḥman's ruling is an ordinance, and we do not institute one ordinance upon another.",
+      "whatsHappening": "The גמרא rejects the suggestion by pointing out that רַב נַחְמָן's ruling is an ordinance, and we do not institute one ordinance upon another. This is a classic halachic principle.",
+      "deeperAnalysis": "The rejection is based on the fact that רַב נַחְמָן's ruling is an ordinance, and the rule that the plaintiff takes an oath and collects payment is also an ordinance. We do not institute one ordinance upon another, so the shepherd is not obligated to take an oath.",
+      "keyTerms": [
+        {
+          "term": "לָא עָבְדִינַן",
+          "meaning": "we do not do"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּרַב נַחְמָן תַּקַּנְתָּא הִיא, וְתַקַּנְתָּא לְתַקַּנְתָּא לָא עָבְדִינַן.",
+          "english": "Rav Naḥman's ordinance is it, and an ordinance for an ordinance we do not make."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּרַב נַחְמָן תַּקַּנְתָּא הִיא, וְתַקַּנְתָּא לְתַקַּנְתָּא לָא עָבְדִינַן.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        33
+      ],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "direct_rejection",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 5a:18:1",
+            "hebrew": "דר\"נ תקנתא היא - דהא מדאורייתא לא רמי שבועה עליה:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav Naḥman's ruling is a תקנה because, according to Torah law, the shepherd is not obligated to take a שבועה.",
+            "phrases": [
+              {
+                "phraseNumber": 1,
+                "aramaic": "דר\"נ תקנתא היא -",
+                "english": "R. Nehemiah says: It is a rabbinic enactment"
+              },
+              {
+                "phraseNumber": 2,
+                "aramaic": "דהא מדאורייתא לא רמי שבועה עליה:",
+                "english": "For according to Torah law, an oath is not imposed upon him"
+              }
+            ]
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T02:13:52.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 99.79117869999027,
+      "structure": 2304.9531506999047,
+      "translate": 440.23013280000305,
+      "meforshim": 1645.9012703003827,
+      "teaching": 1114.9670098000788
+    }
+  }
+}

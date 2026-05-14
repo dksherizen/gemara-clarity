@@ -256,7 +256,7 @@ Decompose this sugya into argumentative steps per the rules. Number steps starti
   const result = await adapter.callJSON<z.infer<typeof ResponseSchema>>({
     system: SYSTEM,
     user,
-    maxTokens: 12000,
+    maxTokens: 24000,
     temperature: 0.1,
   });
   if (process.env.DEBUG_PIPELINE) {

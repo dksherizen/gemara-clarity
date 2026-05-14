@@ -1,0 +1,1577 @@
+{
+  "ref": "Bava Metzia 27a",
+  "masechet": "Bava_Metzia",
+  "daf": 27,
+  "amud": "a",
+  "mainTopic": "הבדל בין לוקח מן התגר לבין מבעל הבית · הקישות סימנים משמלה · מחלוקת רבי יהודה וחכמים בשווי פרוטה",
+  "overview": "(1) The Gemara clarifies that the obligation to return a lost item applies when buying from a homeowner, but the Tana meant the homeowner sold it via a Canaanite slave. (2) The Gemara analyzes the Mishnah's derivation of the requirement for identifying marks (סימנים) from the verse mentioning clothing, discussing the necessity of various biblical terms like 'ox', 'donkey', and 'sheep'. (3) The Gemara discusses the dispute between Rabbi Yehuda and the Sages regarding the minimum value of a lost item (prutah) and derives the laws of finding items from the verses 'asher tavad' and 'umetzatah'. (4) The Gemara investigates whether identifying marks are a biblical or rabbinic requirement, analyzing various proofs and Rava's conclusion that they are biblical based on the verse 'ad derosh achicha oto'. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 2,
+      "topic": "הבדל בין לוקח מן התגר לבין מבעל הבית",
+      "gist": "The Gemara clarifies that the obligation to return a lost item applies when buying from a homeowner, but the Tana meant the homeowner sold it via a Canaanite slave.",
+      "openingFormula": "בְּלוֹקֵחַ מִן הַתַּגָּר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 2
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 3,
+      "endLine": 10,
+      "topic": "הקישות סימנים משמלה",
+      "gist": "The Gemara analyzes the Mishnah's derivation of the requirement for identifying marks (סימנים) from the verse mentioning clothing, discussing the necessity of various biblical terms like 'ox', 'donkey', and 'sheep'.",
+      "openingFormula": "מַתְנִי׳ אַף הַשִּׂמְלָה",
+      "firstStepNumber": 3,
+      "lastStepNumber": 10
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 11,
+      "endLine": 23,
+      "topic": "מחלוקת רבי יהודה וחכמים בשווי פרוטה",
+      "gist": "The Gemara discusses the dispute between Rabbi Yehuda and the Sages regarding the minimum value of a lost item (prutah) and derives the laws of finding items from the verses 'asher tavad' and 'umetzatah'.",
+      "openingFormula": "תָּנוּ רַבָּנַן: ״אֲשֶׁר תֹּאבַד״",
+      "firstStepNumber": 11,
+      "lastStepNumber": 23
+    },
+    {
+      "sugyaNumber": 4,
+      "startLine": 24,
+      "endLine": 24,
+      "topic": "סימנים דאורייתא או דרבנן",
+      "gist": "The Gemara investigates whether identifying marks are a biblical or rabbinic requirement, analyzing various proofs and Rava's conclusion that they are biblical based on the verse 'ad derosh achicha oto'. — discussion continues into next amud.",
+      "openingFormula": "אִיבַּעְיָא לְהוּ: סִימָנִין דְּאוֹרָיְיתָא",
+      "firstStepNumber": 24,
+      "lastStepNumber": 24
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן teaches a בְּרֵיתָא distinguishing between a תַּגָּר and a בַּעַל הַבַּיִת",
+      "stepSummary": "The תנא קמיה דרב נחמן teaches a ברייתא stating that the obligation to return coins found in produce applies when buying from a homeowner, but not from a merchant.",
+      "whatsHappening": "The sugya opens with a תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן teaching a בְּרֵיתָא in front of רַב נַחְמָן. The בְּרֵיתָא establishes a distinction between buying from a תַּגָּר and buying from a בַּעַל הַבַּיִת regarding the obligation to return coins found in the produce.",
+      "deeperAnalysis": "The תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן is presenting a source that mirrors the מִשְׁנָה's distinction. The core claim is that when buying from a single owner (בַּעַל הַבַּיִת), the buyer is obligated to return the coins, whereas with a merchant (תַּגָּר), the coins belong to the buyer. This sets up the legal framework for the ensuing discussion.",
+      "keyTerms": [
+        {
+          "term": "תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן",
+          "meaning": "The תַּנָּא who taught in the presence of רַב נַחְמָן"
+        },
+        {
+          "term": "בְּרֵיתָא",
+          "meaning": "A תַּנַּאִית source not in the מִשְׁנָה"
+        },
+        {
+          "term": "תַּגָּר",
+          "meaning": "Merchant"
+        },
+        {
+          "term": "בַּעַל הַבַּיִת",
+          "meaning": "Homeowner / single owner"
+        },
+        {
+          "term": "חַיָּב לְהַחֲזִיר",
+          "meaning": "Is obligated to return"
+        }
+      ],
+      "whatToRemember": "The בְּרֵיתָא explicitly states: בְּלוֹקֵחַ מִבַּעַל הַבַּיִת – חַיָּב לְהַחֲזִיר.",
+      "confusionAlert": "Note that the תַּנָּא is teaching this *in front of* רַב נַחְמָן, which implies רַב נַחְמָן will react to it.",
+      "whyThisMatters": "This establishes the baseline הֲלָכָה position that the גְּמָרָא will now scrutinize.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּלוֹקֵחַ מִן הַתַּגָּר,",
+          "english": "in the case of one who purchases produce from a merchant"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֲבָל בְּלוֹקֵחַ מִבַּעַל הַבַּיִת – חַיָּיב לְהַחְזִיר.",
+          "english": "But in the case of one who purchases produce from a single owner, he is obligated to return the coins to the seller."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְכֵן תָּנֵי תַּנָּא קַמֵּיהּ דְּרַב נַחְמָן:",
+          "english": "And likewise, the tanna who recited mishnayot and baraitot in the study hall of Rav Naḥman taught a baraita before Rav Naḥman:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֹא שָׁנוּ אֶלָּא בְּלוֹקֵחַ מִן הַתַּגָּר,",
+          "english": "The Sages taught that the coins belong to the buyer only in the case of one who purchases produce from a merchant"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבָל בְּלוֹקֵחַ מִבַּעַל הַבַּיִת – חַיָּיב לְהַחְזִיר.",
+          "english": "but in the case of one who purchases produce from a single owner, he is obligated to return the coins to the seller."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּלוֹקֵחַ מִן הַתַּגָּר, אֲבָל בְּלוֹקֵחַ מִבַּעַל הַבַּיִת – חַיָּב לְהַחֲזִיר. וְכֵן תָּנֵי תַנָּא קַמֵּיהּ דְּרַב נַחְמָן:",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:1:1",
+            "hebrew": "בלוקח מן התגר - שאף הוא לקח תבואה זו מאנשים הרבה ולא ידיע דמאן נינהו וכיון דלית בהו סימן נתייאשו הבעלים:",
+            "english": "",
+            "takeaway": "רש״י explains that the distinction applies to a תגר who purchased produce from many different people and mixed it together, so the original owners have ייאוש because the coins lack a סימן."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:1:1",
+            "hebrew": "בלוקח מן התגר - פרש\"י שלקח מאנשים הרבה ועירב פירות יחד ואינו יודע של מי הן ובאין בו סימן מיירי וא\"ת אמאי לא מוקי בלוקח שהוא תגר וי\"ל דלא פסיקא ליה דאם מצא קודם ששהא כדי לערבו בפירות אחרים חייב להחזיר אבל בלוקח מן התגר כבר עירב התגר ועי\"ל בלא טעם דמערב עם שאר הפירות לא שנו אלא בלוקח מן התגר שאינו יודע למי להחזיר או לתגר או לבעה\"ב אפי' אם אינו הוה ליפול בתבואה כ\"א בשעת דישה ואין להסתפק בתגר מ\"מ אינו יודע מאיזה בעל הבית קנה התגר ולזה הפי' הו\"מ למימר בלוקח שהוא תגר ומתייאש בעל הבית שסבר שכבר מכר התגר ואין הקונה יודע למי יחזיר אלא כמו כן משום דלא פסיקא ליה דאם התגר מצאה קודם ששהה כדי למכור לאחר לא נתייאש בעה\"ב וחייב להחזיר:",
+            "english": "",
+            "takeaway": "תוספות explains that רש״י's reading of 'לוקח מן התגר' (buying from a merchant) is necessary because if the buyer himself were the merchant, the original owner might not have ייאוש if the merchant found the coin before mixing it with other produce or before selling it."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות clarifies רש״י's distinction by showing that the status of the buyer as a תגר is crucial for establishing the original owner's ייאוש, which would not necessarily apply if the buyer were a regular person who happened to mix produce."
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "רַב נַחְמָן challenges the בְּרֵיתָא: Does the homeowner thresh the grain himself?",
+      "stepSummary": "רב נחמן objects to the ברייתa's distinction, asking how the homeowner could possibly be the sole source of the coins if he doesn't thresh the grain himself.",
+      "whatsHappening": "רַב נַחְמָן raises a practical difficulty against the תַּנָּא's statement. He questions the assumption that coins found in produce from a homeowner must belong to the homeowner.",
+      "deeperAnalysis": "The challenge is based on the reality of agricultural work. If the homeowner hires workers to thresh the grain, the coins found could belong to the workers, not the homeowner. Therefore, the distinction between a תַּגָּר and a בַּעַל הַבַּיִת collapses, because in both cases, the coins could belong to a third party (the workers). This attacks the foundational premise of the בְּרֵיתָא.",
+      "keyTerms": [
+        {
+          "term": "בַּעַל הַבַּיִת בְּעַצְמוֹ דָּשָׁן",
+          "meaning": "The homeowner threshes by himself"
+        },
+        {
+          "term": "וְכִי",
+          "meaning": "But does...? (rhetorical challenge)"
+        },
+        {
+          "term": "קוּשְׁיָא",
+          "meaning": "Challenge / difficulty"
+        }
+      ],
+      "whatToRemember": "The core of the קוּשְׁיָא is: וְכִי בַּעַל הַבַּיִת בְּעַצְמוֹ דָּשָׁן? (Does the homeowner thresh by himself?)",
+      "confusionAlert": "This is a קוּשְׁיָא because it attacks the validity of the distinction made in the בְּרֵיתָא. It's not just asking for information; it's pointing out a logical flaw in the source.",
+      "whyThisMatters": "This challenge forces a re-evaluation of how we understand the term בַּעַל הַבַּיִת in the context of lost coins.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ רַב נַחְמָן:",
+          "english": "Rav Naḥman said to the tanna:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְכִי בַּעַל הַבַּיִת בְּעַצְמוֹ דָּשָׁן?",
+          "english": "But does the owner thresh the grain himself?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲמַר לֵיהּ: אֶיסְמְיַהּ?",
+          "english": "His workers thresh the grain, and the coins could belong to one of them."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲמַר לֵיהּ: לָא,",
+          "english": "The tanna said to Rav Naḥman: Based on the difficulty you raise, should I delete it from the collection of authoritative baraitot?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תִּתַּרְגַּם מַתְנִיתִין כְּגוֹן שֶׁדָּשָׁן עַל יְדֵי",
+          "english": "Rav Naḥman said to the tanna: No."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "עַבְדּוֹ וְשִׁפְחָתוֹ הַכְּנַעֲנִים.",
+          "english": "Interpret the baraita as referring to a case where the grain was threshed by his Canaanite slave or maidservant, and therefore any coins found intermingled with the produce belong to the owner."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ רַב נַחְמָן: וְכִי בַעַל הַבַּיִת בְּעַצְמוֹ דָּשָׁן?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        1
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:2:1",
+            "hebrew": "דשן - וכי הוא עצמו דש את התבואה הזאת הלא פועלים הרבה דשו אותה:",
+            "english": "",
+            "takeaway": "רש״י explains that רב נחמן's challenge assumes the grain was threshed by many workers, not the homeowner himself, which undermines the assumption that coins found there belong to the homeowner."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:2:2",
+            "hebrew": "איסמייה - אסיר ברייתא זו מגרסתי:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the term איסמייה means the ברייתא is not accepted in his version of the text."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:2:3",
+            "hebrew": "אמר ליה לא תסמי תתרגם מתנית'. כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the response 'לא' means the Mishnah should be interpreted as referring to a case where the homeowner used his Canaanite slave and maidservant to thresh the grain."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The מִשְׁנָה's Derivation from שִׂמְלָה",
+      "stepSummary": "The Mishnah explains that the mention of a garment (שִׂמְלָה) in the Torah is to teach that items with distinguishing marks (סִימָנִין) and claimants (תּוֹבְעִין) must be proclaimed.",
+      "whatsHappening": "The sugya opens with the מִשְׁנָה text, establishing the baseline הֲלָכָה derivation from the verse about lost items.",
+      "deeperAnalysis": "The מִשְׁנָה uses a קוּלָא וּפְרָט structure. The garment is included in the generalization of all lost items but is singled out to teach a specific rule: the requirement for סִימָנִין and תּוֹבְעִין applies to all items, derived by analogy (הֲקָשָׁה) to the garment.",
+      "keyTerms": [
+        {
+          "term": "שִׂמְלָה",
+          "meaning": "Garment"
+        },
+        {
+          "term": "סִימָנִין",
+          "meaning": "Distinguishing marks"
+        },
+        {
+          "term": "תּוֹבְעִין",
+          "meaning": "Claimants"
+        },
+        {
+          "term": "הֲקָשָׁה",
+          "meaning": "Analogy"
+        },
+        {
+          "term": "קוּלָא וּפְרָט",
+          "meaning": "Generalization and specification"
+        }
+      ],
+      "whatToRemember": "The מִשְׁנָה establishes that the requirement for סִימָנִין is derived from the specific mention of שִׂמְלָה.",
+      "confusionAlert": "Note that the מִשְׁנָה itself is the source of the requirement for סִימָנִין; the גְּמָרָא will question the necessity of other terms in the verse.",
+      "whyThisMatters": "This sets the stage for the גְּמָרָא's analysis of the biblical text's redundancy.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ אַף הַשִּׂמְלָה הָיְתָה בִּכְלַל כׇּל אֵלּוּ,",
+          "english": "The garment was also included in the generalization that one must return all of these items."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְלָמָּה יָצָאת? לְהַקִּישׁ אֵלֶיהָ,",
+          "english": "And why did it emerge from the generalization that it should be specified?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לוֹמַר לְךָ: מָה שִׂמְלָה מְיוּחֶדֶת,",
+          "english": "To draw an analogy to it and to say to you: What is notable about a garment?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁיֵּשׁ בָּהּ סִימָנִין וְיֵשׁ לָהּ תּוֹבְעִין,",
+          "english": "It is notable in that there are distinguishing marks concerning it and it has claimants asserting ownership,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף כׇּל דָּבָר שֶׁיֵּשׁ בּוֹ סִימָנִין",
+          "english": "So too with regard to any item concerning which there are distinguishing marks"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְיֵשׁ לוֹ תּוֹבְעִים חַיָּיב לְהַכְרִיז.",
+          "english": "and it has claimants asserting ownership, its finder is obligated to proclaim his find."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ אַף הַשִּׂמְלָה",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:3:2",
+            "hebrew": "למה יצאתה - וכן תעשה לשמלתו: סתם שמלה יש בה סימן וכל שמלה יש לה בעלים תובעין אותה שלא נעשית אלא בידי אדם ולא באת מן ההפקר:",
+            "english": "",
+            "takeaway": "רש״י explains that the garment is singled out because it inherently possesses סימנים and has תובעים, since garments are made by humans and not found as הפקר, thereby teaching that these criteria apply to all lost items."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:3:3",
+            "hebrew": "אף כל שיש לו תובעין - למעוטי מידי דידעינן ביה דמיאש:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the requirement of תובעים excludes items where we know the owner has already יאש."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:3:1",
+            "hebrew": "מה שמלה מיוחדת שיש לה סימני' ויש לה תובעין - במרובה (ב\"ק דף סו. ושם ד\"ה מוצא) אמרינן בגניבה ילפינן יאוש מאבידה וא\"ת ואבידה גופה מנלן וי\"ל דמהכא נפקא לן דמה שמלה מיוחדת שיש בה סימן ואין הבעלים מתייאשין אלא תובעין שיחזירוה להם בסימנין אפי' אי סימנין לאו דאורייתא ואין מחזירין אלא בעדים מ\"מ ילפינן משמלה דדווקא דבר שיש בו סימן חייב להחזיר דע\"י שיש בו סימן ימצא עדים שיאמר להם מכירים אתם שמלה שלי שהיו בה סימנין כך וכך וגם המוצא לא יוציא השמלה להראותה לכל אדם אלא למי שיתן בה סימנים אע\"פ שאינו מחזירה לו בכך מ\"מ דומה שהיא שלו ומראה אותה לעדים אבל דברים שאין בהן סימן הוי שלו לפי שהבעלים נתייאשו והא דקאמר בגמרא סימנין כדי נסבה אע\"ג דצריך הסימנין דע\"י זה יש לה תובעין מ\"מ כדי נסבה דאפילו אי לא תני אלא שיש לה תובעין מ\"מ ידעינן דע\"י סימנין יש לה תובעין ואין הבעלים מתייאשים כדפרישית ומיהו בירושלמי יליף מניין ליאוש מן התורה אמר רבי יוחנן אשר תאבד ממנו מי שאבודה ממנו ומצויה אצל כל אדם יצאה זו כו':",
+            "english": "",
+            "takeaway": "תוספות explains that the derivation from the garment teaches that items with סימנים do not undergo יאוש, because the סימנים enable the owner to find עדים to verify the claim, and the finder can show the item to those עדים without returning it to the claimant, thus proving ownership even if סימנים are not biblically mandated for return."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "שאלה",
+      "title": "What is the Generalization?",
+      "stepSummary": "The Gemara asks what generalization (כְּלָל) the Mishnah refers to when it says the garment was included in 'all these'.",
+      "whatsHappening": "The גְּמָרָא seeks clarification on the מִשְׁנָה's terminology regarding the inclusion of the garment.",
+      "deeperAnalysis": "The מִשְׁנָה states the garment was included in 'all these' (כָּל אֵלּוּ). The גְּמָרָא asks for the specific biblical verse that serves as this generalization. רַבָּא answers that it is the verse 'כָּל אֲבֵדַת אָחִיךָ'.",
+      "keyTerms": [
+        {
+          "term": "כְּלָל",
+          "meaning": "Generalization"
+        },
+        {
+          "term": "כָּל אֲבֵדַת אָחִיךָ",
+          "meaning": "All lost items of your brother"
+        },
+        {
+          "term": "רַבָּא",
+          "meaning": "Rava"
+        }
+      ],
+      "whatToRemember": "The generalization is the verse 'כָּל אֲבֵדַת אָחִיךָ'.",
+      "confusionAlert": "This is a simple clarification question, not a challenge.",
+      "whyThisMatters": "It establishes the biblical framework for the subsequent analysis.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ מַאי ״בִּכְלַל כׇּל אֵלּוּ״?",
+          "english": "GEMARA: When the mishna says that the garment was included in the generalization that one must return all of these items, in what generalization is it included?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר רָבָא: בִּכְלַל ״כׇּל אֲבֵדַת אָחִיךָ״.",
+          "english": "Rava said: It is included in the generalization: “And so shall you do with his donkey; and so shall you do with his garment; and so shall you do with every lost item of your brother, which shall be lost from him, and you have found it; you may not disregard it” (Deuteronomy 22:3)."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי ״בִּכְלַל כׇּל אֵלּוּ״?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        4
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Why All the Specific Items?",
+      "stepSummary": "Rava challenges the necessity of listing ox, donkey, sheep, and garment in the Torah, suggesting one should suffice.",
+      "whatsHappening": "רַבָּא raises a redundancy objection against the biblical text, questioning why multiple specific items are listed.",
+      "deeperAnalysis": "This is a classic 'לָמָּה לִי' question. רַבָּא argues that if the תּוֹרָה wanted to teach the laws of lost items, it could have listed just one item and derived the rest. The listing of שׁוֹר, חֲמוֹר, שֶׂה, and שִׂמְלָה seems redundant.",
+      "keyTerms": [
+        {
+          "term": "לָמָּה לִי",
+          "meaning": "Why do I need"
+        },
+        {
+          "term": "שׁוֹר",
+          "meaning": "Ox"
+        },
+        {
+          "term": "חֲמוֹר",
+          "meaning": "Donkey"
+        },
+        {
+          "term": "שֶׂה",
+          "meaning": "Sheep"
+        }
+      ],
+      "whatToRemember": "רַבָּא questions the redundancy of the biblical list.",
+      "confusionAlert": "This is a קוּשְׁיָא against the biblical text's wording, not a שְׁאֵלָה.",
+      "whyThisMatters": "It sets up the גְּמָרָא's analysis of the unique הֲלָכָה derivations from each term.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: לְמָה לִי דִּכְתַב רַחֲמָנָא ״שׁוֹר״,",
+          "english": "Rava says: Why do I need all the specific items that the Merciful One writes that one must return:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״חֲמוֹר״, ״שֶׂה״ וְ״שִׂמְלָה״?",
+          "english": "An ox, a donkey, a sheep, and a garment?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: לְמָה לִי דִּכְתַב רַחֲמָנָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        5
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:5:1",
+            "hebrew": "גמ' שור וחמור שה ושמלה - לא תראה את שור אחיך או שיו וכן תעשה לחמורו וכן תעשה לשמלתו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Torah lists שׁוֹר, חֲמוֹר, שֶׂה, and שִׂמְלָה by explicitly repeating the commandment for each item, which is the textual basis for רבא's question about redundancy."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "The Necessity of the Donkey",
+      "stepSummary": "Rava explains that each item is necessary to teach unique laws, starting with the donkey teaching that marks on the saddle suffice.",
+      "whatsHappening": "רַבָּא resolves the redundancy by showing that each term teaches a specific הֲלָכָה detail that cannot be derived from the others.",
+      "deeperAnalysis": "רַבָּא argues that if only שִׂמְלָה were written, one might think that only marks on the item itself (סִימָנִין דְּגוּפָהּ) count. The mention of חֲמוֹר teaches that even marks on the saddle (סִימָנִין דְּאוּכָּפָּא) are valid for identification.",
+      "keyTerms": [
+        {
+          "term": "סִימָנִין דְּגוּפָהּ",
+          "meaning": "Marks on the item itself"
+        },
+        {
+          "term": "סִימָנִין דְּאוּכָּפָּא",
+          "meaning": "Marks on the saddle"
+        },
+        {
+          "term": "תֵּרוּץ",
+          "meaning": "Resolution / answer"
+        }
+      ],
+      "whatToRemember": "The donkey teaches that marks on accessories (like a saddle) are valid.",
+      "confusionAlert": "This is a תֵּרוּץ resolving the קוּשְׁיָא of redundancy.",
+      "whyThisMatters": "It establishes the principle that each biblical term has a unique הֲלָכָה contribution.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא שִׂמְלָה, הֲוָה אָמֵינָא:",
+          "english": "They are all necessary, as a unique halakha is derived from each example. As, if the Merciful One had written only “garment,” I would say:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָנֵי מִילֵּי בְּעֵדִים דְּגוּפַהּ וְסִימָנִין דְּגוּפַהּ.",
+          "english": "This matter, i.e., the mitzva to return a lost item, applies only in a case where the owner brings witnesses capable of testifying about the item itself or he describes distinguishing marks concerning the item itself;"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲבָל חֲמוֹר בְּעֵדִים דְּאוּכָּף וְסִימָנִין דְּאוּכָּף,",
+          "english": "but with regard to returning a donkey to its owner in a case where he brings witnesses with regard to the saddle or describes distinguishing marks concerning the saddle and not on the donkey,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֵימָא לָא מַהְדְּרִינַן לֵיהּ,",
+          "english": "say that we do not return the donkey to the owner."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כְּתַב רַחֲמָנָא ״חֲמוֹר״ דַּאֲפִילּוּ חֲמוֹר בְּסִימָנֵי הָאוּכָּף.",
+          "english": "To counter this, the Merciful One writes: “Donkey,” from which it is derived that a donkey is returned to its owner even in a case where he describes distinguishing marks on the saddle."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "צְרִיכִי, דְּאִי כְּתַב רַחֲמָנָא שִׂמְלָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        6
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:6:1",
+            "hebrew": "בסימני אוכף - אם אין לו סימן בחמור ויש לו סימן באוכף שעליו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's phrase סִימָנִין דְּאוּכָּפָּא refers to a scenario where the donkey itself lacks identifying marks, but the saddle upon it does."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:6:2",
+            "hebrew": "כתב רחמנא חמור - קרא יתירא לדרשה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Torah's mention of חֲמוֹר is a קָרָא יְתֵירָה used for דְּרָשָׁה to teach this specific halakhic detail."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:6:1",
+            "hebrew": "בעדי אוכף - פי' אי סימנין לאו דאורייתא:",
+            "english": "",
+            "takeaway": "תוספות clarifies that the Gemara's mention of עֵדִים דְּאוּכָּפָּא is addressing the case where the marks are not דְּאוֹרַיְתָא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Why Ox and Sheep?",
+      "stepSummary": "The Gemara challenges the necessity of listing both ox and sheep, suggesting one should suffice to teach about sheared wool.",
+      "whatsHappening": "The גְּמָרָא raises a new redundancy objection against the listing of ox and sheep.",
+      "deeperAnalysis": "רַבָּא had explained that שׁוֹר teaches about the sheared tail wool and שֶׂה teaches about sheared wool. The גְּמָרָא argues that if שׁוֹר teaches about the less significant tail wool, it should logically include the more significant sheep wool by a קַל וָחוֹמֶר. Why list שֶׂה separately?",
+      "keyTerms": [
+        {
+          "term": "גִּזַּת זְנָבוֹ",
+          "meaning": "Sheared tail wool"
+        },
+        {
+          "term": "גִּזּוֹתָיו",
+          "meaning": "Sheared wool"
+        },
+        {
+          "term": "קַל וָחוֹמֶר",
+          "meaning": "A fortiori argument"
+        }
+      ],
+      "whatToRemember": "The גְּמָרָא questions the redundancy of listing both ox and sheep.",
+      "confusionAlert": "This is a קוּשְׁיָא against רַבָּא's previous explanation.",
+      "whyThisMatters": "It forces רַבָּא to refine his explanation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "״שׁוֹר״ וָ״שֶׂה״, דִּכְתַב רַחֲמָנָא לְמָה לִי?",
+          "english": "With regard to the specific mentions of “ox” and “sheep” that the Merciful One writes, why do I need them?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״שׁוֹר״ – דַּאֲפִילּוּ לְגִיזַּת זְנָבוֹ, וְ״שֶׂה״ – לְגִיזּוֹתָיו.",
+          "english": "From “ox” it is derived that one must return even the sheared wool of its tail; and from “sheep” it is derived that one must return even its sheared wool."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְלִכְתּוֹב רַחֲמָנָא ״שׁוֹר״,",
+          "english": "And let the Merciful One write only “ox,”"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דַּאֲפִילּוּ לְגִיזַּת זְנָבוֹ,",
+          "english": "from which it is derived that one must return even the sheared wool of its tail,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְכׇל שֶׁכֵּן ״שֶׂה״ לְגִיזּוֹתָיו!",
+          "english": "and derive all the more so that one must return the more substantial sheared wool of a sheep."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "״שׁוֹר״ וָ״שֶׂה״, דִּכְתַב רַחֲמָנָא לְמָה לִי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        7
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:7:1",
+            "hebrew": "לגיזת זנבו - שאפי' שער שבסוף הזנב יחזיר:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse teaches the obligation to return even the hair at the very tip of the tail, which is considered insignificant."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:7:1",
+            "hebrew": "לגיזת זנבו - וא\"ת אם יש בה שוה פרוטה פשיטא ואם אין בה שוה פרוטה הא ממעטינן לקמן מהשבה וי\"ל דאצטריך שחייב לגוזזה בעתה אע\"פ שאין בה שוה פרוטה בשעה שגזזה:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that if the tail hair is worth a פרוטה it is obvious, and if not it is excluded by the exclusion from השבה, and answers that the verse is needed to obligate shearing it at the proper time even if it is not worth a פרוטה at the moment of shearing."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's Admission of Difficulty",
+      "stepSummary": "Rava admits that the listing of donkey and sheep is difficult to explain according to his previous reasoning.",
+      "whatsHappening": "רַבָּא concedes that his initial explanation does not fully account for the necessity of all terms.",
+      "deeperAnalysis": "רַבָּא acknowledges that the term חֲמוֹר is needed for a different הֲלָכָה context (damage in a pit according to רַבִּי יְהוּדָה), and שֶׂה is needed for lost items according to all opinions. However, he admits that this creates a difficulty in explaining why both are listed in the context of lost items.",
+      "keyTerms": [
+        {
+          "term": "בּוֹר",
+          "meaning": "Pit"
+        },
+        {
+          "term": "רַבִּי יְהוּדָה",
+          "meaning": "רַבִּי יְהוּדָה"
+        },
+        {
+          "term": "קוּשְׁיָא",
+          "meaning": "Difficulty / challenge"
+        }
+      ],
+      "whatToRemember": "רַבָּא admits that the listing of donkey and sheep is difficult to explain.",
+      "confusionAlert": "This is a תֵּרוּץ that admits difficulty, setting up a new line of reasoning.",
+      "whyThisMatters": "It shows the גְּמָרָא's willingness to refine its explanations.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רָבָא:",
+          "english": "Rather, Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״חֲמוֹר״ דְּבוֹר לְרַבִּי יְהוּדָה,",
+          "english": "The term “donkey” stated with regard to damage in the category of Pit, according to the opinion of Rabbi Yehuda"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְ״שֶׂה״ דַאֲבֵידָה –",
+          "english": "and the term “sheep” stated with regard to a lost item,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לְדִבְרֵי הַכֹּל קַשְׁיָא.",
+          "english": "according to the opinion of everyone, are difficult."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא אָמַר רָבָא: ״חֲמוֹר״ דְּבוֹר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        8
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:8:1",
+            "hebrew": "חמור דבור לרבי יהודה - דמחייב על נזקי כלים בבור קשיא לן למאי אתא דאילו לרבנן מבעי להו שור ולא אדם חמור ולא כלים:",
+            "english": "",
+            "takeaway": "רש״י explains that the term חֲמוֹר is cited in the context of בור according to רַבִּי יְהוּדָה, who holds that one is liable for damage to vessels in a pit, and the difficulty is why this term is needed here when according to רַבָּנִים, שׁוֹר is required for animals and not אָדָם, and חֲמוֹר is not required for vessels."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:8:1",
+            "hebrew": "חמור דבור לרבי יהודה - הא דלא קאמר גם לב\"ה קשה דלא חשיב אלא בהמות:",
+            "english": "",
+            "takeaway": "תוספות questions why the Gemara does not simply state that the difficulty applies also to בֵּית הַדִּין, since they only enumerate animals."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:8:2",
+            "hebrew": "ושה דאבידה לדברי הכל קשיא - מקשינן ונימא מלתא דאתיא בק\"ו טרח וכתב לה קרא ותירץ הר\"י כהן דכיון דנכתב שור לגיזת זנבו הוי גיזת שה בכלל כל אבידת אחיך:",
+            "english": "",
+            "takeaway": "תוספות cites רַבִּי יִצְחָק כֹּהֵן who resolves the difficulty by explaining that since שׁוֹר was written for the case of its tail being sheared, the shearing of a שֶׂה is included in the general category of אֲבִידַת אָחִיךָ."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "שאלה",
+      "title": "Perhaps שֶׂה Teaches About Dung?",
+      "stepSummary": "The Gemara suggests that the term sheep might be needed to teach about returning dung.",
+      "whatsHappening": "The גמרא asks if שֶׂה is needed to teach that one must return the animal's dung. It immediately rejects this because the owner has renounced ownership of dung.",
+      "deeperAnalysis": "The גמרא considers if שֶׂה teaches about returning dung. It rejects this because the owner has renounced ownership of dung, so there is no obligation to return it.",
+      "keyTerms": [
+        {
+          "term": "גְּלָלִים",
+          "meaning": "dung"
+        },
+        {
+          "term": "אַפְקוֹרֵי מַפְקַר לְהוּ",
+          "meaning": "the owner has renounced ownership"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאֵימָא לִגְלָלִים הוּא דַּאֲתָא?",
+          "english": "And say that the term “sheep” comes to teach the obligation to return the animal’s dung?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "גְּלָלִים – אַפְקוֹרֵי מַפְקַר לְהוּ.",
+          "english": "One need not return dung, because the owner has renounced its ownership."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְדִילְמָא לְסִימָנִין הוּא דַּאֲתָא, דְּאִיבַּעְיָא לַן:",
+          "english": "And perhaps the term “sheep” comes to teach the obligation to return an item based on its owner providing distinguishing marks, as we raised a dilemma:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "סִימָנִין דְּאוֹרָיְיתָא אוֹ דְרַבָּנַן.",
+          "english": "Is the halakha that an item can be identified using distinguishing marks by Torah law or is it by rabbinic law?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כְּתַב רַחֲמָנָא ״שֶׂה״, דַּאֲפִילּוּ בְּסִימָנִין מַהְדְּרִינַן, וְסִימָנִין דְּאוֹרָיְיתָא.",
+          "english": "Therefore, the Merciful One writes: “Sheep” in order to teach that it is not only through the testimony of witnesses, but even based on distinguishing marks that we return lost items to their owner. Resolve the dilemma and conclude that the halakha that an item can be identified using distinguishing marks is by Torah law."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאֵימָא לִגְלָלִים הוּא דַּאֲתָא?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        9
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_current_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:9:1",
+            "hebrew": "לגללים - להחזיר את גלליו דאי כתב שור הוה אמינא כי אתא לגיזת זנבו אתא אבל גללים לא חשיבי ולא ליהדר כתב רחמנא קרא יתירא לאתויי גללים:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's suggestion that שֶׂה teaches about returning גְּלָלִים is based on the assumption that if only שׁוֹר were written, one might think only valuable parts like wool or tail are included, but not dung, which is not considered significant enough to require return."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:9:2",
+            "hebrew": "אפקורי מפקר להו - למי שטרח בו ולא אתא קרא לרבויינהו דאין לו תובעין הוא:",
+            "english": "",
+            "takeaway": "רש״י clarifies that אַפְקוֹרֵי מַפְקַר לְהוּ means the owner has renounced ownership of the dung, so there is no claimant to demand its return, making the verse unnecessary for this purpose."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:9:3",
+            "hebrew": "לסימנין אתא - לאשמועינן דליהדריה בסימנין בלא עדים דקמיבעי' לן לקמן סימנין דאורייתא או דרבנן ובעינן למפשט ממתניתין דיליף להו משמלה ודחינן ואמר תנא תובעין אצטריכא ליה סימנין כדי נסבה נפשוט מקרא יתירא דשה לסימנין אתא וסימנין דאורייתא:",
+            "english": "",
+            "takeaway": "רש״י explains that the alternative suggestion that שֶׂה teaches about returning an animal based on סִימָנִין without witnesses is needed because the status of סִימָנִין (whether דְּאוֹרַיְתָא or דְּרַבָּנָן) is a pending question that the Gemara will later attempt to resolve from this verse."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "דחיה",
+      "title": "Rejection of the Proof from שֶׂה",
+      "stepSummary": "The Sages reject the proof that sheep teaches about marks, arguing that the Mishnah already derives this from the garment.",
+      "whatsHappening": "The סוברים challenge the גמרא's suggestion that שֶׂה is needed to teach about marks. They argue that the משנה already derives the requirement for סִימָנִין from the garment through a הֲקָשָׁה.",
+      "deeperAnalysis": "The סוברים argue that the משנה already derives the requirement for סִימָנִין from the garment. Therefore, there is no need to derive it from שֶׂה. This rejects the previous תירוץ.",
+      "keyTerms": [
+        {
+          "term": "הֲקָשָׁה",
+          "meaning": "analogy"
+        },
+        {
+          "term": "שִׂמְלָה",
+          "meaning": "garment"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרִי: מִדְּקָתָנֵי לְהוּ תַּנָּא,",
+          "english": "The Gemara rejects this proof. The Sages say: One can understand the matter from the fact that the tanna teaches"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְסִימָנִין גַּבֵּי שִׂמְלָה, דְּקָתָנֵי:",
+          "english": "the concept of distinguishing marks together with the term garment."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מָה שִׂמְלָה מְיוּחֶדֶת שֶׁיֵּשׁ בָּהּ סִימָנִין",
+          "english": "As it is taught in the mishna: What is notable about a garment?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְיֵשׁ לָהּ תּוֹבְעִין – חַיָּיב לְהַכְרִיז,",
+          "english": "It is notable in that there are distinguishing marks concerning it and it has claimants asserting ownership, and its finder is obligated to proclaim his find."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אַף כׇּל דָּבָר שֶׁיֵּשׁ בּוֹ סִימָנִין",
+          "english": "So too with regard to any item concerning which there are distinguishing marks"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְיֵשׁ לוֹ תּוֹבְעִין – חַיָּיב לְהַכְרִיז.",
+          "english": "and it has claimants asserting ownership, its finder is obligated to proclaim his find."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שְׁמַע מִינַּהּ דְּ״שֶׂה״ לָאו לְסִימָנִין הוּא דַּאֲתָא.",
+          "english": "Conclude from it that the term “sheep” does not come to teach the obligation to return an item based on its owner providing distinguishing marks."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמְרִי: מִדְּקָתָנֵי לְהוּ תַּנָּא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        11
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects_previous",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:10:1",
+            "hebrew": "אמרי מדנקט תנא - במתני' למילף סימנין משמלה בהדי תובעין פשיטא ליה דשה למלתא אחריתי אתא ואנן הוא דלא ידעינן משום הכי לא פשיטא ליה לקמן סימנין משה הלכך קשיא לן למאי אתא:",
+            "english": "",
+            "takeaway": "רש״י explains that the תנא's choice to derive the requirement of סִימָנִין from שִׂמְלָה in the presence of תּוֹבְעִין demonstrates that שֶׂה must be teaching a different halakhic point, which is why the Gemara later questions what שֶׂה is needed for."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "The ברייתא: Exclusion of items worth less than a פרוטה",
+      "stepSummary": "A baraita presents a dispute between the Sages and Rabbi Yehuda regarding which verse excludes a lost item worth less than a prutah from the obligation to return.",
+      "whatsHappening": "The סוגיא opens with a ברייתא stating the dispute between the סוברים and רבי יהודה on the source for the minimum value of a lost item. The סוברים derive the exclusion from 'asher tavad', while רבי יהודה derives it from 'umetzatah'.",
+      "deeperAnalysis": "The סוברים derive the exclusion of items worth less than a פרוטה from 'asher tavad'. רבי יהודה derives it from 'umetzatah'. Both agree on the הלכה but disagree on the textual source.",
+      "keyTerms": [
+        {
+          "term": "אֲבֵידָה",
+          "meaning": "lost item"
+        },
+        {
+          "term": "שָׁוֶה פְּרוּטָה",
+          "meaning": "worth a prutah"
+        },
+        {
+          "term": "פְּרָט",
+          "meaning": "excludes"
+        }
+      ],
+      "whatToRemember": "The dispute is purely about the source for the same הלכה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: ״אֲשֶׁר תֹּאבַד״ –",
+          "english": "The Sages taught in a baraita: The verse states: “And so shall you do with his donkey; and so shall you do with his garment; and so shall you do with every lost item of your brother, which shall be lost from him, and you have found it” (Deuteronomy 22:3). The Rabbis derive that this phrase serves to exclude a lost item in which there is not the value of one peruta, which due to its negligible value is not considered lost."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "פְּרָט לַאֲבֵידָה שֶׁאֵין בָּהּ שָׁוֶה פְּרוּטָה.",
+          "english": "Rabbi Yehuda says that this halakha is derived from the conclusion of that verse: “Which shall be lost from him, and you have found it.” The term “and you have found it” serves to exclude a lost item in which there is not the value of one peruta."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: ״וּמְצָאתָהּ״ –",
+          "english": "Rabbi Yehuda says that this halakha is derived from the conclusion of that verse: “Which shall be lost from him, and you have found it.” The term “and you have found it” serves to exclude a lost item in which there is not the value of one peruta."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "פְּרָט לַאֲבֵידָה שֶׁאֵין בָּהּ שָׁוֶה פְּרוּטָה.",
+          "english": "Rabbi Yehuda says that this halakha is derived from the conclusion of that verse: “Which shall be lost from him, and you have found it.” The term “and you have found it” serves to exclude a lost item in which there is not the value of one peruta."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנָן: ״אֲשֶׁר תֹּאבַד״ – פְּרָט לַאֲבֵידָה שֶׁאֵין בָּהּ שָׁוֶה פְּרוּטָה. רַבִּי יְהוּדָה אוֹמֵר: ״וּמְצָאתָהּ״ – פְּרָט לַאֲבֵידָה שֶׁאֵין בָּהּ שָׁוֶה פְּרוּטָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:11:1",
+            "hebrew": "אשר תאבד - שתהא קרויה אבידה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase אשר תאבד implies the item must be significant enough to be called an אבידה, excluding items worth less than a פרוטה."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:11:2",
+            "hebrew": "ומצאתה - שתהא קרויה מציאה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase ומצאתה implies the item must be significant enough to be called a מציאה, excluding items worth less than a פרוטה."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 27a:11:1",
+            "hebrew": "פרט לשאין בו שוה פרוטה - דס\"ד דחייב מכלל כל אבידת אחיך:",
+            "english": "",
+            "takeaway": "תוספות explains that the exclusion of items worth less than a פרוטה is necessary because one might have thought the obligation applies to all lost items based on the general phrase כל אבידת אחיך."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "שאלה",
+      "title": "What is the practical difference?",
+      "stepSummary": "The Gemara asks what practical difference exists between the two opinions since they agree on the halakha.",
+      "whatsHappening": "The גמרא asks a standard question: if both agree on the הלכה, what is the practical difference? אביי answers that there is no practical difference in the basic הלכה, but there is a difference in the interpretation of the verses.",
+      "deeperAnalysis": "אביי answers that there is no practical difference in the basic הלכה. However, there is a difference in the interpretation of the verses. One derives from 'asher tavad' and the other from 'umetzatah'.",
+      "keyTerms": [
+        {
+          "term": "מַאי בֵּינַיְיִהוּ",
+          "meaning": "what is the difference between them"
+        },
+        {
+          "term": "מַשְׁמָעוּת דּוֹרְשִׁין",
+          "meaning": "interpretation of the verses"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי בֵּינַיְיהוּ? אָמַר אַבָּיֵי: מַשְׁמָעוּת דּוֹרְשִׁין אִיכָּא בֵּינַיְיהוּ.",
+          "english": "What is the practical difference between the two opinions? Abaye said: There is no practical difference. Rather, the interpretation of the meaning of the verse is the difference between them."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָר נָפְקָא לֵיהּ מֵ״אֲשֶׁר תֹּאבַד״ וּמָר",
+          "english": "One Sage, the Rabbis, derives it from the phrase: “Which shall be lost from him”; and one Sage, Rabbi Yehuda, derives it from the term:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "נָפְקָא לֵיהּ מִ״וּמְצָאתָהּ״.",
+          "english": "“And you have found it.”"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַאי בֵּינַיְיִהוּ? אָמַר אַבָּיֵי: מַשְׁמָעוּת דּוֹרְשִׁין אִיכָא בֵּינַיְיִהוּ. מָר נָפְקָא לֵיהּ מֵ״אֲשֶׁר תֹּאבַד״ וּמָר נָפְקָא לֵיהּ מִ״וּמְצָאתָהּ״.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        13
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "שאלה",
+      "title": "What does the other verse teach?",
+      "stepSummary": "The Gemara asks what the verse not used for the prutah exclusion teaches according to each side.",
+      "whatsHappening": "The גמרא asks: according to the one who derives the פרוטה exclusion from 'asher tavad', what does 'umetzatah' teach? This is a standard question in סוגיא: if one verse teaches X, what does the other verse teach?",
+      "deeperAnalysis": "The גמרא seeks to find a practical difference by assigning different teachings to the verses. It asks what 'umetzatah' teaches according to the one who derives the פרוטה exclusion from 'asher tavad'.",
+      "keyTerms": [
+        {
+          "term": "מַאי עָבֵיד לֵיהּ",
+          "meaning": "what does he do with it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּנָפְקָא לֵיהּ מֵ״אֲשֶׁר תֹּאבַד״ הַאי",
+          "english": "And according to the first Sage, the Rabbis, who derives the halakha that one need not return a lost item worth less than one peruta from the phrase “which shall be lost from him,”"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״וּמְצָאתָהּ״ מַאי עָבֵיד לֵיהּ?",
+          "english": "what does he do with the term: “And you have found it”?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּנָפְקָא לֵיהּ מֵ״אֲשֶׁר תֹּאבַד״ הַאי ״וּמְצָאתָהּ״ מַאי עָבֵיד לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        14
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "תשובה",
+      "title": "רבנאי's teaching on 'umetzatah'",
+      "stepSummary": "The Gemara answers that 'umetzatah' teaches Rabbenai's rule that the item must come into the finder's possession.",
+      "whatsHappening": "The גמרא answers that 'umetzatah' is needed for רבנאי's teaching that 'umetzatah' means it must come into his possession. רבנאי interprets 'umetzatah' as requiring actual possession.",
+      "deeperAnalysis": "רבנאי interprets 'umetzatah' as requiring actual possession. This gives a practical difference: one side requires possession, the other doesn't.",
+      "keyTerms": [
+        {
+          "term": "רַבְנַאי",
+          "meaning": "Rabbenai"
+        },
+        {
+          "term": "דַּאֲתַאי לִידֵיהּ",
+          "meaning": "that it came into his possession"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הַהוּא מִיבְּעֵי לֵיהּ לְכִדְרַבְנַאי,",
+          "english": "The Gemara answers: According to the Rabbis, that term is necessary for the derivation of the halakha in accordance with the opinion of Rabbenai."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַבְנַאי: ״וּמְצָאתָהּ״ –",
+          "english": "As Rabbenai says in interpreting the verse: “And so shall you do with every lost item of your brother’s, which he has lost, and you have found it” (Deuteronomy 22:3), that the term “and you have found it” means that it assumes the status of a found item only when it actually enters his possession."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דַּאֲתַאי לִידֵיהּ מַשְׁמַע.",
+          "english": "that it assumes the status of a found item only when it actually enters his possession."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הַהוּא מִיבְּעֵי לֵיהּ לְכִדְרַבְנַאי, דְּאָמַר רַבְנַאי: ״וּמְצָאתָהּ״ – דַּאֲתַאי לִידֵיהּ מַשְׁמַע.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        15
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:14:1",
+            "hebrew": "דאתא לידיה משמע - ואפילו הכי אחיך ולא עובד כוכבים ולמדך שאבידת כנעני מותרת ולא תימא כי אמעוט אבידת כנעני מלטרוח אחריה אמעוט אבל אי נקטה חייב לאהדורה:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'וּמְצָאתָהּ' teaches that even if the lost item belongs to a כנעני, one is exempt from the effort to return it, but if one actually took possession of it, he is obligated to return it."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "שאלה",
+      "title": "What does 'asher tavad' teach according to רבי יהודה?",
+      "stepSummary": "The Gemara asks what 'asher tavad' teaches according to Rabbi Yehuda who uses 'umetzatah' for the prutah exclusion.",
+      "whatsHappening": "The גמרא asks the reverse question: according to רבי יהודה, what does 'asher tavad' teach? This mirrors the previous question, seeking to find a practical difference by assigning a different teaching to 'asher tavad'.",
+      "deeperAnalysis": "The גמרא seeks to find a practical difference by assigning a different teaching to 'asher tavad'. It asks what 'asher tavad' teaches according to רבי יהודה.",
+      "keyTerms": [
+        {
+          "term": "מַאי עָבֵיד לֵיהּ",
+          "meaning": "what does he do with it"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּנָפְקָא לֵיהּ מִ״וּמְצָאתָהּ״,",
+          "english": "And according to Rabbi Yehuda, who derives the halakha that one need not return a lost item worth less than one peruta from the term: “And you have found it,”"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַאי ״אֲשֶׁר תֹּאבַד״ מַאי עָבֵיד לֵיהּ?",
+          "english": "what does he do with the phrase: “Which has been lost from him”?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּנָפְקָא לֵיהּ מִ״וּמְצָאתָהּ״, הַאי ״אֲשֶׁר תֹּאבַד״ מַאי עָבֵיד לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        16
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "תשובה",
+      "title": "רבי יוחנן's teaching on 'asher tavad'",
+      "stepSummary": "The Gemara answers that 'asher tavad' teaches Rabbi Yochanan's rule that an item swept away by a river is permitted to the finder.",
+      "whatsHappening": "The גמרא answers that 'asher tavad' is needed for רבי יוחנן's teaching that an item lost from the owner but not available to be found by anyone is permitted. רבי יוחנן derives from 'asher tavad' that the obligation to return applies only to items that are lost from the owner but available to be found by anyone.",
+      "deeperAnalysis": "רבי יוחנן derives from 'asher tavad' that the obligation to return applies only to items that are lost from the owner but available to be found by anyone. Items swept away by a river are excluded because they are not available to be found.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan"
+        },
+        {
+          "term": "רַבִּי שִׁמְעוֹן בֶּן יוֹחָאי",
+          "meaning": "Rabbi Shimon ben Yochai"
+        },
+        {
+          "term": "אֲבֵידָה שֶׁשָּׁטְפָהּ נָהָר",
+          "meaning": "a lost item swept away by a river"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִבְּעֵי לֵיהּ לְכִדְרַבִּי יוֹחָנָן.",
+          "english": "The Gemara answers: According to Rabbi Yehuda, that phrase is necessary for the derivation of the halakha in accordance with the opinion of Rabbi Yoḥanan."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחַאי:",
+          "english": "As Rabbi Yoḥanan says in the name of Rabbi Shimon ben Yoḥai:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִנַּיִין לַאֲבֵידָה שֶׁשְּׁטָפָהּ נָהָר שֶׁהִיא מוּתֶּרֶת? שֶׁנֶּאֱמַר:",
+          "english": "From where is it derived with regard to a lost item that the river swept away that it is permitted for its finder to keep it? It is derived from this verse, as it is written:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "״כֵּן תַּעֲשֶׂה לְכׇל אֲבֵדַת אָחִיךָ אֲשֶׁר",
+          "english": "“And so shall you do with his donkey; and so shall you do with his garment; and so shall you do with every lost item of your brother, which shall"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תֹּאבַד מִמֶּנּוּ וּמְצָאתָהּ״ –",
+          "english": "be lost from him, and you have found it” –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "מִי שֶׁאֲבוּדָה הֵימֶנּוּ וּמְצוּיָה אֵצֶל כׇּל אָדָם,",
+          "english": "The verse states that one must return that which is lost from him, the owner, but is available to be found by any person."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "יָצְתָה זוֹ שֶׁאֲבוּדָה הֵימֶנּוּ וְאֵינָהּ מְצוּיָה",
+          "english": "Excluded from that obligation is that which is lost from him and is not available to be found"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֵצֶל כׇּל אָדָם.",
+          "english": "by any person."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִבְּעֵי לֵיהּ לְכִדְרַבִּי יוֹחָנָן. דְּאָמַר רַבִּי יוֹחָנָן מִשּׁוּם רַבִּי שִׁמְעוֹן בֶּן יוֹחָאי: מִנַּיִן לַאֲבֵידָה שֶׁשָּׁטְפָהּ נָהָר שֶׁהִיא מוּתֶרֶת? שֶׁנֶּאֱמַר: ״כֵּן תַּעֲשֶׂה לְכָל אֲבֵדַת אָחִיךָ אֲשֶׁר תֹּאבַד מִמֶּנּוּ וּמְצָאתָהּ״ – מִי שֶׁאֲבוּדָה הֵימֶנּוּ וּמְצוּיָה אֵצֶל כָּל אָדָם, יָצְתָה זֹאת שֶׁאֲבוּדָה הֵימֶנּוּ וְאֵינָהּ מְצוּיָה אֵצֶל כָּל אָדָם.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        17
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:16:1",
+            "hebrew": "מי שאבודה ממנו - ואיידי דכתב ממנו כתב אשר תאבד:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse uses the phrase אשר תאבד because it already mentioned ממנו, indicating that the loss is from the owner's perspective."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "שאלה",
+      "title": "Where does רַבִּי יְהוּדָה derive רַבְנַאי's teaching?",
+      "stepSummary": "The Gemara asks where Rabbi Yehuda derives Rabbenai's teaching if he uses 'umetzatah' for the prutah exclusion.",
+      "whatsHappening": "The גמרא asks where רַבִּי יְהוּדָה derives the teaching of רַבְנַאי. This is a setup question to ensure both sides have sources for all laws.",
+      "deeperAnalysis": "The גמרא seeks a source for רַבְנַאי's teaching within רַבִּי יְהוּדָה's system. This ensures that רַבִּי יְהוּדָה can derive all necessary laws from his chosen verses.",
+      "keyTerms": [
+        {
+          "term": "וְאִידַךְ",
+          "meaning": "and the other one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִידַּךְ, הָא דְּרַבְנַאי מְנָא לֵיהּ?",
+          "english": "And the other tanna, Rabbi Yehuda, who derived from the term: “And you have found it,” that one need not return a lost item worth less than one peruta, from where does he derive the halakha of Rabbenai that the item assumes the status of a found item only when it actually comes into his possession?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נָפְקָא לֵיהּ מִ״וּמְצָאתָהּ״.",
+          "english": "The Gemara answers: Rabbi Yehuda derives it from the superfluous conjunction “and” in the term “and you have found it.”"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִידַךְ, הָא דְּרַבְנַאי מְנָא לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        18
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:17:1",
+            "hebrew": "ומצאתה - הוי\"ו יתירה משמע ומצאתה כבר:",
+            "english": "",
+            "takeaway": "רש״י explains that the extra ו in ומצאתה implies that the finding has already occurred, which is the basis for deriving Rabbenai's teaching."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "שאלה",
+      "title": "Where do the רַבָּנִים derive רַבִּי יוֹחָנָן's teaching?",
+      "stepSummary": "The Gemara asks where the Sages derive Rabbi Yochanan's teaching if they use 'asher tavad' for the prutah exclusion.",
+      "whatsHappening": "The גמרא asks where the רַבָּנִים derive the teaching of רַבִּי יוֹחָנָן. This mirrors the previous question to ensure both sides have sources for all laws.",
+      "deeperAnalysis": "The גמרא seeks a source for רַבִּי יוֹחָנָן's teaching within the רַבָּנִים's system. This ensures that the רַבָּנִים can derive all necessary laws from their chosen verses.",
+      "keyTerms": [
+        {
+          "term": "וְאִידַךְ",
+          "meaning": "and the other one"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִידַּךְ, הָא דְּרַבִּי יוֹחָנָן מְנָא לֵיהּ?",
+          "english": "And the other tanna, the first tanna, who derives from the phrase “which shall be lost from him” that one need not return a lost item worth less than one peruta, from where do they derive the halakha of Rabbi Yoḥanan that one need not return an item that is lost from him and is not available to be found by every person?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נָפְקָא לֵיהּ ״מִמֶּנּוּ״. וְאִידָּךְ?",
+          "english": "He derives it from the superfluous term “from him,” in the phrase “which shall be lost from him.” And as for the other tanna, Rabbi Yehuda, he does not learn anything from the term “from him.”"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״מִמֶּנּוּ״ לָא מַשְׁמַע לֵיהּ.",
+          "english": "He does not learn anything from the term “from him.”"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִידַךְ, הָא דְּרַבִּי יוֹחָנָן מְנָא לֵיהּ?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        20
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "מימרא",
+      "title": "רַבָּא's practical difference: devalued פְּרוּטָה",
+      "stepSummary": "Rava states that the practical difference is regarding a prutah that was devalued.",
+      "whatsHappening": "רַבָּא introduces a practical difference based on the source of the law. He suggests that the value at the time of loss or finding is relevant depending on the verse used.",
+      "deeperAnalysis": "רַבָּא argues that the source of the law determines whether the value at the time of loss or finding is relevant. If derived from 'asher tavad', the value at loss is relevant. If derived from 'umetzatah', the value at finding is relevant.",
+      "keyTerms": [
+        {
+          "term": "רַבָּא",
+          "meaning": "רַבָּא"
+        },
+        {
+          "term": "פְּרוּטָה שֶׁהוּזְלָה",
+          "meaning": "a פְּרוּטָה that was devalued"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא אָמַר: פְּרוּטָה שֶׁהוּזְלָה אִיכָּא בֵּינַיְיהוּ,",
+          "english": "Rava said: There is a practical difference between them with regard to a peruta that was devalued,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאן דְּאָמַר מֵ״אֲשֶׁר תֹּאבַד״ –",
+          "english": "the one who says from \"which shall be lost\" –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִיכָּא, וּמַאן דְּאָמַר מִ״וּמְצָאתָהּ״ – לֵיכָּא.",
+          "english": "there is, and the one who says from \"and you have found it\" – there is not."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא אָמַר: פְּרוּטָה שֶׁהוּזְלָה אִיכָא בֵּינַיְיִהוּ, מַאן דְּאָמַר מֵ״אֲשֶׁר תֹּאבַד״ – אִיכָא, וּמַאן דְּאָמַר מִ״וּמְצָאתָהּ״ – לֵיכָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        22
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 27a:19:1",
+            "hebrew": "שהוזלה - דבשעת אבידה שוה פרוט' ובשע' מציאה הוזלה:",
+            "english": "",
+            "takeaway": "רש״י explains that the case of a devalued פרוטה is one where the item was worth a פרוטה at the time of loss but had decreased in value by the time it was found."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 20,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: both verses are needed",
+      "stepSummary": "The Gemara challenges Rava's suggestion by noting that both verses are needed for the obligation to exist.",
+      "whatsHappening": "The גמרא challenges רַבָּא's suggestion by noting that both verses are needed for the obligation to exist. This implies that both the value at loss and finding are relevant.",
+      "deeperAnalysis": "The גמרא argues that both verses are necessary for the obligation to exist. This challenges רַבָּא's suggestion that the source of the law determines which value is relevant.",
+      "keyTerms": [
+        {
+          "term": "בָּעֵינַן",
+          "meaning": "we require"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ –",
+          "english": "But even according to the one who says that the halakha is derived from the phrase “which shall be lost from him,”"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא בָּעֵינַן ״וּמְצָאתָהּ״, וְלֵיכָּא!",
+          "english": "do we not require the item to be worth one peruta when it is found, based on the term “and you have found it”? And in this case, it is not worth one peruta when it is found, so he should agree that it need not be returned."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ – הָא בָּעֵינַן ״וּמְצָאתָהּ״, וְלֵיכָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 21,
+      "hebrewStepName": "תירוץ",
+      "title": "Refinement: appreciated פְּרוּטָה",
+      "stepSummary": "The Gemara refines Rava's suggestion to an item that appreciated in value.",
+      "whatsHappening": "The גמרא refines רַבָּא's suggestion to an item that appreciated in value. This creates a practical difference based on the source of the law.",
+      "deeperAnalysis": "The גמרא refines רַבָּא's suggestion to an item that appreciated in value. If derived from 'umetzatah', the obligation exists. If derived from 'asher tavad', there is no obligation.",
+      "keyTerms": [
+        {
+          "term": "פְּרוּטָה שֶׁהוּקְרָה",
+          "meaning": "a פְּרוּטָה that appreciated in value"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא: פְּרוּטָה שֶׁהוּקְרָה אִיכָּא בֵּינַיְיהוּ,",
+          "english": "Rather, the practical difference between them is with regard to an item worth less than one peruta when it was lost that appreciated in value and is worth one peruta when it is found."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאן דְּאָמַר ״וּמְצָאתָהּ״ – אִיכָּא,",
+          "english": "According to the one who says that the halakha that one need not return a lost item worth less than one peruta is derived from the term: “And you have found it,” there is an obligation to return the item, as that verse is referring to its value when it is found."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ – לֵיכָּא.",
+          "english": "And according to the one who says that the halakha that one need not return a lost item worth less than one peruta is derived from the phrase: “Which shall be lost from him,” there is no obligation to return the item, as that verse is referring to the value of the item when it was lost."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא: פְּרוּטָה שֶׁהוּקְרָה אִיכָא בֵּינַיְיִהוּ, מַאן דְּאָמַר ״וּמְצָאתָהּ״ – אִיכָא, וּמַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ – לֵיכָא.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        24
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 22,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: both verses are needed (again)",
+      "stepSummary": "The Gemara challenges the refined suggestion by noting that both verses are needed for the obligation to exist.",
+      "whatsHappening": "The גמרא challenges the refined suggestion by noting that both verses are needed for the obligation to exist. This implies that both the value at loss and finding are relevant.",
+      "deeperAnalysis": "The גמרא argues that both verses are necessary for the obligation to exist. This challenges the refined suggestion that the source of the law determines which value is relevant.",
+      "keyTerms": [
+        {
+          "term": "בָּעֵינַן",
+          "meaning": "we require"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְמַאן דְּאָמַר ״וּמְצָאתָהּ״, הָא בָּעֵינַן ״אֲשֶׁר תֹּאבַד״ וְלֵיכָּא!",
+          "english": "But even according to the one who says that the halakha is derived from the term “and you have found it,” do we not require the item to be worth one peruta when it is lost, based on the phrase “which shall be lost from him”? And in this case, it is not worth one peruta when it was lost, so he should agree that it need not be returned."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְמַאן דְּאָמַר ״וּמְצָאתָהּ״, הָא בָּעֵינַן ״אֲשֶׁר תֹּאבַד״ וְלֵיכָא!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 23,
+      "hebrewStepName": "תירוץ",
+      "title": "Final refinement: fluctuating value",
+      "stepSummary": "The Gemara refines Rava's suggestion to an item that fluctuated in value.",
+      "whatsHappening": "The גמרא refines רַבָּא's suggestion to an item that fluctuated in value. This creates a practical difference based on the source of the law.",
+      "deeperAnalysis": "The גמרא refines רַבָּא's suggestion to an item that fluctuated in value. If derived from 'asher tavad', the obligation exists. If derived from 'umetzatah', there is no obligation.",
+      "keyTerms": [
+        {
+          "term": "פְּרוּטָה שֶׁהוּקְרָה וְהוּזְלָה וְחָזְרָה וְהוּקְרָה",
+          "meaning": "a פְּרוּטָה that appreciated, devalued, and appreciated again"
+        },
+        {
+          "term": "שִׁעוּר מְצִיאָה",
+          "meaning": "the measure of a found item"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא פְּרוּטָה שֶׁהוּקְרָה וְהוּזְלָה וְחָזְרָה וְהוּקְרָה אִיכָּא בֵּינַיְיהוּ.",
+          "english": "Rather, the practical difference between them is with regard to the case of an item worth one peruta when it was lost that appreciated in value and was devalued in the interim and was worth less than one peruta, and then appreciated in value and is worth one peruta when it is found."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ – אִיכָּא.",
+          "english": "According to the one who says that the halakha that one need not return a lost item worth less than one peruta is derived from the phrase: “Which shall be lost from him,” there is an obligation to return the item, as the verse is referring to its value only when it was lost and when it is found."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּמַאן דְּאָמַר ״וּמְצָאתָהּ״ –",
+          "english": "And according to the one who says that the halakha that one need not return a lost item worth less than one peruta is derived from: “And you have found it,”"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בָּעֵינַן דְּאִית בַּהּ שִׁיעוּר מְצִיאָה מִשְּׁעַת",
+          "english": "we require that there will be the value of one peruta, the requisite measure of a lost item, from the time of its loss"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֲבֵידָה וְעַד שְׁעַת מְצִיאָה.",
+          "english": "and until the time of its finding, as the conjunction “and” connects the time of the finding to the time of the loss."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֶלָּא פְּרוּטָה שֶׁהוּקְרָה וְהוּזְלָה וְחָזְרָה וְהוּקְרָה אִיכָא בֵּינַיְיִהוּ. מַאן דְּאָמַר ״אֲשֶׁר תֹּאבַד״ – אִיכָא. וּמַאן דְּאָמַר ״וּמְצָאתָהּ״ – בָּעֵינַן דְּאִית בַּהּ שִׁיעוּר מְצִיאָה מִשְּׁעַת אֲבֵידָה וְעַד שְׁעַת מְצִיאָה.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        26
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "follows"
+    },
+    {
+      "stepNumber": 24,
+      "hebrewStepName": "שאלה",
+      "title": "The initial dilemma: Are identifying marks biblical or rabbinic?",
+      "stepSummary": "The Gemara raises a fundamental question about whether the requirement to identify lost items via distinguishing marks is a biblical or rabbinic obligation.",
+      "whatsHappening": "The sugya opens with a classic אִיבַּעְיָא לְהוּ, establishing the central question of the entire discussion. This sets the stage for exploring the practical implications and proofs for each side.",
+      "deeperAnalysis": "The גמרא frames the issue as a binary choice: דְּאוֹרָיְיתָא or דְּרַבָּנַן. This sets the stage for exploring the practical implications and proofs for each side.",
+      "keyTerms": [
+        {
+          "term": "אִיבַּעְיָא לְהוּ",
+          "meaning": "A dilemma was raised before them"
+        },
+        {
+          "term": "סִימָנִין",
+          "meaning": "Identifying marks"
+        },
+        {
+          "term": "דְּאוֹרָיְיתָא",
+          "meaning": "Biblical law"
+        },
+        {
+          "term": "דְּרַבָּנַן",
+          "meaning": "Rabbinic law"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִיבַּעְיָא לְהוּ: סִימָנִין דְּאוֹרָיְיתָא אוֹ דְרַבָּנַן?",
+          "english": "A dilemma was raised before the Sages: Is identification of an item on the basis of distinguishing marks by Torah law or is it by rabbinic law?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי נָפְקָא מִינַּהּ?",
+          "english": "The Gemara asks: What difference is there whether it is by Torah law or by rabbinic law?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אִיבַּעְיָא לְהוּ: סִימָנִין דְּאוֹרָיְיתָא אוֹ דְרַבָּנַן?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T14:06:40.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 133.88319029996637,
+      "structure": 2495.095287700009,
+      "translate": 660.9522102996707,
+      "meforshim": 704.6005250001326,
+      "teaching": 2037.4088247001055
+    }
+  }
+}

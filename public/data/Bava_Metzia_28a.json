@@ -1,0 +1,1634 @@
+{
+  "ref": "Bava Metzia 28a",
+  "masechet": "Bava_Metzia",
+  "daf": 28,
+  "amud": "a",
+  "mainTopic": "(continues) סימנים דאורייתא או דרבנן · דיני תביעות אבידה בסימנים ועדים · משך זמן ההכרזה על אבידה",
+  "overview": "(1) The Gemara investigates whether identifying marks are a biblical or rabbinic requirement, analyzing various proofs and Rava's conclusion that they are biblical based on the verse 'ad derosh achicha oto'. (2) Rava outlines the rules for resolving disputes over lost items when claimants present various combinations of identifying marks and witnesses. (3) The Gemara discusses the duration of the announcement period for lost items, analyzing the dispute between Rabbi Meir and Rabbi Yehuda and the impact of the destruction of the Temple and the rise of bandits. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) סימנים דאורייתא או דרבנן",
+      "gist": "The Gemara investigates whether identifying marks are a biblical or rabbinic requirement, analyzing various proofs and Rava's conclusion that they are biblical based on the verse 'ad derosh achicha oto'.",
+      "openingFormula": "אִיבַּעְיָא לְהוּ: סִימָנִין דְּאוֹרָיְיתָא",
+      "firstStepNumber": 1,
+      "lastStepNumber": 3
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 11,
+      "topic": "דיני תביעות אבידה בסימנים ועדים",
+      "gist": "Rava outlines the rules for resolving disputes over lost items when claimants present various combinations of identifying marks and witnesses.",
+      "openingFormula": "סִימָנִין וְסִימָנִין – יַנִּיחַ",
+      "firstStepNumber": 4,
+      "lastStepNumber": 11
+    },
+    {
+      "sugyaNumber": 3,
+      "startLine": 12,
+      "endLine": 24,
+      "topic": "משך זמן ההכרזה על אבידה",
+      "gist": "The Gemara discusses the duration of the announcement period for lost items, analyzing the dispute between Rabbi Meir and Rabbi Yehuda and the impact of the destruction of the Temple and the rise of bandits. — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳ וְעַד מָתַי חַיָּיב לְהַכְרִיז",
+      "firstStepNumber": 12,
+      "lastStepNumber": 23
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: How do we return a roll of documents based on marks?",
+      "stepSummary": "The Gemara challenges the resolution by asking how we can return a roll of documents based on marks if the owner wants to return them.",
+      "whatsHappening": "The גמרא raises a difficulty against the previous resolution. This is a setup line introducing a new objection.",
+      "deeperAnalysis": "The challenge is based on a משנה about returning a תַּכְרִיךְ. If the owner wants to return the item based on marks, how can we return the roll to the creditor?",
+      "keyTerms": [
+        {
+          "term": "תַּכְרִיךְ",
+          "meaning": "Roll"
+        },
+        {
+          "term": "אֲגוּדָּה",
+          "meaning": "Bundle"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא הָא דִּתְנַן:",
+          "english": "But there is that which we learned in that mishna:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָצָא תַּכְרִיךְ שֶׁל שְׁטָרוֹת אוֹ אֲגוּדָּה",
+          "english": "If one found a roll of documents or a bundle of documents"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֶׁל שְׁטָרוֹת –",
+          "english": "a roll of documents –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הֲרֵי זֶה יַחְזִיר,",
+          "english": "he shall return the documents"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הָכִי נָמֵי דְּנִיחָא לֵיהּ לְלֹוֶה לְאַהְדּוֹרֵי לֵיהּ לְמַלְוֶה?",
+          "english": "Would one say that so too, if one returns lost items on the basis of distinguishing marks due to the tacit agreement of the owners, it is satisfactory to the debtor to have the documents returned to the creditor?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אֶלָּא הָא דִּתְנַן: מָצָא תַּכְרִיךְ שֶׁל שְׁטָרוֹת אוֹ אֲגוּדָּה שֶׁל שְׁטָרוֹת",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        52
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:1:1",
+            "hebrew": "אלא הא דתנן מצא תכריך - דמשום סימנא מהדרינן ואם נתן מלוה סימן מחזירין לו ואי נפול מיניה דלוה מי ניחא ליה דתיהוי הך תקנתא דניהדרה בסימן והא ניחא ליה דנהוו ביד המוצא לעולם:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishnah's rule to return a roll of documents based on marks is problematic because the borrower would prefer the documents remain with the finder forever rather than be returned to the creditor, as returning them would establish a precedent for returning lost items via marks."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 28a:1:1",
+            "hebrew": "מצא תכריך של שטרות מי ניחא ליה ללוה כו' - וא\"ת אין ניחא ליה דכי ילוה לאחר דליהדרו ליה לדידיה וי\"ל דאינו רוצה להפסיד עתה כדי להיות בספק ריוח פעם אחרת:",
+            "english": "",
+            "takeaway": "תוספות addresses the question of why the borrower would not want the documents returned, suggesting that the borrower does not wish to suffer a loss now in order to potentially gain a speculative profit later."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מסקנא",
+      "title": "Conclusion: סימנים are biblical based on the verse",
+      "stepSummary": "Rava concludes that סימנים are biblical based on the verse 'until your brother claims it'.",
+      "whatsHappening": "רבא provides a final conclusion to the sugya. This is a conclusion step.",
+      "deeperAnalysis": "רבא concludes that סימנים are biblical based on the verse 'וְהָיָה עִמְּךָ עַד דְּרֹשׁ אָחִיךָ אֹתוֹ'. This resolves the original dilemma.",
+      "keyTerms": [
+        {
+          "term": "וְהָיָה עִמְּךָ עַד דְּרֹשׁ אָחִיךָ אֹתוֹ",
+          "meaning": "And it shall be with you until your brother claims it"
+        }
+      ],
+      "whatToRemember": "סימנים are biblical based on the verse.",
+      "whyThisMatters": "This resolves the original dilemma.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא אָמַר רָבָא:",
+          "english": "Rather, Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סִימָנִין דְּאוֹרָיְיתָא, דִּכְתִיב:",
+          "english": "Identification of an item on the basis of distinguishing marks is by Torah law, as it is written:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "״וְהָיָה עִמְּךָ עַד דְּרֹשׁ אָחִיךָ אֹתוֹ״,",
+          "english": "“And if your brother be not near you, and you know him not, then you shall bring it into your house, and it shall be with you until your brother claims [derosh] it, and you shall return it to him” (Deuteronomy 22:2)."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְכִי תַּעֲלֶה עַל דַּעְתְּךָ שֶׁיִּתְּנֶנּוּ קוֹדֶם שֶׁיִּדְרְשֶׁנּוּ? !",
+          "english": "Would it enter your mind that he would give the lost item to him before he claims it?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא דׇּרְשֵׁהוּ אִם רַמַּאי הוּא אוֹ אֵינוֹ רַמַּאי.",
+          "english": "Scrutinize him [darshehu] to determine whether the claimant is a swindler or whether he is not a swindler."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָאו בְּסִימָנִין? שְׁמַע מִינַּהּ.",
+          "english": "What, is it not that the one who claims the lost item proves that he is not a swindler on the basis of distinguishing marks that he provides?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אֶלָּא אָמַר רָבָא: סִימָנִין דְּאוֹרָיְיתָא",
+      "macroPhase": "conclusion",
+      "branchRole": "conclusion_of_branch",
+      "dependsOnStepNumbers": [
+        53
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "concludes_previous_step"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "שאלה",
+      "title": "Question: Why does רבא phrase his conclusion conditionally?",
+      "stepSummary": "The Gemara asks why Rava phrases his conclusion conditionally, as he already resolved the dilemma.",
+      "whatsHappening": "The גמרא raises a question about רבא's phrasing. This is a setup line introducing a new objection.",
+      "deeperAnalysis": "The גמרא notes that רבא phrases his conclusion conditionally ('אִם תִּמְצֵא לוֹמַר'), even though he already resolved the dilemma. This is a question about the structure of the sugya.",
+      "keyTerms": [
+        {
+          "term": "אִם תִּמְצֵא לוֹמַר",
+          "meaning": "If you say"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא: אִם תִּמְצֵי לוֹמַר סִימָנִין דְּאוֹרָיְיתָא.",
+          "english": "Rava begins his statement and says: If you say that identification of an item on the basis of distinguishing marks is by Torah law."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״אִם תִּמְצֵי לוֹמַר״? !",
+          "english": "The Gemara interjects: If you say?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָא פְּשִׁיט לֵיהּ סִימָנִין דְּאוֹרָיְיתָא!",
+          "english": "Didn’t he already resolve the dilemma and conclude that identification of an item on the basis of distinguishing marks is by Torah law?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִשּׁוּם דְּאִיכָּא לְמֵימַר כִּדְשַׁנִּינַן.",
+          "english": "The Gemara answers: Rava phrased his statement conditionally due to the fact that although he holds that identification of an item on the basis of distinguishing marks is by Torah law, one could reject his conclusion and say as we explained previously (27b), that when the mishna states that the finder scrutinizes whether he is a swindler, he does so on the basis of witnesses and not on the basis of distinguishing marks."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "None.",
+      "triggerLanguage": "אָמַר רָבָא: אִם תִּמְצֵא לוֹמַר סִימָנִין דְּאוֹרָיְיתָא. ״אִם תִּמְצֵא לוֹמַר״?!",
+      "macroPhase": "conclusion",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        54
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "raises_new_question",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:3:1",
+            "hebrew": "אם תימצי לומר סימנים דאורייתא - רבותא נקט דאפי' אמרינן דאורייתא אפ\"ה עדים עדיפי כדמפרש ואזיל סימנין ועדים ינתן לבעל עדים:",
+            "english": "",
+            "takeaway": "רש״י explains that רבא uses the conditional phrase 'אם תימצי לומר' to teach a רבותא: even if one holds that סימנים are דאורייתא, witnesses still take precedence, as רבא will explain that the item is given to the one with witnesses."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:3:2",
+            "hebrew": "כדשנינן - בעדים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'כדשנינן' refers to the resolution involving witnesses (בעדים)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "רבא's ruling on conflicting claims of סימנים, עדים, and עד אחד",
+      "stepSummary": "Rava rules that when both claimants describe סימנים, the item is left; when one has סימנים and the other has עדים, the one with עדים wins; when one has סימנים and the other has סימנים plus an עד אחד, the item is left because an עד אחד is treated as if he is not there.",
+      "whatsHappening": "רבא continues his ruling on how to resolve disputes over lost items when claimants present various combinations of identifying marks and witnesses. This is a ruling step.",
+      "deeperAnalysis": "The גמרא establishes the hierarchy of proof: סימנים alone are insufficient when contested by another's סימנים. עֵדִים override סימנים. However, an עֵד אֶחָד does not elevate סימנים to a winning claim; it is treated as no proof at all, so the item remains in the finder's possession.",
+      "keyTerms": [
+        {
+          "term": "סִימָנִין",
+          "meaning": "identifying marks"
+        },
+        {
+          "term": "עֵדִים",
+          "meaning": "two witnesses"
+        },
+        {
+          "term": "עֵד אֶחָד",
+          "meaning": "a single witness"
+        },
+        {
+          "term": "יַנִּיחַ",
+          "meaning": "let it remain (in the finder's possession)"
+        }
+      ],
+      "whatToRemember": "עֵד אֶחָד כְּמָאן דְּלֵיתֵיהּ דָּמִי in the context of אֲבֵידָה.",
+      "confusionAlert": "This is a specific ruling of רבא regarding אֲבֵידָה; it does not necessarily apply to all monetary cases.",
+      "whyThisMatters": "It establishes the baseline for evaluating the strength of different types of evidence in property disputes.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "סִימָנִין וְסִימָנִין – יַנִּיחַ.",
+          "english": "the finder shall leave it in his possession and not give it to either claimant"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סִימָנִין וְעֵדִים – יִנָּתֵן לְבַעַל הָעֵדִים.",
+          "english": "the item shall be given to the claimant with witnesses"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "סִימָנִין וְסִימָנִין וְעֵד אֶחָד –",
+          "english": "In a case where one person describes distinguishing marks on the item and the other describes distinguishing marks on the item and brings one witness to support his claim of ownership"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "עֵד אֶחָד כְּמַאן דְּלֵיתֵיהּ דָּמֵי, וְיַנִּיחַ.",
+          "english": "the one witness is as one who is not there, and the finder shall leave it in his possession"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "סִימָנִין וְסִימָנִין – יַנִּיחַ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:4:1",
+            "hebrew": "סימנין וסימנין - באו שנים ונתנו סימניה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the scenario of conflicting סימנים involves two claimants who both present identifying marks for the lost item."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:4:2",
+            "hebrew": "יניח - עד שיבא אליהו:",
+            "english": "",
+            "takeaway": "רש״י explains that יניח means the item remains in the finder's possession until the coming of אליהו, as the dispute cannot be resolved."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "מימרא",
+      "title": "עֵדֵי נְפִילָה override עֵדֵי אֲרִיגָה",
+      "stepSummary": "Rava rules that when one claimant has witnesses who testify the garment was woven for him (עדי אריגה) and the other has witnesses who testify it fell from him (עדי נפילה), the item is given to the one with עדי נפילה.",
+      "whatsHappening": "The גמרא compares two types of witnesses: those who saw the garment woven for the claimant versus those who saw it fall from him. It rules that the witnesses of the fall take precedence.",
+      "deeperAnalysis": "The garment could have been sold by the original owner to someone else. Therefore, the witnesses of the fall prove current possession, which is the relevant factor for a lost item.",
+      "keyTerms": [
+        {
+          "term": "עֵדֵי אֲרִיגָה",
+          "meaning": "witnesses who testify it was woven for him"
+        },
+        {
+          "term": "עֵדֵי נְפִילָה",
+          "meaning": "witnesses who testify it fell from him"
+        },
+        {
+          "term": "זַבּוֹנֵי זַבְּנַהּ",
+          "meaning": "perhaps he sold it"
+        }
+      ],
+      "whatToRemember": "עֵדֵי נְפִילָה override עֵדֵי אֲרִיגָה because the item could have been sold.",
+      "whyThisMatters": "It shows that proof of recent possession (נְפִילָה) is stronger than proof of original ownership (אֲרִיגָה) in cases of אֲבֵידָה.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "עֵדֵי אֲרִיגָה וְעֵדֵי נְפִילָה –",
+          "english": "witnesses of weaving and witnesses of falling –"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תִּנָּתֵן לְעֵדֵי נְפִילָה,",
+          "english": "shall be given to the witnesses of falling,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּאָמְרִינַן זַבּוֹנֵי זַבְּנַהּ וּמֵאִינִישׁ אַחֲרִינָא נְפַל.",
+          "english": "as we say that perhaps the one for whom it was woven sold the garment and it fell from another person."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "עֵדֵי אֲרִיגָה וְעֵדֵי נְפִילָה – תִּנָּתֵן לְעֵדֵי נְפִילָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line"
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "מימרא",
+      "title": "מִדַּת אֹרְכּוֹ is stronger than מִדַּת רֹחְבּוֹ",
+      "stepSummary": "Rava rules that when one claimant describes the length of a garment and the other describes its width, the item is given to the one who described the length.",
+      "whatsHappening": "The גמרא compares two identifying marks: the length of the garment versus its width. It rules that the length is the stronger mark.",
+      "deeperAnalysis": "Width can be approximated by looking at the garment while the owner is wearing it. Length cannot be easily approximated in the same way, making it a more precise and reliable mark.",
+      "keyTerms": [
+        {
+          "term": "מִדַּת אֹרְכּוֹ",
+          "meaning": "measure of its length"
+        },
+        {
+          "term": "מִדַּת רֹחְבּוֹ",
+          "meaning": "measure of its width"
+        },
+        {
+          "term": "שַׁעוֹרֵי קָא מְשַׁעַר לַהּ",
+          "meaning": "one can approximate it"
+        }
+      ],
+      "whatToRemember": "מִדַּת אֹרְכּוֹ is a stronger mark than מִדַּת רֹחְבּוֹ because it is harder to guess.",
+      "whyThisMatters": "It establishes a hierarchy among marks based on how easily they can be guessed or approximated.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ –",
+          "english": "the measure of its length and the measure of its width"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "תִּנָּתֵן לְמִדַּת אׇרְכּוֹ,",
+          "english": "the garment shall be given to the claimant who provided the measure of its length"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּמִדַּת רׇחְבּוֹ שַׁעוֹרֵי קָא מְשַׁעַר לַהּ",
+          "english": "as one can approximate the measure of its width"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כַּד מִכַּסֵּי לַהּ מָרַהּ וְקָאֵי,",
+          "english": "when its owner dons the garment and stands"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּמִדַּת אׇרְכּוֹ לָא מִשְׁתַּעַר לֵהּ.",
+          "english": "but the measure of its length cannot be approximated in that manner"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ – תִּנָּתֵן לְמִדַּת אׇרְכּוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:6:1",
+            "hebrew": "מדת ארכו כו' - זה אומר מדת ארכו וזה נותן מדת רחבו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the dispute involves one claimant specifying the garment's length while the other specifies its width."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:6:2",
+            "hebrew": "שעורי משער לה - אם ראה אותה ביד הבעלים שיערה כשהיה בעלה מכוסה בה אם טלית היא:",
+            "english": "",
+            "takeaway": "רש״י explains that the width can be estimated by observing the garment while the owner is wearing it, such as a טלית covering them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Individual dimensions override combined measure",
+      "stepSummary": "Rava rules that when one claimant describes both the length and width, and the other describes only the combined measure (גמיו), the item is given to the one who described length and width separately.",
+      "whatsHappening": "The גמרא compares describing the individual dimensions of the garment versus describing only the combined measure. It rules that the individual dimensions are stronger.",
+      "deeperAnalysis": "Describing the individual dimensions is more precise and therefore a stronger mark than describing only the combined measure, which is less specific.",
+      "keyTerms": [
+        {
+          "term": "מִדַּת גַּמָּיו",
+          "meaning": "measure of its combined length and width"
+        },
+        {
+          "term": "יִנָּתֵן לְמִדַּת אֹרְכּוֹ וְרֹחְבּוֹ",
+          "meaning": "it is given to the one who described length and width"
+        }
+      ],
+      "whatToRemember": "Describing individual dimensions is stronger than describing a combined measure.",
+      "whyThisMatters": "It reinforces the principle that more precise marks are stronger.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ וּמִדַּת גַּמָּיו –",
+          "english": "the measure of its length and the measure of its width and the measure of its gamma"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יִנָּתֵן לְמִדַּת אׇרְכּוֹ וְרׇחְבּוֹ.",
+          "english": "it shall be given to the measure of its length and its width"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ וּמִדַּת גַּמָּיו – יִנָּתֵן לְמִדַּת אׇרְכּוֹ וְרׇחְבּוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:7:1",
+            "hebrew": "מדת ארכו ורחבו ומדת גמיו - זה אומר כך ארכו וכך רחבה וזה אומר ארכה ורחבה כך וכך אמות בין הכל אבל אינו יודע כמה באורך וכמה ברוחב:",
+            "english": "",
+            "takeaway": "רש״י explains that מדת ארכו ורחבו refers to a claimant who specifies the exact length and width, whereas מדת גמיו refers to a claimant who only knows the combined total of length and width without specifying the individual dimensions."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:7:2",
+            "hebrew": "גמיו - גאם יוונית עשויה כמין ך' שלנו להכי קרי אורך ורוחב יחד גמיו:",
+            "english": "",
+            "takeaway": "רש״י explains that גמיו is a Greek term (גאם) resembling the shape of the letter ך', used to denote the combined measurement of length and width."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "מימרא",
+      "title": "Weight overrides dimensions",
+      "stepSummary": "Rava rules that when one claimant describes the length and width, and the other describes the weight, the item is given to the one who described the weight.",
+      "whatsHappening": "The גמרא compares describing the weight of the garment versus its dimensions. It rules that the weight is the stronger mark.",
+      "deeperAnalysis": "Weight is a more precise and difficult-to-guess mark than length and width, which can be approximated visually. Therefore, knowing the exact weight is a stronger proof of ownership.",
+      "keyTerms": [
+        {
+          "term": "מִדַּת מִשְׁקְלוֹתָיו",
+          "meaning": "measure of its weight"
+        },
+        {
+          "term": "יִנָּתֵן לְמִדַּת מִשְׁקְלוֹתָיו",
+          "meaning": "it is given to the one who described the weight"
+        }
+      ],
+      "whatToRemember": "מִדַּת מִשְׁקְלוֹתָיו is a stronger mark than מִדַּת אֹרְכּוֹ וְרֹחְבּוֹ because it is harder to guess.",
+      "whyThisMatters": "It establishes weight as a very strong mark, stronger than dimensions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ וּמִדַּת מִשְׁקְלוֹתָיו –",
+          "english": "the measure of its length and the measure of its width and the measure of its weight"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יִנָּתֵן לְמִדַּת מִשְׁקְלוֹתָיו.",
+          "english": "the item shall be given to the claimant who provided the measure of its weight"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מִדַּת אׇרְכּוֹ וּמִדַּת רׇחְבּוֹ וּמִדַּת מִשְׁקְלוֹתָיו – יִנָּתֵן לְמִדַּת מִשְׁקְלוֹתָיו.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line"
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "מימרא",
+      "title": "The wife's mark on a גֵּט overrides the husband's",
+      "stepSummary": "Rava rules that when a גט is found and both the husband and wife describe its סימנים, the גט is given to the wife.",
+      "whatsHappening": "The גמרא shifts to a new scenario involving a גֵּט, where the stakes are higher because it affects the wife's marital status. It rules that the wife's mark takes precedence.",
+      "deeperAnalysis": "The wife's mark must be something she could only know if she had actually received the גֵּט, such as a perforation next to a specific letter. This is a stronger mark than the husband's, which could be known without delivery.",
+      "keyTerms": [
+        {
+          "term": "סִימָנֵי הַגֵּט",
+          "meaning": "identifying marks of the גֵּט"
+        },
+        {
+          "term": "יִנָּתֵן לָהּ",
+          "meaning": "it is given to her"
+        },
+        {
+          "term": "נֶקֶב יֵשׁ בּוֹ בְּצַד אוֹת פְּלוֹנִי",
+          "meaning": "there is a perforation next to a specific letter"
+        }
+      ],
+      "whatToRemember": "In a dispute over a גֵּט, the wife's mark is stronger if it proves she held it.",
+      "whyThisMatters": "It shows that in cases of גֵּט, the court favors the wife's claim if her mark proves delivery.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הוּא אוֹמֵר סִימָנֵי הַגֵּט וְהִיא אוֹמֶרֶת",
+          "english": "Rava continues: In a case where a bill of divorce is found and it is unclear whether it had been delivered to the wife, and the husband, who reconsidered, states the distinguishing marks of the bill of divorce and claims that he did not yet give it to his wife, and the wife, who wants to be divorced, states the distinguishing marks of the bill of divorce and claims that she already received it, the document shall be given to the wife."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "סִימָנֵי הַגֵּט –",
+          "english": "The Gemara asks: With what distinguishing mark did she describe the bill of divorce?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יִנָּתֵן לָהּ. בְּמַאי?",
+          "english": "If we say that she described it with the measure of its height and its width,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִילֵימָא בְּמִדַּת אׇרְכּוֹ וְרׇחְבּוֹ,",
+          "english": "that is not a clear-cut distinguishing mark; perhaps while her husband was holding the bill of divorce, she saw it, although he had not yet given it to her."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּלְמָא בַּהֲדֵי דְּנָקֵיט לֵיהּ חֲזַיְתֵיהּ.",
+          "english": "Rather, it must be that she says that there is a perforation alongside such and such letter in the document, which she could know only if the bill of divorce had been in her hand."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֶלָּא – נֶקֶב יֵשׁ בּוֹ בְּצַד אוֹת פְּלוֹנִי.",
+          "english": "the document shall be given to the wife."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הוּא אוֹמֵר סִימָנֵי הַגֵּט וְהִיא אוֹמֶרֶת סִימָנֵי הַגֵּט – יִנָּתֵן לָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:9:1",
+            "hebrew": "הוא אומר סימני הגט - ואמר ממני נפל שנמלכתי שלא ליתן:",
+            "english": "",
+            "takeaway": "רש״י explains that the husband's claim of סימני הגט includes his assertion that he dropped it after deciding not to give it."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:9:2",
+            "hebrew": "והיא אומרת סימני הגט - וממני נפל שנתנו לי וגרשתני:",
+            "english": "",
+            "takeaway": "רש״י explains that the wife's claim of סימני הגט includes her assertion that it fell from her after he gave it to her and divorced her."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:9:3",
+            "hebrew": "ינתן לה - שהוא נתנו ויודע סימנין אבל היא אם לא נתנו לה מהיכן ידעה:",
+            "english": "",
+            "takeaway": "רש״י explains that the גט is given to her because the husband's knowledge of the סימנים is expected since he gave it, but the wife could only know the סימנים if it was actually given to her."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "מימרא",
+      "title": "The wife's mark on the string overrides the husband's",
+      "stepSummary": "Rava rules that when a גט is found and both the husband and wife describe the סימנים of the string binding it, the גט is given to the wife.",
+      "whatsHappening": "The גמרא continues with another scenario involving a גֵּט, this time focusing on the string that binds it. It rules that the wife's mark on the string takes precedence.",
+      "deeperAnalysis": "The wife's mark of the string must be something she could only know if she had actually received the גֵּט, such as the length of the string. This is a stronger mark than the husband's, which could be known without delivery.",
+      "keyTerms": [
+        {
+          "term": "סִימָנֵי הַחוּט",
+          "meaning": "identifying marks of the string"
+        },
+        {
+          "term": "יִנָּתֵן לָהּ",
+          "meaning": "it is given to her"
+        }
+      ],
+      "whatToRemember": "In a dispute over a גֵּט, the wife's mark of the string is stronger if it proves she held it.",
+      "whyThisMatters": "It shows that in cases of גֵּט, the court favors the wife's claim if her mark proves delivery.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הוּא אוֹמֵר סִימָנֵי הַחוּט,",
+          "english": "In a case where the husband states the distinguishing marks of the string with which the bill of divorce is bound,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהִיא אוֹמֶרֶת סִימָנֵי הַחוּט –",
+          "english": "and she states the distinguishing marks of the string,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יִנָּתֵן לָהּ. בְּמַאי?",
+          "english": "the document shall be given to the wife. The Gemara asks: With what distinguishing mark did she describe the string?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִילֵימָא בְּחִיוָּרָא וּבְסוּמָּקָא, וְדִלְמָא בַּהֲדֵי דְּנָקֵיט לֵיהּ חֲזַיְתֵיהּ?",
+          "english": "If we say that she described it by saying that the string is white or by saying that it is red, this cannot be the mark based on which she proves her ownership, as perhaps while her husband was holding the bill of divorce, she saw the string."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא בְּמִדַּת אׇרְכּוֹ.",
+          "english": "Rather, it must be that she stated the measure of its length."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הוּא אוֹמֵר סִימָנֵי הַחוּט, וְהִיא אוֹמֶרֶת סִימָנֵי הַחוּט – יִנָּתֵן לָהּ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:10:1",
+            "hebrew": "סימני החוט - שהגט קשור בו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the term סימני החוט refers specifically to the string used to bind the גט."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "מימרא",
+      "title": "Common knowledge is not a strong mark",
+      "stepSummary": "Rava rules that when a גט is found and both the husband and wife claim it was stored in a case, the גט is given to the husband.",
+      "whatsHappening": "The גמרא concludes with a scenario where both claimants describe the same mark of storage. It rules that the husband's claim takes precedence.",
+      "deeperAnalysis": "The wife's claim of storage in a case is not a strong mark because she knows that the husband stores all his valuable items in a case. Therefore, her claim does not prove that she actually received the גֵּט.",
+      "keyTerms": [
+        {
+          "term": "בַּחֲפִיסָה",
+          "meaning": "in a case"
+        },
+        {
+          "term": "יִנָּתֵן לוֹ",
+          "meaning": "it is given to him"
+        },
+        {
+          "term": "מִידַע יָדְעָה",
+          "meaning": "she knew from the start"
+        }
+      ],
+      "whatToRemember": "A mark that is common knowledge is not strong enough to prove ownership.",
+      "whyThisMatters": "It shows that in cases of גֵּט, the court favors the husband's claim if the wife's mark is not specific enough to prove delivery.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הוּא אוֹמֵר בַּחֲפִיסָה וְהִיא אוֹמֶרֶת בַּחֲפִיסָה –",
+          "english": "In a case where the husband claims that the bill of divorce was not given to the wife and states that it was stored in a case, and the wife claims that she received the bill of divorce and states that it was stored in a case"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "יִנָּתֵן לוֹ. מַאי טַעְמָא?",
+          "english": "the document shall be given to the husband. What is the reason?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מִידָּע יָדְעָה דְּכֹל מָה דְּאִית לֵיהּ",
+          "english": "Identification of the document based on its storage cannot prove her ownership, as she knows that he places any valuable item that he has in his possession in the case."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בַּחֲפִיסָה הוּא דְּמַנַּח לֵיהּ.",
+          "english": "she knows that he places any valuable item that he has in his possession in the case."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הוּא אוֹמֵר בַּחֲפִיסָה וְהִיא אוֹמֶרֶת בַּחֲפִיסָה – יִנָּתֵן לוֹ.",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "continues_earlier_line",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:11:1",
+            "hebrew": "בחפיסה - מצאת אותו:",
+            "english": "",
+            "takeaway": "רש״י explains that the term בחפיסה refers to the specific location where the גט was found."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "מימרא",
+      "title": "The Mishna's dispute on the duration of proclamation",
+      "stepSummary": "The Mishna presents the dispute between Rabbi Meir and Rabbi Yehuda regarding how long a finder must proclaim a lost item.",
+      "whatsHappening": "The sugya opens with the Mishna establishing the two primary opinions on the duration of the obligation to proclaim a lost item. This is a setup line for the next section.",
+      "deeperAnalysis": "Rabbi Meir sets the duration based on when the local neighbors become aware of the find. Rabbi Yehuda sets a fixed duration of three pilgrimage festivals plus seven days, calculated to allow the owner time to travel home, realize the loss, and return to Jerusalem.",
+      "keyTerms": [
+        {
+          "term": "הַכְרָזָה",
+          "meaning": "Proclamation of a lost item"
+        },
+        {
+          "term": "שְׁכֵנָיו",
+          "meaning": "His neighbors"
+        },
+        {
+          "term": "שָׁלֹשׁ רְגָלִים",
+          "meaning": "Three pilgrimage festivals"
+        }
+      ],
+      "whatToRemember": "The core dispute is between a subjective local standard (Rabbi Meir) and an objective fixed timeline (Rabbi Yehuda).",
+      "whyThisMatters": "This sets the stage for the Gemara's analysis of travel times and the practical realities of the different Temple periods.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַתְנִי׳ וְעַד מָתַי חַיָּיב לְהַכְרִיז?",
+          "english": "MISHNA: And until when is one who finds a lost item obligated to proclaim his find?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "עַד כְּדֵי שֶׁיֵּדְעוּ בּוֹ שְׁכֵנָיו, דִּבְרֵי רַבִּי מֵאִיר.",
+          "english": "He is obligated to do so until the moment that the neighbors will know of its existence; this is the statement of Rabbi Meir."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: שָׁלֹשׁ רְגָלִים,",
+          "english": "Rabbi Yehuda says: He is obligated to proclaim his find for three pilgrimage Festivals"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאַחַר הָרֶגֶל הָאַחֲרוֹן שִׁבְעָה יָמִים,",
+          "english": "and for seven days after the last of the three pilgrimage Festivals,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כְּדֵי שֶׁיֵּלֵךְ לְבֵיתוֹ שְׁלֹשָׁה,",
+          "english": "so that its owner will have time to go to his home, a trip lasting up to three days,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְיַחְזוֹר שְׁלֹשָׁה, וְיַכְרִיז יוֹם אֶחָד.",
+          "english": "and he will return to Jerusalem, a trip lasting up to three days, and proclaim his loss for one day."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מַתְנִי׳ וְעַד מָתַי חַיָּיב לְהַכְרִיז",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:12:1",
+            "hebrew": "מתני' שכיניו - מפרש בגמרא:",
+            "english": "",
+            "takeaway": "רש״י notes that the Mishna's phrase שכיניו is explained in the Gemara."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:12:2",
+            "hebrew": "כדי שילך - כל אחד לביתו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the travel time mentioned refers to each individual pilgrim returning to their own home."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:12:3",
+            "hebrew": "שלשה - משישמע ההכרזה וידע אם אבד לו כלום ואם יבין שאבד יחזור שלשה:",
+            "english": "",
+            "takeaway": "רש״י explains that the three days for returning home are calculated from when the owner hears the proclamation, realizes something is lost, and understands the loss, after which they take three days to return."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:12:4",
+            "hebrew": "ויכריז יום אחד - אני אבדתי ואלו סימניה ובגמרא פריך דבג' ימים אין שהות לחזור לסוף א\"י:",
+            "english": "",
+            "takeaway": "רש״י notes that the one day for proclamation is for the owner to announce their loss and describe the signs, and mentions that the Gemara challenges whether three days is sufficient time to return from the farthest end of ארץ ישראל."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "שאלה",
+      "title": "Clarifying the meaning of 'neighbors of the lost item'",
+      "stepSummary": "The Gemara asks what is meant by 'neighbors of the lost item' and rejects the idea that it means the owner's neighbors.",
+      "whatsHappening": "The גמרא asks what the משנה means by 'neighbors of the lost item.' It rejects the idea that this refers to the owner's neighbors.",
+      "deeperAnalysis": "If the מוֹצֵא knows the owner's neighbors, he can return the item directly. A public הַכְרָזָה would be unnecessary in that case.",
+      "keyTerms": [
+        {
+          "term": "שְׁכֵנֵי אֲבֵידָה",
+          "meaning": "Neighbors of the lost item"
+        },
+        {
+          "term": "שְׁכֵנֵי מָקוֹם",
+          "meaning": "Neighbors of the place"
+        }
+      ],
+      "whatToRemember": "The phrase 'שְׁכֵנֵי אֲבֵידָה' refers to the neighbors of the place where the item was found, not the owner's neighbors.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "גְּמָ׳ תָּנָא: שְׁכֵנֵי אֲבֵידָה.",
+          "english": "A tanna taught: One must proclaim his find until the neighbors of the lost item will know of its existence."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַאי שְׁכֵנֵי אֲבֵידָה?",
+          "english": "What is the meaning of the expression: Neighbors of the lost item?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִילֵימָא שְׁכֵינִים דְּבַעַל אֲבֵידָה?",
+          "english": "If we say that the reference is to neighbors of the owner of the lost item,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אִי יָדַע לֵיהּ לֵיזוֹל וְלַהְדְּרַיהּ נִהֲלֵיהּ!",
+          "english": "if the finder knows who lost the item, let him go and return it to him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא שְׁכֵנֵי מָקוֹם שֶׁנִּמְצֵאת בּוֹ אֲבֵידָה.",
+          "english": "Rather, the reference is to the neighbors of the place where the lost item was found."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "גְּמָ׳ תָּנָא: שְׁכֵנֵי אֲבֵידָה. מַאי שְׁכֵנֵי אֲבֵידָה?",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        69
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:13:1",
+            "hebrew": "גמ' שכני מקום שנמצא בו אבידה - שמא שלהן היא:",
+            "english": "",
+            "takeaway": "רש״י explains that the term שכני אבידה refers to the neighbors of the place where the item was found, because the item might belong to one of them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishna in Ta'anit regarding travel time",
+      "stepSummary": "The Gemara challenges Rabbi Yehuda's assumption of a three-day travel time by citing a Mishna that implies a fifteen-day travel time.",
+      "whatsHappening": "The גמרא raises a קושיא against רַבִּי יְהוּדָה's three-day travel calculation. It cites a משנה in תַּעֲנִית that implies a fifteen-day journey.",
+      "deeperAnalysis": "רַבָּן גַּמְלִיאֵל states rain prayers begin on the 7th of מַרְחֶשְׁוָן, fifteen days after סֻכּוֹת. This allows the last pilgrims to reach נְהַר פְּרָת, contradicting the three-day assumption.",
+      "keyTerms": [
+        {
+          "term": "בְּשָׁלוֹשׁ בְּמַרְחֶשְׁוָן",
+          "meaning": "On the third of Marheshvan"
+        },
+        {
+          "term": "נְהַר פְּרָת",
+          "meaning": "The Euphrates River"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַבִּי יְהוּדָה אוֹמֵר: כּוּ׳.",
+          "english": "Rabbi Yehuda says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וּרְמִינְהוּ: בִּשְׁלֹשָׁה בִּמְרַחְשְׁוָן שׁוֹאֲלִין אֶת הַגְּשָׁמִים.",
+          "english": "And we raise a contradiction: On the third of Marḥeshvan one starts to request rain."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רַבָּן גַּמְלִיאֵל אוֹמֵר: בְּשִׁבְעָה בּוֹ,",
+          "english": "Rabban Gamliel says: On the seventh of it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שֶׁהוּא חֲמִישָּׁה עָשָׂר יוֹם אַחַר הֶחָג,",
+          "english": "which is fifteen days after the festival,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כְּדֵי שֶׁיַּגִּיעַ אַחֲרוֹן שֶׁבְּאֶרֶץ יִשְׂרָאֵל לִנְהַר פְּרָת!",
+          "english": "so that the last of those in Eretz Yisrael can reach the Euphrates River!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּרְמִינְהוּ: בְּשָׁלוֹשָׁה בְּמַרְחֶשְׁוָן שׁוֹאֲלִין אֶת הַגְּשָׁמִים",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        69
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:15:1",
+            "hebrew": "כדי שיגיע כו' - ולא ידביקוהו הגשמים אלמא כולי האי בעינן ומתני' תני שלשה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Mishna in Ta'anit requires fifteen days for the last pilgrim to reach the Euphrates so he won't be caught by rain, which contradicts the current Mishna's assumption of a three-day journey."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 28a:15:1",
+            "hebrew": "חמשה עשר יום - וא\"ת והלא א\"י היא ארבע מאות פרסה על ארבע מאות פרסה. ומהלך אדם עשרה פרסאות ביום הוי ארבעים יום באורך וירושלים מן הירדן שהוא תחום א\"י מהלך יום אחד כדאיתא בביצה (דף ה.) נשאר מצד אחד ל\"ט ימים וי\"ל דעם כרמים ויערים היה ארבע מאות פרסה אבל מישוב לא היה כל כך:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that if Eretz Yisrael is 400 parsas by 400 parsas and a person walks 10 parsas a day, the journey should take 40 days, and resolves it by explaining that the 400 parsas includes vineyards and forests, but the inhabited areas are not that large."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "תירוץ",
+      "title": "Rav Yosef's resolution: Distinguishing between the First and Second Temples",
+      "stepSummary": "Rav Yosef resolves the contradiction by attributing the fifteen-day travel time to the First Temple and the three-day time to the Second Temple.",
+      "whatsHappening": "רַב יוֹסֵף resolves the contradiction by distinguishing between two historical periods. He attributes the different travel times to demographic changes.",
+      "deeperAnalysis": "The fifteen-day calculation applies to the מִקְדָּשׁ רִאשׁוֹן, when נְפִישִׁי יִשְׂרָאֵל טוּבָא and the population was vast. The three-day calculation applies to the מִקְדָּשׁ שֵׁנִי, when the population was smaller and more concentrated.",
+      "keyTerms": [
+        {
+          "term": "מִקְדָּשׁ רִאשׁוֹן",
+          "meaning": "First Temple"
+        },
+        {
+          "term": "מִקְדָּשׁ שֵׁנִי",
+          "meaning": "Second Temple"
+        },
+        {
+          "term": "נְפִישִׁי יִשְׂרָאֵל טוּבָא",
+          "meaning": "Israel was very numerous"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב יוֹסֵף:",
+          "english": "Rav Yosef says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא קַשְׁיָא, כָּאן –",
+          "english": "This is not difficult. Here –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּמִקְדָּשׁ רִאשׁוֹן, כָּאן –",
+          "english": "in the First Temple, here –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּמִקְדָּשׁ שֵׁנִי. בְּמִקְדָּשׁ רִאשׁוֹן,",
+          "english": "in the Second Temple. In the First Temple,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דִּנְפִישִׁי יִשְׂרָאֵל טוּבָא, דִּכְתִיב בְּהוּ:",
+          "english": "when the Jewish people were very numerous, as it is written with regard to them:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "״יְהוּדָה וְיִשְׂרָאֵל רַבִּים כַּחוֹל אֲשֶׁר עַל",
+          "english": "“Judea and Israel were many, as the sand that is by the sea in multitude” –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הַיָּם לְרַב״ –",
+          "english": "we need that much time. In the Second Temple,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בָּעֵינַן כּוּלֵּי הַאי. בְּמִקְדָּשׁ שֵׁנִי,",
+          "english": "when the Jewish people were not very numerous, as it is written with regard to them:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "דְּלָא נְפִישִׁי יִשְׂרָאֵל טוּבָא, דִּכְתִיב בְּהוּ:",
+          "english": "“The whole congregation together was forty and two thousand three hundred and sixty” –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "״כׇּל הַקָּהָל כְּאֶחָד אַרְבַּע רִבּוֹא אַלְפַּיִם",
+          "english": "we do not need that much time."
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "שְׁלֹשׁ מֵאוֹת שִׁשִּׁים״ –",
+          "english": "we do not need that much time for them to travel from Jerusalem to"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "לָא בָּעֵינַן כּוּלֵּי הַאי.",
+          "english": "the farthest reaches of Eretz Yisrael, due to the limited distribution of the small population."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב יוֹסֵף: לָא קַשְׁיָא, כָּאן – בְּמִקְדָּשׁ רִאשׁוֹן",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 28a:17:1",
+            "hebrew": "לא בעינן כולי האי - וסגי בתלתא יומי וא\"ת דז' ימים ומחצה צריך דהיינו חצי של ט\"ו יום וי\"ל דכי לא שכיחי שיירתא ואין הולך בלילה גם כל היום אינו הולך לפי שלא ימצא מלון בערב:",
+            "english": "",
+            "takeaway": "תוספות addresses the difficulty that if fifteen days is the maximum, half of that (seven and a half days) should be required, and answers that in the Second Temple period, caravans were not common, travel at night was not practiced, and travelers could not find lodging every evening, thus reducing the effective travel time to three days."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "קשיא",
+      "title": "Abaye's challenge from a verse in Ezra",
+      "stepSummary": "Abaye challenges Rav Yosef's resolution by citing a verse that indicates the population was still widely distributed in the Second Temple period.",
+      "whatsHappening": "אָבָיֵי raises an objection to רַב יוֹסֵף's distinction. He cites a verse from עֶזְרָא that challenges the demographic premise.",
+      "deeperAnalysis": "The verse states וְכָל יִשְׂרָאֵל בְּעָרֵיהֶם, implying the population was spread out even in the Second Temple period. This suggests travel time should still be fifteen days, contradicting the claim of concentration.",
+      "keyTerms": [
+        {
+          "term": "וְכָל יִשְׂרָאֵל בְּעָרֵיהֶם",
+          "meaning": "And all Israel in their cities"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֲמַר לֵיהּ אַבָּיֵי:",
+          "english": "Abaye said to him:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָא כְּתִיב ״וַיֵּשְׁבוּ הַכֹּהֲנִים וְהַלְוִיִּם וְגוֹ׳",
+          "english": "But isn't it written: \"And the priests and the Levites, etc."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהַמְשֹׁרְרִים וְהַשּׁוֹעֲרִים וְכׇל יִשְׂרָאֵל בְּעָרֵיהֶם״.",
+          "english": "and the singers and the porters and all Israel in their cities.\""
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אֲמַר לֵיהּ אַבָּיֵי: וְהָא כְּתִיב ״וַיֵּשְׁבוּ הַכֹּהֲנִים וְהַלְוִיִּם וְגוֹ׳ וְהַמְשׁוֹרְרִים וְהַשּׁוֹעֲרִים וְכָל יִשְׂרָאֵל בְּעָרֵיהֶם״",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        72
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:18:1",
+            "hebrew": "והכתיב וישבו כל ישראל בעריהם - ואע\"ג דפורתא הוו בכל עריהן היו מפוזרים ויש רחוקים מירושלים כבתחילה:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse from Ezra indicates that even though the population was dispersed throughout the land in the Second Temple period, some people still lived far from Jerusalem, just as in the First Temple period, thus challenging Rav Yosef's distinction."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "תירוץ",
+      "title": "Abaye's alternative resolution: Travel conditions and caravans",
+      "stepSummary": "Abaye proposes an alternative resolution: the First Temple had organized caravans allowing faster travel, while the Second Temple lacked them, requiring more time.",
+      "whatsHappening": "אָבָיֵי offers a new resolution that reverses the logic of רַב יוֹסֵף. He attributes the difference to travel infrastructure rather than geography.",
+      "deeperAnalysis": "In the First Temple period, travelers moved in שְׁיָירָתָא, organized caravans that traveled day and night, making three days sufficient. In the Second Temple period, the lack of such organization required the full fifteen days.",
+      "keyTerms": [
+        {
+          "term": "מְצַוְּאוֹת עָלְמָא",
+          "meaning": "Structured in groups"
+        },
+        {
+          "term": "שְׁיָירָתָא",
+          "meaning": "Caravan"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְכֵיוָן דְּהָכִי הוּא,",
+          "english": "And since that is the reality,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִפְּכָא מִסְתַּבְּרָא: מִקְדָּשׁ רִאשׁוֹן,",
+          "english": "the opposite is reasonable: During the First Temple period,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דִּנְפִישִׁי יִשְׂרָאֵל טוּבָא, דִּמְצַוַּות עָלְמָא,",
+          "english": "when the Jewish people were very numerous and when everyone was structured in groups,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמִשְׁתַּכְחִי שְׁיָירָתָא דְּאָזְלִי בֵּין בִּימָמָא וּבֵין בְּלֵילְיָא –",
+          "english": "and caravans could be found that traveled both during the day and during the night –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא בָּעֵינַן כּוּלֵּי הַאי,",
+          "english": "we do not need that much time,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְסַגִּי בִּתְלָתָא יוֹמָא. מִקְדָּשׁ שֵׁנִי,",
+          "english": "and three days suffice. During the Second Temple period,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּלָא נְפִישִׁי יִשְׂרָאֵל טוּבָא,",
+          "english": "when the Jewish people were not very numerous,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "וְלָא מְצַוַּות עָלְמָא,",
+          "english": "and when everyone was not structured in groups,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וְלָא מִשְׁתַּכְחִי שְׁיָירָתָא דְּאָזְלִי בֵּין בִּימָמָא",
+          "english": "and therefore, caravans could not be found that traveled both during the day"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וּבֵין בְּלֵילְיָא –",
+          "english": "and during the night –"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "בָּעֵינַן כּוּלֵּי הַאי.",
+          "english": "we need that much time."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְכֵיוָן דְּהָכִי הוּא, אִפְכָּא מִסְתַּבְּרָא",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        73
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:19:1",
+            "hebrew": "ה\"ג - וכיון דהכי הוא איפכא מסתברא:",
+            "english": "",
+            "takeaway": "רש״י notes that the text should read 'וכיון דהכי הוא איפכא מסתברא', indicating that Abaye's resolution reverses the previous assumption."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:19:2",
+            "hebrew": "דמצות עלמא - צוות יש לו טובים השנים:",
+            "english": "",
+            "takeaway": "רש״י explains that 'מצות עלמא' refers to well-organized caravans that travel both day and night."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "תירוץ",
+      "title": "Rava's resolution: The Sages did not wish to burden the finder excessively",
+      "stepSummary": "Rava resolves the contradiction by stating that the Sages limited the proclamation period to avoid excessive burden on the finder, regardless of the actual travel time.",
+      "whatsHappening": "רַבָּא offers a resolution based on the principle of not overburdening the finder. He argues the actual travel time was fifteen days in both periods.",
+      "deeperAnalysis": "רַבִּי יְהוּדָה's three-day calculation is a rabbinic enactment. The רַבָּנַן did not want to impose לֹא הִטְרִיחוּ רַבָּנַן יוֹתֵר מִדַּאי, so they set a shorter, manageable timeframe.",
+      "keyTerms": [
+        {
+          "term": "לֹא הִטְרִיחוּ רַבָּנַן",
+          "meaning": "The Sages did not burden"
+        },
+        {
+          "term": "יוֹתֵר מִדַּאי",
+          "meaning": "Excessively"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא אֲמַר:",
+          "english": "Rava said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא שְׁנָא בְּמִקְדָּשׁ רִאשׁוֹן וְלָא שְׁנָא בְּמִקְדָּשׁ שֵׁנִי,",
+          "english": "It is no different during the First Temple period and it is no different during the Second Temple period;"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לֹא הִטְרִיחוּ רַבָּנַן בַּאֲבֵדָה יוֹתֵר מִדַּאי.",
+          "english": "the Sages did not wish to trouble the finder excessively in returning a lost item by requiring him to wait an extended amount of time."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא אֲמַר: לָא שְׁנָא בְּמִקְדָּשׁ רִאשׁוֹן וְלָא שְׁנָא בְּמִקְדָּשׁ שֵׁנִי",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves_previous_step"
+    },
+    {
+      "stepNumber": 19,
+      "hebrewStepName": "ראיה",
+      "title": "Ravina's proof that the finder specifies the item",
+      "stepSummary": "Ravina derives from Rabbi Yehuda's calculation that the finder must specify the type of item when proclaiming.",
+      "whatsHappening": "רַבִּינָא uses the משנה's timeline to derive a practical detail about the proclamation. He argues the finder must specify the item.",
+      "deeperAnalysis": "If the מוֹצֵא only proclaimed 'a lost item,' the owner would need an extra day to לְעַיּוֹנֵי בְּמָאנֵיהּ. Since the timeline is tight, the finder must proclaim גְּלִימָא מַכְרֵיז, allowing immediate recognition.",
+      "keyTerms": [
+        {
+          "term": "גְּלִימָא מַכְרֵיז",
+          "meaning": "He proclaims a cloak"
+        },
+        {
+          "term": "לְעַיּוֹנֵי בְּמָאנֵיהּ",
+          "meaning": "To examine his vessels"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבִינָא: שְׁמַע מִינַּהּ כִּי מַכְרֵיז, גְּלִימָא מַכְרֵיז.",
+          "english": "Ravina says: Learn from the calculation of Rabbi Yehuda in the mishna that when a finder proclaims his find he specifies the nature of the item, e.g., he proclaims that he found a cloak."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאִי סָלְקָא דַעְתָּךְ ״אֲבֵידְתָּא״ מַכְרֵיז,",
+          "english": "As, if it enters your mind that the finder proclaims that he found a lost item without specifying its nature,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בָּעֵינַן לְמִטְפֵּי לֵיהּ חֲדָא יוֹמָא לְעַיּוֹנֵי בְּמָאנֵיהּ.",
+          "english": "we need to increase the period of time afforded the owner to ascertain that he lost an item, and add one day for him to examine all his vessels."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא שְׁמַע מִינַּהּ: גְּלִימָא מַכְרֵיז. שְׁמַע מִינַּהּ.",
+          "english": "Rather, learn from it that the finder proclaims that he found a cloak. The Gemara affirms: Learn from it that the finder specifies the nature of the item."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבִינָא: שְׁמַע מִינַהּ כִּי מַכְרֵיז, גְּלִימָא מַכְרֵיז",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [
+        75
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "derives_from_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:21:1",
+            "hebrew": "שמע מינה - מדלא יהבי ליה לרבנן שהות אלא הליכה וחזרה:",
+            "english": "",
+            "takeaway": "רש״י explains that the proof is derived from the fact that the Sages did not grant the owner an extra day to check his belongings, only the time for going and returning."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:21:2",
+            "hebrew": "גלימא מכריז - זה שמצאה מכריז שם חפץ טלית מצאתי ולכך לא הוצרכו ליתן שהות יום אחד לעיין בכליו מה אבד שהאדם יודע כמה טליתות יש לו וכשהוא בביתו בודק אם ימצאנה ואין צריך שהות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that specifying the item (e.g., 'a cloak') allows the owner to immediately know if he lost it by checking his home, thus eliminating the need for an extra day of investigation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 20,
+      "hebrewStepName": "דחיה",
+      "title": "Rava's rejection of Ravina's proof",
+      "stepSummary": "Rava rejects Ravina's proof by applying the principle that the Sages did not wish to burden the finder excessively.",
+      "whatsHappening": "רַבָּא challenges רַבִּינָא's derivation by invoking the same principle he used earlier. He argues the timeline remains short regardless of specificity.",
+      "deeperAnalysis": "Even if the proclamation is generic, the רַבָּנַן would not require an extra day for verification. The principle of not overburdening the finder applies here as well, so אֲפִילּוּ תֵּימָא the timeline is unchanged.",
+      "keyTerms": [
+        {
+          "term": "אֲפִילּוּ תֵּימָא",
+          "meaning": "Even if you say"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רָבָא אָמַר: אֲפִילּוּ תֵּימָא ״אֲבֵידְתָּא״ מַכְרֵיז,",
+          "english": "Rava said: Even if you say that the finder proclaims that he found an unspecified lost item,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לֹא הִטְרִיחוּ רַבָּנַן בַּאֲבֵידָה יוֹתֵר מִדַּאי.",
+          "english": "the Sages did not wish to trouble the finder excessively in returning a lost item by requiring him to wait an extended amount of time."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רָבָא אָמַר: אֲפִילּוּ תֵּימָא ״אֲבֵידְתָּא״ מַכְרֵיז",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        76
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "rejects_previous_step",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:22:1",
+            "hebrew": "דאי ס\"ד אבידתא מכריז - ואינו מזכיר שם החפץ ליתבו ליה לכל חד וחד אכתי טפי יומא לעיוני במאניה אם כל כליו בידו ופלוגתא היא בהא לקמן:",
+            "english": "",
+            "takeaway": "רש״י explains that if the finder only proclaims 'אבידתא' without specifying the item, the owner would need an extra day to check his belongings, which would create a dispute about the timeline."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:22:2",
+            "hebrew": "לא הטריחו - זה שיהא שוהא יותר משבעה ימים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that 'לא הטריחו' means the Sages did not impose a requirement for the finder to wait more than seven days."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 21,
+      "hebrewStepName": "מימרא",
+      "title": "The Baraita on specifying the festival number",
+      "stepSummary": "A Baraita teaches that the finder specifies the festival number for the first two festivals but not the third.",
+      "whatsHappening": "The גמרא introduces a ברייתא detailing the exact wording of the proclamation for each festival. This is a setup line establishing the pattern of specifying the first two festivals but omitting the number for the third.",
+      "deeperAnalysis": "The ברייתא states the finder says 'first festival' and 'second festival' explicitly. On the third festival, the proclamation is made without specifying the number, creating a new question about why the pattern breaks.",
+      "keyTerms": [
+        {
+          "term": "רֶגֶל רִאשׁוֹן",
+          "meaning": "First festival"
+        },
+        {
+          "term": "סְתָם",
+          "meaning": "Without specification"
+        }
+      ],
+      "whatToRemember": "The pattern is: specify for the first two, omit for the third.",
+      "confusionAlert": "The omission on the third festival seems counterintuitive, as one might expect consistency.",
+      "whyThisMatters": "This sets up the גמרא's analysis of potential confusion between the festival numbers.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תָּנוּ רַבָּנַן: רֶגֶל רִאשׁוֹן אוֹמֵר רֶגֶל רִאשׁוֹן,",
+          "english": "The Sages taught in a baraita: On the first pilgrimage Festival after finding the lost item, the finder proclaims his find and says: This is the first pilgrimage Festival that I am proclaiming this find."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רֶגֶל שֵׁנִי אוֹמֵר רֶגֶל שֵׁנִי,",
+          "english": "On the second pilgrimage Festival after finding the lost item, the finder proclaims his find and says: This is the second pilgrimage Festival that I am proclaiming this find."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "רֶגֶל שְׁלִישִׁי אוֹמֵר סְתָם.",
+          "english": "On the third pilgrimage Festival, the finder proclaims his find and says his proclamation without specification of the number of the Festival."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תָּנוּ רַבָּנַן: רֶגֶל רִאשׁוֹן אוֹמֵר רֶגֶל רִאשׁוֹן",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:23:1",
+            "hebrew": "רגל ראשון - שהוא מכריז:",
+            "english": "",
+            "takeaway": "רש״י explains that the term רגל ראשון refers to the specific wording used in the proclamation."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:23:2",
+            "hebrew": "אומר - בהכריזו זהו רגל ראשון שלא להטריח את האובד לחזור וכשיבא רגל שני יעלה לרגל ויתן סימניה:",
+            "english": "",
+            "takeaway": "רש״י explains that specifying the first festival prevents the owner from being burdened with returning immediately, allowing him to wait until the second festival to bring identifying marks."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 28a:23:3",
+            "hebrew": "שלישי אומר סתם - אבידה מצאתי ואינו אומר איזה רגל הוא למציאתה כדי שלא יסמוך האובד על רגל הבא ויבין שזהו רגל האחרון:",
+            "english": "",
+            "takeaway": "רש״י explains that on the third festival, the proclamation is general to prevent the owner from assuming it is the final opportunity and thus relying on the upcoming festival to claim the item."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 22,
+      "hebrewStepName": "שאלה",
+      "title": "Why not specify the third festival?",
+      "stepSummary": "The Gemara asks why the finder does not specify that it is the third festival.",
+      "whatsHappening": "The גמרא questions the omission of the number on the third festival. This is a direct challenge to the established pattern.",
+      "deeperAnalysis": "The גמרא asks why the finder does not say 'third festival' on the third occasion, just as he specified the first and second. This seeks to understand the logic behind the change in wording.",
+      "keyTerms": [
+        {
+          "term": "לֵימָא רֶגֶל שְׁלִישִׁי",
+          "meaning": "Let him say third festival"
+        }
+      ],
+      "whatToRemember": "The question is about the consistency of the proclamation format.",
+      "confusionAlert": "The גמרא is looking for a reason to break the pattern.",
+      "whyThisMatters": "This leads to the explanation about avoiding confusion with the second festival.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַמַּאי? לֵימָא רֶגֶל שְׁלִישִׁי!",
+          "english": "And why does he not specify the number of the Festival? Just as he specified the previous two Festivals, let him say that it is the third pilgrimage Festival."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּלָא אָתֵי לְאִחַלּוֹפֵי בְּשֵׁנִי. שֵׁנִי נָמֵי",
+          "english": "He does not specify that it is the third pilgrimage Festival, so that one who hears him will not come to confuse it with the second pilgrimage Festival. If the finder were to proclaim that it is the third [shelishi] Festival, it is possible that the owner would mistakenly hear the word second [sheni] and believe that there is time remaining to reclaim his lost item. Since on the second Festival he mentions the number and on the third Festival he does not mention a number, there is no potential for confusion. The Gemara asks: Based on that reasoning, on the second pilgrimage Festival too, the finder should not mention the number of the Festival,"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאַמַאי? לֵימָא רֶגֶל שְׁלִישִׁי!",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        78
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "questions_previous_step"
+    },
+    {
+      "stepNumber": 23,
+      "hebrewStepName": "תשובה",
+      "title": "Avoiding confusion with the second festival",
+      "stepSummary": "The Gemara answers that omitting the number prevents confusion with the second festival.",
+      "whatsHappening": "The גמרא provides the reason for omitting the number on the third festival. This is a direct answer to the previous question.",
+      "deeperAnalysis": "The answer is that if the finder said 'third festival', an owner might mishear it as 'second festival' and think there is still time to claim the item. By omitting the number, it is clear that this is the final proclamation, preventing such confusion.",
+      "keyTerms": [
+        {
+          "term": "לְאִחַלּוֹפֵי",
+          "meaning": "To confuse"
+        }
+      ],
+      "whatToRemember": "The omission is a safeguard against auditory confusion between 'third' and 'second'.",
+      "confusionAlert": "The logic is that 'שְׁלִישִׁי' and 'שֵׁנִי' sound similar enough to cause a mistake.",
+      "whyThisMatters": "It shows how halachic procedures are designed to prevent practical errors.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאַמַּאי? לֵימָא רֶגֶל שְׁלִישִׁי!",
+          "english": "And why does he not specify the number of the Festival? Just as he specified the previous two Festivals, let him say that it is the third pilgrimage Festival."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּלָא אָתֵי לְאִחַלּוֹפֵי בְּשֵׁנִי.",
+          "english": "He does not specify that it is the third pilgrimage Festival, so that one who hears him will not come to confuse it with the second pilgrimage Festival."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שֵׁנִי נָמֵי אַתְיָא לְאִחַלּוֹפֵי בְּרִאשׁוֹן!",
+          "english": "Based on that reasoning, on the second pilgrimage Festival too, the finder should not mention the number of the Festival, because perhaps one who hears him will come to confuse it with the first pilgrimage Festival?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָא קָא אָתֵי רֶגֶל שְׁלִישִׁי.",
+          "english": "Confusing the second Festival with the first is not a problem, as in any case, won’t the finder come on the third pilgrimage Festival, thereby giving the owner another opportunity to recover his lost item?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּלָא אָתֵי לְאִחַלּוֹפֵי בְּשֵׁנִי",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        79
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "answers_previous_step"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T14:06:40.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 133.88319029996637,
+      "structure": 2495.095287700009,
+      "translate": 660.9522102996707,
+      "meforshim": 704.6005250001326,
+      "teaching": 2037.4088247001055
+    }
+  }
+}

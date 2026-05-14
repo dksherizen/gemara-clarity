@@ -1,0 +1,1294 @@
+{
+  "ref": "Bava Metzia 49a",
+  "masechet": "Bava_Metzia",
+  "daf": 49,
+  "amud": "a",
+  "mainTopic": "(continues) משכון בשמיטה · דברים ומחוסרי אמונה",
+  "overview": "(1) The Gemara applies the dispute over eravon to the case of a pledge (mashkon) during the Sabbatical year, analyzing the opinions of Rabbi Shimon ben Gamliel and Rabbi Yehuda HaNasi. (2) The Gemara concludes with the status of verbal agreements, debating whether retracting from them constitutes a lack of faith (mechusrei emunah), citing cases of workers and gifts.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 3,
+      "topic": "(continues) משכון בשמיטה",
+      "gist": "The Gemara applies the dispute over eravon to the case of a pledge (mashkon) during the Sabbatical year, analyzing the opinions of Rabbi Shimon ben Gamliel and Rabbi Yehuda HaNasi.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 1
+    },
+    {
+      "sugyaNumber": 2,
+      "startLine": 4,
+      "endLine": 16,
+      "topic": "דברים ומחוסרי אמונה",
+      "gist": "The Gemara concludes with the status of verbal agreements, debating whether retracting from them constitutes a lack of faith (mechusrei emunah), citing cases of workers and gifts.",
+      "openingFormula": "רב כהנא יהבי ליה זוזי אכיתנא",
+      "firstStepNumber": 2,
+      "lastStepNumber": 14
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "קשיא",
+      "title": "Rejection of the parallel",
+      "stepSummary": "The Gemara rejects the parallel between the amoraic and tannaitic disputes by arguing that רַבִּי יְהוּדָה הַנָּשִׂיא would also hold that the portion covered by the pledge is not canceled.",
+      "whatsHappening": "The Gemara raises a קשיא against the proposed parallel.",
+      "deeperAnalysis": "The Gemara argues that if רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל holds that the entire loan is not canceled, then רַבִּי יְהוּדָה הַנָּשִׂיא must hold that even the portion covered by the pledge is canceled. But this is difficult, as the lender clearly needs the pledge to collect at least part of the debt. The Gemara concludes that the pledge is merely a reminder (לְזִכְרוֹן דְּבָרִים בְּעָלְמָא) and does not prevent cancellation.",
+      "keyTerms": [
+        {
+          "term": "לְזִכְרוֹן דְּבָרִים",
+          "meaning": "as a reminder"
+        },
+        {
+          "term": "בְּעָלְמָא",
+          "meaning": "merely"
+        }
+      ],
+      "whatToRemember": "The rejection hinges on the purpose of the pledge.",
+      "confusionAlert": "Note that the rejection argues that the pledge is not for acquisition but for reminder.",
+      "whyThisMatters": "This rejection shows that the amoraic dispute does not parallel the tannaitic dispute.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּבְהָא קָמִיפַּלְגִי, דְּרַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל סָבַר:",
+          "english": "And in this they disagree, that Rabban Shimon ben Gamliel holds:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּנֶגֶד כּוּלּוֹ הוּא קוֹנֶה,",
+          "english": "Opposite all of it he acquires,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְרַבִּי יְהוּדָה הַנָּשִׂיא סָבַר:",
+          "english": "And Rabbi Yehuda HaNasi holds:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כְּנֶגְדּוֹ הוּא קוֹנֶה. לָא,",
+          "english": "Opposite it he acquires. No,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי ״אֵינוֹ מְשַׁמֵּט״ דְּקָאָמַר רַבָּן שִׁמְעוֹן",
+          "english": "What is 'it does not abrogate' that Rabban Shimon"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "בֶּן גַּמְלִיאֵל –",
+          "english": "ben Gamliel says –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְהָךְ פַּלְגָא דְּנָקֵיט עֲלֵיהּ מַשְׁכּוֹן,",
+          "english": "To that half on which he holds a pledge,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִכְּלָל דְּרַבִּי יְהוּדָה הַנָּשִׂיא סָבַר:",
+          "english": "From the inference that Rabbi Yehuda HaNasi holds:"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "לְהָךְ פַּלְגָא דְּנָקֵיט עֲלֵיהּ מַשְׁכּוֹן נָמֵי מְשַׁמֵּט.",
+          "english": "To that half on which he holds a pledge also he abrogates."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֶלָּא מַשְׁכּוֹן דְּנָקֵיט, לְמָה לֵיהּ?",
+          "english": "Rather, the pledge that he holds, what does he need it for?"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "לְזִכְרוֹן דְּבָרִים בְּעָלְמָא.",
+          "english": "For a reminder of matters in the world."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "לָא, מַאי ״אֵינוֹ מְשַׁמֵּט״ דְּקָאָמַר רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל...",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        62
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:3:1",
+            "hebrew": "מכלל דר' יהודה כו' - קושיא הוא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's statement 'מכלל דר' יהודה...' constitutes a קושיא, meaning it is a logical difficulty arising from the assumption that רַבִּי יְהוּדָה הַנָּשִׂיא holds the pledge portion is also canceled."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "The case of Rav Kahana and the linen",
+      "stepSummary": "The Gemara presents a case where Rav Kahana received money for linen, the price rose, and Rav ruled he must give linen worth the money, but reneging on the verbal commitment is not a breach of faith.",
+      "whatsHappening": "The sugya opens with a practical case establishing the principle that verbal commitments (דְּבָרִים) do not carry the weight of a breach of faith (מְחוּסְרֵי אֲמָנָה) when reneged upon. This is a setup line.",
+      "deeperAnalysis": "רַב קָהָנָא acted as an agent. רַב rules that while he must compensate for the money received (a financial obligation), the verbal promise itself does not create a spiritual liability of being a 'person lacking in faith' if broken. This sets up the central dispute of the sugya.",
+      "keyTerms": [
+        {
+          "term": "דְּבָרִים",
+          "meaning": "verbal commitments / words"
+        },
+        {
+          "term": "מְחוּסְרֵי אֲמָנָה",
+          "meaning": "lacking in faith / bad faith"
+        },
+        {
+          "term": "כִּיתָּנָא",
+          "meaning": "linen"
+        }
+      ],
+      "whatToRemember": "The distinction between financial liability and the spiritual status of מְחוּסְרֵי אֲמָנָה.",
+      "confusionAlert": "רַב's ruling here seems to align with רַב's opinion in the upcoming dispute, but the Gemara will challenge this.",
+      "whyThisMatters": "It frames the entire discussion: does a verbal promise create a binding obligation of faith?",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב כָּהֲנָא יְהַבוּ לֵיהּ זוּזֵי אַכִּיתָּנָא,",
+          "english": "Rav Kahana, they gave him coins for linen,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְסוֹף אִיַּיקַּר כִּיתָּנָא.",
+          "english": "at the end the price of linen increased."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב. אֲמַר לֵיהּ:",
+          "english": "He came before Rav. He said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בְּמַאי דִּנְקִיטַתְּ זוּזֵי –",
+          "english": "In what you took the coins –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "הַב לְהוּ, וְאִידַּךְ – דְּבָרִים נִינְהוּ,",
+          "english": "give them, and the rest – they are words,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וּדְבָרִים אֵין בָּהֶן מִשּׁוּם מְחוּסְּרֵי אֲמָנָה.",
+          "english": "and words have no status of lacking trustworthiness.",
+          "notes": "Refers to the principle that verbal commitments without a formal act of acquisition (kinyan) are not legally binding."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב כָּהֲנָא יְהַבוּ לֵיהּ זוּזֵי אַכִּיתָּנָא",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "case_definition",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:4:1",
+            "hebrew": "במאי דנקיטת זוזי הב להו - ואי לא מקבלת מי שפרע:",
+            "english": "",
+            "takeaway": "רש״י explains that Rav's ruling that Rav Kahana must return the money (במאי דנקיטת זוזי הב להו) implies that if he refuses, he is subject to the penalty of מי שפרע."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:4:2",
+            "hebrew": "ואידך - המותר:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase ואידך refers to the surplus amount beyond what was actually spent on the flax."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:4:3",
+            "hebrew": "דברים נינהו - בלא מעות רב לטעמיה דאמר כנגדו הוא קונה:",
+            "english": "",
+            "takeaway": "רש״י explains that the ruling that verbal commitments alone (דברים נינהו) do not create a liability of מחוסרי אמונה is consistent with Rav's own view that a verbal promise without money does not effect acquisition (כנגדו הוא קונה)."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute between רַב and רַבִּי יוֹחָנָן",
+      "stepSummary": "The Gemara cites a formal dispute: Rav says verbal commitments do not constitute a breach of faith, while Rabbi Yochanan says they do.",
+      "whatsHappening": "The Gemara formalizes the case into a direct amoraic dispute. This is a setup line establishing the core theoretical disagreement.",
+      "deeperAnalysis": "רַב holds that without a formal קַנְיָן, words alone are not binding enough to be considered a breach of faith. רַבִּי יוֹחָנָן holds that words are binding and breaking them is a spiritual failing.",
+      "keyTerms": [
+        {
+          "term": "רַב",
+          "meaning": "Rav, the Amora"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan, the Amora"
+        }
+      ],
+      "whatToRemember": "רַב = no מְחוּסְרֵי אֲמָנָה; רַבִּי יוֹחָנָן = yes מְחוּסְרֵי אֲמָנָה.",
+      "whyThisMatters": "All subsequent proofs and resolutions will attempt to align sources with one of these two positions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "דְּאִיתְּמַר: דְּבָרִים, רַב אָמַר:",
+          "english": "It was stated: Words, Rav says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵין בָּהֶן מִשּׁוּם מְחוּסְּרֵי אֲמָנָה,",
+          "english": "There is in them not because of lacking trustworthiness,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר:",
+          "english": "And Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יֵשׁ בָּהֶם מִשּׁוּם מְחוּסְּרֵי אֲמָנָה.",
+          "english": "There is in them because of lacking trustworthiness."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "דְּאִיתְּמַר: דְּבָרִים, רַב אָמַר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        64
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה",
+      "stepSummary": "The Gemara challenges Rabbi Yochanan's view by citing Rabbi Yosei ben Rabbi Yehuda, who interprets a verse as teaching that one should not say one thing and think another, implying that Rav Kahana's case (where he acted in good faith initially) is not a breach of faith.",
+      "whatsHappening": "The Gemara brings a source that seems to limit the scope of 'breach of faith' to cases of deceit, not mere reneging. This is a challenge against רַבִּי יוֹחָנָן.",
+      "deeperAnalysis": "רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה explains the verse 'הִין צֶדֶק' as an allusion to 'your yes should be just'. אַבָּיֵי explains this as prohibiting saying one thing with the mouth and thinking another with the heart. רַב קָהָנָא did not lie; he genuinely intended to fulfill the order but circumstances changed. If רַבִּי יוֹחָנָן holds that *any* reneging is a breach of faith, this source seems to contradict him by limiting it to deceit.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה",
+          "meaning": "Rabbi Yosei, son of Rabbi Yehuda"
+        },
+        {
+          "term": "הִין צֶדֶק",
+          "meaning": "a just hin (measure)"
+        },
+        {
+          "term": "אַבָּיֵי",
+          "meaning": "Abaye, the Amora"
+        },
+        {
+          "term": "רַב קָהָנָא",
+          "meaning": "Rav Kahana, the Amora"
+        }
+      ],
+      "whatToRemember": "אַבָּיֵי's explanation limits the prohibition to internal deceit, not external reneging.",
+      "confusionAlert": "The challenge is against רַבִּי יוֹחָנָן because רַב קָהָנָא's case was ruled by רַב, and רַב holds there is no breach of faith. The source supports רַב's leniency, thus challenging רַבִּי יוֹחָנָן's stringency.",
+      "whyThisMatters": "It tests whether 'breach of faith' applies only to deceit or to all broken promises.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר:",
+          "english": "Rabbi Yosei, son of Rabbi Yehuda, says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מָה תַּלְמוּד לוֹמַר ״הִין צֶדֶק״,",
+          "english": "What does the verse mean to say, \"A just hin\""
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וַהֲלֹא ״הִין״ בִּכְלַל אֵיפָה הָיָה?",
+          "english": "And was not \"hin\" included in the ephah?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא לוֹמַר לָךְ:",
+          "english": "Rather, to tell you:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "שֶׁיְּהֵא הֵן שֶׁלְּךָ צֶדֶק,",
+          "english": "That your yes should be just,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְלָאו שֶׁלְּךָ צֶדֶק. אָמַר אַבָּיֵי:",
+          "english": "And your no should be just. Abaye says:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "הָהוּא שֶׁלֹּא יְדַבֵּר אֶחָד בַּפֶּה וְאֶחָד בַּלֵּב.",
+          "english": "That one should not say one thing with his mouth and another in his heart."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי, רַבִּי יוֹסֵי בְּרַבִּי יְהוּדָה אוֹמֵר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:6:1",
+            "hebrew": "הין בכלל איפה - שההין י\"ב לוגין ואיפה שלשה סאין שהן ע\"ב לוגין:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse mentions הין specifically because it is a smaller measure (י"
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from רַבִּי שִׁמְעוֹן",
+      "stepSummary": "The Gemara challenges Rav's view by citing Rabbi Shimon, who says that anyone who does not stand by his word will be punished like the generations of the Flood and Dispersion.",
+      "whatsHappening": "The Gemara brings a source that seems to support רַבִּי יוֹחָנָן's stringency, thus challenging רַב's leniency. This is a challenge against רַב.",
+      "deeperAnalysis": "רַבִּי שִׁמְעוֹן states that even though מָעוֹת קוֹנוֹת does not apply to a garment, one who reneges on a verbal commitment is subject to divine punishment. This implies that reneging is a serious spiritual failing (מְחוּסְרֵי אֲמָנָה), contradicting רַב's position that it is not.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי שִׁמְעוֹן",
+          "meaning": "Rabbi Shimon"
+        },
+        {
+          "term": "דּוֹר הַמַּבּוּל",
+          "meaning": "the generation of the Flood"
+        },
+        {
+          "term": "מָעוֹת קוֹנוֹת",
+          "meaning": "money acquires"
+        }
+      ],
+      "whatToRemember": "רַבִּי שִׁמְעוֹן's statement equates reneging with the sins of the Flood generation.",
+      "whyThisMatters": "It creates a direct tension between רַב and רַבִּי יוֹחָנָן using Tannaitic sources.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵיתִיבִי, רַבִּי שִׁמְעוֹן אוֹמֵר:",
+          "english": "He sat, Rabbi Shimon says:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אַף עַל פִּי שֶׁאָמְרוּ טַלִּית קוֹנָה דִּינַר זָהָב,",
+          "english": "Even though they said a garment acquires a gold dinar,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאֵין דִּינַר זָהָב קוֹנֶה טַלִּית,",
+          "english": "and a gold dinar does not acquire a garment,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "מִכׇּל מָקוֹם כָּךְ הֲלָכָה. אֲבָל אָמְרוּ:",
+          "english": "in any case that is the halakha. But they said:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִי שֶׁפָּרַע מֵאַנְשֵׁי דּוֹר הַמַּבּוּל וּמֵאַנְשֵׁי",
+          "english": "Whoever is exacted from the people of the generation of the flood and from the…"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דּוֹר הַפְּלַגָּה הוּא עָתִיד לִיפָּרַע מִמִּי",
+          "english": "of the generation of the dispersion, he is destined to be exacted from him who"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "שֶׁאֵינוֹ עוֹמֵד בְּדִיבּוּרוֹ!",
+          "english": "does not stand by his word!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵיתִיבִי, רַבִּי שִׁמְעוֹן אוֹמֵר",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:7:1",
+            "hebrew": "אבל אמרו חכמים כו' - סיפא קתני החוזר בו אין רוח חכמים נוחה הימנו אלמא יש בהן משום מחוסרי אמנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'מי שפרע מאנשי דור המבול' is derived from the continuation of the Mishnah which states that one who reneges is displeasing to the חכמים, thereby proving that such a person is considered מחוסרי אמונה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: A dispute between Tannaim",
+      "stepSummary": "The Gemara resolves the contradiction by stating that the dispute between Rav and Rabbi Yochanan mirrors a dispute between Tannaim, citing a Mishna about hiring workers.",
+      "whatsHappening": "The Gemara introduces a Mishna to show that the Amoraic dispute has Tannaitic roots. This is a resolution setup.",
+      "deeperAnalysis": "The Mishna describes רַבִּי יוֹחָנָן בֶּן מַתְיָא telling his son to hire פּוֹעֲלִים. The son promised them sustenance. The father says that even a feast like Solomon's wouldn't satisfy them, so the son should tell them before they start working that they only get bread and legumes. This implies that reneging on a verbal promise before work begins is permissible, aligning with רַב's view. But the father's concern implies that once work begins, it becomes binding, aligning with רַבִּי יוֹחָנָן's view.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי יוֹחָנָן בֶּן מַתְיָא",
+          "meaning": "Rabbi Yochanan ben Matya"
+        },
+        {
+          "term": "פּוֹעֲלִים",
+          "meaning": "workers"
+        }
+      ],
+      "whatToRemember": "The Mishna distinguishes between before and after work begins.",
+      "whyThisMatters": "It provides a framework for reconciling the sources: the status of the verbal commitment depends on reliance.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "תַּנָּאֵי הִיא. דִּתְנַן:",
+          "english": "It is a matter of tanna’im. As we learned:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מַעֲשֶׂה בְּרַבִּי יוֹחָנָן בֶּן מַתְיָא שֶׁאָמַר לִבְנוֹ:",
+          "english": "An incident occurred with Rabbi Yoḥanan ben Matya, who said to his son:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "צֵא וּשְׂכוֹר לָנוּ פּוֹעֲלִים.",
+          "english": "Go out and hire laborers for us."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָלַךְ וּפָסַק לָהֶם מְזוֹנוֹת.",
+          "english": "He went and allocated sustenance for them."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וּכְשֶׁבָּא אֵצֶל אָבִיו,",
+          "english": "And when he came to his father,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר לוֹ: בְּנִי,",
+          "english": "he said to him: My son,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲפִילּוּ אַתָּה עוֹשֶׂה לָהֶם כִּסְעוּדַת שְׁלֹמֹה",
+          "english": "even if you prepare for them a feast of Solomon"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בִּשְׁעָתוֹ לֹא יָצָאתָ יְדֵי חוֹבָתְךָ עִמָּהֶם,",
+          "english": "you have not fulfilled your obligation to them,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "שֶׁהֵן בְּנֵי אַבְרָהָם יִצְחָק וְיַעֲקֹב.",
+          "english": "for they are sons of Abraham, Isaac, and Jacob."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֶלָּא עַד שֶׁלֹּא יַתְחִילוּ בִּמְלָאכָה,",
+          "english": "Rather, until they begin their work,"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "צֵא וֶאֱמוֹר לָהֶם:",
+          "english": "go out and say to them:"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "עַל מְנָת שֶׁאֵין לָכֶם עָלַי אֶלָּא",
+          "english": "on condition that you have against me only"
+        },
+        {
+          "phraseNumber": 13,
+          "aramaic": "פַּת וְקִטְנִית בִּלְבַד.",
+          "english": "bread and legumes alone."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "תַּנָּאֵי הִיא. דִּתְנַן: מַעֲשֶׂה בְּרַבִּי יוֹחָנָן בֶּן מַתְיָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        66,
+        67
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:8:1",
+            "hebrew": "תנאי היא - דאשכחן רבי יוחנן בן מתיא דפליג:",
+            "english": "",
+            "takeaway": "רש״י explains that the dispute is between תנאים, as evidenced by רבי יוחנן בן מתיא's disagreement in the Mishna."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:8:2",
+            "hebrew": "מעשה בר' יוחנן כו' - משנה היא בהשוכר את הפועלים שצוה את בנו לחזור בתנאו עד שלא יתחילו המלאכה ולפסוק להם מזונות קלים:",
+            "english": "",
+            "takeaway": "רש״י identifies the source as a Mishna in the chapter השוכר את הפועלים, where רבי יוחנן בן מתיא instructs his son to change the terms before the workers begin their labor."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to the resolution: How could the father tell the son to renege?",
+      "stepSummary": "The Gemara asks: If verbal commitments are binding (as Rabbi Yochanan holds), how could Rabbi Yochanan ben Matya tell his son to renege on the promise of sustenance?",
+      "whatsHappening": "The Gemara tests the resolution by pressing on the Mishna's details. This is a challenge to the resolution.",
+      "deeperAnalysis": "If רַבִּי יוֹחָנָן בֶּן מַתְיָא holds like רַבִּי יוֹחָנָן (that words are binding), he shouldn't be able to tell his son to break the promise. The Gemara answers that the workers did not rely on the son because they knew he was acting on behalf of his father. Thus, there was no 'reliance' (סָמְכָא דַעְתַּיְיהוּ) to create a binding obligation.",
+      "keyTerms": [
+        {
+          "term": "סָמְכָא דַעְתַּיְיהוּ",
+          "meaning": "they relied on it"
+        }
+      ],
+      "whatToRemember": "The key factor is סָמְכָא דַעְתַּיְיהוּ (reliance).",
+      "whyThisMatters": "It introduces the concept of reliance as the determinant for whether words are binding.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִי סָלְקָא דַעְתָּךְ דְּבָרִים יֵשׁ בָּהֶן",
+          "english": "And if it enters your mind that there are words in them"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשּׁוּם מְחוּסְּרֵי אֲמָנָה,",
+          "english": "Because of those lacking trustworthiness,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֵיכִי אֲמַר לֵיהּ זִיל הֲדַר בָּךְ?",
+          "english": "How did he say to him: Go, renege on yourself?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "שָׁאנֵי הָתָם, דְּפוֹעֲלִים גּוּפַיְיהוּ לָא סָמְכָא דַּעְתַּיְיהוּ.",
+          "english": "That case is different, that the workers themselves do not rely on him."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מַאי טַעְמָא – מִידָּע יָדְעִי דְּעַל אֲבוּהּ סָמֵךְ.",
+          "english": "What is the reason? From knowing I knew that on his father he relied."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאִי סָלְקָא דַעְתָּךְ דְּבָרִים יֵשׁ בָּהֶן מִשּׁוּם מְחוּסְרֵי אֲמָנָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        68
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:9:1",
+            "hebrew": "לא סמכא דעתייהו - על דברי הבן:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the workers did not rely on the son's words because they knew he was merely acting on behalf of his father."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: If they didn't rely on the son, why tell them before work begins?",
+      "stepSummary": "The Gemara asks: If the workers didn't rely on the son anyway, why did the father insist on telling them before they started working?",
+      "whatsHappening": "The Gemara presses further on the timing of the reneging. This is a challenge to the resolution.",
+      "deeperAnalysis": "If reliance on the son was never an issue, the timing shouldn't matter. The Gemara answers that once they start working, they *will* rely on the son, assuming he has already consulted his father and the father agrees. Thus, the obligation arises from the workers' reliance, which kicks in once work begins.",
+      "keyTerms": [
+        {
+          "term": "הִתְחִילוּ בִּמְלָאכָה",
+          "meaning": "they began the work"
+        }
+      ],
+      "whatToRemember": "Work begins = reliance begins = obligation begins.",
+      "whyThisMatters": "It clarifies that reliance is the mechanism that transforms words into a binding obligation.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי, אֲפִילּוּ הִתְחִילוּ בִּמְלָאכָה נָמֵי?",
+          "english": "If so, even if they began in labor also?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הִתְחִילוּ בִּמְלָאכָה, וַדַּאי סָמְכִי דַּעְתַּיְיהוּ, אֲמַרוּ:",
+          "english": "Began in labor, certainly they rely on their minds, they say:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מֵימָר אָמַר קַמֵּיהּ דַּאֲבוּהּ וְנִיחָא לֵיהּ.",
+          "english": "A statement he said before his father and it is pleasing to him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי, אֲפִילּוּ הִתְחִילוּ בִּמְלָאכָה נָמֵי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        69
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:10:1",
+            "hebrew": "מימר אמר קמיה - כבר הודיעו מה פסק לנו ונתרצה:",
+            "english": "",
+            "takeaway": "רש״י explains that the workers assume the son has already informed them of his father's ruling and that the father has consented."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge to רַבִּי יוֹחָנָן from a gift case",
+      "stepSummary": "The Gemara challenges Rabbi Yochanan's view by citing a statement in his name that one who promises a gift can renege.",
+      "whatsHappening": "The Gemara brings a direct contradiction to רַבִּי יוֹחָנָן's position from a source attributed to him. This is a challenge against רַבִּי יוֹחָנָן.",
+      "deeperAnalysis": "רַבָּא בַר בַּר חָנָא cites רַבִּי יוֹחָנָן saying that one who promises a מַתָּנָה can renege. The Gemara clarifies that this means it is *permitted* to renege, not just that one is physically able to. This contradicts the earlier statement that רַבִּי יוֹחָנָן holds words are binding. רַב פַּפָּא resolves this by saying רַבִּי יוֹחָנָן concedes that for a *small* gift, one cannot renege because people rely on it. For a large gift, people don't rely on it, so one can renege.",
+      "keyTerms": [
+        {
+          "term": "מַתָּנָה",
+          "meaning": "gift"
+        },
+        {
+          "term": "רַב פַּפָּא",
+          "meaning": "Rav Pappa"
+        },
+        {
+          "term": "רַבָּא בַר בַּר חָנָא",
+          "meaning": "Ravba bar bar Chana"
+        }
+      ],
+      "whatToRemember": "רַב פַּפָּא's distinction: small gifts = reliance = binding; large gifts = no reliance = not binding.",
+      "whyThisMatters": "It refines the principle of reliance: it depends on the magnitude of the promise.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי?",
+          "english": "And did Rabbi Yoḥanan say this?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָאָמַר רַבָּה בַּר בַּר חָנָה אָמַר רַבִּי יוֹחָנָן:",
+          "english": "And Rabba bar bar Ḥana said that Rabbi Yoḥanan says:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הָאוֹמֵר לַחֲבֵירוֹ מַתָּנָה אֲנִי נוֹתֵן לָךְ –",
+          "english": "One who says to his friend: A gift I am giving you –"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יָכוֹל לַחֲזוֹר בּוֹ. יָכוֹל, פְּשִׁיטָא!",
+          "english": "He is able to renege on it. He is able? It is obvious!"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אֶלָּא: מוּתָּר לַחֲזוֹר בּוֹ.",
+          "english": "Rather: It is permitted for him to renege on it."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אָמַר רַב פָּפָּא:",
+          "english": "Rav Pappa said:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "וּמוֹדֶה רַבִּי יוֹחָנָן בְּמַתָּנָה מוּעֶטֶת, דְּסָמְכָא דַּעְתַּיְיהוּ.",
+          "english": "And Rabbi Yoḥanan concedes regarding a small gift, that their minds rely on it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּמִי אָמַר רַבִּי יוֹחָנָן הָכִי?",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        65
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:11:1",
+            "hebrew": "מי אמר רבי יוחנן הכי - דיש בדברים משום חסרון אמנה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's challenge questions whether רבי יוחנן truly holds that words carry the weight of חסרון אמנה (a binding commitment)."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:11:2",
+            "hebrew": "יכול לחזור בו - וקשיא לן יכול פשיטא דהא לא משך ואין כח בב\"ד לכופו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Gemara's initial reading of 'יכול לחזור בו' as merely 'physically able' is obvious since the recipient hasn't taken קניין and the בית דין cannot force him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:11:3",
+            "hebrew": "אלא - ודאי על כרחך מותר לחזור בו קאמר ואשמעינן דאפילו חסרון אמנה ליכא:",
+            "english": "",
+            "takeaway": "רש״י explains that the Gemara's correction 'אלא' means the statement must be understood as 'מותר לחזור בו', teaching that there is no חסרון אמנה in a gift promise."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:11:4",
+            "hebrew": "מודה ר' יוחנן במתנה מועטת - שאין מותר לחזור משום דסמכא דעתיה דמקבל אדיבוריה וכי אמר מותר לחזור בו במתנה מרובה קאמר דלא סמכא דעתיה דמקבל דלקיימיה לדיבוריה:",
+            "english": "",
+            "takeaway": "רש״י explains that רבי יוחנן concedes regarding a small gift that one cannot renege because the recipient relies on the giver's word, whereas for a large gift, the recipient does not rely on it, so one is permitted to renege."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 49a:11:1",
+            "hebrew": "מודה רבי יוחנן במתנה מועטת - ויוקר נמי הוי כמו מתנה מועטת:",
+            "english": "",
+            "takeaway": "תוספות adds that a gift given out of יוקר (honor/respect) is treated like a small gift, meaning one cannot renege on it."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the case of the Levite and the מַעֲשֵׂר",
+      "stepSummary": "The Gemara challenges Rabbi Yochanan's view by citing a case where an Israelite promises a Levite a kor of tithe, and the Levite is allowed to separate teruma from it for other produce, implying the promise is binding.",
+      "whatsHappening": "The Gemara brings another source attributed to רַבִּי יוֹחָנָן that seems to contradict the gift case. This is a challenge to the resolution.",
+      "deeperAnalysis": "רַבִּי אֲבָהוּ cites רַבִּי יוֹחָנָן saying that if an Israelite tells a Levite he has a kor of מַעֲשֵׂר for him, the Levite can separate teruma from it for other produce. If the Israelite could renege, the Levite would be eating untithed produce (tevel). Thus, the promise must be binding. This contradicts the gift case where reneging is permitted.",
+      "keyTerms": [
+        {
+          "term": "רַבִּי אֲבָהוּ",
+          "meaning": "Rabbi Abbahu"
+        },
+        {
+          "term": "מַעֲשֵׂר",
+          "meaning": "tithe"
+        }
+      ],
+      "whatToRemember": "The Levite case implies the promise is binding enough to allow separation of teruma.",
+      "whyThisMatters": "It creates a tension within רַבִּי יוֹחָנָן's own statements.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכִי נָמֵי מִסְתַּבְּרָא,",
+          "english": "So too, it is reasonable to say"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּאָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן:",
+          "english": "For Rabbi Abbahu said, Rabbi Yoḥanan said:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "יִשְׂרָאֵל שֶׁאָמַר לְבֶן לֵוִי:",
+          "english": "An Israelite who said to a Levite:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "כּוֹר מַעֲשֵׂר יֵשׁ לְךָ בְּיָדִי.",
+          "english": "A kor of tithe is in my hand."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בֶּן לֵוִי רַשַּׁאי לַעֲשׂוֹתוֹ תְּרוּמַת מַעֲשֵׂר",
+          "english": "The Levite is permitted to make it terumat ma'aser"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "עַל מָקוֹם אַחֵר.",
+          "english": "for another place."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אִי אָמְרַתְּ בִּשְׁלָמָא לָא מָצֵי לְמִיהְדַּר בֵּיהּ –",
+          "english": "If you say that he cannot renege on it –"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "מִשּׁוּם הָכִי רַשַּׁאי.",
+          "english": "Because of that, he is permitted."
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֶלָּא אִי אָמְרַתְּ מָצֵי לְמִיהְדַּר בֵּיהּ, אַמַּאי רַשַּׁאי?",
+          "english": "But if you say that he can renege on it, why is he permitted?"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אִישְׁתְּכַח דְּקָא אָכֵיל טְבָלִים!",
+          "english": "It turns out that he is eating untithed produce!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכִי נָמֵי מִסְתַּבְּרָא, דְּאָמַר רַבִּי אֲבָהוּ אָמַר רַבִּי יוֹחָנָן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        71
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:12:4",
+            "hebrew": "משום הכי רשאי - שיש לו לסמוך על מה שכתוב (צפניה ג׳:י״ג) שארית ישראל לא יעשו עולה ולא ידברו כזב ולא יתננו ללוי אחר והא מתנה מועטת היא שאין לישראל במעשר זה אלא טובת הנאה שהיה בידו מתחילה לתת לכל בן לוי שירצה:",
+            "english": "",
+            "takeaway": "רש״י explains that the Levite is permitted to separate תרומת מעשר because the Israelite's promise is binding, as the Israelite only had the right to designate the recipient of the מעשר, and once given, he cannot retract."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: The Levite took possession and deposited it",
+      "stepSummary": "The Gemara resolves the contradiction by saying that in the Levite case, the Levite took possession of the tithe and then deposited it back with the Israelite, making it legally his.",
+      "whatsHappening": "The Gemara resolves the contradiction by proposing the Levite physically took the produce and held it in deposit. This act of acquisition changes the legal status of the transaction.",
+      "deeperAnalysis": "Physical possession (הֲקָפָה) transfers ownership, allowing the Levite to separate teruma. This aligns with רַבִּי יוֹחָנָן's principle that words alone are insufficient, but words combined with a formal act of acquisition are binding.",
+      "keyTerms": [
+        {
+          "term": "הֲקָפָה",
+          "meaning": "taking possession / encircling"
+        },
+        {
+          "term": "הִפְקִידוֹ אֶצְלוֹ",
+          "meaning": "he deposited it with him"
+        }
+      ],
+      "whatToRemember": "הֲקָפָה (taking possession) changes the legal status.",
+      "whyThisMatters": "It preserves the distinction between verbal promises and formal acquisitions.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן –",
+          "english": "Here, with what are we dealing?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כְּגוֹן שֶׁנְּטָלוֹ מִמֶּנּוּ וְחָזַר וְהִפְקִידוֹ אֶצְלוֹ.",
+          "english": "For example, that he took it from him and returned and deposited it with him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא בְּמַאי עָסְקִינַן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        72
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 49a:13:1",
+            "hebrew": "וחזר והפקידו אצלו - ה\"מ למפרך אי הכי מאי למימרא אלא דבלאו הכי פריך שפיר מסיפא:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara's resolution of the Levite taking possession is necessary to answer a difficulty that could be raised from the second clause of the Mishna, even though the primary difficulty is already clear."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the latter part of the Levite case",
+      "stepSummary": "The Gemara challenges the resolution by citing the latter part of the Levite case, where if the Israelite gives the tithe to another Levite, the first Levite only has a grievance, implying he didn't have legal ownership.",
+      "whatsHappening": "The Gemara challenges this resolution by examining the consequences if the Israelite reneges on the deal. The text notes the Levite only has a grievance, not a legal claim.",
+      "deeperAnalysis": "If the Levite had taken possession, he would own the produce and have a legal claim against the Israelite. The fact that he only has a תַּרְעוֹמֶת (grievance) implies he never acquired ownership, meaning the promise was purely verbal. This contradicts the resolution that acquisition occurred.",
+      "keyTerms": [
+        {
+          "term": "תַּרְעוֹמֶת",
+          "meaning": "grievance / complaint"
+        }
+      ],
+      "whatToRemember": "The grievance (תַּרְעוֹמֶת) implies no legal ownership.",
+      "whyThisMatters": "It forces the conclusion that verbal promises can be binding even without acquisition.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי אֵימָא סֵיפָא:",
+          "english": "If so, say the latter clause:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "נְתָנוֹ לְבֶן לֵוִי אַחֵר –",
+          "english": "He gave it to another Levite –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֵין לוֹ עָלָיו אֶלָּא תַּרְעוֹמֶת.",
+          "english": "He has against him only a grievance."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאִי סָלְקָא דַעְתָּךְ כְּגוֹן שֶׁנְּטָלוֹ מִמֶּנּוּ",
+          "english": "And if it enters your mind like that he took it from him"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְחָזַר וְהִפְקִידוֹ אֶצְלוֹ,",
+          "english": "and returned and deposited it with him,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אַמַּאי אֵין לוֹ עָלָיו אֶלָּא תַּרְעוֹמֶת?",
+          "english": "Why does he have against him only a grievance?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כֵּיוָן דְּמַשְׁכֵיהּ מָמוֹנָא אִית לֵיהּ גַּבֵּיהּ!",
+          "english": "Since he pulled it, he has money with him!"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֶלָּא לָאו, שְׁמַע מִינַּהּ בִּדְלָא נְטָלוֹ. שְׁמַע מִינַּהּ.",
+          "english": "Rather, no, learn from it that he did not take it. Learn from it."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי אֵימָא סֵיפָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        73
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:14:1",
+            "hebrew": "אין לו עליו - אין לו לבן לוי ראשון על ישראל זה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'אין לו עליו' refers to the first Levite having no legal claim against the Israelite who gave the produce to another Levite."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:14:2",
+            "hebrew": "אלא תרעומת - שהבטיחו בתוחלת נכזבה:",
+            "english": "",
+            "takeaway": "רש״י explains that 'תרעומת' means the Levite only has a grievance because his hope was dashed, implying no legal obligation was created."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:14:3",
+            "hebrew": "אלא ש\"מ בדלא נטלו - ויש בדברים משום חסרון אמנה:",
+            "english": "",
+            "takeaway": "רש״י concludes that the case must be where the Levite did not take possession, and the verbal promise constitutes a 'חסרון אמנה' (breach of trust) rather than a legal debt."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "מימרא",
+      "title": "Conclusion: The case of the sesame buyer",
+      "stepSummary": "The Gemara presents a case where a buyer gave money for sesame, the sellers reneged, the buyer refused the money, and it was stolen. Rava rules the sellers are not even liable as unpaid bailees.",
+      "whatsHappening": "The Gemara shifts to a new case involving a buyer who refused returned money after sellers reneged. רָבָא rules the sellers are not financially liable for the stolen money.",
+      "deeperAnalysis": "The Sages challenge רָבָא, asking if the sellers aren't subject to the curse of 'He Who exacted payment' for reneging. רָבָא agrees they face spiritual liability but denies financial liability, distinguishing between moral and legal obligations.",
+      "keyTerms": [
+        {
+          "term": "רָבָא",
+          "meaning": "Rava"
+        },
+        {
+          "term": "שׁוֹמֵר חִנָּם",
+          "meaning": "unpaid bailee"
+        }
+      ],
+      "whatToRemember": "רָבָא distinguishes between financial liability and spiritual liability.",
+      "whyThisMatters": "It shows that even if reneging is a spiritual failing, it may not create financial liability.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָהוּא גַּבְרָא דִּיהַיב זוּזֵי אַשּׁוּמְשְׁמֵי.",
+          "english": "That man who gave coins for sesame."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לְסוֹף אִיַּיקַּר שׁוּמְשְׁמֵי.",
+          "english": "At the end, the sesame became expensive."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֲדַרוּ בְּהוּ וַאֲמַרוּ לֵיהּ:",
+          "english": "They returned on them and said to him:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "לֵית לַן שׁוּמְשְׁמֵי, שְׁקוֹל זוּזָךְ.",
+          "english": "We have no sesame, take your coin."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "לָא שְׁקֵיל זוּזֵיהּ, אִיגְּנוּב.",
+          "english": "He did not take his coin, it was stolen."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֲתוֹ לְקַמֵּיהּ דְּרָבָא. אֲמַר לֵיהּ:",
+          "english": "They came before Rava. He said to him:"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "כֵּיוָן דְּאָמְרִי לָךְ שְׁקוֹל זוּזָךְ וְלָא שְׁקַלְיתְּ,",
+          "english": "Since they said to you: take your coin and you did not take it,"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָא מִבַּעְיָא שׁוֹמֵר שָׂכָר דְּלָא הָוֵי,",
+          "english": "It is not necessary to say that a paid bailee he was not,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "אֶלָּא אֲפִילּוּ שׁוֹמֵר חִנָּם נָמֵי לָא הָוֵי.",
+          "english": "But even an unpaid bailee he was not."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲמַרוּ לֵיהּ רַבָּנַן לְרָבָא:",
+          "english": "The Sages said to Rava:"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "וְהָא בָּעֵי לְקַבּוֹלֵי עֲלֵיהּ ״מִי שֶׁפָּרַע״?",
+          "english": "And isn't he required to accept upon himself 'He Who exacted payment'?"
+        },
+        {
+          "phraseNumber": 12,
+          "aramaic": "אֲמַר לְהוּ: הָכִי נָמֵי.",
+          "english": "He said to them: So too."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָהוּא גַבְרָא דִיהַיב זוּזֵי אַשׁוּמְשְׁמֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        74
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:15:1",
+            "hebrew": "אפילו שומר חנם נמי לא הוי - ואפילו פשעו בשמירתן פטורין:",
+            "english": "",
+            "takeaway": "רש״י explains that רבא's ruling that the sellers are not even שומר חנם means they are exempt from liability even if they were negligent in guarding the money."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:15:2",
+            "hebrew": "והא בעי לקבולי כו' - ודלמא לא הוי מקבל ואישתכח דזוזי דידיה הוה:",
+            "english": "",
+            "takeaway": "רש״י explains the Sages' challenge by suggesting that perhaps the buyer would not have accepted the קללה of מי שפרע, in which case the money would still be considered his property."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:15:3",
+            "hebrew": "הכי נמי - או משלם השומשמין או יקבל מי שפרע:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבא agrees the sellers are subject to the קללה of מי שפרע, meaning they must either pay for the sesame or accept the curse."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 49a:15:1",
+            "hebrew": "אלא אפי' שומר חנם נמי לא הוי - והא דאמר בפרק האומנין (לקמן בבא מציעא דף פ:) טול שלך והבא מעות שומר חנם היינו משום דמעיקרא היה שומר שכר וכשא\"ל טול שלך לא לסלק עצמו לגמרי משמירה קאמר אלא שלא יהיה שומר שכר:",
+            "english": "",
+            "takeaway": "תוספות reconciles רבא's ruling here with a later statement in פרק האומנין by explaining that in the later case, the seller remains a שומר חנם because he was originally a שומר שכר and only sought to reduce his liability level, whereas here the buyer's refusal completely severs the guardianship relationship."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": [],
+        "interplaySummary": "תוספות addresses a potential contradiction between רבא's ruling here and a later statement, distinguishing the cases based on the original status of the guardian, while רש״י focuses on the practical implications of the rulings regarding liability and the קללה."
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "The story of Rav Tavot",
+      "stepSummary": "The Gemara concludes with a story about Rav Tavot, a sage known for never deviating from his word, who was asked if he had sesame to sell.",
+      "whatsHappening": "The sugya concludes with an anecdote about רַב טָבוּת, who was known for never changing his word. The story ends as a man asks him about sesame, implying his verbal answer would be binding.",
+      "deeperAnalysis": "רַבִּינָא relates this story to highlight the ideal of absolute commitment to one's word. It serves as a moral counterpoint to the legal complexities discussed earlier, emphasizing the value of verbal integrity.",
+      "keyTerms": [
+        {
+          "term": "רַב טָבוּת",
+          "meaning": "Rav Tavot"
+        },
+        {
+          "term": "רַבִּינָא",
+          "meaning": "Ravina"
+        }
+      ],
+      "whatToRemember": "רַב טָבוּת represents the ideal of absolute commitment to one's word.",
+      "whyThisMatters": "It provides a moral conclusion to the legal discussion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב פַּפֵּי,",
+          "english": "Rav Pappi said,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אָמַר לִי רָבִינָא:",
+          "english": "Ravina said to me:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "לְדִידִי אֲמַר לִי הָהוּא מֵרַבָּנַן וְרַב טָבוּת שְׁמֵיהּ,",
+          "english": "To me that one of the Sages, and Rav Tavot is his name, said to me,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאָמְרִי לַהּ רַב שְׁמוּאֵל בַּר זוּטְרָא שְׁמֵיהּ,",
+          "english": "And they say to her Rav Shmuel bar Zutra is his name,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּאִי הֲווֹ יָהֲבִי לֵיהּ כֹּל חֲלָלָא",
+          "english": "That if they were to give him all the expanse"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְעָלְמָא לָא (הֲוֵי קָא) [הָוֵה] מְשַׁנֵּי",
+          "english": "Of the world he would not change"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "בְּדִבּוּרֵיהּ. בְּדִידִי הֲוָה עוֹבָדָא:",
+          "english": "In his speech. In me there was an incident:"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "הָהוּא יוֹמָא אַפַּנְיָא דְּמַעֲלֵי שַׁבְּתָא הֲוָה,",
+          "english": "That day twilight of ascending Shabbat was,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "וַהֲוָה יָתֵיבְנָא, וַאֲתָא הָהוּא גַּבְרָא וְקָאֵי אַבָּבָא.",
+          "english": "And I was sitting, and that man came and stood at the door."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "אֲמַר לִי: אִית לָךְ שׁוּמְשְׁמֵי לְזַבּוֹנֵי?",
+          "english": "He said to me: Do you have sesame to sell?"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב פַּפֵּי, אָמַר לִי רָבִינָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        75
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "continues",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 49a:16:1",
+            "hebrew": "בדידי הוה עובדא - אותו מעשה דשומשמין על ידי היה ולא כן היה שאילו קיבלתים לתת את השומשמין לא הייתי חוזר בי בכל חללו של עולם ולא על כן באנו לדין אלא כך היה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the story of Rav Tavot is not presented as a legal precedent where he was bound by his word, but rather as a personal anecdote Ravina shared about himself, implying that Rav Tavot's commitment to his word was a personal trait rather than a legal obligation."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-14T02:59:23.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 131.84413090004819,
+      "structure": 2191.5508721000515,
+      "validate": 340.1751865003025,
+      "translate": 493.0403166002361,
+      "meforshim": 1169.7779034001287,
+      "teaching": 1159.4766949000768
+    }
+  }
+}

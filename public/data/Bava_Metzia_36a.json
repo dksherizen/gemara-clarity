@@ -1,0 +1,661 @@
+{
+  "ref": "Bava Metzia 36a",
+  "masechet": "Bava_Metzia",
+  "daf": 36,
+  "amud": "a",
+  "mainTopic": "שומר שמסר לשומר",
+  "overview": "A debate between Rav and Rabbi Yochanan regarding the liability of a bailee who transfers custody to another, with Rav Hisda and Rav Giddel providing clarifications and Rava establishing the final halakha. — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 8,
+      "endLine": 17,
+      "topic": "שומר שמסר לשומר",
+      "gist": "A debate between Rav and Rabbi Yochanan regarding the liability of a bailee who transfers custody to another, with Rav Hisda and Rav Giddel providing clarifications and Rava establishing the final halakha. — discussion continues into next amud.",
+      "openingFormula": "איתמר",
+      "firstStepNumber": 1,
+      "lastStepNumber": 8
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "מימרא",
+      "title": "The dispute between Rav and Rabbi Yochanan",
+      "stepSummary": "The sugya opens with an איתמר stating the fundamental disagreement: Rav holds a bailee who transfers custody to another bailee is exempt, while Rabbi Yochanan holds he is liable.",
+      "whatsHappening": "The sugya begins with the foundational dispute (אִיתְמַר) regarding שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר.",
+      "deeperAnalysis": "The core question is whether transferring custody to a third party absolves the original bailee of liability. Rav argues for exemption (פָּטוּר), while Rabbi Yochanan argues for liability (חַיָּב). This sets the stage for the entire sugya.",
+      "keyTerms": [
+        {
+          "term": "שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר",
+          "meaning": "a bailee who transferred [custody] to another bailee"
+        },
+        {
+          "term": "פָּטוּר",
+          "meaning": "exempt [from liability]"
+        },
+        {
+          "term": "חַיָּב",
+          "meaning": "liable"
+        }
+      ],
+      "whatToRemember": "The dispute is about שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר. Rav = פָּטוּר, RY = חַיָּב.",
+      "whyThisMatters": "This is the central halachic question of the sugya.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִתְּמַר: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר,",
+          "english": "It was stated: A guardian who handed over to a guardian,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רַב אָמַר: פָּטוּר,",
+          "english": "Rav said: Exempt,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְרַבִּי יוֹחָנָן אָמַר: חַיָּיב.",
+          "english": "And Rabbi Yochanan said: Liable."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִתְּמַר: שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר, רַב אָמַר: פָּטוּר, וְרַבִּי יוֹחָנָן אָמַר: חַיָּב.",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:8:1",
+            "hebrew": "רב אמר פטור - מכל מה שהיה נפטר אם שמרה הוא עצמו:",
+            "english": "",
+            "takeaway": "רש״י explains that רב's position of פטור means the original שומר is exempt from all liabilities from which he would have been exempt had he kept the item himself."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:8:2",
+            "hebrew": "חייב - אפי' באונסין:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבי יוחנן's position of חייב means the original שומר is liable even for אונסין."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 36a:8:1",
+            "hebrew": "רב אמר פטור - וא\"ת והא תנן פ\"ג דגיטין (דף כט.) אם אמר טול הימנה חפץ פלוני לא ישלחנו ביד אחר וי\"ל דאע\"ג דאסור להפקידו ביד אחר מ\"מ בשביל כך אינו חייב לפרוע:",
+            "english": "",
+            "takeaway": "תוספות addresses a difficulty from גיטין that prohibits sending an item via a third party, and resolves it by distinguishing between the prohibition of transferring custody and the financial liability for loss."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "מימרא",
+      "title": "Abbaye explains Rav's reasoning",
+      "stepSummary": "Abbaye explains that according to Rav, even a paid bailee who transfers to an unpaid bailee (lowering the level of custody) is exempt, because he transferred it to a person of understanding.",
+      "whatsHappening": "Abbaye clarifies the scope of Rav's exemption.",
+      "deeperAnalysis": "Abbaye pushes Rav's leniency to its limit: even if the second bailee is less reliable (שׁוֹמֵר חִנָּם vs שׁוֹמֵר שְׂכָר), the first bailee is still exempt. The reason is that he gave it to a בֶּן דַּעַת (a competent person), which suffices for Rav.",
+      "keyTerms": [
+        {
+          "term": "שׁוֹמֵר חִנָּם",
+          "meaning": "unpaid bailee"
+        },
+        {
+          "term": "שׁוֹמֵר שְׂכָר",
+          "meaning": "paid bailee"
+        },
+        {
+          "term": "בֶּן דַּעַת",
+          "meaning": "person of understanding / competent person"
+        }
+      ],
+      "whatToRemember": "Rav's leniency is broad: even lowering the level of custody is exempt if the recipient is a בֶּן דַּעַת.",
+      "whyThisMatters": "It defines the parameters of Rav's opinion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר אַבָּיֵי, לְטַעְמֵיהּ דְּרַב,",
+          "english": "Abbaye said, according to Rav's reasoning,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא מִבַּעְיָא שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר",
+          "english": "it is not necessary an unpaid guardian who handed it to a guardian"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "שָׂכָר דְּעַלּוֹיֵי עַלְּיַיהּ לִשְׁמִירָתוֹ,",
+          "english": "for hire, who raises its guarding,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אֲפִילּוּ שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם,",
+          "english": "but rather even a paid guardian who handed it to an unpaid guardian,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּגָרוֹעֵי גָּרְעַהּ לִשְׁמִירָתוֹ –",
+          "english": "who lowers its guarding –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "פָּטוּר. מַאי טַעְמָא?",
+          "english": "is exempt. What is the reason?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "דְּהָא מְסָרָהּ לְבֶן דַּעַת.",
+          "english": "that behold, he gave it to a person of understanding."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר אַבָּיֵי, לְטַעְמֵיהּ דְּרַב, לָא מִבַּעְיָא שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שְׂכָר...",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:9:1",
+            "hebrew": "ולא מיבעיא כו' - דפטור מן האונסין ואין לך לומר פשיעה היא זו שמסרה לאחר:",
+            "english": "",
+            "takeaway": "רש״י explains that the first bailee is exempt from אונסין, and this exemption applies even if one might argue that handing it over to another constitutes פשיעה."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "מימרא",
+      "title": "Abbaye explains Rabbi Yochanan's reasoning",
+      "stepSummary": "Abbaye explains that according to Rabbi Yochanan, even an unpaid bailee who transfers to a paid bailee (raising the level of custody) is liable, because the owner can claim he didn't want his deposit in another's hands.",
+      "whatsHappening": "Abbaye clarifies the scope of Rabbi Yochanan's liability.",
+      "deeperAnalysis": "Abbaye pushes Rabbi Yochanan's stringency to its limit: even if the second bailee is more reliable (שׁוֹמֵר שְׂכָר vs שׁוֹמֵר חִנָּם), the first bailee is still liable. The reason is the owner's prerogative: 'אֵין רְצוֹנִי שֶׁיִּהְיֶה פִּקְדוֹנִי בְּיַד אַחֵר'.",
+      "keyTerms": [
+        {
+          "term": "אֵין רְצוֹנִי שֶׁיִּהְיֶה פִּקְדוֹנִי בְּיַד אַחֵר",
+          "meaning": "I do not want my deposit to be in the hand of another"
+        }
+      ],
+      "whatToRemember": "RY's stringency is broad: even raising the level of custody is liable due to the owner's preference.",
+      "whyThisMatters": "It defines the parameters of RY's opinion.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּלְטַעְמֵיהּ דְּרַבִּי יוֹחָנָן,",
+          "english": "And according to the reasoning of Rabbi Yochanan,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "לָא מִיבַּעְיָא שׁוֹמֵר שָׂכָר שֶׁמָּסַר לְשׁוֹמֵר",
+          "english": "it is not necessary [to say] a paid guardian who passes it on to a…"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חִנָּם דְּגָרוֹעֵי גָּרְעַהּ לִשְׁמִירָתוֹ,",
+          "english": "free, as he lowers its guarding,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֶלָּא אֲפִילּוּ שׁוֹמֵר חִנָּם שֶׁמָּסַר לְשׁוֹמֵר שָׂכָר,",
+          "english": "but rather even an unpaid guardian who passes it on to a paid guardian,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "דְּעַלּוֹיֵי עַלְּיַיהּ לִשְׁמִירָתוֹ – חַיָּיב.",
+          "english": "as he raises its guarding – is liable."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "דְּאָמַר לֵיהּ: ״אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר״.",
+          "english": "As he said to him: 'It is not my wish that my deposit be in the hand of another.'"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וּלְטַעְמֵיהּ דְּרַבִּי יוֹחָנָן, לָא מִיבַּעְיָא שׁוֹמֵר שְׂכָר שֶׁמָּסַר לְשׁוֹמֵר חִנָּם...",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "explains",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 36a:10:1",
+            "hebrew": "אין רצוני שיהא פקדוני ביד אחר - אין לפרש דטעמא דחייב לר' יוחנן אליבא דאביי משום דשינה מדעת המפקיד ולכך יתחייב בכל האונסין אפי' באונסין שהיו ראוין לבא ברשות שומר הראשון דא\"כ מאי פריך אביי לרבא לקמן לימא ליה ר' אמי לר' אבא מלאך המות מה לי הכא מה לי התם כו' והלא כיון דשינה מדעת בעל הפרה הוא חייב אפילו באונסין שהיו באין אפי' אם היתה ברשותו לכך הוצרך לתרץ שהשאיל מדעת בעלים אלא י\"ל דהטעם הוא דחשיב כאילו פירש לו שאם ישנה מדעתו כגון שימסרנה לאחר שיהיה כאילו פשע בה וכל אונסין שיארעו לה שנוכל לתלות שאם לא מסרה לאחר שלא היו נארעים חייב בה כגון אם מתה בבית שומר שני דיש לתלות דהבלא דאותו בית קטלה ושמא אם היתה בבית שומר הראשון לא היתה מתה שבריא בית אחד יותר מאחר והוי כפשע בה ויצאה לאגם שהוא מרעה שמן וטוב ומתה דחייב לאביי דאמר דהבלא דאגמא קטלה וכן לרב אם מסרה לחש\"ו ומתה ברשותן חייב מהאי טעמא והיכא שלא פשע בה כגון לרב כשמסרה לבן דעת או שנעל בפניה כראוי ויצאה לאגם או שהוליכה בעצמו לאגם ומתה שם פטור אבל אם נעל בפניה שלא כראוי אע\"פ שפשע אם מתה שם פטור כיון דאפילו נעל בפניה כראוי היתה מתה שם ואפילו למ\"ד תחילתו בפשיעה וסופו באונס חייב היינו דוקא כמו צריפא דאורבני דאפשר אם לא פשע מתחילה לא היה נארע אונס של גניבה וכן מוכח פרק האומנין (לקמן בבא מציעא דף עח. ושם ד\"ה הוחמה) דתנן השוכר את הפרה להוליכה בהר והוליכה בבקעה והוחלקה פטור הוחמה חייב והשתא למ\"ד תחילתו בפשיעה וסופו באונס חייב כי נמי הוחלקה אמאי פטור הלא תחילתה בפשיעה לענין הוחמה וסופה באונס לענין הוחלקה אלא משום דאפילו הוליכה בהר כל שכן דהוחלקה לכך פריך לקמן אביי לרבא שפיר ואפי' למ\"ד תחילתו בפשיעה וסופו באונס פטור הכא כשמסר לשומר אחר חייב דהתם בצריפא דאורבני לא היה האונס ראוי להיות נארע עד שבאו גנבים אבל הכא אגלאי מילתא שאותו הבל ואותו מקום היה מסוכן יותר להמית בהמה זו דמיד שבאת שם התחיל החולי וכן קאמר אביי לקמן דאפי' למ\"ד פטור הכא חייב:",
+            "english": "",
+            "takeaway": "תוספות explains that the liability is not because the bailee changed the owner's mind regarding all damages, but rather because transferring the item to another is considered a פשע, making the bailee liable for damages that could be attributed to the change in location or custodian."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Chisda clarifies Rav's ruling",
+      "stepSummary": "Rav Chisda states that Rav's ruling of exemption was not stated explicitly, but only implied from a specific case involving gardeners and an elderly woman.",
+      "whatsHappening": "Rav Chisda provides a story to clarify the scope of Rav's ruling.",
+      "deeperAnalysis": "Rav Chisda limits Rav's exemption. He tells a story where a gardener deposited hoes with another gardener, who then deposited them with an elderly woman. When they were stolen, Rav exempted the first gardener. Rav Chisda argues this was not a general ruling on שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר, but a specific case where the owner already deposited with the elderly woman daily, so the transfer was effectively back to the original custodian.",
+      "keyTerms": [
+        {
+          "term": "מִכְלָלָא",
+          "meaning": "implied / inferred"
+        },
+        {
+          "term": "פֵּירוּשׁ",
+          "meaning": "explicitly stated"
+        }
+      ],
+      "whatToRemember": "Rav's exemption might be limited to cases where the owner already uses the second bailee.",
+      "whyThisMatters": "It narrows Rav's leniency.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רַב חִסְדָּא:",
+          "english": "Said Rav Chisda:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הָא דְּרַב לָאו בְּפֵירוּשׁ אִתְּמַר,",
+          "english": "This of Rav was not stated explicitly,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אֶלָּא מִכְּלָלָא. דְּהָנְהוּ גִּינָּאֵי,",
+          "english": "but rather implied. For those gardeners,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דְּכֹל יוֹמָא הֲווֹ מַפְקְדִי מָרַיְיהוּ גַּבַּהּ דְּהַהִיא סָבְתָּא.",
+          "english": "every day they were depositing their hoes with that old woman."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יוֹמָא חַד אַפְקְדֻינְהוּ לְגַבֵּי חַד מִינַּיְיהוּ,",
+          "english": "One day they deposited them with one of them,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "שְׁמַע קָלָא בֵּי הִלּוּלָא נְפַק אֲזַל.",
+          "english": "heard a sound of a wedding party, went out."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אַפְקְדִינְהוּ לְגַבַּהּ דְּהַהִיא סָבְתָּא, אַדַּאֲזַל וַאֲתָא אִגְּנוּב מָרַיְיהוּ.",
+          "english": "They deposited them with that old woman, before he went and came, their hoes were stolen."
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "אֲתָא לְקַמֵּיהּ דְּרַב וּפַטְרֵיהּ,",
+          "english": "He came before Rav and he exempted him,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "מַאן דַּחֲזָא סָבַר מִשּׁוּם שׁוֹמֵר שֶׁמָּסַר לְשׁוֹמֵר פָּטוּר.",
+          "english": "The one who saw thought on account of a guardian who handed over to a guardian is exempt."
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "וְלָא הִיא, שָׁאנֵי הָתָם דְּכֹל יוֹמָא נָמֵי אִינְהוּ",
+          "english": "And it was not so, there is different there that also every day they"
+        },
+        {
+          "phraseNumber": 11,
+          "aramaic": "גּוּפַיְיהוּ גַּבַּהּ דְּהַהִיא סָבְתָּא הֲווֹ מַפְקְדִי לְהוּ.",
+          "english": "themselves with that old woman were depositing them."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רַב חִסְדָּא: הָא דְּרַב לָא בְּפֵירוּשׁ אִתְּמַר, אֶלָּא מִכְלָלָא...",
+      "macroPhase": "clarification_of_terms",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        23
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "clarifies",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:11:1",
+            "hebrew": "מרייהו - פושויי\"ר בלע\"ז:",
+            "english": "",
+            "takeaway": "רש״י explains that מרייהו refers to the hoes (פושויי"
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:12:1",
+            "hebrew": "מאן דחזא - אחד מן התלמידים ששמע מפיו דפטריה סבר שומר שמסר לשומר כו':",
+            "english": "",
+            "takeaway": "רש״י clarifies that מאן דחזא refers to a student who heard Rav's ruling and mistakenly assumed it established a general principle that שומר שמסר לשומר is exempt."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:12:2",
+            "hebrew": "הוו מפקדי לה - דלא מצו אמרי ליה אין רצוננו שיהא בידה:",
+            "english": "",
+            "takeaway": "רש״י explains that הוו מפקדי לה means the owners could not object to the items being with the elderly woman because they deposited them there daily."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah on רַבִּי יוֹחָנָן",
+      "stepSummary": "Rav Abba bar Mammel challenges Rabbi Yochanan's position from a Mishnah about a rented cow lent to another, where the renter is only liable to swear, not pay.",
+      "whatsHappening": "The Gemara challenges רַבִּי יוֹחָנָן's broad liability rule using a Mishnah about a renter who lends the animal.",
+      "deeperAnalysis": "The Mishnah rules that a renter who lends the animal only swears if it dies naturally. If transferring custody creates liability, the renter should pay. The owner could claim he did not want the animal in another's hands.",
+      "keyTerms": [
+        {
+          "term": "הַשּׂוֹכֵר",
+          "meaning": "the renter"
+        },
+        {
+          "term": "הַשּׁוֹאֵל",
+          "meaning": "the borrower"
+        },
+        {
+          "term": "יִשָּׁבַע",
+          "meaning": "he should swear"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "יָתֵיב רַבִּי אַמֵּי וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא.",
+          "english": "Rabbi Ami sat and was saying to her this hearing."
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אֵיתִיבֵיהּ רַבִּי אַבָּא בַּר מֶמֶל לְרַבִּי אַמֵּי:",
+          "english": "Rabbi Abba bar Mammel objected to Rabbi Ami:"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הַשּׂוֹכֵר פָּרָה מֵחֲבֵירוֹ וְהִשְׁאִילָהּ לְאַחֵר וּמֵתָה כְּדַרְכָּהּ –",
+          "english": "The one who rents a cow from his fellow and lent it to another and it died in its way…"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "יִשָּׁבַע הַשּׂוֹכֵר שֶׁמֵּתָה כְּדַרְכָּהּ וְהַשּׁוֹאֵל מְשַׁלֵּם לַשּׂוֹכֵר.",
+          "english": "The renter should swear that it died in its way and the borrower pays to the renter."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִם אִיתָא, לֵימָא לֵיהּ:",
+          "english": "And if so, let him say to him:"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר!",
+          "english": "It is not my desire that my deposit be in the hand of another!"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "אֲמַר לֵיהּ: הָכָא בְּמַאי עָסְקִינַן?",
+          "english": "He said to him: Here with what are we dealing?"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "בְּשֶׁנָּתְנוּ לוֹ רְשׁוּת הַבְּעָלִים לְהַשְׁאִיל.",
+          "english": "In that they gave him permission of the owners to lend."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "יָתֵיב רַבִּי אַמֵּי וְקָאָמַר לַהּ לְהָא שְׁמַעְתָּא. אֵיתִיבֵיהּ רַבִּי אַבָּא בַּר מֶמֶל לְרַבִּי אַמֵּי...",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:13:1",
+            "hebrew": "להא שמעתא - דר' יוחנן רביה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that רבי אמי was teaching the הלכה of רבי יוחנן, establishing the context for the challenge."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "קשיא",
+      "title": "Follow-up: Why doesn't the borrower pay?",
+      "stepSummary": "A follow-up challenge asks: if the owner gave permission, why doesn't the borrower have to pay the owner directly?",
+      "whatsHappening": "The Gemara presses further: if the owner permitted the lending, why doesn't the borrower pay the owner directly?",
+      "deeperAnalysis": "The resolution is that the owner's permission was limited to 'לְדַעְתְּךָ' (according to your judgment). This means the renter decides who to lend to, but the renter remains liable to the owner.",
+      "keyTerms": [
+        {
+          "term": "לְדַעְתְּךָ",
+          "meaning": "according to your judgment / discretion"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אִי הָכִי לִבְעָלִים בָּעֵי לְשַׁלּוֹמֵי!",
+          "english": "If so, to the owners he needs to pay!"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דַּאֲמַרוּ לֵיהּ: לְדַעְתָּךְ.",
+          "english": "That they said to him: according to your judgment."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אִי הָכִי לִבְעָלִים בָּעֵי לְשַׁלּוֹמֵי! דַּאֲמַרוּ לֵיהּ: לְדַעְתְּךָ.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:14:1",
+            "hebrew": "אי הכי לבעלים בעי לשלומי - שואל שהם השאילוה לו:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the borrower is considered a שואל because the owners themselves lent the cow to him."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:14:2",
+            "hebrew": "דאמרי ליה - בעלים לשוכר:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase דאמרי ליה refers to the owners speaking to the renter."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:14:3",
+            "hebrew": "לדעתך - כרצונך אם תרצה להשאילה לו ימי שכירותך אין אנו מקפידין הלכך הוא השאילה והבעלים אין יכולין לומר אין רצוננו:",
+            "english": "",
+            "takeaway": "רש״י interprets לדעתך as the owners granting the renter full discretion to lend the cow during the rental period, thereby preventing the owners from later claiming they did not consent to the specific borrower."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from the Mishnah on depositing with minors",
+      "stepSummary": "Rami bar Chama challenges Rabbi Yochanan from a Mishnah about depositing coins with minors, where the bailee is liable only if he didn't guard properly.",
+      "whatsHappening": "A new challenge arises from a Mishnah about a bailee who gives deposited coins to his minor children.",
+      "deeperAnalysis": "The Mishnah makes the bailee liable for giving coins to minors. This implies he would be exempt if he gave them to adults. If transferring custody creates liability, why is he exempt with adults? The owner could claim he did not want the coins in another's hands.",
+      "keyTerms": [
+        {
+          "term": "קְטַנִּים",
+          "meaning": "minors"
+        },
+        {
+          "term": "גְּדוֹלִים",
+          "meaning": "adults"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מֵתִיב רָמֵי בַּר חָמָא:",
+          "english": "Rami bar Chama raises an objection:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הַמַּפְקִיד מָעוֹת אֵצֶל חֲבֵירוֹ צְרָרָן וְהִפְשִׁילָן לַאֲחוֹרָיו,",
+          "english": "One who deposits coins with his neighbor, he tied them and pushed them behind him,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "מְסָרָן לִבְנוֹ וּבִתּוֹ הַקְּטַנִּים,",
+          "english": "He gave them to his minor son and daughter,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְנָעַל בִּפְנֵיהֶם שֶׁלֹּא כָּרָאוּי –",
+          "english": "And locked before them in a way that is not proper –"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "חַיָּיב, שֶׁלֹּא שָׁמַר כְּדֶרֶךְ הַשּׁוֹמְרִים.",
+          "english": "He is liable, because he did not guard as the way of guardians."
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "טַעְמָא דִּקְטַנִּים, הָא גְּדוֹלִים – פָּטוּר. אַמַּאי?",
+          "english": "The reason is that they are minors, but adults – he is exempt. Why?"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נֵימָא לֵיהּ: אֵין רְצוֹנִי שֶׁיְּהֵא פִּקְדוֹנִי בְּיַד אַחֵר!",
+          "english": "Let him say to him: I do not want my deposit to be in the hand of another!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "מֵתִיב רָמֵי בַּר חָמָא: הַמַּפְקִיד מָעוֹת אֵצֶל חֲבֵרוֹ...",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        25
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:15:1",
+            "hebrew": "מסרן לבנו כו' - או שמסרן לבנו ולבתו הקטנים:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the Mishnah's phrase 'his son and daughter' refers to minor children who lack legal capacity, which is why the guardian remains liable for their improper custody."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 36a:15:2",
+            "hebrew": "בפניהם - בפני אותם הקטנים שלא יצאו לחוץ ויאבדו המעות:",
+            "english": "",
+            "takeaway": "רש״י explains that 'in front of them' means the guardian locked the money while the minors were present, ensuring they could not take it outside and lose it, yet he is still liable for not locking it properly."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "רַבָּא's resolution: implicit consent for family",
+      "stepSummary": "Rava resolves the difficulty by stating that anyone who deposits does so with the intention that it can be guarded by the bailee's wife and children.",
+      "whatsHappening": "רַבָּא resolves the challenge by arguing the owner implicitly consents to the bailee using his family for custody.",
+      "deeperAnalysis": "The owner cannot claim 'I don't want it in another's hands' when it comes to the bailee's immediate family. This limits the scope of 'another' to outsiders.",
+      "keyTerms": [
+        {
+          "term": "עַל דַּעַת אִשְׁתּוֹ וּבָנָיו",
+          "meaning": "with the intention of his wife and children"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא:",
+          "english": "Said Rava:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כׇּל הַמַּפְקִיד עַל דַּעַת אִשְׁתּוֹ וּבָנָיו הוּא מַפְקִיד.",
+          "english": "Any one who deposits with the knowledge of his wife and his sons, he deposits."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא: כָּל הַמַּפְקִיד עַל דַּעַת אִשְׁתּוֹ וּבָנָיו הוּא מַפְקִיד.",
+      "macroPhase": "objection_defense_cycle",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        30
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T19:36:43.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "validate": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 80.02530660002958,
+      "structure": 860.4683259999729,
+      "validate": 111.11377679998986,
+      "translate": 137.1125211000326,
+      "meforshim": 284.6877119001001,
+      "teaching": 324.43104979995405
+    }
+  }
+}

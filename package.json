@@ -12,12 +12,13 @@
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.40.0",
-    "openai": "^4.80.0",
     "@google/generative-ai": "^0.21.0",
     "idb": "^8.0.0",
-    "zod": "^3.24.1",
+    "mermaid": "^11.15.0",
+    "openai": "^4.80.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",

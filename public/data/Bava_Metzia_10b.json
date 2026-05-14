@@ -1,0 +1,1295 @@
+{
+  "ref": "Bava Metzia 10b",
+  "masechet": "Bava_Metzia",
+  "daf": 10,
+  "amud": "b",
+  "mainTopic": "(continues) ארבע אמות של אדם קונות לו",
+  "overview": "The Gemara discusses the principle that a person's four cubits acquire for them, analyzing the status of a minor and the distinction between acquisition via hand (yad) and agency (shlichut). — discussion continues into next amud.",
+  "sugyaBoundaries": [
+    {
+      "sugyaNumber": 1,
+      "startLine": 1,
+      "endLine": 18,
+      "topic": "(continues) ארבע אמות של אדם קונות לו",
+      "gist": "The Gemara discusses the principle that a person's four cubits acquire for them, analyzing the status of a minor and the distinction between acquisition via hand (yad) and agency (shlichut). — discussion continues into next amud.",
+      "openingFormula": "מַתְנִי׳ רָאָה אֶת הַמְּצִיאָה וְנָפַל עָלֶיהָ",
+      "firstStepNumber": 1,
+      "lastStepNumber": 18
+    }
+  ],
+  "steps": [
+    {
+      "stepNumber": 1,
+      "hebrewStepName": "תירוץ",
+      "title": "רַב פַּפָּא's Resolution: Four Cubits Not Enacted in Owner's Field",
+      "stepSummary": "Rav Pappa offers an alternative resolution: the four cubits enactment does not apply in a landowner's field.",
+      "whatsHappening": "רַב פַּפָּא provides a different resolution. The four cubits enactment applies in public spaces, but not in a landowner's field where פֵּאָה is located.",
+      "deeperAnalysis": "רַב פַּפָּא distinguishes between public land (בְּעָלְמָא) and a landowner's field (בְּשָׂדֶה דְּבַעַל הַבַּיִת). Even though the Torah gives the poor rights to פֵּאָה, it doesn't give them the right to treat the field as their courtyard (לְמִיהְוֵי חֲצֵירוֹ). Thus, the four cubits enactment doesn't apply there.",
+      "keyTerms": [
+        {
+          "term": "בְּעָלְמָא",
+          "meaning": "In the world, i.e., public land"
+        },
+        {
+          "term": "בְּשָׂדֶה דְּבַעַל הַבַּיִת",
+          "meaning": "In a landowner's field"
+        },
+        {
+          "term": "חֲצֵירוֹ",
+          "meaning": "His courtyard"
+        }
+      ],
+      "whatToRemember": "רַב פַּפָּא limits the four cubits enactment to public spaces, not private fields.",
+      "confusionAlert": "This resolution focuses on the location, not the intent.",
+      "whyThisMatters": "It clarifies the scope of the four cubits enactment regarding private property.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב פָּפָּא אָמַר:",
+          "english": "Rav Pappa said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי תַּקִּינוּ לֵיה רַבָּנַן אַרְבַּע אַמּוֹת – בְּעָלְמָא,",
+          "english": "When the Sages instituted for him four cubits — in the world,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּשָׂדֶה דְּבַעַל הַבַּיִת לָא תַּקִּינוּ לֵיה רַבָּנַן.",
+          "english": "in a field of the owner they did not institute for him."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְאַף עַל גַּב דִּזְכָה לֵיהּ רַחֲמָנָא בְּגַוַּהּ,",
+          "english": "And even though the Merciful One granted him in it,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "כִּי זְכָה לֵיהּ רַחֲמָנָא –",
+          "english": "when the Merciful One granted him —"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לְהַלּוֹכֵי בַּהּ וּלְנַקּוֹטֵי פֵּיאָה,",
+          "english": "to walk in it and to take pe'a,"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְמִיהְוֵי חֲצֵירוֹ לָא זְכָה לֵיהּ רַחֲמָנָא.",
+          "english": "to be his courtyard the Merciful One did not grant him."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב פָּפָּא אָמַר: כִּי תַּקִּינוּ לֵיה רַבָּנַן אַרְבַּע אַמּוֹת – בְּעָלְמָא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        29
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:1:1",
+            "hebrew": "ה\"ג כי תקון ליה רבנן בעלמא - כגון בסמטא שהוא רשות לכל אדם או ברה\"ר או בצידי רשות הרבים והיא הפקר לרבים למשוך לתוכה הצריכין לצאת מן הדחק:",
+            "english": "",
+            "takeaway": "רש״י explains that בְּעָלְמָא refers to public domains like a alleyway, public domain, or the sides of a public domain where many people have access and can move freely."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:1:2",
+            "hebrew": "לא תקון ליה רבנן - שהרי אין לאדם שם ד' אמות מיוחדות שהרבה חברים יש לו בתוכה עומדים אצלו:",
+            "english": "",
+            "takeaway": "רש״י explains that in a landowner's field, the enactment of four cubits does not apply because the poor do not have a specific four-cubit area designated for them, as many other poor people are standing there with them."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 2,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge from נְזִיקִין",
+      "stepSummary": "Rava cites Rabbi Yaakov bar Idi's challenge from a Mishnah in Nezikin, where falling on a found item does not acquire it.",
+      "whatsHappening": "The Gemara presents a second challenge, this time from a Mishnah in נְזִיקִין (בַּבָּא מְצִיעָא itself). If four cubits acquire, why doesn't falling on a found item acquire it?",
+      "deeperAnalysis": "The challenge is identical in structure to the פֵּאָה challenge: וְאִי אָמְרַתְּ אַרְבַּע אַמּוֹת שֶׁל אָדָם קוֹנוֹת לוֹ בְּכָל מָקוֹם – נִקְנוֹ לֵיהּ אַרְבַּע אַמּוֹת דִּידֵיהּ! (And if you say that a person's four cubits acquire for him everywhere, let his four cubits acquire it for him!). This challenge is more direct because it's from the same tractate.",
+      "keyTerms": [
+        {
+          "term": "נְזִיקִין",
+          "meaning": "Damages, the order in the Talmud containing בַּבָּא מְצִיעָא"
+        },
+        {
+          "term": "מַצִּיאָה",
+          "meaning": "Found item"
+        }
+      ],
+      "whatToRemember": "The challenge is from נְזִיקִין, where falling on a found item does not effect acquisition.",
+      "confusionAlert": "This challenge is structurally identical to the פֵּאָה challenge.",
+      "whyThisMatters": "It tests the four cubits principle in the context of found items (מַצִּיאָה).",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבָא, מוֹתֵיב רַבִּי יַעֲקֹב בַּר אִידִי נְזִיקִין:",
+          "english": "Rava said, Rabbi Ya'akov bar Idi raises an objection from Nezikin:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "רָאָה אֶת הַמְּצִיאָה וְנָפַל לוֹ עָלֶיהָ",
+          "english": "He saw the found item and fell upon it"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וּבָא אַחֵר וְהֶחְזִיק בָּהּ,",
+          "english": "and another came and seized it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "זֶה שֶׁהֶחְזִיק בָּהּ זָכָה בַּהּ.",
+          "english": "the one who seized it acquired it."
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְאִי אָמְרַתְּ אַרְבַּע אַמּוֹת שֶׁל אָדָם",
+          "english": "And if you say that a person's four cubits"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "קוֹנוֹת לוֹ בְּכׇל מָקוֹם –",
+          "english": "acquire for him everywhere –"
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "נִקְנוֹ לֵיהּ אַרְבַּע אַמּוֹת דִּידֵיהּ!",
+          "english": "his four cubits acquired it for him!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "אָמַר רָבָא, מוֹתֵיב רַבִּי יַעֲקֹב בַּר אִידִי נְזִיקִין",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        28
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges"
+    },
+    {
+      "stepNumber": 3,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Falling Reveals Intent to Forgo Four Cubits (נְזִיקִין)",
+      "stepSummary": "The Gemara resolves the Nezikin challenge using the same logic as the Peah challenge: falling reveals intent to acquire via falling, not via four cubits.",
+      "whatsHappening": "The Gemara applies the same resolution used for פֵּאָה to the נְזִיקִין challenge. The act of falling reveals the person's intent to acquire via falling, thereby waiving the four cubits enactment.",
+      "deeperAnalysis": "The resolution is identical: הָכָא בְּמַאי עָסְקִינַן, דְּלָא אֲמַר ״אֶקְנֵי״. וְאִי תַּקּוּן רַבָּנַן, כִּי לָא אֲמַר מַאי הָוֵי! כֵּיוָן דְּנָפַל עָלֶיהָ, גַּלִּי דַעְתֵּיהּ דְּבִנְפִילָה נִיחָא לֵיהּ דְּנִקְנֵי, בְּאַרְבַּע אַמּוֹת לָא נִיחָא לֵיהּ דְּנִקְנֵי. (Here we are dealing with a case where he did not say 'I will acquire'. But if the Sages enacted it, what difference does it make if he didn't say? Since he fell on it, he revealed his intent that he is satisfied to acquire via falling, and not satisfied to acquire via four cubits).",
+      "keyTerms": [
+        {
+          "term": "גַּלִּי דַעְתֵּיהּ",
+          "meaning": "Revealed his intent"
+        },
+        {
+          "term": "נִיחָא לֵיהּ",
+          "meaning": "He is satisfied with"
+        }
+      ],
+      "whatToRemember": "The same resolution applies to both פֵּאָה and נְזִיקִין challenges.",
+      "confusionAlert": "This resolution is repeated, showing its importance.",
+      "whyThisMatters": "It reinforces the idea that actions can reveal intent and override rabbinic enactments.",
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "הָכָא בְּמַאי עָסְקִינַן, דְּלָא אֲמַר ״אֶקְנֵי״.",
+          "english": "Here, with what are we dealing? That he did not say \"I will acquire it.\""
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְאִי תַּקּוּן רַבָּנַן, כִּי לָא אֲמַר מַאי הָוֵי!",
+          "english": "And if the Sages instituted, if he did not say, what of it!"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כֵּיוָן דְּנָפַל עָלֶיהָ,",
+          "english": "Since he fell upon it,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גַּלִּי דַּעְתֵּיהּ דְּבִנְפִילָה נִיחָא לֵיהּ דְּנִקְנֵי,",
+          "english": "he revealed his mind that in falling it is satisfactory to him that it be…"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "בְּאַרְבַּע אַמּוֹת לָא נִיחָא לֵיהּ דְּנִקְנֵי.",
+          "english": "in four cubits it is not satisfactory to him that it be acquired."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "הָכָא בְּמַאי עָסְקִינַן, דְּלָא אֲמַר ״אֶקְנֵי״",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves"
+    },
+    {
+      "stepNumber": 4,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Four Cubits in Less Crowded Areas",
+      "stepSummary": "Rav Sheshet offers an alternative resolution: the four cubits enactment does not apply in crowded public domains.",
+      "whatsHappening": "רַב שֵׁשֵׁת resolves the difficulty by limiting the enactment. The four cubits rule applies in less crowded alleyways but not in crowded public domains.",
+      "deeperAnalysis": "The enactment aims to prevent quarrels. In a crowded public domain, quarrels are inevitable regardless of the rule, so the enactment is suspended there.",
+      "keyTerms": [
+        {
+          "term": "רַב שֵׁשֵׁת",
+          "meaning": "Rav Sheshet, the Amora offering the resolution"
+        },
+        {
+          "term": "סִמְטָא דְלָא דָחֲקִי רַבָּנַן",
+          "meaning": "An alleyway where the multitudes do not crowd"
+        },
+        {
+          "term": "רְשׁוּת הָרַבִּים דְקָא דָחֲקִי רַבָּנַן",
+          "meaning": "A public domain where the multitudes are crowding"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב שֵׁשֶׁת אָמַר:",
+          "english": "Rav Sheshet said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי תַּקִּינוּ רַבָּנַן,",
+          "english": "When the Sages instituted,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "בְּסִמְטָא דְּלָא דָּחֲקִי רַבִּים.",
+          "english": "in an alleyway where the multitudes do not crowd."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "בִּרְשׁוּת הָרַבִּים דְּקָא דָחֲקִי רַבִּים, לָא תַּקִּינוּ רַבָּנַן.",
+          "english": "In the public domain where the multitudes crowd, the Sages did not institute."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "רַב שֵׁשֶׁת אָמַר: כִּי תַּקִּינוּ רַבָּנַן, בְּסִמְטָא דְּלָא דָּחֲקִי רַבָּנַן",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        34
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "alternative_resolution"
+    },
+    {
+      "stepNumber": 5,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Reish Lakish Said Everywhere",
+      "stepSummary": "The Gemara challenges Rav Sheshet's resolution: Reish Lakish explicitly said 'everywhere', which should include crowded public domains.",
+      "whatsHappening": "The גמרא challenges רַב שֵׁשֵׁת's limitation. רֵישׁ לָקִיש explicitly stated the rule applies בְּכָל מָקוֹם, which seems to include crowded areas.",
+      "deeperAnalysis": "The word בְּכָל מָקוֹם appears absolute. If רֵישׁ לָקִיש meant to exclude crowded areas, why use such inclusive language?",
+      "keyTerms": [
+        {
+          "term": "רֵישׁ לָקִיש",
+          "meaning": "Reish Lakish, the Amora whose statement is being analyzed"
+        },
+        {
+          "term": "בְּכָל מָקוֹם",
+          "meaning": "Everywhere, implying no exceptions"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְהָא בְּכׇל מָקוֹם קָאָמַר!",
+          "english": "And yet he said everywhere!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְהָא בְּכׇל מָקוֹם קָאָמַר!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        36
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "challenges"
+    },
+    {
+      "stepNumber": 6,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Everywhere Includes the Sides",
+      "stepSummary": "The Gemara resolves that 'everywhere' includes the sides of the public domain, which are less crowded.",
+      "whatsHappening": "The גמרא resolves the challenge by redefining בְּכָל מָקוֹם. It refers to the less crowded sides of the public domain, not the crowded center.",
+      "deeperAnalysis": "The term בְּכָל מָקוֹם is interpreted לְאֵיתוֹיֵי צִדֵּי רְשׁוּת הָרַבִּים. This reconciles the absolute wording with the practical limitation of crowding.",
+      "keyTerms": [
+        {
+          "term": "צִדֵּי רְשׁוּת הָרַבִּים",
+          "meaning": "The sides of the public domain, which are less crowded"
+        },
+        {
+          "term": "לְאֵיתוֹיֵי",
+          "meaning": "To include, a technical term for expanding a definition"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "כׇּל מָקוֹם – לְאֵתוֹיֵי צִידֵּי רְשׁוּת הָרַבִּים.",
+          "english": "Every place — to bring in the sides of the public domain."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "כׇּל מָקוֹם – לְאֵתוֹיֵי צִידֵּי רְשׁוּת הָרַבִּים",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        37
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves"
+    },
+    {
+      "stepNumber": 7,
+      "hebrewStepName": "מימרא",
+      "title": "Debate: A Minor's Four Cubits",
+      "stepSummary": "Reish Lakish states a minor has no four cubits, while Rabbi Yochanan states she does.",
+      "whatsHappening": "The sugya shifts to a new topic: whether a קְטַנָּה has four cubits for acquisition. רֵישׁ לָקִיש says no, while רַבִּי יוֹחָנָן says yes.",
+      "deeperAnalysis": "רֵישׁ לָקִיש states a minor has neither a חָצֵר nor four cubits. רַבִּי יוֹחָנָן holds she has both. This establishes a fundamental dispute about a minor's legal capacity.",
+      "keyTerms": [
+        {
+          "term": "קְטַנָּה",
+          "meaning": "A minor girl, lacking full legal capacity"
+        },
+        {
+          "term": "חָצֵר",
+          "meaning": "Courtyard, a domain of acquisition"
+        },
+        {
+          "term": "רַבִּי יוֹחָנָן",
+          "meaning": "Rabbi Yochanan, the Amora arguing for the minor's capacity"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאָמַר רֵישׁ לָקִישׁ מִשּׁוּם אַבָּא כֹּהֵן בַּרְדְּלָא:",
+          "english": "And Reish Lakish says in the name of Abba Kohen Bardela:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "קְטַנָּה אֵין לָהּ חָצֵר,",
+          "english": "A minor girl does not have a courtyard,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְאֵין לָהּ אַרְבַּע אַמּוֹת.",
+          "english": "and she does not have four cubits."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וְרַבִּי יוֹחָנָן מִשּׁוּם רַבִּי יַנַּאי אָמַר:",
+          "english": "And Rabbi Yoḥanan says in the name of Rabbi Yannai:"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "יֵשׁ לָהּ חָצֵר,",
+          "english": "She has a courtyard,"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "וְיֵשׁ לָהּ אַרְבַּע אַמּוֹת.",
+          "english": "and she has four cubits."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "וְאָמַר רֵישׁ לָקִישׁ מִשּׁוּם אַבָּא כֹּהֵן בַּרְדְּלָא: קְטַנָּה אֵין לָהּ חָצֵר",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "none",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:7:1",
+            "hebrew": "קטנה אין לה חצר - אם זרק לה בעלה גט תוך חצרה לא קנתה לה חצרה להתגרש בו וכן אם היתה עומדת ברה\"ר וזרקו לה גט בארבע אמותיה ואע\"ג דגדולה מיגרשה כדתנן (גיטין דף עח.) הזורק גט לאשתו בתוך ביתה כו' היתה עומדת ברה\"ר וזרקו לה קרוב לה מגורשת כו':",
+            "english": "",
+            "takeaway": "רש״י explains that the dispute concerns whether a minor's חצר or ארבע אמות can acquire a גט, noting that an adult woman's ארבע אמות in רה"
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:7:1",
+            "hebrew": "רבי יוחנן אמר יש לה ד' אמות - תימה דלקמן מסיק משום דיליף מציאה מגט אלמא שייך קנין ד' אמות בגט ובפרק הזורק (גיטין דף עח: ושם ד\"ה ר\"י) קאמר ר\"י קרוב לה אפילו מאה אמה ויכולה לשמרו הוי גט וי\"ל דבד' אמות שלה אפילו יכול לשמור כמוה מגורשת וחוץ לד' אמות צריך שתוכל היא לשמרו:",
+            "english": "",
+            "takeaway": "תוספות questions how רבי יוחנן can say a minor has ארבע אמות when later the sugya derives מציאה from גט, implying קנין ד' אמות applies to גט, and resolves that within her ארבע אמות she is divorced even if the thrower can guard it, but outside her ארבע אמות she must be able to guard it herself."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 8,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Hand vs. Agency",
+      "stepSummary": "The Gemara resolves the dispute by attributing it to different views on whether four cubits work via hand or agency.",
+      "whatsHappening": "The גמרא explains the dispute. רַבִּי יוֹחָנָן derives four cubits from יָדָהּ, which a minor possesses. רֵישׁ לָקִיש derives it from שְׁלִיחוּת, which a minor lacks.",
+      "deeperAnalysis": "The dispute hinges on the source of the חָצֵר's power. If it is an extension of the hand, a minor has it. If it is agency, a minor does not.",
+      "keyTerms": [
+        {
+          "term": "יָדָהּ",
+          "meaning": "Her hand, a physical extension of the person"
+        },
+        {
+          "term": "שְׁלִיחוּת",
+          "meaning": "Agency, a legal relationship requiring capacity"
+        },
+        {
+          "term": "אִיתְרַבְּיָא",
+          "meaning": "Is included or derived, indicating the source of the law"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "בְּמַאי קָמִיפַּלְגִי? מָר סָבַר חָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי,",
+          "english": "With regard to what do they disagree? One Sage holds that a courtyard is included due to its hand,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "כִּי הֵיכִי דְּאִית לַהּ יָד –",
+          "english": "Just as she has a hand –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "חָצֵר נָמֵי אִית לַהּ.",
+          "english": "a courtyard also has."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "וּמָר סָבַר חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי,",
+          "english": "And one Sage holds that a courtyard is included due to agency,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "וְכִי הֵיכִי דִּשְׁלִיחוּת לֵית לַהּ –",
+          "english": "And just as agency she does not have –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "חָצֵר נָמֵי לֵית לַהּ.",
+          "english": "a courtyard also she does not have."
+        }
+      ],
+      "classificationConfidence": "High",
+      "triggerLanguage": "בְּמַאי קָמִיפַּלְגִי? מָר סָבַר חָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        39
+      ],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "resolves",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:8:1",
+            "hebrew": "משום ידה אתרבאי - דכתיב ונתן בידה וידה רשותה משמע כדכתיב (במדבר כ״א:כ״ו) ויקח את כל ארצו מידו:",
+            "english": "",
+            "takeaway": "רש״י explains that the term יָדָהּ in the Torah implies a woman's legal authority, derived from the verse ונתן בידה, similar to the usage of יָד in ויקח את כל ארצו מידו."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:8:2",
+            "hebrew": "כי היכי דאית לה יד - דמשיודעת לשמור את גיטה מגורשת דלא מיעט רחמנא אלא שוטה דמשלחה והיא חוזרת:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a minor possesses יָד because she is intelligent enough to guard her גט, and the Torah only excludes a שוטה who sends it away and returns."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:8:3",
+            "hebrew": "משום שליחות איתרבאי - מדרבי רחמנא שליחות לאדם כדתניא (קידושין דף מא.) ושלח מלמד שהאיש עושה שליח ושלחה מלמד שהאשה עושה שליח אתרבאי נמי חצרה דהויא לה כשלוחה:",
+            "english": "",
+            "takeaway": "רש״י explains that the inclusion of a woman's חצר is derived from the concept of שְׁלִיחוּת, as the Torah teaches that a woman can appoint a שָׁלִיחַ, and her חצר functions like a שָׁלִיחַ."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:8:4",
+            "hebrew": "וכי היכי דשליחות לית לה - דתנן שאין הקטן עושה שליח דכי כתיב שליחות בין בגיטין בין בפסח איש כתיב בענין:",
+            "english": "",
+            "takeaway": "רש״י notes that a minor lacks שְׁלִיחוּת because the Torah explicitly uses the word אִישׁ in the contexts of גיטין and פסח, excluding a minor from appointing a שָׁלִיחַ."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 9,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Source of Courtyard Acquisition",
+      "stepSummary": "The Gemara challenges the possibility that a courtyard acquires via agency, citing a ברייתא that derives חצר from the verse 'המצא תמצא' rather than from 'בידו'.",
+      "whatsHappening": "The גמרא challenges the agency model. A ברייתא derives חָצֵר acquisition from the verse הִמָּצֵא תִמָּצֵא, not from בְּיָדוֹ.",
+      "deeperAnalysis": "If חָצֵר were merely שְׁלִיחוּת or יָד, it would be derived differently. The unique verse suggests חָצֵר has an independent source, challenging the previous resolution.",
+      "keyTerms": [
+        {
+          "term": "בְּיָדוֹ",
+          "meaning": "In his hand, the verse typically used for hand-based acquisition"
+        },
+        {
+          "term": "הִמָּצֵא תִמָּצֵא",
+          "meaning": "If the theft shall be found, a repetitive verse used for derivation"
+        },
+        {
+          "term": "בְּרִיתָא",
+          "meaning": "A Baraita, a teaching from the Tannaitic period outside the Mishnah"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מִי אִיכָּא מַאן דְּאָמַר חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי?",
+          "english": "Is there anyone who says that a courtyard is included due to agency?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "וְהָתַנְיָא: ״בְּיָדוֹ״ – אֵין לִי אֶלָּא יָדוֹ.",
+          "english": "And it was taught: 'In his hand' — I have only his hand."
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "גַּגּוֹ, חֲצֵירוֹ וְקַרְפֵּיפוֹ מִנַּיִן –",
+          "english": "His roof, his courtyard, and his enclosure — from where?"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״הִמָּצֵא תִמָּצֵא״, מִכׇּל מָקוֹם.",
+          "english": "Scripture teaches: 'If it is found, it shall be found' — from any place."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "שאלה",
+      "triggerLanguage": "מִי אִיכָא מַאן דְּאָמַר חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבּאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "starts_new_sugya",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:9:1",
+            "hebrew": "ידו - אם המצא תמצא בידו:",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'בְּיָדוֹ' (in his hand) refers to the phrase 'הִמָּצֵא תִמָּצֵא בְיָדוֹ' (if the theft shall be found in his hand), which limits the liability to items found specifically in the thief's hand."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:9:2",
+            "hebrew": "גגו חצרו וקרפיפו מנין - שאם נכנסה שם ונעל בפניה לגונבה שהוא חייב:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the derivation of גגו, חצירו, וקרפיפו from 'הִמָּצֵא תִמָּצֵא' establishes that the thief is liable if the stolen item enters these domains and the door is locked against it, even without direct physical possession."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:9:1",
+            "hebrew": "ת\"ל המצא תמצא מ\"מ - וא\"ת ונימא המצא תמצא כלל בידו פרט וכלל ופרט אין בכלל אלא מה שבפרט וי\"ל שדי ידו בין המצא תמצא וה\"ל כלל ופרט וכלל כדאמרינן במרובה (ב\"ק דף סד: ושם) כל מקום שאתה מוצא שני כללות הסמוכין זה לזה הטל פרט ביניהם וכן בסמוך גבי גט דמרבה גגה מונתן בידה י\"ל ושלחה חזר וכלל:",
+            "english": "",
+            "takeaway": "תוספות addresses the potential hermeneutical objection that 'הִמָּצֵא תִמָּצֵא' (general) followed by 'בְיָדוֹ' (specific) should limit the scope to the hand via כלל ופרט, and resolves it by applying the rule from בבא קמא that when two general terms are adjacent, the specific term between them is treated as a divider, allowing the second general term to expand the scope back to include all places."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 10,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Agency for Transgression",
+      "stepSummary": "The Gemara argues that if חצר is שְׁלִיחוּת, it would imply agency for transgression (שליח לדבר עבירה), which contradicts the principle that there is no agency for transgression.",
+      "whatsHappening": "The גמרא presses the agency model further. If חָצֵר is an agent, a minor acquiring a stolen item via חָצֵר violates אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה.",
+      "deeperAnalysis": "The principle אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה states one cannot send an agent to sin. If חָצֵר is שְׁלִיחוּת, the minor is sending an agent to steal, creating a contradiction.",
+      "keyTerms": [
+        {
+          "term": "אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה",
+          "meaning": "There is no agency for transgression, a fundamental legal principle"
+        },
+        {
+          "term": "שָׁלִיחַ לִדְבַר עֲבֵירָה",
+          "meaning": "An agent appointed to commit a transgression"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וְאִי סָלְקָא דַעְתָּךְ חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבַּאי,",
+          "english": "And if it enters your mind that a courtyard is included due to agency,"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "אִם כֵּן מָצִינוּ שָׁלִיחַ לִדְבַר עֲבֵירָה,",
+          "english": "If so, we have found an agent for a transgression,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְקַיְימָא לַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה!",
+          "english": "And it is established for us: there is no agent for a transgression!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קושיא",
+      "triggerLanguage": "וְאִי סָלְקָא דַעְתָּךְ חָצֵר מִשּׁוּם שְׁלִיחוּת אִיתְרַבּאי, אִם כֵּן מָצִינוּ שָׁלִיחַ לִדְבַר עֲבֵירָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        41
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "follows_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:10:1",
+            "hebrew": "אם כן מצינו תורת שליחות לדבר עבירה - לומר שלוחו כמותו וחייב השולח במעשה השליח:",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase 'אם כן מצינו' implies that if חצר is considered agency, the owner would be held liable for the agent's transgression based on the principle 'שלוחו כמותו'."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:10:2",
+            "hebrew": "וקי\"ל - בקידושין בפ\"ב (דף מב:):",
+            "english": "",
+            "takeaway": "רש״י notes that the principle 'אין שליח לדבר עבירה' is established in קידושין, chapter 2."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:10:1",
+            "hebrew": "ואי משום שליחות א\"כ מצינו שליח לדבר עבירה - וא\"ת מה צריך להוכיח מכח דאין שליח כו' אמאי לא מוכיח מדאתרבאי חצר מקרא דידו כדבסמוך גבי גט מוכיח דחצר משום ידה איתרבאי מדאתרבאי מקרא דידה ולא עביד שום הוכחה וי\"ל דבסמוך מכח התנא מוכיח דמרבה גגה וחצרה כידה להתגרש אפילו בעל כרחה או אפילו היא קטנה ואי מטעם שליחות לא היתה מתגרשת בעל כרחה ולא קטנה אבל הכא אי אפשר להוכיח מכח זה דאפילו בידו אינו קונה הגניבה בעל כרחו ולא אם הוא קטן:",
+            "english": "",
+            "takeaway": "תוספות explains that the Gemara cannot derive the status of חצר from the verse 'ידו' (as it does for גט) because the verse 'ידו' in the context of theft does not apply to acquisition against one's will or by a minor, whereas the verse for גט does apply to those cases."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:10:2",
+            "hebrew": "אין שליח לדבר עבירה - בפ' האיש מקדש (קדושין דף מג.) איכא דיליף משחוטי חוץ דכתיב הוא ולא שלוחו ואיכא דיליף משום דהוה ליה מעילה וטביחה שני כתובים הבאים כאחד דיש שליח ואין מלמדין:",
+            "english": "",
+            "takeaway": "תוספות cites the two derivations for 'אין שליח לדבר עבירה' found in קידושין: one from 'שחוטי חוץ' (he, not his agent) and the other from the principle of 'שני כתובים הבאים כאחד' regarding מעילה and טביחה."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 11,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Liability of the Agent",
+      "stepSummary": "Ravina resolves the difficulty by distinguishing between agents who are subject to liability (בַּר חִיּוּבָא) and those who are not; חצר is not subject to liability, so the sender is liable.",
+      "whatsHappening": "רַבִּינָא resolves the difficulty. The rule אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה only applies when the agent is a בַּר חִיּוּבָא. A חָצֵר is not.",
+      "deeperAnalysis": "רַבִּינָא limits the scope of the agency rule. Since a חָצֵר is לָאו בַּר חִיּוּבָא, the owner remains liable for the acquisition, even if it involves a transgression.",
+      "keyTerms": [
+        {
+          "term": "רַבִּינָא",
+          "meaning": "Ravina, the Amora offering the final resolution"
+        },
+        {
+          "term": "בַּר חִיּוּבָא",
+          "meaning": "Subject to liability, a person capable of bearing legal responsibility"
+        },
+        {
+          "term": "לָאו בַּר חִיּוּבָא",
+          "meaning": "Not subject to liability, lacking legal responsibility"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמַר רָבִינָא:",
+          "english": "Ravina said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֵיכָא אָמְרִינַן דְּאֵין שָׁלִיחַ לִדְבַר עֲבֵירָה –",
+          "english": "Where do we say that there is no agency for a transgression?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֵיכָא דְּשָׁלִיחַ בַּר חִיּוּבָא הוּא,",
+          "english": "Where the agent is subject to liability,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל בְּחָצֵר דְּלָאו בַּר חִיּוּבָא הוּא –",
+          "english": "But in a courtyard that is not subject to liability"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "מִיחַיַּיב שׁוֹלְחוֹ.",
+          "english": "its sender is liable."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אָמַר רָבִינָא: הֵיכָא אָמְרִינַן דְּאֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּשָׁלִיחַ בַּר חִיּוּבָא הוּא",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:11:1",
+            "hebrew": "בר חיובא הוא - שאף הוא מוזהר על הדבר התם פטור השולח דאמרינן ליה דברי הרב ודברי התלמיד דברי מי שומעין ולא היה לו לעשות:",
+            "english": "",
+            "takeaway": "רש״י explains that when the agent is a בַּר חִיּוּבָא (subject to the prohibition), the owner is exempt because the agent should have prioritized the owner's command over the prohibition, implying the agent acted improperly by transgressing."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 12,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Woman and slave as agents",
+      "stepSummary": "The Gemara challenges Ravina's resolution by asking about a woman or slave sent to steal; they are not subject to liability, so should the sender be liable?",
+      "whatsHappening": "The גמרא challenges רבִּינָא's criterion by testing it against a married אִשָּׁה or עֶבֶד. These individuals are not subject to financial liability, so if רבִּינָא's rule holds, the sender should be liable when they steal.",
+      "deeperAnalysis": "The challenge assumes that since a woman or slave lacks financial liability, they fit רבִּינָא's definition of 'לָאו בַּר חִיּוּבָא'. If so, the sender should be liable for their theft. This creates a difficulty because they are people, not a חֲצֵר.",
+      "keyTerms": [
+        {
+          "term": "אִשָּׁה",
+          "meaning": "Woman"
+        },
+        {
+          "term": "עֶבֶד",
+          "meaning": "Slave"
+        },
+        {
+          "term": "לֵית לְהוּ לְשַׁלּוֹמֵי",
+          "meaning": "They have no money to pay"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אֶלָּא מֵעַתָּה, הָאוֹמֵר לְאִשָּׁה וְעֶבֶד:",
+          "english": "But from now, the one who says to a woman and a slave:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "״צְאוּ גִּנְבוּ לִי״ –",
+          "english": "\"Go out, steal for me\" –"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ,",
+          "english": "who are not subject to liability,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָכִי נָמֵי דְּמִיחַיַּיב שׁוֹלְחָן? !",
+          "english": "Is the sender indeed liable?!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קושיא",
+      "triggerLanguage": "אֶלָּא מֵעַתָּה, הָאוֹמֵר לְאִשָּׁה וְעֶבֶד: ״צְאוּ גִנְבוּ לִי״ – דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ, הָכִי נָמֵי דְּמִיחַיַּיב שׁוֹלְחָן?!",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "challenges_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:12:1",
+            "hebrew": "דלאו בני חיובא נינהו - לשלם כדתנן הם שחבלו באחרים פטורין (ב\"ק פז.):",
+            "english": "",
+            "takeaway": "רש״י explains that the phrase דלאו בני חיובא נינהו refers to the fact that a woman and a slave are exempt from paying damages for injuries they cause to others, as stated in בבא קמא."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 13,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Woman and slave are subject to liability",
+      "stepSummary": "The Gemara resolves the challenge by stating that a woman and slave are subject to liability, but currently lack the means to pay; if they gain money, they become liable.",
+      "whatsHappening": "The גמרא resolves the challenge by distinguishing between being subject to liability and having the ability to pay. A woman or slave is 'בַּר חִיּוּבָא' but currently lacks funds.",
+      "deeperAnalysis": "The resolution clarifies that 'בַּר חִיּוּבָא' means subject to liability, not necessarily able to pay. If the woman is divorced or the slave is freed, they become liable to pay. Thus, they do not fit רבִּינָא's criterion for sender liability.",
+      "keyTerms": [
+        {
+          "term": "נִתְגָּרְשָׁה הָאִשָּׁה",
+          "meaning": "The woman was divorced"
+        },
+        {
+          "term": "נִשְׁתַּחְרֵר הָעֶבֶד",
+          "meaning": "The slave was freed"
+        },
+        {
+          "term": "חַיָּיבִין לְשַׁלֵּם",
+          "meaning": "They are liable to pay"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "אָמְרַתְּ אִשָּׁה וְעֶבֶד –",
+          "english": "You said a woman and a slave"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בְּנֵי חִיּוּבָא נִינְהוּ,",
+          "english": "they are subject to liability"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהַשְׁתָּא מִיהָא לֵית לְהוּ לְשַׁלּוֹמֵי.",
+          "english": "and now in any case they do not have to pay"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "דִּתְנַן: נִתְגָּרְשָׁה הָאִשָּׁה, נִשְׁתַּחְרֵר הָעֶבֶד – חַיָּיבִין לְשַׁלֵּם.",
+          "english": "For we learned: If the woman is divorced, if the slave is freed - they are liable to pay."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "אָמְרַתְּ אִשָּׁה וְעֶבֶד – בְּנֵי חִיּוּבָא נִינְהוּ, וְהַשְּׁתָא מִיהָא לֵית לְהוּ לְשַׁלּוֹמֵי",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        44
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "resolves_challenge",
+      "meforshim": {
+        "rashi": [],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:13:1",
+            "hebrew": "אשה ועבד בני חיובא נינהו - ואם תאמר והתנן פרק הכונס (ב\"ק דף נט:) השולח את הבערה ביד חרש שוטה וקטן פטור ואמאי והא לאו בני חיובא נינהו וי\"ל דהתם משום דלאו בני שליחות נינהו:",
+            "english": "",
+            "takeaway": "תוספות addresses the apparent contradiction with a ברייתא in בבא קמא that exempts one who sends fire via a חרש, שוטה, or קטן, explaining that those individuals are not subject to liability because they are not בני שליחות, unlike a woman and slave who are בני חיובא."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 14,
+      "hebrewStepName": "מימרא",
+      "title": "Rav Samma's alternative resolution",
+      "stepSummary": "Rav Samma offers a different resolution: 'אין שליח לדבר עבירה' applies only when the agent has free will; חצר has no free will, so the sender is liable.",
+      "whatsHappening": "רַב שַׁמָּא offers an alternative explanation for the principle 'אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה'. He focuses on the agent's free will rather than liability.",
+      "deeperAnalysis": "רַב שַׁמָּא argues that the principle applies when the agent can choose to act or not. A חֲצֵר has no choice; it is forced. Therefore, the sender is liable when using a חֲצֵר.",
+      "keyTerms": [
+        {
+          "term": "אִי בָעֵי עָבֵיד וְאִי בָעֵי לָא עָבֵיד",
+          "meaning": "If he wants to do, if he wants not to do"
+        },
+        {
+          "term": "בְּעַל כּוּרְחֵיהּ",
+          "meaning": "Against its will / forced"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "רַב סַמָּא אָמַר:",
+          "english": "Rav Samma said:"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "הֵיכָא אָמְרִינַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה –",
+          "english": "Where do we say there is no agency for transgression?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "הֵיכָא דְּאִי בָּעֵי עָבֵיד וְאִי בָּעֵי לָא עָבֵיד,",
+          "english": "Where if he wants he does and if he wants he does not do,"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אֲבָל חָצֵר דִּבְעַל כֻּרְחֵיהּ מוֹתֵיב בַּהּ, מִיחַיַּיב שׁוֹלְחוֹ.",
+          "english": "But a courtyard that against its will one places in it, its sender is liable."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "רַב סַמָּא אָמַר: הֵיכָא אָמְרִינַן אֵין שָׁלִיחַ לִדְבַר עֲבֵירָה – הֵיכָא דְּאִי בָעֵי עָבֵיד וְאִי בָעֵי לָא עָבֵיד",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        42
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "alternative_resolution",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:14:1",
+            "hebrew": "דאי בעי עביד - את השליחות:",
+            "english": "",
+            "takeaway": "רש״י clarifies that the phrase 'אִי בָעֵי עָבֵיד' refers specifically to the act of שליחות itself, meaning the agent has the choice whether to accept or perform the agency."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:14:1",
+            "hebrew": "אי בעי לא עביד - וא\"ת והא דתנן (ב\"ק דף עט. ושם) היה מושכו ויוצא [ומת ברשות בעלים] פטור הגביהו [או הוציאו מרשות בעלים ומת] חייב ופרש\"י בלשון אחד שאמר גנב לשומר שור אחד יש לי בבית פלוני קחנו ותהא עליו שומר חנם הוציאו השומר מרשות בעלים ומת חייב הגנב במשיכת השומר ואמאי והא אי בעי לא עביד וי\"ל כיון שאין השומר יודע שהוא גנוב הוה ליה כחצר דבעל כרחו מותיב ביה:",
+            "english": "",
+            "takeaway": "תוספות raises a difficulty from a case in בבא קמא where a thief sends a שומר חנם to steal an ox, and the שומר is liable even though he could have refused, and resolves it by stating that since the שומר did not know the ox was stolen, his action is considered forced like a חצר, thus making the sender liable."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 15,
+      "hebrewStepName": "שאלה",
+      "title": "Question: Practical difference between Ravina and Rav Samma",
+      "stepSummary": "The Gemara asks for the practical difference between Ravina's and Rav Samma's resolutions.",
+      "whatsHappening": "The גמרא seeks a practical difference between רבִּינָא and רַב שַׁמָּא by proposing cases where the agent has free will but is not subject to the transgression.",
+      "deeperAnalysis": "The גמרא asks 'מַאי בֵּינַיְיהוּ?' and suggests a כֹּהֵן sending a יִשְׂרָאֵל to betroth a אִשָּׁה גְרוּשָׁה, or a man sending a woman to round the corners of a minor's head. In these cases, the agent is not liable for the transgression but has free will.",
+      "keyTerms": [
+        {
+          "term": "כֹּהֵן",
+          "meaning": "Priest"
+        },
+        {
+          "term": "יִשְׂרָאֵל",
+          "meaning": "Israelite"
+        },
+        {
+          "term": "אִשָּׁה גְרוּשָׁה",
+          "meaning": "Divorced woman"
+        },
+        {
+          "term": "אַקִּפִי לִי קָטָן",
+          "meaning": "Round the corners of a minor's head for me"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "מַאי בֵּינַיְיהוּ? אִיכָּא בֵּינַיְיהוּ כֹּהֵן דְּאָמַר לֵיהּ לְיִשְׂרָאֵל:",
+          "english": "What is the difference between them?"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "צֵא וְקַדֵּשׁ לִי אִשָּׁה גְּרוּשָׁה,",
+          "english": "Go out and betroth for me a divorced woman,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "אִי נָמֵי אִישׁ דְּאָמַר לַהּ לְאִשָּׁה:",
+          "english": "Or if a man said to a woman:"
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "אַקִּפִי לִי קָטָן.",
+          "english": "Round for me the head of a minor."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קשיא",
+      "triggerLanguage": "מַאי בֵּינַיְיהוּ? אִיכָא בֵּינַיְיהוּ כֹּהֵן דְּאָמַר לֵיהּ לְיִשְׂרָאֵל: צֵא וְקַדֵּשׁ לִי אִשָּׁה גְרוּשָׁה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        43,
+        46
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "seeks_distinction",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:15:1",
+            "hebrew": "וקדש לי אשה גרושה - ומשעת קידושין עובר משום לא יקחו:",
+            "english": "",
+            "takeaway": "רש״י explains that the Israelite agent violates the prohibition of לא יקחו at the moment of betrothal, establishing him as a בר חיובא."
+          },
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:15:2",
+            "hebrew": "אשה אינה באזהרת לא תקיפו לפי שאינה בבל תשחית פאת זקנך כדאמר בקדושין (ד' לה:) והמקיף את הקטן חייב שהמקיף באזהרה כניקף דכתיב לא תקיפו אחד הניקף ואחד המקיף במשמע במסכת [נזיר] (דף נז:) וקטן דנקט משום דסתמא גדול לא שביק לאקופי נפשיה:",
+            "english": "",
+            "takeaway": "רש״י clarifies that a woman is exempt from the prohibition of לא תקיפו because she is not subject to בל תשחית פאת זקנך, whereas the agent who rounds the minor's hair is liable because the prohibition applies to both the one being rounded and the one doing the rounding, and a minor is specified because an adult would not permit himself to be rounded."
+          }
+        ],
+        "tosafot": [
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:15:1",
+            "hebrew": "דאמר לישראל קדש לי אשה גרושה - וא\"ת ואפי' אמר לכהן נמי וי\"ל דכהן מקרי בר חיובא הואיל ואם מקדשה לעצמו חייב אבל ישראל אע\"ג דעובר משום לפני עור לא תתן מכשול כשמקדשה לכהן כיון דאי מקדשה לעצמו לא מיחייב לא מקרי בר חיובא וא\"ת מאי נ\"מ בין למ\"ד אי בעי עביד ובין למ\"ד שליח בר חיובא לא לקי על הקדושין לרבא דאמר בעשרה יוחסין (קדושין דף עח.) קידש אינו לוקה בעל לוקה וי\"ל דכי בעל אח\"כ לוקה אף על הקדושין כדמוכח בריש תמורה (דף ה. ושם) א\"נ י\"ל דאף לרבא נפקא מינה דאי יש שליחות חלין הקדושין ואי אין שליחות אין חלין הקדושין:",
+            "english": "",
+            "takeaway": "תוספות explains that the case specifies an Israelite agent because a Kohen is inherently a בר חיובא for this prohibition, whereas an Israelite is only considered a בר חיובא in this context because he violates לפני עור לא תתן מכשול, even though he would not be liable if he betrothed the woman for himself."
+          },
+          {
+            "source": "Tosafot",
+            "ref": "Tosafot on Bava Metzia 10b:15:2",
+            "hebrew": "אקפי לי קטן - וה\"ה דהוה מצי למימר אקפי לי גדול אלא שהגדול לא יניח עצמו להקיף כדאמר פרק אלו הן הלוקין (מכות דף כ:) דאחד הניקף ואחד המקיף חייב ואע\"ג דמוקי לה התם כי ניקף מסייע ליה בהדיה היינו משום דבענין אחר לא לקי דהוה לאו שאין בו מעשה אבל הלאו עובר לעולם [ועיין תוס' שבועות ג. ד\"ה ועל הזקן ותוספות נזיר נז: ד\"ה ורב אדא]:",
+            "english": "",
+            "takeaway": "תוספות notes that the Gemara could have used an adult for the rounding case, but an adult would not permit himself to be rounded since both the actor and the recipient are liable, and the minor is used because he does not have the autonomy to refuse."
+          }
+        ],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 16,
+      "hebrewStepName": "תשובה",
+      "title": "Answer: Application of each view to the practical cases",
+      "stepSummary": "The Gemara explains how each view applies to the practical cases: Rav Samma would exempt the sender, Ravina would hold the sender liable.",
+      "whatsHappening": "The גמרא applies each resolution to the proposed cases to show the practical difference.",
+      "deeperAnalysis": "According to רַב שַׁמָּא, the sender is not liable because the agent has free will. According to רבִּינָא, the sender is liable because the agent is not subject to the transgression. This clarifies the practical impact of each view.",
+      "keyTerms": [
+        {
+          "term": "לָא מִיחַיַּיב שׁוֹלְחוֹ",
+          "meaning": "The sender is not liable"
+        },
+        {
+          "term": "מִיחַיַּיב שׁוֹלְחוֹ",
+          "meaning": "The sender is liable"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְהָךְ לִישָּׁנָא דְּאָמַר כֹּל הֵיכָא דְּאִי",
+          "english": "To that language that says: wherever if"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "בָּעֵי עָבֵיד אִי בָּעֵי לָא עָבֵיד",
+          "english": "wants to do, if wants not to do"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "– לָא מִיחַיַּיב שׁוֹלְחוֹ.",
+          "english": "– his sender is not liable."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "הָנֵי נָמֵי אִי בָּעֵי עָבֵיד,",
+          "english": "These too, if wants to do,"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "אִי בָּעֵי לָא עָבֵיד –",
+          "english": "if wants not to do –"
+        },
+        {
+          "phraseNumber": 6,
+          "aramaic": "לָא מִיחַיַּיב שׁוֹלְחָן.",
+          "english": "their sender is not liable."
+        },
+        {
+          "phraseNumber": 7,
+          "aramaic": "לְהָךְ לִישָּׁנָא דְּאָמְרַתְּ כֹּל הֵיכָא דְּשָׁלִיחַ",
+          "english": "To that language that says: wherever the agent"
+        },
+        {
+          "phraseNumber": 8,
+          "aramaic": "לָאו בַּר חִיּוּבָא מִיחַיַּיב שׁוֹלְחוֹ,",
+          "english": "is not subject to liability, his sender is liable,"
+        },
+        {
+          "phraseNumber": 9,
+          "aramaic": "הָנֵי נָמֵי כֵּיוָן דְּלָאו בְּנֵי חִיּוּבָא נִינְהוּ –",
+          "english": "these too, since they are not subject to liability –"
+        },
+        {
+          "phraseNumber": 10,
+          "aramaic": "מִיחַיַּיב שׁוּלְחָן.",
+          "english": "their sender is liable."
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תירוץ",
+      "triggerLanguage": "לְהָךְ לִישָׁנָא דְּאָמַר כֹּל הֵיכָא דְּאִי בָעֵי עָבֵיד אִי בָעֵי לָא עָבֵיד – לָא מִיחַיַּיב שׁוֹלְחוֹ",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        47
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "answers_question"
+    },
+    {
+      "stepNumber": 17,
+      "hebrewStepName": "קשיא",
+      "title": "Challenge: Is חצר not acquired via יד?",
+      "stepSummary": "The Gemara challenges the view that חצר is not acquired via יד, citing a ברייתא that derives חצר from the verse 'ונתן' in the context of גט.",
+      "whatsHappening": "The גמרא raises a new challenge regarding the source of חֲצֵר acquisition, this time from the laws of גֵּט.",
+      "deeperAnalysis": "The גמרא asks if anyone holds that חֲצֵר is not acquired via יָדָהּ. It brings a בְּרֵיתָא that derives the acquisition power of חֲצֵר for a גֵּט from the verse 'וְנָתַן', implying חֲצֵר is an extension of יָדָהּ.",
+      "keyTerms": [
+        {
+          "term": "יָדָהּ",
+          "meaning": "Her hand"
+        },
+        {
+          "term": "וְנָתַן",
+          "meaning": "And he gives"
+        },
+        {
+          "term": "גֵּט",
+          "meaning": "Bill of divorce"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "וּמִי אִיכָּא לְמַאן דְּאָמַר חָצֵר לָאו",
+          "english": "And is there anyone who says that a courtyard is not"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "מִשּׁוּם יָדָהּ אִיתְרַבַּאי?",
+          "english": "because of her hand it is added?"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "וְהָתַנְיָא: ״יָדָהּ״, אֵין לִי אֶלָּא יָדָהּ.",
+          "english": "And it is taught: 'Her hand' — I have only her hand."
+        },
+        {
+          "phraseNumber": 4,
+          "aramaic": "גַּגָּהּ, חֲצֵירָהּ וְקַרְפֵּיפָהּ מִנַּיִן?",
+          "english": "Her roof, her courtyard, and her enclosure — from where?"
+        },
+        {
+          "phraseNumber": 5,
+          "aramaic": "תַּלְמוּד לוֹמַר: ״וְנָתַן״ מִכׇּל מָקוֹם!",
+          "english": "Scripture teaches to say: 'And he gives' — from any place!"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "קושיא",
+      "triggerLanguage": "וּמִי אִיכָא מַאן דְּאָמַר חָצֵר לָאו מִשּׁוּם יָדָהּ אִיתְרַבּאי?",
+      "macroPhase": "opening_question",
+      "branchRole": "opens_new_branch",
+      "dependsOnStepNumbers": [],
+      "scopeOfStep": "source_reading",
+      "relationToPreviousStep": "starts_new_challenge",
+      "meforshim": {
+        "rashi": [
+          {
+            "source": "Rashi",
+            "ref": "Rashi on Bava Metzia 10b:17:1",
+            "hebrew": "תלמוד לומר ונתן מכל מקום - מדלא כתיב ובידה יתנהו דרוש ונתן אוכתב לה ונתן אלמא משום ידה אתרבאי דאי משום שליחות הא כבר כתיבא הכא כדתניא (ושלח) [ושלחה] מלמד שהאשה עושה שליח בקדושין בפרק ב' (דף מא.):",
+            "english": "",
+            "takeaway": "רש״י explains that the verse 'ונתן' is necessary to derive that חצר acquires a גט via יד, because if it were merely via שליחות, the verse 'ושלחה' (which teaches a woman can appoint a messenger for קדושין) would already suffice."
+          }
+        ],
+        "tosafot": [],
+        "rishonim": [],
+        "acharonim": []
+      }
+    },
+    {
+      "stepNumber": 18,
+      "hebrewStepName": "תירוץ",
+      "title": "Resolution: Dispute is about מציאה, not גט",
+      "stepSummary": "The Gemara resolves the challenge by stating that everyone agrees חצר works for גט via יד; the dispute is about מציאה.",
+      "whatsHappening": "The גמרא clarifies that the dispute is not about גֵּט, but about מְצִיאָה.",
+      "deeperAnalysis": "The גמרא states that everyone agrees חֲצֵר works for גֵּט via יָדָהּ. The dispute is about whether חֲצֵר works for מְצִיאָה. One sage holds we derive מְצִיאָה from גֵּט, the other holds we do not.",
+      "keyTerms": [
+        {
+          "term": "מְצִיאָה",
+          "meaning": "Found item"
+        },
+        {
+          "term": "יָלְפִינַן",
+          "meaning": "We derive"
+        }
+      ],
+      "phrases": [
+        {
+          "phraseNumber": 1,
+          "aramaic": "לְעִנְיַן גֵּט כּוּלֵּי עָלְמָא לָא פְּלִיגִי",
+          "english": "Regarding a bill of divorce, all the world does not disagree"
+        },
+        {
+          "phraseNumber": 2,
+          "aramaic": "דְּחָצֵר מִשּׁוּם יָדָהּ אִיתְרַבַּאי,",
+          "english": "Because the courtyard is included due to her hand,"
+        },
+        {
+          "phraseNumber": 3,
+          "aramaic": "כִּי פְּלִיגִי לְעִנְיַן מְצִיאָה. מָר סָבַר:",
+          "english": "When they disagree, it is regarding a found object. One Sage holds:"
+        }
+      ],
+      "classificationConfidence": "High",
+      "alternativePossibleLabel": "תשובה",
+      "triggerLanguage": "לְעִנְיַן גֵּט כּוּלֵּי עָלְמָא לָא פְּלִיגִי דְּחָצֵר מִשּׁוּם יָדָהּ אִיתְרַבּאי, כִּי פְּלִיגִי לְעִנְיַן מְצִיאָה",
+      "macroPhase": "opening_question",
+      "branchRole": "continues_current_line",
+      "dependsOnStepNumbers": [
+        49
+      ],
+      "scopeOfStep": "proof_mechanism",
+      "relationToPreviousStep": "resolves_challenge"
+    }
+  ],
+  "pipelineVersion": "py-window-1",
+  "generatedAt": "2026-05-13T04:48:15.000Z",
+  "modelsUsed": {
+    "segmentation": "lmstudio/qwen/qwen3.6-27b",
+    "structure": "lmstudio/qwen/qwen3.6-27b",
+    "translate": "lmstudio/qwen/qwen3.6-27b",
+    "meforshim": "lmstudio/qwen/qwen3.6-27b",
+    "teaching": "lmstudio/qwen/qwen3.6-27b"
+  },
+  "cost": {
+    "totalUSD": 0.0,
+    "totalInputTokens": 0,
+    "totalOutputTokens": 0,
+    "byPass": {
+      "segmentation": 85.10952220001491,
+      "structure": 1996.5942505000276,
+      "translate": 445.1253804999287,
+      "meforshim": 724.9703738000244,
+      "teaching": 1083.9219425000483
+    }
+  }
+}
