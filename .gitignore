@@ -3,6 +3,11 @@ dist
 .env
 .env.local
 .DS_Store
+tsconfig.tsbuildinfo
+
+# Firebase Functions build output
+functions/lib
+functions/node_modules
 
 # Runtime logs — volatile, not source
 *.log

@@ -156,7 +156,7 @@ PASS_VALIDATE_PROVIDER=openai
 
 # Per-provider model overrides (optional)
 ANTHROPIC_MODEL=claude-opus-4-7
-OPENAI_MODEL=gpt-5
+OPENAI_MODEL=gpt-5.5
 GOOGLE_MODEL=gemini-2.5-pro
 ```
 

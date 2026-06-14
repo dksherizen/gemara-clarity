@@ -16,7 +16,7 @@ export class OpenAIAdapter implements LLMAdapter {
 
   constructor(cfg: OpenAIAdapterConfig) {
     this.provider = cfg.provider ?? "openai";
-    this.model = cfg.model ?? (this.provider === "lmstudio" ? "local-model" : "gpt-5");
+    this.model = cfg.model ?? (this.provider === "lmstudio" ? "local-model" : "gpt-5.5");
     this.client = new OpenAI({
       apiKey: cfg.apiKey || "lm-studio-no-key",
       baseURL: cfg.baseURL,

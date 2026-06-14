@@ -225,7 +225,7 @@ export function App() {
             onJump={(file, stepNumber) => {
               const entry = library.entries.find((e) => e.file === file);
               if (entry) {
-                selectDaf(entry);
+                selectDaf(entry.file);
                 if (stepNumber !== undefined) {
                   // Defer scroll until the daf loads
                   setTimeout(() => {

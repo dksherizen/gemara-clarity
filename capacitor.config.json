@@ -1,0 +1,8 @@
+{
+  "appId": "com.gemaraclarity.app",
+  "appName": "Gemara Clarity",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
